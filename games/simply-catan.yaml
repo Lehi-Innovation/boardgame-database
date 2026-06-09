@@ -6,7 +6,7 @@ year: 2006
 # Relationships
 game_family: catan
 edition: null
-base_game: settlers-of-catan
+base_game: catan
 expansions: []
 compatible_with: []
 
