@@ -80,7 +80,7 @@ games:
   - id: el-grande
     name: El Grande
     year: 1996
-  - id: settlers-of-catan
+  - id: catan
     name: The Settlers of Catan
     year: 1995
   - id: manhattan

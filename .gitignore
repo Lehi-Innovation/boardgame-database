@@ -33,3 +33,7 @@ temp/
 dist/
 build/
 games.db
+
+# Python bytecode
+__pycache__/
+*.pyc
