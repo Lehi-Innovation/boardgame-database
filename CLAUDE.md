@@ -295,6 +295,8 @@ python3 scripts/update_master_status.py --backfill
 - `scripts/progress.py` — tracks game entries vs `master_list.csv`; uses `sources/lists/` for prioritization
 - `scripts/update_master_status.py` — update `master_list.csv` status/notes/yaml_id; supports single, batch (JSON), and `--backfill` modes
 - `scripts/image_manager.py` — image coverage tracking
+- `scripts/fetch_image.py` — download an image, validate format/resolution, save with the canonical `Game Name (Year)` filename, and record provenance in `images/sources.yaml` (see `images/FAIR_USE.md` for licensing and `images/ACQUISITION_PLAN.md` for strategy)
+- `scripts/normalize_publishers.py` — collapse publisher-name variants to canonical strings across `games/*.yaml` (run after bulk additions; supports `--dry-run`)
 - `scripts/scrape_wikidata.py` — populates `master_list.csv` from Wikidata SPARQL
 - `scripts/game_pipeline.py` — research pipeline used by the `game-researcher` agent: fetches URLs, strips HTML to clean text, caches in `pipeline_cache.db`. Returns clean text per source; the calling agent handles all structured data extraction. Use `--log SLUG` to auto-append provenance entries to `sources/research-log.yaml`.
 - `scripts/html_preprocessor.py` — HTML → clean text (Trafilatura + BS4 fallback), truncated to 3000 chars per source
