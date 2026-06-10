@@ -446,6 +446,41 @@ Full rating system implemented:
 
 ---
 
+## Session 17 - Data Reconciliation + Image Acquisition Scoping (Phase 0)
+
+**Date:** June 9-10, 2026
+**Branch/PR:** `claude/festive-heisenberg-9al03z` → PR #6 (draft)
+
+### What Was Accomplished
+
+**Duplicate game reconciliation** (fixed the "2 not in master list" orphan warning):
+- **Catan** had 2 files → merged into `catan.yaml` (deleted `settlers-of-catan.yaml`)
+- **Legends of Andor** had 3 files → kept `legends-of-andor.yaml`, deleted `andor.yaml` and `the-legends-of-andor.yaml`
+- Fixed duplicate master-list rows, a `base_game` ref, and a source-list id. 0 orphans; master list de-duplicated.
+
+**Image acquisition — decision + Phase 0 foundations:**
+- **Decision (owner): documented fair-use scope.** Whole ~4,000-game catalog now in scope (BGG/user-uploaded hosts still banned). Source preference: press kit > permission > CC/public-domain > documented fair use.
+- **Publisher normalization** (`scripts/normalize_publishers.py`): collapsed name variants across 198 files; distinct publishers **981 → 917** (Kosmos+KOSMOS→67, seven SPI spellings→118, dropped bogus `Unknown`).
+- **`scripts/fetch_image.py`**: download → validate (format + ≥500×500, header-based, no PIL) → save canonical filename → record provenance in `sources.yaml`.
+- **Validation cleanup**: removed a 1×1 broken `7 Wonders: Duel` jpg and a lower-res `A Feast for Odin` jpg dup. Also fixed 5 earlier filename mismatches (coverage 9→13).
+- **Docs**: `images/ACQUISITION_PLAN.md` (scoping/channels/phasing), `images/FAIR_USE.md` (policy + license values), updated `images/README.md` + `CLAUDE.md`.
+
+### Progress
+- **Completion: 4,076/4,239 (96.2%)**, Remaining: 0
+- **Image coverage: 13/4,013 (0.3%)**
+
+### TODO / Next Steps (image acquisition)
+1. **Phase 1 — self-service harvest (highest leverage):**
+   - Send the **Asmodee bulk request** early (`pr@asmodeena.com`) — long turnaround, unlocks ~375 games (FFG, Z-Man, Days of Wonder, Lookout, Hans im Glück, Plan B, Mayfair, Repos). Gmail integration is available to draft/track.
+   - Script downloads from self-service press kits (~361 games): CGE, Pandasaurus, Leder, Repos, Awaken Realms, KOSMOS, Matagot, CMON, Ravensburger, Renegade. Update `publishers.yaml` status as worked.
+2. **Phase 2 — email outreach** to Tier 3 publishers (~200 games): Rio Grande, GMT, Stonemaier, Eagle-Gryphon, Feuerland, Roxley, AEG, Garphill, Devir.
+3. **Phase 3 — long tail** (~3,050 games): Wikimedia/CC first, then documented fair use. Best target for batch automation.
+4. **Two open decisions** (don't block Phase 1): resolution target (web-res vs print-res); automation appetite (scraping vs manual).
+5. **Missing game**: `Clank! Legacy: Acquisitions Incorporated` (2019) has an image on disk but no catalog entry — add it.
+6. **PR housekeeping**: PR #6's title/description predate Phase 0 (GitHub MCP was disconnected when pushed) — broaden them to mention the acquisition scoping when convenient.
+
+---
+
 ## File Counts
 
 Run `python3 scripts/progress.py 0` for live stats. Snapshot as of March 2026:
