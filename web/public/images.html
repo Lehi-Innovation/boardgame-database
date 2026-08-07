@@ -7,28 +7,8 @@
   <link rel="stylesheet" href="/css/common.css">
   <style>
     /* Page-specific styles */
-    .page-header {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-lg);
-      padding: 24px;
-      margin-bottom: 24px;
-    }
-
-    .header-info {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 16px;
-      margin-top: 16px;
-    }
-
-    .stats { font-size: 16px; color: var(--text-muted); }
-    .stats strong { color: var(--accent); font-size: 18px; }
-
-    .search-bar { flex: 1; min-width: 250px; }
-    .search-bar input { width: 100%; }
+    .search-row { margin-top: 18px; }
+    .search-row input { width: 100%; max-width: 460px; }
 
     /* Game Grid */
     .game-grid {
@@ -41,19 +21,20 @@
     /* Game Card */
     .game-card {
       background: var(--surface);
-      border: 1px solid var(--border);
+      border: 1px solid var(--border-soft);
       border-radius: var(--radius-lg);
       overflow: hidden;
       transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
       display: flex;
       flex-direction: column;
       cursor: pointer;
+      box-shadow: var(--shadow-1);
     }
 
     .game-card:hover {
       transform: translateY(-2px);
-      border-color: var(--accent);
-      box-shadow: 0 4px 20px rgba(230,184,79,0.1);
+      border-color: rgba(230, 181, 78, 0.45);
+      box-shadow: var(--shadow-1), var(--shadow-glow);
     }
 
     .game-card.uploading { opacity: 0.7; pointer-events: none; }
@@ -77,8 +58,16 @@
     }
 
     .image-area.drag-over {
-      background-color: rgba(230,184,79,0.1);
-      border-color: var(--accent);
+      background-color: rgba(230, 181, 78, 0.09);
+    }
+
+    .image-area.drag-over::after {
+      content: '';
+      position: absolute;
+      inset: 8px;
+      border: 2px dashed var(--accent);
+      border-radius: var(--radius-md);
+      pointer-events: none;
     }
 
     .image-placeholder {
@@ -89,14 +78,19 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      background: var(--elevated);
-      color: var(--text-muted);
+      background:
+        radial-gradient(180px 150px at 50% 40%, rgba(230, 181, 78, 0.06), transparent 70%),
+        var(--elevated);
+      color: var(--text-faint);
       font-size: 13px;
       text-align: center;
       padding: 20px;
+      transition: color 0.15s;
     }
 
-    .image-placeholder svg { width: 36px; height: 36px; margin-bottom: 8px; opacity: 0.4; }
+    .game-card:hover .image-placeholder { color: var(--text-muted); }
+
+    .image-placeholder svg { width: 36px; height: 36px; margin-bottom: 8px; opacity: 0.45; }
 
     .loading-spinner {
       position: absolute;
@@ -160,17 +154,19 @@
     .btn-upload {
       flex: 1;
       padding: 7px 12px;
-      background: var(--accent);
-      color: var(--bg);
+      background: linear-gradient(180deg, var(--accent-strong), var(--accent));
+      color: #241b0d;
       border: none;
       border-radius: var(--radius-md);
       font-size: 12px;
       font-weight: 600;
+      letter-spacing: 0.01em;
       cursor: pointer;
       transition: background 0.15s;
       text-align: center;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
     }
-    .btn-upload:hover { background: #d4a73e; }
+    .btn-upload:hover { background: linear-gradient(180deg, var(--accent), var(--accent-deep)); }
 
     input[type="file"] { display: none; }
 
@@ -186,11 +182,12 @@
     }
     .empty-state h2 { color: var(--text); margin-bottom: 8px; }
 
-    /* Modal overrides for dark theme */
+    /* Modal (aligned with common.css tokens) */
     .modal-overlay {
       position: fixed; inset: 0; z-index: 2000;
-      background: rgba(10,10,20,0.8);
-      backdrop-filter: blur(6px);
+      background: var(--overlay);
+      backdrop-filter: blur(7px);
+      -webkit-backdrop-filter: blur(7px);
       display: flex; align-items: center; justify-content: center;
       padding: 20px; overflow-y: auto;
       animation: fadeIn 0.2s ease-out;
@@ -201,14 +198,14 @@
       border: 1px solid var(--border);
       border-radius: var(--radius-xl);
       max-width: 900px; width: 100%; max-height: 90vh; overflow-y: auto;
-      box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+      box-shadow: var(--shadow-2);
       animation: slideUp 0.25s ease-out;
     }
 
     .modal-header {
       display: flex; justify-content: space-between; align-items: center;
       padding: 20px 24px;
-      border-bottom: 1px solid var(--border);
+      border-bottom: 1px solid var(--border-soft);
       position: sticky; top: 0;
       background: var(--surface);
       border-radius: var(--radius-xl) var(--radius-xl) 0 0;
@@ -217,7 +214,7 @@
 
     .modal-title {
       font-family: var(--font-heading);
-      font-size: 22px; color: var(--text);
+      font-size: 23px; color: var(--text);
     }
 
     .modal-close-btn {
@@ -231,11 +228,15 @@
     .modal-close-btn:hover { background: var(--elevated); color: var(--text); }
 
     .modal-content { padding: 24px; }
-    .modal-section { margin-bottom: 24px; }
+    .modal-section { margin-bottom: 26px; }
     .modal-section:last-child { margin-bottom: 0; }
     .modal-section-title {
-      font-size: 11px; font-weight: 700; color: var(--text-muted);
-      text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;
+      font-size: 11px; font-weight: 700; color: var(--text-faint);
+      text-transform: uppercase; letter-spacing: 0.09em; margin-bottom: 10px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .modal-section-title::after {
+      content: ''; flex: 1; height: 1px; background: var(--border-soft);
     }
 
     .modal-two-column { display: grid; grid-template-columns: 200px 1fr; gap: 20px; align-items: start; }
@@ -281,7 +282,12 @@
   <!-- Navigation -->
   <header class="site-header">
     <div class="site-header-inner">
-      <div class="site-title">Board Game Database</div>
+      <div class="site-title">
+        <svg class="brand-mark" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 2.2 C13.93 2.2 15.5 3.77 15.5 5.7 C15.5 6.73 15.05 7.66 14.34 8.3 C15.49 8.78 16.55 9.47 17.5 10.32 C18.45 11.18 19.9 11.4 20.85 12.3 C21.58 13 22 13.97 22 15 V16.5 H14.62 C15.07 17.87 15.94 19.08 16.85 20.2 C17.2 20.63 17.4 21.17 17.4 21.72 C17.4 21.87 17.28 22 17.12 22 H13.4 C13.1 20.4 12.8 18.9 12 18.5 C11.2 18.9 10.9 20.4 10.6 22 H6.88 C6.72 22 6.6 21.87 6.6 21.72 C6.6 21.17 6.8 20.63 7.15 20.2 C8.06 19.08 8.93 17.87 9.38 16.5 H2 V15 C2 13.97 2.42 13 3.15 12.3 C4.1 11.4 5.55 11.18 6.5 10.32 C7.45 9.47 8.51 8.78 9.66 8.3 C8.95 7.66 8.5 6.73 8.5 5.7 C8.5 3.77 10.07 2.2 12 2.2 Z"/>
+        </svg>
+        <span>Board Game <span class="brand-thin">Database</span></span>
+      </div>
       <nav class="site-nav">
         <a href="/">Games</a>
         <a href="/images" class="active">Images</a>
@@ -291,21 +297,32 @@
   </header>
 
   <div class="container">
-    <!-- Page Header -->
-    <div class="page-header">
+    <!-- Page Hero -->
+    <div class="page-hero">
       <h1>Image Manager</h1>
-      <div class="header-info">
-        <div class="stats">
-          <strong id="images-count">0</strong> of <strong id="games-count">0</strong> games have images
+      <p class="hero-sub">Drag box art onto a card — it's saved under the canonical <em>Game Name (Year)</em> filename.</p>
+      <div class="stat-row">
+        <div class="stat-tile">
+          <div class="stat-value gold" id="images-count">0</div>
+          <div class="stat-label">With Images</div>
         </div>
-        <div class="search-bar">
-          <input
-            type="text"
-            id="search-input"
-            placeholder="Search games by name, designer, category..."
-            aria-label="Search games"
-          >
+        <div class="stat-tile">
+          <div class="stat-value" id="missing-count">0</div>
+          <div class="stat-label">Missing</div>
         </div>
+        <div class="stat-tile coverage-tile">
+          <div class="stat-value" id="coverage-pct">0%</div>
+          <div class="stat-label">Coverage of <span id="games-count">0</span> games</div>
+          <div class="meter"><div class="meter-fill" id="coverage-meter" style="width:0%"></div></div>
+        </div>
+      </div>
+      <div class="search-row">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search games by name, designer, category..."
+          aria-label="Search games"
+        >
       </div>
     </div>
 
@@ -344,6 +361,9 @@
     const searchInput = document.getElementById('search-input');
     const gamesCountEl = document.getElementById('games-count');
     const imagesCountEl = document.getElementById('images-count');
+    const missingCountEl = document.getElementById('missing-count');
+    const coveragePctEl = document.getElementById('coverage-pct');
+    const coverageMeterEl = document.getElementById('coverage-meter');
     const toastContainer = document.getElementById('toast-container');
 
     // Rating Labels
@@ -476,16 +496,12 @@
 
       const imageDiv = document.createElement('div');
       imageDiv.className = 'modal-image';
-      if (game.has_image) {
+      if (game.image_url) {
         const img = document.createElement('img');
-        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.src = game.image_url;
         img.alt = game.name;
-        let attempts = 0;
         img.onerror = () => {
-          attempts++;
-          if (attempts === 1) img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`;
-          else if (attempts === 2) img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).webp`;
-          else imageDiv.innerHTML = '<div class="modal-image-placeholder"><div>Image not found</div></div>';
+          imageDiv.innerHTML = '<div class="modal-image-placeholder"><div>Image not found</div></div>';
         };
         imageDiv.appendChild(img);
       } else {
@@ -633,11 +649,44 @@
       renderGames();
     }
 
+    // Incremental rendering — the full catalog is 4,000+ cards, so render in
+    // chunks and let an IntersectionObserver append more as the user scrolls.
+    const RENDER_CHUNK = 120;
+    let renderedCount = 0;
+    let loadObserver = null;
+    let gridSentinel = null;
+
     function renderGames() {
       gameGrid.innerHTML = '';
+      renderedCount = 0;
+      if (loadObserver) { loadObserver.disconnect(); }
+      if (gridSentinel) { gridSentinel.remove(); gridSentinel = null; }
       if (filteredGames.length === 0) { emptyState.style.display = 'block'; return; }
       emptyState.style.display = 'none';
-      filteredGames.forEach(game => gameGrid.appendChild(createGameCard(game)));
+      appendChunk();
+    }
+
+    function appendChunk() {
+      const next = filteredGames.slice(renderedCount, renderedCount + RENDER_CHUNK);
+      const frag = document.createDocumentFragment();
+      next.forEach(game => frag.appendChild(createGameCard(game)));
+      gameGrid.appendChild(frag);
+      renderedCount += next.length;
+
+      if (gridSentinel) { gridSentinel.remove(); gridSentinel = null; }
+      if (loadObserver) loadObserver.disconnect();
+      if (renderedCount < filteredGames.length) {
+        gridSentinel = document.createElement('div');
+        gridSentinel.style.height = '1px';
+        gameGrid.after(gridSentinel);
+        if (!loadObserver) {
+          loadObserver = new IntersectionObserver(
+            (entries) => { if (entries.some(e => e.isIntersecting)) appendChunk(); },
+            { rootMargin: '900px' }
+          );
+        }
+        loadObserver.observe(gridSentinel);
+      }
     }
 
     function createGameCard(game) {
@@ -648,11 +697,11 @@
 
       const imageArea = document.createElement('div');
       imageArea.className = 'image-area';
-      if (game.has_image) {
+      if (game.image_url) {
         const img = document.createElement('img');
-        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.src = game.image_url;
         img.alt = game.name;
-        img.onerror = () => { img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`; };
+        img.loading = 'lazy';
         imageArea.appendChild(img);
       } else {
         imageArea.innerHTML = '<div class="image-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg><div>Drop image here or click to upload</div></div>';
@@ -753,8 +802,14 @@
     }
 
     function updateStats() {
-      gamesCountEl.textContent = allGames.length;
-      imagesCountEl.textContent = allGames.filter(g => g.has_image).length;
+      const total = allGames.length;
+      const have = allGames.filter(g => g.has_image).length;
+      const pct = total > 0 ? Math.round((have / total) * 100) : 0;
+      gamesCountEl.textContent = total.toLocaleString();
+      imagesCountEl.textContent = have.toLocaleString();
+      missingCountEl.textContent = (total - have).toLocaleString();
+      coveragePctEl.textContent = (total > 0 && have > 0 && pct === 0 ? '<1' : pct) + '%';
+      coverageMeterEl.style.width = Math.max(pct, have > 0 ? 1 : 0) + '%';
     }
 
     function showToast(message, type = 'success') {

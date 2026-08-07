@@ -2,7 +2,7 @@
 
 ## High Priority
 
-- [ ] Revamp look and feel
+- [x] Revamp look and feel — warm dark theme across all three web pages (2026-08-06)
 - [ ] Build remaining source lists
   - [ ] Dicebreaker Top 100
   - [ ] Shut Up & Sit Down Recommendations

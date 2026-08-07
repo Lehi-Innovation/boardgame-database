@@ -23,6 +23,14 @@ async function loadAllGames() {
     const files = fs.readdirSync(GAMES_DIR).filter(f => f.endsWith('.yaml'));
     const games = [];
 
+    // Scan the images directory once (lowercased basename -> actual filename)
+    let imageMap = new Map();
+    try {
+      imageMap = new Map(
+        fs.readdirSync(IMAGES_DIR).map(f => [path.parse(f).name.toLowerCase(), f])
+      );
+    } catch (_) { /* no images dir */ }
+
     for (const file of files) {
       try {
         const filePath = path.join(GAMES_DIR, file);
@@ -30,8 +38,10 @@ async function loadAllGames() {
         const gameData = yaml.load(content);
 
         if (gameData && gameData.id) {
-          // Check if image exists for this game
-          const hasImage = checkImageExists(gameData);
+          // Resolve this game's image file (exact basename, any extension)
+          const imageFile = (gameData.name && gameData.year != null)
+            ? imageMap.get(`${gameData.name} (${gameData.year})`.toLowerCase()) || null
+            : null;
 
           games.push({
             id: gameData.id,
@@ -42,7 +52,8 @@ async function loadAllGames() {
             categories: gameData.categories || [],
             evokes: gameData.evokes || [],
             description: gameData.description,
-            has_image: hasImage,
+            has_image: imageFile != null,
+            image_url: imageFile ? `/api/images/${encodeURIComponent(imageFile)}` : null,
             playtime_minutes: gameData.playtime_minutes,
             min_age: gameData.min_age,
             possible_counts: gameData.possible_counts || [],

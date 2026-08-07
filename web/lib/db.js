@@ -11,7 +11,7 @@ const initSqlJs = require('sql.js');
 const DB_PATH = path.join(__dirname, '..', '..', 'games.db');
 const IMAGES_DIR = path.join(__dirname, '..', '..', 'images');
 
-// Cache image filenames (lowercased, without extension) for quick lookup
+// Cache image filenames (lowercased basename -> actual filename) for quick lookup
 let imageNamesCache = null;
 let imageCacheTime = 0;
 
@@ -21,18 +21,26 @@ function getImageNames() {
   if (imageNamesCache && now - imageCacheTime < 30000) return imageNamesCache;
   try {
     const files = fs.readdirSync(IMAGES_DIR);
-    imageNamesCache = new Set(files.map(f => path.parse(f).name.toLowerCase()));
+    imageNamesCache = new Map(files.map(f => [path.parse(f).name.toLowerCase(), f]));
     imageCacheTime = now;
   } catch (_) {
-    imageNamesCache = new Set();
+    imageNamesCache = new Map();
   }
   return imageNamesCache;
 }
 
+function imageFileFor(name, year) {
+  if (!name || !year) return null;
+  return getImageNames().get(`${name} (${year})`.toLowerCase()) || null;
+}
+
 function hasImage(name, year) {
-  if (!name || !year) return false;
-  const key = `${name} (${year})`.toLowerCase();
-  return getImageNames().has(key);
+  return imageFileFor(name, year) != null;
+}
+
+function imageUrl(name, year) {
+  const file = imageFileFor(name, year);
+  return file ? `/api/images/${encodeURIComponent(file)}` : null;
 }
 
 // Schema cross-reference for categorizing filter options
@@ -269,7 +277,12 @@ function getFilteredGames(filters = {}, sort = 'name', dir = 'asc', page = 1, pe
 
   const gameIds = rows.map(r => r.id);
   const arrays = batchFetchArrays(gameIds);
-  const games = rows.map(row => ({ ...row, ...arrays.get(row.id), has_image: hasImage(row.name, row.year) }));
+  const games = rows.map(row => ({
+    ...row,
+    ...arrays.get(row.id),
+    has_image: hasImage(row.name, row.year),
+    image_url: imageUrl(row.name, row.year)
+  }));
 
   return { games, total, page, per_page: perPage, total_pages: totalPages };
 }
@@ -279,7 +292,12 @@ function getGameById(id) {
   const row = queryOne('SELECT * FROM games WHERE id = ?1', [id]);
   if (!row) return null;
   const arrays = batchFetchArrays([id]);
-  return { ...row, ...arrays.get(id), has_image: hasImage(row.name, row.year) };
+  return {
+    ...row,
+    ...arrays.get(id),
+    has_image: hasImage(row.name, row.year),
+    image_url: imageUrl(row.name, row.year)
+  };
 }
 
 function getFilterOptions() {
