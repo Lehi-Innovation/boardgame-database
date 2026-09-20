@@ -1,0 +1,52 @@
+id: yokohama
+name: "Yokohama"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Route Building
+  - Resource Management
+  - Economic
+  - Historical
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 14
+
+description: |
+  Yokohama is a worker placement and route-building game designed by Hisashi Hayashi and published by OKAZU Brand and Tasty Minstrel Games in 2016, set in Meiji-era Japan during the opening of the city of Yokohama to foreign trade. Players build merchant networks by placing president and assistant tokens across a modular city grid, using adjacency of their assistants to the president's location to determine available actions. Managing imports, exports, foreign contacts, and church influence creates a richly textured economic puzzle. The cleverly constrained placement system ensures that positioning and movement feel uniquely satisfying compared to standard worker placement games.
+
+upgrades: []

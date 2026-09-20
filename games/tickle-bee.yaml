@@ -1,0 +1,50 @@
+id: tickle-bee
+name: "Tickle Bee"
+alternate_names: []
+year: 1956
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Schaper
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Tickle Bee is a vintage magnetic maze game from the 1950s by Schaper, designed for young children. Players use a magnetic pen to guide a bee piece through a maze-like track on the game board, navigating without touching the sides. The simple dexterity challenge makes it suitable as a first game for very young children, and vintage editions are now collectible items prized by nostalgia enthusiasts.
+
+upgrades: []

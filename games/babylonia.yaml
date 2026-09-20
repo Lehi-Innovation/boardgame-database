@@ -1,0 +1,54 @@
+id: babylonia
+name: "Babylonia"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Modular Board
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ludonova
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Babylonia is a 2019 tile-placement game by Reiner Knizia set in the Neo-Babylonian era, where players compete to make their clans prosper. On their turn, players place noble, priest, and craftsman tokens on a map to build long chains linking them to cities, as scoring relies heavily on creating and extending these chains. Positioning next to the court grants access to special ruler powers, while peasants placed in fertile areas add value to crops at scoring. With elegantly simple rules concealing genuine strategic depth, Babylonia exemplifies Knizia's ability to distill complex interactions into clean, tense decisions.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: war-of-the-ring-second-edition
+name: "War of the Ring (Second Edition)"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: war-of-the-ring
+edition: second
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Hand Management
+  - Asymmetric
+  - Variable Player Powers
+  - Hex Map
+  - Wargame
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Roberto Di Meglio
+  - Marco Maggi
+  - Francesco Nepitello
+publisher:
+  - Ares Games
+artist:
+  - John Howe
+  - Jan Pospisil
+playtime_minutes: 180
+min_playtime: 150
+max_playtime: 210
+min_age: 13
+
+description: |
+  War of the Ring (Second Edition) is an epic asymmetric wargame set in J.R.R. Tolkien's Middle-earth, pitting the Shadow player commanding Sauron's vast armies against the Free Peoples player guiding the Fellowship of the Ring toward Mount Doom. One player wins through military conquest, corrupting the Ringbearer, or overwhelming the free cities, while the other seeks to advance the Fellowship in secret and destroy the One Ring. An action-dice system drives each turn, with players allocating dice results to mobilize armies, muster forces, or advance the Fellowship, creating constant tension between military and narrative priorities. The 2011 Ares Games second edition refined the first edition's rules, improved components, and added expansions for lords and warriors of Middle-earth, cementing it as one of the definitive thematic board games.
+
+upgrades: []

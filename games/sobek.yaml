@@ -1,0 +1,60 @@
+id: sobek
+name: "Sobek"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Take That
+  - Euro
+  - Ancient
+  - Gateway
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Bruno Cathala
+publisher:
+  - GameWorks
+artist:
+  - Matthieu Beaulieu
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Sobek is a set-collection card game by Bruno Cathala set in ancient Egypt along the Nile. Players gather
+  precious merchandise — ivory, marble, ebony, wheat, fish, and cattle — arriving by boat, then bundle matching
+  goods into lots to sell for profit. On each turn, players take a card, play a powerful character card, or
+  sell a family of three or more matching goods; a corruption mechanic penalizes those who grab too many cards
+  in a single turn. The interplay of timing, card selection, and character powers creates a tight, elegant
+  competition.
+
+upgrades: []

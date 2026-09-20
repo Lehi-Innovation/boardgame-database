@@ -1,0 +1,62 @@
+id: the-legend-of-robin-hood-1979
+name: "The Legend of Robin Hood"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Hidden Movement
+  - Wargame
+  - Historical
+  - Medieval
+
+evokes:
+  - Tension
+  - Rivalry
+  - Mystery
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Joe Bislo
+publisher:
+  - Operational Studies Group
+artist:
+  - Larry Catalona
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  The Legend of Robin Hood is a 1979 asymmetric two-player microgame originally published by
+  Operational Studies Group (OSG) and later republished by Avalon Hill in 1983. One player
+  commands Robin Hood and his Merry Men operating in Sherwood Forest, while the other plays the
+  Sheriff of Nottingham hunting them down. An area movement system handles terrain, a simple
+  personal combat structure resolves confrontations, and a recruitment mechanic lets Robin Hood
+  gather outlaws. The two sides play entirely differently from one another, creating a true
+  cat-and-mouse experience. The Avalon Hill edition was a 1983 Origins Awards finalist for Best
+  Fantasy Board Game.
+
+upgrades: []

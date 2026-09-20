@@ -1,0 +1,59 @@
+id: the-chameleon-2017
+name: "The Chameleon"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool (very simple)
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Bluffing
+  - Deduction
+  - Party
+  - Word Play
+
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Persuasion
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6]
+
+designer:
+  - Rikki Tahta
+publisher:
+  - Big Potato Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 14
+
+description: |
+  The Chameleon is a social deduction party game by Rikki Tahta in which all players but one are
+  given a secret topic via a code-card mechanic using two dice. Everyone must say a single word
+  related to the topic — including the Chameleon, who doesn't know what the topic is and must bluff
+  convincingly. Players then debate and vote on who they believe the Chameleon to be. The tension
+  comes from saying something specific enough to prove you know the topic without giving it away
+  to the Chameleon. Winner of the 2017 UK Games Expo Best Party Game award, it is beloved for its
+  simplicity and near-instant accessibility.
+
+upgrades: []

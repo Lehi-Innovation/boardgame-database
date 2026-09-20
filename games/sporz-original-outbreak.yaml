@@ -1,0 +1,58 @@
+id: sporz-original-outbreak
+name: "Sporz Original Outbreak"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Deduction
+  - Bluffing
+  - Sci-Fi
+  - Party
+
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Humor
+  - Persuasion
+
+possible_counts: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [10, 12, 15]
+
+designer: []
+publisher:
+  - Ludically
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Sporz Original Outbreak is a social deduction game for 7 to 20 players published in 2011, inspired by Werewolf
+  and Mafia. A mysterious alien spore has begun turning humans into mutants, and players must cooperate to identify
+  and eliminate the infected while each contaminated player secretly works to turn others and betray their former
+  allies. The game follows a day-night cycle: at night a narrator calls on each special role, and during the day
+  players debate and vote anonymously to execute a suspect. Its science-fiction skin and large player count make
+  it well-suited for parties and conventions.
+
+upgrades: []

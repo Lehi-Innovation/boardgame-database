@@ -1,0 +1,56 @@
+id: ecosystem
+name: "Ecosystem"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Tableau Building
+  - Pattern Building
+  - Nature
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Wonder
+  - Clever
+  - Progress
+  - Complete
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Matt Simpson
+publisher:
+  - Genius Games
+artist: []
+playtime_minutes: 17
+min_playtime: 15
+max_playtime: 20
+min_age: 10
+
+description: |
+  Ecosystem is a 2021 card-drafting game by Matt Simpson, published by Genius Games, in which 2–6 players build a personal ecological tableau by choosing and passing cards depicting organisms and habitats — bees, bears, streams, meadows, and more. Each card scores based on its adjacency to compatible neighbors in the player's 4×5 grid, rewarding players who create flourishing, interconnected biomes while penalizing monocultures. Simple enough for classrooms and family play, it packs genuine strategic depth into a 15-minute filler, and serves as a natural companion to Wingspan for players interested in nature themes.
+
+upgrades: []

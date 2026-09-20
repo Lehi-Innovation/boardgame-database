@@ -1,0 +1,54 @@
+id: jaipur
+name: "Jaipur"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Trading
+  - Filler
+  - Gateway
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Sébastien Pauchon
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Jaipur is a 2-player card game designed by Sébastien Pauchon in which rival merchants compete for the Maharaja's seal of excellence by buying, trading, and selling goods at the marketplace. Each turn a player either takes goods cards from the market — paying with equal numbers of cards from their hand when taking multiple — or sells a set of identical goods for token bonuses that diminish as more are sold. Camel cards serve as wild market pieces and enable large trades, while bonus tokens reward larger batches. With its tight hand-limit, dwindling bonus tokens, and the race to win two rounds, Jaipur delivers a fast, tense experience that earned the 2010 Spiel des Jahres recommendation and multiple Best Two-Player Game awards.
+
+upgrades: []

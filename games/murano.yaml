@@ -1,0 +1,57 @@
+id: murano
+name: "Murano"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Tile Placement
+  - Resource Management
+  - Economic
+  - Euro
+  - Historical
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Lookout Games
+  - Mayfair Games
+artist: []
+playtime_minutes: 65
+min_playtime: 60
+max_playtime: 75
+min_age: 10
+
+description: |
+  Murano is a 2-4 player tile placement and resource management game designed by the husband-and-wife team Inka and Markus Brand, published by Lookout Games in 2014. Set on the famous glassmaking islands near Venice, players develop the island group by building shops, palaces, and glassworks while competing for influence in each neighborhood. The game's signature mechanic is a rondel-like action ring surrounding the board, with eight gondolas spread around a circular track — players choose an action by moving their gondola to the corresponding space, but the gondolas serve as blockers for one another, making action selection a tense spatial puzzle. Building glassworks and supplying tourists with different glass types provides the primary scoring engine.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: the-high-crusade
+name: "The High Crusade"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Historical
+  - Medieval
+  - Humor
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Cook
+  - Edward Sollers
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The High Crusade is a 1983 TSR board game designed by David "Zeb" Cook and Edward G. Sollers,
+  based on Poul Anderson's beloved 1960 science fiction novel in which medieval English knights
+  accidentally board an alien spacecraft and embark on an interstellar crusade. The game captures
+  the novel's delightfully anachronistic premise of combining medieval warfare with science fiction
+  technology, with players alternating turns to make moves and engage in combat using both period
+  and futuristic elements. It reflects TSR's willingness during this era to adapt beloved literary
+  SF properties into tabletop wargames.
+
+upgrades: []

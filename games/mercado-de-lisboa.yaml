@@ -1,0 +1,53 @@
+id: mercado-de-lisboa
+name: "Mercado de Lisboa"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Worker Placement
+  - Area Control
+  - Euro
+  - Gateway
+  - Vital Lacerda
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Vital Lacerda
+  - Julián Pombo
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Mercado de Lisboa is a fast-paced tile-placement game co-designed by Vital Lacerda set in the famous Lisbon market. Players pay to open market stands and restaurants on a shared board, trying to attract customers and earn money from their neighbors' matching stalls. With straightforward rules but deep tactical choices — about where to place tiles, which restaurants to open, and how to maximize income from other players' actions — it plays in under an hour and rewards careful timing. The game offers surprising depth for a compact euro experience.

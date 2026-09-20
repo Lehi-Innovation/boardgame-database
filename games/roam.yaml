@@ -1,0 +1,56 @@
+id: roam
+name: "Roam"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Deck Building
+  - Hand Management
+  - Puzzle Solving
+  - Fantasy
+  - Euro
+  - Red Raven Games
+
+evokes:
+  - Discovery
+  - Clever
+  - Rivalry
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Roam is a competitive area-control and pattern-matching game for 2–4 players from Ryan Laukat, featuring characters from the Near and Far universe. Players play adventurer cards to place search tokens on the board in the exact shape depicted on each card, competing to find lost adventurers hidden across a beautiful illustrated landscape. Over 50 unique tarot-sized adventurer cards provide variety, while the spatial puzzle of fitting token patterns onto the shared board creates tension and clever blocking. Roam is a light, visually stunning game that rewards spatial thinking in a short play session.
+
+upgrades: []

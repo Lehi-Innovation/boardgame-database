@@ -1,0 +1,56 @@
+id: tash-kalar-arena-of-legends
+name: "Tash-Kalar: Arena of Legends"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Pattern Building
+  - Area Control
+  - Hand Management
+  - Fantasy
+  - Abstract
+  - Euro
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Vlaada Chvatil
+publisher:
+  - Czech Games Edition
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Tash-Kalar: Arena of Legends is a pattern-recognition and area-control game designed by Vlaada Chvátil and published by Czech Games Edition in 2013. Two to four summoners compete in the legendary Tash-Kalar arena, placing common pieces on the board to form geometric patterns depicted on their faction cards, which then allows them to summon powerful beings. Summoned creatures destroy enemy forces, clear the arena, or set up patterns for ultimate legendary creatures. The game offers both a standard quest-based mode and a flare-based deathmatch mode, and all modes support two-player duels or team play, rewarding spatial thinking and forward planning.
+
+upgrades: []

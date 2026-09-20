@@ -1,0 +1,55 @@
+id: solar-conquest
+name: "Solar Conquest"
+alternate_names: []
+year: 1966
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Progress
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - A-Tech Enterprises
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Solar Conquest is a vintage space conquest board game published by A-Tech Enterprises in 1966. Players compete
+  to conquer planets and territories across the solar system in a classic area-control format, representing the
+  early wave of science fiction board games that followed the Space Age. Specific rules details are scarce for
+  this rare game, but it reflects the era's fascination with space exploration translated into competitive
+  tabletop play.
+
+upgrades: []

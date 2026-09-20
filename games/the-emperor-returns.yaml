@@ -1,0 +1,60 @@
+id: the-emperor-returns
+name: "The Emperor Returns"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [1, 2, 3]
+true_counts: [2]
+
+designer:
+  - Kevin Zucker
+publisher:
+  - Clash of Arms Games
+artist: []
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 480
+min_age: 16
+
+description: |
+  The Emperor Returns is a 1986 Clash of Arms Games Napoleonic wargame by Kevin Zucker asking:
+  what if Napoleon had won at Waterloo? Players control French forces under Napoleon and the
+  armies of the Seventh Coalition under Wellington across a month-long hypothetical campaign in
+  Belgium following a fictional French victory. Victory is determined not by casualties but by
+  breaking the enemy's morale — the historical model of Napoleonic warfare where army collapse
+  rather than annihilation decided campaigns. Rules cover supply, attrition, morale, leadership,
+  and military administration, making this a sophisticated operational simulation of the Hundred
+  Days campaign's counterfactual continuation.
+
+upgrades: []

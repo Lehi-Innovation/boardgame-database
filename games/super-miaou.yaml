@@ -1,0 +1,52 @@
+id: super-miaou
+name: "Super Miaou"
+alternate_names: ["Super Meow"]
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Humor
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Guillaume Desportes
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Super Miaou (Super Meow in English) is a 2024 family deckbuilding game published by Space Cow, the children's game imprint of Space Cowboys, designed by Guillaume Desportes. Players build cat-themed decks and recruit cards from a static central market, acquiring increasingly powerful feline heroes to outpace their opponents. The game was nominated for the 2024 As d'Or Jeu de l'Année Enfant award in France, recognizing it as one of the year's top children's games. Its accessible rules and cat theme make it an appealing introduction to deckbuilding for younger players.
+
+upgrades: []

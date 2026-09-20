@@ -1,0 +1,55 @@
+id: crypt
+name: "Crypt"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Auctions/Bidding
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Clever
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Jeff Chin
+  - Andrew Nerger
+publisher:
+  - R2i Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Crypt is a light set-collection game for 1–4 players in which the king has died and his children are dispatching servants to the royal crypt to claim his promised heirlooms before burial. Players commit servant dice to desired treasure cards by choosing an effort value, but then must roll—if you roll below your chosen effort, the die (servant) is lost. After everyone places, all dice are rolled simultaneously, creating tense press-your-luck moments as servants succeed or fail at their tasks. The player who collects the most valuable sets of heirlooms wins.
+
+upgrades: []

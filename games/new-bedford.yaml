@@ -1,0 +1,56 @@
+id: new-bedford
+name: "New Bedford"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - City Building
+  - Maritime
+  - Historical
+  - Euro
+  - Greater Than Games
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Nathaniel Levan
+publisher:
+  - Greater Than Games
+artist:
+  - Nolan Nasser
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+description: |
+  New Bedford is a 2016 worker-placement and town-building game by Nathaniel Levan, published by Greater Than Games (Dice Hate Me Games), set in the Massachusetts whaling town during the mid-1800s golden age of the industry. Players build out the historic town by placing workers on buildings — which they can construct and own, earning rent from others who use them — while also sending ships out to sea to hunt whales and bring back resources. Cleverly, the whale-bag mechanic reflects real history: empty sea tokens are returned each round but whale tokens are not, so the ocean becomes progressively depleted over twelve rounds. It is a medium-weight euro with strong thematic integration and meaningful ownership decisions.
+
+upgrades: []

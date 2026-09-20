@@ -1,0 +1,58 @@
+id: three-sisters
+name: "Three Sisters"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Engine Building
+  - Resource Management
+  - Agriculture
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ben Pinchback
+  - Matt Riddle
+publisher:
+  - 25th Century Games
+artist:
+  - Marlies Barends
+  - Beth Sobel
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Three Sisters is a 2021 backyard farming roll-and-write game by Ben Pinchback and Matt Riddle, published by 25th Century Games, named after the companion planting technique of growing corn, beans, and squash together. Each round players roll a shared pool of dice and use them across a richly interconnected scoresheet covering crops, animals, preservation, and an orchard — with each area feeding bonuses into the others, creating a satisfying engine-building experience on paper. The game rewards long-term planning and synergy hunting while remaining accessible enough for family game nights, and was praised for being one of the deepest and most replayable roll-and-writes released in its year.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: pergola
+name: "Pergola"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Action Points
+  - Family
+  - Nature
+  - Animals
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michał Gołąb Gołębiowski
+  - Przemek Wojtkowiak
+publisher:
+  - Rebel Studio
+artist:
+  - Karolina Kijak-Dzikońska
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Pergola is a garden-themed Euro game for 1-4 players from Rebel Studio. Players develop their own gardens by choosing tools that allow them to pick plants, arrange them on their grid, and attract insects and small animals. The action-drafting mechanism means the tool you choose limits what others can do, adding competitive tension to the otherwise serene gardening theme. Hand-painted watercolor artwork by Karolina Kijak-Dzikońska gives Pergola a distinctive visual identity reminiscent of the celebrated Meadow series.

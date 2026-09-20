@@ -1,0 +1,57 @@
+id: sid-meiers-civilization-the-board-game
+name: "Sid Meier's Civilization: The Board Game"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Tech Tree
+  - Area Control
+  - Resource Management
+  - Variable Player Powers
+  - 4X
+  - Civilization
+  - Historical
+  - Fantasy Flight Games
+
+evokes:
+  - Progress
+  - Powerful
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 13
+
+description: |
+  Sid Meier's Civilization: The Board Game translates the legendary 4X video game series to the tabletop, letting players guide one of six historical civilizations (Americans, Chinese, Egyptians, Germans, Romans, or Russians) to victory through exploration, military conquest, cultural advancement, economic dominance, or technological supremacy. Each turn flows through five structured phases — start of turn, trade, city management, movement, and research — mirroring the rhythm of the video game. Players expand across a modular map, build cities and wonders, recruit armies, and race up a technology tree that unlocks powerful abilities. With four distinct victory paths and asymmetric civilizations, each game unfolds differently, capturing the addictive "one more turn" quality of its digital inspiration.
+
+upgrades: []

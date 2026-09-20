@@ -1,0 +1,56 @@
+id: the-dungeon-of-d
+name: "The Dungeon of D"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Dice Rolling
+  - Hand Management
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Lucky
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Jack Darwid
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Dungeon of D is a dungeon crawl card game by Jack Darwid designed in 2008. Players explore
+  a modular dungeon built from cards, encountering monsters and collecting treasure in a competitive
+  race to accumulate the most loot. Simple dice rolling determines combat outcomes, and hand
+  management adds tactical choices about when to use special cards. The game distills classic
+  dungeon delving into a compact card game format accessible to casual players while retaining the
+  essential feel of risk-versus-reward dungeon exploration.
+
+upgrades: []

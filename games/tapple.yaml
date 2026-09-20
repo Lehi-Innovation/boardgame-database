@@ -1,0 +1,58 @@
+id: tapple
+name: "Tapple"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - The Op
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Tapple is a fast-paced word party game published by The Op in 2012, combining
+  the pressure of hot potato with a word association challenge. Players draw a
+  category card and then race around a circular wheel, pressing letter buttons
+  to claim them while calling out a word matching the category that starts with
+  that letter — all within ten seconds. Once a letter is pressed it cannot be
+  reused, building pressure as fewer letters remain. Any player who can't name
+  a valid word in time is eliminated. The game's distinctive electronic wheel
+  provides both the timer and a tactile element to track claimed letters.
+
+upgrades: []

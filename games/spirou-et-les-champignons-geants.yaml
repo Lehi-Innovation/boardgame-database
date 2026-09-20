@@ -1,0 +1,61 @@
+id: spirou-et-les-champignons-geants
+name: "Spirou et les champignons géants"
+alternate_names: ["Spirou and the Giant Mushrooms"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Racing
+  - Variable Setup
+  - Family
+  - Fantasy
+
+evokes:
+  - Clever
+  - Humor
+  - Agency
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Sylvie Barc
+  - Philippe des Pallières
+  - Patrice Pillet
+  - Juan Rodriguez
+publisher:
+  - Nathan
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Spirou et les champignons géants is a French children's board game published by Nathan in 1995, based on the
+  beloved Belgian comic strip character Spirou. Players guide Spirou, Spip, Fantasio, and the Count of Champignac
+  through the Valley of the Giant Mushrooms, each making two round trips to retrieve talismans. The clever central
+  mechanic allows players each turn to modify the size of one mushroom and then move — or move first and modify
+  after — creating opportunities for both blocking opponents and clearing paths for oneself. Praised for its
+  original components and child-friendly strategy.
+
+upgrades: []

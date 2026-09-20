@@ -1,0 +1,57 @@
+id: thats-pretty-clever
+name: "That's Pretty Clever!"
+alternate_names:
+  - "Ganz Schön Clever"
+year: 2018
+
+# Relationships
+game_family: clever
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Roll & Write
+  - Set Collection
+  - Press Your Luck
+  - Puzzle Solving
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Clever
+  - Lucky
+  - Complete
+  - Tension
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Wolfgang Warsch
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  That's Pretty Clever! (Ganz Schön Clever) is a dice-drafting roll-and-write game for 1–4 players in which players roll six dice and select one to score in a color-coded section of their personal score sheet, with unused smaller dice becoming available to other players. Each scoring area has its own unique rules and bonus triggers, and activating these bonuses can chain into spectacular scoring combos. The game rewards both optimization and opportunism as players try to trigger high-value chains while reacting to dice variance. Nominated for the Kennerspiel des Jahres 2018, it remains one of the most replayable and satisfying roll-and-write designs.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: veracruz-us-invasion-of-mexico-1847
+name: "Veracruz: U.S. Invasion of Mexico 1847"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Berg
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Veracruz: U.S. Invasion of Mexico 1847 is a two-player hex-and-counter wargame designed by Richard Berg and published by Simulations Publications Inc. (SPI) in 1977, originally appearing as a pull-out game in issue 63 of the Strategy & Tactics magazine. The game covers General Winfield Scott's 25-week campaign from March to November 1847, during which American forces invaded and captured Mexico. One player commands the American forces, the other the Mexican defenders, fighting over the complete invasion campaign in a single scenario. Graphic design was by Redmond A. Simonsen.
+
+upgrades: []

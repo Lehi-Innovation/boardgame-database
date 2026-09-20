@@ -1,0 +1,51 @@
+id: the-wheel-of-time-collectible-card-game
+name: "The Wheel of Time Collectible Card Game"
+alternate_names: ["Wheel of Time CCG"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Fantasy
+  - Cult Classic
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Discovery
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Precedence Entertainment
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+description: |
+  The Wheel of Time Collectible Card Game is an out-of-print CCG published by Precedence Entertainment beginning in December 1999, based on Robert Jordan's epic fantasy series. Unusually among CCGs of its era, the game required a play mat, tokens, and custom six-sided dice alongside the card decks, creating a distinctive play experience. Precedence Entertainment closed in April 2002 before releasing a planned third expansion "The White Tower" or the planned 2nd Edition revision, cutting the game's lifespan short. It remains a collector's item prized by Wheel of Time fans, representing a faithful attempt to bring the Aes Sedai, Warders, and Dark One's forces of the series to the tabletop.
+
+upgrades: []

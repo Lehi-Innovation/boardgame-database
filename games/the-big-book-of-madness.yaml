@@ -1,0 +1,62 @@
+id: the-big-book-of-madness
+name: "The Big Book of Madness"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Player Powers
+  - Fantasy
+  - Horror
+  - Cthulhu
+
+evokes:
+  - Dread
+  - Progress
+  - Connection
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Maxime Rambourg
+publisher:
+  - IELLO
+artist:
+  - Xavier Gueniffey Durin
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  The Big Book of Madness is a cooperative deck-building game by Maxime Rambourg in which players
+  are student wizards who must turn all the pages of a cursed tome and then seal it shut by defeating
+  each monster they've released. Each player manages their own elemental deck, learning spells and
+  adding new elements to build synergies across turns. Spells allow players to support teammates,
+  accelerate deck development, and mitigate curses. As the book progresses, monsters become more
+  powerful and place additional curse cards into players' decks, creating mounting pressure that
+  makes efficient team cooperation crucial to survival.
+
+upgrades: []

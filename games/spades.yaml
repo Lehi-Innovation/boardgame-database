@@ -1,0 +1,51 @@
+id: spades
+name: "Spades"
+alternate_names: []
+year: 1939
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Teams
+  - Hand Management
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Spades is a classic American trick-taking card game played with a standard 52-card deck, typically by four players in two partnerships. Players bid on the number of tricks they expect to win, with the spade suit always serving as trump. The partnership must collectively reach their combined bid to score points, with overtricks accumulating as bags that penalize at ten. First devised in the United States in the late 1930s, Spades blends careful bidding strategy with deduction and partnership communication, and has remained one of the most popular card games in the world.
+
+upgrades: []

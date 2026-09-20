@@ -1,0 +1,53 @@
+id: star-wars-x-wing-miniatures-game
+name: "Star Wars: X-Wing Miniatures Game"
+alternate_names: ["Star Wars: X-Wing (First Edition)"]
+year: 2012
+
+# Relationships
+game_family: star-wars-x-wing
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Dice Rolling
+  - Variable Player Powers
+  - Fantasy Flight Games
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jay Little
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Star Wars: X-Wing Miniatures Game is a 2012 tactical dogfighting game by Fantasy Flight Games in which players command squads of highly detailed pre-painted starships in fast-paced space combat. Both players simultaneously select and reveal movement dials for each of their ships before resolving actions and attacks, creating tense mind-game decisions about positioning and engagement. The game uses a range ruler and custom dice for attack and defense, and a rich expansion library of ships across factions including Rebel, Imperial, and Scum & Villainy. This first edition ran until 2018 when it was replaced by Second Edition.
+
+upgrades: []

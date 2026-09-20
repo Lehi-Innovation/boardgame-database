@@ -1,0 +1,51 @@
+id: schaska
+name: "Schaska"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Modular Board
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Schaska is a vintage 2-player abstract racing game published by Ravensburger in 1973 as part of their Traveler's Series of compact games. The game board is composed of five interchangeable tiles that can be oriented in different ways, creating a large number of possible track configurations. Players move their pawns in opposite directions along the modular track, aiming to be the first to reach the other end. The variable board setup ensures each game presents a fresh challenge.
+
+upgrades: []

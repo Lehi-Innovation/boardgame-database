@@ -60,15 +60,15 @@
       // Image / placeholder
       const imgWrap = document.createElement('div');
       imgWrap.className = 'gc-image';
-      if (game.has_image) {
+      if (game.image_url) {
         const img = document.createElement('img');
-        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.src = game.image_url;
         img.alt = game.name;
         img.loading = 'lazy';
-        img.onerror = () => { img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`; };
         imgWrap.appendChild(img);
       } else {
-        const initials = game.name.split(/\s+/).slice(0, 2).map(w => w[0]).join('').toUpperCase();
+        const initials = game.name.replace(/[^\p{L}\p{N}\s]/gu, ' ').trim()
+          .split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0]).join('').toUpperCase() || '?';
         imgWrap.innerHTML = `<div class="gc-placeholder"><span>${initials}</span></div>`;
       }
 
@@ -201,7 +201,7 @@
       .game-card-grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-        gap: 16px;
+        gap: 18px;
       }
       .game-card-item {
         display: flex;
@@ -212,6 +212,7 @@
         width: 100%;
         padding-bottom: 75%;
         background: var(--elevated);
+        border-bottom: 1px solid var(--border-soft);
         overflow: hidden;
       }
       .gc-image img {
@@ -219,7 +220,9 @@
         top: 0; left: 0;
         width: 100%; height: 100%;
         object-fit: cover;
+        transition: transform 0.35s ease;
       }
+      .game-card-item:hover .gc-image img { transform: scale(1.04); }
       .gc-placeholder {
         position: absolute;
         top: 0; left: 0;
@@ -227,21 +230,25 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: var(--elevated);
+        background:
+          radial-gradient(160px 130px at 50% 42%, rgba(230, 181, 78, 0.07), transparent 70%),
+          var(--elevated);
       }
       .gc-placeholder span {
         font-family: var(--font-heading);
-        font-size: 32px;
+        font-size: 34px;
         color: var(--border);
         font-weight: 700;
+        letter-spacing: 0.04em;
       }
-      .gc-info { padding: 14px; flex: 1; display: flex; flex-direction: column; gap: 6px; }
+      .gc-info { padding: 15px; flex: 1; display: flex; flex-direction: column; gap: 7px; }
       .gc-name {
         font-family: var(--font-heading);
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 700;
         color: var(--text);
-        line-height: 1.3;
+        line-height: 1.25;
+        transition: color 0.15s;
       }
       .game-card-item:hover .gc-name { color: var(--accent); }
       .gc-meta { font-size: 12px; color: var(--text-muted); }
@@ -249,10 +256,17 @@
       .gc-chips { display: flex; flex-wrap: wrap; gap: 4px; flex: 1; }
       .gc-footer { margin-top: auto; }
 
-      .game-table-wrap { overflow-x: auto; }
+      .game-table-wrap {
+        overflow-x: auto;
+        background: var(--surface);
+        border: 1px solid var(--border-soft);
+        border-radius: var(--radius-lg);
+        box-shadow: var(--shadow-1);
+      }
+      .game-table-wrap .data-table th { position: sticky; top: 0; background: var(--surface); }
 
       @media (max-width: 768px) {
-        .game-card-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+        .game-card-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
       }
       @media (max-width: 480px) {
         .game-card-grid { grid-template-columns: 1fr; }

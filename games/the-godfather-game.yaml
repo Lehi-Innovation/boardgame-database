@@ -1,0 +1,59 @@
+id: the-godfather-game
+name: "The Godfather Game"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Negotiation
+  - Family
+  - Historical
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Jody Porter
+publisher:
+  - Family Games Inc.
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Godfather Game is a 1971 economic board game by Jody Porter and Family Games Inc., in which
+  players are mob bosses competing to control criminal rackets across eight neighborhoods of a city
+  and accumulate the most money to become the Godfather. Five types of rackets — bookmaking,
+  extortion, bootlegging, loan sharking, and hijacking — each have different cash values in each
+  neighborhood. Control of a neighborhood works similarly to Go: occupy or surround more than half
+  the neighborhood to dominate it. The game captures the territorial nature of organized crime
+  economics in an accessible board game format released the same year as the Coppola film.
+
+upgrades: []

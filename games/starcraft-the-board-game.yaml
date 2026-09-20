@@ -1,0 +1,57 @@
+id: starcraft-the-board-game
+name: "StarCraft: The Board Game"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Resource Management
+  - Modular Board
+  - Fantasy Flight Games
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Corey Konieczka
+  - Christian T. Petersen
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  StarCraft: The Board Game is a 2007 Fantasy Flight Games adaptation of the iconic real-time strategy video game for 2-6 players, designed by Corey Konieczka and Christian T. Petersen. Players take command of one of the game's iconic leaders — Jim Raynor, Sarah Kerrigan, Judicator Aldaris, or others — leading Terran, Protoss, or Zerg forces across a modular map of up to twelve planets. The diceless, card-driven combat system allows players to expand their faction with powerful technologies, while competing for resources (minerals and Vespene gas) through worker placement. The game won the Origins Award for Board Game of the Year in 2007.
+
+upgrades: []

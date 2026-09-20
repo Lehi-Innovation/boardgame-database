@@ -1,0 +1,58 @@
+id: great-plains
+name: "Great Plains"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Abstract
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Pattern Building
+  - Filler
+  - Gateway
+  - Animals
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Brett J. Gilbert
+  - Trevor Benjamin
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Great Plains is a 2021 two-player abstract area-control game by Brett J. Gilbert and Trevor Benjamin, published by Lookout Games, in which rival tribes of clever foxes and wise snakes compete for dominance across the American Great Plains. Players take turns placing one piece adjacent to a previously placed piece on a modular hex grid, and when all pieces are placed, the player controlling the most meadow sections wins. The elegant simplicity of having just one action per turn — yet with deep spatial consequences — makes it an ideal filler-weight abstract that plays in 20 minutes but rewards experienced players who can think several moves ahead.
+
+upgrades: []

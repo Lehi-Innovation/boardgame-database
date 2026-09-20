@@ -1,0 +1,51 @@
+id: stargate-1979
+name: "StarGate"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John H. Butterfield
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  StarGate is a 1979 SPI science fiction microgame designed by John H. Butterfield in which one player controls the alien Virunians and the other the Coalition (an alliance of multiple races) in a climactic spaceship battle. Ships have unusual movement options including dimension-shifting (switching hex columns), gate-skimming (orbiting stargates), teleportation, and "wobbling" to any hex on the map. The Virunians must destroy eight Coalition ships while the Coalition must destroy six Virunian ships. The game remained on SPI's bestseller list for a year after release.
+
+upgrades: []

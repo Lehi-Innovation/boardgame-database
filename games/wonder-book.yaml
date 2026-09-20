@@ -1,0 +1,57 @@
+id: wonder-book
+name: "Wonder Book"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Narrative Heavy
+  - Dice Rolling
+  - Action Points
+  - Variable Player Powers
+  - Fantasy
+  - Dungeon Crawler
+
+evokes:
+  - Wonder
+  - Discovery
+  - Tension
+  - Connection
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Martino Chiacchiera
+  - Michele Piccolini
+publisher:
+  - dV Giochi
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Wonder Book is a cooperative narrative dungeon-crawler for 1-4 players in which the game board is a spectacular interactive 3D pop-up book. The game features 6 campaign chapters, each built around a different pop-up structure with its own unique gameplay rules, and the full campaign offers approximately 10 hours of play. Players explore chapters of a branching story, fighting monsters and making decisions that shape the narrative, with the pop-up book itself serving as both board and atmosphere. The innovative use of a physical pop-up structure as the central game component makes Wonder Book a uniquely memorable table experience.
+
+upgrades: []

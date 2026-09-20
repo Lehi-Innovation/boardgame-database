@@ -1,0 +1,53 @@
+id: mint-works
+name: "Mint Works"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Filler
+  - Gateway
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Justin Blaske
+publisher:
+  - Five24 Labs
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 13
+
+description: |
+  Mint Works is a micro worker placement game for 1-4 players by Justin Blaske, designed to fit entirely within a mint tin, published by Five24 Labs following a successful Kickstarter campaign in 2017. Players use physical mint-shaped tokens as workers, placing them on location cards to earn more mints, acquire plan cards, or convert mints into stars — the victory point currency. The first player to accumulate 7 stars triggers the end game, and the winner with the most stars takes the win. Despite its tiny form factor and 15-minute play time, Mint Works delivers a complete and satisfying worker placement experience, making it one of the most lauded micro games for introducing the genre to new players.
+
+upgrades: []

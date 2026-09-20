@@ -1,0 +1,62 @@
+id: mesos
+name: "MESOS"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Set Collection
+  - Card Drafting
+  - Ancient
+  - Euro
+  - Filler
+  - Simone Luciani
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Simone Luciani
+  - Yaniv Khahana
+publisher:
+  - Cranio Creations
+artist:
+  - Lorenzo Mastroianni
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 35
+min_age: 10
+
+description: |
+  MESOS is a compact drafting and set-collection card game set in the ancient world where
+  players lead tribes to prosperity. Each round players place their totem pawn on an offer
+  track, then in pawn order acquire character or building cards. The placement position
+  determines both what you can afford and in what order you choose, creating a simple but
+  satisfying bidding tension. Quick to learn and play, MESOS delivers efficient and
+  elegant drafting in about 25 minutes.
+
+upgrades: []

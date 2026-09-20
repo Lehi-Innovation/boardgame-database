@@ -1,0 +1,54 @@
+id: tsuro
+name: "Tsuro"
+alternate_names:
+  - "Tsuro: The Game of the Path"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+  - Gateway
+  - Route Building
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Tom McMurchie
+publisher:
+  - Calliope Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Tsuro: The Game of the Path is an elegant tile-placement game in which players guide their tokens along paths built turn-by-turn on a shared board. Each turn, a player places a tile from their hand and moves their piece along the new path — if a path leads off the board or collides with another player, that player is eliminated. The last piece remaining on the board wins. Designed by Tom McMurchie and originally published by WizKids in 2004, Tsuro was relaunched by Calliope Games in 2011 and became a beloved gateway game celebrated for its minimalist rules and beautiful board presence.
+
+upgrades: []

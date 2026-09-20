@@ -1,0 +1,55 @@
+id: ticket-to-ride-paris
+name: "Ticket to Ride: Paris"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Family
+  - Gateway
+  - Filler
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Complete
+  - Clever
+  - Rivalry
+  - Progress
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+description: |
+  Ticket to Ride: Paris is a fast-playing entry in the Cities line that whisks players to 1920s Paris to visit iconic landmarks and complete Destination Tickets. The game adds a French flag bonus mechanic: when claiming a blue, white, or red route, players keep a transportation card of that color; collecting one of each color to form a French flag scores bonus points. At just 15 minutes of play, this compact game offers a fresh twist on the classic Ticket to Ride formula at an accessible price point.
+
+upgrades: []

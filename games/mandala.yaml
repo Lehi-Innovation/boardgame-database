@@ -1,0 +1,60 @@
+id: mandala
+name: "Mandala"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Set Collection
+  - Abstract
+  - Nature
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Trevor Benjamin
+  - Brett J. Gilbert
+publisher:
+  - Lookout Games
+artist:
+  - Chris Quilliams
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Mandala is an elegant two-player card game of indirect conflict and hidden value. Players
+  compete for cards across two shared mandala zones, but the twist is that card values are
+  not revealed until well into the game—the colors you play to the mountain become points
+  only after the first player claims the stream. Managing what you put into the mandala
+  versus what you collect, while deducing which colors will be most valuable, creates a
+  rich and tense duel in a compact 20-minute package.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: vivid-memories
+name: "Vivid Memories"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Pattern Building
+  - Route Building
+  - Euro
+  - Abstract
+
+evokes:
+  - Wonder
+  - Clever
+  - Complete
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Brett J. Gilbert
+  - Matthew Dunstan
+publisher:
+  - Floodgate Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 13
+
+description: |
+  Vivid Memories is a 2022 drafting and pattern-building game designed by Brett J. Gilbert and Matthew Dunstan, published by Floodgate Games and Matagot. Players collect colourful fragments of memory from a shared pool and place them onto their personal Brain board, weaving a tapestry of connected threads. End-of-round abilities reward clever routing and grid coverage, while hidden Aspiration cards give each player a secret colour goal for bonus points. The game's tactile, meditative quality and beautiful visual design make it stand out as a gateway abstract for players who enjoy spatial puzzles and incremental engine-building.
+
+upgrades: []

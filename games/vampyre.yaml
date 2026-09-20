@@ -1,0 +1,53 @@
+id: vampyre
+name: "Vampyre"
+alternate_names:
+  - "Vampyre: Game of the Hunt for Dracula"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Horror
+  - Vampires
+
+evokes:
+  - Dread
+  - Lucky
+  - Rivalry
+  - Tension
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Philip A. Shreffler
+publisher: []
+artist:
+  - Erol Otus
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Vampyre is a 1980 microgame published by TSR in which up to six players each take on the role of a character from Bram Stoker's Dracula and race across the Transylvanian countryside to locate and destroy three of Count Dracula's hidden coffins. Designed by Philip A. Shreffler with iconic artwork by Erol Otus, the game was packaged in TSR's blister-pack mini-game format alongside other titles of that era. Players navigate the countryside, encounter supernatural creatures, and compete to be the one to end Dracula's curse, blending dice-driven movement with light horror adventure.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: transamerica
+name: "TransAmerica"
+alternate_names:
+  - "Trans America"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Family
+  - Gateway
+  - Trains
+  - Historical
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  TransAmerica is a streamlined railroad network game in which each player secretly holds five cities across the United States that must be connected by rail. Each turn players place one or two track segments, benefiting from and contributing to a shared network — the player who can best exploit opponents' rails while completing their own connections wins. Praised for its elegant simplicity, it was nominated for the 2002 Spiel des Jahres and won a Mensa Select award, establishing itself as a classic gateway game that plays in under 30 minutes.
+
+upgrades: []

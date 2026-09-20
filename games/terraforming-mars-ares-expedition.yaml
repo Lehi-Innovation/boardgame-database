@@ -1,0 +1,66 @@
+id: terraforming-mars-ares-expedition
+name: "Terraforming Mars: Ares Expedition"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: terraforming-mars
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Hand Management
+  - Simultaneous Action
+  - Tableau Building
+  - Sci-Fi
+  - Space
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Sydney Engelstein
+  - Jacob Fryxelius
+  - Nick Little
+publisher:
+  - Stronghold Games
+  - FryxGames
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Terraforming Mars: Ares Expedition is a standalone card game designed by
+  Sydney Engelstein, Jacob Fryxelius, and Nick Little, merging the Terraforming
+  Mars engine-building experience with the simultaneous phase-selection mechanic
+  from Race for the Galaxy. Players control corporations competing to raise Mars's
+  temperature, oxygen, and ocean coverage through played project cards. Each
+  round, players secretly choose from five phases — Development, Construction,
+  Action, Production, and Research — and all chosen phases activate for everyone,
+  creating dynamic multi-player solitaire engine-building. The result is a
+  streamlined, 60-minute take on Mars colonization with exceptional replayability.
+
+upgrades: []

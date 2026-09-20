@@ -1,0 +1,51 @@
+id: tobruk
+name: "Tobruk"
+alternate_names:
+  - "Tobruk: Tank Battles in North Africa 1942"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Tobruk: Tank Battles in North Africa 1942 is a detailed two-player hex-and-counter wargame published by Avalon Hill in 1975, simulating armored combat in North Africa during World War II. Each turn represents 30 seconds of real time and each counter a single vehicle or infantry platoon, with nine scenarios providing varied engagements across three mapboards. Designed by Harold Hock, the game was a finalist for the 1975 Charles S. Roberts Award and is recognized as one of the most granular tank combat simulations of its era.
+
+upgrades: []

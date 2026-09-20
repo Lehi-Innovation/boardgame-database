@@ -1,0 +1,54 @@
+id: war-in-europe
+name: "War in Europe"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Economic
+  - Resource Management
+
+evokes:
+  - Masterful
+  - Agency
+  - Progress
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3]
+true_counts: [3]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 10800
+min_playtime: 5400
+max_playtime: 21600
+min_age: 16
+
+description: |
+  War in Europe is a grand strategic "monster" wargame from SPI that attempts to simulate the entirety of World War II's European theater from 1939 to 1945. Designed by James F. Dunnigan, Irad B. Hardy, Redmond A. Simonsen, and others, the game spans nine maps covering 38.5 square feet and includes over 4,000 counters representing divisions and corps. Nominally a three-player game (Allied, Axis, Soviet), the massive production system requires monthly allocation of production points, and SPI estimated a full game would require at least 180 hours to complete. A finalist for two Charles S. Roberts Awards in 1977, it remains one of the largest and most ambitious board wargames ever produced.
+
+upgrades: []

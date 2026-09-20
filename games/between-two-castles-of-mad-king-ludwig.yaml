@@ -1,0 +1,61 @@
+id: between-two-castles-of-mad-king-ludwig
+name: "Between Two Castles of Mad King Ludwig"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Simultaneous Action
+  - Teams
+  - Family
+  - Euro
+  - Gateway
+  - Jamey Stegmaier
+  - Stonemaier Games
+
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ben Rosset
+  - Matthew O'Malley
+publisher:
+  - Stonemaier Games
+  - Bezier Games
+artist:
+  - Enggar Adirasa
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Between Two Castles of Mad King Ludwig is a competitive tile-drafting game for 1-7 players that combines the simultaneous drafting of Between Two Cities with the ornate castle-building theme of Castles of Mad King Ludwig. Each player works cooperatively with the player on their left and right, simultaneously building two castles, but can only win with the lower-scoring of their two castles — creating a tense balance between helping both neighbors. With over 140 unique room tiles of different types and sizes, players must craft interconnected castles that satisfy the mad king's whims for point-scoring combinations. The game's clever scoring system rewards players who find the sweet spot between helping both their partners while not overinvesting in any single castle.
+
+upgrades: []

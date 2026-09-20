@@ -1,0 +1,61 @@
+id: yucatan
+name: "Yucatan"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Action Points
+  - Variable Player Powers
+  - Asymmetric
+  - Ancient
+  - Mythology
+  - Historical
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Guillaume Montiage
+publisher:
+  - Matagot
+artist:
+  - Karl Fitzgerald
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Yucatan is a competitive strategy game set in ancient Mesoamerica, where players lead Mayan
+  city-states competing for divine favor. Over four rounds divided into Action, Sacrifice, and
+  Revolution phases, players build advances, upgrade troops, summon creatures, and capture
+  prisoners for sacrifice to earn victory points. The strict four-round structure forces aggressive
+  play, as there is never enough time to execute every strategy, and the sacrificial scoring system
+  rewards daring aggression over passive development.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: stadium-checkers
+name: "Stadium Checkers"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+  - Abstract
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Stadium Checkers is a dexterity marble game published by Milton Bradley in which players place colored marbles
+  around spinning rings on a stadium-shaped gameboard. When the rings are released they drop marbles toward the
+  center, and the player who lands all five of their marbles in the center scoring zone on their side of the
+  board wins. The physical, tactile nature of the marble-dropping mechanism makes it an exciting and unpredictable
+  game for young children, similar in spirit to other marble-based family games of its era.
+
+upgrades: []

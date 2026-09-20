@@ -1,0 +1,59 @@
+id: the-black-pirate
+name: "The Black Pirate"
+alternate_names:
+  - "Der Schwarze Pirat"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Pirates
+  - Roll & Write
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Wonder
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Guido Hoffman
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The Black Pirate (Der Schwarze Pirat) is a HABA dexterity game for children designed by Guido
+  Hoffman in 2006, in which players blow pirate ships across a beautifully illustrated island-
+  strewn sea using a rubber bulb (like a turkey baster). A die determines how many puffs of air
+  each player may use on their turn to propel their ship toward treasure-laden islands. Treasure
+  tokens are placed on islands at the start of each turn, enticing pirates to navigate their ships
+  to collect them. The tactile air-blowing mechanic makes it delightful for young children while
+  the unpredictable movement keeps adults entertained.
+
+upgrades: []

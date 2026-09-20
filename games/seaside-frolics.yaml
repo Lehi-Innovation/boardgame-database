@@ -1,0 +1,50 @@
+id: seaside-frolics
+name: "Seaside Frolics"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Historical
+
+evokes:
+  - Discovery
+  - Lucky
+  - Connection
+  - Humor
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - San Serif
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Seaside Frolics is a family board game published by San Serif in 1986 set in Shrimpton-on-Sea, a charming Edwardian-era seaside resort. Players compete to visit as many attractions and sights as possible in a limited time, collecting a postcard for each location they visit. The game evokes the leisurely atmosphere of early 20th-century British seaside holidays, with its period artwork and theme of wholesome tourist exploration.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: viva-revolution-in-mexico
+name: "Viva!: Revolution in Mexico"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Russ Beland
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Viva!: Revolution in Mexico is a 1975 board wargame designed by Russ Beland and published by Flying Buffalo, with cover art by Norm Caddo. The game simulates the tumultuous revolutionary period of 19th-century Mexico, placing players in command of competing factions during this era of political upheaval and military conflict. As a Flying Buffalo production, it reflects the small-press wargaming tradition of the mid-1970s and is primarily of interest to historians and collectors of vintage American wargames.
+
+upgrades: []

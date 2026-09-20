@@ -1,0 +1,54 @@
+id: silo-14
+name: "Silo 14"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Wargame
+  - Historical
+  - Puzzle Solving
+  - Survival
+  - Espionage
+
+evokes:
+  - Tension
+  - Dread
+  - Mystery
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Neil A. Rosenberg
+publisher:
+  - Jersey Devil/Centurion Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+description: |
+  Silo 14 is a tense tactical game designed by Neil A. Rosenberg and published by Jersey Devil/Centurion Games in 1983 in which special forces commandos must infiltrate a US nuclear missile silo and stop a rogue base commander from launching a first-strike nuclear attack. Players have 100 in-game seconds from the moment of initial breach to disable the launch computer in the command center. The game can be played solitaire or cooperatively, combining intense time pressure with tactical man-to-man combat in a thriller scenario that captured Cold War-era anxieties.
+
+upgrades: []

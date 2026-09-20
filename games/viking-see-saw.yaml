@@ -1,0 +1,52 @@
+id: viking-see-saw
+name: "Viking See-Saw"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Filler
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Itten Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Viking See-Saw is a 2022 dexterity balancing game by Reiner Knizia, published by Itten Games as part of their Funbrick Series, played on a miniature purple boat with a fulcrum at its center. On each turn, a player picks one piece of luggage and places it on whichever side of the see-saw is currently raised; if the boat tilts, they must take a chest from the boat as a penalty. The key challenge is guessing the weight of each piece correctly, since items are made from different materials — brass, aluminum, iron, glass, acrylic, and wood — each with subtly different heft. Quick, tactile, and accessible, it is a delightful filler that works for all ages.
+
+upgrades: []

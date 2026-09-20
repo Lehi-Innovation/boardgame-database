@@ -1,0 +1,56 @@
+id: space-marines
+name: "Space Marines"
+alternate_names: ["Space Marine"]
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+  - Hex Map
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Tension
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Space Marines (1989) is an epic-scale tabletop wargame by Games Workshop set in the Warhammer 40,000 universe,
+  simulating large-scale battles between Space Marine legions and alien factions including Orks and Eldar.
+  Players move and engage unit formations on a battlefield, resolving combat through dice, with the option to
+  integrate Adeptus Titanicus rules to field giant Titans. The game introduced many players to Warhammer 40,000
+  at an accessible entry point before the full complexity of the core miniatures game.
+
+upgrades: []

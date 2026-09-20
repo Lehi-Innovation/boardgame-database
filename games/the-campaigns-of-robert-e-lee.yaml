@@ -1,0 +1,60 @@
+id: the-campaigns-of-robert-e-lee
+name: "The Campaigns of Robert E. Lee"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Auctions/Bidding
+  - Variable Setup
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Prados
+publisher:
+  - Clash of Arms Games
+artist: []
+playtime_minutes: 480
+min_playtime: 240
+max_playtime: 720
+min_age: 16
+
+description: |
+  The Campaigns of Robert E. Lee is a 1988 Clash of Arms Games operational-level wargame designed
+  by John Prados, covering ten scenarios across the Eastern theater of the American Civil War from
+  Manassas in 1861 through Appomattox in 1865. A distinctive bidding mechanic determines initiative:
+  both players secretly bid operation effort points, with the higher bidder taking the first turn
+  but spending those points on movement and attacks. Supply management through railroad and wagon
+  train tokens adds logistical complexity, and terrain plus die-rolled weather affects movement.
+  Each turn represents five days of campaigning. A second edition was published in 1990.
+
+upgrades: []

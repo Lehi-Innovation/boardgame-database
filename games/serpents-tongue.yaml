@@ -1,0 +1,54 @@
+id: serpents-tongue
+name: "Serpent's Tongue"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Hand Management
+  - Cooperative
+  - Variable Player Powers
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Creative
+  - Unique
+  - Clever
+  - Mystery
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer:
+  - Christopher Gabrielson
+publisher:
+  - UnBound Games
+artist:
+  - Jere Kasanen
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Serpent's Tongue is a spell-casting card game by Christopher Gabrielson and UnBound Games in which players become Magi wielding an actual constructed language to cast spells. Each player builds a Hardbound Spell Codex containing incantations and must speak or perform the spells aloud during play, lending the game a unique live-action quality. The modular design supports both competitive PvP duels and cooperative campaign play, and can be expanded with additional Inscription Packs or converted into a full GM-led RPG experience.
+
+upgrades: []

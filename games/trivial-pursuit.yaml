@@ -1,0 +1,50 @@
+id: trivial-pursuit
+name: "Trivial Pursuit"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Gateway
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 16
+
+description: |
+  Trivial Pursuit is the definitive trivia board game, created by Canadians Chris Haney and Scott Abbott in 1979 and first published in 1981 through their company Horn Abbott Ltd. Players move around a wheel-shaped track by correctly answering questions from six color-coded categories — Geography, Entertainment, History, Art & Literature, Science & Nature, and Sports & Leisure — collecting wedges from the category spaces to fill their playing piece. The game became a worldwide sensation in the 1980s, eventually selling over 100 million copies in more than 30 languages and spawning hundreds of themed editions. It is now owned and published by Hasbro.
+
+upgrades: []

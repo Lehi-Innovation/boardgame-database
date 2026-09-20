@@ -1,0 +1,57 @@
+id: yin-yang
+name: "Yin Yang"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Set Collection
+  - Hand Management
+  - Family
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Gryphon Games
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Yin Yang is a card game by Reiner Knizia in which players try to play cards to avoid taking
+  points, balancing an opposing pair of objectives in the spirit of yin-yang philosophy. The game
+  blends hand management with careful timing, as players must navigate the tension between
+  scoring and avoiding penalty cards. Its compact ruleset and quick plays make it an accessible
+  filler with surprising strategic depth.
+
+upgrades: []

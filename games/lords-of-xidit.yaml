@@ -1,0 +1,63 @@
+id: lords-of-xidit
+name: "Lords of Xidit"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Action Points
+  - Area Control
+  - Simultaneous Action
+  - Route Building
+  - Fantasy
+  - Euro
+
+evokes:
+  - Agency
+  - Tension
+  - Clever
+  - Rivalry
+  - Masterful
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Régis Bonnessée
+publisher:
+  - Asmodee
+artist:
+  - Stéphane Gantiez
+  - Biboun
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Lords of Xidit is a programming and pick-up-and-deliver game set in the Seasons universe
+  where players secretly assign their hero's actions for five turns before anyone moves.
+  Each round players recruit soldiers and bards in cities, then use them to defeat monsters
+  and claim influence in regions. The simultaneous programming means players race to beat
+  each other to the most desirable locations without knowing exactly where rivals will go.
+  Unique elimination-based scoring—where the player last in each category is removed
+  before tallying—adds distinctive end-game tension.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: suomen-vapaussota
+name: "Suomen vapaussota"
+alternate_names: ["Finnish War of Liberation"]
+year: 1918
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Minerva
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Suomen vapaussota is a 1918 Finnish board wargame published by Minerva covering the Finnish War of Independence (Finnish Civil War) of the same year. Published in the very year of the conflict it depicts, it is a historically significant early example of a contemporaneous war game, covering the White and Red forces that fought in Finland's brief but bloody civil war following the country's declaration of independence from Russia. Information about the game's mechanics and designer is extremely limited due to its age and domestic Finnish publication, but it stands as a notable artifact of early twentieth-century board game history.
+
+upgrades: []

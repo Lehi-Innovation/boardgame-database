@@ -1,0 +1,55 @@
+id: the-vale-of-eternity-2023
+name: "The Vale of Eternity"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Set Collection
+  - Fantasy
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Eric Hong
+publisher:
+  - Mandoo Games
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+description: |
+  The Vale of Eternity is a 2023 card drafting and set collection game designed by Eric Hong for Mandoo Games, distributed by Renegade Game Studios. Players take the role of monster tamers who draft creatures from five fantastical card families, managing a tight currency system of Magic Stones (valued 1, 3, and 6) that players can hold at most four of at a time. Cards drafted must later be summoned by paying stones, creating difficult decisions about when to sell cards for income versus committing to summon them for their powers and end-game scoring. The elegant economy and quick play time make it an excellent filler with genuine strategic texture.
+
+upgrades: []

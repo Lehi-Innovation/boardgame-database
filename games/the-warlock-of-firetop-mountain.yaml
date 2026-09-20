@@ -1,0 +1,55 @@
+id: the-warlock-of-firetop-mountain
+name: "The Warlock of Firetop Mountain"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Dice Rolling
+  - Variable Player Powers
+  - Fantasy
+  - Family
+
+evokes:
+  - Discovery
+  - Tension
+  - Dread
+  - Lucky
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Games Workshop
+artist:
+  - Peter Andrew Jones
+  - Dave Andrews
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 10
+
+description: |
+  The Warlock of Firetop Mountain is a 1986 adventure board game by Games Workshop designed by Steve Jackson, based on the pioneering Fighting Fantasy gamebook of the same name co-authored by Jackson and Ian Livingstone in 1982. Two to six players roam a labyrinthine dungeon fighting creatures, finding treasure, and searching for three keys needed to open the Warlock Zagor's treasure chest. Each character has SKILL, STAMINA, and LUCK scores that mirror the gamebook's combat system, and players must deduce the correct key combination while competing and sometimes stealing keys from each other. The game helped establish the dungeon crawl board game genre and remains a nostalgic classic of 1980s British gaming.
+
+upgrades: []

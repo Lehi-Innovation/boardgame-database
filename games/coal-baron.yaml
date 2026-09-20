@@ -1,0 +1,58 @@
+id: coal-baron
+name: "Coal Baron"
+alternate_names:
+  - "Glück Auf"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Set Collection
+  - Action Points
+  - Economic
+  - Euro
+  - Michael Kiesling
+  - Wolfgang Kramer
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - eggertspiele
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Coal Baron is a worker placement game for 2–4 players designed by Wolfgang Kramer and Michael Kiesling in which players send miners underground to dig tunnels, extract coal of four quality levels, and fulfill lucrative contracts. Workers can be stacked on already-occupied spaces (each extra worker costs an additional action), creating a dynamic bidding-like tension for scarce action spots. The spatial puzzle of tunnel digging combined with the contract fulfillment race delivers a satisfying medium-weight Euro with strong thematic immersion in the coal mining industry.
+
+upgrades: []

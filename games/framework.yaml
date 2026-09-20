@@ -1,0 +1,61 @@
+id: framework
+name: "Framework"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Abstract
+  - Euro
+  - Uwe Rosenberg
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Puzzle Solving
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Edition Spielwiese
+  - Pegasus Spiele
+artist:
+  - Lukas Siegmon
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Framework is a fast abstract tile-placement game by Uwe Rosenberg in which players
+  draft tiles depicting frames and tasks in four colors. Each turn the lead player draws
+  one more tile than there are players, and each player selects one to place adjacent
+  to their existing display, checking whether tasks on tiles are completed. The first
+  player to place all of their tokens on completed tasks wins. A solo mode challenges
+  players to fill a 5x5 grid as efficiently as possible.
+
+upgrades: []

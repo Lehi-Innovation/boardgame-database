@@ -1,0 +1,54 @@
+id: sun-tzu
+name: "Sun Tzu"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Bluffing
+  - Abstract
+  - Historical
+  - Ancient
+
+evokes:
+  - Tension
+  - Mystery
+  - Clever
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Al Newman
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Sun Tzu is a 2005 Matagot two-player area control and hand management game set during the ancient Chinese struggle between the states of Wu and Chu. Each player holds cards numbered 1-6 (which cycle back to hand after use), simultaneously assigning one card face-down to each of five provinces on the central map. Cards are then revealed and compared — higher values claim the province, pushing a scoring marker toward the victor's side of the track. Over nine rounds, players probe each other's tendencies, bluff, and adjust strategy in what plays like psychological warfare inspired by the Art of War.
+
+upgrades: []

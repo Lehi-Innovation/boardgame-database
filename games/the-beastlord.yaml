@@ -1,0 +1,61 @@
+id: the-beastlord
+name: "The Beastlord"
+alternate_names:
+  - "The BeastLord: A Game of Wizardry & Warfare"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Hidden Movement
+  - Area Control
+  - Variable Player Powers
+  - Wargame
+  - Fantasy
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Michael S. Matheny
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Beastlord is a 1979 Yaquinto Publications fantasy wargame and one of that publisher's eight
+  inaugural titles. Set in the valley of Cym Bel Eanon, two to four players command one of four
+  warring factions — elves, goblins, humans, and beasts — each with distinct strengths and
+  capabilities. The game uses a hex-and-counter movement system with hidden movement and variable
+  victory conditions, making each faction's path to victory different and preventing simple
+  rush-and-conquer strategies. It captures the flavor of classic fantasy warfare at the tactical
+  level in a relatively accessible format.
+
+upgrades: []

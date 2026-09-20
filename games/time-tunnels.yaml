@@ -1,0 +1,49 @@
+id: time-tunnels
+name: "Time Tunnels"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Space
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Time Tunnels is a 1981 science fiction wargame in which two to four players build fleets for strategic space warfare. Players command forces through temporal and spatial tunnels, competing for control of space using fleet management and strategic positioning. The game is an obscure entry in the 1980s space wargame genre with limited documentation available.
+
+upgrades: []

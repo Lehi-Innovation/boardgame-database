@@ -1,0 +1,52 @@
+id: warriors-of-mars
+name: "Warriors of Mars"
+alternate_names:
+  - "Warriors of Mars: The Warfare of Barsoom in Miniature"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Fantasy
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Warriors of Mars is a 1974 miniatures wargame rule book written by Gary Gygax and Brian Blume and published by TSR, simulating combat in the fictional world of Barsoom from Edgar Rice Burroughs' John Carter of Mars novels. The 56-page booklet was published in the same style as the original Dungeons & Dragons rules and shares artist Greg Bell. TSR published the game without permission from the Burroughs estate, and after a cease and desist order the game was pulled from distribution, making surviving copies rare and valuable. It stands as an important artifact of the very earliest days of TSR and the tabletop gaming hobby.
+
+upgrades: []

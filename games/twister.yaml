@@ -1,0 +1,49 @@
+id: twister
+name: "Twister"
+alternate_names: []
+year: 1966
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Twister is the iconic physical party game created by Charles Foley and Neil Rabens and published by Milton Bradley in 1966. Players place hands and feet on colored dots on a vinyl mat as directed by a spinner — right hand red, left foot blue — while trying not to fall as positions become increasingly contorted. The game became a cultural phenomenon after actress Eva Gabor played it with Johnny Carson on The Tonight Show on May 3, 1966, selling 3 million units by year's end. Now published by Hasbro, it remains one of the best-selling games of all time.
+
+upgrades: []

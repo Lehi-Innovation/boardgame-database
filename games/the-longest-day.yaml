@@ -1,0 +1,53 @@
+id: the-longest-day
+name: "The Longest Day"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Randall C. Reed
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 1200
+min_playtime: 180
+max_playtime: 3000
+min_age: 14
+
+description: |
+  The Longest Day is a massive 1979 wargame by Avalon Hill simulating the Allied D-Day invasion of June 1944 and the subsequent Normandy campaign through August 31, 1944. Featuring over 1,500 counters representing battalion-sized units across seven map boards depicting the invasion beaches and surrounding French countryside, it is one of Avalon Hill's most ambitious "monster" wargames. Two players command Allied and German forces respectively across dozens of historical scenarios or the full campaign, with scenarios ranging from 3-12 hours and the full campaign requiring 30+ hours. The game is noted for its immense scope and demanding operational complexity.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: unhappy-king-charles
+name: "Unhappy King Charles!"
+alternate_names:
+  - "Unhappy King Charles"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Card Drafting
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Charles Vasey
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Unhappy King Charles! is a card-driven two-player wargame covering the English Civil War of 1642-1645, designed by Charles Vasey and originally published by GMT Games in 2008 (republished by PHALANX). Players command either Royalist or Parliamentarian forces, competing for control of England's regions and economic centers. Based on Mark Herman's "We the People" card-driven design, the game expertly captures the English Civil War's unique characteristics: the high desertions rate, difficulty controlling regional troops, and the gradually growing strength of Parliament. It is highly regarded for thematic historical accuracy combined with accessible card-driven mechanics.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: victory-by-any-means
+name: "Victory by Any Means"
+alternate_names:
+  - "VBAM"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Sci-Fi
+  - Space
+  - Economic
+  - Negotiation
+
+evokes:
+  - Powerful
+  - Agency
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Jay Waschak
+  - Byron Sinor
+publisher: []
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 14
+
+description: |
+  Victory by Any Means (VBAM) is a strategic-level 4X space game published by VBAM Games in 2004, designed by Jay Waschak and Byron Sinor. Set two centuries after the collapse of the last galactic civilization, players guide interstellar powers competing through exploration, diplomacy, economic development, and military conquest across the stars. A second edition followed in 2015 with refined mechanics. The game is notable for its comprehensive approach to simulating a complete interstellar civilisation's rise to power, making it a favourite in the grand strategy wargaming niche.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: orongo
+name: "Orongo"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Set Collection
+  - Family
+  - Gateway
+  - Ancient
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Progress
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 10
+
+description: |
+  Orongo is a 2014 bidding and building game by Reiner Knizia, published by Ravensburger, set on the mysterious Easter Island where players pay homage to the gods and erect the famous giant stone moai statues. Players bid shells to claim the best building sites and resources needed to construct the statues, combining a repeated auction structure with area-control scoring. The game ends when a player completes all of their own moai and then helps construct the communal seventh moai on the board. Simple rules and an intriguing blend of bidding and placement make Orongo an accessible strategy game for families.
+
+upgrades: []

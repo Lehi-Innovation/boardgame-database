@@ -1,0 +1,50 @@
+id: truc-y-flou
+name: "Truc y flou"
+alternate_names:
+  - "Truc y Flou"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Bluffing
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Persuasion
+  - Lucky
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Truc y flou is a traditional card game from the Aragon region of Spain, now primarily played in the French Pyrenees valleys of Aure, Louron, and Oueil. Part of the Put family of trick-taking games, it is related to Aluette, Brisca, and Mus. A defining feature is the rich communication and bluffing culture between partners, where signaling and deception are integral to winning. The game is a regional folk tradition with no known commercial publisher or fixed designer.
+
+upgrades: []

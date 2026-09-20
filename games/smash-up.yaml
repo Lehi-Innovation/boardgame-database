@@ -1,0 +1,61 @@
+id: smash-up
+name: "Smash Up"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Card Drafting
+  - Area Control
+  - Variable Player Powers
+  - Fantasy
+  - Sci-Fi
+  - Party
+  - Gateway
+
+evokes:
+  - Unique
+  - Humor
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Paul Peterson
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Smash Up, designed by Paul Peterson and published by Alderac Entertainment Group, is the "shufflebuilding" game
+  where players combine two 20-card faction decks into a single 40-card deck. Eight factions — including Pirates,
+  Zombies, Dinosaurs, Robots, Ninjas, Aliens, Wizards, and Tricksters — each bring unique mechanics to the table,
+  such as pirates moving cards and zombies recycling discards. Players race to smash Bases by accumulating the most
+  power tokens on them, with points awarded for first through third place. Every faction combination creates a
+  completely different playstyle.
+
+upgrades: []

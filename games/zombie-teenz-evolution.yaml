@@ -1,0 +1,55 @@
+id: zombie-teenz-evolution
+name: "Zombie Teenz Evolution"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: zombie-kidz-evolution
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Legacy
+  - Dice Rolling
+  - Action Points
+  - Events
+  - Family
+  - Zombies
+
+evokes:
+  - Tension
+  - Progress
+  - Connection
+  - Discovery
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Annick Lobet
+publisher:
+  - Le Scorpion Masqué
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Zombie Teenz Evolution is a standalone cooperative legacy game for 2–4 players and the successor to Zombie Kidz Evolution, designed by Annick Lobet. Players work together to defend their town from a zombie invasion by rolling dice and moving their teenage heroes to bash zombies and complete special missions. Like the original, the game includes sealed envelopes that unlock new rules, characters, and story content as players win or lose games, creating a persistent campaign with escalating complexity. The evolution system gives the game genuine long-term appeal, with the gradual narrative revelations rewarding continued play across a full campaign arc.
+
+upgrades: []

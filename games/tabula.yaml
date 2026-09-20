@@ -1,0 +1,57 @@
+id: tabula
+name: "tabula"
+alternate_names: ["Tabula (Roman Backgammon)"]
+year: 0
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Abstract
+  - Ancient
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Tabula is an ancient Greco-Roman board game, an early predecessor to
+  backgammon, that was popular across the Roman Empire from approximately the
+  1st century AD. Played on a board with 24 points arranged like a modern
+  backgammon board, each of two players moves 15 pieces anticlockwise according
+  to the roll of three six-sided dice. Unlike modern backgammon, all pieces
+  enter the board from the start and both players move in the same direction.
+  Single pieces on a point can be captured and must restart. Emperor Claudius
+  was a noted enthusiast and reportedly wrote a book on the game.
+
+upgrades: []

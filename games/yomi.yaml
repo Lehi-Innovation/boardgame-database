@@ -1,0 +1,61 @@
+id: yomi
+name: "Yomi"
+alternate_names:
+  - "Yomi: Fighting Card Game"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Bluffing
+  - Hand Management
+  - Asymmetric
+  - Variable Player Powers
+  - Abstract
+  - Cult Classic
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Sirlin
+publisher:
+  - Sirlin Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Yomi is a head-to-head fighting card game designed by David Sirlin to capture the mind games
+  of competitive fighting video games in card form. Each player has a fixed 52-card deck
+  representing a unique character, and simultaneous play resolves via a rock-paper-scissors
+  hierarchy: attacks beat throws but lose to blocks, throws beat blocks but lose to attacks.
+  Jokers can rewind a combo, and face cards represent powerful special moves. The deep asymmetry
+  between characters and the intense prediction element reward mastery across many plays.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: squirrel-rush
+name: "Squirrel Rush"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Puzzle Solving
+  - Animals
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Tailor Games
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Squirrel Rush is a tile-laying and collection game published by Tailor Games in which players help forgetful
+  squirrels gather nuts, acorns, and chestnuts from an autumn forest glade before winter arrives. Players build
+  the glade from tiles and navigate the hidden bounty beneath autumn leaves, using special actions to maximize
+  the food they collect with logical efficiency. Designed for 2 to 6 players ages 6 and up, it combines simple
+  set-collection goals with light tactical planning in a charming seasonal woodland theme.
+
+upgrades: []

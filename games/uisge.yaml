@@ -1,0 +1,49 @@
+id: uisge
+name: "Uisge"
+alternate_names:
+  - "Skorpion"
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Roland Siegers
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Uisge (Scottish Gaelic for "water," pronounced similarly to "whisky") is a two-player abstract strategy game designed by Roland Siegers and published by Hexagames in 1984 (also known as Skorpion). Players race to flip all their playing stones on a rectangular grid through careful positioning and tactical moves. The game was featured as a "break-away game" in Spielbox magazine in 1983, earning early recognition among European abstract strategy enthusiasts.
+
+upgrades: []

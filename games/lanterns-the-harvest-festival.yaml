@@ -1,0 +1,55 @@
+id: lanterns-the-harvest-festival
+name: "Lanterns: The Harvest Festival"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Hand Management
+  - Drafting
+  - Family
+  - Gateway
+  - Renegade Game Studios
+
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Christopher Chung
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 8
+
+description: |
+  Lanterns: The Harvest Festival is a 2015 tile-placement and set-collection game by Christopher Chung, published by Renegade Game Studios, set in imperial China where artisans decorate the palace lake with floating lanterns before the harvest festival begins. When a player places a lake tile, all players — including opponents — receive lantern cards corresponding to the colors on the sides of the tile facing them, creating an interactive distribution mechanism. Players then dedicate sets of lantern cards to earn honor tokens, with larger and rarer color sets yielding more points. A 2015 Mensa Select winner, it offers an elegant, colorful, and low-conflict experience ideal for families and new gamers.
+
+upgrades: []

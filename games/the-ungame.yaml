@@ -1,0 +1,52 @@
+id: the-ungame
+name: "The Ungame"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - No Math
+  - Party
+  - Family
+
+evokes:
+  - Connection
+  - Unique
+  - Discovery
+  - Wonder
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Rhea Zakich
+publisher:
+  - The Ungame Company
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 5
+
+description: |
+  The Ungame is a 1973 non-competitive conversation game created by Rhea Zakich, inspired by a period of forced silence during her recovery from vocal cord surgery that made her reflect on how little her family really communicated. Players move around an endless loop board with no finish line, drawing cards that pose open-ended questions about themselves which must be answered while other players listen without judgment. There are no winners or losers—the game's sole purpose is to foster listening, self-expression, and authentic conversation. It is widely used in therapy and educational settings and represents a unique genre of social-emotional board games.
+
+upgrades: []

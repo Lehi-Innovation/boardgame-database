@@ -1,0 +1,50 @@
+id: viewpoint
+name: "Viewpoint"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Hand Management
+  - Party
+
+evokes:
+  - Humor
+  - Clever
+  - Rivalry
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sean Carroll
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Viewpoint is a card game designed by Sean Carroll and published by 93 Made Games, first released at Gen Con Oz in September 2009. The game uses specially printed cards whose themes are all built around wordplay and visual concepts related to sight and perspective — cards such as "Spectacles," "Eye Spy," and "Blind Freddie." It was later reimplemented as Viewpoint Revisioned, the first entry in the "Viewniverse" episodic card game series. The original Australian release is a compact and playful filler game suited to casual groups.
+
+upgrades: []

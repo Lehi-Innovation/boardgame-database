@@ -1,0 +1,55 @@
+id: slick
+name: "Slick!"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Auctions/Bidding
+  - Set Collection
+  - Euro
+
+evokes:
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+  - Progress
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - David Watts
+publisher:
+  - Rostherne Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Slick! is a stock market and oil industry board game published by Rostherne Games in 1988, designed by David
+  Watts. Players buy shares in seven fictional oil companies, competing to gain controlling interests and maximize
+  returns. The game centers on economic maneuvering and share accumulation across a commodity market theme, though
+  reviewers of the era found its game system somewhat uninspiring despite reasonable production quality.
+
+upgrades: []

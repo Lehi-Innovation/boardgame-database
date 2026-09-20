@@ -1,0 +1,52 @@
+id: starfall
+name: "Starfall"
+alternate_names: ["Starfall: A Game of Exploration and Conflict in Space"]
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Area Control
+  - Hex Map
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Progress
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  Starfall is a 1979 Yaquinto Publications space exploration and colonization game for 1-4 players set in the 24th century. Players build ships to explore a stellar cluster, generate detailed worlds, decide whether to colonize planets, and deal with any native inhabitants. Wormholes may be discovered during play, changing the topology of the galaxy map. Unlike many wargames of its era, Starfall is primarily an economic game — players compete over colonization rather than direct military conquest, though armed conflict is possible. Despite being published by a known wargame publisher, the game rewards economic strategy over pure military aggression.
+
+upgrades: []

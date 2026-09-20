@@ -1,0 +1,57 @@
+id: sorry
+name: "Sorry!"
+alternate_names: []
+year: 1929
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Take That
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Sorry! is a classic race-and-pounce board game patented in England in 1929 by William Henry Storey, adopted
+  by Parker Brothers in 1934 and now owned by Hasbro. Players draw cards rather than roll dice to move pawns
+  from Start to Home, using special "Sorry!" cards to bump opponents back to the beginning. Slides, Safety Zones,
+  and strategic card play add modest tactical decisions to an otherwise luck-driven chase, making it a perennial
+  family favorite for generations of players.
+
+upgrades: []

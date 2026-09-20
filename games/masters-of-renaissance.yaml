@@ -1,0 +1,66 @@
+id: masters-of-renaissance
+name: "Masters of Renaissance: Lorenzo il Magnifico – The Card Game"
+alternate_names:
+  - "Masters of Renaissance"
+year: 2020
+
+# Relationships
+game_family: lorenzo-il-magnifico
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - lorenzo-il-magnifico
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Resource Management
+  - Card Drafting
+  - Tableau Building
+  - Euro
+  - Historical
+  - Medieval
+  - Simone Luciani
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Simone Luciani
+  - Nestore Mangone
+publisher:
+  - Cranio Creations
+artist:
+  - Klemens Franz
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Masters of Renaissance is a streamlined card game distilling the essence of Lorenzo il
+  Magnifico into an accessible, physical-puzzle format. Players push colored marbles through
+  a 3×4 grid market, collecting resources based on which row or column they displace marbles
+  from, then spend those resources to buy development cards and advance on personal tracks.
+  Cards trigger chain reactions of resource conversion, building satisfying engines. The
+  tactile marble-market mechanic is unique among card games and makes resource gathering
+  feel physical and intuitive even in this lighter format.
+
+upgrades: []

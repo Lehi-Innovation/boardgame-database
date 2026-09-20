@@ -1,0 +1,52 @@
+id: tsushima
+name: "Tsushima"
+alternate_names:
+  - "Tsushima - The Russo-Japanese War"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Maritime
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Marc W. Miller
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Tsushima is a naval wargame designed by Marc W. Miller and published by Game Designers' Workshop in 1975, simulating the decisive naval battles of the Russo-Japanese War of 1904-1905. The game was published as part of the two-game set The Russo-Japanese War alongside Port Arthur, which covered the land campaign. One player commands the Imperial Japanese Navy and the other the Russian fleet, recreating the strategic and tactical decisions of one of history's most dramatic naval engagements. Artwork was by Rich Banner.
+
+upgrades: []

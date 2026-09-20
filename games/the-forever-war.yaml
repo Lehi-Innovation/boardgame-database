@@ -1,0 +1,61 @@
+id: the-forever-war
+name: "The Forever War"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Variable Setup
+  - Sci-Fi
+  - Space
+  - Aliens
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Clouse
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Forever War is a 1983 Mayfair Games board game based on Joe Haldeman's acclaimed science
+  fiction novel of the same name about humanity's millennia-spanning war against the alien Taurans.
+  The two-player tactical game simulates squad-level infantry combat in space, with soldiers fighting
+  across vast distances while relativistic time dilation means warriors return from battle to find
+  centuries have passed at home. Ten scenarios cover key engagements from the novel, and a point-
+  value chart allows players to design custom scenarios. The hex-and-counter system captures the
+  novel's theme of impersonal, technologically overwhelming warfare.
+
+upgrades: []

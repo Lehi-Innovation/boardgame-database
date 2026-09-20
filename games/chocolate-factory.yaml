@@ -1,0 +1,56 @@
+id: chocolate-factory
+name: "Chocolate Factory"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Action Points
+  - Economic
+  - Euro
+  - Food Theme
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Matthew Dunstan
+  - Brett J. Gilbert
+publisher:
+  - Alley Cat Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Chocolate Factory is a Euro game of literal factory building in which players draft employee cards and construct a physical production line using a pushable conveyor belt to manufacture chocolates and fulfill customer orders. Each factory is unique, built from drafted machinery tiles that process raw cacao through different stages, and the physical act of pushing wooden chocolate pieces along the belt brings the theme gloriously to life. The combination of card drafting, spatial factory planning, and the tactile conveyor belt mechanic makes Chocolate Factory a standout production-engine game.
+
+upgrades: []

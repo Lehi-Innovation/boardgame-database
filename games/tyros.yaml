@@ -1,0 +1,54 @@
+id: tyros
+name: "Tyros"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Area Control
+  - Set Collection
+  - Hand Management
+  - Trading
+  - Resource Management
+  - Martin Wallace
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Martin Wallace
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Tyros is a 2002 Euro strategy game designed by Martin Wallace and published by 999 Games and Thames & Kosmos. Players compete for area majority and influence on a grid, managing hand cards and trading resources to achieve end-game scoring conditions. The game incorporates multiple mechanics including resource management, set collection, and grid movement, offering the kind of tightly interlocking strategic decisions characteristic of Wallace's design work from this period.
+
+upgrades: []

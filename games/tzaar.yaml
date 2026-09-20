@@ -1,0 +1,50 @@
+id: tzaar
+name: "TZAAR"
+alternate_names:
+  - "Tzaar"
+year: 2007
+
+# Relationships
+game_family: gipf-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kris Burm
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  TZAAR is a two-player abstract strategy game by Kris Burm, part of the celebrated GIPF Project series, published in 2007. Played on a hexagonal grid, each player begins with 30 pieces divided into three types — 6 Tzaars, 9 Tzarras, and 15 Totts — forming an interdependent trinity where losing all pieces of one type means defeat. Each turn, players must capture an opponent's piece, then optionally strengthen their position by stacking pieces. The design creates constant dilemmas between weakening the opponent and fortifying one's own forces. TZAAR replaced TAMSK in the official GIPF Project lineup, received a Spiel des Jahres recommendation in 2008, and won Games Magazine Game of the Year 2009.
+
+upgrades: []

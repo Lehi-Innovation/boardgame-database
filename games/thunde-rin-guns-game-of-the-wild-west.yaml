@@ -1,0 +1,50 @@
+id: thunde-rin-guns-game-of-the-wild-west
+name: "Thunde-Rin Guns, Game of the Wild West"
+alternate_names: []
+year: 1950
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Western
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Thunde-Rin Guns, Game of the Wild West is a vintage Western-themed board game in which players take on the roles of cowboy gunfighters competing in the lawless frontier. The game features dice-based mechanics to resolve shootouts, chases, and other Wild West encounters as players race toward victory. Specific publisher, designer, and precise release year details are limited due to the game's obscurity as a mid-century novelty game tied to the Western entertainment craze of the 1950s.
+
+upgrades: []

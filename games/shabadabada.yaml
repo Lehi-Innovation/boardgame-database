@@ -1,0 +1,51 @@
+id: shabadabada
+name: "Shabadabada"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Word Play
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+true_counts: [6, 8, 10]
+
+designer:
+  - Sylvie Barc
+publisher:
+  - La Haute Roche
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Shabadabada is a French party card game designed by Sylvie Barc and published by La Haute Roche in 2002, in which two teams compete to recall and sing songs containing a given word. A card is drawn showing a word in French and one in English, and teams alternately come up with different songs featuring that word, singing a brief excerpt, until one team can no longer respond. The game's noisy, musical format — requiring no board or counters, just cards and voices — makes it a beloved French social game for large gatherings.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: the-game-of-jaws
+name: "The Game of Jaws"
+alternate_names:
+  - "Jaws"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Horror
+
+evokes:
+  - Tension
+  - Lucky
+  - Dread
+  - Humor
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ideal Toy Company
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  The Game of Jaws is a 1975 dexterity game by Ideal Toy Company, inspired by the blockbuster
+  Steven Spielberg film. Players load 13 plastic junk pieces into a toy shark's open mouth, then
+  take turns naming a piece and attempting to extract it using a plastic gaff hook. The first
+  player to successfully remove four pieces (or five in a two-player game) wins. The tension of
+  carefully maneuvering the gaff hook around other objects without triggering the shark's spring-
+  loaded jaw — and the inevitable chomping when something goes wrong — made it a beloved childhood
+  classic. The original 1975 edition is now a sought-after collector's item.
+
+upgrades: []

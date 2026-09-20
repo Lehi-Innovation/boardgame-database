@@ -1,0 +1,54 @@
+id: spot-it
+name: "Spot it!"
+alternate_names: ["Dobble"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Set Collection
+  - Pattern Building
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Denis Blanchot
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Spot it! (known as Dobble in Europe) is a lightning-fast visual perception game for 2–8 players published by Asmodee, originally released in France in 2009. The game's 55 round cards each bear 8 symbols, and by clever mathematical construction, any two cards share exactly one matching symbol. Players race to find the matching symbol between two cards before their opponents, using five different mini-games with the same deck. Simple enough for young children yet genuinely challenging at speed, Spot it! has become one of the best-selling card games in the world.
+
+upgrades: []

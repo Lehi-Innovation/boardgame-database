@@ -1,0 +1,57 @@
+id: shadows-over-camelot
+name: "Shadows over Camelot"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Traitor
+  - Hand Management
+  - Fantasy
+  - Medieval
+  - Mythology
+  - Days of Wonder
+  - Bruno Cathala
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Mystery
+  - Powerful
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Serge Laget
+  - Bruno Cathala
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Shadows over Camelot is a cooperative Arthurian board game for 3–7 players designed by Serge Laget and Bruno Cathala, in which the Knights of the Round Table work together to complete quests — from seeking the Holy Grail to defeating the Black Knight — while managing a constant tide of evil events. One player may secretly be a traitor, biding their time to undermine the group at the worst moment. Success places white swords on the Round Table while failures add black swords and siege engines; if twelve swords appear or Camelot is overwhelmed, all loyal knights lose. It was one of the first major cooperative games with an optional traitor mechanic.
+
+upgrades: []

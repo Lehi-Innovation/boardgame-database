@@ -1,0 +1,63 @@
+id: llama
+name: "L.L.A.M.A."
+alternate_names:
+  - "LAMA"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Party
+  - Filler
+  - Reiner Knizia
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Amigo
+artist:
+  - Falk Esterhazy
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  L.L.A.M.A. is a fast card-shedding game by Reiner Knizia nominated for the Spiel des
+  Jahres in 2019. Players try to empty their hand of cards numbered 1 to 6 (plus special
+  llama cards) by playing matching or next-higher values—but can only do so in ascending
+  sequence. When stuck, a player may quit the round to limit their penalty points, or press
+  their luck and stay in. The simple rules, push-your-luck tension, and charming llama
+  theme make it an instant crowd-pleaser for all ages.
+
+upgrades: []

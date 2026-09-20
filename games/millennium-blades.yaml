@@ -1,0 +1,55 @@
+id: millennium-blades
+name: "Millennium Blades"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Trading
+  - Set Collection
+  - Real-time
+  - Hand Management
+  - Cult Classic
+  - Unique
+
+evokes:
+  - Humor
+  - Clever
+  - Rivalry
+  - Lucky
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - D. Brad Talton Jr.
+publisher:
+  - Level 99 Games
+artist: []
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+description: |
+  Millennium Blades is a 2-5 player game by D. Brad Talton Jr. that simulates the full experience of playing a fictional collectible card game — from pre-release night opening packs to competing at the World Championship tournament. Players begin with starter decks, open new card packs, trade with opponents in real-time pre-tournament phases, build optimized tournament decks, and then compete in structured tournament rounds. The game brilliantly satirizes CCG culture while delivering genuinely deep deckbuilding decisions, and its massive card pool (with expansions) ensures enormous variety. The combination of chaotic real-time trading and precise tournament play makes Millennium Blades a uniquely memorable and thematic experience.
+
+upgrades: []

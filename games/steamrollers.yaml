@@ -1,0 +1,55 @@
+id: steamrollers
+name: "SteamRollers"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Network Building
+  - Route Building
+  - Dice Rolling
+  - Trains
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Progress
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mark Gerrits
+publisher:
+  - Flatlined Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  SteamRollers is a roll-and-write train game designed by Mark Gerrits and published by Flatlined Games, debuting at Essen 2015. Each turn players roll and draft dice, then use those dice to extend their rail network across a shared map, connecting cities to earn income and pick up goods for delivery. The simultaneous drafting and writing keeps all players engaged throughout, while route-building decisions create mounting tension as players compete for the same lucrative connections. SteamRollers distills classic train game appeal into a compact, accessible package.
+
+upgrades: []

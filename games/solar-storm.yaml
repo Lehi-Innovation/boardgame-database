@@ -1,0 +1,53 @@
+id: solar-storm
+name: "Solar Storm"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Resource Management
+  - Action Points
+  - Sci-Fi
+  - Space
+  - Gateway
+
+evokes:
+  - Tension
+  - Connection
+  - Dread
+  - Progress
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Ayden Lowther
+publisher:
+  - Dranda Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Solar Storm is a cooperative hand-management survival game for 1-4 players designed by Ayden Lowther, winner of the UK Games Expo Award for Best Strategic Card Game in 2020. Players are crew members aboard a ship caught in the sun's gravitational pull after a solar flare has disabled the energy core. On each turn players may take up to 3 actions — moving through the ship's areas, using resource cards to repair damage, diverting power, or sharing resources with crewmates. Win by restoring power to all areas before the resource deck runs out or an area takes fatal damage.

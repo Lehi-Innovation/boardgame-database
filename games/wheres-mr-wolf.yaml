@@ -1,0 +1,52 @@
+id: wheres-mr-wolf
+name: "Where's Mr. Wolf?"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Family
+  - No Math
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Dread
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Where's Mr. Wolf? is a fully cooperative memory game for 1–4 players designed by Marie Fort and Wilfried Fort and published by Blue Orange Games, in which players work together to help all the farm animals get back to their barns before the wolf arrives. Players take turns flipping over animal tokens on the board; when a farm animal is revealed, it is placed in its matching barn, but when Mr. Wolf appears, he moves one step closer to the barns. If Mr. Wolf reaches the barns, everyone loses. Designed for ages 4 and up, the game builds memory, matching, and communication skills through a gentle but genuinely tense shared experience.
+
+upgrades: []

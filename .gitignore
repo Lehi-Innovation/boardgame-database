@@ -41,3 +41,7 @@ games.db
 .env.*
 !.env.example
 .local/
+
+# Python bytecode
+__pycache__/
+*.pyc

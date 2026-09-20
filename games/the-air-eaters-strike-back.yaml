@@ -1,0 +1,59 @@
+id: the-air-eaters-strike-back
+name: "The Air-Eaters Strike Back!"
+alternate_names:
+  - "MetaGame #1: The Air-Eaters Strike Back"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Aliens
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Air-Eaters Strike Back! is a microgame (MetaGame #1) published by Metagaming Concepts in 1981,
+  serving as a sequel to Invasion of the Air-Eaters. The game is a compact hex-and-counter strategic
+  simulation of an alien invasion that has expanded beyond Earth to encompass the inner solar system
+  in the 21st century, with turns representing three-month intervals. Planets move in their orbits
+  and spaceships travel between planetary bodies, giving the game a realistic spatial quality unusual
+  for games of its era. The small format made it part of Metagaming's influential microgame line,
+  which pioneered affordable, fast-playing wargames.
+
+upgrades: []

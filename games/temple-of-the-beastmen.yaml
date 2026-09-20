@@ -1,0 +1,59 @@
+id: temple-of-the-beastmen
+name: "Temple of the Beastmen"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Dungeon Crawler
+  - Fantasy
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Tension
+  - Dread
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Temple of the Beastmen is a cooperative dungeon-crawl board game published
+  by Game Designers' Workshop in 1989, set in the Space 1889 steampunk science
+  fiction universe. Players lead a team of up to ten adventurers into the mines
+  of the sinister Martian King Gnaashriik to rescue slaves and collect treasure.
+  The mine is generated from shuffled face-down tiles placed five levels deep,
+  creating a different dungeon layout each game. A card deck drives discoveries,
+  hidden passages, traps, and combat as characters with unique abilities and
+  special scoring conditions explore the procedurally-generated maze together.
+
+upgrades: []

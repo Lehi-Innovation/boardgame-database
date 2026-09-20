@@ -1,0 +1,64 @@
+id: the-british-way
+name: "The British Way: Counterinsurgency at the End of Empire"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Area Control
+  - Action Points
+  - Variable Player Powers
+  - Variable Setup
+  - Wargame
+  - Historical
+  - War
+  - Espionage
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Stephen Rangazas
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  The British Way: Counterinsurgency at the End of Empire is a COIN Series multi-pack published by
+  GMT Games in 2023, containing four separate games covering British counterinsurgency campaigns
+  during the end of empire: Kenya, Malaya, Cyprus, and Palestine (1945-1960). Designed by Stephen
+  Rangazas, each game is a two-sided asymmetric conflict between the British colonial administration
+  and local insurgency movements, using the COIN system's familiar action selection but tailored to
+  each unique theater. The multi-pack format allows players to explore thematically related but
+  mechanically distinct conflicts in a single box, examining how Britain managed its retreat from
+  empire across four very different political and geographic contexts.
+
+upgrades: []

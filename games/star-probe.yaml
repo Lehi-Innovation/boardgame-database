@@ -1,0 +1,62 @@
+id: star-probe
+name: "Star Probe"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: star-probe-empires
+edition: null
+base_game: null
+expansions:
+  - star-empires-1977
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Resource Management
+  - Wargame
+  - Events
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - John M. Snider
+publisher:
+  - TSR
+artist:
+  - Paul Snider
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+description: |
+  Star Probe is a science fiction exploration game designed by John M. Snider and published by TSR in 1975,
+  the first of a planned trilogy. Players equip starships with personnel, weapons, fuel, and rations — funded
+  by an initial grant — then explore a three-dimensional star map where systems lie above and below the primary
+  plane. The winning explorer accumulates the most cash and materials within 60 game turns (representing months)
+  by discovering worlds suitable for colonization, trading with alien inhabitants, and occasionally battling
+  rivals. Its procedural planet generation system (using percentile tables for alien types) later influenced
+  the Traveller RPG.
+
+upgrades: []

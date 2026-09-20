@@ -1,0 +1,58 @@
+id: solenia
+name: "Solenia"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Sci-Fi
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Sébastien Dujardin
+publisher:
+  - Pearl Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Solenia is a hand management and resource delivery game designed by Sébastien Dujardin and published by Pearl
+  Games in 2018. Players are Airship Captains navigating the planet Solenia — a world divided between eternal
+  day and eternal night — collecting and delivering precious goods to cities on a modular, scrolling board.
+  On each turn, players play cards to gain resources or fulfill delivery contracts, earning stars and resources
+  as rewards; the strategic challenge lies in timing deliveries before the board scrolls and opportunities vanish.
+
+upgrades: []

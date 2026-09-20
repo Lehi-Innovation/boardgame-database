@@ -1,0 +1,52 @@
+id: yokai
+name: "Yōkai"
+alternate_names: ["Yokai"]
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Hand Management
+  - Fantasy
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Connection
+  - Clever
+  - Mystery
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Yōkai is a cooperative communication-restricted puzzle game themed around Japanese mythology, inspired by the mechanics of the Hanabi-style genre. Players hold their cards facing outward so they can see others' cards but not their own, and must work together to sort yōkai spirits into the correct groups without directly communicating about card content. Special conversation tokens allow limited exchanges of information, and players must read gestures and indirect hints to successfully arrange all the spirits. Quick to play and accessible for families, Yōkai wraps the tense cooperative communication puzzle in a beautiful folkloric aesthetic.
+
+upgrades: []

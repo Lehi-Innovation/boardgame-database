@@ -1,0 +1,55 @@
+id: 1860-railways-on-the-isle-of-wight
+name: "1860: Railways on the Isle of Wight"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Trains
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mike Hutton
+publisher:
+  - JKLM Games
+  - All-Aboard Games
+artist: []
+playtime_minutes: 210
+min_playtime: 150
+max_playtime: 240
+min_age: 14
+
+description: |
+  1860: Railways on the Isle of Wight is an 18xx railroad investment game set on the small English island of the same name, designed by Mike Hutton and first published by JKLM Games in 2004. The compact geography of the Isle of Wight creates a uniquely dense and interactive game where companies quickly run out of room to expand, forcing aggressive competition for routes and stations. The game features a distinctive receivership mechanic where bankrupt companies continue to operate under different management, rather than folding — adding unusual tactical depth and longer game state management. It is considered a challenging but rewarding entry in the 18xx series.
+
+upgrades: []

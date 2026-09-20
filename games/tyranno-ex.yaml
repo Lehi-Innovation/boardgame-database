@@ -1,0 +1,52 @@
+id: tyranno-ex
+name: "Tyranno Ex"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Nature
+  - Area Control
+  - Variable Player Powers
+  - Hand Management
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Karl-Heinz Schmiel
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Tyranno Ex is a prehistoric strategy game designed by Karl-Heinz Schmiel and published by Avalon Hill in 1990. Players evolve their chosen dinosaur species to survive in a constantly shifting environment, with each player able to alter environmental conditions each round. Dinosaurs that cannot adapt to the current habitat face extinction, while survivors must contend with attacks from opponents' species. The game blends Euro-style resource and adaptation mechanics with the dramatic tension of an ever-changing prehistoric world.
+
+upgrades: []

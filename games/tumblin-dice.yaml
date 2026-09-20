@@ -1,0 +1,52 @@
+id: tumblin-dice
+name: "Tumblin' Dice"
+alternate_names:
+  - "Tumblin-Dice"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Family
+  - Press Your Luck
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Tumblin' Dice is a dexterity game in which players take turns flicking, rolling, or sliding their dice down a stepped wooden ramp. After all dice are launched, scores are calculated by multiplying the face value shown on each die by its landing zone multiplier (1x to 4x, increasing with distance). The largest dice score the most but are hardest to control precisely. Designed by Rick Soued, Randy Nash, and Carey Grayson and published in 2004, the game rewards physical skill and reading the board, and has been published in multiple formats by Eagle-Gryphon Games and others.
+
+upgrades: []

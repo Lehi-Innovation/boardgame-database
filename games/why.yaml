@@ -1,0 +1,50 @@
+id: why
+name: "Why"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Family
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Why is an obscure deduction board game from 1979. Very limited published information is available about this title; it appears to be a mystery-themed game in which players use deductive reasoning to identify a solution. Details about the publisher, designer, and specific mechanics are not well-documented in available sources.
+
+upgrades: []

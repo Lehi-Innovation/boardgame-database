@@ -1,0 +1,56 @@
+id: transatlantic
+name: "Transatlantic"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Route Building
+  - Action Points
+  - Economic
+  - Euro
+  - Maritime
+  - Historical
+  - Mac Gerdts
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mac Gerdts
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Transatlantic is a deck-building and route-building game for 2–4 players by Mac Gerdts, following the golden age of ocean steamship travel from the opening of the Suez Canal in 1869 to the start of WWI. Players lead shipping companies, buying historically accurate steamships from an open market and building their individual card decks to unlock new routes and abilities. Each turn, players play a card and execute its action, gradually constructing more efficient engines. The game spans multiple generations of steamship technology, rewarding players who time their investments to ride waves of innovation across the Atlantic and Pacific.
+
+upgrades: []

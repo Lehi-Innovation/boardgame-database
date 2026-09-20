@@ -1,0 +1,58 @@
+id: thebes-2007
+name: "Thebes"
+alternate_names: ["Jenseits von Theben"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Bag Building
+  - Route Building
+  - Press Your Luck
+  - Family
+  - Euro
+  - Historical
+  - Ancient
+
+evokes:
+  - Discovery
+  - Lucky
+  - Tension
+  - Progress
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Peter Prinz
+publisher:
+  - Queen Games
+  - Rio Grande Games
+artist:
+  - Michael Menzel
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Thebes is a 2007 archaeology board game designed by Peter Prinz (originally self-published in Germany as Jenseits von Theben in 2004) in which 2-4 players race as early-20th-century archaeologists to uncover the most spectacular ancient relics. Players spend "weeks" on a time track to travel across Europe, North Africa, and the Middle East collecting knowledge about five ancient civilizations, then excavate sites by drawing tiles from bags that mix genuine artifacts with worthless dirt—returned dirt makes future draws at that site less rewarding. The press-your-luck excavation mechanic and time-track turn order create engaging decisions about when and where to dig, rewarding players who invest deeply in specific civilizations.
+
+upgrades: []

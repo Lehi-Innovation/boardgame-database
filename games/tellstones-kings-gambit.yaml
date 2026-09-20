@@ -1,0 +1,60 @@
+id: tellstones-kings-gambit
+name: "Tellstones: King's Gambit"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Abstract
+  - Fantasy
+
+evokes:
+  - Clever
+  - Tension
+  - Mystery
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 4]
+true_counts: [2]
+
+designer:
+  - Chris Cantrell
+publisher:
+  - Riot Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 12
+
+description: |
+  Tellstones: King's Gambit is a 2020 competitive memory and bluffing game
+  created by Riot Games, set in the League of Legends universe. Players take
+  turns placing, swapping, and hiding polished stone tokens in a shared row,
+  then challenging opponents to name hidden tokens they cannot identify.
+  Correctly naming all face-down stones in the row wins the round via the "Boast"
+  mechanic, but failing loses instead. The game rewards sharp memory and a
+  stone-cold bluffing face, offering a quick and portable experience. Praised
+  for its premium build quality and distinctive fantasy stone components, it plays
+  in under 15 minutes for two players or two teams.
+
+upgrades: []

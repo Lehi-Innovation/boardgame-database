@@ -1,0 +1,59 @@
+id: star-fleet-battle-force
+name: "Star Fleet Battle Force"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: star-fleet-battles
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Dice Rolling
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Variable Player Powers
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stephen V. Cole
+publisher:
+  - Amarillo Design Bureau
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Star Fleet Battle Force is a card-based starship combat game published by Amarillo Design Bureau, set in the
+  Star Fleet Universe. Each starship is represented by a card detailing its weapon types, hull boxes, and special
+  abilities such as Romulan cloaking devices; weapon cards (Phasers, Photon Torpedoes, Disruptors) and event cards
+  drive the action while damage counters track destroyed systems. Rules support one to six players with solitaire
+  and team options, and a Basic/Advanced structure allows players to learn at their own pace. It provides a faster
+  entry point into Star Fleet Battles combat than the flagship game.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: youre-bluffing
+name: "You're Bluffing!"
+alternate_names:
+  - "Tier auf Tier: Das Duell"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Bluffing
+  - Set Collection
+  - Hand Management
+  - Trading
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Persuasion
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Rüdiger Koltze
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  You're Bluffing! is a classic bidding and set-collection card game in which players auction
+  off farm animals from a shuffled deck, trying to complete sets. The auctioneer always retains
+  the right to buy at the highest bid, and trading between players uses simultaneous blind bids
+  revealed together. The interplay between the open auction and the secretive trading, combined
+  with the risk that the auctioneer can snatch a winning animal, creates constant tension and
+  careful bluffing.
+
+upgrades: []

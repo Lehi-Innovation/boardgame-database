@@ -1,0 +1,53 @@
+id: neom
+name: "NEOM"
+alternate_names: ["Neom: Create the City of Tomorrow"]
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tile Placement
+  - Engine Building
+  - Tech Tree
+  - Euro
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Complete
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Paul Sottosanti
+publisher:
+  - Lookout Games
+artist:
+  - Klemens Franz
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  NEOM is a futuristic city-building game for 1-5 players that blends simultaneous card drafting with tile placement, drawing inspiration from 7 Wonders and Carcassonne. Each turn players draft one building tile and place it in their city grid, connecting roads and unlocking an ever-expanding tree of 17 goods that fuel increasingly powerful structures. After three eras of development the player with the most impressive city wins. NEOM rewards tight spatial planning alongside the opportunistic drafting that makes each game feel unique.

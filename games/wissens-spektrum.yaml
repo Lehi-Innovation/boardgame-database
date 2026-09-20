@@ -1,0 +1,51 @@
+id: wissens-spektrum
+name: "Wissens-Spektrum"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - ASS Altenburg-Stralsunder Spielkarten-Fabriken
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Wissens-Spektrum is a German trivia board game published in 1984 that is comparable to Trivial Pursuit. Players move through a circular board, selecting knowledge categories and answering questions from corresponding cards to collect evidence toward winning the "Stone of the Wise." The game spawned numerous expansion packs covering topics such as German history, travel, motorsport, the Olympics, and pop music, allowing the question pool to be extended or refreshed over time.
+
+upgrades: []

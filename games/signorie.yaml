@@ -1,0 +1,54 @@
+id: signorie
+name: "Signorie"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Set Collection
+  - Resource Management
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Andrea Chiarvesio
+  - Pierluca Zizzi
+publisher:
+  - What's Your Game?
+artist: []
+playtime_minutes: 100
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+description: |
+  Signorie is a heavy Euro game for 2-4 players set during 15th-century Renaissance Italy, where players lead powerful noble families competing for influence and magnificence. The central mechanic uses dice selection and worker placement to take actions — players choose from a pool of dice to determine what family-influence actions they may perform. Set collection and resource management layer over the dice selection, with players building connections across Italian city-states to score points for influence, title, and wealth. Its thematic depth and interlocking mechanisms reward experienced Eurogame players.

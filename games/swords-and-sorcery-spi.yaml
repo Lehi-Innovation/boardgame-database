@@ -1,0 +1,61 @@
+id: swords-and-sorcery-spi
+name: "Swords & Sorcery"
+alternate_names: ["Swords & Sorcery: Quest and Conquest in the Age of Magic"]
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Fantasy
+  - Area Control
+
+evokes:
+  - Powerful
+  - Discovery
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Greg Costikyan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Swords & Sorcery is a fantasy-themed board wargame published by SPI in 1978,
+  designed by Greg Costikyan with development by Eric Goldberg. The game
+  includes two modes: an Army game in which 2–6 players control armies using
+  hex grid movement and combat rules, and a Quest game in which individual
+  characters undertake adventures. Magical spells add a distinctive fantasy
+  layer to traditional wargame mechanics involving zones of control and a combat
+  results table. The game rose to No. 1 on SPI's Top Ten Bestseller List after
+  publication and was nominated for the 1979 Origins Award for Best Fantasy
+  Board Game.
+
+upgrades: []

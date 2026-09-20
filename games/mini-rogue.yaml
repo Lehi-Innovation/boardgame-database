@@ -1,0 +1,52 @@
+id: mini-rogue
+name: "Mini Rogue"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Press Your Luck
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Tension
+  - Progress
+  - Lucky
+  - Discovery
+  - Dread
+
+possible_counts: [1, 2]
+true_counts: [1]
+
+designer:
+  - Paolo Di Stefano
+  - Gabriel Gendron
+publisher:
+  - Ares Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Mini Rogue is a minimalist dungeon-crawling game for 1-2 players that packs a full roguelike experience into just a handful of cards and dice. Players descend through a dungeon, making decisions at each room about fighting monsters, collecting treasure, or fleeing — with dice rolls creating the push-your-luck tension familiar to the video game genre. Originally a beloved 9-card PnP game that won Best New Designers at the 2016 Nanogame Design Contest, the Ares Games edition adds full production value while preserving the essence: every run is different, death is always close, and victory feels hard-earned.

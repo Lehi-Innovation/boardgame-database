@@ -1,0 +1,57 @@
+id: la-granja-no-siesta
+name: "La Granja: No Siesta"
+alternate_names: ["La Granja: The Dice Game – No Siesta!"]
+year: 2016
+
+# Relationships
+game_family: la-granja
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Drafting
+  - Set Collection
+  - Roll & Write
+  - Press Your Luck
+  - Filler
+  - Family
+  - Agriculture
+
+evokes:
+  - Lucky
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Andreas Odendahl
+publisher:
+  - Stronghold Games
+  - Spielworxx
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  La Granja: No Siesta is a standalone dice game spin-off of the full La Granja board game, designed by Andreas Odendahl and published by Stronghold Games in 2016. Each round players roll a set of dice and draft them in turn order until everyone has at least three dice to score with, then assign their dice to gain resources, hire helpers, build barns, or advance on the siesta track. Players can invoke helper abilities for special effects and store goods in barns for later use. The game ends when someone completes the siesta track, offering a compact 30-45 minute experience that captures the flavor of the original's agricultural theme in an accessible, quick-playing format.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: web-of-power
+name: "Web of Power"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Area Control
+  - Set Collection
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Michael Schacht
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 55
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Web of Power is a card-driven area control game designed by Michael Schacht and published by Rio Grande Games in 2000, set in 12th century Europe as competing clerical orders place monasteries and advisors to influence kings and cardinals. Players hold three cards each turn, with most offering placement in one of two countries, and must choose carefully between building their network of cloisters and installing advisors in royal courts. The game scores only twice—when the draw pile is exhausted for the first and second time—creating a tight, efficient experience over 55 cards. Its elegant simplicity and meaningful decisions made it a well-regarded filler in the early Euro era.
+
+upgrades: []

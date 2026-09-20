@@ -1,0 +1,53 @@
+id: sequence
+name: "Sequence"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Gateway
+  - Pattern Building
+  - Hand Management
+  - Teams
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Clever
+
+possible_counts: [2, 3, 4, 6, 9, 10, 12]
+true_counts: [4, 6]
+
+designer:
+  - Douglas Reuter
+publisher:
+  - Jax Ltd
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Sequence is a card-and-board game designed by Douglas Reuter and commercially released in 1982, in which players play cards from their hand to claim corresponding spaces on a 10x10 board, aiming to form rows of five chips (sequences). Wild jack cards let you place anywhere or remove opponent chips, adding a layer of disruption to what otherwise seems like a simple pattern-building game. It supports 2–12 players in teams and blends the accessibility of card games with a spatial board element, making it a popular family game worldwide.
+
+upgrades: []

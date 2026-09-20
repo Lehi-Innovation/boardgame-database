@@ -1,0 +1,60 @@
+id: small-world
+name: "Small World"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: small-world
+edition: null
+base_game: null
+expansions:
+  - small-world-underground
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Drafting
+  - Fantasy
+  - Family
+  - Euro
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Unique
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Philippe Keyaerts
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 8
+
+description: |
+  Small World is a fantasy civilization game published by Days of Wonder in 2009, redesigned from Philippe Keyaerts'
+  1999 game Vinci. Players select combinations of fantasy races (Elves, Orcs, Dwarves, etc.) paired with random
+  special powers to conquer territories on a tight, crowded map. When a race becomes overextended, players can send
+  it into "decline" and pick a fresh race, creating a unique push-pull of expansion and abandonment. The game rewards
+  clever race-power synergies and timing, making each session feel distinct.
+
+upgrades: []

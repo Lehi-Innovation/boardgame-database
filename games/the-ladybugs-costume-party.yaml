@@ -1,0 +1,57 @@
+id: the-ladybugs-costume-party
+name: "The Ladybug's Costume Party"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Complete
+  - Connection
+  - Wonder
+  - Humor
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Peter-Paul Joopen
+publisher:
+  - Selecta
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  The Ladybug's Costume Party is a 2002 children's game by Peter-Paul Joopen, published by Selecta
+  and winner of the 2002 Kinderspiel des Jahres. Players spin a spinner on the board and move one
+  of eight ladybug pieces to visit other ladybugs. Each ladybug piece has a magnetic nose; when
+  visiting, if the ladybugs "like" each other (determined by magnets attracting), they can swap
+  spots. Once a ladybug has collected five spots of different colors, she is dressed for the ball
+  and removed from the game. The combination of magnetic interaction, color-matching, and a cute
+  costume party theme makes it a charming and accessible first game for very young children.
+
+upgrades: []

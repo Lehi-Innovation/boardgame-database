@@ -1,0 +1,57 @@
+id: tabletop-football
+name: "tabletop football"
+alternate_names: ["Subbuteo", "Table football"]
+year: 1947
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+  - Family
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Tabletop football is a family of dexterity games simulating association
+  football (soccer) using miniature player figures on a bounded playing surface
+  resembling a football pitch. Players flick their weighted or magnetic figure
+  bases to strike a small disc or ball toward the opponent's goal, while an
+  independently movable goalkeeper piece defends. The best-known commercial brand
+  is Subbuteo, created by Peter Adolph in 1947, which became a beloved hobby
+  game worldwide. Tabletop football games vary widely in their exact mechanics,
+  figure materials, and field dimensions, but share the core challenge of
+  skillful flicking and tactical positioning.
+
+upgrades: []

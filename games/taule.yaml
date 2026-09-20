@@ -1,0 +1,56 @@
+id: taule
+name: "Taule"
+alternate_names: ["Tables"]
+year: 0
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Taule is a medieval Scandinavian tables game — the general family of racing
+  and blocking dice games to which backgammon belongs — played across Northern
+  Europe during the Viking and medieval periods. Like other tables games, two
+  players move pieces around a board according to dice rolls, attempting to
+  bear all their pieces off first while blocking and hitting opponents. The game
+  belongs to the same broad family as Tabula, Nard, and backgammon, sharing
+  the characteristic 24-point board and 15-piece setup while differing in
+  specific regional rules for entry, movement direction, and blocking.
+
+upgrades: []

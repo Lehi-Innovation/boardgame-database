@@ -1,0 +1,61 @@
+id: discordia
+name: "Discordia"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - Resource Management
+  - Variable Player Powers
+  - Euro
+  - Ancient
+  - City Building
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Clever
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Bernd Eisenstein
+publisher:
+  - Irongames
+artist:
+  - Lukas Siegmon
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Discordia is a dice-driven city-building game set in ancient Roman times where players
+  develop their own city by constructing farms, barracks, defenses, harbors, and markets.
+  Each round players roll dice and use them to take actions, competing to build the most
+  prosperous settlement through trading and resource management. The game features variable
+  player powers and a sudden-death ending, rewarding players who balance expansion against
+  defense and commerce.
+
+upgrades: []

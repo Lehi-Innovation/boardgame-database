@@ -1,0 +1,62 @@
+id: the-builders-middle-ages
+name: "The Builders: Middle Ages"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Resource Management
+  - Engine Building
+  - Card Drafting
+  - Euro
+  - Family
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Frédéric Henry
+publisher:
+  - Asmodee
+artist:
+  - Sabrina Miramon
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Builders: Middle Ages is a fast card game in which players recruit workers and assign them
+  to construction projects to earn gold and prestige. Each worker has a specialty and a daily wage,
+  and players must match the right workers to each building under construction, paying upkeep costs
+  while maximizing efficiency. Completing buildings earns victory points and gold that fuels further
+  recruitment. The game is notable for distilling worker-placement concepts into a compact, accessible
+  card format that plays quickly while still rewarding smart hand management.
+
+upgrades: []

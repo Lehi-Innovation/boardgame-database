@@ -1,0 +1,52 @@
+id: sigma-omega
+name: "Sigma Omega"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Hex Map
+  - Action Points
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Game Technology
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Sigma Omega is a 1979 science fiction space combat tactical wargame published by Game Technology, simulating intense spaceship battles on a hex grid with complex energy and systems management. Reviewed in The Space Gamer, the game was noted for its highly detailed and demanding ruleset — the rules were described as reading "like instructions for a nuclear reaction" — but also for the excitement of play for those who mastered them. Despite its complexity, it attracted a dedicated following and was recognized as a pioneer in the space combat tactical game genre of the late 1970s.
+
+upgrades: []

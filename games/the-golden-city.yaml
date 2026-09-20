@@ -1,0 +1,61 @@
+id: the-golden-city
+name: "The Golden City"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Euro
+  - Family
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Discovery
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Schacht
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  The Golden City is a route-building and area influence game by Michael Schacht, published by
+  Z-Man Games and nominated for the 2009 Kinderspielexperten "8-to-13-year-olds" award. Players
+  are merchants arriving by sea on a mythical island, establishing trade routes from the coast
+  inward toward the Golden City. Building trade houses in coastal towns and then connecting them
+  one link at a time towards the interior, players compete to collect Letters of Recommendation
+  from city nobles. Area influence mechanics and a bidding element add competitive tension to
+  the elegant network-building core.
+
+upgrades: []

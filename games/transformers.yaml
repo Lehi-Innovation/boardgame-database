@@ -1,0 +1,50 @@
+id: transformers
+name: "Transformers"
+alternate_names:
+  - "Transformers: Defeat the Decepticons"
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Connection
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Transformers: Defeat the Decepticons is a children's board game from 1984 based on the popular Hasbro toy line and animated television series. Two players take the roles of the Autobots and Decepticons in a race/combat game tied to the franchise's central conflict between the heroic Autobots and villainous Decepticons. Like most licensed games of its era, it functions primarily as a collectible item for fans of the Transformers brand rather than a deep gaming experience.
+
+upgrades: []

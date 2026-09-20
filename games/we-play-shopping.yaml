@@ -1,0 +1,50 @@
+id: we-play-shopping
+name: "We Play Shopping"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - No Math
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Complete
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marco Teubner
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 25
+min_age: 4
+
+description: |
+  We Play Shopping is a 2008 children's game designed by Marco Teubner and published by Ravensburger in which young players engage in a simple shopping-themed activity. Aimed at preschool and early elementary children, the game introduces basic concepts of exchange and matching in a familiar everyday context. Ravensburger's production values ensure bright, durable components appropriate for small hands. Minimal in mechanical complexity, it serves primarily as an introduction to turn-taking and thematic play for very young children.
+
+upgrades: []

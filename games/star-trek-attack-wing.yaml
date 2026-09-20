@@ -1,0 +1,59 @@
+id: star-trek-attack-wing
+name: "Star Trek: Attack Wing"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Events
+  - Wargame
+  - Sci-Fi
+  - Asymmetric
+
+evokes:
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Star Trek: Attack Wing is a miniatures space combat game published by WizKids in 2013, using the FlightPath
+  maneuver system licensed from Fantasy Flight Games. Players command fleets of customizable starships from
+  across the Star Trek universe, assigning crew members such as Kirk, Picard, and Worf to grant special abilities.
+  Ships are rated with combat dials tracking damage, shields, and upgrades, and fleets compete in scenario-based
+  engagements ranging from dogfights to complex multi-objective missions. An extensive range of expansion packs
+  provides hundreds of ships and crew options.
+
+upgrades: []

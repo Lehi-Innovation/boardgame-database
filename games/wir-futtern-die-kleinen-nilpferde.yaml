@@ -1,0 +1,53 @@
+id: wir-futtern-die-kleinen-nilpferde
+name: "Wir füttern die kleinen Nilpferde"
+alternate_names:
+  - "Feeding the Little Hippos"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Animals
+  - No Math
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reinhold Wittig
+publisher:
+  - Fagus
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Wir füttern die kleinen Nilpferde ("We Feed the Little Hippos") is a children's and family game by Reinhold Wittig published in 1983 by Fagus and Edition Perlhuhn. Players roll dice on each turn and freely distribute the rolled pips between their two game pieces to move toward hippo feeding stations around the swamp; landing at a feeding place allows placement of a food stick. Each hippo can hold up to five food sticks before going to sleep, and the first player to distribute all their food sticks wins. The game won a Special Prize for Beautiful Game from the 1983 Spiel des Jahres jury.
+
+upgrades: []

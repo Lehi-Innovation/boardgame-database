@@ -1,0 +1,56 @@
+id: key-harvest
+name: "Key Harvest"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: keydom
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Auctions/Bidding
+  - Set Collection
+  - Euro
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Richard Breese
+publisher:
+  - Rio Grande Games
+  - R&D Games
+artist:
+  - Juliet Breese
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Key Harvest is a 2-4 player worker placement and tile-placement game designed by Richard Breese, part of his Key series, published in 2007. Players build personal country boards by placing field tiles in connected groups, scoring one point per tile in their largest group and two points per tile in their second largest — a scoring system that rewards planning compact, interconnected territories rather than sprawling expansion. Workers are placed to acquire tiles, bid for better placement options, or take other actions, and the interaction between players comes primarily through competing for desirable tiles and disrupting opponents' field layouts. The game is notable for its elegantly simple scoring that nevertheless produces deep spatial decision-making.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: vietnam-1965-1975
+name: "Vietnam: 1965-1975"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Campaign Mode
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Nick Karp
+publisher: []
+artist: []
+playtime_minutes: 720
+min_playtime: 480
+max_playtime: 1440
+min_age: 16
+
+description: |
+  Vietnam: 1965-1975 is a landmark two-player strategic wargame designed by Nick Karp, published by Victory Games in 1984 when Karp was just 21 years old. The game covers the entire American involvement in the Vietnam War at both the operational and political levels, requiring players to manage not only military campaigns but also the political pressures of the era — including domestic opposition, pacification efforts, and the Ho Chi Minh Trail. Considered one of the finest wargames ever designed on the Vietnam War, it was republished by GMT Games in 2022 with updated components and clarified rules. The game's depth and scope make it a true marathon simulation.
+
+upgrades: []

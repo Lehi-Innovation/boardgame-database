@@ -1,0 +1,57 @@
+id: the-great-wall-street-fortune-hunt
+name: "The Great Wall Street Fortune Hunt"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Resource Management
+  - Events
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Magnavox
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Great Wall Street Fortune Hunt is a 1981 stock-market simulation from Magnavox's Master Strategy
+  Series for the Odyssey² console, combining video-game and physical board game components. Each player
+  begins with $100,000 and can enter up to seven investments per round; all positions must be sold at
+  year-end across a five-year game. Stock prices for 27 real companies including IBM and McDonald's scroll
+  across the screen, while dynamic news flashes create investment swings that players must quickly react
+  to. The physical gameboard tracks investment positions, T-bill markets, time frame, and prime rate.
+  Named Electronic Games magazine's Most Innovative Game of 1982, it is one of the earliest hybrid
+  video/board game market simulations.
+
+upgrades: []

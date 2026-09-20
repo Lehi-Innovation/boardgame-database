@@ -1,0 +1,57 @@
+id: manhattan-project-energy-empire
+name: "The Manhattan Project: Energy Empire"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: manhattan-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tableau Building
+  - Engine Building
+  - Resource Management
+  - Dice Rolling
+  - Euro
+  - Civilization
+  - Historical
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Luke Laurie
+  - Tom Jolly
+publisher:
+  - Minion Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  The Manhattan Project: Energy Empire is a standalone worker placement and engine-building game in which each player guides a nation through the second half of the 20th century, racing to build the most powerful energy infrastructure while managing global environmental consequences. Each turn, players choose between a "work" action — placing a worker on the main board then activating tableau cards — or a "generate" action that rolls energy dice representing nuclear, coal, oil, solar, and other power sources to fuel their buildings. Acquiring new government, industry, and commerce buildings expands an ever-growing engine, while a shared global impact track reflects industrial pollution and creates collective consequences. The game captures the tension between economic growth and environmental responsibility in a deeply strategic package.
+
+upgrades: []

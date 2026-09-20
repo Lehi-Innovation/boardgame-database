@@ -1,0 +1,58 @@
+id: sleuth
+name: "Sleuth"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hand Management
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+designer:
+  - Sid Sackson
+publisher:
+  - 3M
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Sleuth is a classic deduction game by Sid Sackson, first published in 1971 as part of 3M's Gamette Series.
+  One of 36 Gem Cards (depicting diamonds, pearls, or opals in various types and colors) is secretly removed at the
+  start; players must deduce which gem is missing by questioning opponents about the gem cards in their hands using
+  Search Cards. Players track information on a notepad, and the first to correctly identify the hidden gem wins.
+  Its elegant design rewards careful logical inference and memory without requiring dice or a board.
+
+upgrades: []

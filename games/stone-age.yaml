@@ -1,0 +1,55 @@
+id: stone-age
+name: "Stone Age"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Set Collection
+  - Resource Management
+  - Euro
+  - Gateway
+  - Ancient
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Tummelhofer
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Stone Age is a 2008 worker placement game by Michael Tummelhofer published by Hans im Glück in which players lead prehistoric tribes competing to gather resources, develop their villages, and build the most powerful civilization. Players send their tribe members to gather wood, clay, stone, and gold from the river — rolling dice to determine the harvest quantity — and use resources to buy building tiles or civilization cards that score points at game end. The game elegantly balances luck (dice rolls) with planning (worker placement), making it an approachable gateway to the genre.
+
+upgrades: []

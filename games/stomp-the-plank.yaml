@@ -1,0 +1,54 @@
+id: stomp-the-plank
+name: "Stomp the Plank"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~15-20 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Dexterity
+  - Take That
+  - Family
+  - Pirates
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Florian Sirieix
+  - Benoit Turpin
+publisher:
+  - The Flying Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Stomp the Plank is a pirate-themed press-your-luck dexterity game by Florian Sirieix and Benoit Turpin for 2-4 players aged 5 and up. Players are elephant pirates trying to steal treasures from Captain Giraffe's chest, flipping cards to collect loot but risking a matching symbol that sends them walking the plank. Each double drawn causes wooden crates to be stacked on the player's plank overhang; if too many accumulate, the elephant stomps forward. The tactile plank-balancing element adds physical tension to the push-your-luck card play.
+
+upgrades: []

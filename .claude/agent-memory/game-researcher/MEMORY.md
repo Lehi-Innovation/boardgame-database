@@ -66,6 +66,27 @@
 - Camelot (1930): George S. Parker; Parker Brothers; originally "Chivalry" (1882)
 - Carabande = PitchCar; Jacques Zeimet; 1996 Spiel des Jahres special award; Goldsieber Spiele
 
+## Batch Notes: W-Games (49-game run, Mar 2026)
+- War of 1812 (1973): published by Gamma Two Games (later Columbia Games), NOT Avalon Hill; designers unlisted
+- War in Europe (1976): designed by James Dunnigan, Irad Hardy, Redmond Simonsen + others; 9 maps, 4000 counters; slug=war-in-europe
+- War of the Ring Collector's Edition (2010): premium edition with hand-painted minis + leather rulebook; separate from 2011 Second Edition; slug=war-of-the-ring-collectors-edition
+- We the People (1993): year is 1993 NOT 1994; first CDG wargame; republished/redesigned as Washington's War (2010)
+- Warriors of Mars (1974): by Gary Gygax + Brian Blume; TSR; set in Edgar Rice Burroughs' Barsoom; pulled due to IP dispute; rare
+- War of Wizards (1975): by M.A.R. Barker; TSR's first Tékumel publication (predates Empire of the Petal Throne)
+- Warrior Knights (2006): original 1985 Games Workshop game redesigned by Corey Konieczka + Bruno Faidutti for FFG
+- Warriors of God (2009): designed by Makoto Nakajima (Japanese); English dev by Adam Starkweather; MMP; Charles S Roberts winner 2009
+- Warzone (1995): Mutant Chronicles; Target Games; designer Bill King; Origins Award winner 1995
+- Water Lily: publisher is Game Works/Asmodee, NOT Zoch; designer Dominique Ehrhard; use year ~2010
+- Wavelength (2019): three designers — Alex Hague, Justin Vickers, Wolfgang Warsch; publisher Palm Court
+- What Were You Thinking (1998): designed by Richard Garfield; published by Wizards of the Coast (NOT Mattel/MB)
+- Westwall (1976): SPI Quadrigame with 4 WWII battles (Arnhem, Bastogne, Hurtgen, Remagen); year is 1976 not 1979
+- Wellington in the Peninsula (1975): designer trio = Vincent Cumbo, Albert Nofi, John Prados; publisher Rand Game Associates (NOT SPI)
+- Wavre: The Lost Opportunity (1976): SPI; minimal sources; about Battle of Wavre (simultaneous with Waterloo)
+- Western Legends (2018): publisher Kolossal Games; designer Hervé Lemaître; category uses "Western" tag (under Themes)
+- Warhammer 40k Conquest LCG: discontinued Feb 2017 when GW ended FFG licensing; Eric Lang + Nate French designers
+- Waurie: traditional Cayman Islands mancala; also "Island Wari"; unusual win condition = empty your OWN side
+- Watermelon Chess: also "Xi Gua Qi"; Hangzhou China folk game; year null; no designer
+
 ## Batch Notes: C-Games (100-game run)
 - Cockroach Poker: alternate name "Kakerlakenpoker"; Drei Magier Spiele / Ravensburger; Spiel des Jahres nominated 2004
 - COIN / COIN Series entries in master list: these are series identifiers, not standalone games — mark Failed
@@ -150,6 +171,33 @@
 - Helltank (1981) + Helltank Destroyer (1982): Metagaming Concepts MicroGame line; sci-fi supertanks
 - Herd Mentality (2019): Dan Penn; Big Potato Games; write-same-answer party game; 4-20 players
 - Here I Stand (2006): Ed Beach; GMT Games; 6-player Reformation card-driven wargame; Charles S. Roberts winner
+
+## Batch Notes: Mixed Games (31-game run, Mar 2026)
+- KLASK (2014): designer Mikkel Bertelsen; publisher Klask ApS; dexterity magnet game; slug=klask
+- Babylonia (2019): Reiner Knizia; Ludonova; tile placement chaining game
+- Chinatown: year is 1999 NOT 1997; original publisher Alea; now Z-Man Games; Karsten Hartwig
+- Tajuto: year is 2019 NOT 2011; Reiner Knizia; Super Meeple publisher
+- Orongo: year is 2014 (Spiel 2014 debut); Reiner Knizia; Ravensburger
+- Lacuna: published 2023 by CMYK (Mark Gerrits); homemade version existed since 2018
+- DroPolter: published 2023 NOT 2022; Paul Schulz; Oink Games
+- Marabunta: published 2024 NOT earlier; Reiner Knizia; Space Cowboys; "I Divide, You Choose" dice mechanic
+- Patterns = "Patterns: A Mandala Game"; 2023; Trevor Benjamin + Brett J. Gilbert; Lookout Games; re-impl of Mandala card game
+- Great Plains (2021): Brett J. Gilbert + Trevor Benjamin; Lookout Games; 2-player abstract hex grid area control
+- Coffee Roaster: original 2015 by Saashi (Saashi & Saashi); designer credited as "Saashi" (not full name)
+- Undaunted: Stalingrad (2022): game_family=undaunted; standalone; David Thompson + Trevor Benjamin; Osprey Games
+- Winner's Circle: also "Royal Turf" and "Turf Horse Racing"; year 2001; Alea; Reiner Knizia; slug=winners-circle
+- Three Sisters (2021): Ben Pinchback + Matt Riddle; 25th Century Games; roll & write farming
+- Caesar!: Seize Rome: slug=caesar-seize-rome; year 2021; Paolo Mori; PSC Games; 2-player bag pull
+- Gang of Dice (2022): Reiner Knizia; Mandoo Games; press-your-luck dice
+- Tatari (2022): Reiner Knizia; Studio Mundy (Japanese publisher); horror doll theme; push-your-luck dice
+- Viking See-Saw (2022): Reiner Knizia; Itten Games; Funbrick Series dexterity balancing
+- Galactic Renaissance (2023): Christian Martinez; Matagot; Political Trilogy #2; area control + deck building
+- Skyrise (2024): Adam Wyse + Gavan Brown + Sébastien Pauchon; Roxley Games (NOT Alderac); spatial auction
+- Wilmot's Warehouse (2024): Ricky Haggett + Richard Hogg + David King; CMYK; cooperative memory game
+- Lanterns (2015): Christopher Chung; Renegade Game Studios; slug=lanterns-the-harvest-festival
+- Whistle Stop (2017): Scott Caputo; Bezier Games; route building train game
+- New Bedford (2016): Nathaniel Levan; Greater Than Games; worker placement whaling
+- Lacuna slug=lacuna (not lacuna-2020); year=2023 (CMYK published edition)
 
 ## Batch Notes: L-Games (100-game run, Feb 2026)
 - Las Vegas (2012): Rüdiger Dorn; Ravensburger/Alea; SdJ nominated 2012; dice area majority game

@@ -1,0 +1,55 @@
+id: the-witcher-adventure-game-2014
+name: "The Witcher Adventure Game"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Narrative Heavy
+  - Fantasy
+  - Family
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Progress
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - CD Projekt Red
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  The Witcher Adventure Game is a 2014 adventure board game designed by Ignacy Trzewiczek, developed by CD Projekt Red and published by Fantasy Flight Games, set in Andrzej Sapkowski's Witcher universe. Two to four players each take the role of an iconic character—Geralt of Rivia, Triss Merigold, Dandelion, or Yarpen Zigrin—competing to gather the most victory points through completing quests and defeating monsters. The game features rich atmospheric storytelling and strong thematic ties to the Witcher video games, though reviewers noted limited player interaction and some repetitiveness. A companion digital version was simultaneously released for PC, iOS, and Android.
+
+upgrades: []

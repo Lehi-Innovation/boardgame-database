@@ -1,0 +1,57 @@
+id: the-jolly-darkie-target-game
+name: "The Jolly Darkie Target Game"
+alternate_names: []
+year: 1890
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Historical
+
+evokes:
+  - Lucky
+  - Agency
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - McLoughlin Brothers
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  The Jolly Darkie Target Game is a 19th-century tabletop tossing game produced by McLoughlin
+  Brothers from approximately 1890, in which players throw small wooden balls at a lithographed
+  stand-up target, earning points for landing balls in the target's open mouth or numbered holes.
+  The game is a historically significant artifact of American racism — it depicts a caricatured
+  Black male figure with exaggerated features intended to dehumanize and mock, and was one of
+  many contemporary toys and games marketed as acceptable entertainment that reinforced white
+  supremacist attitudes. It is preserved and studied in museum collections including the Strong
+  National Museum of Play as a primary source for understanding how racist ideology was normalized
+  and commodified in American consumer culture.
+
+upgrades: []

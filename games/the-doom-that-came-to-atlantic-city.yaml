@@ -1,0 +1,65 @@
+id: the-doom-that-came-to-atlantic-city
+name: "The Doom That Came To Atlantic City"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Take That
+  - Variable Player Powers
+  - Cthulhu
+  - Horror
+  - Humor
+  - Ameritrash
+
+evokes:
+  - Humor
+  - Powerful
+  - Rivalry
+  - Dread
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Lee Moyer
+  - Keith Baker
+publisher:
+  - Cryptozoic Entertainment
+artist:
+  - Lee Moyer
+  - Paul Komoda
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+description: |
+  The Doom That Came to Atlantic City is a darkly humorous Lovecraftian take on Monopoly in which
+  players are Great Old Ones competing to destroy the world first. Rather than building hotels,
+  players tear down houses to open mystical gates in the streets of Atlantic City. Each Great Old
+  One has a unique Doom card listing win conditions for instantly ending the game, requiring both
+  the right gate locations and meeting specific preconditions. Combat uses dice rolls, with winners
+  stealing cultists and collecting Chants cards. The game became notable for a troubled Kickstarter
+  history before Cryptozoic Entertainment published it in 2014. It features beautifully sculpted
+  miniatures by Paul Komoda.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: von-manstein-battles-for-the-ukraine
+name: "Von Manstein: Battles for the Ukraine"
+alternate_names:
+  - "Von Manstein: Battles for the Ukraine 1941-1944"
+  - "Panzerkrieg"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 600
+min_playtime: 360
+max_playtime: 1200
+min_age: 16
+
+description: |
+  Von Manstein: Battles for the Ukraine is a two-player hex-and-counter wargame simulating Axis and Soviet operations in southern Russia and Ukraine during World War II, originally published by Rand Game Associates in 1975. One player commands Axis forces, the other Soviet, across multiple campaigns covering 1941–1944. The game was later revised and expanded as Panzerkrieg by Operational Studies Group in 1978, and subsequently published by Avalon Hill in 1984. Covering some of the largest armoured engagements in history, the game is a comprehensive and demanding operational-level simulation of the Eastern Front.
+
+upgrades: []

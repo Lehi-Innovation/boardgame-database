@@ -1,0 +1,52 @@
+id: schlag-den-raab-das-spiel
+name: "Schlag den Raab: Das Spiel"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - 1 vs Many
+  - Dexterity
+  - Word Play
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Max Kirps
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Schlag den Raab: Das Spiel is a party board game by Ravensburger published in 2009, based on the popular German TV show of the same name in which contestants attempt to beat host Stefan Raab at a series of mini-games. One player takes the role of Stefan Raab while the others form a team, competing across up to 15 randomly selected mini-games from a set of 36, ranging from quiz questions and memory challenges to physical and motor skill tasks. Points escalate with each successive game, creating dramatic comeback potential in later rounds.
+
+upgrades: []

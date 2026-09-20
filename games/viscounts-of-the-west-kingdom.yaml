@@ -1,0 +1,57 @@
+id: viscounts-of-the-west-kingdom
+name: "Viscounts of the West Kingdom"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: west-kingdom
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Worker Placement
+  - Rondel
+  - Hand Management
+  - Variable Player Powers
+  - Euro
+  - Medieval
+  - Renegade Game Studios
+
+evokes:
+  - Progress
+  - Clever
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Viscounts of the West Kingdom is the third entry in Shem Phillips and S J Macdonald's West Kingdom Trilogy, combining deck-building with worker placement and a distinctive rondel movement system. Players move their viscount around a circular board of locations, playing cards from their deck at each stop to perform actions — constructing buildings, writing manuscripts, placing retinue, and accumulating gold and influence. The deck-building is tightly integrated: cards are both the currency for actions and the objects being improved and curated. As the most mechanically dense of the trilogy, Viscounts rewards mastery with deep, satisfying play across 1–4 players.
+
+upgrades: []

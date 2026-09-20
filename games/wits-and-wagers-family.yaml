@@ -1,0 +1,54 @@
+id: wits-and-wagers-family
+name: "Wits & Wagers Family"
+alternate_names:
+  - "Wits and Wagers Family"
+year: 2009
+
+# Relationships
+game_family: wits-and-wagers
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Party
+  - Family
+  - Gateway
+  - No Math
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dominic Crapuchettes
+publisher:
+  - North Star Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 6
+
+description: |
+  Wits & Wagers Family is a streamlined version of the original Wits & Wagers designed for younger players and family play, featuring family-friendly trivia questions and a simplified betting system. Instead of chips and odds boards, players use colored Meeples to vote on which answer they think is closest to correct — either their own or another player's guess. The first edition contains 125 question cards, dry-erase boards, and 10 Meeples per player, keeping the game accessible for ages 6 and up while retaining the core appeal of the original.
+
+upgrades: []

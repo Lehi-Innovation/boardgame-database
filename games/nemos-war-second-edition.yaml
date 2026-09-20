@@ -1,0 +1,58 @@
+id: nemos-war-second-edition
+name: "Nemo's War (Second Edition)"
+alternate_names: ["Nemo's War 2nd Edition"]
+year: 2017
+
+# Relationships
+game_family: nemos-war
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Action Points
+  - Press Your Luck
+  - Solo/Solitaire
+  - Narrative Heavy
+  - Maritime
+  - Historical
+  - Adventure
+
+evokes:
+  - Agency
+  - Tension
+  - Discovery
+  - Dread
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1]
+
+designer:
+  - Chris Taylor
+publisher:
+  - Victory Point Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Nemo's War (Second Edition) is primarily a solo adventure game by Chris Taylor, published by Victory Point Games in 2017, based on Jules Verne's Twenty Thousand Leagues Under the Sea. Players take control of Captain Nemo and his magnificent submarine the Nautilus, choosing a motivation that shapes how they score — exploring the deep, making war on surface ships, or aiding the oppressed — and then navigating a world map over multiple chapters of action-packed turns. Each turn players spend action points to move, fight, research, or dive to hidden depths, rolling dice to resolve encounters drawn from an event deck. The game features stunning artwork by Ian O'Toole and optional 2-4 player cooperative and semi-competitive rules, though the solo experience is its core.
+
+upgrades: []

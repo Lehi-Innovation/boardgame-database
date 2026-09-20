@@ -1,0 +1,53 @@
+id: strange-synergy
+name: "Strange Synergy"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Superheroes
+
+evokes:
+  - Unique
+  - Clever
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Mark Ahlquist
+  - Brian Stormont
+publisher:
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Strange Synergy is a 2003 Steve Jackson Games combat game of "bizarre battles" in which teams of warriors with randomly assigned superpowers, mutations, skills, and gadgets clash in arena-style combat. Each warrior starts with three different Power Cards from a 100-card deck, creating wildly varied combinations each game. Players secretly choose which enemy flag to capture, then take turns moving warriors and resolving combat using dice and card abilities. The game's appeal lies in the unpredictable synergies between randomly combined powers, creating a unique experience each session.
+
+upgrades: []

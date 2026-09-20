@@ -1,0 +1,59 @@
+id: swordquest
+name: "Swordquest"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2, 3]
+true_counts: [3]
+
+designer:
+  - R. Vance Buck
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Swordquest is a fantasy board game for two or three players published by Task
+  Force Games in 1979. Good and evil forces — led by a white wizard and a
+  sorcerer respectively — search the land of Tiirane for the lost Sword of
+  Lumina. The good team seeks to destroy the sword in fires near the evil
+  citadel, while the evil team wants to possess it; an optional third player
+  controls druids who seek to restore balance. Drawing heavily on Tolkien's
+  influence (featuring dwarves, elves, a dragon, and Wrog creatures resembling
+  balrogs), the game is played across a hexagonal map of towns and guarded
+  treasures.
+
+upgrades: []

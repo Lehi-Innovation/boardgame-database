@@ -1,0 +1,55 @@
+id: wolfpack
+name: "Wolfpack"
+alternate_names:
+  - "Wolfpack: Submarine Warfare in the North Atlantic, 1942-44"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simulation
+  - Hex Map
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Masterful
+  - Mystery
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Wolfpack is a solitaire wargame published by SPI in 1974 in which the player commands German U-boats attacking Allied convoys in the Battle of the Atlantic, 1942-44. Originally published as a pull-out game in Strategy & Tactics magazine issue 47, the map covers convoy zones between Ireland, Greenland, Newfoundland, and the Azores. The game features four one-month scenarios set in 1943, each progressively more difficult as Allied convoy defenses improve, creating a campaign arc that captures the changing tide of the submarine war.
+
+upgrades: []

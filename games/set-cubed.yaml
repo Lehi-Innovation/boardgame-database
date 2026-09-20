@@ -1,0 +1,53 @@
+id: set-cubed
+name: "Set Cubed"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Pattern Building
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marsha J. Falco
+publisher:
+  - Set Enterprises
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Set Cubed is a dice-based pattern-recognition game designed by Marsha J. Falco, creator of the award-winning card game SET, and published by Set Enterprises in 2008. Players combine dice in their hand with dice already on the board to create valid "sets" (groups of three dice where each attribute is either all the same or all different), placing them on a grid and scoring for chains. The game translates the visual logic of SET into a spatial board format, rewarding players who can quickly identify multi-directional scoring combinations.
+
+upgrades: []

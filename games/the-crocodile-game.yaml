@@ -1,0 +1,57 @@
+id: the-crocodile-game
+name: "The Crocodile-Game"
+alternate_names:
+  - "Das Krokodil-Spiel"
+  - "Das Krokodilspiel"
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michael Rüttinger
+  - Johann Rüttinger
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  The Crocodile-Game (Das Krokodil-Spiel) is a suspenseful two-player bluffing game in which players
+  each control a crocodile competing for dominance of the river. Players attempt to see through their
+  opponent's tactics by reading intentions and timing attacks, creating a quick cat-and-mouse dynamic.
+  The game is designed for children but rewards reading opponents over raw luck. Originally published in
+  1987, it was later reissued by Noris-Spiele; specific original publisher details are not fully confirmed
+  in available sources.
+
+upgrades: []

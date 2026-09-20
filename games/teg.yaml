@@ -1,0 +1,59 @@
+id: teg
+name: "TEG"
+alternate_names: ["Plan Táctico y Estratégico de la Guerra"]
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Negotiation
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Yetem
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 10
+
+description: |
+  TEG (Táctica y Estrategia para la Guerra) is an Argentine strategy board game
+  published by Yetem in 1976, closely based on Risk. Players expand their
+  dominion across a 50-country world map divided into six continents, using dice
+  to resolve attacks and defend territories. Unlike Risk, TEG incorporates secret
+  and common objectives — the first player to achieve their objective wins rather
+  than requiring total elimination of opponents. This objective-based victory
+  condition reduces game length and encourages strategic focus. TEG is a cultural
+  institution in Argentina and the broader Spanish-speaking world, with the
+  Yetem logo a familiar sight in Argentine households.
+
+upgrades: []

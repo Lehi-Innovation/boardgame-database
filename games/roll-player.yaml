@@ -1,0 +1,55 @@
+id: roll-player
+name: "Roll Player"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: roll-player
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Card Drafting
+  - Set Collection
+  - Variable Player Powers
+  - Puzzle Solving
+  - Fantasy
+  - Euro
+
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Keith Matejka
+publisher:
+  - Thunderworks Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Roll Player is a competitive dice-drafting and character-building game for 1–4 players that turns the character creation phase of a fantasy RPG into a full game in its own right. Players race to build the best RPG character by drafting dice to fill their character sheet's six attributes, aiming to match target numbers while also equipping armor, weapons, skills, and traits drawn from a shared market. Every die placement triggers a special action, creating delightful chained decisions. The game rewards optimization and forward planning as you try to fulfill alignment goals, backstory requirements, and class objectives simultaneously.
+
+upgrades: []

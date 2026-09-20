@@ -1,0 +1,52 @@
+id: star-wars-hoth-ice-planet-adventure
+name: "Star Wars: Hoth Ice Planet Adventure"
+alternate_names: ["Star Wars: Hoth Ice Planet Adventure Game"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Kenner
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Star Wars: Hoth Ice Planet Adventure is a 1980 Kenner board game released to coincide with The Empire Strikes Back. Players pilot Millennium Falcon tokens around the icy planet of Hoth, collecting Force Cards by spinning against Imperial villains — Boba Fett, Stormtroopers, Probots, and AT-ATs. Once a player accumulates enough Force, they challenge Darth Vader in the center of the board, and the first to out-spin Vader wins. A simple, spinner-driven family game for 2-4 players.
+
+upgrades: []

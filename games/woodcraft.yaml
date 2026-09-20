@@ -1,0 +1,57 @@
+id: woodcraft
+name: "Woodcraft"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Nature
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Ross Arnold
+  - Vladimir Suchy
+publisher:
+  - Delicious Games
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Woodcraft is a strategic Euro game for 1-4 players set in a forest community where players run competing woodworking workshops. An innovative action selection wheel drives the game, with players splitting and combining dice pips to satisfy demands on contract cards — representing cutting, gluing, purchasing, or growing different types of wood. Players hire helpers, improve their workshop, and fulfill contracts for customers while managing a variety of wooden resources. The dice manipulation mechanic gives the game a distinctly original feel that rewards careful planning and creative problem-solving.
+
+upgrades: []

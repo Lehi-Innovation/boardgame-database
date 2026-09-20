@@ -1,0 +1,49 @@
+id: watermelon-chess
+name: "Watermelon Chess"
+alternate_names:
+  - "Xi Gua Qi"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 20
+min_age: 5
+
+description: |
+  Watermelon Chess (Xi Gua Qi) is a traditional two-player abstract strategy game from Hangzhou, Zhejiang Province, China, traditionally played by children. Each player controls six pieces on a shared board, taking turns to move and capture the opponent's pieces by surrounding them. What makes the game distinctive as a folk game is its elegance and simplicity—the rules can be learned in minutes, yet the game rewards positional thinking. It is believed to have originated many centuries ago as a folk game passed down through Chinese communities.
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: tempus
+name: "Tempus"
+alternate_names: ["Tempvs"]
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Modular Board
+  - Hand Management
+  - Civilization
+  - Euro
+  - Martin Wallace
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Martin Wallace
+publisher:
+  - Café Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Tempus is a streamlined civilization-building board game designed by Martin
+  Wallace and published by Café Games in 2006. Players build empires across a
+  modular hex-tile landscape, advancing through technological eras from fire to
+  the modern age using Idea cards that drive military and expansion capabilities.
+  A rubber-banding technology mechanic ensures all players advance together at
+  the end of each turn, keeping the game competitive without runaway leaders.
+  A diceless battle system and subtle fog-of-war through hand management keep
+  sessions to around 90 minutes — earning Tempus recognition as a satisfying
+  "civilization-lite" game with an excellent balance of depth and accessibility.
+
+upgrades: []

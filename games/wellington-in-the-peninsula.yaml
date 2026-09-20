@@ -1,0 +1,54 @@
+id: wellington-in-the-peninsula
+name: "Wellington in the Peninsula"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Vincent Cumbo
+  - Albert Nofi
+  - John Prados
+publisher:
+  - Rand Game Associates
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Wellington in the Peninsula is a two-player Napoleonic board wargame designed by Vincent Cumbo, Albert Nofi, and John Prados and published by Rand Game Associates in 1975, simulating the Peninsular War of the early 19th century. One player controls Napoleon's French forces while the other commands the Anglo-Spanish alliance under the Duke of Wellington. Rather than the then-standard hex grid, the game uses an area-movement system that better captures the terrain and regional dynamics of the Iberian Peninsula. The design offers a strategic-level view of the grueling campaign that tied down hundreds of thousands of French troops and contributed to Napoleon's eventual downfall.
+
+upgrades: []

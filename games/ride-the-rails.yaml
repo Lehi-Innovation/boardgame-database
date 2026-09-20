@@ -1,0 +1,53 @@
+id: ride-the-rails
+name: "Ride the Rails"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: iron-rail
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Set Collection
+  - Euro
+  - Trains
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Progress
+  - Rivalry
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - John Bohrer
+publisher:
+  - Capstone Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+description: |
+  Ride the Rails is the second game in the Iron Rail series by John Bohrer, published by Capstone Games. Players invest in American railroad companies, build track across the United States, and deliver passengers to cities to earn points. Every track placement affects all players since rail lines intersect and connect — meaning the route you build helps or hinders others and creates shared incentive. The elegant overlap of network expansion and stock portfolio management produces deep interaction without excessive complexity, supported by Ian O'Toole's distinctive artwork.

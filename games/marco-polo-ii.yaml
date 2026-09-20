@@ -1,0 +1,67 @@
+id: marco-polo-ii
+name: "Marco Polo II: In the Service of the Khan"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: marco-polo
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Resource Management
+  - Route Building
+  - Variable Player Powers
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+  - Simone Luciani
+  - Daniele Tascini
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Masterful
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Hans im Glück
+artist:
+  - Klemens Franz
+playtime_minutes: 100
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Marco Polo II: In the Service of the Khan is a dice-placement worker-placement game
+  and sequel to the acclaimed The Voyages of Marco Polo. Players are emissaries of the
+  Great Khan traversing medieval Central Asia, accumulating resources and fulfilling
+  contracts across a point-to-point movement map. Each player has a unique asymmetric
+  power that fundamentally changes their strategy, while Chinese jade adds new resource
+  management wrinkles. The tight action economy, high-variance starting powers, and deep
+  interaction between placement spots keep each play fresh and contentious.
+
+upgrades: []

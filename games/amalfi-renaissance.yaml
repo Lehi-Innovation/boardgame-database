@@ -1,0 +1,55 @@
+id: amalfi-renaissance
+name: "Amalfi: Renaissance"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Resource Management
+  - Economic
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Takeo Yamada
+publisher:
+  - R&R Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Amalfi: Renaissance is an economic Euro game set in the thriving Italian port town of Amalfi during the Renaissance, where players take on the role of merchants competing to build the most profitable trade empire. Ships serve a dual function as both workers—placed at destinations to perform actions—and as valuable resources that can be retrieved, creating a constant tension between using them and preserving them. Players manage contracts, route their ships, and optimize hand cards to generate resources and points in a deeply satisfying puzzle of interlocking decisions.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: the-wreck-of-the-bsm-pandora
+name: "The Wreck of the B.S.M. Pandora"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Sci-Fi
+  - Horror
+  - Puzzle Solving
+
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Agency
+  - Mystery
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist:
+  - Joe Barney
+  - Redmond A. Simonsen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Wreck of the B.S.M. Pandora is a 1980 cooperative science fiction board game published by SPI and designed by Jim Dunnigan, predating the cooperative game genre by decades. One to five players act as crew members aboard a wrecked spacecraft, flipping counters to explore the ship's corridors while searching for tools to repair failing systems before time runs out—and hunting for weapons to recapture or kill escaped alien specimens. A Cold Shutdown mechanic creates a ticking clock: when power or environmental systems are discovered to be failing, their condition degrades each turn until repaired or the ship shuts down entirely. This pioneering cooperative survival game anticipates themes explored decades later by games like Pandemic and Dead of Winter.
+
+upgrades: []

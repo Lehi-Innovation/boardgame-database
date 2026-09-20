@@ -1,0 +1,55 @@
+id: yspahan
+name: "Yspahan"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Drafting
+  - Area Control
+  - Resource Management
+  - Hand Management
+  - Euro
+  - Historical
+
+evokes:
+  - Agency
+  - Clever
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sébastien Pauchon
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+description: |
+  Yspahan is a 2006 Euro game set in 1598 Isfahan (Persia), when the city served as the jewel of the Safavid empire. Each turn, a dice pool is rolled and players draft actions based on how the dice are grouped — placing goods into souk stalls in various city neighbourhoods, sending goods to the caravan for immediate points, or constructing buildings that upgrade future actions. Control of neighbourhoods scores end-game points, while the Shah's supervisor pawn can disrupt rivals' placements. The game unfolds over three in-game weeks, rewarding players who balance short-term caravan profits against long-term souk majorities, and was nominated for the 2007 Spiel des Jahres.
+
+upgrades: []

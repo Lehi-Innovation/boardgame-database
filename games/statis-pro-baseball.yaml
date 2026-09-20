@@ -1,0 +1,50 @@
+id: statis-pro-baseball
+name: "Statis Pro Baseball"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Simulation
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer:
+  - Jim Barnes
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Statis Pro Baseball is a 1978 Avalon Hill statistical baseball simulation created by Jim Barnes (based on his 1970 design) in which player cards encode the real-world performance of actual MLB players using a formula producing numbers from 11 to 88. Rather than dice, the game uses a deck of Fast Action Cards to generate random outcomes, which are compared against pitcher and batter ratings to determine at-bat results. The system accurately reflects each player's ability — great pitchers have wider PB ranges, great hitters dominate more frequently. New player cards were produced for each season until 1992, making it a perennial with dedicated statisticall-baseball fans.
+
+upgrades: []

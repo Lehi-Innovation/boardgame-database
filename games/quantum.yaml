@@ -1,0 +1,53 @@
+id: quantum
+name: "Quantum"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Modular Board
+  - Variable Player Powers
+  - Euro
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Powerful
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Eric Zimmerman
+publisher:
+  - Funforge
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Quantum is a 2-4 player space conquest game where players' dice are their spaceships — and crucially, a die's face value both determines its movement speed and its combat power. A 6 is a fast but fragile Scout; a 1 is a slow but mighty Battlestation. Players maneuver their fleets across a modular space sector, racing to place quantum cubes on planets to trigger victory conditions. The elegant inversion — low numbers are powerful but slow — combined with variable boards and strategic rerolling makes Quantum a beloved cult classic in the 4X-lite space.

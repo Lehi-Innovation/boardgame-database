@@ -1,0 +1,55 @@
+id: septikon-uranium-wars
+name: "Septikon: Uranium Wars"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Space
+  - Dice Rolling
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Action Points
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 4]
+true_counts: [2, 4]
+
+designer:
+  - Konstantin Seleznev
+publisher:
+  - Hobby World
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Septikon: Uranium Wars is a sci-fi board game designed by Konstantin Seleznev and published by Hobby World (Russia) in 2012, in which 2 or 4 players control competing orbital uranium mining stations. Players roll a die and move clones to land on and activate the module's special abilities, managing production, defenses, and attacks against rival stations. The game's deep action variety — with five clone types and dozens of module combinations across the hexagonal space station board — creates emergent strategic situations refined over the designer's twelve years of development.
+
+upgrades: []

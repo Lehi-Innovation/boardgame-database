@@ -1,0 +1,52 @@
+id: under-falling-skies-9-card
+name: "Under Falling Skies: A 9-Card Solo Game"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: under-falling-skies
+edition: "9-Card Print-and-Play Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Cooperative
+  - Puzzle Solving
+  - Roll & Write
+  - Solo
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Dread
+  - Progress
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Tomáš Uhlíř
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Under Falling Skies: A 9-Card Solo Game is the original print-and-play prototype by Tomáš Uhlíř that won the 2019 9-Card Nanogame Print-and-Play Design Contest. Players defend Earth from an alien invasion using just nine cards — tracking alien ship positions and firing base defenses — in a tense solo puzzle. The success of this minimal game led to Czech Games Edition publishing the full commercial version (Under Falling Skies, 2020) with full production components and expanded content.
+
+upgrades: []

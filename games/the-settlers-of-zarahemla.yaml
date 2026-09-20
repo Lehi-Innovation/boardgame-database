@@ -1,0 +1,53 @@
+id: the-settlers-of-zarahemla
+name: "The Settlers of Zarahemla"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Network Building
+  - Family
+  - Historical
+
+evokes:
+  - Progress
+  - Lucky
+  - Rivalry
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Inspiration Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 10
+
+description: |
+  The Settlers of Zarahemla is a 2003 licensed Catan adaptation published by Inspiration Games, set in the world of the Book of Mormon. Players build settlements and roads across the land of Zarahemla using the familiar Catan resource-production mechanics, with the robber replaced by thematically appropriate alternatives. The board uses five strips of hexes rather than individual tiles, and players may contribute stones to the Temple of Zarahemla for bonus victory points—the greatest contributor earns two points. The game also officially supports two-player play, making it slightly more accessible than the base Catan game.
+
+upgrades: []

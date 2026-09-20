@@ -1,0 +1,56 @@
+id: shiloh
+name: "Shiloh: The Battle for Tennessee"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kip Allen
+  - Irad B. Hardy
+  - Redmond A. Simonsen
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Shiloh: The Battle for Tennessee is a two-player hex-and-counter wargame designed by Kip Allen, Irad B. Hardy, and Redmond A. Simonsen, and published by SPI in 1975 as part of the Blue & Gray: Four American Civil War Battles collection. One player commands Union forces, the other Confederate, across 13 turns covering two days of the April 1862 battle. With only 100 counters and a compact map, the game was praised for its accessibility while introducing the innovative "Attack Effectiveness" mechanic that limits exhausted attackers. It was one of SPI's most popular releases in the year of its publication.
+
+upgrades: []

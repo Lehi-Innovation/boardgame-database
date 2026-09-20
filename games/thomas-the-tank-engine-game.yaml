@@ -1,0 +1,52 @@
+id: thomas-the-tank-engine-game
+name: "Thomas the Tank Engine Game"
+alternate_names: ["Thomas the Tank Engine's Railroad Rescue"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Cooperative
+  - Trains
+
+evokes:
+  - Connection
+  - Lucky
+  - Wonder
+  - Progress
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Harmony Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Thomas the Tank Engine's Railroad Rescue is a 1992 children's board game based on the beloved Thomas & Friends franchise, designed for 2-4 players ages 4 and up. Players work cooperatively or competitively to remove obstacles blocking Thomas's tracks so he can complete his journey from the engine shed and back. With simple dice mechanics, colorful components featuring the iconic blue tank engine and his friends, and a brief 20-30 minute play time, it serves as a gentle introduction to board gaming for very young children. Various Thomas the Tank Engine board games have been produced by different publishers since the 1980s, with the Waddingtons 1986 edition and Harmony Games 1992 edition among the most notable.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: forest-shuffle-dartmoor
+name: "Forest Shuffle: Dartmoor"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: forest-shuffle
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Set Collection
+  - Tableau Building
+  - Euro
+  - Nature
+  - Animals
+
+evokes:
+  - Wonder
+  - Complete
+  - Agency
+  - Progress
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Kosch
+publisher:
+  - Lookout Games
+artist:
+  - Judit Piella
+  - Toni Llobet
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 75
+min_age: 10
+
+description: |
+  Forest Shuffle: Dartmoor is a standalone game in the Forest Shuffle family set among
+  the unique wildlife of the British moors. Players plant trees and shrubs to create
+  habitats, then attract the distinctive flora and fauna of Dartmoor to build a thriving,
+  ecologically balanced ecosystem. The card-placement system rewards synergies between
+  species, and the British setting brings entirely new mechanics alongside familiar
+  Forest Shuffle rhythms. The game functions as both a standalone experience and a
+  companion to the original Forest Shuffle.
+
+upgrades: []

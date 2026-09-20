@@ -1,0 +1,51 @@
+id: waka-waka
+name: "Waka Waka"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trading
+  - Economic
+  - Hand Management
+  - Euro
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Rüdiger Dorn
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Waka Waka is a 2012 trading and market game designed by Rüdiger Dorn and published by KOSMOS, set in the same thematic world as Dorn's earlier hit Jambo. Players are African traders buying and selling goods — hides, salt, tea, textiles, jewellery, and fruit — as cheaply as possible on a partially hidden market. Players may send their chimpanzee companion for a closer look at obscured goods before committing to a purchase, and can leverage the special abilities of village characters including the shaman. The game blends light trading mechanics with hidden information for a breezy market-game experience.
+
+upgrades: []

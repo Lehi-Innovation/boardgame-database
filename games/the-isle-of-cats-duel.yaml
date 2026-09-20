@@ -1,0 +1,52 @@
+id: the-isle-of-cats-duel
+name: "The Isle of Cats Duel"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: isle-of-cats
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tile Placement
+  - Set Collection
+  - Animals
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 8
+
+description: |
+  The Isle of Cats Duel is a competitive standalone two-player game designed by Frank West and published by The City of Games in 2023. Players compete to rescue cats from the Isle, drafting lesson and cat cards before placing polyomino-shaped cat tiles onto their boats in order to score points through completed lessons and filled areas. The game was Frank West's first straight-to-retail release and adapts the core appeal of the original Isle of Cats into a tight head-to-head format. The strategic drafting and spatial puzzle creates a satisfying competitive experience in under an hour.
+
+upgrades: []

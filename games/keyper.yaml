@@ -1,0 +1,57 @@
+id: keyper
+name: "Keyper"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: keydom
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Set Collection
+  - Area Control
+  - Variable Setup
+  - Euro
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Richard Breese
+publisher:
+  - R&D Games
+  - Starling Games
+artist:
+  - Juliet Breese
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+description: |
+  Keyper is a 2-4 player worker placement and tile placement game by Richard Breese, published in 2017 as the most complex entry in his long-running Key series. Players build a personal village board while competing over seasonal country boards — special folding boards that offer four different layout options each season, creating fresh spatial puzzles every game. The namesake Keyper worker piece allows a player to claim a country board rather than taking an action on it, later collecting all workers placed there between rounds. A distinctive joining mechanic lets other players add workers to country boards already claimed, benefiting both parties, giving Keyper an unusual cooperative tension within its competitive framework.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: tintenblut
+name: "Tintenblut"
+alternate_names:
+  - "Inkspell: Das Spiel"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Fantasy
+  - Narrative Heavy
+
+evokes:
+  - Discovery
+  - Wonder
+  - Progress
+  - Complete
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+description: |
+  Tintenblut is the board game adaptation of Cornelia Funke's beloved fantasy novel Inkspell (the second book in the Inkworld trilogy), published by Kosmos in 2009. Players journey through the magical Inkworld alongside Meggie and her friends, following travel maps to visit locations from the novel and collecting experience points that can be strategically exchanged for victory points. Designed by Andreas Zimmermann, it appeals primarily to fans of the Inkworld book series who want to explore its world through a family board game.
+
+upgrades: []

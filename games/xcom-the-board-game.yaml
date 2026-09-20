@@ -1,0 +1,61 @@
+id: xcom-the-board-game
+name: "XCOM: The Board Game"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Real-time
+  - Press Your Luck
+  - Asymmetric
+  - Sci-Fi
+  - Fantasy Flight Games
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Eric Lang
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  XCOM: The Board Game is a cooperative sci-fi game in which four players each take on a distinct
+  role — Commander, Chief Scientist, Central Officer, or Squad Leader — to defend Earth from an
+  alien invasion. A required companion app acts as the alien AI, coordinating attacks in real time
+  and creating dynamic, unpredictable turn structures that would be impossible without it. The
+  game's push-your-luck dice mechanics combine with tight budget management and time pressure to
+  generate relentless tension throughout each session.
+
+upgrades: []

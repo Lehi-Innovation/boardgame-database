@@ -1,0 +1,50 @@
+id: trench-2008
+name: "Trench"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Rivalry
+  - Tension
+  - Masterful
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Trench is a two-player abstract strategy game inspired by the trench warfare of World War I. Players command opposing armies on a diamond-shaped grid board separated by a central trench, maneuvering pieces to outflank and overwhelm the enemy. The game captures the attritional tension of WWI combat in a compact, accessible format. Its clean rules and deep positional play make it a solid entry in the abstract wargame genre.
+
+upgrades: []

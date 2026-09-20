@@ -1,0 +1,61 @@
+id: the-battles-of-bull-run
+name: "The Battles of Bull Run"
+alternate_names:
+  - "Manassas"
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Hidden Movement
+  - Simultaneous Action
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Albert Nofi
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  The Battles of Bull Run is a 1972 SPI wargame containing two simulations of the American Civil
+  War's pivotal engagements at Manassas: First Bull Run (June 1861) and Second Bull Run (August 1862).
+  The game uses an innovative simultaneous hidden movement system in which both players turn all units
+  face-down and secretly write movement orders through numbered hexes, only revealing units when they
+  come into contact with enemies. Dummy counters add another layer of deception. This system was
+  notable for its sophistication in simulating the fog of war, and a published variant allows five
+  players by splitting Union command among multiple players.
+
+upgrades: []

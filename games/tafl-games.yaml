@@ -1,0 +1,55 @@
+id: tafl-games
+name: "tafl games"
+alternate_names: ["Hnefatafl", "Tablut", "Tafl"]
+year: 400
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Tafl games (also called hnefatafl games) are a family of ancient Northern
+  European two-player strategy board games that were widely played by Norse and
+  Celtic peoples from approximately the 4th century AD until chess supplanted
+  them in the 12th century. Played on a grid with asymmetric armies — one side
+  defends a king in the center while the other seeks to capture it — pieces move
+  like rooks in chess and are captured by surrounding them on two sides. The most
+  famous variant, tablut, was documented by Linnaeus in 1732, and modern
+  players enjoy dozens of regional variants on boards ranging from 7x7 to 19x19.
+
+upgrades: []

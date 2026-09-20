@@ -1,0 +1,53 @@
+id: shooting-stars
+name: "Shooting Stars"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Action Points
+  - Hex Map
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Shooting Stars is a 1980 tactical space combat board game published by Yaquinto Publications, simulating combat between space fighters on a hex grid. Players manage energy allocation across up to 15 distinct ship functions — including weapons, shields, thrust, and sensors — making each turn a careful balancing act between offensive and defensive priorities. Supporting 1 to 4 players in solitaire, cooperative, or competitive modes, the game rewards players who master its detailed energy management system and tactical maneuvering in three-dimensional space combat.
+
+upgrades: []

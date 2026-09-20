@@ -1,0 +1,54 @@
+id: world-of-warcraft-trading-card-game
+name: "World of Warcraft Trading Card Game"
+alternate_names:
+  - "WoW TCG"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Resource Management
+  - Variable Player Powers
+  - Fantasy
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Masterful
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Upper Deck Entertainment
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  The World of Warcraft Trading Card Game is a collectible card game published by Upper Deck Entertainment in 2006 based on Blizzard's massively popular MMORPG. Players build decks around a Hero card representing their character's race, class, and faction (Alliance or Horde), using allies, abilities, armor, and weapons to defeat the opponent. A unique resource system scales power availability throughout the game. Notable for its loot card mechanic: special rare cards contained redemption codes for exclusive in-game items such as rare mounts and pets in the online game, bridging the physical and digital play spaces.
+
+upgrades: []

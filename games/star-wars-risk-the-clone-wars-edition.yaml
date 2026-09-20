@@ -1,0 +1,52 @@
+id: star-wars-risk-the-clone-wars-edition
+name: "Star Wars Risk: The Clone Wars Edition"
+alternate_names: ["Risk: Star Wars – The Clone Wars Edition"]
+year: 2005
+
+# Relationships
+game_family: risk
+edition: clone-wars
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 10
+
+description: |
+  Star Wars Risk: The Clone Wars Edition is a 2005 Hasbro adaptation of the classic Risk game set during the Star Wars prequel era. One player commands the Galactic Republic (led by the Jedi) against the Separatists (led by Count Dooku) in a galaxy-spanning conflict. The game adds Star Wars-specific spacecraft that players can place in territories for tactical benefits — Fighters allow rerolling 1s, Corvettes add +1 to a die, and Capital Ships let players roll an 8-sided die instead of a 6-sided one. Card collection for winning battles follows standard Risk conventions.
+
+upgrades: []

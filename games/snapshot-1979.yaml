@@ -1,0 +1,58 @@
+id: snapshot-1979
+name: "Snapshot"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Action Points
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Marc W. Miller
+publisher:
+  - Game Designers' Workshop
+artist:
+  - Paul R. Banner
+  - Jennell Jaquays
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Snapshot is a 1979 miniatures wargame published by Game Designers' Workshop, designed by Marc W. Miller as
+  an adaptation of the Traveller RPG combat rules for starship boarding actions. Players simulate close personal
+  combat aboard spacecraft in the far future, using deck plans of a Type-S scout vessel and Type-A free trader
+  scaled for 15mm miniatures or cardboard counters. The game's tight corridors and tactical positioning make for
+  tense, lethal engagements in the classic science fiction tradition.
+
+upgrades: []

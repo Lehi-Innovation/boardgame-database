@@ -1,0 +1,61 @@
+id: dog-park
+name: "Dog Park"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Auctions/Bidding
+  - Tableau Building
+  - Hand Management
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Katy Millington
+publisher:
+  - Birdwood Games
+artist:
+  - Callum Reekie
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 10
+
+description: |
+  Dog Park is a card-drafting and set-collection game where players recruit dogs into
+  their kennels, then take them for walks through the park to earn points. Over four
+  rounds, players secretly bid reputation points to acquire dogs, then select which dogs
+  to walk and navigate the shared park paths. Points come from completing objectives,
+  building tableau synergies, and end-game powers, all wrapped in a charming dog-walking
+  theme that makes it appealing to families and gamers alike.
+
+upgrades: []

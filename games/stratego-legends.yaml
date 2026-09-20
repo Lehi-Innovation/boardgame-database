@@ -1,0 +1,54 @@
+id: stratego-legends
+name: "Stratego: Legends"
+alternate_names: ["Stratego Legends: The Shattered Lands"]
+year: 1999
+
+# Relationships
+game_family: stratego
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Modular Board
+  - Abstract
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Unique
+
+possible_counts: [2, 4, 6, 8]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Stratego: Legends (The Shattered Lands) is a 1999 Avalon Hill reimagining of classic Stratego, set in a mythical world where good and evil forces clash across a randomly configured modular board. Like Stratego, pieces are placed secretly and revealed only in combat, but every unit here has a special power — Innate powers, Abilities, Actions, or Death Curses — adding layers of variable interaction beyond the original's rank-based system. The goal is to destroy the opponent's castle rather than capture a flag, and randomized terrain setup ensures each game is unique. Published until 2004, the game earned recognition for being a surprisingly entertaining evolution of the Stratego formula despite mixed reviews.
+
+upgrades: []

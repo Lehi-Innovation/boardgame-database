@@ -1,0 +1,59 @@
+id: the-korean-war
+name: "The Korean War"
+alternate_names:
+  - "Korea: The Mobile War"
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  The Korean War (Korea: The Mobile War) is a 1969 SPI board wargame by Jim Dunnigan, one of the
+  earliest board wargames dedicated to the Korean conflict. One player controls United Nations
+  forces and the other commands North Korean and Chinese forces. Three scenarios cover distinct
+  phases of the war and can be combined into a full 52-turn campaign game. The simple d6 combat
+  resolution table with straight ratios — a hallmark of early SPI design before differential
+  modifiers became standard — makes the game accessible by 1960s-era wargame standards while
+  capturing the war's dramatic mobile phase and subsequent stalemate.
+
+upgrades: []

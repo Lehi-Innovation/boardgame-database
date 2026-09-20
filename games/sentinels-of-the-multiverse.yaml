@@ -1,0 +1,57 @@
+id: sentinels-of-the-multiverse
+name: "Sentinels of the Multiverse"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: sentinels-of-the-multiverse
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Superheroes
+  - Variable Player Powers
+  - Asymmetric
+  - Greater Than Games
+
+evokes:
+  - Powerful
+  - Connection
+  - Tension
+  - Unique
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Christopher Badell
+  - Paul Bender
+  - Adam Rebottaro
+publisher:
+  - Greater Than Games
+artist:
+  - Adam Rebottaro
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+description: |
+  Sentinels of the Multiverse is a fully cooperative superhero card game in which 1–5 players each control a unique hero battling a villain across a variety of dangerous environments. Each hero, villain, and environment has its own custom deck that auto-plays according to set rules, creating a dynamic three-way interaction. The original comic book aesthetic and deep expansion library helped it become a beloved staple of the cooperative gaming community, and the game was later updated as the Definitive Edition with streamlined rules and new art.
+
+upgrades: []

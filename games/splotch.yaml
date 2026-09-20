@@ -1,0 +1,50 @@
+id: splotch
+name: "Splotch!"
+alternate_names: ["Splotch"]
+year: 2013
+
+# Relationships
+game_family: croak
+edition: null
+base_game: croak
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Take That
+  - Animals
+  - Family
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Splotch! is a standalone expansion for the frog-themed board game Croak!, in which players move frog pieces around a board attempting to land on opposing frogs to eliminate them while protecting their own queen frog. The game retains Croak!'s core eat-or-be-eaten capture mechanics where landing on an opponent's piece removes it from play, while the standalone design allows it to be played without the base game. Publisher and designer details are not well documented for this edition.
+
+upgrades: []

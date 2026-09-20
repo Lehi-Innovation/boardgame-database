@@ -1,0 +1,50 @@
+id: touche
+name: "Touché"
+alternate_names:
+  - "Touche"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Masterful
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Touché is a two-player abstract strategy game designed by Howard Wexler in 1977 in which players attempt to get four pieces of their color in a row horizontally, vertically, or diagonally. The game's standout feature is its magnetic board with repositionable strips, which creates 245,760 possible board configurations and allows players to flip pieces by touching the color — adding a spatial puzzle element to the connection game format. The game was nominated for the 1979 Spiel des Jahres when republished by Parker Brothers, and won the Mensa Select Prize.
+
+upgrades: []

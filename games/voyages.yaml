@@ -1,0 +1,52 @@
+id: voyages
+name: "Voyages"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Route Building
+  - Maritime
+  - Family
+  - Gateway
+
+evokes:
+  - Discovery
+  - Lucky
+  - Tension
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Voyages is a roll-and-write seafaring adventure game designed by Matthew Dunstan and Rory Muldoon, published by Postmark Games in 2022. Players roll three dice each turn and allocate them to determine direction, distance, and ship duties as they chart their solo route across a single-sheet ocean map. The goal is to explore islands, trade cargo, and defeat the Dread sea creature before exhausting your cards. Funded successfully on Kickstarter as a print-and-play game, Voyages offers a surprising depth of tactical routing decisions within its compact, elegant roll-and-write framework.
+
+upgrades: []

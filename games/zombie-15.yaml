@@ -1,0 +1,59 @@
+id: zombie-15
+name: "Zombie 15'"
+alternate_names:
+  - "Zombie 15 Minutes"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Action Points
+  - Campaign Mode
+  - Zombies
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Nicolas Schlewitz
+  - Guillaume Lémery
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 20
+min_age: 14
+
+description: |
+  Zombie 15' is a frantic cooperative survival game where a group of teenagers must survive a
+  zombie apocalypse — and each game plays out to a 15-minute soundtrack that sets the relentless
+  tempo. Players must move quickly through 15 progressive scenarios, always outnumbered and
+  always running. The real-time constraint, teen protagonist theme, and compact design create a
+  uniquely tense and cinematic experience entirely contained within a quarter hour.
+
+upgrades: []

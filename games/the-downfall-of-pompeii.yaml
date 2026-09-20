@@ -1,0 +1,55 @@
+id: the-downfall-of-pompeii
+name: "The Downfall of Pompeii"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Area Control
+  - Take That
+  - Family
+  - Historical
+  - Ancient
+
+evokes:
+  - Tension
+  - Humor
+  - Dread
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus-Jürgen Wrede
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Downfall of Pompeii is a two-phase game for 2–4 players designed by Klaus-Jürgen Wrede (of Carcassonne fame) set during the catastrophic eruption of Mount Vesuvius. In the first phase, players peacefully place citizen cards into Pompeii's buildings, populating the city. In the second phase, the volcano erupts: lava tiles spill across the board and players frantically try to evacuate as many of their citizens as possible through the city gates. Opponents can place lava to block escape routes, creating tense confrontations. The game's memorable arc from tranquil city-building to panicked evacuation makes it a unique and repeatedly enjoyable design.
+
+upgrades: []

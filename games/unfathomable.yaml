@@ -1,0 +1,56 @@
+id: unfathomable
+name: "Unfathomable"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Traitor
+  - Social Deduction
+  - Cooperative
+  - Cthulhu
+  - Horror
+  - Fantasy Flight Games
+  - Asymmetric
+  - Narrative Heavy
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Persuasion
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [5, 6]
+
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Unfathomable is a hidden traitor cooperative board game published by Fantasy Flight Games in 2021, designed by Tony Fanchi and Corey Konieczka as a reimagining of Battlestar Galactica: The Board Game set in the Arkham Horror Files universe. Players crew a steamship crossing the Atlantic, battling Deep One attacks, managing crises, and maintaining the ship's systems — while one or more players secretly work for the forces of the deep, sabotaging the mission. The game captures the paranoia and tension of the original BSG game in a Lovecraftian eldritch horror setting, with rich narrative events and asymmetric traitor mechanics.
+
+upgrades: []

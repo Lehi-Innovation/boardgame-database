@@ -1,0 +1,57 @@
+id: mystic-vale
+name: "Mystic Vale"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Press Your Luck
+  - Hand Management
+  - Engine Building
+  - Fantasy
+  - Nature
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - John D. Clair
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Bartłomiej Gaweł
+  - Dann May
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+description: |
+  Mystic Vale is a 2-4 player card crafting game from AEG that introduces an innovative Card Crafting System using transparent card sleeves. Instead of merely building a deck from pre-made cards, players physically layer transparent advancement cards inside their card sleeves, combining abilities and creating increasingly powerful custom cards unique to their deck. The push-your-luck element emerges from the "spoil" mechanic — players keep revealing cards from their deck until they choose to stop or spoil, but revealing too many decay symbols ends their turn early. This tactile card customization system creates a satisfying sense of progression as players transform humble starters into potent magical engines.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: survive-escape-from-atlantis
+name: "Survive: Escape from Atlantis!"
+alternate_names: ["Escape from Atlantis"]
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Take That
+  - Dice Rolling
+  - Family
+  - Ameritrash
+
+evokes:
+  - Tension
+  - Dread
+  - Humor
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Julian Courtland-Smith
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Survive: Escape from Atlantis! is a competitive survival game in which players
+  race to evacuate their colored villagers from a sinking island before sea
+  monsters devour them. The island is constructed from tiles that are
+  progressively removed, revealing the ocean below, while sharks, giant squid,
+  sea serpents, and dolphins roam the waters around the boats carrying survivors
+  to safety. Players must balance moving their own pieces and sabotaging
+  opponents, making each session a chaotic and often hilarious struggle.
+  Originally published by Parker Brothers in 1982 and later reissued by
+  Stronghold Games, it remains a beloved classic of family gaming.
+
+upgrades: []

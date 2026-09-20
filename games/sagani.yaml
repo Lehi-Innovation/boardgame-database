@@ -1,0 +1,53 @@
+id: sagani
+name: "Sagani"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Euro
+  - Family
+  - Nature
+  - Uwe Rosenberg
+
+evokes:
+  - Complete
+  - Clever
+  - Progress
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Skellig Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Sagani is a compact tile-placement game by Uwe Rosenberg for 1-4 players in which players draft spirit tiles and arrange them in their expanding tableau. Each tile has arrows pointing to specific color directions, and when an arrow points to a matching-color neighbor, a sound disc is placed on it. Collecting a set number of sound discs triggers the end game, while unfulfilled arrows must be covered by costly "cacophony discs" that score negative points. The elegant scoring system — maximizing harmony by fulfilling arrows in all directions — rewards careful spatial planning in a breezy 30-minute package.

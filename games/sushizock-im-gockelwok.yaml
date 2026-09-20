@@ -1,0 +1,60 @@
+id: sushizock-im-gockelwok
+name: "Sushizock im Gockelwok"
+alternate_names: ["Sushi Wok", "Sushi Bar"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Sushizock im Gockelwok is a push-your-luck dice game designed by Reiner
+  Knizia and published by Zoch Verlag. Players roll five custom dice — each
+  showing sushi pieces, fishbones, and colored chopsticks — and try to collect
+  matching tiles from the center of the table. Rolling three or more chopsticks
+  of the same color lets players steal tiles from opponents, adding a thieving
+  element to the press-your-luck core. The game blends simple dice mechanics
+  with memory and set collection for a fast-playing family experience. It was
+  nominated for the 2009 Golden Geek Best Children's Board Game award.
+
+upgrades: []

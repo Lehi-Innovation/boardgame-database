@@ -1,0 +1,60 @@
+id: targi
+name: "Targi"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Hand Management
+  - Euro
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Andreas Steiger
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Targi is a two-player-only worker placement and set collection game designed
+  by Andreas Steiger and published by KOSMOS in 2012. Players place markers on
+  the border cards of a 5x5 grid — each row and column intersection with another
+  player's marker blocks access to that border card — then collect the central
+  cards where their row and column intersect. Border cards provide resources and
+  actions, while center tribal cards grant ongoing abilities and victory points.
+  The unique blocking mechanic creates intense spatial tension in a compact,
+  portable package. It was nominated for the Kennerspiel des Jahres and is
+  considered one of the finest two-player games ever designed.
+
+upgrades: []

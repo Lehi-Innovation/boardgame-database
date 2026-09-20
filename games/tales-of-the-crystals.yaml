@@ -1,0 +1,59 @@
+id: tales-of-the-crystals
+name: "Tales of the Crystals"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Fantasy
+  - Family
+
+evokes:
+  - Discovery
+  - Wonder
+  - Mystery
+  - Creative
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Tales of the Crystals is an interactive fantasy cooperative board game
+  published by Milton Bradley in 1993, aimed primarily at young girls. An
+  included 60-minute audio cassette guides players through four different fantasy
+  adventures, instructing them to perform tasks, recite lines, and act out
+  scenarios — encouraging physical movement and imagination rather than passive
+  seated play. The game's elaborate components include crystal pendants, a
+  plastic heart box, a magic mirror, a Wheel of Choices, and fantasy cards.
+  Notable for its immersive audioguide format, the game predated modern narrative-
+  driven cooperative gaming by blending storytelling with imaginative roleplay.
+
+upgrades: []

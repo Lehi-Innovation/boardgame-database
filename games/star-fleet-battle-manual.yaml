@@ -1,0 +1,58 @@
+id: star-fleet-battle-manual
+name: "Star Fleet Battle Manual"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Dexterity
+  - Space
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Lou Zocchi
+  - Michael Scott Kurtick
+publisher:
+  - Gamescience
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Star Fleet Battle Manual is a 1977 miniatures game designed by Lou Zocchi and Michael Scott Kurtick and
+  published by Gamescience, based on elements from Franz Joseph's Star Fleet Technical Manual. Players control
+  Star Trek starships on any flat surface, using a uniquely physical aiming mechanic: stretching a string from
+  the center of a ship's card and estimating the correct angle to intersect an opponent's silhouette before
+  firing. Ships are tracked on reusable starship log cards (filled in with grease pencils), and eight ship
+  classes are available. Gamescience also produced plastic and metal miniatures for the game.
+
+upgrades: []

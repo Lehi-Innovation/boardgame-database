@@ -1,0 +1,55 @@
+id: azul-duel
+name: "Azul Duel"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: azul
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michael Kiesling
+publisher:
+  - Next Move Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Azul Duel is a two-player head-to-head version of Michael Kiesling's award-winning tile-placement series, built specifically for intimate, tactical competition. Players draft tiles from a shared market using the signature Azul drafting mechanism, enhanced with a new stacking twist, and lay them onto modular pattern plates that create a unique player board layout each game. The game preserves the elegant pattern-building and penalty-avoiding tension of the original Azul while adding additional strategic options tailored for the pure duel format.
+
+upgrades: []

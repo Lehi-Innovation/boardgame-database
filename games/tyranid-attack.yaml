@@ -1,0 +1,52 @@
+id: tyranid-attack
+name: "Tyranid Attack"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - 1 vs Many
+  - Cooperative
+  - Fantasy
+  - War
+
+evokes:
+  - Tension
+  - Dread
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Gerry Grace
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Tyranid Attack is a 1992 board game set in the Warhammer 40,000 universe, published by Games Workshop and designed by Gerry Grace. Players control Space Marines battling against waves of Tyranid creatures (alien horrors) in a tactical skirmish game inspired by the look and feel of the Space Hulk franchise. One or more players command the beleaguered Space Marines while opponents control the swarming Tyranids, creating an asymmetric 1-vs-many experience. It is a classic entry in GW's lineup of standalone board games from the early 1990s.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: the-wolves
+name: "The Wolves"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Variable Player Powers
+  - Modular Board
+  - Animals
+  - Euro
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Progress
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  The Wolves is a pack-building area-control game designed by Ashwin Kamath and Clarence Simpson and published by Pandasaurus Games in 2022. Players compete to build the largest and most dominant wolf pack by claiming territory, recruiting lone wolves, hunting prey, and upgrading their pack's attributes on a modular map. Each round, players take two actions from a shared action track, creating tension between what you want to do and what you can afford to let opponents do. The combination of territory control, pack evolution, and competitive action selection makes The Wolves a rich strategy game that rewards long-term planning.
+
+upgrades: []

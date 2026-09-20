@@ -1,0 +1,54 @@
+id: roll-through-the-ages-the-iron-age
+name: "Roll Through the Ages: The Iron Age"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: roll-through-the-ages
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Roll & Write
+  - Resource Management
+  - Euro
+  - Historical
+  - Ancient
+  - Civilization
+
+evokes:
+  - Progress
+  - Lucky
+  - Agency
+  - Tension
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Thomas Lehmann
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Roll Through the Ages: The Iron Age is a sequel to Matt Leacock's Bronze Age, designed by Thomas Lehmann for 1-4 players. Players roll a set of dice up to three times, setting aside results to generate workers, food, and resources for building monuments and provinces across the civilizations of Greece, Phoenicia, and Rome. New mechanics include a yellow Fate Die that can trigger natural disasters or military conquests, and armies that allow players to raid opponents' stores. The combination of push-your-luck dice rolling with civilization-building scoring makes it a satisfying medium-weight dice game.

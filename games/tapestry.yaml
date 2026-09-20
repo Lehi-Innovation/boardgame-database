@@ -1,0 +1,65 @@
+id: tapestry
+name: "Tapestry"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Tech Tree
+  - Resource Management
+  - Variable Player Powers
+  - Asymmetric
+  - Euro
+  - Civilization
+  - Stonemaier Games
+  - Jamey Stegmaier
+
+evokes:
+  - Progress
+  - Clever
+  - Unique
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Tapestry is a two-hour civilization-building board game designed by Jamey
+  Stegmaier and published by Stonemaier Games in 2019. Players lead one of
+  many asymmetric fictional civilizations through four advancement tracks —
+  Technology, Science, Exploration, and Military — earning unique bonuses at
+  each tier. Income turns provide resources and tapestry cards that define
+  cultural identity, while capital city tile placement creates a distinctive
+  visual empire. The game is celebrated for delivering a streamlined civilization
+  experience that avoids historical constraints, giving every civilization unique
+  powers and a fantasy-inspired feel.
+
+upgrades: []

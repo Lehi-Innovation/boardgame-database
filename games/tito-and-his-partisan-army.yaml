@@ -1,0 +1,51 @@
+id: tito-and-his-partisan-army
+name: "Tito and his Partisan Army: Yugoslavia, 1941-45"
+alternate_names:
+  - "Tito and his Partisan Army"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Tito and his Partisan Army: Yugoslavia, 1941–45 is a two-player wargame published by SPI in 1980, originally appearing in issue 81 of the magazine Strategy & Tactics. One player controls Axis occupation forces, the other Tito's Yugoslav Partisans, across 12 Occupation Zones rated by civilian alignment and city control. The asymmetric guerrilla warfare design rewards the Partisan player for spreading pressure across neglected zones, effectively illustrating the dynamics of a resistance war against a conventionally superior enemy.
+
+upgrades: []

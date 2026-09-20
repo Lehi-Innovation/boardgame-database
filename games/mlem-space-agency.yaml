@@ -1,0 +1,64 @@
+id: mlem-space-agency
+name: "MLEM: Space Agency"
+alternate_names:
+  - "MLEM"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Area Control
+  - Family
+  - Party
+  - Filler
+  - Space
+  - Animals
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Rebel Studio
+artist:
+  - Piotr Słaby
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  MLEM: Space Agency is a push-your-luck dice game starring cats attempting to reach space.
+  On their turn the active captain rolls dice and decides whether to continue or disembark
+  their cats—but any player can choose to pull their own cats off the rocket at any time.
+  Area majority scoring means players compete for position across multiple launch pads.
+  Light, funny, and instantly understandable, MLEM channels classic Knizia elegance into
+  a joyful filler about space-faring felines.
+
+upgrades: []

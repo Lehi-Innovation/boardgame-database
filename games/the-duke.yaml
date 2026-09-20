@@ -1,0 +1,61 @@
+id: the-duke
+name: "The Duke"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Asymmetric
+  - Variable Player Powers
+  - Medieval
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jeremy Holcomb
+  - Joe Huber
+  - Stephen McLaughlin
+publisher:
+  - Catalyst Game Labs
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  The Duke is a two-player abstract strategy game played on a 6x6 grid with a feudal theme, often
+  compared to chess while offering a fundamentally different experience. Each tile (piece) shows two
+  different movement patterns — one on each face — and flips after every move, changing what it can
+  do on the next turn. Players must capture the opponent's Duke tile to win. Because each piece's
+  future capabilities are always visible, the game rewards reading ahead and anticipating how the
+  board will evolve after each flip. New tiles can be drawn randomly from a bag and placed adjacent
+  to the Duke, injecting variance and preventing static openings.
+
+upgrades: []

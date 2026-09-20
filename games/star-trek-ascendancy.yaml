@@ -1,0 +1,64 @@
+id: star-trek-ascendancy
+name: "Star Trek: Ascendancy"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Area Control
+  - Variable Player Powers
+  - Modular Board
+  - Resource Management
+  - Dice Rolling
+  - Events
+  - Sci-Fi
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Discovery
+  - Agency
+  - Unique
+
+possible_counts: [3, 4, 5]
+true_counts: [3]
+
+designer:
+  - Aaron Dill
+  - John Kovaleski
+  - Sean Sweigart
+publisher:
+  - Gale Force Nine
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Star Trek: Ascendancy is a 4X game of exploration, expansion, and conflict designed by Aaron Dill, John
+  Kovaleski, and Sean Sweigart, published by Gale Force Nine in 2016. Three asymmetric factions — the United
+  Federation of Planets, the Klingon Empire, and the Romulan Star Empire — race to build space lanes connecting
+  star systems on a modular, ever-expanding galaxy board. Players gather resources, develop technology, and field
+  fleets in order to achieve Ascendancy — dominance over the known galaxy — while thematically playing up each
+  faction's unique traits through variable player powers and encounter events.
+
+upgrades: []

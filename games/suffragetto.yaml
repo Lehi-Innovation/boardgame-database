@@ -1,0 +1,51 @@
+id: suffragetto
+name: "Suffragetto"
+alternate_names: []
+year: 1908
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium (historical rarity)
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Women's Social and Political Union
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Suffragetto is a 1908 two-player strategy board game published by the Women's Social and Political Union (WSPU) and manufactured by Sargeant Bros. Ltd. in Edwardian London. One player controls 21 green suffragette pieces seeking to break through police lines and enter the House of Commons; the other controls 21 dark blue police constables trying to disrupt the suffragettes' meeting at Albert Hall. Arrested suffragettes go to "prison" and disabled constables to "hospital." The first player to get six pieces into the opponent's base wins. Only one known original copy survives in Oxford's Bodleian Libraries; print-and-play versions have since made it accessible to modern players.
+
+upgrades: []

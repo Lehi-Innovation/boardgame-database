@@ -1,0 +1,55 @@
+id: santiago-de-cuba
+name: "Santiago de Cuba"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Modular Board
+  - Economic
+  - Euro
+  - Family
+  - Eagle-Gryphon Games
+
+evokes:
+  - Agency
+  - Clever
+  - Tension
+  - Progress
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Rieneck
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Santiago de Cuba is an economic trading game for 2–4 players set in Cuba's vibrant second city. Players move through the city visiting characters, collecting goods, and competing to be first to supply cargo ships that arrive at the port with specific demands. A clever dice mechanism determines which character is available to visit each turn, while players must decide whether to use that character themselves or pay to pass and give opponents access. The game's pick-up-and-deliver and set-collection elements combine in a lively, medium-weight package with genuine Caribbean atmosphere and meaningful decisions throughout.
+
+upgrades: []

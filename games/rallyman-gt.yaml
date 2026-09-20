@@ -1,0 +1,51 @@
+id: rallyman-gt
+name: "Rallyman: GT"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: rallyman
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Racing
+  - Modular Board
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jean-Christophe Bouvier
+publisher:
+  - Holy Grail Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Rallyman: GT is a 1-6 player road racing game by Jean-Christophe Bouvier in which players push their luck with a unique dice-selection mechanic across modular GT racing circuits. Before moving, players choose which gear dice to commit and roll them simultaneously — each die can only be rolled once per turn, so committing to a high gear is exciting but risky. Lapping a circuit cleanly requires balancing ambition against the danger of skidding. The modular board creates varied tracks while the press-your-luck dice selection keeps every turn in the game tense and thematic.

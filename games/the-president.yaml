@@ -1,0 +1,50 @@
+id: the-president
+name: "The President"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Economic
+  - Family
+
+evokes:
+  - Agency
+  - Persuasion
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Merad Design Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The President is a 1983 political board game published by Merad Design Games in which players compete to win their party's presidential nomination and then the general election for President of the United States. Players must navigate the primary process, build coalitions, and manage resources to secure delegates before facing the general election campaign. The game reflects the interest in simulation-style political games that was popular in the early 1980s, offering an accessible model of the American presidential election process.
+
+upgrades: []

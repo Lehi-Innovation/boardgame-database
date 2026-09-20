@@ -1,0 +1,51 @@
+id: viking-gods
+name: "Viking Gods"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Asymmetric
+  - Mythology
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Allen Hammack
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Viking Gods is a 1982 two-player board game published by TSR, designed by Allen Hammack (an early contributor to Dungeons & Dragons). Set during the Norse apocalypse of Ragnarök, the game pits the Gods against the forces of Chaos in an asymmetric conflict. The Gods player must either kill Loki or defeat the army of Chaos to win, while the Chaos player must destroy Yggdrasil — the World Tree — to claim victory. The game captures the epic confrontation between divine order and cosmic destruction from Norse mythology within an accessible TSR mini-game format.
+
+upgrades: []

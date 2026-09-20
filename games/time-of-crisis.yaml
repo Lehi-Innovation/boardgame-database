@@ -1,0 +1,54 @@
+id: time-of-crisis
+name: "Time of Crisis: The Roman Empire in Turmoil, 235-284 AD"
+alternate_names:
+  - "Time of Crisis"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Area Control
+  - Hand Management
+  - Wargame
+  - Historical
+  - Ancient
+  - Civilization
+
+evokes:
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Time of Crisis places 2–4 players in command of Roman dynasties during the turbulent Crisis of the Third Century, when 50 years of civil war and barbarian invasion nearly tore the empire apart. Players gather influence among the Senate, military, and people of Rome using a deck-building mechanism where cards gained reflect your powerbase and determine future actions, while board position controls access to new cards. The hybrid deck-building/wargame design, published by GMT Games, was praised for making ancient Roman political maneuvering feel both tense and thematic.
+
+upgrades: []

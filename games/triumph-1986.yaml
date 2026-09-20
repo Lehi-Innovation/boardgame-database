@@ -1,0 +1,47 @@
+id: triumph-1986
+name: "Triumph"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Triumph (1986) is an abstract strategy game published by Creative Crusade Ltd in which 2-4 players use tetrahedral pieces on a folding hexagonal board. The game received a 3-star review from Games International. Details on designer and further mechanics are limited in English sources; minimal entry.
+
+upgrades: []

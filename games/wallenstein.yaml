@@ -1,0 +1,54 @@
+id: wallenstein
+name: "Wallenstein"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Simultaneous Action
+  - Euro
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Clever
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Dirk Henn
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+description: |
+  Wallenstein is a 2002 Euro-style area control game designed by Dirk Henn and published by Queen Games, set during the Thirty Years' War. Players compete to control German territories and accumulate victory points by governing counties, constructing buildings, and managing resources across two game years. The game's most celebrated innovation is the cube tower: cubes representing armies are dropped in through the top during battles, and a random number fall out the bottom — survivors representing the combat result, while others are trapped inside and may tumble out in future battles. This elegant randomness adds memorable tension to otherwise strategic decision-making.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: trial-of-strength
+name: "Trial of Strength"
+alternate_names:
+  - "Trial of Strength: War on the Eastern Front 1941-1945"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+  - Area Control
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave O'Connor
+publisher: []
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Trial of Strength is a strategic-level wargame simulating the titanic conflict on the Eastern Front of World War II from 1941 to 1945. Designed by Dave O'Connor and originally published by Panther Games in Australia in 1985, the game uses a novel integrated movement and combat system called CLIMACS that emphasizes initiative, momentum, and sound operational planning. Players simulate the full scope of the German-Soviet struggle, including air power, command and control, morale, terrain, supply, and logistics. A second edition was later published by Lock 'n Load Publishing.
+
+upgrades: []

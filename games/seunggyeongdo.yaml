@@ -1,0 +1,50 @@
+id: seunggyeongdo
+name: "Seunggyeongdo"
+alternate_names: ["Seunggyeongdo-nori", "Korean Officials Game"]
+year: -1400
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Abstract
+  - Ancient
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Mystery
+  - Discovery
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Seunggyeongdo is a traditional Korean board game from the Joseon Dynasty in which players simulate the careers of government officials, racing to ascend through ranks of the bureaucracy to reach the highest positions of Premier (yeonguijeong) or Commander-in-Chief (dowonsu). Using special dice, players advance or may be "impeached" and forced to start over, or in extreme cases made to "drink poison." Played by the yangban (noble class) as both entertainment and education about the civil service structure, it was popular enough that even King Seongjong organized games at the palace.
+
+upgrades: []

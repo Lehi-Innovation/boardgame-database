@@ -1,0 +1,62 @@
+id: star-explorer
+name: "Star Explorer"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Wargame
+  - Events
+  - Variable Setup
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Agency
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Douglas Bonforte
+  - Leonard H. Kanterman
+publisher:
+  - Fantasy Games Unlimited
+artist:
+  - Bob Charrette
+  - Jeff Dee
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Star Explorer is a science fiction game published by Fantasy Games Unlimited in 1982, designed by Douglas
+  Bonforte and Leonard H. Kanterman. Each player commands a Space Fleet Service cruiser, spending a design pool
+  to customize their ship and crew before embarking on randomly allocated missions across a hex-mapped star system.
+  Energy points drive movement and actions, and encounters with alien species are randomly generated, with outcomes
+  based on ship systems, crew assignments, and energy expenditure. Though unlicensed, the game is heavily inspired
+  by Star Trek tropes and structure.
+
+upgrades: []

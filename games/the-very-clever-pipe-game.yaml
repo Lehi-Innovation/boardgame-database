@@ -1,0 +1,49 @@
+id: the-very-clever-pipe-game
+name: "The Very Clever Pipe Game"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  The Very Clever Pipe Game is a puzzle board game in which players connect pipe segments to create functional plumbing routes across a playing surface. Players lay pipe tiles or pieces to create a continuous path from a source to a destination, with varying shapes and configurations adding spatial reasoning challenges. This type of pipe-connecting puzzle game has appeared in various forms under different publishers and represents an enduring genre of spatial puzzle game. Specific publisher and designer details for this particular edition are limited.
+
+upgrades: []

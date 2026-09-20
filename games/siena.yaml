@@ -1,0 +1,53 @@
+id: siena
+name: "Siena"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Euro
+  - Historical
+  - Medieval
+  - Resource Management
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Wonder
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mario Papini
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Siena is an unusual Euro game designed by Mario Papini and published by Z-Man Games in 2005, using the famous 1338 fresco by Ambrogio Lorenzetti as both its gameboard and the artwork for all its cards. Players rise through medieval social ranks from peasant to merchant to banker, earning victory points through charitable giving, hiring artists, donating to the church, and constructing the Torre del Mangia. The game is noted for its strikingly non-intuitive mechanics that require extended play before their logic becomes apparent, making it a challenging but artistically unique experience.
+
+upgrades: []

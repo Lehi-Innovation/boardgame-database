@@ -1,0 +1,51 @@
+id: shit-happens
+name: "Shit Happens"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Press Your Luck
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Andy Breckman
+publisher:
+  - Goliath Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 18
+
+description: |
+  Shit Happens is an adult party card game published by Goliath Games in 2016 in which players try to correctly rank terrible life situations on a Misery Index from 1 to 100. Each card depicts a horrible scenario (ranked by actual therapists and counselors), and players must insert new cards into their growing hand in the correct position relative to the ones they already hold — get it right and keep it, get it wrong and lose it. The first to collect 10 cards wins, and the game thrives on arguments about whose misfortune is worse.
+
+upgrades: []

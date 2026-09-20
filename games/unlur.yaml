@@ -1,0 +1,50 @@
+id: unlur
+name: "Unlur"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hex Map
+  - Negotiation
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jorge Gómez Arrausi
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Unlur is a two-player abstract connection game invented by Jorge Gómez Arrausi in 2002, played on a hexagonal board. It belongs to the connection game family alongside Hex and Havannah, with the goal of linking opposite sides of the board. Unlur's notable contribution to abstract game design is the popularization of a pre-game contract phase — a negotiation mechanism in which players bid on role assignments before play begins. The game is primarily played online through platforms such as igGameCenter and has attracted a dedicated following among abstract strategy enthusiasts.
+
+upgrades: []

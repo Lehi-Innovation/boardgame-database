@@ -1,0 +1,55 @@
+id: whoowasit
+name: "Whoowasit?"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Dice Rolling
+  - Family
+  - Mystery
+  - Reiner Knizia
+  - Ravensburger
+
+evokes:
+  - Mystery
+  - Discovery
+  - Connection
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 7
+
+description: |
+  Whoowasit? is a cooperative electronic mystery game for 2-4 players in which players work together to solve the theft of a magical ring from a castle. Players move their pieces through rooms on the board to gather clues, with a talking treasure chest electronic device randomly dispensing hints and ensuring no two games play out the same way. Designed by Reiner Knizia and published by Ravensburger, the game blends light deduction with cooperative play in an accessible format suitable for younger players.
+
+upgrades: []

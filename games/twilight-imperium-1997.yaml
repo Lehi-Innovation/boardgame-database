@@ -1,0 +1,58 @@
+id: twilight-imperium-1997
+name: "Twilight Imperium"
+alternate_names:
+  - "Twilight Imperium: First Edition"
+  - "Twilight Imperium (1st Edition)"
+year: 1997
+
+# Relationships
+game_family: twilight-imperium
+edition: "1st Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Sci-Fi
+  - Space
+  - Area Control
+  - Trading
+  - Negotiation
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy Flight Games
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Wonder
+  - Unique
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [6]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 480
+min_playtime: 300
+max_playtime: 600
+min_age: 16
+
+description: |
+  The original 1997 first edition of Twilight Imperium is the founding entry in Christian T. Petersen's sweeping space opera 4X board game series. Players control asymmetric alien civilizations competing for control of the galactic throne on a modular hex-tile map, managing fleets, diplomacy, trade, and political intrigue across multiple sessions. Petersen designed, published, and assembled the first edition single-handedly, debuting it at Origins 1997 where it sold out entirely. It established the template for epic, multi-hour political space games that would dominate the hobby for decades, with three subsequent editions refining and expanding the core design.
+
+upgrades: []

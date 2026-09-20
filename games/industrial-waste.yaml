@@ -1,0 +1,55 @@
+id: industrial-waste
+name: "Industrial Waste"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Card Drafting
+  - Economic
+  - Resource Management
+  - Euro
+
+evokes:
+  - Progress
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jürgen Strohm
+publisher:
+  - Rio Grande Games
+  - Hans im Glück
+artist: []
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 75
+min_age: 12
+
+description: |
+  Industrial Waste is a 3-4 player economic card game designed by Jürgen Strohm and published by Rio Grande Games in 2001. Players run competing factories, buying raw materials, completing production orders, and investing in technological upgrades to earn victory points — but must carefully manage the waste their operations generate. Exceeding waste capacity triggers environmental disasters requiring expensive cleanups, punishing players who prioritize growth without environmental responsibility. The tension between aggressive expansion and clean production creates interesting decisions, and the game ends when the first factory reaches a value of twenty, giving players a natural race element alongside the economic competition.
+
+upgrades: []

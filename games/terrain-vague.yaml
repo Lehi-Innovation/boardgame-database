@@ -1,0 +1,58 @@
+id: terrain-vague
+name: "Terrain Vague"
+alternate_names: ["Junkyard"]
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Take That
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Franck Parcabe
+  - Roland Scaron
+publisher:
+  - Ludodélire
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Terrain Vague is a French territory control game published by Ludodelire in
+  1994 with artwork by cartoonist Tardi, also known as Junkyard. Players control
+  rival gangs fighting for turf in a hexagonal junkyard, rumbling with enemy
+  gangs over twelve turns to own the most territory by game's end. The game
+  combines area control with direct conflict mechanics in a gritty urban setting
+  illustrated with Tardi's distinctive graphic art style. Its combination of
+  tactical gang warfare and colorful French underground aesthetic makes it a
+  distinctive entry in the territory control genre.
+
+upgrades: []

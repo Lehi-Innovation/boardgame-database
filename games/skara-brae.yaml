@@ -1,0 +1,54 @@
+id: skara-brae
+name: "Skara Brae"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Drafting
+  - Resource Management
+  - Engine Building
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Ancient
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Shem Phillips
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+description: |
+  Skara Brae is a resource management and worker placement game by Shem Phillips set in the ancient Scottish island settlement. Players draft Village Cards and assign workers to Furnish, Cook, Craft, Clean, and Trade — but must carefully manage resources to avoid generating "Midden," a negative resource that takes up inventory space without providing benefits. The distinctive design philosophy of wanting to keep resources as low as possible — minimizing waste as a strategic goal rather than maximizing surplus — gives Skara Brae a unique feel among euro games. Distributed by Renegade Game Studios.

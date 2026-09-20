@@ -1,0 +1,58 @@
+id: settlers-of-america-trails-to-rails
+name: "Settlers of America: Trails to Rails"
+alternate_names: ["Catan Histories: Settlers of America - Trails to Rails"]
+year: 2010
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Route Building
+  - Modular Board
+  - Dice Rolling
+  - Trading
+  - Euro
+  - Historical
+  - Trains
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Discovery
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Settlers of America: Trails to Rails is a Catan Histories game designed by Klaus Teuber in which 3–4 players build cities across the expanding United States, trading resources and laying railroads to deliver goods from their east-coast starting cities westward. The first player to deliver 8 goods to their opponents' cities wins, blending the familiar Catan resource-trading and hex-tile mechanics with a historical American westward expansion theme and train delivery objectives. It was the first Catan-series game released exclusively in English and won the Origins Award for 2010.
+
+upgrades: []

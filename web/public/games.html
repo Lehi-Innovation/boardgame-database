@@ -28,11 +28,12 @@
       border: 1px solid var(--border);
       border-radius: var(--radius-md);
       overflow: hidden;
+      background: var(--elevated);
     }
 
     .view-toggle button {
       padding: 7px 12px;
-      background: var(--elevated);
+      background: transparent;
       border: none;
       color: var(--text-muted);
       cursor: pointer;
@@ -40,23 +41,23 @@
       transition: all 0.15s;
     }
     .view-toggle button:not(:last-child) { border-right: 1px solid var(--border); }
-    .view-toggle button.active { background: var(--accent); color: var(--bg); }
+    .view-toggle button.active { background: var(--accent); color: #241b0d; }
     .view-toggle button:hover:not(.active) { background: var(--border); color: var(--text); }
 
-    /* Evokes section */
+    /* Evokes quick-filter */
     .evokes-section {
       display: flex;
       flex-wrap: wrap;
       gap: 6px;
-      margin-bottom: 14px;
+      margin-bottom: 16px;
     }
     .evoke-chip {
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      padding: 4px 10px;
+      padding: 4px 11px;
       border: 1px solid var(--chip-evoke-border);
-      border-radius: 14px;
+      border-radius: 999px;
       background: var(--chip-evoke-bg);
       color: var(--chip-evoke-text);
       font-size: 12px;
@@ -65,15 +66,17 @@
       transition: all 0.15s;
       user-select: none;
     }
-    .evoke-chip:hover { background: rgba(194,106,61,0.15); }
+    .evoke-chip:hover { background: rgba(222, 139, 166, 0.16); }
     .evoke-chip.active {
-      background: var(--chip-evoke-border);
-      color: var(--bg);
-      border-color: var(--chip-evoke-border);
+      background: var(--rose);
+      color: #241318;
+      border-color: var(--rose);
+      font-weight: 600;
     }
     .evoke-chip .evoke-count {
       font-size: 11px;
-      opacity: 0.7;
+      opacity: 0.65;
+      font-variant-numeric: tabular-nums;
     }
 
     /* Results info */
@@ -81,6 +84,7 @@
       font-size: 13px;
       color: var(--text-muted);
       margin-bottom: 12px;
+      font-variant-numeric: tabular-nums;
     }
 
     /* Sort select */
@@ -92,15 +96,16 @@
     /* Detail modal */
     .detail-two-col {
       display: grid;
-      grid-template-columns: 200px 1fr;
-      gap: 20px;
+      grid-template-columns: 210px 1fr;
+      gap: 22px;
       align-items: start;
     }
 
     .detail-image {
-      width: 200px;
+      width: 210px;
       aspect-ratio: 1;
       background: var(--elevated);
+      border: 1px solid var(--border-soft);
       border-radius: var(--radius-lg);
       overflow: hidden;
     }
@@ -108,27 +113,29 @@
     .detail-placeholder {
       width: 100%; height: 100%;
       display: flex; align-items: center; justify-content: center;
+      background: radial-gradient(120px 120px at 50% 42%, rgba(230, 181, 78, 0.07), transparent 70%), var(--elevated);
       font-family: var(--font-heading);
-      font-size: 36px;
+      font-size: 40px;
       color: var(--border);
       font-weight: 700;
+      letter-spacing: 0.04em;
     }
 
-    .detail-info { display: flex; flex-direction: column; gap: 10px; }
+    .detail-info { display: flex; flex-direction: column; gap: 11px; }
     .detail-row { display: flex; flex-direction: column; gap: 2px; }
     .detail-label {
-      font-size: 11px; font-weight: 700; color: var(--text-muted);
-      text-transform: uppercase; letter-spacing: 0.5px;
+      font-size: 11px; font-weight: 700; color: var(--text-faint);
+      text-transform: uppercase; letter-spacing: 0.09em;
     }
     .detail-value { font-size: 14px; color: var(--text); line-height: 1.5; }
 
     .detail-description {
-      font-size: 14px; color: var(--text); line-height: 1.6;
+      font-size: 14px; color: var(--text); line-height: 1.65;
       white-space: pre-wrap; word-break: break-word;
     }
 
     .detail-rating {
-      display: flex; align-items: center; gap: 12px; margin-bottom: 8px;
+      display: flex; align-items: center; gap: 12px; margin-bottom: 9px;
     }
     .detail-rating-label { font-size: 14px; font-weight: 600; color: var(--text); min-width: 130px; }
     .detail-rating-val { font-size: 13px; color: var(--text-muted); }
@@ -149,7 +156,12 @@
   <!-- Navigation -->
   <header class="site-header">
     <div class="site-header-inner">
-      <div class="site-title">Board Game Database</div>
+      <div class="site-title">
+        <svg class="brand-mark" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 2.2 C13.93 2.2 15.5 3.77 15.5 5.7 C15.5 6.73 15.05 7.66 14.34 8.3 C15.49 8.78 16.55 9.47 17.5 10.32 C18.45 11.18 19.9 11.4 20.85 12.3 C21.58 13 22 13.97 22 15 V16.5 H14.62 C15.07 17.87 15.94 19.08 16.85 20.2 C17.2 20.63 17.4 21.17 17.4 21.72 C17.4 21.87 17.28 22 17.12 22 H13.4 C13.1 20.4 12.8 18.9 12 18.5 C11.2 18.9 10.9 20.4 10.6 22 H6.88 C6.72 22 6.6 21.87 6.6 21.72 C6.6 21.17 6.8 20.63 7.15 20.2 C8.06 19.08 8.93 17.87 9.38 16.5 H2 V15 C2 13.97 2.42 13 3.15 12.3 C4.1 11.4 5.55 11.18 6.5 10.32 C7.45 9.47 8.51 8.78 9.66 8.3 C8.95 7.66 8.5 6.73 8.5 5.7 C8.5 3.77 10.07 2.2 12 2.2 Z"/>
+        </svg>
+        <span>Board Game <span class="brand-thin">Database</span></span>
+      </div>
       <nav class="site-nav">
         <a href="/" class="active">Games</a>
         <a href="/images">Images</a>
@@ -457,14 +469,14 @@
 
       const imgDiv = document.createElement('div');
       imgDiv.className = 'detail-image';
-      if (game.has_image) {
+      if (game.image_url) {
         const img = document.createElement('img');
-        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.src = game.image_url;
         img.alt = game.name;
-        img.onerror = () => { img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`; };
         imgDiv.appendChild(img);
       } else {
-        const initials = game.name.split(/\s+/).slice(0, 2).map(w => w[0]).join('').toUpperCase();
+        const initials = game.name.replace(/[^\p{L}\p{N}\s]/gu, ' ').trim()
+          .split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0]).join('').toUpperCase() || '?';
         imgDiv.innerHTML = `<div class="detail-placeholder">${initials}</div>`;
       }
 

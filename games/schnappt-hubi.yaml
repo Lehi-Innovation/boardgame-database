@@ -1,0 +1,52 @@
+id: schnappt-hubi
+name: "Schnappt Hubi!"
+alternate_names: ["Grab Hubi!"]
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Connection
+  - Clever
+  - Tension
+  - Mystery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Steffen Bogen
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 5
+
+description: |
+  Schnappt Hubi! is a cooperative children's deduction game designed by Steffen Bogen and published by Ravensburger in 2011, winner of the Kinderspiel des Jahres 2012. Players first build a 3D house labyrinth in the dark, then cooperatively chase a ghost named Hubi through the rooms using an electronic compass device that responds to button presses to indicate what kind of wall is in each direction. Different animals can pass through different wall types, requiring teamwork to navigate the maze and corner the ghost before it escapes.
+
+upgrades: []

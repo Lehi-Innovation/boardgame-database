@@ -1,0 +1,56 @@
+id: nations-the-dice-game
+name: "Nations: The Dice Game"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: nations
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Events
+  - Civilization
+  - Family
+  - Historical
+
+evokes:
+  - Progress
+  - Lucky
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Rustan Hakansson
+publisher:
+  - Lautapelit.fi
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 14
+
+description: |
+  Nations: The Dice Game is a 1-4 player dice-rolling civilization game by Rustan Hakansson, published by Lautapelit.fi in 2014 as a lighter companion to the full Nations board game. Each player strives to build the mightiest civilization, working with a personal game board that tracks military, civilian buildings, advisors, colonies, and wonders — all the familiar elements of the parent game. Players roll dice and assign them to various slots, gaining resources and advancing their civilization, with push-your-luck re-rolls allowing risk-taking for better outcomes. Random event cards introduce historical surprises each round, keeping players on their toes. At 20-40 minutes, it distills the Nations experience into a fast-playing and accessible format.
+
+upgrades: []

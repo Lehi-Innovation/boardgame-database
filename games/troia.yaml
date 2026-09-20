@@ -1,0 +1,51 @@
+id: troia
+name: "Troia"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Ancient
+  - Set Collection
+  - Area Control
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Eloi Pujadas
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Troia (2000) is a strategy board game set in the legendary city of Troy, published by Amigo Spiele. Players take on the roles of archaeologists competing to reconstruct the ancient city and build their academic reputations, collecting artifacts and improving their standing in the scholarly community. The game blends area control and set collection in a Mediterranean historical theme, offering a mid-weight Euro experience. Designer Eloi Pujadas draws on the mythos of the Trojan War as a backdrop for an accessible competitive game.
+
+upgrades: []

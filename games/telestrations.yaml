@@ -1,0 +1,57 @@
+id: telestrations
+name: "Telestrations"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Creative
+  - Wonder
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 7, 8]
+
+designer: []
+publisher:
+  - The Op
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Telestrations is a hilarious party game combining Telephone and Pictionary,
+  published by The Op. Each player starts with a secret word, draws it in their
+  sketchbook, then passes the book to the next player who guesses what the
+  drawing depicts and writes their guess. The book continues around the table
+  alternating between drawings and guesses, so the original word inevitably
+  transforms into something completely different by the time it returns to its
+  owner. Players share their books at the end to reveal the comedic evolution
+  of each word. The game excels at generating genuine laughter regardless of
+  artistic ability, making it a go-to party staple for all ages.
+
+upgrades: []

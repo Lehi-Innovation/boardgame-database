@@ -1,0 +1,53 @@
+id: treasure-island
+name: "Treasure Island"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hidden Movement
+  - Bluffing
+  - Deduction
+  - Family
+  - Pirates
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Deception
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Treasure Island is a one-versus-many bluffing and deduction game published by Matagot in 2018, inspired by Robert Louis Stevenson's classic novel. One player takes the role of Long John Silver, who secretly marks the treasure's location on a hidden map and must mislead the other players as they scour the island with dry-erase markers. Long John must provide truthful clues most of the time but possesses tokens allowing lies, so hunters must decide how much to trust each clue while narrowing down the location before Silver escapes and recovers the treasure himself.
+
+upgrades: []

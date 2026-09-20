@@ -1,0 +1,52 @@
+id: tranquility
+name: "Tranquility"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - No Math
+  - Family
+  - Gateway
+  - Maritime
+
+evokes:
+  - Connection
+  - Tension
+  - Complete
+  - Wonder
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Tranquility is a near-silent cooperative card game designed by James Emmerson and published by Lucky Duck Games in 2020. Players work together to fill the sea with number island cards in ascending order from edge to center, guiding their ship home before anyone runs out of cards — but they cannot talk or share card information. Each card played must fit numerically between its neighbors, and placing a card that creates a large gap costs discard penalties. The challenge of coordinating under this communication restriction creates a uniquely meditative yet tense cooperative experience, accessible to all ages and experience levels.
+
+upgrades: []

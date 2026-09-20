@@ -1,0 +1,55 @@
+id: strasbourg
+name: "Strasbourg"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Hand Management
+  - Euro
+  - Stefan Feld
+  - Medieval
+  - Historical
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+  - Masterful
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Strasbourg is a 2011 Euro game by Stefan Feld published by Pegasus Spiele, set in 15th century Strasbourg where players lead ambitious families competing for guild influence. Each round players secretly divide a hand of bid cards into up to five separate lots — one per guild auction — and those lots are locked in before any auctions begin. This "once-around bid" creates agonizing resource allocation decisions, as spending heavily in one guild weakens bids in others. Players compete to place family members as apprentices, assistants, or master craftsmen, earning victory points through guild dominance. Nominated for the 2011 Kennerspiel des Jahres.
+
+upgrades: []

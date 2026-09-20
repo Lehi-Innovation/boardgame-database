@@ -1,0 +1,54 @@
+id: the-quest-of-the-philosophers-stone
+name: "The Quest of the Philosopher's Stone"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Fantasy
+  - Mystery
+  - Family
+  - Medieval
+
+evokes:
+  - Discovery
+  - Mystery
+  - Wonder
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Lowell Haynes
+publisher:
+  - Questone Marketing Inc.
+  - The Games Gang
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Quest of the Philosopher's Stone is a 1986 Canadian fantasy board game designed by Lowell Haynes and published by Questone Marketing Inc. Players quest through a medieval fantasy world featuring iconic mythical sites—Camelot, Atlantis, and Stonehenge—in search of the legendary Philosopher's Stone, the alchemical object believed to transmute base metals into gold and grant immortality. The game blends adventure, mystery, and exploration mechanics suitable for family play, and represents a period when alchemical and Arthurian themes were frequently explored in hobby board gaming.
+
+upgrades: []

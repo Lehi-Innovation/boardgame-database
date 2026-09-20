@@ -1,0 +1,62 @@
+id: tales-of-the-arabian-nights
+name: "Tales of the Arabian Nights"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Dice Rolling
+  - Variable Player Powers
+  - Family
+  - Ameritrash
+
+evokes:
+  - Discovery
+  - Wonder
+  - Mystery
+  - Lucky
+  - Humor
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Eric Goldberg
+publisher:
+  - West End Games
+  - Z-Man Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Tales of the Arabian Nights is a legendary narrative board game designed by
+  Eric Goldberg and originally published by West End Games in 1985, then reissued
+  in expanded form by Z-Man Games in 2009. Players journey across an Arabian
+  map encountering adventure cards and consulting the massive Book of Tales —
+  a choose-your-own-adventure reference book containing 2,600 unique entries —
+  to resolve encounters ranging from cursed genies to grateful thieves. Characters
+  develop skills and acquire story tokens as they experience unfolding tales.
+  The game is beloved for its storytelling experience and wild unpredictability
+  rather than competitive strategy.
+
+upgrades: []

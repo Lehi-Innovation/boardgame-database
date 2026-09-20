@@ -1,0 +1,56 @@
+id: stuffed-fables
+name: "Stuffed Fables"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min per session)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light cooperative
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Campaign Mode
+  - Narrative Heavy
+  - Bag Building
+  - Variable Player Powers
+  - Plaid Hat Games
+  - Fantasy
+
+evokes:
+  - Wonder
+  - Connection
+  - Discovery
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jerry Hawthorne
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 7
+
+description: |
+  Stuffed Fables is a 2018 cooperative AdventureBook game by Jerry Hawthorne published by Plaid Hat Games, in which 2-4 players control brave stuffed animals protecting the child they love from an evil mastermind. All gameplay takes place across the pages of a large storybook that serves simultaneously as rulebook, narrative guide, and game board. Players draw dice from a bag — colored dice unlock different action types — while black dice accumulate to trigger enemy attacks and reset the bag. Designed to be played by parents with young children, it offers a narrative-driven campaign full of whimsy and heart.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: the-devils-cauldron
+name: "The Devil's Cauldron: The Battles for Arnhem and Nijmegen"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Adam Starkweather
+publisher:
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 600
+min_playtime: 360
+max_playtime: 1000
+min_age: 16
+
+description: |
+  The Devil's Cauldron is a company-level simulation of Operation Market Garden's northern two drop
+  zones — the battles for Arnhem and Nijmegen — published by Multi-Man Publishing in 2008 and
+  designed by Adam Starkweather. Using a chit-pull activation system combined with command points,
+  units remain inactive until drawn or activated, creating the fog and friction of the actual
+  battle. The hexagonal map system includes line-of-sight calculations, and dice determine combat
+  outcomes. The game is celebrated in the operational wargame community for its fidelity to the
+  historical campaign and its demanding but rewarding complexity, making it a landmark title in
+  the MMP/GTS series.
+
+upgrades: []

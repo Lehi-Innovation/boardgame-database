@@ -1,0 +1,51 @@
+id: sumo-ham-slam
+name: "Sumo Ham Slam"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Sumo Ham Slam is a 2010 Gamewright dexterity game in which players control magnetic plastic hamster sumo wrestlers, maneuvering them with magnetic sticks to knock opponents out of the ring. Players roll dice to feed their hamsters — mirroring the eating regimen of real sumo wrestlers — and a well-fed hamster is a stronger combatant. The hamster theming and magnetic control mechanism give the game a tactile, giggle-inducing quality that makes it a lively activity for families and younger children.
+
+upgrades: []

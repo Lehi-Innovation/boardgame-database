@@ -1,0 +1,60 @@
+id: spaceopoly
+name: "Spaceopoly"
+alternate_names: ["Space-Opoly"]
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Economic
+  - Sci-Fi
+  - Space
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Valen Brost
+publisher:
+  - Valen Brost Game Company
+  - Late for the Sky
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Spaceopoly is a Monopoly-style space travel game published by Valen Brost Game Co., described as a revised
+  and simplified edition of Solarquest. Players fly spaceships around the solar system, purchasing planets and
+  moons and collecting rent when opponents land on their properties. The game adds laser combat that can disable
+  rivals and offers multiple victory conditions — fulfilling a secret mission, being last on the board, or having
+  the most assets — beyond simple bankruptcy elimination. Its accessible rules and space theme make it a family-
+  friendly educational game about the solar system.
+
+upgrades: []

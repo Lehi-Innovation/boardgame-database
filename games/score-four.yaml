@@ -1,0 +1,50 @@
+id: score-four
+name: "Score Four"
+alternate_names: []
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Funtastic
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Score Four is a three-dimensional abstract strategy game first sold by Funtastic in 1968, in which two players take turns placing beads on a 4x4 upright grid of vertical rods, aiming to create a straight line of four beads of their color in any horizontal, vertical, or diagonal direction across three dimensions. It is the first commercially produced 3D four-in-a-row game and predates Connect Four by several years. The game rewards spatial reasoning and the ability to recognize and block three-dimensional threats simultaneously.
+
+upgrades: []

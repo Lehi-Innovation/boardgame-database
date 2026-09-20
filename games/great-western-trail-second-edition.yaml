@@ -1,0 +1,66 @@
+id: great-western-trail-second-edition
+name: "Great Western Trail: Second Edition"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: great-western-trail
+edition: "second"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Engine Building
+  - Route Building
+  - Resource Management
+  - Variable Setup
+  - Modular Board
+  - Euro
+  - Western
+  - Historical
+  - Alexander Pfister
+
+evokes:
+  - Progress
+  - Masterful
+  - Agency
+  - Clever
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alexander Pfister
+publisher:
+  - eggertspiele
+artist:
+  - Andreas Resch
+playtime_minutes: 110
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+description: |
+  Great Western Trail: Second Edition is a refined reprint of Alexander Pfister's acclaimed
+  cattle-drive deck-builder. Players drive herds from Texas to Kansas City, acquiring and
+  culling cattle cards to deliver increasingly valuable herds while hiring workers, building
+  private structures, and advancing their railroad network. The second edition streamlines
+  several first-edition rough edges, improves iconography, and adds a solo mode, while
+  preserving the rich interlocking strategic paths—cattle breeding, infrastructure building,
+  and train advancement—that made the original one of the most celebrated Euros of its era.
+
+upgrades: []

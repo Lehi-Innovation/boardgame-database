@@ -1,0 +1,52 @@
+id: wortfix
+name: "Wortfix"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Real-time
+  - Party
+  - Family
+  - Ravensburger
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Wortfix is a compact German word game from Ravensburger first published in 1976 that challenges players to quickly form compound words. Red cards indicate the first part of a compound word while blue cards provide the second part, and quick thinkers earn chips by shouting out valid compounds before their opponents. The game rewards vocabulary and mental agility in a fast-paced format that has made it a long-running travel game in the Ravensburger lineup, with updated editions over several decades.
+
+upgrades: []

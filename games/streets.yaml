@@ -1,0 +1,52 @@
+id: streets
+name: "Streets"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Economic
+  - City Building
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Streets is a tile-laying city-building game designed by Haakon Hoel Gaarder and published by Sinister Fish Games in 2021. Players collaborate to build a shared city while individually investing in buildings to earn the most money as streets are scored. Buildings have simple valuation formulas based on neighboring tile types, and meeples representing hipsters, families, shoppers, and tourists move through the city as streets complete, affecting scores. Easy to learn and visually appealing, Streets rewards clever placement and reading opponents' investment patterns, with optional advanced modules adding greater depth.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: super-skills
+name: "Super Skills"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Super Skills is a party dexterity challenge game that packs 120 unique
+  competitive mini-games into one box. Players complete physical challenges
+  using included props such as chopsticks, dice, cups, ping-pong balls,
+  blindfolds, and ropes. Each challenge card presents a new wacky task, and
+  the first player to complete their challenge wins the round. The game
+  emphasizes fun, laughter, and lighthearted rivalry rather than deep strategy.
+
+upgrades: []

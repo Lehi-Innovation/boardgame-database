@@ -1,0 +1,58 @@
+id: talisman-city
+name: "Talisman City"
+alternate_names: ["Talisman: The City"]
+year: 1989
+
+# Relationships
+game_family: talisman
+edition: null
+base_game: talisman-1983
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Ameritrash
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Lucky
+  - Dread
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 300
+min_age: 10
+
+description: |
+  Talisman City is an expansion for the Talisman board game, published by Games
+  Workshop in 1989. It replaces the City space on the Outer Region board with an
+  entirely new board section depicting the City, complete with new districts to
+  visit, shops, and locations. The expansion adds 72 Encounter cards, 7 Adventure
+  cards, 3 Dungeon cards, 20 Purchase cards, 10 Spells, and 6 new character
+  classes including the Minotaur, Valkyrie, and special title characters like the
+  Sheriff and Archmage. Characters visiting the City must maintain at least one
+  gold or risk arrest warrants, adding economic pressure to the adventure.
+
+upgrades: []

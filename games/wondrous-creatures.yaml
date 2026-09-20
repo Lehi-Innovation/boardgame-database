@@ -1,0 +1,52 @@
+id: wondrous-creatures
+name: "Wondrous Creatures"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tableau Building
+  - Set Collection
+  - Animals
+  - Nature
+  - Euro
+
+evokes:
+  - Wonder
+  - Progress
+  - Discovery
+  - Clever
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Wondrous Creatures is a worker placement and tableau building game designed by Yeom C.W. and published by Bad Comet in 2024. Players lead naturalist expeditions to discover and document fantastical creatures, combining an innovative worker placement system with tableau-building mechanics. Each creature collected has unique attributes that interact with those already in your collection, creating evolving synergies over the course of the game. With stunning artwork by Sophia Kang and a solo mode, Wondrous Creatures captures the sense of scientific wonder and discovery that drives collectors and naturalists.
+
+upgrades: []

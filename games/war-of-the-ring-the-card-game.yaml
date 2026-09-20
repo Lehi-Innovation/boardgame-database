@@ -1,0 +1,53 @@
+id: war-of-the-ring-the-card-game
+name: "War of the Ring: The Card Game"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: war-of-the-ring
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Teams
+  - Asymmetric
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher:
+  - Ares Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  War of the Ring: The Card Game, released by Ares Games in 2022 and designed by Ian Brody with Roberto Di Meglio and Karin Weston-Brody, distills the epic struggle of Middle-earth into a fast-paced card game. Each player controls one or more factions—Free Peoples or Shadow Armies—using a unique deck reflecting their faction's strengths and weaknesses across 14 oversized battlegrounds like Helm's Deep. The innovative card-cycling mechanism creates meaningful decisions: cycled cards can return to your deck, while eliminated cards are permanently lost. Players activate battlegrounds strategically using a reserve area, enabling careful long-term planning within a streamlined ruleset.
+
+upgrades: []

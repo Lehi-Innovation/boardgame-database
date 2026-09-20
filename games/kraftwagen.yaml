@@ -1,0 +1,55 @@
+id: kraftwagen
+name: "Kraftwagen"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Engine Building
+  - Economic
+  - Racing
+  - Euro
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Matthias Cramer
+publisher:
+  - ADC Blackfire Entertainment
+  - Capstone Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Kraftwagen is a 2-4 player rondel action-selection game designed by Matthias Cramer, set in the early days of the automobile industry. Players take on the roles of fledgling car companies, building and selling cars from a shared market while also racing their vehicles in Grand Prix events. The central rondel mechanism governs action selection, with players advancing their pawns around a circular track of actions, choosing how far to move and paying costs accordingly. Players construct cars by combining workers, car bodies, and engines, then either race them for prestige or sell them for profit, balancing technological development against commercial and competitive success.
+
+upgrades: []

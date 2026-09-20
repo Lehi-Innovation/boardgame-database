@@ -1,0 +1,58 @@
+id: test-of-arms
+name: "Test of Arms"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Test of Arms is a post-World War II tactical hex wargame published by Game
+  Designers' Workshop in 1988. Using the rules system from GDW's Team Yankee
+  at a scale of 200 meters per hex (each turn representing 5–8 minutes), the
+  game includes six geomorphic map sections, 480 counters, and 29 scenarios
+  drawn from real post-WWII conflicts including the Korean War, Arab-Israeli
+  Wars, Falklands, and Soviet-Afghan War. Individual vehicles, infantry squads,
+  weapons teams, and leaders provide granular tactical decision-making across
+  worldwide historical engagements spanning the Cold War era.
+
+upgrades: []

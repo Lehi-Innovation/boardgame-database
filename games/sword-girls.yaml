@@ -1,0 +1,57 @@
+id: sword-girls
+name: "Sword Girls"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Set Collection
+  - Hand Management
+  - Fantasy
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Sword Girls is a collectible card game published as a physical offline version
+  of the Korean digital trading card game developed by Zeonix, which originally
+  launched online in 2011. The game features four main factions — Vita, Academy,
+  Crux, and Darklore — each with distinct strategic identities and artwork influenced
+  by manga aesthetics. Players build decks from their faction and duel opponents in
+  strategic card combat, managing hand resources and deploying character cards with
+  various abilities. The physical CCG edition was released in 2012–2013, though the
+  franchise has since been discontinued.
+
+upgrades: []

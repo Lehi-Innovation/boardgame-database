@@ -1,0 +1,54 @@
+id: tinners-trail
+name: "Tinners' Trail"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Action Points
+  - Economic
+  - Resource Management
+  - Euro
+  - Historical
+  - Martin Wallace
+
+evokes:
+  - Masterful
+  - Progress
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Martin Wallace
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Tinners' Trail is an economic strategy game by Martin Wallace set in nineteenth-century Cornwall, where players are mining venturers bidding for parcels of land and extracting tin and copper for profit. Each player has ten Work Points per round to spend on actions — surveying, mining, building ports, constructing railways, and creating drainage adits — with water depth determining mining costs and the global market price fluctuating with each sale. The tight action-point economy and cascading infrastructure decisions make it a rewarding mid-weight economic game, later remastered by Alley Cat Games in 2021 with expanded player count and improved setup.
+
+upgrades: []

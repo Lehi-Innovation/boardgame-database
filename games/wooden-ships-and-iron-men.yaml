@@ -1,0 +1,56 @@
+id: wooden-ships-and-iron-men
+name: "Wooden Ships and Iron Men"
+alternate_names:
+  - "Wooden Ships & Iron Men"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Simulation
+  - Historical
+  - War
+  - Wargame
+  - Maritime
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - S. Craig Taylor
+  - Mick Uhl
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 14
+
+description: |
+  Wooden Ships and Iron Men is a naval wargame simulating fleet actions and individual ship combat during the Age of Sail (18th-19th centuries), originally published by Battleline Publications in 1974 and revised by Avalon Hill in 1975. The game includes 23 scenarios covering famous engagements including the Battles of the Saintes, the Nile, and Trafalgar. Players maneuver sailing warships on a hex grid, managing wind, firing broadsides, and boarding enemy vessels using detailed simulation rules. In a 1976 SPI poll it was rated the most popular Avalon Hill title and 7th out of 202 wargames overall.
+
+upgrades: []

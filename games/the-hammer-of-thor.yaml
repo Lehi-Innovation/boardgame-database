@@ -1,0 +1,60 @@
+id: the-hammer-of-thor
+name: "The Hammer of Thor: The Game of Norse Mythology"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Variable Player Powers
+  - Ameritrash
+  - Fantasy
+  - Mythology
+
+evokes:
+  - Powerful
+  - Wonder
+  - Rivalry
+  - Discovery
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Nova Game Designs
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  The Hammer of Thor: The Game of Norse Mythology is a 1980 fantasy board game published by Nova
+  Game Designs in which each player chooses a champion from Norse mythology to compete for victory
+  at the Battle of Ragnarok between the Norse gods and the giants. Players spend the game in
+  wilderness adventures gathering forces, collecting items, and building reputation. The game
+  includes 365 unique cards, each representing a different character from Norse mythology, giving
+  it extraordinary depth of theme. Reputation on the winning side at Ragnarok determines the
+  winner. Despite noted rulebook issues, the game is celebrated for its ambitious scope and
+  comprehensive treatment of Norse mythological lore.
+
+upgrades: []

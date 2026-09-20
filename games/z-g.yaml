@@ -1,0 +1,56 @@
+id: z-g
+name: "Z-G"
+alternate_names:
+  - "Zero Gravity"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Unique
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Rein-Hagen
+publisher:
+  - Atomoton
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Z-G (Zero Gravity) was the debut product from Atomoton, the solo company of Mark Rein-Hagen,
+  creator of Vampire: The Masquerade. Debuted at Gen Con 2001, it was the first collectible action
+  figure game, featuring posable 4.5-inch cybernetic gladiator figures with 14 points of articulation
+  and eight interchangeable weapon and armor accessories. Players pit their customized sci-fi
+  warriors against each other in arena combat in a zero-gravity setting.
+
+upgrades: []

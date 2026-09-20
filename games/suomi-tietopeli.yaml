@@ -1,0 +1,50 @@
+id: suomi-tietopeli
+name: "Suomi Tietopeli"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Unknown
+publisher:
+  - Tactic Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Suomi Tietopeli is a 2003 Finnish trivia board game published by Tactic Games covering Finnish culture, history, and geography. A distinctive feature is the built-in handicap system — all players answer the same questions simultaneously, but players with less knowledge receive compensation to keep the game competitive and accessible to mixed groups. Published by the major Finnish game publisher Tactic Games, it targets the domestic Finnish market and serves as a cultural knowledge game in the tradition of family trivia games popular throughout Scandinavia.
+
+upgrades: []

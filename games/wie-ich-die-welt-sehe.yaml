@@ -1,0 +1,54 @@
+id: wie-ich-die-welt-sehe
+name: "Wie ich die Welt sehe..."
+alternate_names:
+  - "The World As I See It"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Party
+  - Family
+  - Word Play
+
+evokes:
+  - Humor
+  - Connection
+  - Mystery
+  - Persuasion
+  - Creative
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - Urs Hostettler
+publisher:
+  - ABACUSSPIELE
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Wie ich die Welt sehe... ("The World As I See It") is a German party card game in which the active player reads the beginning of a sentence and all other players must complete it the way they think the reader would finish it. The reader also writes down the actual intended ending, and then all completions are shuffled and read aloud; players vote on which they believe is the genuine one. Points go to convincing bluffers and to those who correctly identify the real answer, rewarding both creativity and knowledge of your fellow players.
+
+upgrades: []

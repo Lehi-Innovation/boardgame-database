@@ -1,0 +1,50 @@
+id: skript
+name: "Skript"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Deduction
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Connection
+  - Humor
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Skript is a German word-guessing game from 1982 that won the Spiel des Jahres Special Prize "Schönes Spiel" (Beautiful Game) for its distinctive typographic design. One player secretly selects a word and the others try to guess it; players who don't know the word can purchase hint cards — revealing specific letters, the word's definition, or other clues. The game is notable for its elegant, minimalist visual design using only red, black, and varied font sizes as its sole design elements, applied consistently across all game materials.
+
+upgrades: []

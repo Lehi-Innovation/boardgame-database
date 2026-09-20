@@ -1,0 +1,50 @@
+id: the-marne-home-before-leaves-fall
+name: "The Marne: Home Before the Leaves Fall"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Marne: Home Before the Leaves Fall is a historical wargame simulating the First Battle of the Marne in September 1914, the pivotal engagement that halted the German advance through France and ended the war of movement on the Western Front, beginning the years of trench warfare. The title references the German Kaiser's promise that his troops would be home before the autumn leaves fell—a promise famously broken at the Marne. Two players command the German forces pursuing their Schlieffen Plan objectives and the Allied forces of France and Britain counterattacking in a desperate bid to halt the invasion of France.
+
+upgrades: []

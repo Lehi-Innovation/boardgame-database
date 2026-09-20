@@ -1,0 +1,52 @@
+id: star-wars-miniatures-battles-1991
+name: "Star Wars Miniatures Battles"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen Crane
+  - Paul Murphy
+publisher:
+  - West End Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Star Wars Miniatures Battles is a 1991 skirmish miniatures wargame published by West End Games, winner of the Origins Award for Best New Miniatures Rules of 1991. Designed by Stephen Crane and Paul Murphy, the rules use a d6 system with straight skill rolls and opposed rolls to resolve combat, with stats compatible with the West End Games Star Wars roleplaying game. At a scale of one miniature per soldier, the game emphasizes tactical positioning and squad-level combat in the Star Wars universe. A second edition followed in 1993.
+
+upgrades: []

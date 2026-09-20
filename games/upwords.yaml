@@ -1,0 +1,50 @@
+id: upwords
+name: "Upwords"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Elliot Rudell
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Upwords is a three-dimensional word-building game invented by Elliot Rudell and first published by Milton Bradley in 1983. Similar to Scrabble in structure, the game adds a vertical twist: players may stack letter tiles up to five high on top of existing tiles to change words on the board, with higher stacks scoring more points. Words must be formed horizontally or vertically, but the stacking mechanic means the board constantly shifts as letters are overwritten. Published later by Hasbro, Upwords has been a perennial family favourite and won Games Magazine's Word Game of the Year.
+
+upgrades: []

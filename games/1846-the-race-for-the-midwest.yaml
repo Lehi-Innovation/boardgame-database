@@ -1,0 +1,57 @@
+id: 1846-the-race-for-the-midwest
+name: "1846: The Race for the Midwest"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Stock Holding
+  - Auctions/Bidding
+  - Trains
+  - Historical
+  - Wargame
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Tom Lehmann
+publisher:
+  - GMT Games
+  - Deep Thought Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 14
+
+description: |
+  1846: The Race for the Midwest is an 18xx railroad investment game set in the Great Lakes and Midwest region of the United States from 1846 to 1935. Designed by Tom Lehmann and published by GMT Games, it is renowned for being one of the most accessible and well-balanced 18xx games, featuring an opening draft that reduces variance and a shorter play time compared to other entries in the series. Players act as railroad investors, buying and selling stock in rail corporations while those corporations lay track, build stations, and run trains across the hexagonal map to generate revenue. The interplay of stock market manipulation with careful operational planning makes this a standout title for serious strategic gamers.
+
+upgrades: []

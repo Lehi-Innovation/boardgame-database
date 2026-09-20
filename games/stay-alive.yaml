@@ -1,0 +1,51 @@
+id: stay-alive
+name: "Stay Alive"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Stay Alive is a 1971 Milton Bradley marble survival game marketed as "the ultimate survival game." Players place marbles on a 7x7 sliding grid board, then take turns moving sliders one notch, causing holes in the overlapping sliders to potentially align and drop marbles through. Strategy lies in manipulating slides to eliminate opponents' marbles while protecting your own. The last player with at least one marble remaining wins. Simple rules and tactile marble-dropping tension have made it a beloved classic across generations.
+
+upgrades: []

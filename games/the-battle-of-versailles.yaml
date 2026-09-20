@@ -1,0 +1,61 @@
+id: the-battle-of-versailles
+name: "The Battle of Versailles"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Card Drafting
+  - Take That
+  - Asymmetric
+  - Historical
+
+evokes:
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Eloi Pujadas
+  - Ferran Renalias
+publisher:
+  - Salt and Pepper Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+description: |
+  The Battle of Versailles is a two-player asymmetric card game inspired by the famous 1973 fashion
+  showdown at the Palace of Versailles, where American and French designers faced off in a legendary
+  event. Players take sides as either the French or American team, competing to showcase the best
+  dresses, attract celebrities, and undermine opponents through gossip. The French player has five
+  actions per round while the American has only three, creating an inherent asymmetry that reflects
+  the historical context. Outfits function as set collection, celebrities provide special effects,
+  and players also contribute to the restoration of the palace. Published by Salt and Pepper Games
+  in 2024.
+
+upgrades: []

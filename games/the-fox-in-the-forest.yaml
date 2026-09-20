@@ -1,0 +1,52 @@
+id: the-fox-in-the-forest
+name: "The Fox in the Forest"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: fox-in-the-forest
+edition: null
+base_game: null
+expansions: ["the-fox-in-the-forest-duet"]
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Nature
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 10
+
+description: |
+  The Fox in the Forest is a two-player trick-taking card game designed by Joshua Buergel and published by Foxtrot Games and Renegade Game Studios in 2017. Using a 33-card deck across three suits, players compete over rounds of 13 tricks, but scoring is asymmetric: winning too many tricks is penalized, rewarding the player who wins a middling 4–6 tricks per round. The odd-ranked cards each bear special abilities — changing trump, swapping hands, or letting a loser lead — that add tactical wrinkles to a fundamentally elegant system. Recommended for the 2020 Spiel des Jahres, The Fox in the Forest elegantly adapts traditional trick-taking for two.
+
+upgrades: []

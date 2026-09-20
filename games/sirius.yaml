@@ -1,0 +1,51 @@
+id: sirius
+name: "Sirius"
+alternate_names: ["Galax"]
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Martial Tramond
+publisher:
+  - Bütehorn Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Sirius (also published as Galax) is a 2-player abstract strategy game designed by Martial Tramond and published by Bütehorn Spiele in 1976. Players maneuver pieces of three different types, each able to capture one type of opponent's piece but vulnerable to a third, creating a rock-paper-scissors-style hierarchy of combat. The game ends when all pieces of one faction are eliminated, and the interlocking capture relationships create tactical depth from a deceptively simple rule set.
+
+upgrades: []

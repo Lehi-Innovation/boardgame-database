@@ -1,0 +1,58 @@
+id: smash-monster-rampage
+name: "Smash Monster Rampage!"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Variable Setup
+  - Fantasy
+  - Action Points
+
+evokes:
+  - Tension
+  - Dread
+  - Lucky
+  - Connection
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Mike Swindall
+  - Phil Kilcrease
+publisher:
+  - 5th Street Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Smash Monster Rampage! is a cooperative board game published by 5th Street Games in which players work together
+  to defeat a rampaging monster before it destroys the town or eliminates too many survivors. Players control tanks
+  and helicopter units, coordinating movement and attacks against an unpredictable monster whose actions are driven
+  by a "Monster Die." The game features a grid-based city map and escalating tension as the monster causes havoc
+  each round.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: struggle-for-the-throne
+name: "Struggle for the Throne"
+alternate_names: ["Star Trek III: Struggle for the Throne"]
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Persuasion
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Unknown
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Struggle for the Throne is a 1984 FASA Star Trek game set during the Klingon succession crisis. Players lead powerful Klingon families competing to replace the dying Emperor using bribery, assassination, spies, threats, battles, and deal-making. The game proceeds in two phases: a diplomatic negotiation phase while the Emperor still lives, followed by open warfare once he dies, in which each Thought Admiral deploys Commanders and squadron forces to eliminate all rivals. The fusion of political intrigue and tactical combat makes it an engaging multi-player experience in the Star Trek universe.
+
+upgrades: []

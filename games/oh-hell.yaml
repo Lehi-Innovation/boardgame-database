@@ -1,0 +1,49 @@
+id: oh-hell
+name: "Oh Hell!"
+alternate_names: ["Blackout", "Bust", "Elevator", "Jungle Bridge"]
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Auctions/Bidding
+  - No Math
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Oh Hell! is a classic British trick-taking card game dating to around 1930 in which players must bid the exact number of tricks they will take — no more, no less. Players score points only when their bid is exactly correct, adding a bonus for precision. Each successive hand is played with one card fewer (or more) than the last, creating a shrinking-hand structure that escalates the challenge of accurate bidding. The combination of exact bidding and variable hand sizes produces delightful swings of smugness and frustration that make it a perennial favorite for groups of 3-7.

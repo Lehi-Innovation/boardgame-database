@@ -1,0 +1,51 @@
+id: turning-point-stalingrad-1989
+name: "Turning Point: Stalingrad"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Don Greenwood
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Turning Point: Stalingrad (1989) is a block-level wargame designed by Don Greenwood and published by Avalon Hill, simulating the brutal street-by-street fighting of the 1942-43 Battle of Stalingrad. The third in a series using the innovative "Impulse Area" system, the game was deliberately streamlined to just ten pages of rules while maintaining rich tactical depth. It received a top score of 5/5 from Games International. One player commands Soviet defenders while the other leads German attackers in a race against time and attrition.
+
+upgrades: []

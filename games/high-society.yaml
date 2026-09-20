@@ -1,0 +1,54 @@
+id: high-society
+name: "High Society"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Set Collection
+  - Filler
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  High Society is a quick auction card game by Reiner Knizia, first published in 1995, in which 3–5 players compete to accumulate the most prestigious collection of luxury items while carefully managing their bidding cards. Players bid with numbered cheque cards on ten valuable items rated 1–10, plus three "Promotion to Peerage" cards that double collection value; for the three penalty cards (debt, theft, and scandal), the mechanic reverses and the first player to pass avoids the harm. The critical twist: the player with the fewest cards remaining at the end is eliminated before tallying scores, forcing agonizing trade-offs between winning bids and preserving enough wealth to stay in contention. Finished in about 15–30 minutes, it remains one of Knizia's most elegant and widely reprinted designs.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: wooly-wars
+name: "Wooly Wars"
+alternate_names:
+  - "Wooly Bully"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Bluffing
+  - Set Collection
+  - Animals
+  - Family
+
+evokes:
+  - Clever
+  - Mystery
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Philippe des Pallières
+publisher:
+  - 999 Games
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 7
+
+description: |
+  Wooly Wars is a tile placement game for 2-4 players in which players strategically place fence tiles to create enclosed pens for their sheep. Each player secretly controls one type of animal at the start of the game, adding a bluffing element as opponents try to deduce whose sheep are whose while building the largest enclosures. The goal is to form the biggest pens containing your own animals while blocking rivals from doing the same. The combination of secret identities and territorial tile-placement gives the game surprising depth for its simple ruleset.
+
+upgrades: []

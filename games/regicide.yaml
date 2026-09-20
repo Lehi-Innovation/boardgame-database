@@ -1,0 +1,54 @@
+id: regicide
+name: "Regicide"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Trick-taking
+  - Set Collection
+  - Fantasy
+  - Gateway
+
+evokes:
+  - Tension
+  - Connection
+  - Clever
+  - Dread
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Paul Abrahams
+  - Luke Badger
+  - Andy Richdale
+publisher:
+  - Badgers from Mars
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 10
+
+description: |
+  Regicide is a cooperative fantasy card game for 1-4 players played with a beautifully illustrated standard deck of cards. Players work together to defeat 12 powerful enemies — the Jacks, Queens, and Kings — by playing cards to deal damage before each enemy strikes back and forces discards. Each suit grants a different ability, and the key restriction is that players cannot directly tell each other what cards they hold, requiring clever play and table communication. Elegantly simple rules hide a surprisingly deep cooperative puzzle that scales well from solo to multiplayer.

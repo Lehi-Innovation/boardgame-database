@@ -1,0 +1,50 @@
+id: star-trek-tng-interactive-vcr-board-game
+name: "Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge"
+alternate_names: ["Star Trek: The Next Generation – A Klingon Challenge"]
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Discovery
+  - Lucky
+  - Humor
+  - Unique
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Decipher
+artist: []
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 8
+
+description: |
+  Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge is a 1993 cooperative video board game created by Decipher and published by Milton Bradley. Players must stop a Klingon villain named Kavok from using the hijacked USS Enterprise to start a war, working together to collect isolinear chips, retrieve phasers, and reach the bridge within 60 minutes — timed by the included VHS tape. The tape features original footage filmed on the TNG sets at Paramount with cast members including Jonathan Frakes and Robert O'Reilly. A charming time-capsule of the VCR board game era.
+
+upgrades: []

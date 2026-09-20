@@ -1,0 +1,52 @@
+id: the-witcher-rpg
+name: "The Witcher RPG"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Role Playing
+  - Narrative Heavy
+  - Fantasy
+  - Cooperative
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Powerful
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Cody Pondsmith
+publisher:
+  - R. Talsorian Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 480
+min_age: 16
+
+description: |
+  The Witcher RPG is a 2018 tabletop role-playing game designed by Cody Pondsmith and published by R. Talsorian Games, set in Andrzej Sapkowski's Witcher universe. Players take on the roles of characters living in the morally grey world of the Continent—as Witchers, mages, bards, merchants, or ordinary humans—navigating political intrigue, monster hunts, and the consequences of war. The game uses a percentile-based system adapted from Cyberpunk, with combat that is lethal and tactical, emphasizing gritty realism over heroic fantasy. It captures the atmosphere of the novels and video games with a focus on meaningful choices and morally complex storytelling.
+
+upgrades: []

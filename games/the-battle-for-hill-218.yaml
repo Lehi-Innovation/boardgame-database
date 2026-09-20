@@ -1,0 +1,59 @@
+id: the-battle-for-hill-218
+name: "The Battle for Hill 218"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Card Drafting
+  - Wargame
+  - War
+  - Abstract
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Darwin Kastle
+publisher:
+  - Your Move Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  The Battle for Hill 218 is a two-player card game in which both players fight to capture the
+  opponent's home base by occupying Hill 218 in the center of the battlefield. Players build
+  supply lines by playing unit cards into connected positions, and must maintain those supply
+  lines or see their units lost. Air strikes offer tactical flexibility but are limited in number.
+  The game packs meaningful strategic decisions into a compact card game that plays in under half
+  an hour, earning Golden Geek nominations for Best Card Game and Best 2-Player Game in 2008.
+
+upgrades: []

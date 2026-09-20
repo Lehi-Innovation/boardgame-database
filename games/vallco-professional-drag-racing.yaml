@@ -1,0 +1,51 @@
+id: vallco-professional-drag-racing
+name: "Vallco Professional Drag Racing"
+alternate_names:
+  - "Vallco Professional Drag Racing Game"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Hand Management
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Greg Zyla
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Vallco Professional Drag Racing is a card-based drag racing game invented by Greg Zyla, with origins dating to a prototype in 1963 and reaching the commercial market in 1975. Players compete as professional drag racers — initially featuring only Pro Stock drivers — using cards and dice to simulate the high-speed quarter-mile competition of professional drag racing. The game captures the tension of the strip through its mechanics, making it appealing to motorsport fans looking to experience NHRA-style competition at the tabletop.
+
+upgrades: []

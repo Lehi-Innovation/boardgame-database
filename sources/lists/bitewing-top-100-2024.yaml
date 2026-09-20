@@ -1,0 +1,264 @@
+source: "Bitewing Games - Top 100 Board Games of All Time (2024 Edition)"
+url: "https://bitewinggames.com/top-100-board-games-of-all-time-2024-edition-games-25-1/"
+fetched: 2026-03-26
+games:
+  - id: tigris-and-euphrates
+    name: Tigris & Euphrates
+    year: 1997
+  - id: ra
+    name: Ra
+    year: 1999
+  - id: crokinole
+    name: Crokinole
+    year: 2000
+  - name: KLASK
+    year: 2014
+  - name: Babylonia
+    year: 2019
+  - id: through-the-desert-1998
+    name: Through the Desert
+    year: 1998
+  - id: hansa-teutonica
+    name: Hansa Teutonica
+    year: 2009
+  - id: quest-for-el-dorado
+    name: The Quest for El Dorado
+    year: 2017
+  - id: the-crew-mission-deep-sea
+    name: "The Crew: Mission Deep Sea"
+    year: 2021
+  - id: mlem-space-agency
+    name: "MLEM: Space Agency"
+    year: 2023
+  - id: el-grande
+    name: El Grande
+    year: 1995
+  - name: "Undaunted: Stalingrad"
+    year: 2022
+  - id: sidereal-confluence
+    name: Sidereal Confluence
+    year: 2017
+  - id: pax-pamir-second-edition
+    name: Pax Pamir (Second Edition)
+    year: 2019
+  - id: mille-fiori
+    name: Mille Fiori
+    year: 2021
+  - id: my-city
+    name: My City
+    year: 2020
+  - id: azul
+    name: Azul
+    year: 2017
+  - name: Gang of Dice
+  - id: scout
+    name: SCOUT
+    year: 2019
+  - id: inis
+    name: Inis
+    year: 2016
+  - name: Tatari
+  - id: trio
+    name: Trio
+    year: 2023
+  - id: heat-pedal-to-the-metal
+    name: "Heat: Pedal to the Metal"
+    year: 2022
+  - id: so-clover
+    name: So Clover!
+    year: 2021
+  - name: Orongo
+    year: 2016
+  - name: Viking See-Saw
+  - id: the-mind
+    name: The Mind
+    year: 2018
+  - id: regicide
+    name: Regicide
+    year: 2021
+  - id: schotten-totten
+    name: Battle Line
+    year: 1999
+  - id: ticket-to-ride-legacy-legends-of-the-west
+    name: "Ticket to Ride Legacy: Legends of the West"
+    year: 2023
+  - id: sky-team
+    name: Sky Team
+    year: 2023
+  - id: taj-mahal
+    name: Taj Mahal
+    year: 2000
+  - name: Patterns
+  - id: oath-chronicles-of-empire-and-exile
+    name: Oath
+    year: 2021
+  - id: a-feast-for-odin
+    name: A Feast for Odin
+    year: 2016
+  - id: john-company-second-edition
+    name: John Company (Second Edition)
+    year: 2022
+  - id: mandala
+    name: Mandala
+    year: 2019
+  - id: wildlife-safari
+    name: Botswana
+    year: 1987
+  - name: High Society
+    year: 1995
+  - name: Marabunta
+  - name: Lords of Vegas
+    year: 2010
+  - id: decrypto
+    name: Decrypto
+    year: 2018
+  - name: Dogs of War
+    year: 2014
+  - id: eclipse-second-dawn
+    name: "Eclipse: Second Dawn for the Galaxy"
+    year: 2020
+  - id: equinox
+    name: Equinox
+    year: 2021
+  - id: agricola
+    name: Agricola
+    year: 2007
+  - id: lost-cities
+    name: Lost Cities
+    year: 1999
+  - name: Great Plains
+  - name: Tajuto
+    year: 2011
+  - id: strike
+    name: Strike
+    year: 2012
+  - name: Jaipur
+    year: 2009
+  - id: splendor-duel
+    name: Splendor Duel
+    year: 2022
+  - name: Royal Visit
+    year: 2020
+  - id: skull
+    name: Skull
+    year: 2011
+  - id: ethnos
+    name: Ethnos
+    year: 2017
+  - id: age-of-steam
+    name: Age of Steam
+    year: 2002
+  - id: root
+    name: Root
+    year: 2018
+  - id: wavelength
+    name: Wavelength
+    year: 2019
+  - name: Winner's Circle
+    year: 2001
+  - id: watergate
+    name: Watergate
+    year: 2019
+  - name: Whale Riders
+  - id: the-kings-dilemma
+    name: The King's Dilemma
+    year: 2019
+  - id: innovation
+    name: Innovation
+    year: 2010
+  - id: kemet-blood-and-sand
+    name: "Kemet: Blood and Sand"
+    year: 2021
+  - id: samurai
+    name: Samurai
+    year: 1998
+  - id: einfach-genial-3d
+    name: Einfach Genial
+    year: 2004
+  - id: micromacro-crime-city
+    name: "MicroMacro: Crime City"
+    year: 2020
+  - id: sea-salt-and-paper
+    name: Sea Salt & Paper
+    year: 2022
+  - name: Witchcraft!
+    year: 2023
+  - id: carnegie
+    name: Carnegie
+    year: 2021
+  - name: Wilmot's Warehouse
+    year: 2021
+  - id: bus
+    name: Bus
+    year: 1999
+  - name: Lacuna
+    year: 2020
+  - name: Galactic Renaissance
+    year: 2023
+  - name: DroPolter
+    year: 2022
+  - id: mysterium
+    name: Mysterium
+    year: 2015
+  - id: caylus-1303
+    name: Caylus 1303
+    year: 2019
+  - id: blitzkrieg
+    name: Blitzkrieg!
+    year: 2018
+  - name: "Caesar!: Seize Rome in 20 Minutes!"
+    year: 2021
+  - id: iki
+    name: Iki
+    year: 2015
+  - id: blue-lagoon
+    name: Blue Lagoon
+    year: 2018
+  - id: carcassonne-the-castle
+    name: Carcassonne - The Castle
+    year: 2003
+  - id: cat-in-the-box-deluxe-edition
+    name: Cat in the Box
+    year: 2022
+  - id: radlands
+    name: Radlands
+    year: 2021
+  - name: Chinatown
+    year: 1997
+  - id: great-western-trail-second-edition
+    name: Great Western Trail (Second Edition)
+    year: 2021
+  - id: modern-art
+    name: Modern Art
+    year: 1992
+  - id: pipeline
+    name: Pipeline
+    year: 2019
+  - id: codenames
+    name: Codenames
+    year: 2015
+  - id: love-letter
+    name: Love Letter
+    year: 2012
+  - id: race-for-the-galaxy
+    name: Race for the Galaxy
+    year: 2007
+  - name: Skyrise
+    year: 2024
+  - id: lord-of-the-rings-duel-for-middle-earth
+    name: The Lord of the Rings - The Confrontation
+    year: 2002
+  - id: for-sale
+    name: For Sale
+    year: 1997
+  - id: 7-wonders-duel
+    name: 7 Wonders Duel
+    year: 2015
+  - id: patchwork
+    name: Patchwork
+    year: 2014
+  - id: arcs
+    name: Arcs
+    year: 2024
+  - name: Courtisans
+    year: 2022

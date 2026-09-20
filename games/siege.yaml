@@ -1,0 +1,53 @@
+id: siege
+name: "Siege!: The Game of Siege Warfare, 50 AD-1400 AD"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - Medieval
+  - Ancient
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard R. Berg
+publisher:
+  - Fact and Fantasy Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Siege!: The Game of Siege Warfare, 50 AD-1400 AD is a 2-player hex-grid wargame published by Fact and Fantasy Games in 1974 simulating historical siege combat across fourteen centuries of medieval and ancient history. One player commands the attackers deploying siege engines and escalade forces; the other defends walls and fortifications using the period-appropriate weapons available. The modular map system allows players to design their own scenarios with varied terrain, fortification types, and unit mixes, making it an open-ended game system rather than just a fixed historical recreation.
+
+upgrades: []

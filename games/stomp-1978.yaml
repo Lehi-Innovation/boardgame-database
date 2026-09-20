@@ -1,0 +1,52 @@
+id: stomp-1978
+name: "Stomp!"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tadashi Ehara
+publisher:
+  - Chaosium
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Stomp! is a 1978 asymmetric wargame published by Chaosium in which a single colossal giant called Thunderpumper battles an army of eighteen elves across a hex map. The two sides play entirely differently: the giant player moves a powerful but slow behemoth, while the elves player maneuvers a swarm of individually weak but collectively dangerous units. Designed by Tadashi Ehara, the game captures the tactical tension of small forces trying to bring down an overwhelming enemy and is notable as an early example of highly asymmetric design in hobbyist wargaming.
+
+upgrades: []

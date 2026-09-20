@@ -1,0 +1,59 @@
+id: the-great-redoubt
+name: "The Great Redoubt"
+alternate_names:
+  - "The Great Redoubt: A Game of the Battle of Borodino – 1812"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - S. Craig Taylor
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  The Great Redoubt is a 1979 Yaquinto Publications board wargame by S. Craig Taylor, simulating
+  the Battle of Borodino in 1812 — Napoleon's pyrrhic tactical victory that opened the road to
+  Moscow but weakened his Grande Armée beyond recovery. One of two Napoleonic wargames released
+  simultaneously by Yaquinto using the same game system, The Great Redoubt focuses on the
+  massive frontal assault against the Russian fortified position (the Great Redoubt or Raevsky
+  Battery) that defined the battle. The game captures the brutal attritional nature of Borodino,
+  one of the bloodiest single-day battles of the Napoleonic Wars.
+
+upgrades: []

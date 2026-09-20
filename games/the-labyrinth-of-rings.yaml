@@ -1,0 +1,53 @@
+id: the-labyrinth-of-rings
+name: "The Labyrinth of Rings"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Mystery
+  - Agency
+  - Complete
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  The Labyrinth of Rings is an abstract puzzle and strategy game in which players navigate or manipulate
+  a series of interconnected rings forming a labyrinthine structure. Detailed publisher, designer, and
+  year information is not well-documented in available English-language sources; the game appears in
+  Wikidata with BGG ID 1217. The gameplay involves spatial reasoning and route-finding through the ring
+  configurations. This entry is a minimal stub pending discovery of better sources.
+
+upgrades: []

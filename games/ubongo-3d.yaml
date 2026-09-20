@@ -1,0 +1,51 @@
+id: ubongo-3d
+name: "Ubongo 3D"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: ubongo
+edition: null
+base_game: ubongo
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Real-time
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Grzegorz Rejchtman
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Ubongo 3D is the three-dimensional expansion of the Ubongo puzzle series by Grzegorz Rejchtman, published by KOSMOS. Players must place 3D block pieces into a two-layer structure that completely fills the designated white space on their puzzle board — no piece can extend outside the space and nothing can be higher than two levels. Rotating and fitting the blocks in three dimensions makes this considerably more challenging than the base game. Like the original, it is played as a real-time race with gem rewards for the fastest solvers.
+
+upgrades: []

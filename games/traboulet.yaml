@@ -1,0 +1,48 @@
+id: traboulet
+name: "Traboulet"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Complete
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Traboulet is a two-player abstract strategy game in which players compete to capture seven red balls, or to capture all of their opponent's balls to win. Players maneuver pieces across the board in a spatial capture game where draws by repetition are possible. The game is available to play online at Board Space, indicating an active digital community despite its niche status.
+
+upgrades: []

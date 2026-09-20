@@ -1,0 +1,61 @@
+id: the-crew-mission-deep-sea
+name: "The Crew: Mission Deep Sea"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: the-crew
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Cooperative
+  - Hand Management
+  - Deduction
+  - Campaign Mode
+  - Family
+  - Maritime
+
+evokes:
+  - Tension
+  - Clever
+  - Connection
+  - Progress
+  - Mystery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Thomas Sing
+publisher:
+  - Thames & Kosmos
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  The Crew: Mission Deep Sea is a cooperative trick-taking card game and the sequel to the award-
+  winning The Crew: Quest for Planet Nine. Players are a submarine crew searching for the lost
+  continent of Mu, and must complete task cards by winning specific tricks in a specific order,
+  all while communicating under tight restrictions. New mechanics introduced include distress
+  signals that allow limited communication, and tasks that must be completed in strict sequence.
+  With 32 increasingly challenging missions, the game builds on its predecessor's beloved formula
+  while adding greater complexity and variety. It won the 2021 Spiel des Jahres.
+
+upgrades: []

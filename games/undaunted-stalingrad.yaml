@@ -1,0 +1,59 @@
+id: undaunted-stalingrad
+name: "Undaunted: Stalingrad"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: undaunted
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Dice Rolling
+  - Hex Map
+  - Campaign Mode
+  - Modular Board
+  - Wargame
+  - Historical
+  - War
+  - Osprey Games
+
+evokes:
+  - Tension
+  - Dread
+  - Progress
+  - Discovery
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Thompson
+  - Trevor Benjamin
+publisher:
+  - Osprey Games
+artist:
+  - Roland MacDonald
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Undaunted: Stalingrad is a 2022 standalone campaign deck-builder and wargame by David Thompson and Trevor Benjamin, published by Osprey Games, depicting the brutal urban fighting for Stalingrad during World War II. Players build and evolve platoon decks of soldier cards while maneuvering units across hex-based map tiles in up to fifteen branching scenarios whose outcomes carry forward through the campaign. While the consequences of each battle persist — affecting the city itself and the soldiers you command — the game can be fully reset and replayed for entirely different stories. Named Best Board Game of 2022 by multiple outlets, it features over 300 unique illustrations by Roland MacDonald and narrative mission briefings by Robbie MacNiven.
+
+upgrades: []

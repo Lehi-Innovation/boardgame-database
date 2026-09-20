@@ -1,0 +1,57 @@
+id: yum-yum-island
+name: "Yum Yum Island"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dexterity
+  - Dice Rolling
+  - Family
+  - Animals
+
+evokes:
+  - Connection
+  - Humor
+  - Lucky
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Laurent Escoffier
+publisher:
+  - Space Cow
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Yum Yum Island is a cooperative dexterity game for young children in which players work together
+  to rescue animals by feeding them before a giant's throat fills up. On each turn, a player rolls a
+  die to set the difficulty, dons a blindfold, scoops up mixed food tokens, and attempts to drop
+  them into the correct animal's mouth by touch alone. The cooperative arc, blindfolded feeding
+  mechanic, and whimsical theme make it an ideal first board game experience for families.
+
+upgrades: []

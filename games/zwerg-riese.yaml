@@ -1,0 +1,58 @@
+id: zwerg-riese
+name: "Zwerg Riese"
+alternate_names:
+  - "Giant Dwarf"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Action Points
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Marco Teubner
+publisher:
+  - HABA
+artist:
+  - Michael Menzel
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 5
+
+description: |
+  Zwerg Riese (Giant Dwarf) is a children's board game from HABA in which dwarf figures need to
+  collect gold from cities around a large game board, but can only travel by riding a giant figure.
+  Players spend landscape cards to direct the giant in compass-step movements, estimating
+  distances to reach desired destinations. A press-your-luck element arrives with a robber mechanic,
+  and the winner is the dwarf who collected the most gold coins when all are claimed.
+
+upgrades: []

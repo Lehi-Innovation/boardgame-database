@@ -1,0 +1,57 @@
+id: zig-zag
+name: "Zig-Zag"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Set Collection
+  - Racing
+  - Family
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Frank Schaubrenner
+  - Hartmut Witt
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Zig-Zag is a grab-and-collect card racing game in which players lay out 28 landscape cards to
+  form a circuit. Players must move their pawns through a variety of terrain types — clay flats,
+  fields, hot sand, green lawns, water, and cobblestones — using their hands of cards. The game
+  blends fast-paced card play with bluffing elements as players try to outmaneuver opponents
+  across the modular landscape they collectively constructed.
+
+upgrades: []

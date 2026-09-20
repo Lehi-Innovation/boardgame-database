@@ -1,0 +1,54 @@
+id: warhammer-quest
+name: "Warhammer Quest"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Modular Board
+  - Dice Rolling
+  - Variable Player Powers
+  - Campaign Mode
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Progress
+  - Powerful
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 10
+
+description: |
+  Warhammer Quest is a cooperative dungeon crawl adventure game released by Games Workshop in 1995 as the successor to HeroQuest and Advanced HeroQuest, set in the Warhammer Fantasy world. Up to four adventurers—Barbarian, Elf, Dwarf, and Wizard—explore randomly generated dungeon layouts built from the Dungeon Deck, fighting creatures such as orcs, goblins, and Skaven while collecting treasure and completing scenario objectives. The game ships with over 90 miniatures, chunky plastic doorway clips, and five different objective rooms each with six missions. It became the benchmark against which subsequent dungeon crawlers were measured and inspired a series of spiritual successors including Silver Tower, Shadows Over Hammerhal, and Blackstone Fortress.
+
+upgrades: []

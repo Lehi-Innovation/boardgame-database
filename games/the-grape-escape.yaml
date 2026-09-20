@@ -1,0 +1,57 @@
+id: the-grape-escape
+name: "The Grape Escape"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Roll & Write
+  - Family
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The Grape Escape is a 1992 Parker Brothers children's board game in which players model their
+  game pieces from included Play-Doh compound into grape shapes, then race them through a series
+  of plastic obstacle devices — a stomper, roller, and cutter — that physically mash, squash, and
+  slice the clay grapes as pieces land on corresponding spaces. Landing on an obstacle space forces
+  the player to operate the hand-cranked mechanism, deforming their piece in entertaining ways.
+  The combination of tactile molding, physical comedy, and roll-and-move gameplay made it a popular
+  toy-game hybrid in the early 1990s and it has been fondly remembered for its absurd premise.
+
+upgrades: []

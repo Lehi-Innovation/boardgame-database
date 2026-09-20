@@ -1,0 +1,61 @@
+id: iwari
+name: "Iwari"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Card Drafting
+  - Hand Management
+  - Network Building
+  - Abstract
+  - Euro
+  - Variable Setup
+
+evokes:
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Michael Schacht
+publisher:
+  - ThunderGryph Games
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Iwari is a beautiful reimagining of Michael Schacht's acclaimed Web of Power, featuring
+  streamlined mechanics for 2-5 players. Players play cards to place tents and totems on
+  a board divided into territories, competing for area majorities across different regions.
+  The rule that each placement is restricted to a single territory per turn, combined with
+  the need to play multiple cards to do so, forces players to carefully manage their hand
+  while watching opponents' plans. Simple rules belie deep tactical and positional play.
+
+upgrades: []

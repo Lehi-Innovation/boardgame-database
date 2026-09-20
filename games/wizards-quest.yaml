@@ -1,0 +1,57 @@
+id: wizards-quest
+name: "Wizard's Quest"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+  - Fantasy
+  - Family
+  - Ameritrash
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Discovery
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Willis Carpenter
+  - Garret Donner
+  - Mick Uhl
+  - Michael Steer
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Wizard's Quest is a fantasy area control board game published by Avalon Hill in 1979, set on the island kingdom of Marnon where 2-6 players compete to be the first to recover all their lost treasures. The board features 18 hexagonal islands placed randomly each game, while Orc armies occupy territories and a wandering dragon and wizard add unpredictable events. Combat uses a simple die-roll mechanic, and players can collect Hero and Sorcerer units to boost their combat potential. The game blends wargame area control with accessible family-game sensibilities, defying easy genre classification.
+
+upgrades: []

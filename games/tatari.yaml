@@ -1,0 +1,55 @@
+id: tatari
+name: "Tatari"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Filler
+  - Family
+  - Horror
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Tension
+  - Dread
+  - Humor
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Studio Mundy
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Tatari is a 2022 push-your-luck dice game by Reiner Knizia, published by Studio Mundy (スタジオムンディ), in which a group of friends is haunted by mysterious cursed Japanese dolls that must be confined to a magical shrine. Each player starts with 10 cursed dolls and uses 6 dice to roll combinations of numbers and dolls, determining which shrine tile to use and how many dolls they gain or lose. The tension lies in deciding how aggressively to reroll and lock dice in pursuit of the best combination. The first player to begin their turn with no dolls remaining wins, creating a race to offload a supernatural burden before the others do.
+
+upgrades: []

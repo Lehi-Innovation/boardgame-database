@@ -1,0 +1,50 @@
+id: time-tripper
+name: "Time Tripper"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Historical
+  - Time Travel
+  - Wargame
+
+evokes:
+  - Discovery
+  - Tension
+  - Lucky
+  - Powerful
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Time Tripper is a science fiction board game published by SPI in 1980 in which players control Vietnam War-era American GIs who accidentally manipulate time and are transported to famous battles throughout history and the future. Each player must survive and complete objectives across wildly different combat settings, making it an unusual blend of historical simulation and science fiction adventure. The game was a finalist for the 1981 Origins Award for Best Fantasy or Science-Fiction Board Game.
+
+upgrades: []

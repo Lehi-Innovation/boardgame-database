@@ -1,0 +1,59 @@
+id: snits-revenge
+name: "Snit's Revenge"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - 1 vs Many
+  - Wargame
+  - Fantasy
+
+evokes:
+  - Humor
+  - Tension
+  - Unique
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Wham
+publisher:
+  - TSR
+artist:
+  - Tom Wham
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Snit's Revenge is a two-player game designed and illustrated by Tom Wham, first published as a Dragon Magazine
+  insert in 1977 and later as a boxed game by TSR. One player controls a tribe of tiny Snits invading a massive
+  alien creature called a Bolotomus from within, while the other commands the creature's bizarre internal defenses
+  — including Runnungitms (white-blood-cell analogues) and absurdly named organs connected by narrow tubes. Snits
+  win by kicking a percentage of Snorgs to death or finding the hidden Spark of Life; the Bolotomus wins by
+  Chomping all Snits. Its utterly whimsical theme and clever asymmetric combat are a beloved Tom Wham trademark.
+
+upgrades: []

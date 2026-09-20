@@ -1,0 +1,55 @@
+id: vii-legio
+name: "VII Legio"
+alternate_names:
+  - "Legio VII"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Space
+  - 1 vs Many
+  - Exploration
+  - Negotiation
+
+evokes:
+  - Discovery
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Marco Donadoni
+  - Silvio Cadelo
+publisher: []
+artist:
+  - Silvio Cadelo
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  VII Legio is a science fiction board game designed by Marco Donadoni and Silvio Cadelo, published by International Team in 1982 with artwork by Cadelo. Despite its Roman numeral title evoking a Roman legion, the game is set in outer space: one player acts as a game master who creates a galaxy map, while the other players command starships that must explore planets and interact with alien races through capture, combat, negotiation, and trade. Players accumulate command points to earn promotions and acquire more powerful ships, while navigating the hazards of pirate ships, black holes, and unknown dangers.
+
+upgrades: []

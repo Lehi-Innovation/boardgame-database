@@ -1,0 +1,54 @@
+id: unsettled
+name: "Unsettled"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Modular Board
+  - Variable Setup
+  - Sci-Fi
+  - Survival
+
+evokes:
+  - Dread
+  - Discovery
+  - Tension
+  - Wonder
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Marc Neidlinger
+  - Tom Mattson
+publisher:
+  - Orange Nebula
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Unsettled is a cooperative survival adventure game for 2–4 players set in the uncharted fringes of deep space. Players are explorers stranded on an alien planet, forced to survive its bizarre and lethal environment without combat — every element of the world itself is the threat. The game is built around a modular framework system: each planet plug-in delivers a unique environment, distinct rule twists, exclusive items, and strange new abilities, making every planet a wholly different experience. With no enemies to fight and no clear victory path, Unsettled focuses on atmospheric tension, discovery, and desperate problem-solving.
+
+upgrades: []

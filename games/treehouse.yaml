@@ -1,0 +1,49 @@
+id: treehouse
+name: "Treehouse"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 7
+min_playtime: 5
+max_playtime: 10
+min_age: 8
+
+description: |
+  Treehouse is an abstract dice game published by Looney Labs in 2006 in which players attempt to move and rearrange their set of three colorful pyramid pieces to match the configuration of a central "House" shared by all players. A custom six-sided die determines which manipulation action is available each turn — Tip, Swap, Dig, Aim, Hop, or Wild — and the first player to match their trio to the House wins. Designed by Andy Looney and winner of the 2006 Origins Award for Best Board Game, Treehouse serves as the gateway to the broader Looney Pyramids game system.
+
+upgrades: []

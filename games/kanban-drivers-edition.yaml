@@ -1,0 +1,55 @@
+id: kanban-drivers-edition
+name: "Kanban: Driver's Edition"
+alternate_names: ["Kanban: Automotive Revolution"]
+year: 2014
+
+# Relationships
+game_family: kanban
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Action Points
+  - Economic
+  - Variable Setup
+  - Euro
+  - Vital Lacerda
+
+evokes:
+  - Masterful
+  - Progress
+  - Agency
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Vital Lacerda
+publisher:
+  - Stronghold Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 12
+
+description: |
+  Kanban: Driver's Edition is the original version of Vital Lacerda's automotive factory management game, published by Stronghold Games in 2014, in which 2-4 players compete as factory employees seeking to impress the demanding floor manager Sandra. Players take actions in a car manufacturing facility — managing supplies, designing new car parts, completing assembly, and training — while Sandra circulates through the factory issuing reviews that score player performance. The game offers a choice between "nice" and "mean" Sandra for adjustable difficulty, and its variable phase order creates a constantly shifting action environment. Kanban EV (2020) was a redesigned successor that streamlined this original experience.
+
+upgrades: []

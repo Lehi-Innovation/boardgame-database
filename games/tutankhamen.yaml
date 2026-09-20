@@ -1,0 +1,54 @@
+id: tutankhamen
+name: "Tutankhamen"
+alternate_names:
+  - "Tutankhamun"
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Abstract
+  - Ancient
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Tutankhamen is a Reiner Knizia set collection game published in 1993, nominated for the Spiel des Jahres that year. Players move their token along a winding track of Egyptian artifact tiles, collecting sets of matching symbols as the tiles are picked up. The key tension: moving forward uncovers new tiles, but slower players can grab specific tiles still on the track. The player who collects the best combination of matching sets wins. It was later republished by 25th Century Games in 2021 with new artwork by Jacqui Davis.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: tomorrow-the-world
+name: "Tomorrow the World"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Tomorrow the World is a 1989 alternate history wargame published by 3W and designed by Ty Bomba, set in a world where the Axis powers won World War II. Germany and Japan now control the planet and inevitably turn on each other, competing for total global domination. The global strategic scale and counterfactual premise attracted interest from wargame enthusiasts, though the game received mixed critical reception.
+
+upgrades: []

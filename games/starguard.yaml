@@ -1,0 +1,51 @@
+id: starguard
+name: "Starguard!"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michael Kurtick
+  - Jon McEwan
+publisher:
+  - McEwan Miniatures
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Starguard! is a 1974 science fiction skirmish miniatures wargame created by Michael Kurtick and Jon McEwan, inspired by Robert A. Heinlein's Starship Troopers and widely recognized as the oldest science fiction skirmish game. Players command small squads of infantry, treaded vehicles, and anti-gravity vehicles from various alien races, each with distinct weapons and organization tables. Combat uses a two-roll system (hit roll, then penetration roll) and "I go, you go" turn sequence, with weapons differentiated by range, blast radius, damage, and special effects. The game has remained continuously in print through seven editions over fifty years.
+
+upgrades: []

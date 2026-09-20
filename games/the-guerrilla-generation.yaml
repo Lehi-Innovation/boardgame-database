@@ -1,0 +1,65 @@
+id: the-guerrilla-generation
+name: "The Guerrilla Generation: Cold War Insurgencies"
+alternate_names:
+  - "The Guerrilla Generation: Cold War Insurgencies in Latin America"
+year: 2026
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Area Control
+  - Action Points
+  - Variable Player Powers
+  - Variable Setup
+  - Wargame
+  - Historical
+  - War
+  - Espionage
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Stephen Rangazas
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 16
+
+description: |
+  The Guerrilla Generation: Cold War Insurgencies in Latin America is COIN Series Multi-Pack II,
+  designed by Stephen Rangazas and published by GMT Games. It contains four separate games covering
+  1968-1992 insurgencies in Uruguay, Nicaragua, El Salvador, and Peru. Each game uses the COIN
+  asymmetric action-selection system but features unique mechanisms tailored to its conflict: radio
+  propaganda in El Salvador, managing US aid in Nicaragua, hunting Sendero Luminoso leader Guzmán
+  in Peru, and kidnapping officials in Uruguay. The games draw on historical research from scholars,
+  human rights reports, and local accounts to portray each insurgency with appropriate nuance and
+  specificity.
+
+upgrades: []

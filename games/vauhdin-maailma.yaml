@@ -1,0 +1,50 @@
+id: vauhdin-maailma
+name: "Vauhdin Maailma"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Tactic Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 15
+
+description: |
+  Vauhdin Maailma is a Finnish motorsport-themed board game published by Tactic Games in 2010, aimed at players aged 15 and above. The game draws on the world of motor racing, bringing the excitement of the circuit to the tabletop. As a product of Finland's Tactic Games — a major Nordic game publisher — it reflects the region's strong interest in motorsport, particularly Formula 1. Specific designer information is not widely documented in English-language sources.
+
+upgrades: []

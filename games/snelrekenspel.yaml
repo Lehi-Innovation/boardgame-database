@@ -1,0 +1,52 @@
+id: snelrekenspel
+name: "Snelrekenspel"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - No Math
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Snelrekenspel is a Dutch educational board game whose name translates to "Quick Calculation Game." The game
+  challenges players to perform mental arithmetic quickly in a competitive setting, making it suitable for
+  children learning basic math operations. Specific publisher and designer information is unavailable for this
+  title, which appears to be an educational product produced in the Netherlands.
+
+upgrades: []

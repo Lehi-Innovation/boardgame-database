@@ -1,0 +1,51 @@
+id: wise-and-otherwise
+name: "Wise and Otherwise"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Word Play
+  - Party
+
+evokes:
+  - Humor
+  - Creative
+  - Persuasion
+  - Mystery
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - WiseandOtherwise.com Inc.
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Wise and Otherwise is a bluffing party game in which players complete the endings of obscure proverbs from cultures around the world. The reader draws a card and reads the beginning of an authentic proverb aloud; all other players write convincing fake endings while the reader copies down the real one. The submitted endings are shuffled and read aloud, and players vote on which they believe is genuine — earning points for convincing bluffs and for identifying the true proverb. It was named Games Magazine's Party Game of the Year in 1998.
+
+upgrades: []

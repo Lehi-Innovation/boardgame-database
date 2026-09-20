@@ -1,0 +1,55 @@
+id: unlock-kids-stories-from-the-past
+name: "Unlock! Kids: Stories From the Past"
+alternate_names:
+  - "Unlock! Kids 2: Stories From the Past"
+year: 2023
+
+# Relationships
+game_family: "unlock-kids"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Family
+  - Historical
+
+evokes:
+  - Discovery
+  - Mystery
+  - Connection
+  - Wonder
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Unlock! Kids: Stories From the Past is the second volume in the child-friendly Unlock! series, sending young players on adventures through three historical settings: prehistoric times, Ancient Egypt, and the Wild West. Each of the three stories contains two self-contained adventures, giving six cooperative mysteries in total. Like the first Unlock! Kids box, no companion app is required and the game teaches itself via an included tutorial, making it fully accessible to ages 6 and up. Players combine cards and solve simple puzzles together to complete each story.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: sexy-slang
+name: "Sexy Slang"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Real-time
+  - Humor
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+  - Lucky
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 8, 10]
+
+designer: []
+publisher:
+  - Icebreaker Entertainment
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 18
+
+description: |
+  Sexy Slang is an adult party game by Icebreaker Entertainment in which two teams race simultaneously to draw the same risqué clue word in line drawing format — no speaking or mime allowed. Both teams' clue-givers receive the same card at the same time, making it a race rather than a sequential game, so there is never any downtime waiting for your turn. The first team to correctly guess their clue-giver's drawing earns a point; the first team to 10 points wins. The all-play structure and adult-themed vocabulary make it a lively icebreaker for adult game nights.
+
+upgrades: []

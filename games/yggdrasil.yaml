@@ -1,0 +1,60 @@
+id: yggdrasil
+name: "Yggdrasil"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Variable Player Powers
+  - Action Points
+  - Modular Board
+  - Fantasy
+  - Mythology
+
+evokes:
+  - Connection
+  - Tension
+  - Dread
+  - Agency
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Cédric Lefebvre
+  - Fabrice Rabellino
+publisher:
+  - Ludonaute
+artist:
+  - Pierô
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Yggdrasil is a cooperative Norse mythology game in which one to six players take the roles of
+  gods — Odin, Thor, Tyr, Frey, Freyja, and Heimdall — defending the world tree from the forces
+  of Ragnarök. Players must fend off iconic enemies including Loki and his minions across a
+  three-dimensional board representing the nine worlds. Each deity has unique powers that must be
+  coordinated strategically to hold back the inevitable end of the world.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: skullduggery
+name: "Skullduggery"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Pirates
+  - Deduction
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Allegra Vernon
+publisher:
+  - Outset Media
+artist:
+  - Allegra Vernon
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Skullduggery is a pirate-themed strategy and memory board game designed and illustrated by Allegra Vernon, published by Outset Media, and winner of the 2007 Mensa Select award. Players use a tiled board with tokens, combining card play and bait-and-switch tactics to build the highest number sequence and claim treasure. The game teaches basic logic and strategy in a family-accessible pirate adventure format, and its visual design and educational angle have made it a popular choice for children and family game nights.
+
+upgrades: []

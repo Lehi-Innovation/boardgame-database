@@ -1,0 +1,51 @@
+id: strange-new-worlds
+name: "Strange New Worlds"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Progress
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Gametime Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Strange New Worlds is a 1978 Gametime Games space exploration and colonization game for 2-6 players. Each player commands a single starship traveling jump-routes to new star systems, exploring and colonizing planets for profit. Players can purchase crew cards (Astro-Marines, Science Officers, Star Soldiers) and manage up to four crew cards aboard at once, using their abilities to overcome challenges on distant worlds. Establishing profitable colonies drives the game's economy and determines the winner.
+
+upgrades: []

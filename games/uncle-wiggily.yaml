@@ -1,0 +1,50 @@
+id: uncle-wiggily
+name: "Uncle Wiggily"
+alternate_names: []
+year: 1916
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Racing
+  - Animals
+
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 3
+
+description: |
+  Uncle Wiggily is one of America's oldest licensed children's board games, first published in 1916 by Milton Bradley and based on Howard R. Garis's beloved newspaper story character Uncle Wiggily Longears — a rheumatic elderly rabbit. Players draw cards with rhyming instructions and move their pieces along a winding path toward the finish. The game is entirely luck-based, aimed at very young children, and teaches counting and card recognition. It has been continuously published for over a century in various editions, now owned by Hasbro, with revisions in 1929, 1947, 1955, and beyond.
+
+upgrades: []

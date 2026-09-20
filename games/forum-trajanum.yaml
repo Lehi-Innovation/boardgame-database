@@ -1,0 +1,57 @@
+id: forum-trajanum
+name: "Forum Trajanum"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Worker Placement
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Ancient
+  - Stefan Feld
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Stefan Feld
+publisher:
+  - HUCH!
+  - Stronghold Games
+artist:
+  - Klemens Franz
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Forum Trajanum is a 2-4 player tile-laying and resource management game by Stefan Feld set in ancient Rome, published in 2018. Each player governs a Colonia founded by Emperor Trajan, developing their city while also contributing to the grand construction of Trajan's Forum in the center of the board. The core mechanic involves selecting resources at the start of each round from a shared grid, then deploying workers and placing tiles to construct buildings, gain bonuses, and fulfill the emperor's requirements. Over twelve rounds — with two mid-game scoring phases — players score across a variety of categories in the classic Feld multi-path style. The game features an assistant mechanic and a tribune figure that give players meaningful tools to mitigate the randomness of resource selection.
+
+upgrades: []

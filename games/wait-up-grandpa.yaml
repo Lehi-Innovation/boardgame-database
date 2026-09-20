@@ -1,0 +1,49 @@
+id: wait-up-grandpa
+name: "Wait Up, Grandpa!"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Wait Up, Grandpa! is a children's board game listed in the Wikidata game catalogue. The game appears to be a family-oriented racing or movement game designed for young children, likely featuring a grandparent-themed theme meant to be played across generations. Specific designer, publisher, and year information is not widely available in English-language sources, and the game is primarily known through hobbyist game databases.
+
+upgrades: []

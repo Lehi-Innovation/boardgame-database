@@ -1,0 +1,51 @@
+id: warzone
+name: "Warzone"
+alternate_names:
+  - "Mutant Chronicles: Warzone"
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Asymmetric
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Target Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Warzone is a squad-based miniature skirmish game set in the Mutant Chronicles science fiction universe, designed by Bill King and published by Target Games in 1995. The game pits competing corporations and dark forces against each other in the grim solar system of the Mutant Chronicles setting, won the Origins Award for Best Miniatures Rules of 1995. Often compared to Warhammer 40,000 for its similar scale and target audience, Warzone distinguished itself with the Mutant Chronicles lore and corporate faction dynamics. After Target Games restructured, the rights passed through several owners, with later editions released by Paradox Entertainment and then Res Nova.
+
+upgrades: []

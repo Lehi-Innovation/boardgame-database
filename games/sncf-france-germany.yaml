@@ -1,0 +1,59 @@
+id: sncf-france-germany
+name: "SNCF: France & Germany"
+alternate_names: ["Paris Connection"]
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Bluffing
+  - Euro
+  - Trains
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - John Bohrer
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 8
+
+description: |
+  SNCF: France & Germany is a train investment game designed by John Bohrer and published by Rio Grande Games,
+  expanding the earlier Paris Connection with a map of Germany alongside France. Players invest in early railroad
+  companies, seeking to hold the most stock in the most valuable lines as the network expands across the map.
+  Very simple rules conceal deep bluffing and misdirection as players race to build connections without revealing
+  their actual investment priorities to opponents.
+
+upgrades: []

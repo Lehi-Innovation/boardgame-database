@@ -1,0 +1,53 @@
+id: new-frontiers
+name: "New Frontiers"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: race-for-the-galaxy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tableau Building
+  - Variable Player Powers
+  - Engine Building
+  - Euro
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Thomas Lehmann
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  New Frontiers is a standalone board game in the Race for the Galaxy family, designed by Thomas Lehmann for 2-5 players. Each round a player selects one of several actions — colonizing worlds, developing technologies, producing goods — and every player may perform that action, but only the selector receives a bonus. Players build a galactic empire by placing world and development tiles into their tableau, constructing powerful economic engines and scoring combos. Variable development cards and drawn worlds ensure high replayability across its 45-90 minute playtime.

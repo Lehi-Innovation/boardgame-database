@@ -1,0 +1,52 @@
+id: shadows-upon-lassadar
+name: "Shadows Upon Lassadar"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Fantasy
+  - Campaign Mode
+  - Puzzle Solving
+
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Discovery
+  - Progress
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Todd Sanders
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Shadows Upon Lassadar is a solitaire print-and-play fantasy card game designed by Todd Sanders in which a young magic adept must find three lost keys to seal the gates between the Barrier Plains and prevent the Grayking from reaching the world of Lassadar. Players journey between cities using cards representing spells and encounters, but powerful magic corrupts the soul — use too much and lose the game. The game won awards including Best AI, Best Art, and Best Solitaire in the 2011 Print 'n Play Awards, praised for its adaptive enemy and atmospheric design.
+
+upgrades: []

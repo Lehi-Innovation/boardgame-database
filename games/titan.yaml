@@ -1,0 +1,51 @@
+id: titan
+name: "Titan"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hex Map
+  - Wargame
+  - Fantasy
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 12
+
+description: |
+  Titan is a fantasy wargame for 2–6 players, first published in 1980 by Gorgonstar and later licensed to Avalon Hill, in which players command legions of mythological creatures that roam a strategic Masterboard recruiting increasingly powerful monsters. When two legions meet, combat is resolved on separate tactical Battlelands, with eleven different terrain types each favoring different creature types. The last-player-standing victory condition and dual-level strategic/tactical play make Titan one of the most demanding and rewarding classic fantasy wargames, though games can last many hours.
+
+upgrades: []

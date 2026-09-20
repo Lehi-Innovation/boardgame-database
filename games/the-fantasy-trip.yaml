@@ -1,0 +1,62 @@
+id: the-fantasy-trip
+name: "The Fantasy Trip"
+alternate_names:
+  - "The Fantasy Trip: Melee"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Action Points
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Fantasy
+  - Abstract
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 45
+min_playtime: 20
+max_playtime: 60
+min_age: 12
+
+description: |
+  The Fantasy Trip began in 1977 with Melee (MicroGame #3), a fast person-to-person fantasy combat
+  microgame designed by Steve Jackson and published by Metagaming Concepts. Characters have two
+  primary stats — Strength and Dexterity — with players rolling 3d6 equal to or under adjusted
+  Dexterity to hit. The game was historically significant as the first tabletop game to use a
+  point-buy character creation system instead of random die rolls. Wizard (1978) expanded the
+  system with magic, and both eventually fed into a full RPG. Jackson later reclaimed the rights
+  and a Legacy Edition was published by Steve Jackson Games in 2018 following a successful Kickstarter.
+
+upgrades: []

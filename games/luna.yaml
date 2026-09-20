@@ -1,0 +1,58 @@
+id: luna
+name: "Luna"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Tile Placement
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Mythology
+  - Stefan Feld
+
+evokes:
+  - Masterful
+  - Clever
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Z-Man Games
+  - Pegasus Spiele
+  - Tasty Minstrel Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Luna is a 1-5 player worker placement and area control game designed by Stefan Feld, first published in 2010 by Z-Man Games. Players move novice workers across a series of floating island tiles surrounding a central sanctum, competing to impress the Moon Priestess Luna by performing rituals, constructing buildings, and accumulating influence. The modular board — with islands placed in a different arrangement each game — creates varied strategic landscapes and ensures no two sessions play identically. Area control competition for the sanctum itself is particularly intense, as end-game scoring heavily rewards the player who has established the greatest presence there. Luna is regarded as one of Feld's most tactically rich designs.
+
+upgrades: []

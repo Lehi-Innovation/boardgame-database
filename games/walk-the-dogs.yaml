@@ -1,0 +1,52 @@
+id: walk-the-dogs
+name: "Walk the Dogs"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Alan R. Moon
+  - Aaron Weissblum
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Walk the Dogs is a 2005 set-collection and press-your-luck game designed by Alan R. Moon and Aaron Weissblum, published by SimplyFun. The game features 63 rubber dog pieces representing seven different breeds; players collect dogs and arrange them in consecutive sets by breed, with longer runs of the same breed scoring more points. The press-your-luck element comes from deciding when to stop collecting and lock in your score. With its tactile dog pieces and accessible mechanics, the game is ideal for family game nights and light social gatherings.
+
+upgrades: []

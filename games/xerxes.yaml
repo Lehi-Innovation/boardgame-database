@@ -1,0 +1,55 @@
+id: xerxes
+name: "Xerxes"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Ancient
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Xerxes is a 1973 board wargame covering ancient warfare related to the Persian king Xerxes and
+  the Greco-Persian Wars. As a hex-and-counter wargame of the era, it would simulate the tactical
+  and operational challenges of the Persian invasion of Greece, a pivotal conflict in ancient history.
+  Little documentation has survived in widely accessible sources; details of the designer and
+  publisher remain unclear from available records.
+
+upgrades: []

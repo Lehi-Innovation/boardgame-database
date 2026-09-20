@@ -1,0 +1,53 @@
+id: say-anything
+name: "Say Anything"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Social Deduction
+  - Bluffing
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Persuasion
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Dominic Crapuchettes
+  - Satish Pillalamarri
+publisher:
+  - North Star Games
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 13
+
+description: |
+  Say Anything is a party game where one player draws a question card and reads it aloud, and every other player writes down their best answer on a personal dry-erase board. The reader secretly picks their favorite response using the Select-O-Matic device, while everyone else bets their tokens on which answer they think was chosen. Points are scored for having your answer picked or for correctly guessing the reader's choice. The game thrives on revealing each other's opinions, preferences, and sense of humor in a lightweight, social format perfect for mixed groups.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: wabbit-wampage
+name: "Wabbit Wampage"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Fantasy
+  - Animals
+
+evokes:
+  - Humor
+  - Rivalry
+  - Agency
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mark Acres
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Wabbit Wampage is a 1985 adventure board game designed by Mark Acres and published by Pacesetter Ltd. Players control cartoon Wabbits (warrior rabbits) waging war against a farmer and each other for control of the carrot crop and farm buildings in a whimsical farmyard conflict. The game won the Charles S. Roberts Award for Best Fantasy or Science Fiction Game of 1985, a notable achievement for a light-hearted, humorous design in a field dominated by serious wargames. Its blend of slapstick animal chaos and tactical competition gave it a cult following.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: trekking-the-world
+name: "Trekking the World"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Route Building
+  - Family
+  - Gateway
+
+evokes:
+  - Wonder
+  - Discovery
+  - Progress
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Trekking the World is an award-winning globetrotting board game published by Underdog Games in 2022. Players compete to be the ultimate world traveler by visiting 48 beautifully illustrated real-world destinations across all continents, collecting rare souvenir cards and completing trek objectives along the way. Each destination features educational text, and players race to claim key locations before opponents while building the most impressive travel collection. Accessible to families yet with genuine strategic depth, Trekking the World combines geography education with satisfying competitive route-building gameplay.
+
+upgrades: []

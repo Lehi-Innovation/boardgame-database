@@ -1,0 +1,56 @@
+id: the-cats-pajamas
+name: "The Cat's Pajamas"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Dice Rolling
+  - Family
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Complete
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Haywire Group
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 3
+
+description: |
+  The Cat's Pajamas is a children's set collection and memory game published by Haywire Group in
+  2010. Silly cats have put on too many pairs of pajamas and overheated — players race to remove
+  matching pajama tops and bottoms from their cat pawns, layer by layer, to be the first to get
+  their cat cool and comfortable in their "Nighty Whiteys." The game uses a simple die-roll
+  mechanic combined with matching, making it an accessible early game for young children while
+  teaching pattern recognition and color matching in a humorous feline setting.
+
+upgrades: []

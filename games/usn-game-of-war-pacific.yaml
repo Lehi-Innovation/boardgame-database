@@ -1,0 +1,53 @@
+id: usn-game-of-war-pacific
+name: "U.S.N.: The Game of War in the Pacific, 1941-43"
+alternate_names:
+  - "USN"
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+  - Maritime
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher: []
+artist: []
+playtime_minutes: 600
+min_playtime: 360
+max_playtime: 900
+min_age: 16
+
+description: |
+  U.S.N.: The Game of War in the Pacific, 1941-43 is a massive strategic wargame designed by Jim Dunnigan with graphic design by Redmond A. Simonsen, first published in 1971 by SPI (originally as a pull-out game in Strategy & Tactics magazine). The hex map covers nearly the entire Pacific Ocean and Southeast Asia, and the full 81-turn campaign game simulates the first two years of the Pacific War with an estimated 150 hours of play — earning it designation as a "small monster" game. Players command all naval, air, and land forces of the US/Allied or Japanese sides. Decision Games released a greatly expanded U.S.N. Deluxe edition in 2004.
+
+upgrades: []

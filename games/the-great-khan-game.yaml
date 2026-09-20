@@ -1,0 +1,65 @@
+id: the-great-khan-game
+name: "The Great Khan Game"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Negotiation
+  - Fantasy
+  - Humor
+  - Medieval
+
+evokes:
+  - Humor
+  - Powerful
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Tom Wham
+  - Richard Hamblen
+publisher:
+  - TSR
+artist:
+  - Tom Wham
+  - Jeff Dee
+  - Amanda Dee
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Great Khan Game is a 1989 TSR board and card game designed and illustrated by Tom Wham with
+  Richard Hamblen, set in the Whamite Isles of the Forgotten Realms setting. Players gather melds
+  of cards representing rulers and peoples to form nations and compete for control of territories on
+  the map. Nations compete through warfare (battles between melds) and political coups (playing a
+  stronger meld to take over a country). Event cards bring disasters (assassins, earthquakes, peasant
+  revolts) and windfalls (trade caravans, fleets). The game humorously captures the sweep of
+  fantasy empire-building politics, trade, and warfare in Tom Wham's signature whimsical style.
+
+upgrades: []

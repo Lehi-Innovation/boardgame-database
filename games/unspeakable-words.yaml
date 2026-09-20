@@ -1,0 +1,56 @@
+id: unspeakable-words
+name: "Unspeakable Words"
+alternate_names:
+  - "Unspeakable Words: The Call of Cthulhu Word Game"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Press Your Luck
+  - Dice Rolling
+  - Party
+  - Cthulhu
+  - Horror
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - James Ernest
+  - Mike Selinker
+publisher: []
+artist:
+  - John Kovalic
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Unspeakable Words is a Cthulhu-themed word game by James Ernest and Mike Selinker in which players form words from their hand of letter cards, scoring points equal to the number of angles in the letters used. The catch: each word formed requires a roll of a d20 equal to or higher than its point value — fail and you lose a sanity token represented by an adorable Cthulhu pawn. Lose all your sanity and you are eliminated; the first player to reach 100 points while retaining at least one sanity token wins. The deluxe edition features artwork by John Kovalic and supports up to eight players with custom components.
+
+upgrades: []

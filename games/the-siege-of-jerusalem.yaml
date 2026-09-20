@@ -1,0 +1,53 @@
+id: the-siege-of-jerusalem
+name: "The Siege of Jerusalem"
+alternate_names: ["The Siege of Jerusalem, 70 A.D."]
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - Ancient
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Historical Perspectives
+  - Avalon Hill
+artist: []
+playtime_minutes: 3000
+min_playtime: 480
+max_playtime: 6000
+min_age: 16
+
+description: |
+  The Siege of Jerusalem is a 1976 historical wargame simulating the Roman siege of Jerusalem in 70 A.D., originally published by Historical Perspectives and later revised and republished by Avalon Hill in 1989 as the Third Edition. One player commands the besieging Roman forces under Titus, while the other commands the Jewish defenders; the Romans must capture the Temple within five phases. The game features 800 die-cut counters representing infantry, archers, cavalry, siege equipment, and wall conditions, across five detailed scenarios. Avalon Hill's Third Edition was described as "one of the most beautiful, detailed, challenging wargames ever made" and won the Charles S. Roberts Award for Best Pre-World War II Game of 1989, though full campaigns can take 40-80 hours.
+
+upgrades: []

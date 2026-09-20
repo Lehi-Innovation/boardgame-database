@@ -1,0 +1,55 @@
+id: space-lines
+name: "Space Lines"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Invicta Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 7
+
+description: |
+  Space Lines is an abstract strategy game published by Invicta Games in 1969, similar in concept to Qubic
+  (3D Tic-Tac-Toe). The game features a tower structure of four plastic shelves, each with 16 knobs, onto which
+  players place colored counters. The space-age aesthetic of the tower structure fit the era's enthusiasm for
+  the Space Race, while the underlying game is a classic spatial pattern-recognition challenge: form a winning
+  line in three dimensions before your opponent does.
+
+upgrades: []

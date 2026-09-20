@@ -1,0 +1,53 @@
+id: dropolter
+name: "DroPolter"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Paul Schulz
+publisher:
+  - Oink Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  DroPolter is a fast-paced 2023 dexterity and memory game by Paul Schulz, published by Oink Games, in which players race to drop the correct item from their palm using only one hand. Each round, a theme card is flipped and players must quickly shed only the matching items from their hand of five objects — which include various shapes and materials like brass, wood, and glass — without dropping incorrect pieces. Wrong drops earn penalty points, and the challenge of distinguishing similar-feeling items by weight and texture creates genuine moments of hilarious confusion. Compact and portable in Oink's signature small-box format, DroPolter is a lively party filler for all ages.
+
+upgrades: []

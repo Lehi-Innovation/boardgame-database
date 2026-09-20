@@ -1,0 +1,53 @@
+id: sowing
+name: "Sowing"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Agriculture
+
+evokes:
+  - Clever
+  - Agency
+  - Masterful
+  - Tension
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Sowing is a traditional two-player abstract strategy game based on the mancala family of "sowing" games,
+  in which players take seeds from one pit and distribute them one by one into consecutive pits around the
+  board. The sowing mechanic — capturing seeds that land in specific configurations — creates deep combinatorial
+  play from deceptively simple rules. Mancala-family sowing games are among the oldest and most widespread
+  games in the world, played across Africa, Asia, and the Middle East for thousands of years.
+
+upgrades: []

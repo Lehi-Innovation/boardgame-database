@@ -1,0 +1,52 @@
+id: vabanque
+name: "Vabanque"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Hand Management
+  - Press Your Luck
+  - Party
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Bruno Faidutti
+  - Leo Colovini
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Vabanque is a small bluffing and intuition game by Bruno Faidutti and Leo Colovini, first published in 2001. Players gather in a casino where they play character cards and manoeuvre their pawns to claim a share of the prize money at various casino tables. Payouts can be multiplied by good play or lost entirely to card sharks, and the stakes escalate from round to round. The game's core tension lies in reading opponents and committing to tables before the full picture is revealed. Later editions were published by New Games Order and Igiari.
+
+upgrades: []

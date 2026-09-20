@@ -1,0 +1,60 @@
+id: terror-of-the-lichemaster
+name: "Terror of the Lichemaster"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Campaign Mode
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Dread
+  - Tension
+  - Powerful
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Rick Priestley
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Terror of the Lichemaster is a Warhammer Fantasy Battle supplement and
+  mini-campaign designed by Rick Priestley and Dave Andrews, published by Games
+  Workshop in 1986. The box contains three linked scenarios introducing the
+  lich Heinrich Kemler as a villain, along with 16 cardstock buildings and
+  cardboard character cutouts for the non-player forces (which can be replaced
+  by metal Games Workshop miniatures). The campaign bridges the RPG and wargame
+  aspects of early Warhammer, reflecting Games Workshop's original vision of
+  Warhammer Fantasy as part wargame and part roleplaying game, scaled for just
+  a handful of models per side.
+
+upgrades: []

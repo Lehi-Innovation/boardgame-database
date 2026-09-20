@@ -1,0 +1,63 @@
+id: gizmos
+name: "Gizmos"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Tableau Building
+  - Resource Management
+  - Drafting
+  - Family
+  - Gateway
+  - Phil Walker-Harding
+  - CMON
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Phil Walker-Harding
+publisher:
+  - CMON
+artist:
+  - Chris Beatrice
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 14
+
+description: |
+  Gizmos is a marble-drafting engine-building game where players construct fantastical
+  machines that trigger chain reactions. Each turn a player picks a marble from a 3D
+  marble dispenser and uses its color to take actions: pick up energy, file a blueprint,
+  build a gizmo, or research new options. As gizmos are added to your machine, they
+  automatically trigger when their conditions are met, creating satisfying cascades of
+  free actions. The tactile marble dispenser and escalating chain reactions give Gizmos
+  a uniquely kinetic feel for an engine builder.
+
+upgrades: []

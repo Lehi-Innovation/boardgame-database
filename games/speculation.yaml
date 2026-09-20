@@ -1,0 +1,55 @@
+id: speculation
+name: "Speculation"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Auctions/Bidding
+  - Trading
+  - Simultaneous Action
+
+evokes:
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - Speculation
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Speculation is a self-published stock market game from 1969 produced in San Diego, California. Players buy and
+  sell shares in companies, drawing movement and action tokens to shift stock prices and execute trades
+  simultaneously. Rounds continue until a company marker reaches the end of the movement track, at which point
+  all players cash in their holdings to determine the winner by total wealth. A rare, privately-issued title
+  from the early era of American economic board games.
+
+upgrades: []

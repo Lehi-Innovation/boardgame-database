@@ -1,0 +1,57 @@
+id: whirling-witchcraft
+name: "Whirling Witchcraft"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Hand Management
+  - Resource Management
+  - Simultaneous Action
+  - Variable Player Powers
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Erik Andersson Sundén
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Luis Francisco
+  - Weberson Santiago
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Whirling Witchcraft is a competitive engine-building game for 2-5 players in which each player takes the role of a witch managing ingredients at their cauldron workbench. On each round, players simultaneously select recipe cards to craft magical ingredients, then pass overflow ingredients to their neighbor, with the goal of flooding an opponent's cauldron beyond its capacity. The clever "overflow" mechanic means that building a powerful engine can actually harm your neighbor more than yourself, creating satisfying direct interaction without direct conflict.
+
+upgrades: []

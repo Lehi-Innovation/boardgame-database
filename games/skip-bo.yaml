@@ -1,0 +1,52 @@
+id: skip-bo
+name: "Skip-Bo"
+alternate_names: []
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Minnie Hazel Bowman
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 7
+
+description: |
+  Skip-Bo is a sequencing card game created by Minnie Hazel "Skip" Bowman in Brownfield, Texas in 1967, and later acquired by Mattel. Players draw from personal stockpiles and try to play cards in numerical order from 1 to 12 onto shared building piles, using wild Skip-Bo cards to fill gaps. The objective is to be the first to empty your stockpile, and the game's blend of luck and light strategy has kept it popular for decades as one of the most-played card games in the world.
+
+upgrades: []

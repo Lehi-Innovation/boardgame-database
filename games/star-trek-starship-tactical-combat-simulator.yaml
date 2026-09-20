@@ -1,0 +1,53 @@
+id: star-trek-starship-tactical-combat-simulator
+name: "Star Trek: Starship Tactical Combat Simulator"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Forest Brown
+  - David F. Tepool
+  - Wm. John Wheeler
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Star Trek: Starship Tactical Combat Simulator is a 1983 hex-based wargame published by FASA that originated as the space combat component of the Star Trek: The Role Playing Game. Players use ten-sided dice and counters to simulate tactical starship combat in the Star Trek universe, managing power distribution, weapon arcs, phasers, and torpedoes. The game offers Basic and Advanced rules to accommodate players of varying experience levels. Multiple editions were released between 1983 and 1986, and the system gained a dedicated following for its detailed and realistic portrayal of Star Trek space combat.
+
+upgrades: []

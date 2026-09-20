@@ -1,0 +1,62 @@
+id: sword-of-rome
+name: "Sword of Rome"
+alternate_names: ["Sword of Rome: Conquest of Italy"]
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Ancient
+  - Card Drafting
+  - Area Control
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Wray Ferrell
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 600
+min_age: 16
+
+description: |
+  Sword of Rome is a card-driven wargame published by GMT Games simulating the
+  vicious struggles among the peoples of Italy and Sicily in the 4th and 3rd
+  centuries BC. Using GMT's acclaimed card-driven game system, players control
+  one of up to five factions — including Romans, Samnites, Latins, Greek city-
+  states, and Celts — each with a customized deck of 152 event cards that
+  reflect their unique historical strengths. Point-to-point movement and events
+  covering Roman colonies, Gallic raids, siege craft, and war elephants recreate
+  over 100 years of classical history in nine hands of cards. A second edition
+  in 2010 expanded support to five players.
+
+upgrades: []

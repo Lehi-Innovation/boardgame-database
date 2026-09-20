@@ -1,0 +1,54 @@
+id: the-mystic-wood-1980
+name: "The Mystic Wood"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Fantasy
+  - Family
+  - Medieval
+
+evokes:
+  - Discovery
+  - Lucky
+  - Wonder
+  - Tension
+  - Mystery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Terence Peter Donnelly
+publisher:
+  - PhilMar Ltd.
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  The Mystic Wood is a 1980 fantasy board game designed by Terence Peter Donnelly and published by Philmar Ltd. (later republished by Avalon Hill in 1983). Players control knights from the age of chivalry who journey through both normal and enchanted woodland on personal quests, encountering various magical events and challenges along the way. The game features a modular board setup creating different forest layouts each session, with players navigating random encounters in a light adventure game style typical of British family games of the era.
+
+upgrades: []

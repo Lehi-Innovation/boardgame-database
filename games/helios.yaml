@@ -1,0 +1,59 @@
+id: helios
+name: "Helios"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Resource Management
+  - Action Points
+  - Variable Player Powers
+  - Euro
+  - Mythology
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Wonder
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Matthias Prinz
+  - Martin Kallenborn
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+artist:
+  - Claus Stephan
+  - Martin Hoffmann
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Helios is a 2-4 player civilization-building game designed by Martin Kallenborn and Matthias Prinz, published by Hans im Glück in 2014. Players are high priests in a sun-worshipping culture, building personal circular island boards by acquiring and placing hexagonal terrain tiles representing different environments. The central innovation is the sun mechanic — players must spend actions to move the sun around the board, which generates resources only on the lands the sun illuminates, giving the game a unique spatial resource-management layer. Buildings constructed on these tiles provide abilities, mana stones, and victory points, and players must carefully plan their island layouts to maximize solar income and construction efficiency.
+
+upgrades: []

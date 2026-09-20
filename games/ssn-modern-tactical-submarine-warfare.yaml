@@ -1,0 +1,61 @@
+id: ssn-modern-tactical-submarine-warfare
+name: "SSN: Modern Tactical Submarine Warfare"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Simultaneous Action
+  - Historical
+  - Maritime
+  - Hidden Movement
+
+evokes:
+  - Tension
+  - Mystery
+  - Agency
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen Newberg
+  - Marc W. Miller
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 360
+min_age: 14
+
+description: |
+  SSN: Modern Tactical Submarine Warfare is a naval wargame designed by Stephen Newberg and Marc W. Miller,
+  published by Game Designers' Workshop in 1975. Players command Cold War-era submarines and surface fleets on
+  a 1,000-yards-per-hex ocean map. Submarines move secretly off the main map until detected, creating a hidden
+  movement cat-and-mouse dynamic; detection success depends on technology levels and submarine noise signatures.
+  The game includes 15 scenarios ranging from peacetime electronic surveillance to wartime confrontations pitting
+  one submarine against up to 12 surface vessels, with combat resolved on an odds-based CRT using nuclear or
+  conventional weapons.
+
+upgrades: []

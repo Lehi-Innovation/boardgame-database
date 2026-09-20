@@ -1,0 +1,52 @@
+id: tulip-bubble
+name: "Tulip Bubble"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Auctions/Bidding
+  - Historical
+  - Euro
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+  - Humor
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Tulip Bubble is an economic card game published by Moaideas Game Design in 2015, set during the famous Dutch Tulipmania of 1636-1637 — history's first recorded economic bubble. Players speculate and trade on the tulip market, attempting to buy low and sell high while the bubble inflates, then bail out before it bursts. The game captures the frenzy and comedy of speculative fever in a quick, accessible format suitable for family play.
+
+upgrades: []

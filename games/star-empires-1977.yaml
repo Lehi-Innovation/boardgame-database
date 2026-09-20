@@ -1,0 +1,61 @@
+id: star-empires-1977
+name: "Star Empires"
+alternate_names: ["Star Empires: The Game of Galactic Conquest"]
+year: 1977
+
+# Relationships
+game_family: star-probe-empires
+edition: null
+base_game: star-probe
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Resource Management
+  - Economic
+  - Wargame
+  - Events
+  - Sci-Fi
+  - Space
+  - Tech Tree
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - John M. Snider
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  Star Empires is a 1977 board wargame designed by John M. Snider and published by TSR, the second installment
+  in the Star Probe trilogy. Players control civilizations that have just discovered interstellar travel, exploring
+  a star cluster with randomly generated systems while managing economics, research, and fleet battles. Compared
+  to Star Probe, Star Empires expands the scope significantly with added trade-off decisions, fleet-scale combat,
+  and technological development. The planned third game in the series was never published, leaving Star Empires as
+  the finale of TSR's early science-fiction wargame line.
+
+upgrades: []

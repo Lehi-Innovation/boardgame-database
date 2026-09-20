@@ -1,0 +1,65 @@
+id: the-7th-continent
+name: "The 7th Continent"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Modular Board
+  - Campaign Mode
+  - Press Your Luck
+  - Resource Management
+  - Narrative Heavy
+  - Fantasy
+  - Discovery
+
+evokes:
+  - Discovery
+  - Tension
+  - Dread
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Ludovic Roudy
+  - Bruno Sautter
+publisher:
+  - Serious Poulp
+artist: []
+playtime_minutes: 360
+min_playtime: 60
+max_playtime: 1000
+min_age: 14
+
+description: |
+  The 7th Continent is a massive cooperative exploration game in which players are explorers stranded
+  on a mysterious continent who must lift curses placed upon them while surviving the unknown land.
+  The game is built from a giant deck of cards that form the modular board — as players explore,
+  they draw and place cards representing terrain, encounters, and events, creating an ever-expanding
+  world. A unique push-your-luck mechanic governs most actions: players decide how many cards they
+  will draw from the action deck to attempt a task, balancing success probability against depleting
+  the deck, which represents the group's lifespan. A clever card-sorting save system allows campaigns
+  to be paused and resumed. It won the 2017 As d'Or for Best Innovation.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: war-and-peace
+name: "War and Peace"
+alternate_names:
+  - "War and Peace: Game of the Napoleonic Wars 1805-1815"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Campaign Mode
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark McLaughlin
+publisher: []
+artist: []
+playtime_minutes: 720
+min_playtime: 480
+max_playtime: 1200
+min_age: 16
+
+description: |
+  War and Peace: Game of the Napoleonic Wars 1805-1815 is a grand strategic board wargame designed by Mark McLaughlin and published by Avalon Hill in 1980, simulating ten years of Napoleonic conflict across Europe. A Charles S. Roberts Award finalist for Best Pre-Twentieth Century Game of 1980, the game covers the full sweep of Napoleon's empire at its height through its eventual collapse. After Avalon Hill's closure, One Small Step Games acquired the rights and reprinted it in 2020 with a redrawn map, new counters, and added scenarios covering Napoleon's earlier Italian and Egyptian campaigns. It remains a landmark of strategic-level Napoleonic simulation.
+
+upgrades: []

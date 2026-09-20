@@ -1,0 +1,56 @@
+id: strike-of-the-eagle
+name: "Strike of the Eagle"
+alternate_names: ["Fog of War: Strike of the Eagle"]
+year: 2011
+
+# Relationships
+game_family: fog-of-war
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Bluffing
+  - Hand Management
+  - Asymmetric
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Mystery
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Uwe Eickert
+  - Joanna Kijanka
+  - Lukasz Krawczyk
+publisher:
+  - Academy Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 360
+min_age: 14
+
+description: |
+  Strike of the Eagle is a 2011 Academy Games wargame — the first in the Fog of War series — simulating the 1920 Polish-Soviet War. Players place secret orders on the map to bluff and outmaneuver opponents, then reveal and execute them simultaneously. Armies are represented by wooden blocks whose composition remains hidden until battle. Combat is diceless, resolved through a quick card-based system, while action cards modify orders, reinforcements, and battle outcomes. The hidden orders and block system create genuine tension and mind games; the game offers scenarios ranging from an hour-long introduction to a full multi-day campaign.
+
+upgrades: []

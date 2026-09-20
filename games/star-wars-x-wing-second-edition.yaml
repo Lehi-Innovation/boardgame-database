@@ -1,0 +1,55 @@
+id: star-wars-x-wing-second-edition
+name: "Star Wars: X-Wing Second Edition"
+alternate_names: ["Star Wars: X-Wing (Second Edition)"]
+year: 2018
+
+# Relationships
+game_family: star-wars-x-wing
+edition: second
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-75 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Dice Rolling
+  - Variable Player Powers
+  - Fantasy Flight Games
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alex Davy
+  - Frank Brooks
+  - Max Brooke
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Star Wars: X-Wing Second Edition is the 2018 redesign of Fantasy Flight Games' popular starship combat game, streamlining and rebalancing the mechanics of the first edition. The simultaneous-reveal movement system is retained, but faction identities are more strongly differentiated, and the Force is introduced as an important mechanical element affecting flight and pilot abilities. The First Order and Resistance become distinct factions separate from Imperials and Rebels. Extensive errata and point adjustments from the first edition were baked into the fresh rule framework.
+
+upgrades: []

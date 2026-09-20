@@ -1,0 +1,53 @@
+id: war-of-the-worlds-the-new-wave
+name: "War of the Worlds: The New Wave"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Asymmetric
+  - 1 vs Many
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Denis Plastinin
+publisher:
+  - Grey Fox Games
+artist:
+  - Igor Savchenko
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  War of the Worlds: The New Wave is a two-player asymmetric deck-building game published by Grey Fox Games in 2019, inspired by H.G. Wells' classic novel. One player commands the invading Martian war machines while the other leads Earth's defenders in a desperate struggle for survival. Each side builds their deck from different card pools, reflecting their radically different strengths—the Martians bring overwhelming firepower while the humans rely on ingenuity and attrition. The game captures the tension of the original story through tightly balanced asymmetric gameplay on a shared game board.
+
+upgrades: []

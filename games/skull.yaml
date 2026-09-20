@@ -1,0 +1,52 @@
+id: skull
+name: "Skull"
+alternate_names: ["Skull & Roses"]
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 4  # Fierce
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Auctions/Bidding
+  - Social Deduction
+  - Party
+  - Gateway
+  - Filler
+
+evokes:
+  - Tension
+  - Bluffing
+  - Clever
+  - Rivalry
+  - Humor
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Hervé Marly
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Skull is a razor-simple bluffing game for 3-6 players that won the 2011 As d'Or award. Each player places one of their three rose coasters or their single skull coaster face-down, then players bid on how many they can flip over without revealing a skull. Once bidding is done, the highest bidder must flip that many coasters starting with their own — and if they hit a skull, they lose one of their coasters. The first player to win twice wins the game. Skull strips bluffing to its psychological core: pure read-the-table tension with almost no rules to learn.

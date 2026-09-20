@@ -8,6 +8,7 @@ allowed-tools:
   - Write
   - Glob
   - WebSearch
+  - WebFetch
   - Bash(python3 scripts/game_pipeline.py *)
 ---
 
@@ -31,21 +32,22 @@ Research board games and create `games/{slug}.yaml` for each. All reference data
 
 Find Wikipedia, publisher site, and one retailer/review site. **Never use boardgamegeek.com.**
 
-### 2. Run Pipeline (×1)
+### 2. Fetch Content (×2-3)
 
+**Preferred:** Use the pipeline if Bash is available:
 ```bash
 python3 scripts/game_pipeline.py "Game Name" --urls url1 url2 url3 --log game-slug
 ```
 
-Returns JSON: `game_name` and `sources[]` (each: `url`, `source_type`, `text`).
+**Fallback (if Bash unavailable):** Use WebFetch on each URL directly. Fetch Wikipedia and publisher/retailer pages. Extract the relevant text yourself from the returned HTML/text content.
 
 ### 3. Create YAML (Write ×1)
 
-Extract from pipeline output: name, alternate names, year (this edition), designers, publishers, artists, player counts (box + optimal), playtime, min age, mechanics, description, expansion/family relationships.
+Extract from fetched content: name, alternate names, year (this edition), designers, publishers, artists, player counts (box + optimal), playtime, min age, mechanics, description, expansion/family relationships.
 
 Write `games/{slug}.yaml` matching the template below. Slug: lowercase, hyphen-separated (e.g., `ark-nova`). Filename must match `id`.
 
-**Do NOT:** re-read written files, call pipeline more than once, use WebFetch, or read schema.yaml/publishers.yaml.
+**Do NOT:** re-read written files, call pipeline more than once, or read schema.yaml/publishers.yaml.
 
 ## Rating Scales (0-4)
 

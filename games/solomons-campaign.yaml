@@ -1,0 +1,58 @@
+id: solomons-campaign
+name: "Solomons Campaign"
+alternate_names: ["The Solomons Campaign"]
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Solomons Campaign is a board wargame designed by Jim Dunnigan and published by SPI in 1973, subtitled "Air,
+  Land, and Sea Warfare, Pacific 1942." The game simulates the struggle between US and Japanese forces for
+  control of Guadalcanal Island during the pivotal Pacific campaign of World War II. Covering all three service
+  arms simultaneously — air, naval, and ground combat — the game was notable for its scope but placed only 128th
+  out of 202 games in a 1976 SPI player poll. A second edition was later published by Decision Games in 2008
+  via World at War magazine.
+
+upgrades: []

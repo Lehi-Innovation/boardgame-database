@@ -1,0 +1,62 @@
+id: good-cop-bad-cop
+name: "Good Cop Bad Cop"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Deduction
+  - Bluffing
+  - Hidden Movement
+  - Party
+  - Filler
+
+evokes:
+  - Mystery
+  - Tension
+  - Humor
+  - Rivalry
+  - Persuasion
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Brian Henk
+  - Clayton Skancke
+publisher:
+  - Overworld Games
+artist:
+  - Chechu Nieto
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 12
+
+description: |
+  Good Cop Bad Cop is a hidden-identity deduction game set in a corrupted police district
+  where players are either honest cops or crooked criminals. Each player's identity is
+  hidden behind face-down equipment cards, which can be investigated or flipped by various
+  actions. The honest team must identify and eliminate the Kingpin; the corrupt team must
+  eliminate the Agent. Quick investigations, dramatic reveals, and the constant uncertainty
+  about who to trust create a compact and replayable social deduction experience.
+
+upgrades: []

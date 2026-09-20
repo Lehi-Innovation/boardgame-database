@@ -1,0 +1,56 @@
+id: tanbo
+name: "Tanbo"
+alternate_names: ["Rootbound"]
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Steere
+publisher:
+  - Locus Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Tanbo is a two-player abstract strategy game designed by Mark Steere, playable
+  on a Go board (19x19). Players take turns adding stones to form growing
+  "roots" — branching connected groups that cannot form clumps or enclosed areas.
+  When a root runs out of space to grow, it dies and is removed from the board.
+  The objective is to eliminate all of your opponent's roots by cutting off their
+  growth. Originally called Rootbound, Tanbo offers a Go-adjacent experience with
+  its own elegant ruleset, and draws are impossible. It is played in competitive
+  settings internationally.
+
+upgrades: []

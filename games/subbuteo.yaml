@@ -1,0 +1,50 @@
+id: subbuteo
+name: "Subbuteo"
+alternate_names: []
+year: 1947
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Peter Adolph
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  Subbuteo is a tabletop football (soccer) dexterity game invented by Peter Adolph in 1946 and first sold in 1947. Players flick miniature figures mounted on weighted hemispherical bases to simulate the play of association football, following rules closely modeled on the real sport. Hundreds of team kits representing real clubs worldwide are available, giving the game strong collector appeal alongside its skill-based gameplay. The game dominated tabletop sports simulation from the 1960s through the 1980s before video games reduced its popularity.
+
+upgrades: []

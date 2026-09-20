@@ -1,0 +1,54 @@
+id: shifting-sands
+name: "Shifting Sands: The Campaign for North Africa 1940-1943"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Route Building
+  - Events
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dean Essig
+  - Michael Rinella
+publisher:
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 270
+min_playtime: 240
+max_playtime: 300
+min_age: 14
+
+description: |
+  Shifting Sands: The Campaign for North Africa 1940-1943 is a comprehensive operational wargame designed by Dean Essig and Michael Rinella, published by Multi-Man Publishing, covering the entire North African campaign including the Abyssinian Campaign of 1940–41. The game uses a point-to-point movement system and card-driven mechanics to simulate the strategic and logistical challenges faced by Axis and Allied forces across the desert theater. Its combination of historical depth, supply management, and event-driven narrative makes it a landmark title for players seeking an immersive grand-operational WWII experience.
+
+upgrades: []

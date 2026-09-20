@@ -1,0 +1,54 @@
+id: super-mega-lucky-box
+name: "Super Mega Lucky Box"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Pattern Building
+  - Press Your Luck
+  - Cooperative
+  - Family
+  - Gateway
+  - Phil Walker-Harding
+
+evokes:
+  - Lucky
+  - Complete
+  - Connection
+  - Tension
+  - Humor
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Phil Walker-Harding
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Super Mega Lucky Box is a flip-and-write bingo-style game designed by Phil Walker-Harding and published by Gamewright in 2021. Players reveal numbers one by one and cross off matching boxes on their cards, and completing three-in-a-row unlocks bonuses that let players cross off additional boxes and trigger chain reactions of escalating rewards. The shared card-flip creates a satisfying simultaneous play experience where everyone cheers (or groans) together, while individual bonus choices add light strategic decisions. Accessible enough for the whole family yet surprisingly engaging through its cascading bonus system.
+
+upgrades: []

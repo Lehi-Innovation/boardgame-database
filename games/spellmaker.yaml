@@ -1,0 +1,57 @@
+id: spellmaker
+name: "Spellmaker"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Take That
+  - Fantasy
+  - Family
+
+evokes:
+  - Humor
+  - Rivalry
+  - Agency
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Heritage Models
+  - Gametime Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Spellmaker is a fantasy board game published by Heritage Models (Gametime Games) in which rival wizards
+  compete to rescue a princess from a dragon and bring her safely to their castle. Players cast spells from
+  enchanted towers that can transform Giants into Toads, Frogs into Knights, and various other magical
+  transformations to impede opponents or clear a path for the princess. The first wizard to successfully
+  escort the princess to their castle wins this whimsical competition of magical strategy.
+
+upgrades: []

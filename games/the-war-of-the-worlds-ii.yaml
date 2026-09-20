@@ -1,0 +1,53 @@
+id: the-war-of-the-worlds-ii
+name: "The War of the Worlds II"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Aliens
+  - Space
+  - Area Control
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+designer:
+  - Phil Orbanes Sr.
+publisher:
+  - Rand Game Associates
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The War of the Worlds II is a 1974 science fiction board wargame designed by Phil Orbanes Sr. and published by Rand Game Associates for 2-3 players, simulating a scenario of planetary conquest inspired by H.G. Wells' classic novel. Players command alien or human forces in a struggle for dominance that extends the War of the Worlds scenario into a full interplanetary conflict. The game was not commercially successful, placing 198th out of 202 games in a 1976 Simulations Publications poll of the most popular North American wargames.
+
+upgrades: []

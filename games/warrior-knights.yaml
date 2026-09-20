@@ -1,0 +1,57 @@
+id: warrior-knights
+name: "Warrior Knights"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Negotiation
+  - Variable Player Powers
+  - Asymmetric
+  - Historical
+  - Medieval
+  - Ameritrash
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Persuasion
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Corey Konieczka
+  - Bruno Faidutti
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 13
+
+description: |
+  Warrior Knights is a medieval conquest game for 2–6 players originally published by Games Workshop in 1985 and redesigned by Corey Konieczka and Bruno Faidutti for Fantasy Flight Games in 2006. Each player takes the role of a Baron vying to claim the throne of an unnamed kingdom by raising armies, accumulating wealth, and gaining influence. On each turn, players secretly select two tasks from a menu of six per phase—move and attack, gain political strength, hire mercenaries, increase religious faith, and more—with special phases like taxation, Parliament, and a mercenary auction triggered by popular choices. Victory goes to the player who seizes the most cities or accrues the most influence when the Influence pool runs dry.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: viktory-ii
+name: "Viktory II"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Modular Board
+  - Wargame
+  - Historical
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Powerful
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Peter Morrison
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Viktory II is a 2006 fast-paced conquest strategy game designed by Peter Morrison and published by Morrison Games, supporting two to eight players on a randomly generated modular hex map. Inspired by 19th-century Napoleonic warfare, players deploy custom infantry, cavalry, artillery, and frigate units as they compete for dominance through aggressive combined-arms tactics and dice-resolved combat. The game offers two win conditions: player elimination or subjugation through total domination. The modular map ensures that no two games play out identically, providing substantial replay value for fans of direct conquest games.
+
+upgrades: []

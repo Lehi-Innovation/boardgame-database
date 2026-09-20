@@ -1,0 +1,53 @@
+id: werewords
+name: "Werewords"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Word Play
+  - Party
+  - Real-time
+
+evokes:
+  - Tension
+  - Mystery
+  - Humor
+  - Persuasion
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 7, 8]
+
+designer:
+  - Ted Alspach
+publisher:
+  - Bezier Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Werewords is a social deduction word game designed by Ted Alspach and published by Bézier Games in 2017 in which villagers ask yes-or-no questions to a Mayor to guess a secret magic word before time runs out, while a hidden Werewolf tries to mislead them. A companion smartphone app provides over 10,000 words across adjustable difficulty levels and tracks the timer. The Seer role knows the word but must remain subtle enough not to be identified by the Werewolf, who can still win even after the word is guessed by correctly identifying the Seer. Werewords won the 2017 Golden Geek Best Party Game award and plays in under fifteen minutes.
+
+upgrades: []

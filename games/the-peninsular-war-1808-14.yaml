@@ -1,0 +1,51 @@
+id: the-peninsular-war-1808-14
+name: "The Peninsular War 1808-14"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Rostherne Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Peninsular War 1808-14 is a 1973 historical wargame published by Rostherne Games, simulating Napoleon's bloody campaign in the Iberian Peninsula during the Wars of the Seventh Coalition. One player commands the combined allied armies of Britain, Spain, and Portugal led by Wellington, while the other commands the invading French Imperial forces. The game covers the full sweep of the Peninsular campaign, from the initial French invasion through Wellington's eventual liberation of Spain, capturing the guerrilla warfare, supply difficulties, and shifting territorial control that defined this grueling theater of war.
+
+upgrades: []

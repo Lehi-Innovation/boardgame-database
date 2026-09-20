@@ -1,0 +1,53 @@
+id: the-succession-wars
+name: "The Succession Wars"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Sci-Fi
+  - Variable Player Powers
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - L. Ross Babcock III
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  The Succession Wars is a 1987 grand strategy board game published by FASA and designed by L. Ross Babcock III, set in the BattleTech universe's 3025 era during the conflict between the Great Houses of the Inner Sphere. Two to five players take the roles of the five Successor Lords—Katrina Steiner, Hanse Davion, Theodore Kurita, Maximilian Liao, and Janos Marik—competing for dominance of the Inner Sphere through military conquest, political maneuvering, and industrial production. The game serves as the grand strategic layer above BattleTech's tactical mech combat and is prized by BattleTech fans as one of the few games to let players experience the full scope of the 31st century's endless wars.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: warcry
+name: "WarCry"
+alternate_names:
+  - "Warhammer Age of Sigmar: Warcry"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  WarCry is a skirmish wargame released by Games Workshop in 2019 set within the Warhammer Age of Sigmar universe, pitting small warbands of 3–15 miniatures against each other in fast-paced mission-based battles. Players control forces drawn from the chaos warbands of the Eightpoints or other Age of Sigmar factions, fighting for dominance across densely scenery-filled 22" by 30" game boards. Games typically last 30 to 60 minutes, offering a quicker and more accessible entry point into Warhammer gaming compared to large-scale army battles. The starter set introduced the Iron Golems and Untamed Beasts warbands alongside an extensive scenery collection.
+
+upgrades: []

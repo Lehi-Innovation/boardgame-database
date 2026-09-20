@@ -1,0 +1,56 @@
+id: squad-seven
+name: "Squad Seven"
+alternate_names: ["Squad 7"]
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Dexterity
+  - Action Points
+  - Adventure
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - FoxMind
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Squad Seven is a real-time adventure card game published by Foxmind in 2002 with an Indiana Jones-inspired
+  jungle treasure hunt theme. Players manage a squad of seven characters racing to recover Inca treasure from
+  the jungle, guided by an audio CD that sets the game's frantic tempo. A dart gun component adds physical
+  dexterity: shooting the wrong card or encountering a snake card eliminates a squad member, and losing the
+  entire squad means losing the game. The atmospheric soundtrack creates a uniquely immersive real-time pressure.
+
+upgrades: []

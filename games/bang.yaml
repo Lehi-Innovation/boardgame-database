@@ -1,0 +1,56 @@
+id: bang
+name: "BANG!"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: bang
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Hand Management
+  - Take That
+  - Variable Player Powers
+  - Party
+  - Family
+  - Western
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+  - Mystery
+
+possible_counts: [4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Emiliano Sciarra
+publisher:
+  - dV Giochi
+artist: []
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  BANG! is a spaghetti Western-themed social deduction card game for 4–7 players in which everyone receives a secret role—Sheriff, Deputy, Outlaw, or Renegade—with different win conditions. Only the Sheriff's identity is revealed, while all other players must deduce who is friend and who is foe through their actions. Players shoot each other using BANG! cards (subject to weapon range), use Beer to heal, and deploy special one-time effects, while the Sheriff tries to eliminate all Outlaws and the Renegade seeks to be the last one standing. Winner of the 2004 Origins Award for Best Traditional Card Game.
+
+upgrades: []

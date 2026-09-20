@@ -1,0 +1,56 @@
+id: war-on-terror
+name: "War on Terror"
+alternate_names:
+  - "War on Terror: The Boardgame"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Bluffing
+  - Traitor
+  - Events
+  - Ameritrash
+
+evokes:
+  - Tension
+  - Rivalry
+  - Humor
+  - Persuasion
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Andy Tompkins
+  - Andrew Sheerin
+publisher:
+  - TerrorBull Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 17
+
+description: |
+  War on Terror is a satirical strategic board game conceived by Andy Tompkins and Andrew Sheerin and published by TerrorBull Games in 2006, offering biting commentary on post-9/11 geopolitics. Players control empires vying for global dominance while simultaneously managing or becoming insurgent forces, navigating mechanics including suicide bombings, renditions, and regime changes depicted on event cards. The game deliberately blurs the moral line between empire and terrorism, with each player potentially shifting roles during play. It generated significant controversy and faced challenges from retailers due to its provocative subject matter, but built a dedicated audience for its dark humor and strategic depth.
+
+upgrades: []

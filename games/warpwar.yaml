@@ -1,0 +1,52 @@
+id: warpwar
+name: "WarpWar"
+alternate_names:
+  - "Warp War"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Programmed Movement
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard M. Thompson
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  WarpWar is the fourth entry in Metagaming Concepts' MicroGame series, designed by company president Howard M. Thompson and published in 1977. Players design their own starships from a list of standard components by allocating a pool of Build Points, creating a personalized fleet before the actual combat begins. During battle, players write simultaneous orders for each ship, allocating power to weapons, engines, and shields while choosing basic tactics (Attack, Dodge, or Retreat). Reviewed enthusiastically in Dragon magazine in 1978 as "full of fascinating ideas," the game's design-your-own mechanic ensures that no two games play the same way.
+
+upgrades: []

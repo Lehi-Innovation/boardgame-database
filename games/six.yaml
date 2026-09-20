@@ -1,0 +1,51 @@
+id: six
+name: "Six"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Erni Modersheim
+publisher:
+  - FoxMind
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Six is a 2-player abstract strategy game by Erni Modersheim, published by FoxMind, in which players take turns placing hexagonal tiles of their color and try to form one of three winning configurations: a line of six, a triangle of three hexagons at the corners of a larger triangle, or a hexagon ring. Once all tiles are placed without a winner, players shift to a movement phase where they must reposition their own pieces to create a winning shape. The game's portable tile format and evolving board make it a clever, portable abstract with surprising depth.
+
+upgrades: []

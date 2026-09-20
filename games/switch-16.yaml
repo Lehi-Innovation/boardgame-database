@@ -1,0 +1,56 @@
+id: switch-16
+name: "Switch 16"
+alternate_names: ["Switch", "Roll Over 16"]
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Switch 16 is a dice-and-card-shedding game for 2–4 players designed by Anthony
+  Vadasz and originally published by Tomy in 2001, later republished by Goliath,
+  Piatnik, and Pressman Toy Corporation. Players race to be first to discard the
+  number 16 card from their deck by rolling a combination of dice matching the
+  value of the top card. A green Switch die lets the active player swap decks with
+  any opponent, while a red Switch die forces an immediate deck exchange with the
+  player holding the lowest top card — creating chaotic reversals of fortune. The
+  game's simplicity and surprise swaps make it a lively family filler.
+
+upgrades: []

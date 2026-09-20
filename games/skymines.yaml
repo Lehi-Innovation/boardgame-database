@@ -1,0 +1,57 @@
+id: skymines
+name: "Skymines"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Engine Building
+  - Hand Management
+  - Area Control
+  - Action Points
+  - Euro
+  - Sci-Fi
+  - Alexander Pfister
+
+evokes:
+  - Clever
+  - Progress
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Viktor Kobilke
+  - Alexander Pfister
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 110
+min_playtime: 75
+max_playtime: 150
+min_age: 14
+
+description: |
+  Skymines is a deep strategic card game for 1–4 players set in a sci-fi future where players are rival investment firms exploiting the mineral wealth of alien planets and the Moon. Built on a unique card-programming and hand-management system, players invest in one of four space-mining companies, directing their development through carefully sequenced card plays. The game rewards careful planning as actions must be lined up in advance, while the area-majority investment system creates high player interaction as everyone vies to control the most profitable operations. Designed by Alexander Pfister and Viktor Kobilke, Skymines is a reimplementation of the classic Mombasa with a fresh sci-fi skin and refined mechanics.
+
+upgrades: []

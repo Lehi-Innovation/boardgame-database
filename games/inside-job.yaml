@@ -1,0 +1,63 @@
+id: inside-job
+name: "Inside Job"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Traitor
+  - Social Deduction
+  - Cooperative
+  - Teams
+  - Deduction
+  - Espionage
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Clever
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Tanner Simmons
+publisher:
+  - KOSMOS
+artist:
+  - Ralf Sandfuchs
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Inside Job mashes up trick-taking with social deduction by hiding a traitor among the
+  cooperative players. Teams work together to complete mission-based trick-taking objectives,
+  but one player secretly works to sabotage the group's efforts. Unlike standard social
+  deduction games, the traitor's actions are constrained by the hand they're dealt, so
+  suspicion builds through careful analysis of plays rather than simple accusations.
+  The combination of cooperative card play and hidden betrayal creates a uniquely tense
+  and replayable light game from Thames & Kosmos.
+
+upgrades: []

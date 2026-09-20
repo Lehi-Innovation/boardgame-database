@@ -1,0 +1,52 @@
+id: scrabble
+name: "Scrabble"
+alternate_names: []
+year: 1948
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Word Play
+  - Family
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Rivalry
+  - Masterful
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alfred Mosher Butts
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Scrabble is the iconic crossword tile-placement game invented by Alfred Mosher Butts in the 1930s and trademarked in 1948, in which two to four players score points by placing letter tiles onto a 15x15 board to form interconnecting words. Each letter has a point value based on its frequency in English, and special squares double or triple letter or word scores. The game rewards vocabulary, strategic use of premium squares, and efficient rack management, and has become one of the best-selling and most-played board games in history with competitive play organized worldwide.
+
+upgrades: []

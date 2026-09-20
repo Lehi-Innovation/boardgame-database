@@ -1,0 +1,60 @@
+id: tannenberg
+name: "Tannenberg"
+alternate_names: ["Tannenberg: The Introductory Game"]
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Tannenberg is a hex-and-counter board wargame simulating the Battle of
+  Tannenberg on the Eastern Front during World War I, originally published by
+  SPI in 1969. Designed by Jim Dunnigan as a companion to Avalon Hill's 1914,
+  the game uses a straightforward alternating turn system in which each game
+  turn represents three days of combat. A significantly revised version was
+  published in 1978 as a free pull-out game in SPI's Strategy & Tactics
+  magazine, featuring updated mechanics including supply lines and headquarters
+  rules. Modern versions continue the Der Weltkrieg series tradition of simulating
+  World War I Eastern Front operations.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: cubirds
+name: "CuBirds"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Complete
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Alexander
+publisher:
+  - Catch Up Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  CuBirds is a hand-management and set-collection card game for 2–5 players in which players gather flocks of charmingly illustrated cubic birds to fly them home and score. On each turn, a player places cards of the same bird species from their hand onto one of four rows, flanking existing cards of the same type to flock them into their hand—or if not possible, taking all cards they just placed plus one from the row. Players complete sets of birds to keep as scored species, and the first to collect either 7 different species or 3 species with 3+ copies wins. Its simple rules, quick play, and adorable art make it a beloved filler.
+
+upgrades: []

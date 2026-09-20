@@ -1,0 +1,57 @@
+id: square-mile
+name: "Square Mile"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Economic
+  - City Building
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reuben Klamer
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Square Mile is a land development board game designed by Reuben Klamer and published by Milton Bradley in 1962.
+  A 16-tract square mile of land is divided among players, with each player starting with $100,000 and one free
+  tract allocated randomly. An auction round allows players to bid cheaply on additional land; players then
+  develop their tracts with roads and buildings, selling properties at market value when profitable. Considered
+  ahead of its time as a city-building and real estate game, Square Mile anticipated mechanics that would become
+  common in the Euro game era decades later.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: yellow-and-yangtze
+name: "Yellow & Yangtze"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Abstract
+  - Euro
+  - Ancient
+  - Historical
+  - Reiner Knizia
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Grail Games
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+description: |
+  Yellow & Yangtze is Reiner Knizia's 2018 spiritual sibling to Tigris & Euphrates, set in Ancient China during the Warring States period. Players place leader and civilization tiles on a hex grid map, building kingdoms along two great rivers and competing for control of five civilization types — farmers, traders, artisans, soldiers, and priests. Like Tigris & Euphrates, conflicts erupt when kingdoms merge, and players score based on their weakest civilization — the constraining Bottleneck scoring system that punishes specialization. The addition of pagodas and revolts creates new tactical wrinkles while the core mechanisms deliver the same uncompromising strategic depth as its acclaimed predecessor.
+
+upgrades: []

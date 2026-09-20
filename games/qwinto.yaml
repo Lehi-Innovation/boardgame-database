@@ -1,0 +1,53 @@
+id: qwinto
+name: "Qwinto"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Simultaneous Action
+  - Family
+  - Gateway
+  - No Math
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Complete
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Bernhard Lach
+  - Uwe Rapp
+publisher:
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+description: |
+  Qwinto is a fast-paced roll-and-write dice game for 1-5 players from the designers of Qwixx, where everyone plays at the same time. On your turn you choose to roll 1, 2, or 3 colored dice and all players may write the sum in a matching-colored row on their scoresheet — but numbers must increase left to right, and no column may repeat a value. Two failed rolls per player ends the game. The simultaneous participation mechanic and lightning playtime make Qwinto an ideal filler that fits in a pocket.

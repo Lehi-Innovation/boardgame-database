@@ -1,0 +1,58 @@
+id: survival-the-barbarian
+name: "Survival / The Barbarian"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Wargame
+  - Fantasy
+
+evokes:
+  - Tension
+  - Agency
+  - Dread
+  - Lucky
+  - Discovery
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1]
+
+designer: []
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Survival / The Barbarian is a double-feature game from Task Force Games
+  containing two related solitaire-focused titles. In Survival, a crashed scout
+  named Jardine must fight through dangerous wildlife to reach safety, with
+  optional multiplayer scenarios for up to six players. In The Barbarian,
+  one or two players control Vaarn the Barbarian on a quest to recover his
+  grandfather's lost sword and shield, while the second player (or the game
+  system) controls the random monsters encountered along the way. Both games
+  use simple dice-driven combat and are notable for their solitaire design.
+
+upgrades: []

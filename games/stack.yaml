@@ -1,0 +1,50 @@
+id: stack
+name: "Stack"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - BB Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Stack is a 1986 two-player abstract strategy game published by BB Games in which players position and stack pieces on a shared board. The objective is to get one of your pieces onto the opponent's back row and keep it there for one additional turn. Reviewer Eric Solomon praised the game highly, awarding it 4 out of 5 stars and calling it "the best two-player game of its type." The game offers compact, focused strategic play in a small package.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: marabunta
+name: "Marabunta"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Area Control
+  - Animals
+  - Nature
+  - Family
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Marabunta is a 2024 roll-and-write game by Reiner Knizia, published by Space Cowboys, in which two players take on the roles of competing ant queens battling for territorial supremacy. The central mechanic uses an "I Divide, You Choose" system: the active player rolls six dice and splits them into two groups, the opponent chooses one group to use, and the active player takes the other — then both use their dice to expand on their individual roll-and-write sheets. Combining strategic territory control on paper with the tension of knowing your opponent will pick the best half of your roll, it joins Space Cowboys' acclaimed line of two-player games alongside Jaipur and Splendor Duel.
+
+upgrades: []

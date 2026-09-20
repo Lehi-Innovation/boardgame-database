@@ -1,0 +1,62 @@
+id: tail-feathers
+name: "Tail Feathers"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: mice-and-mystics
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Campaign Mode
+  - Asymmetric
+  - Area Control
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Tension
+  - Discovery
+  - Agency
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Jerry Hawthorne
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 9
+
+description: |
+  Tail Feathers is a miniature skirmish game set in the beloved world of Mice
+  and Mystics, published by Plaid Hat Games in 2015. Players command teams of
+  mice and rats mounted on bird miniatures that tilt on flight stands to indicate
+  movement direction, creating a unique physical flight mechanic requiring player
+  skill in maneuvering. Ground troops, pilots, and birds each have their own
+  action cards representing special tricks and maneuvers. Players can enjoy
+  standalone scenarios or link them into a full campaign, with units gaining
+  skills from battle to battle. Miniatures from Mice and Mystics: Sorrow and
+  Remembrance are compatible with this game.
+
+upgrades: []

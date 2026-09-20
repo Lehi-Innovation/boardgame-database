@@ -1,0 +1,48 @@
+id: skat
+name: "Skat"
+alternate_names: []
+year: 1813
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Auctions/Bidding
+  - Bluffing
+  - Hand Management
+
+evokes:
+  - Masterful
+  - Tension
+  - Clever
+  - Lucky
+  - Agency
+
+possible_counts: [3, 4]
+true_counts: [3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Skat is a three-player trick-taking card game devised around 1810 in Altenburg, Germany, and recognized as the national card game of Germany. Played with a 32-card deck, each hand begins with an auction where the winner becomes the declarer and earns the right to pick up two hidden "skat" cards and set discards before choosing a game type (suit, grand, or null). The declarer then plays alone against the other two players working as a team, aiming to capture at least 61 of 120 available trick-points. Skat's auction system and variable game types create one of the deepest bidding games in the trick-taking canon.

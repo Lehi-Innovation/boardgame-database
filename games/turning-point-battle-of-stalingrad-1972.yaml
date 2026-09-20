@@ -1,0 +1,51 @@
+id: turning-point-battle-of-stalingrad-1972
+name: "Turning Point: The Battle of Stalingrad"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Turning Point: The Battle of Stalingrad is an early SPI wargame published in 1972, designed by James F. Dunnigan (Jim Dunnigan) with graphic design by Redmond A. Simonsen. The game applies the "Kursk" movement system — including an extra movement phase for mechanized forces — to the pivotal WWII Eastern Front battle where the German 6th Army was encircled and destroyed. It represented an advance in operational-level game design for its era and established many conventions later used across the genre.
+
+upgrades: []

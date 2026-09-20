@@ -1,0 +1,61 @@
+id: dungeon-roll
+name: "Dungeon Roll"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Hand Management
+  - Variable Player Powers
+  - Fantasy
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Humor
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+designer:
+  - Chris Darden
+publisher:
+  - Tasty Minstrel Games
+artist:
+  - John Ariosa
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Dungeon Roll is a push-your-luck dice game where players form a party by rolling seven
+  dice, then delve into a dungeon by rolling hazard dice to face monsters, traps, and
+  treasure. One player acts as the Dungeon Lord, rolling increasing numbers of dungeon
+  dice based on the depth reached. Players must decide when to press their luck deeper
+  into the dungeon or retreat with their accumulated experience points. Variable hero
+  classes give each player unique abilities and encourage repeated plays.
+
+upgrades: []

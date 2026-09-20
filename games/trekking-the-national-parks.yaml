@@ -1,0 +1,52 @@
+id: trekking-the-national-parks
+name: "Trekking the National Parks"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Route Building
+  - Hand Management
+  - Family
+  - Gateway
+  - Nature
+
+evokes:
+  - Discovery
+  - Progress
+  - Wonder
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Trekking the National Parks is a family strategy game in which players race across a beautifully illustrated map of US National Parks, spending cards to move and collecting trail stones and Park Cards to score points. Cards serve a dual purpose — used for movement or saved to claim specific parks — forcing constant decisions between speed and acquisition. Major parks grant special abilities in addition to victory points, and the variety of scoring paths (stone sets, park claims, area presence) ensure that no single dominant strategy emerges.
+
+upgrades: []

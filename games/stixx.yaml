@@ -1,0 +1,52 @@
+id: stixx
+name: "Stixx"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Hand Management
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Goliath Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Stixx is a fast-playing abstract strategy game by Goliath Games in which players take turns placing or removing sticks from a central bundle, trying to avoid being the one who takes the last stick. The simple premise belies the bluffing and counting strategy involved, as players must calculate how many sticks remain and manipulate opponents into taking the final one. Easy to learn and quick to play, Stixx works well as a light family game or filler.
+
+upgrades: []

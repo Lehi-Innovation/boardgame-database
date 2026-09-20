@@ -1,0 +1,50 @@
+id: thin-ice-1989
+name: "Thin Ice"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Pressman
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Thin Ice is a 1989 dexterity party game by Pressman Toy Corporation in which players take turns using tweezers to place wet marbles on a tissue paper suspended over the gameboard, simulating the dangerous act of walking on thin ice. The player whose marble causes the tissue to break receives a letter; spell out three letters and you are eliminated. The tension of each trembling marble placement and the anticipation of the tissue's imminent failure creates an experience of escalating suspense that made Thin Ice an iconic game of 1990s childhood. Simple, tactile, and genuinely nerve-wracking, it remains a classic dexterity filler.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: transylvania
+name: "Transylvania"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Horror
+  - Vampires
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Powerful
+  - Horror
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Transylvania is an early microgame published by Mayfair Games in 1981 pitting two players against each other — one controlling a vampire lord defending their castle and the other commanding villagers determined to end the vampire's reign. The game ends when evil forces occupy the village for three turns or villagers seize the castle for two turns, making for a short, tense asymmetric struggle. Noted in retrospect for its low-budget production (including cardstock counters and a cover with a misspelled title), it was an early experiment in asymmetric vampire-themed wargaming.
+
+upgrades: []

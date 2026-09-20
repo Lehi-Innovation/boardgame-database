@@ -1,0 +1,54 @@
+id: serenissima-second-edition
+name: "Serenissima (Second Edition)"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: serenissima
+edition: "second"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Trading
+  - Resource Management
+  - Maritime
+  - Historical
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Dominique Ehrhard
+publisher:
+  - Ystari Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Serenissima (Second Edition) is the revised Ystari Games reprint of Dominique Ehrhard's classic 1996 Mediterranean trading and combat game, published in partnership with Asmodee. Players represent merchant families of Renaissance city-states, building fleets, trading commodities between ports across the Mediterranean, and using naval force to raid competitors or defend trade routes. The second edition features updated components and refined rules while preserving the original's blend of economic strategy and opportunistic piracy that made it a Euro classic.
+
+upgrades: []

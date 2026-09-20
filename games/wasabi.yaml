@@ -1,0 +1,54 @@
+id: wasabi
+name: "Wasabi!"
+alternate_names:
+  - "Sushi!"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Hand Management
+  - Pattern Building
+  - Food Theme
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Wasabi! is a 2008 sushi-themed tile-laying game for 2–4 players published by Z-Man Games in which competing chefs complete sushi recipes on a shared board to earn victory points. On each turn, a player places an ingredient tile anywhere on the board and may then play an action card; when ingredient tiles are arranged to match a recipe card's pattern, the recipe scores points. Completing a recipe in the exact order listed on the card earns bonus Wasabi cubes for extra scoring. Special action cards add variety and opportunities for clever interference, making each game a blend of planning, opportunism, and mischief.
+
+upgrades: []

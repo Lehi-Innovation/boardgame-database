@@ -1,0 +1,61 @@
+id: zombies
+name: "Zombies!!!"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Dice Rolling
+  - Modular Board
+  - Take That
+  - Zombies
+  - Horror
+  - Ameritrash
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Todd Breitenstein
+  - Kerry Breitenstein
+publisher:
+  - Twilight Creations
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 15
+
+description: |
+  Zombies!!! is a competitive tile-based survival game in which players build a zombie-infested
+  town as they explore, racing to either collect 25 zombie kills or reach the central helipad tile.
+  Combat is resolved by rolling a single die, and event cards introduce unpredictable take-that
+  moments that disrupt opponents' plans. The modular tile system ensures every game produces a
+  unique town layout. The original game won the 2001 Origins Award for Best Graphic Presentation
+  of a Board Game.
+
+upgrades: []

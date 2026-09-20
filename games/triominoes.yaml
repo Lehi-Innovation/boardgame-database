@@ -1,0 +1,53 @@
+id: triominoes
+name: "Triominoes"
+alternate_names:
+  - "Tri-Ominos"
+  - "Tri-Ominos: The Domino Game With a Three-Sided Twist"
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Allan Cowan
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Triominoes is a triangular variant of dominoes invented by Allan Cowan and first published in 1965 by Pressman Toy Corporation. Each of the 56 tiles is an equilateral triangle with a number (0-5) on each corner, and players take turns matching corners to extend the layout on the table. Points are scored for successful placements, with bonus points for completing triangular "bridges." The game is a family-friendly classic that adds spatial challenge to the familiar domino-matching formula.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: word-on-the-street
+name: "Word on the Street"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: word-on-the-street
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Word Play
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 6, 8]
+
+designer:
+  - Jack Degnan
+publisher:
+  - Out of the Box Publishing
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Word on the Street is a team-based word game for 2+ teams in which letter tiles are arranged along the center of a street-shaped board. On each turn, one team is given a category and has 30 seconds to agree on a word that fits, then slides each letter in that word one space toward their side of the board. Letters that get pushed completely off one side are captured by that team, and the first team to claim 8 letters wins. Described as a mashup of Scrabble, Scattergories, and tug-of-war, it is fast-paced, hilarious, and accessible to players of all trivia knowledge levels.
+
+upgrades: []

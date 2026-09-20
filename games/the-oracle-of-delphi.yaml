@@ -1,0 +1,56 @@
+id: the-oracle-of-delphi
+name: "The Oracle of Delphi"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Modular Board
+  - Variable Player Powers
+  - Action Points
+  - Euro
+  - Mythology
+  - Stefan Feld
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Tasty Minstrel Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Oracle of Delphi is a race game for 2–4 players set in ancient Greek mythology, representing Stefan Feld's distinctive departure from his signature point-salad euro designs. Players receive a quest from Zeus and must sail the Aegean Sea, fulfilling 12 tasks before their opponents do — collecting offerings, defeating monsters, building temples, and making divine sacrifices. Colorful dice determine which island colors you can visit each turn, while an array of divine boons and magical items provide powerful one-off abilities. The game rewards flexible route planning and clever use of special powers in a fast-paced race across a randomized modular board.
+
+upgrades: []

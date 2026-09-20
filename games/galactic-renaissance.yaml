@@ -1,0 +1,54 @@
+id: galactic-renaissance
+name: "Galactic Renaissance"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Area Control
+  - Modular Board
+  - Variable Player Powers
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Progress
+  - Powerful
+  - Clever
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Christian Martinez
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 14
+
+description: |
+  Galactic Renaissance is a 2023 sci-fi area-control and deck-building game by Christian Martinez, published by Matagot, and the second installment in the "Political Trilogy." Players build their team by adding unique specialists to their deck, then use those specialists to discover new planets and systems, reconnect with lost civilizations, expand influence, build embassies, and sow discord in opposing factions. Sending emissaries to new planets triggers a race for diplomatic control, as rivals may counter with their own representatives. With its modular board, variable player powers, and politically charged decision space, Galactic Renaissance rewards strategic long-term thinking across a sprawling interstellar stage.
+
+upgrades: []

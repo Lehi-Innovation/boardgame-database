@@ -1,0 +1,56 @@
+id: ticket-to-ride-northern-lights
+name: "Ticket to Ride: Northern Lights"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Network Building
+  - Family
+  - Euro
+  - Gateway
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Wonder
+  - Progress
+  - Complete
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Ticket to Ride: Northern Lights is a standalone entry in the series covering Denmark, Norway, Sweden, and Finland, functioning as a modern replacement for the Nordic Countries edition. Players build rail and sea routes through fjords, forests, mountains, and capital port cities while also competing for four randomly selected common objective cards that award bonus points at game end. The shared common objectives add a new layer of tension and strategic consideration beyond the classic Ticket to Ride formula.
+
+upgrades: []

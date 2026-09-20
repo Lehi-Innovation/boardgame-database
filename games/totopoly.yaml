@@ -1,0 +1,50 @@
+id: totopoly
+name: "Totopoly"
+alternate_names: []
+year: 1938
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Auctions/Bidding
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Totopoly is a classic British horse racing board game first published by Waddingtons in 1938, played on a distinctive double-sided board. In the first phase players move their horses around a training loop collecting advantage and disadvantage cards; the second phase is the race itself where players may bet on any horse. Named after winners of the Lincolnshire Handicap from 1926–1937 and originally featuring lead horse pieces, the game has been continuously reprinted for nearly a century and remains a nostalgic family favorite in the UK.
+
+upgrades: []

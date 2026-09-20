@@ -1,0 +1,57 @@
+id: simply-cosmic
+name: "Simply Cosmic"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: cosmic-encounter
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Variable Player Powers
+  - Asymmetric
+  - Sci-Fi
+  - Aliens
+  - Space
+
+evokes:
+  - Unique
+  - Powerful
+  - Humor
+  - Tension
+  - Agency
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Bill Norton
+  - Peter Olotka
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Simply Cosmic is an introductory edition of the cult classic Cosmic Encounter published by Mayfair Games in 1995, featuring 8 alien races and new hex-tile galaxy components. In the tradition of Cosmic Encounter, players each take a unique alien species with a power to bend or break one of the game's rules, competing to establish control over the universe through diplomacy, negotiation, and combat. The simplified ruleset and smaller alien roster make it an accessible entry point to one of the most influential and variable negotiation games ever designed.
+
+upgrades: []

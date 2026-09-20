@@ -1,0 +1,48 @@
+id: topple
+name: "Topple"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Topple is a classic balancing board game originally published by Kenner in which players take turns placing colored pieces onto a tiered platform balanced on a spindle, trying to score points without sending the whole structure crashing down. The five-level grid creates increasing instability as more pieces are added, and players must weigh the risk of adding high-scoring pieces to crowded sections against the danger of causing a topple. Continuously reprinted since the early 1970s, it remains a popular family dexterity game encouraging spatial reasoning in young players.
+
+upgrades: []

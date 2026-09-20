@@ -1,0 +1,54 @@
+id: schoko-and-co
+name: "Schoko & Co."
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Resource Management
+  - Euro
+  - Food Theme
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Y. Hirschfeld
+  - G. Monet
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Schoko & Co. is an economic board game published by Schmidt Spiele in 1987 that simulates running a chocolate factory. Players buy raw cocoa, process it into various chocolate products, and sell them at market meetings to distributors, all while managing staff and production costs. The game won the 1986 Concours International de Créateurs de Jeux de Société and was an early example of the economic Euro-style game that would become more prevalent in subsequent decades.
+
+upgrades: []

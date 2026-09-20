@@ -1,0 +1,59 @@
+id: spy-alley
+name: "Spy Alley"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Social Deduction
+  - Set Collection
+  - Racing
+  - Family
+  - Espionage
+
+evokes:
+  - Mystery
+  - Tension
+  - Bluffing
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Spy Alley Partners LLP
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Spy Alley is a Mensa Award-winning deduction and bluffing game published in 1992 in which each player is secretly
+  assigned a nationality and must collect their spy's codebook, disguise, key, and password to win. The challenge
+  is acquiring needed items without revealing your identity — buying decoy items to mislead opponents — while using
+  deductive reasoning to guess rivals' nationalities and eliminate them. Players can make accusations at any time
+  but must spend money to do so; a wrong guess costs resources, while a correct one eliminates the target. Named
+  Australian Game of the Year and a Chicago Tribune Top Ten Game.
+
+upgrades: []

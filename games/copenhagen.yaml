@@ -1,0 +1,55 @@
+id: copenhagen
+name: "Copenhagen"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Pattern Building
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Copenhagen is a tile-placement game for 2–4 players inspired by the colorful building facades of the Nyhavn harbor district in Denmark. Players take turns either collecting pairs of adjacent cards from a shared display, or spending sets of matching cards to purchase polyomino-shaped facade tiles and place them on their personal building board. Completing full rows or columns of your facade earns bonus abilities, and the first player to reach 12 or more points wins. The intuitive rules, attractive Tetris-like tile fitting, and brisk play time make Copenhagen an excellent family and gateway game.
+
+upgrades: []

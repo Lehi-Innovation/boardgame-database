@@ -1,0 +1,63 @@
+id: thats-life
+name: "That's Life!"
+alternate_names: ["Verflixxt!"]
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+  - Euro
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  That's Life! (originally published in Germany as Verflixxt!) is a modern
+  roll-and-move game designed by Wolfgang Kramer and Michael Kiesling,
+  published by Ravensburger. Players move tokens down a shared path of face-up
+  tiles — some positive, some negative — and collect tiles when the last piece
+  leaves them. The twist is that multiple tokens share the same path, giving
+  players genuine choices about which piece to move and when to grab desirable
+  tiles versus avoid bad ones. Nominated for the 2005 Spiel des Jahres, the
+  game modernizes the roll-and-move formula with real strategic decisions.
+
+upgrades: []

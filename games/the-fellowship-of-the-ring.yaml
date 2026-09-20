@@ -1,0 +1,60 @@
+id: the-fellowship-of-the-ring
+name: "The Fellowship of the Ring"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Deduction
+  - Asymmetric
+  - Wargame
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Iron Crown Enterprises
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  The Fellowship of the Ring is a 1983 two-player strategy board game published by Iron Crown
+  Enterprises, the then-holders of the Middle-earth tabletop licensing rights. Using special cards
+  and plastic markers, the game allows for hidden movement and deployment, with certain combats
+  resolving without revealing the identities of the combatants. One player controls Sauron's forces
+  pursuing the Fellowship across Middle-earth while the other commands the heroes trying to reach
+  Mordor. The hidden movement and deduction mechanics create an asymmetric cat-and-mouse experience
+  thematically appropriate to Tolkien's story of the Fellowship trying to travel undetected through
+  a hostile land.
+
+upgrades: []

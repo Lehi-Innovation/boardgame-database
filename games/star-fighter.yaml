@@ -1,0 +1,56 @@
+id: star-fighter
+name: "Star Fighter"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Heritage Models
+  - Gametime Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Star Fighter is a 1978 science fiction board game of tactical space combat published by Heritage Models under
+  the Gametime Games imprint. Two to four players command starfighters in a simple tactical engagement format
+  suitable as an introduction to space wargaming. The game emphasizes accessible rules over simulation depth,
+  making it an entry point for younger players interested in science fiction combat games during the late 1970s
+  space opera golden age.
+
+upgrades: []

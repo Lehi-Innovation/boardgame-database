@@ -1,0 +1,55 @@
+id: qwixx
+name: "Qwixx"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Roll & Write
+  - Simultaneous Action
+  - Family
+  - Party
+  - Filler
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Humor
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Steffen Benndorf
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Qwixx is a fast, engaging dice game for 2–5 players in which everyone participates on every single turn, eliminating downtime. Each player has a personal score sheet with four colored rows of numbers; on each turn the active player rolls six dice (two white, four colored), and all players may cross off the sum of the two white dice on any row, while the active player may additionally cross off one colored die plus one white die. Numbers must be marked in ascending order within each row, and crossing off more numbers unlocks higher scores. Qwixx won the 2013 Spiel des Jahres Recommended award and remains one of the best quick roll-and-write games available.
+
+upgrades: []

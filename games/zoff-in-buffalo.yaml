@@ -1,0 +1,58 @@
+id: zoff-in-buffalo
+name: "Zoff in Buffalo"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Area Control
+  - Hand Management
+  - Bluffing
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Christwart Conrad
+publisher:
+  - F.X. Schmid
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Zoff in Buffalo is a strategic card game in which players compete to graze their cows on limited
+  pastures. Each round, players simultaneously select two of ten cards designating which pastures
+  they will attempt to fill, but the twist is that no two players may have exactly the same number
+  of cows in any given pasture. If a collision occurs when cows are placed, the total is reduced by
+  one. The most cows on pastures at game's end wins, rewarding careful anticipation of opponents'
+  moves.
+
+upgrades: []

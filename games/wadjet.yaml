@@ -1,0 +1,51 @@
+id: wadjet
+name: "Wadjet"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Ancient
+
+evokes:
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Dee Pomerleau
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Wadjet is a 1996 board game designed by Dee Pomerleau and published by Timbuk II, themed around the discovery of Tutankhamun's tomb by Howard Carter and Lord Carnarvon in 1923. Two to four players take the roles of archaeologists exploring Egyptian tombs in search of stolen treasures. The game's Egyptian archaeological adventure setting draws on the mystery and wonder of ancient Egypt to provide a thematic backdrop for its family-accessible mechanics. Named after the protective cobra goddess of ancient Egypt, the game is primarily of interest to collectors of 1990s family games.
+
+upgrades: []

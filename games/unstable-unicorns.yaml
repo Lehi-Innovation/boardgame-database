@@ -1,0 +1,54 @@
+id: unstable-unicorns
+name: "Unstable Unicorns"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Party
+  - Fantasy
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ramy Badie
+publisher: []
+artist:
+  - Ramy Badie
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Unstable Unicorns is a take-that card game designed and illustrated by Ramy Badie, funded on Kickstarter in 2017 where it became the most-funded card game in crowdfunding history at the time. Players race to be the first to assemble seven unicorns in their stable, using magic cards to protect their own herd and sabotage rivals. The whimsical artwork and frequent player-versus-player interaction give the game a chaotic party atmosphere that belies its deceptively strategic card management. A wide range of themed expansion packs and editions has kept the game popular since its retail release.
+
+upgrades: []

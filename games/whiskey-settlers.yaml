@@ -1,0 +1,57 @@
+id: whiskey-settlers
+name: "Whiskey Settlers"
+alternate_names:
+  - "Whisky-Siedler"
+  - "Das Wasser des Lebens"
+year: 1997
+
+# Relationships
+game_family: catan
+edition: "Whisky Promotional Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Trading
+  - Network Building
+  - Negotiation
+  - Modular Board
+  - Euro
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Tension
+  - Unique
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Whiskey Settlers (Whisky-Siedler, "Das Wasser des Lebens") is a promotional thematic variant of The Settlers of Catan created in partnership with Glen Grant distillery and released in 1997. The standard Catan rules are unchanged but the setting is relocated to the Scottish Highlands: players build distilleries instead of settlements and cities, gather resources of barley, wood, stone, and peat, and trade over mountain passes instead of harbor routes. The English occupation forces replace the robber mechanic. Originally released exclusively for members of the Kosmos-Siedler-Club, each copy was packaged in a metal tin along with a miniature bottle of Glen Grant Scotch whisky, making it a prized collector's item.
+
+upgrades: []

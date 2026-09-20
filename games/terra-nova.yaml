@@ -1,0 +1,62 @@
+id: terra-nova
+name: "Terra Nova"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Asymmetric
+  - Euro
+  - Hex Map
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Andreas Faul
+publisher:
+  - KOSMOS
+  - Capstone Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Terra Nova is a streamlined fantasy territory-building game published by
+  KOSMOS and Capstone Games in 2022, designed as an accessible version of
+  Terra Mystica. Up to four players each control one of ten factions — each with
+  unique asymmetric abilities — competing to explore territories, build structures,
+  and fulfill round goals on a hexagonal map. The game simplifies Terra Mystica's
+  complexity while retaining its satisfying faction asymmetry and area control
+  depth, delivering a focused 60–90 minute experience that serves as an excellent
+  gateway to the heavier original. Designed by Andreas Faul, it attracted strong
+  praise for making its predecessor's design more broadly accessible.
+
+upgrades: []

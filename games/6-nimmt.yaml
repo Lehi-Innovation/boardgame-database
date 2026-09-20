@@ -1,0 +1,58 @@
+id: 6-nimmt
+name: "6 nimmt!"
+alternate_names:
+  - "Take 6!"
+  - "Category 5"
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Hand Management
+  - Press Your Luck
+  - Take That
+  - Family
+  - Party
+  - Gateway
+  - Wolfgang Kramer
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  6 nimmt! is a card game for 2–10 players in which everyone simultaneously selects and reveals a card, then places it onto one of four rows on the table. Cards must be placed on the row whose highest card is closest in value to (but lower than) the card being played. If your card becomes the sixth card in a row, you collect those five cards as penalty points. The winner is whoever accumulates the fewest bull's head penalty symbols when any player reaches 66. Winner of the 1994 Deutscher Spiele Preis, it remains a celebrated filler and party game for large groups.
+
+upgrades: []

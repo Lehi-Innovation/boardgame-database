@@ -1,0 +1,50 @@
+id: ultimate-combat
+name: "Ultimate Combat!"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave Long
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Ultimate Combat! is an out-of-print collectible card game designed by judo sensei Dave Long and released in 1995 by Ultimate Games, with cards manufactured by Upper Deck. The game is built around Asian martial arts combat, with players building decks representing fighters and their techniques to compete in head-to-head matches. It was one of the many CCGs that emerged in the wake of Magic: The Gathering's success in the mid-1990s.
+
+upgrades: []

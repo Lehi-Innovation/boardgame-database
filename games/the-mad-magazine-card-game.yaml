@@ -1,0 +1,52 @@
+id: the-mad-magazine-card-game
+name: "The Mad Magazine Card Game"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Party
+  - Family
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Parker Brothers
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  The Mad Magazine Card Game is a 1979 card game published by Parker Brothers that blends the mechanics of UNO and Crazy Eights with Mad Magazine's irreverent humor. Players match cards by number, color, picture, or message to the face-up discard pile, and the goal—like the board game companion—is to get rid of all your cards. The game features Alfred E. Neuman's trademark "What, Me Worry?" attitude throughout its cards, making it a party-friendly filler that captures the magazine's satirical spirit in a simple card game format.
+
+upgrades: []

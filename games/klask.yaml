@@ -1,0 +1,52 @@
+id: klask
+name: "KLASK"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+  - Filler
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mikkel Bertelsen
+publisher:
+  - Klask ApS
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  KLASK is a 2-player dexterity game created by Danish carpenter Mikkel Bertelsen in 2014, often described as a combination of air hockey and foosball. Players use large magnets beneath the playing board to control their striker pieces, steering a small ball into the opponent's goal hole to score points. Scoring also occurs when two or more of the three white magnetic biscuits stick to an opponent's piece, or when a player accidentally pulls their piece into their own goal. Simple to learn but intensely competitive, KLASK rewards quick reflexes and spatial awareness, and has become a staple at gaming cafes and conventions worldwide.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: traber-derby-spiel
+name: "Traber Derby Spiel"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Racing
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Traber Derby Spiel is a German harness racing board game published in 1989 by BURK-Verlag in which eight teams of horses compete around a trotting track. Players race their horses using dice or card mechanics in this family-friendly racing simulation themed around the popular German sport of Trabrennen (trotting racing). The accessible rules and racing theme make it suitable for family play and casual horse racing enthusiasts.
+
+upgrades: []

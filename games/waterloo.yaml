@@ -1,0 +1,53 @@
+id: waterloo
+name: "Waterloo"
+alternate_names:
+  - "Waterloo: Napoleonic Campaign"
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thomas Shaw
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Waterloo is a Napoleonic board wargame published by Avalon Hill in 1962, designed by Thomas Shaw, one of Avalon Hill's earliest designers. Simulating the famous 1815 battle between Napoleon's French forces and the combined Allied army, the game uses a straightforward alternating "I Go, You Go" format where each game turn represents two hours of the battle. Despite its acknowledged lack of strict historicity, the game was praised for more than two decades as fun and playable, remaining in Avalon Hill's catalog until 1990. It stands as one of the foundational titles of the board wargaming hobby and helped establish hex-and-counter wargaming as a genre.
+
+upgrades: []

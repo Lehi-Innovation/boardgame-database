@@ -1,0 +1,57 @@
+id: dinosaur-island
+name: "Dinosaur Island"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Tile Placement
+  - Set Collection
+  - Action Points
+  - Economic
+  - Animals
+  - Family
+
+evokes:
+  - Progress
+  - Humor
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jon Gilmour
+  - Brian Lewis
+publisher:
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Dinosaur Island is a pop-art-styled worker placement game in which players compete to build the most thrilling — and most dangerous — dinosaur theme park, channeling the spirit of Jurassic Park with tongue firmly in cheek. Players draft DNA dice to sequence dinosaur genomes, construct paddocks to house their prehistoric attractions, hire specialists, and upgrade their park's facilities and security measures. Bigger, more dangerous dinosaurs attract more visitors but require better containment; fail to invest in security and your guests become lunch. A park board tracks visitor traffic, thrill level, and incident risk, creating constant tension between pushing for the most exciting exhibits and keeping the body count manageable. The game's bright retro aesthetic and humor make it approachable for families and hobbyists alike.
+
+upgrades: []

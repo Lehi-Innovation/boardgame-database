@@ -1,0 +1,54 @@
+id: the-resistance-2009
+name: "The Resistance"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Simultaneous Action
+  - Party
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Mystery
+  - Persuasion
+  - Dread
+  - Rivalry
+
+possible_counts: [5, 6, 7, 8, 9, 10]
+true_counts: [6, 7, 8]
+
+designer:
+  - Don Eskridge
+publisher:
+  - Indie Boards & Cards
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 13
+
+description: |
+  The Resistance is a 2009 social deduction game designed by Don Eskridge for 5-10 players, in which members of a dystopian resistance movement try to complete covert missions while hidden Imperial Spies sabotage their efforts. Each round, the leader proposes a team for a mission; all players vote to approve or reject the team, then selected team members secretly play success or fail cards to determine the mission's outcome. Unlike Mafia and Werewolf, The Resistance has no player elimination, keeping all players engaged for the full game. Its tight, information-rich design sparked a wave of social deduction games and remains one of the most acclaimed party games ever made.
+
+upgrades: []

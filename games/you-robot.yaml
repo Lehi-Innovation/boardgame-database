@@ -1,0 +1,56 @@
+id: you-robot
+name: "You Robot"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Real-time
+  - Party
+  - Sci-Fi
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Clever
+
+possible_counts: [4, 6, 8, 10]
+true_counts: [6, 8]
+
+designer:
+  - Alain Rivollet
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  You Robot is a real-time team party game in which each team has one Scientist and one Robot.
+  The Scientist must silently direct their Robot partner to adopt a specific physical pose by
+  showing them movement cards — without saying a word. The first team whose Robot correctly
+  strikes the required position earns a point, and the first team to five points wins. The
+  non-verbal communication challenge makes it a hilarious and energetic party experience.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: uncle-chestnuts-table-gype
+name: "Uncle Chestnut's Table Gype"
+alternate_names:
+  - "Table Gype"
+  - "Gype"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 4]
+
+designer:
+  - Paul Nowak
+  - Christopher Nowak
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Uncle Chestnut's Table Gype is a modern realization of a fictional game concept invented by G.K. Chesterton and H.G. Wells over 100 years ago as a joke. Designers Paul and Christopher Nowak (Eternal Revolution) developed it into a real game in which players race to move their dice-pieces — each face showing an icon that dictates how that piece may move — to the opposite home base in a format blending elements of Chinese Checkers and chess. The icons on each die (Flame, Book, Tree, Swords, Hat, and Ear) create unique movement rules, and flipping pieces changes their capabilities, adding a layer of strategic depth to a charmingly literary game concept.
+
+upgrades: []

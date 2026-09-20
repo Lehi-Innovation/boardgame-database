@@ -1,0 +1,56 @@
+id: whale-riders
+name: "Whale Riders"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Racing
+  - Trading
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Progress
+  - Tension
+  - Lucky
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Grail Games
+artist:
+  - Vincent Dutrait
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Whale Riders is a 2021 race-and-market game by Reiner Knizia for 2–6 players, illustrated by Vincent Dutrait, in which players race along the Ice Coast while buying and selling resources to accumulate precious pearls. Each turn a player takes two actions from options including moving their rider, purchasing goods at market, or selling goods for profit; the player who finishes the race having acquired the most valuable pearls wins. Combining a straightforward racing structure with hand-management decisions about when to buy and sell, it works well across player counts as a family gateway title.
+
+upgrades: []

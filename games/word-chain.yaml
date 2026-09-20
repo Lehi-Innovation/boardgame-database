@@ -1,0 +1,50 @@
+id: word-chain
+name: "Word Chain"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - The Game Crafter
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Word Chain is a small card game in which players must say a word that links to the previously spoken word according to rules shown on two drawn cards. Linking rules vary — players might connect words by sharing a first letter, last letter, theme, or other associations — and the chain continues until someone cannot find a valid word or repeats a previous one. Originally a winner of the BoardGameGeek 2019 9-Card Game Print and Play Design Contest (voted best game for 3 or more players), it was subsequently published in an expanded 36-card edition through The Game Crafter with additional categories.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: the-networks
+name: "The Networks"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Set Collection
+  - Hand Management
+  - Economic
+  - Party
+  - Gateway
+
+evokes:
+  - Humor
+  - Clever
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Gil Hova
+publisher:
+  - Formal Ferret Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  The Networks is a light-to-medium economic strategy game in which players compete to build the most successful television network by drafting shows, signing stars, and acquiring ad deals. Each season, players draft new shows from a market of sitcoms, dramas, and news programs, then attach stars and advertisements to boost ratings — the primary scoring currency. Shows age and get cancelled over time, forcing players to constantly refresh their lineup while managing a tight budget. The game's witty TV-industry theme, with deliberately cheesy show names and mock advertisements, gives it a humorous personality that balances the strategic optimization. A solo mode and expansion content add replayability for fans of light economic games.
+
+upgrades: []

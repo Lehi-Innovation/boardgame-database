@@ -1,0 +1,52 @@
+id: room-25
+name: "Room 25"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Traitor
+  - Programmed Movement
+  - Modular Board
+  - Hidden Movement
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Dread
+  - Mystery
+  - Connection
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - François Rouzé
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Room 25 is a cooperative (or hidden traitor) game for 1-6 players set in a deadly futuristic reality TV show, inspired by films like The Cube. Players are trapped in a 5×5 grid of rooms with unknown deadly effects, working together to find the escape room — Room 25 — while a timer counts down. Each turn, players secretly program their actions before revealing them simultaneously, requiring coordination and trust. The optional traitor mode adds paranoia: one or more players secretly work against the group, making every discussion and vote fraught with suspicion.

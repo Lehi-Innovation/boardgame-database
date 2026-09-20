@@ -1,0 +1,62 @@
+id: source-of-the-nile
+name: "Source of the Nile"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Variable Setup
+  - Modular Board
+  - Events
+  - Historical
+  - Discovery
+  - Adventure
+
+evokes:
+  - Discovery
+  - Wonder
+  - Tension
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ross Maker
+  - David Wesely
+publisher:
+  - Discovery Games
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+description: |
+  Source of the Nile is an exploration game designed by Ross Maker and David Wesely, published by Discovery Games
+  in 1978 and later by Avalon Hill. Set in 19th-century Africa from Khartoum to Capetown, players are Victorian
+  explorers tracing expeditions across a hexagonal map that begins blank — terrain, tribes, and events are
+  discovered by drawing cards as each new hex is entered, and players literally draw the landscape with crayons.
+  The goal is to make significant geographical discoveries and return to Europe to publish them, with victory
+  going to the most celebrated explorer. It won two Charles S. Roberts Awards.
+
+upgrades: []

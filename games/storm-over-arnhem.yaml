@@ -1,0 +1,52 @@
+id: storm-over-arnhem
+name: "Storm Over Arnhem"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Courtney Allen
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Storm Over Arnhem is a 1981 Avalon Hill wargame simulating part of Operation Market Garden — the Allied attempt to seize a Rhine River bridgehead at Arnhem in World War II. Designed by Courtney Allen, the game uses an innovative "Area Impulse" system that deliberately simplifies rules (only nine pages) to keep focus on tactical decision-making rather than rule-lookup. One player commands British forces, the other German. The streamlined system proved so popular that Avalon Hill published several follow-up games using it. The game received a Charles S. Roberts Award and a top-100 ranking from Games magazine in 1982.
+
+upgrades: []

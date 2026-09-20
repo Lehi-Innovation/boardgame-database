@@ -1,0 +1,60 @@
+id: spotlight
+name: "Spotlight"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Puzzle Solving
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Connection
+  - Humor
+  - Discovery
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Hjalmar Hach
+  - Lorenzo Silva
+publisher:
+  - Horrible Guild
+artist:
+  - Giulia Ghigini
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Spotlight is a cooperative hidden-object game published by Horrible Guild, designed by Hjalmar Hach and Lorenzo
+  Silva. Each player searches a transparent-layered board with a "magic flashlight" that illuminates dark scenes
+  crowded with absurd characters and items. Under a sand timer, players hunt for as many hidden pictures as
+  possible before time expires, then simultaneously dial in their count and compare it to the true answer. Progress
+  on the scoring track advances with each correct find, but the chasing Moon pawn means falling behind is
+  dangerous. Communication limits and real-time pressure make every round frantic fun.
+
+upgrades: []

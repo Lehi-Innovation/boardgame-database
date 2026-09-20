@@ -1,0 +1,54 @@
+id: claim
+name: "Claim"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: claim
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Set Collection
+  - Family
+  - Gateway
+  - Fantasy
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Scott Almes
+publisher:
+  - White Goblin Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Claim is a two-player trick-taking card game played in two distinct phases across a 52-card deck featuring five fantasy factions: Goblins, Knights, Undead, Dwarves, and Doppelgangers. In Phase 1, players compete to recruit followers into their hand by winning tricks, with each faction's special power potentially active during play; in Phase 2, those recruited followers determine the winner of each faction's vote. The player who wins the vote of at least three factions wins the game, creating a deeply strategic tug-of-war that challenges the notion that two-player trick-taking games can't be exciting.
+
+upgrades: []

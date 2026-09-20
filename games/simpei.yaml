@@ -1,0 +1,51 @@
+id: simpei
+name: "Simpei"
+alternate_names: ["The Ultimate Brain Battle"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Simpei Takahashi
+publisher:
+  - Bandai
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Simpei is a 2-player abstract strategy game designed by Simpei Takahashi and published by Bandai in Japan in 2005. Like other n-in-a-row games but with two key innovations: the board has both an upper and lower "world," and players can freely move opponent pieces that are flanked (clipped) by their own pieces — a capturing mechanic that creates entirely new strategic possibilities. The game was selected as a problem for the Games and Puzzles Competitions on Computers (GPCC) and studied in academic research on abstract game complexity.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: vegas-showdown
+name: "Vegas Showdown"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Tile Placement
+  - Economic
+  - Euro
+  - Gateway
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Henry Stern
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Vegas Showdown is a 2005 board game designed by Henry Stern and published by Avalon Hill in which 3–5 players compete to build the most lucrative casino hotel. Players bid at auction for room tiles — slots, restaurants, lounges, and entertainment venues — and place them into their growing casino floor plan, trying to attract the most visitors and earn the most profit. The combination of auction dynamics and spatial tile-placement gives the game both a competitive bidding layer and a satisfying puzzle of optimising your floor layout. It became a cult favourite for its approachable design and remains a popular gateway to auction-mechanic games.
+
+upgrades: []

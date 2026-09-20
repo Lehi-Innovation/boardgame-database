@@ -1,0 +1,55 @@
+id: shootout-at-the-saloon
+name: "Bounty Hunter: Shootout at the Saloon"
+alternate_names: ["Shootout at the Saloon"]
+year: 1982
+
+# Relationships
+game_family: bounty-hunter
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Western
+  - Historical
+  - Action Points
+  - Programmed Movement
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alfred Leonardi
+  - Joe Angiolillo
+  - Mike Vitale
+publisher:
+  - Nova Game Designs
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Bounty Hunter: Shootout at the Saloon is a 1982 tactical Western gunfight game published by Nova Game Designs, using the same innovative picture-book system as the air combat game Ace of Aces — players resolve combat by simultaneously turning to pages in opposing illustrated books, with each page depicting a scene from the opponent's point of view. Designed by Alfred Leonardi, Joe Angiolillo, and Mike Vitale, the game simulates man-to-man gunfights in an Old West setting without the need for a board or counters. The picture-book mechanic creates an immersive, simultaneous action experience that minimizes downtime and maximizes tension.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: scroubabble
+name: "Scroubabble"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Creative
+  - Party
+  - Abstract
+
+evokes:
+  - Creative
+  - Humor
+  - Connection
+  - Clever
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - L'Association
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Scroubabble is a creative comics-making game published by the French publisher L'Association in 2005, inspired by the structure of Scrabble. Instead of words, players draw comic strip tiles and lay them down on a shared board to form intersecting narrative sequences, similar to how Scrabble words cross each other on a grid. Each new strip must connect meaningfully with existing strips at the intersection point, creating a collaborative and spontaneous comics anthology. The game appeals to fans of sequential art and collaborative storytelling.
+
+upgrades: []

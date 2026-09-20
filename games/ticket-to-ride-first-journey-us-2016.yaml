@@ -1,0 +1,55 @@
+id: ticket-to-ride-first-journey-us-2016
+name: "Ticket to Ride: First Journey (U.S.)"
+alternate_names: ["Ticket to Ride: My First Journey (U.S.)"]
+year: 2016
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Complete
+  - Connection
+  - Wonder
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Ticket to Ride: First Journey (U.S.) is a 2016 children's standalone entry in the Ticket to Ride series by Alan R. Moon and Days of Wonder, designed as the perfect introduction to the franchise for players ages 6 and up. Set on a simplified map of the United States, players collect colored train cards to claim routes connecting cities on their tickets, with the first player to complete six tickets winning the game. Bigger pieces, shorter connections, simpler rules, and a 15-30 minute play time make it extremely accessible for young children and family game nights.
+
+upgrades: []

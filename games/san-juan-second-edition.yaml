@@ -1,0 +1,58 @@
+id: san-juan-second-edition
+name: "San Juan (Second Edition)"
+alternate_names:
+  - "San Juan"
+year: 2014
+
+# Relationships
+game_family: puerto-rico
+edition: second-edition
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Engine Building
+  - Tableau Building
+  - Set Collection
+  - Card Drafting
+  - Euro
+  - Gateway
+  - Rio Grande Games
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Andreas Seyfarth
+publisher:
+  - Alea
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  San Juan Second Edition is a 2014 update of Andreas Seyfarth's beloved card game adaptation of Puerto Rico, published by Alea. Players build a colonial city using a 110-card deck that functions simultaneously as the building supply, the currency for construction, and the victory point tracker. The role-selection mechanic from Puerto Rico is preserved — each round one player selects from roles like Builder, Producer, and Trader, with all players participating but the selector gaining a bonus. The second edition adds new building cards that expand strategic options while preserving the elegant, fast-playing core. It remains one of the finest card games in the genre.
+
+upgrades: []

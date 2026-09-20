@@ -1,0 +1,50 @@
+id: war-of-the-star-slavers
+name: "War of the Star Slavers"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Area Control
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Unique
+
+possible_counts: [2, 3]
+true_counts: [3]
+
+designer:
+  - Dave Casciano
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  War of the Star Slavers is a science fiction wargame designed by Dave Casciano in which players take on the roles of competing interstellar empires or become Star Slavers raiding across the galaxy. Reviewed in White Dwarf magazine in 1977, it is a relatively obscure title from the early era of science fiction board wargames. Players navigate asymmetric factions with distinct capabilities as they battle for control of star systems, reflecting the pulpy space opera themes popular in gaming of that period.
+
+upgrades: []

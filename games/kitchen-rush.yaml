@@ -1,0 +1,54 @@
+id: kitchen-rush
+name: "Kitchen Rush"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Worker Placement
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Connection
+  - Agency
+  - Humor
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Vangelis Bagiartakis
+  - Dávid Turczi
+publisher:
+  - Artipia Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Kitchen Rush is a real-time cooperative worker placement game that plunges players into the chaos of running a busy restaurant kitchen under time pressure. Each player controls two sand timers that serve as workers — when placed on a kitchen station to take an order, gather ingredients, cook a dish, or wash plates, the timer must run out before the worker can be moved again. Players simultaneously scramble around the board, communicating and coordinating to fulfill customer orders before time runs out. The game includes scenario-based progression with increasing complexity and different kitchen layouts, making it accessible yet escalatingly challenging. A revised edition was later published by Pegasus Spiele.
+
+upgrades: []

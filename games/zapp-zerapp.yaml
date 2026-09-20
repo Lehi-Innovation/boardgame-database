@@ -1,0 +1,58 @@
+id: zapp-zerapp
+name: "Zapp Zerapp"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Dice Rolling
+  - Family
+  - Party
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Heinz Meister
+  - Klaus Zoch
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 7
+
+description: |
+  Zapp Zerapp is a family game in which two dice are rolled and players simultaneously shake
+  small wooden containers — each holding one to thirteen lead pellets — trying to select the one
+  with the highest number that does not exceed the dice total. Players move pawns around the
+  board, with the goal of reaching safety, while jumped pawns return to start. The tactile guessing
+  mechanic of estimating pellet counts creates lively, tactile fun. The game won the Deutscher
+  Kinderspielepreis in 2001.
+
+upgrades: []

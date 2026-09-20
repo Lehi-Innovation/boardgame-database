@@ -1,0 +1,56 @@
+id: third-crusade-2024
+name: "Third Crusade"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Auctions/Bidding
+  - Negotiation
+  - Bluffing
+  - Historical
+  - Medieval
+  - War
+  - Programmed Movement
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Kieran Symington
+publisher:
+  - Ion Game Design
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Third Crusade is a 2024 medieval strategy game designed by Kieran Symington and published by Ion Game Design, set during the early 1190s conflict for the Holy Land. Two to four players lead factions of either the Muslim or Crusader Alliance across three years of campaign, with each year divided into four rounds of five phases. Players secretly issue simultaneous commands, negotiate alliances, and employ battlefield deception to outmaneuver rivals across a shifting map. The combination of hidden orders, diplomatic negotiation, and bidding for tactical advantage makes this an accessible but strategically deep debut design from first-time designer Symington.
+
+upgrades: []

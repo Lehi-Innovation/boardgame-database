@@ -1,0 +1,65 @@
+id: tainted-grail-the-fall-of-avalon
+name: "Tainted Grail: The Fall of Avalon"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: tainted-grail
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Deck Building
+  - Narrative Heavy
+  - Fantasy
+  - Dungeon Crawler
+  - Mythology
+
+evokes:
+  - Discovery
+  - Dread
+  - Mystery
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Krzysztof Piskorski
+  - Marcin Świerkot
+publisher:
+  - Awaken Realms
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Tainted Grail: The Fall of Avalon is a solo and cooperative adventure game
+  published by Awaken Realms in which players explore a dark, crumbling vision
+  of Arthurian Britain blended with Celtic mythology. Each session follows a
+  non-linear narrative with branching choices where resource management is
+  critical — menhirs with numbered dials create an artificial time limit,
+  pushing players to act before the world deteriorates further. Combat and
+  diplomatic encounters each have dedicated card mechanics, and characters grow
+  through experience and deck improvements across a 30–50 hour campaign.
+  The game is renowned for its immersive storytelling, stunning production
+  quality, and dark thematic depth.
+
+upgrades: []

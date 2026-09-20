@@ -1,0 +1,52 @@
+id: unanimo
+name: "Unanimo"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Word Play
+
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Tension
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [6, 8]
+
+designer:
+  - Theo Coster
+  - Ora Coster
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Unanimo is a party word association game designed by Theo and Ora Coster (creators of Guess Who?) and published in 1990. Players simultaneously write down eight words they associate with the theme on the current card, then score points for each word that another player also wrote. The twist: you want to think like everyone else, not uniquely. The game rewards common cultural knowledge and group mentality over cleverness, creating a fun, social experience. Published in multiple editions by Ravensburger, Cocktail Games, and others worldwide.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: the-color-monster
+name: "The Color Monster"
+alternate_names:
+  - "The Colour Monster"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Family
+  - Animals
+
+evokes:
+  - Connection
+  - Clever
+  - Lucky
+  - Humor
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Devir
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 4
+
+description: |
+  The Color Monster is a cooperative children's board game published by Devir, based on the popular
+  picture book by Anna Llenas about a monster who has mixed up all his feelings and needs help
+  sorting them out. Players roll dice to move the Monster around the board, collecting emotion
+  tokens and returning them to the correct color-coded jars. The game is designed to gently
+  introduce young children to emotional literacy concepts — identifying, naming, and categorizing
+  feelings — in a playful and approachable format. Simple cooperative mechanics make it an
+  excellent first game for preschoolers and a valuable tool for parents and educators.
+
+upgrades: []

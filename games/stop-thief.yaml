@@ -1,0 +1,52 @@
+id: stop-thief
+name: "Stop Thief"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Deduction
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Robert Doyle
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Stop Thief is a 1979 Parker Brothers deduction game featuring a battery-powered electronic Crime Scanner that tracks an invisible computer-controlled thief. Players roll dice to move their detective pawns across a board of buildings and streets, using sound clues from the scanner to determine which building or street the thief just robbed. Sleuth cards allow players to take money from opponents, skip turns, or get tips on the thief's location. The first detective to collect $2,500 in reward money wins. The game was faithfully reimagined by Restoration Games in 2017.
+
+upgrades: []

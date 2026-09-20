@@ -1,0 +1,54 @@
+id: unlock-mythic-adventures
+name: "Unlock! Mythic Adventures"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: "unlock"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Family
+  - Mythology
+
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Wonder
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Unlock! Mythic Adventures is the eighth volume in the Unlock! cooperative escape-room card game series by Space Cowboys. The box contains three distinct one-hour scenarios: an excursion into the underworld of mythic Greece, a zany adventure with Professor Noside's animal-transformation machine, and a Jules Verne-inspired race around the world against the clock. Players use a deck of illustrated cards and the free companion app to search scenes, combine objects, and input solutions, competing against a countdown timer as a team.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: vinci
+name: "Vinci"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Civilization
+  - Variable Player Powers
+  - Euro
+  - Historical
+
+evokes:
+  - Progress
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Philippe Keyaerts
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Vinci is a 1999 area-control civilisation game designed by Philippe Keyaerts and published by Jeux Descartes, in which players guide successive civilisations through cycles of expansion and decline across a map of Europe. Each civilisation is formed by combining two randomly paired special powers, creating a unique faction each game. Players expand their civilization's territories until growth slows, at which point they voluntarily trigger a decline — locking in their score from existing holdings — and then adopt an entirely new civilisation to conquer fresh lands. This ingenious decline mechanic was later re-implemented with a fantasy theme as the hit game Small World (2009).
+
+upgrades: []

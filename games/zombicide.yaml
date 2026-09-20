@@ -1,0 +1,64 @@
+id: zombicide
+name: "Zombicide"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: zombicide
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Zombies
+  - Dungeon Crawler
+  - CMON
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Raphaël Guiton
+  - Jean-Baptiste Lullien
+  - Nicolas Raoult
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Zombicide is a fully cooperative miniature board game for one to six players in which survivors
+  battle through scenario-based missions against ever-growing zombie hordes. Each survivor has
+  unique abilities and three action points per turn for moving, searching, and fighting, while
+  zombie movement and attacks are programmed entirely by the game's rules — predictable but
+  relentless. As survivors eliminate zombies they gain experience and grow more powerful, but this
+  also escalates the zombie threat, creating the series' defining tension of growing stronger while
+  the danger intensifies.
+
+upgrades: []

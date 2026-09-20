@@ -1,0 +1,56 @@
+id: automobiles
+name: "Automobiles"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Deck Building
+  - Racing
+  - Engine Building
+  - Hand Management
+  - Modular Board
+  - Family
+
+evokes:
+  - Progress
+  - Lucky
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - David Short
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Grzegorz Bobrowski
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Automobiles is a bag-building racing game for 2-6 players from AEG, the third title in the Destination Fun series alongside Trains and Planes. Each player builds a personal pool of colored cubes representing different abilities — moving their car, improving handling, optimizing their pit crew, and changing gears — and draws a hand of cubes each turn to take actions. Unlike traditional deck builders, the physical randomness of pulling cubes from a bag adds a tactile push-your-luck element as players try to draw the right combination for each situation. The racing track modular board changes each game, and players must balance investing in their cube pool against actually advancing their car around the circuit.
+
+upgrades: []

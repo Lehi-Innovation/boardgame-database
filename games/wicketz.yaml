@@ -1,0 +1,52 @@
+id: wicketz
+name: "Wicketz"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Simulation
+  - Historical
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alf Compton
+publisher:
+  - RDA Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 10
+
+description: |
+  Wicketz is a cricket simulation board game designed by Alf Compton and first published in 1988-1989, simulating the sport with impressive depth using 246 playing cards that provide twelve batting strokes and nine bowling deliveries. The bowler selects pace or spin, draws a card to deliver, and the batsman responds based on cards drawn, with dice determining outcomes. The game supports various match formats from 40-over games to full two-innings Test matches, making it a detailed recreation of cricket for enthusiasts of the sport.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: verdant
+name: "Verdant"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Tile Placement
+  - Pattern Building
+  - Nature
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Complete
+  - Wonder
+  - Clever
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Verdant is a set-collection tile-placement game designed by Molly Johnson, Robert Melvin, Aaron Mesburne, Kevin Russ, and Shawn Stankewich (the team behind Cascadia), published by Flatout Games and AEG in 2022. Players act as houseplant collectors arranging plant cards and pot tokens in their living spaces to maximize points through spatial adjacency, matching light requirements, and building healthy plant groupings. The beautiful artwork by Beth Sobel and the satisfying puzzle of optimizing your indoor garden gives Verdant a cozy, meditative feel while still offering genuine strategic decisions about which plants to acquire and where to place them.
+
+upgrades: []

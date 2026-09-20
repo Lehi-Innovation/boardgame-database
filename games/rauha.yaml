@@ -1,0 +1,55 @@
+id: rauha
+name: "Rauha"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Engine Building
+  - Pattern Building
+  - Tile Placement
+  - Variable Player Powers
+  - Simultaneous Action
+  - Euro
+  - Nature
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Johannes Goupy
+  - Théo Rivière
+publisher:
+  - GRRRE Games
+artist: []
+playtime_minutes: 45
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+description: |
+  Rauha is a competitive engine-building card-drafting game for 1-5 players in which each player is a Shaman building a diverse planetary biome. Players select biome cards and place them in their board; at the end of each turn, activating a row or column triggers special spore abilities that accumulate into powerful combo chains. Variable player powers and simultaneous action selection keep the pace lively, while the stacking engine of spore activations rewards players who think several turns ahead. Its nature-themed artwork and satisfying combo mechanics have made it a standout from 2023.

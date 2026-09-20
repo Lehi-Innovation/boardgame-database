@@ -1,0 +1,52 @@
+id: schatz-rabatz
+name: "Schatz-Rabatz"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Dexterity
+  - Family
+  - Set Collection
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Karin Hetling
+publisher:
+  - Noris Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Schatz-Rabatz is a real-time children's game designed by Karin Hetling, nominated for the Kinderspiel des Jahres, in which all players simultaneously snatch treasure objects from the center of the table and pack them into their chests before the sand timer runs out. After time expires, a treasure card is revealed showing which items count that round, and only players who have the matching items in their closable chest score ship pieces. The game's frantic simultaneous grabbing and the randomized reveal of valuable items makes it a chaotic and exciting game for young children.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: the-keep
+name: "The Keep"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Asymmetric
+  - Variable Player Powers
+  - Dungeon Crawler
+  - Horror
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Rivalry
+  - Powerful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - James D. Griffin
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Keep is a 1983 Mayfair Games board game designed by James D. Griffin, based on the Michael
+  Mann horror film of the same year. One player controls the evil demon Molasar who has been
+  accidentally released from his ancient prison, while two to five other players are adventurers
+  with twelve turns to find the Hilt — the only weapon capable of destroying him. The 1 vs Many
+  structure and time pressure of the twelve-turn limit creates tense asymmetric gameplay where
+  the adventurers must coordinate their search while Molasar hunts them through the keep.
+
+upgrades: []

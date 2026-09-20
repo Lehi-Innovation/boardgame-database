@@ -1,0 +1,64 @@
+id: evolution
+name: "Evolution"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Card Drafting
+  - Variable Player Powers
+  - Resource Management
+  - Take That
+  - Nature
+  - Animals
+  - Family
+
+evokes:
+  - Agency
+  - Clever
+  - Powerful
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Dominic Crapuchettes
+  - Dmitry Knorre
+  - Sergei Machin
+publisher:
+  - North Star Games
+artist:
+  - Catherine Hamilton
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Evolution is a dynamic strategy game where 2-6 players build species and adapt them
+  to a constantly changing ecosystem. Players use cards to add traits like horns, camouflage,
+  or carnivore status to their species, growing populations and body sizes to compete for
+  limited food. Carnivores can attack smaller species, creating a thrilling predator-prey
+  dynamic that forces everyone to adapt or face extinction. The emergent ecosystem that
+  develops from players' decisions makes every game feel like a unique natural experiment.
+
+upgrades: []

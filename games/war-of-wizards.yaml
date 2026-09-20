@@ -1,0 +1,51 @@
+id: war-of-wizards
+name: "War of Wizards"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Unique
+  - Dread
+
+possible_counts: [2, 4]
+true_counts: [2, 4]
+
+designer:
+  - M. A. R. Barker
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  War of Wizards is TSR's first publication set in M.A.R. Barker's world of Tékumel, predating Empire of the Petal Throne by a few months and released in 1975. The game simulates one-on-one or two-on-two magical duels between mighty sorcerers in the Hirilákte Arenas of Tékumel. Gameplay is characterized by high variability—critics noted that a single dexterity roll at the game's start can determine a player's saving throw ability for the entire session—creating chaotic, unpredictable magical battles.
+
+upgrades: []

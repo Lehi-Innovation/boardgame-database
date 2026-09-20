@@ -1,0 +1,51 @@
+id: tiwanaku
+name: "Tiwanaku"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Tile Placement
+  - Agriculture
+  - Euro
+
+evokes:
+  - Mystery
+  - Clever
+  - Discovery
+  - Tension
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Tiwanaku is a deduction and exploration game designed by Olivier Grégoire and published by Sit Down! in 2022, themed around the ancient Andean civilization. Players explore a hidden map of crop fields, using logic to deduce which crops are planted in which areas — like Sudoku meets Minesweeper. Each turn, players place exploration tokens and gather clues to piece together the hidden layout, then score points for correctly identifying completed fields. Solo-playable and beautifully illustrated with Andean mythology, Tiwanaku rewards methodical deductive reasoning over the course of a deeply satisfying puzzle game experience.
+
+upgrades: []

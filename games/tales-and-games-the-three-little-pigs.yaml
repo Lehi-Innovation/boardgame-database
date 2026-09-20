@@ -1,0 +1,60 @@
+id: tales-and-games-the-three-little-pigs
+name: "Tales & Games: The Three Little Pigs"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: tales-and-games
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Laurent Pouchain
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 7
+
+description: |
+  Tales & Games: The Three Little Pigs is a family dice game published by IELLO
+  inspired by the classic fairy tale. Players roll special pink dice up to three
+  times per turn, attempting to generate matching symbols that can be traded for
+  house-building materials — straw, wood, and brick doors, windows, and roofs.
+  Different material combinations yield different point values, creating push-
+  your-luck decisions as players decide when to stop rolling. The game's cheerful
+  art and simple dice mechanics make it an ideal introduction to press-your-luck
+  gameplay for younger players.
+
+upgrades: []

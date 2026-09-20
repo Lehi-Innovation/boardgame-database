@@ -1,0 +1,51 @@
+id: tonkin
+name: "Tonkin"
+alternate_names:
+  - "Tonkin: The First Indochina War 1950-1954"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Tonkin covers the critical 1950–1954 period of the French-Indochina War in northern Vietnam and Laos, pitting French forces with artillery, air support, and motorized mobility against highly mobile Viet Minh units skilled at jungle ambush. Both players manage a limited pool of operation points and supply dumps, spending them to perform movement, combat, and logistics in a system where careful timing of actions is essential. Originally published in Vae Victis magazine and later by Legion Wargames, Tonkin is considered one of the finest wargames on the Indochina conflict.
+
+upgrades: []

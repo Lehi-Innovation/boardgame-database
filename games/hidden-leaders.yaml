@@ -1,0 +1,65 @@
+id: hidden-leaders
+name: "Hidden Leaders"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Social Deduction
+  - Deduction
+  - Traitor
+  - Take That
+  - Fantasy
+  - Party
+  - Filler
+
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Andreas Müller
+  - Markus Müller
+  - Raphael Stocker
+publisher:
+  - BFF Games
+artist:
+  - Dominik Mayer
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Hidden Leaders is a fast card game combining hidden-role deduction with tableau building.
+  Two factions—light and dark—fight for dominance through heroes played to a shared track,
+  while each player secretly backs one faction's victory. Players simultaneously build their
+  own tableau of heroes while influencing the tug-of-war track, but must be careful not to
+  reveal their allegiance prematurely. The winning condition depends on both the faction
+  that wins the war and which players were secretly supporting it, creating layered social
+  deduction in a surprisingly compact package.
+
+upgrades: []

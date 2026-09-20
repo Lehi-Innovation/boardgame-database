@@ -1,0 +1,66 @@
+id: high-season-grand-hotel-roll-and-write
+name: "High Season: Grand Hotel Roll & Write"
+alternate_names:
+  - "Grand Austria Hotel: High Season"
+year: 2023
+
+# Relationships
+game_family: grand-austria-hotel
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Drafting
+  - Engine Building
+  - Worker Placement
+  - Euro
+  - Historical
+  - Simone Luciani
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3]
+
+designer:
+  - Virginio Gigli
+  - Ryan Hendrickson
+  - Simone Luciani
+publisher:
+  - Lookout Games
+artist:
+  - Klemens Franz
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  High Season: Grand Hotel Roll & Write brings the beloved management puzzle of Grand
+  Austria Hotel to a flip-and-fill format. Over seven rounds, players draft dice from
+  a shared action board—placing them on spaces 1-6—to prepare rooms, accommodate guests,
+  hire staff, manage finances, and court the Emperor's favor on their personal hotel
+  sheets. The interplay between dice drafting and engine-building on paper captures much
+  of the original game's strategic richness while dramatically reducing setup time and
+  allowing simultaneous play.
+
+upgrades: []

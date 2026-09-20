@@ -1,0 +1,54 @@
+id: sherwood-forest
+name: "Sherwood Forest"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Hand Management
+  - Medieval
+  - Historical
+  - Euro
+
+evokes:
+  - Persuasion
+  - Humor
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Nils Finkemeyer
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Sherwood Forest is a negotiation and bluffing game designed by Nils Finkemeyer and published by eggertspiele/Rio Grande Games in 2009, in which players compete to be the most successful outlaw leader by robbing nobles and donating the most valuable spoils to the poor. Players use fighting, negotiation, and bluffing to outwit rivals when waylaying noble carriages, forming temporary alliances and betraying them as needed. The Robin Hood theme and quick negotiation mechanics make it an engaging social game for groups who enjoy light conflict and deal-making.
+
+upgrades: []

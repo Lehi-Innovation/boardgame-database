@@ -1,0 +1,52 @@
+id: the-lords-of-underearth
+name: "The Lords of Underearth"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Keith Gross
+publisher:
+  - Metagaming
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Lords of Underearth is a 1981 microgame (MicroGame #18) published by Metagaming Concepts and designed by Keith Gross. Two players command forces of orcs, dwarves, humans, and monsters battling in a subterranean labyrinth in a fast-playing fantasy tactical combat game. The rules cover solitaire play, surprise attacks, pursuit, morale, locked doors, flight, treasure, and mercenaries—packing considerable depth into the microgame format. It also has a companion game called Dragons of Underearth, and the compact design made it accessible as an entry point to wargaming for fantasy fans.
+
+upgrades: []

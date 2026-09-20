@@ -1,0 +1,60 @@
+id: the-enchanted-tower
+name: "The Enchanted Tower"
+alternate_names:
+  - "Der verzauberte Turm"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Family
+  - Fantasy
+  - Puzzle Solving
+
+evokes:
+  - Wonder
+  - Discovery
+  - Tension
+  - Connection
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Drei Magier Spiele
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  The Enchanted Tower (Der verzauberte Turm) is a cooperative children's game by Inka and Markus
+  Brand, published by Drei Magier Spiele in 2012 and winner of the 2013 Kinderspiel des Jahres.
+  Players work together to find a magic key and rescue the princess locked in the tower before
+  the evil wizard catches them. The game uses a unique hidden memory mechanic — the tower hides
+  the key somewhere beneath it and players must remember where they've searched before. A spinner
+  governs movement and an elfin helper can speed the children along. The cooperative design and
+  age-appropriate challenge made it an instant family classic.
+
+upgrades: []

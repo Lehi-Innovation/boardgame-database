@@ -1,0 +1,52 @@
+id: web-and-starship
+name: "Web and Starship"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Wargame
+  - Sci-Fi
+  - Route Building
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Unique
+  - Masterful
+
+possible_counts: [2, 3]
+true_counts: [3]
+
+designer:
+  - Greg Costikyan
+publisher:
+  - West End Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Web and Starship is a hard science fiction wargame designed by Greg Costikyan and published by West End Games in 1984, set on a two-dimensional map of nearby stars with the third dimension tracked via notation. Three deeply asymmetric factions compete: the Pereen use an instantaneous "Web" network but must expand it slowly via sub-light probes; the Gwynhyfarr travel by Faster Than Light ships too small to move bulk cargo; while Earth begins with limited versions of both technologies that gradually improve over the game. This radical asymmetry forces entirely different strategic approaches from each player, creating a thoughtful and distinctive take on interstellar conflict.
+
+upgrades: []

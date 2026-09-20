@@ -1,0 +1,54 @@
+id: wiz-war
+name: "Wiz-War"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: "Fantasy Flight Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Modular Board
+  - Variable Player Powers
+  - Fantasy
+  - Ameritrash
+  - Fantasy Flight Games
+
+evokes:
+  - Humor
+  - Powerful
+  - Rivalry
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Tom Jolly
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Wiz-War is a chaotic fantasy combat board game originally designed by Tom Jolly in 1985 in which players control wizards navigating a modular labyrinthine dungeon, attempting to steal each other's treasures or eliminate opponents with spells. Players draw from decks of spell cards representing magical attacks, defenses, and movement tricks, and can alter the dungeon layout during play. Often described as a "beer and pretzels" game, it revels in mayhem and direct conflict rather than elegant strategy. The 2012 Fantasy Flight Games edition revived the classic with updated components and refined rules.
+
+upgrades: []

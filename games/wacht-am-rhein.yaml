@@ -1,0 +1,51 @@
+id: wacht-am-rhein
+name: "Wacht am Rhein"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher: []
+artist: []
+playtime_minutes: 2400
+min_playtime: 1200
+max_playtime: 4800
+min_age: 16
+
+description: |
+  Wacht am Rhein is a 1977 monster wargame designed by Jim Dunnigan and published by SPI, simulating the Battle of the Bulge — Germany's last major offensive in the West during World War II. Using a 1-mile-per-hex map scale and battalion/battery-level units, the game covers the entire December 1944 campaign in exhaustive detail across multiple maps. Developed by Joseph Balkoski and Jay Nelson with cartography by Redmond Simonsen, it is considered one of the top five monster wargames ever published. A second edition was later released by Decision Games. Its staggering scope and historical fidelity make it a landmark of the hobby.
+
+upgrades: []

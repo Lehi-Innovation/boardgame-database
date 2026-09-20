@@ -1,0 +1,52 @@
+id: star-fluxx
+name: "Star Fluxx"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: star-fluxx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Setup
+  - Sci-Fi
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Lucky
+  - Unique
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 40
+min_age: 8
+
+description: |
+  Star Fluxx is a sci-fi themed version of the Fluxx card game series designed by Andrew Looney and published by Looney Labs in 2011. Like all Fluxx games, it begins with a simple rule — draw one card, play one card — but players continuously change the rules and victory conditions with the cards they play. Star Fluxx adds space-exploration thematic elements with cards referencing robots, alien invaders, rocket ships, and time travel, as well as Surprise cards that can be played at any time. The ever-shifting rules create a chaotic, unpredictable experience that rewards flexibility over rigid planning.
+
+upgrades: []

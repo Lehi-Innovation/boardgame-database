@@ -1,0 +1,54 @@
+id: trias
+name: "Trias"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Modular Board
+  - Action Points
+  - Euro
+  - Nature
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Ralf Lehmkuhl
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Trias places players in the Triassic era as dinosaur herds compete for territory on the fragmenting supercontinent Pangaea. Using an action-point system, players move their dinosaurs and split hex tiles to cause continental drift, constantly reshaping the board and creating new landmasses. The game blends area majority with the unique mechanic of a physically changing map, as players score points based on controlling the most dinosaurs on each separated continent. Published by Rio Grande Games, Trias earned acclaim for its clever integration of theme and mechanics.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: the-settlers-of-catan-entry-level
+name: "The Settlers of Catan - Entry level version"
+alternate_names: ["Catan: Family Edition"]
+year: 2007
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Network Building
+  - Family
+  - Gateway
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Lucky
+  - Connection
+  - Wonder
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  The Settlers of Catan Entry Level (or Family Edition) is a simplified standalone variant of Klaus Teuber's landmark game, designed to introduce younger players and new gamers to the Catan universe. It streamlines the base game's rules to reduce complexity and setup time while retaining the core mechanics of resource collection, settlement building, and trading. Released around 2007 as part of efforts to broaden Catan's audience, this edition serves as a stepping stone toward the full Settlers of Catan experience and is suitable for players as young as 6 years old.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: stuff-yer-face
+name: "Stuff Yer Face"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Stuff Yer Face is a 1982 Milton Bradley dexterity game for two players set in a carnival atmosphere. Each player controls a whimsical clown puppet with movable arms, trying to scoop up and feed their clown all ten marbles of their assigned color (yellow or green) from the circular arena, while avoiding the five red marbles — eating one causes an immediate loss. The marble-eating puppet mechanic gives the game its tactile, physical appeal, making it a popular toy-game hybrid for young children.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: stegegets
+name: "StegegetS"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Press Your Luck
+  - Space
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Lucky
+  - Progress
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Ion Game Design
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  StegegetS is a 2024 roll-and-write game set in our solar system, published by Ion Game Design and CardBoard Pirates. Players roll seven dice each turn to get combinations that let them land on planets, moons, and other objects in the solar system, drawing directly on a shared beautiful map sheet to track their journey. Once a player claims a location, no one else can score that combination. Players collect water resources to roll more times and invest in technologies for ongoing bonuses, balancing push-your-luck decisions with long-term efficiency. The palindromic name reflects the game's back-and-forth puzzle nature.
+
+upgrades: []

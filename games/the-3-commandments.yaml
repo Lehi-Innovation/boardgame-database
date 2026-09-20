@@ -1,0 +1,61 @@
+id: the-3-commandments
+name: "The 3 Commandments"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Social Deduction
+  - Bluffing
+  - Party
+  - Family
+  - Friedemann Friese
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Humor
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Friedemann Friese
+  - Gordon Lamont
+  - Fraser Lamont
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The 3 Commandments is a deduction and bluffing party game published by Rio Grande Games in 2008,
+  designed by Friedemann Friese along with Gordon and Fraser Lamont. One player secretly sets three
+  rules (commandments) that govern which objects are acceptable, and other players must deduce those
+  rules by proposing objects and observing whether they are accepted or rejected. The deduction
+  mechanic rewards careful observation and lateral thinking as players narrow down the hidden logic
+  through a process of elimination and clever questioning.
+
+upgrades: []

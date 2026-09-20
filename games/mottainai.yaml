@@ -1,0 +1,55 @@
+id: mottainai
+name: "Mottainai"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Tableau Building
+  - Set Collection
+  - Action Points
+  - Filler
+  - Euro
+  - Carl Chudyk
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer:
+  - Carl Chudyk
+publisher:
+  - Asmadi Games
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 13
+
+description: |
+  Mottainai is a 2-3 player card game by Carl Chudyk, published by Asmadi Games in 2015 as a spiritual successor to his acclaimed Glory to Rome. Set in a Buddhist temple, each player is a monk performing tasks, collecting materials, and completing works for visitors — and every card in the game can serve as each of these three roles. Players announce tasks that allow them to take actions, but opponents also benefit by following up on your chosen task on their next turn, creating a delicate interplay of cooperation and competition. Cleverly combining your completed works' special abilities while managing which materials to sell is the heart of Mottainai's remarkable depth, packed into a compact 30-card-per-player game.
+
+upgrades: []

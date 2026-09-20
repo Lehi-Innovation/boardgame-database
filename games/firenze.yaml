@@ -1,0 +1,57 @@
+id: firenze
+name: "Firenze"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Euro
+  - Historical
+  - City Building
+
+evokes:
+  - Progress
+  - Tension
+  - Rivalry
+  - Clever
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Andreas Steding
+publisher:
+  - Quined Games
+  - Pegasus Spiele
+  - Capstone Games
+artist: []
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 75
+min_age: 12
+
+description: |
+  Firenze is a 2-4 player strategic card and resource management game designed by Andreas Steding, set in Florence during the 12th to 14th centuries when rival noble families competed to build the tallest towers as symbols of prestige and power. Players use colored brick cards as currency to construct towers of different heights, earning favor from the city's leading families and the church. Cards serve double duty — they can aid tower construction or be used to sabotage opponents' works — creating constant decisions about when to build versus when to disrupt. A second edition was released in 2018, bringing the game to a wider audience, and the theme of architectural rivalry gives it a distinct historical flavor among Euro games.
+
+upgrades: []

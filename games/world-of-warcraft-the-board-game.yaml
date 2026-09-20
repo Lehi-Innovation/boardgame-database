@@ -1,0 +1,55 @@
+id: world-of-warcraft-the-board-game
+name: "World of Warcraft: The Board Game"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Dice Rolling
+  - Variable Player Powers
+  - Action Points
+  - Modular Board
+  - Fantasy
+  - Fantasy Flight Games
+
+evokes:
+  - Powerful
+  - Discovery
+  - Progress
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  World of Warcraft: The Board Game is a 2005 Fantasy Flight Games adaptation of Blizzard's MMORPG for 2-6 players split into Alliance and Horde factions who both adventure across the continent of Lordaeron. Players choose from 16 heroes across nine classes, gaining experience, collecting equipment, and battling 13 monster types, with a 30-turn clock after which factions clash in direct combat if no Overlord has been defeated. The game is noted for its impressive miniature-heavy production and its faction-vs-overlord structure, though its long play time and "multiple solitaire" feel during faction turns were cited as weaknesses.
+
+upgrades: []

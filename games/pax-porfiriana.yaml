@@ -1,0 +1,55 @@
+id: pax-porfiriana
+name: "Pax Porfiriana"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: pax
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Card Drafting
+  - Engine Building
+  - Negotiation
+  - Economic
+  - Historical
+  - Cult Classic
+
+evokes:
+  - Powerful
+  - Agency
+  - Clever
+  - Tension
+  - Discovery
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Phil Eklund
+publisher:
+  - Sierra Madre Games
+artist: []
+playtime_minutes: 135
+min_playtime: 120
+max_playtime: 150
+min_age: 14
+
+description: |
+  Pax Porfiriana is a deeply historical card game for 1–6 players set during the 33-year reign of Mexican dictator Porfirio Díaz (1876–1910). Players take the roles of wealthy hacendados building business empires through ranches, mines, newspapers, and military units while manipulating the political climate — toppling Díaz's regime or propping it up to suit their ends. The card-driven engine building is dense with historical simulation and emergent narrative, featuring multiple victory conditions tied to who controls the political landscape when the game ends. Designed by Phil Eklund, Pax Porfiriana rewards deep study and offers a uniquely thematic experience unlike most modern board games.
+
+upgrades: []

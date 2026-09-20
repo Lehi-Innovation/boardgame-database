@@ -1,0 +1,54 @@
+id: sekigahara-the-unification-of-japan
+name: "Sekigahara: The Unification of Japan"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hand Management
+  - Hex Map
+  - Historical
+  - Asymmetric
+  - Bluffing
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Matthew Calkins
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 150
+max_playtime: 240
+min_age: 14
+
+description: |
+  Sekigahara: The Unification of Japan is a 2-player block wargame by Matthew Calkins covering Tokugawa Ieyasu's 1600 campaign to unify Japan against Ishida Mitsunari. Unusually for a wargame, combat is resolved not with dice but with cards representing clan loyalty — armies only fight when a matching loyalty card is played, creating moments of betrayal and uncertainty that mirror the historical reality. The game's hidden block information on a strategic map of Japan creates an elegant fog-of-war that plays in about three hours while remaining accessible compared to traditional wargames.
+
+upgrades: []

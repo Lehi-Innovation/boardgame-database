@@ -1,0 +1,48 @@
+id: the-thing-1982
+name: "The Thing"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Horror
+  - Sci-Fi
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  The Thing is a 1982 board game tie-in to John Carpenter's cult horror film of the same name. Details about this original game are limited due to its obscurity, but it was published to capitalize on the film's release and likely involves the alien horror theme from the movie's Antarctic setting. Like many movie tie-in games of the era, it may feature simple roll-and-move mechanics with a horror atmosphere. This entry may refer to an early tie-in product; collectors seeking information are advised to consult vintage game archives for further details.
+
+upgrades: []

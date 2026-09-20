@@ -1,0 +1,53 @@
+id: unexploded-cow
+name: "Unexploded Cow"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Dice Rolling
+  - Press Your Luck
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - James Ernest
+  - Paul Peterson
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 35
+min_age: 12
+
+description: |
+  Unexploded Cow is a darkly comic card game designed by James Ernest and Paul Peterson, published by Cheapass Games (later republished by Greater Than Games). Players are entrepreneurs who have hit upon a brilliant scheme: use European unexploded bombs to dispose of mad cows. Buy cows, march them through French mine fields, collect money when bombs go off. The "bomb die" mechanic determines which cow explodes, rewarding lucky players with cash from the communal pot. The game is deliberately absurd, quick, and accessible — a signature Cheapass Games title celebrated for its dark humor.
+
+upgrades: []

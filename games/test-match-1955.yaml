@@ -1,0 +1,58 @@
+id: test-match-1955
+name: "Test Match"
+alternate_names: []
+year: 1955
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - John Waddington Limited
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 8
+
+description: |
+  Test Match is a British cricket simulation board game published by John
+  Waddington Limited in 1955. Two players alternate as batting and bowling sides,
+  with outcomes determined entirely by rotating dial randomizers — one dial for
+  the bowler (revealing ball types like bouncer or leg break) and one for the
+  batsman (indicating the response). A scoreboard with three rotating wheels
+  tracks runs and wickets. The game captures the variability of real cricket
+  matches through pure chance mechanics, making it a beloved nostalgic item for
+  cricket fans in Britain and Australia (where it was published by John Sands
+  Pty. Ltd.).
+
+upgrades: []

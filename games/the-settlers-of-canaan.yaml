@@ -1,0 +1,55 @@
+id: the-settlers-of-canaan
+name: "The Settlers of Canaan"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Network Building
+  - Trading
+  - Family
+  - Ancient
+  - Historical
+
+evokes:
+  - Progress
+  - Lucky
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Cactus Game Design
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Settlers of Canaan is a 2002 Catan variant designed by Klaus Teuber and published by Cactus Game Design, set in the ancient land of Canaan with a biblical theme. The game uses Catan's familiar resource production and settlement-building mechanics, but replaces the robber with a "plague" tile that can be moved by contributing a priest card, and adds a cooperative city-wall building mechanic for Jerusalem. The player who contributes the most bricks to Jerusalem's wall earns victory points and a unique rule-breaking power. The biblical theme and minor rule variations make it a distinctive alternative for Catan fans interested in ancient history.
+
+upgrades: []

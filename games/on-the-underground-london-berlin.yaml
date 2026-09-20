@@ -1,0 +1,55 @@
+id: on-the-underground-london-berlin
+name: "On the Underground: London/Berlin"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: on-the-underground
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Hand Management
+  - Modular Board
+  - Euro
+  - Family
+  - Trains
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Sebastian Bleasdale
+publisher:
+  - LudiCreations
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  On the Underground: London/Berlin is a route-building strategy game for 2–5 players in which each player constructs and extends their own underground rail line across a detailed city map. Players take turns playing cards to extend their lines, aiming to build the best connectivity to attract the game's single Traveller token as it moves from location to location. The 2019 LudiCreations edition is a reimplementation of Sebastian Bleasdale's 2006 original, featuring two double-sided maps — the iconic London Underground and the Berlin U-Bahn — each with distinct scoring rules. The elegant tension of building your own network while routing opponents away from key destinations makes each map feel like a fresh puzzle.
+
+upgrades: []

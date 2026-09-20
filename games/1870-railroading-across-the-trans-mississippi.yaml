@@ -1,0 +1,54 @@
+id: 1870-railroading-across-the-trans-mississippi
+name: "1870: Railroading Across the Trans Mississippi from 1870"
+alternate_names: ["1870"]
+year: 1992
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Trains
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bill Dixon
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 360
+min_age: 14
+
+description: |
+  1870: Railroading Across the Trans Mississippi from 1870 is an 18xx railroad investment game set in the central United States, published by Mayfair Games in 1992. Players buy and sell stock in rail corporations that compete to build profitable routes across the sprawling Trans-Mississippi map, making it one of the larger and more complex 18xx titles. The game features private companies with special abilities, multiple train types with escalating power, and the classic 18xx stock market dynamic where company values rise and fall based on dividend declarations. Its large map and extended play time make it a favorite for dedicated 18xx enthusiasts looking for a session-long challenge.
+
+upgrades: []

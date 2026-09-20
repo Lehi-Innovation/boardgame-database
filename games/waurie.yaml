@@ -1,0 +1,49 @@
+id: waurie
+name: "Waurie"
+alternate_names:
+  - "Island Wari"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Waurie is a traditional mancala game played on the Cayman Islands, also known as Island Wari, with roots traced to West African traditions brought to the Caribbean. Played on a two-row, six-hole board with a storehouse at each end and four seeds per hole at start, Waurie has the unusual win condition of emptying your own side of the board rather than accumulating the most seeds. Play proceeds counter-clockwise in single-lap style, with a bonus move when the last seed lands in your own endpit. Two rulesets coexist on Grand Cayman—one rooted in African tradition and one influenced by American visitors—under the same name.
+
+upgrades: []

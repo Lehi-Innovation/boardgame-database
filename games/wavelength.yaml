@@ -1,0 +1,56 @@
+id: wavelength
+name: "Wavelength"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Party
+  - Social Deduction
+  - No Math
+  - Family
+  - Gateway
+
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [4, 6, 8]
+
+designer:
+  - Alex Hague
+  - Justin Vickers
+  - Wolfgang Warsch
+publisher:
+  - Palm Court
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Wavelength is a team-based party game designed by Alex Hague, Justin Vickers, and Wolfgang Warsch in 2019 in which a "Psychic" gives a single clue to help their team guess the location of a hidden target on a custom spectrum device. The device reveals a scale between two opposing concepts (e.g., Hot–Cold, Good–Evil), and the Psychic must choose a clue that positions somewhere on that spectrum while opposing teams attempt to read the dial differently. Teams score points for accuracy while debating where the clue falls, generating lively discussion about how concepts relate. Its elegant mechanics make it one of the most accessible and conversation-sparking party games of recent years.
+
+upgrades: []

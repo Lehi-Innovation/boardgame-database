@@ -1,0 +1,59 @@
+id: spectrangle
+name: "Spectrangle"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer:
+  - Graham Gordon
+publisher:
+  - Spear's Games
+  - Jumbo
+  - Educational Insights
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Spectrangle is an abstract tile-placement game invented by Graham Gordon in 1989, based on mathematical work
+  by British mathematician Percy Alexander MacMahon. Players place colourful double-sided triangular tiles called
+  "trangs," which represent all permutations of five colors (red, yellow, green, cyan, and magenta), plus one
+  all-white joker tile. Tiles must be placed so that touching edges match in color, and players score points
+  based on the multiplication of values on the matched trangs. The compact version supports up to four players
+  with 36 tiles, while the original game accommodates up to eight players with 60 tiles.
+
+upgrades: []

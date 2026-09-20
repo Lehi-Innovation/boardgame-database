@@ -1,0 +1,53 @@
+id: steam-up-a-feast-of-dim-sum
+name: "Steam Up: A Feast of Dim Sum"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Action Points
+  - Food Theme
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Haymen Lee
+  - Marie Wong
+  - Pauline Kong
+publisher:
+  - Hot Banana Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Steam Up: A Feast of Dim Sum is a 2023 competitive set-collection and action management game for 2-5 players published by Hot Banana Games. Players compete to gather and enjoy delicious dim sum dishes themed around authentic Chinese cuisine, earning points through clever set collection and timing. The game celebrates dim sum culture with vibrant artwork and won the Barnes & Noble Game of the Year award for 2023. Its light-to-medium weight and food-themed charm make it a welcoming entry point to modern hobby games.
+
+upgrades: []

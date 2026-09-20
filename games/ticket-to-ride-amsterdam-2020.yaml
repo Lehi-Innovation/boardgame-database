@@ -1,0 +1,56 @@
+id: ticket-to-ride-amsterdam-2020
+name: "Ticket to Ride: Amsterdam"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Historical
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Ticket to Ride: Amsterdam is a 2020 small-box standalone entry in the Ticket to Ride series designed by Alan R. Moon and published by Days of Wonder, set in 17th-century Amsterdam. Players race to claim commercial routes across the historic city using carts rather than trains, completing trade contracts for points. A unique merchandise bonus mechanic awards end-game points to the player who collected the most merchandise cards from claimed routes. As part of the Cities sub-line targeting 10-15 minute sessions, Amsterdam distills the Ticket to Ride formula into a fast, accessible filler for 2-4 players.
+
+upgrades: []

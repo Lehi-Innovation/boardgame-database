@@ -1,0 +1,61 @@
+id: the-divided-germany-1945-1989
+name: "The divided Germany, 1945-1989"
+alternate_names:
+  - "Wir sind das Volk!"
+  - "We Are the People!"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Economic
+  - Historical
+  - Euro
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Progress
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Histogame
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 14
+
+description: |
+  Wir sind das Volk! (The divided Germany, 1945-1989) is a two-player card-driven game published by
+  Histogame in 2014 that recreates the Cold War competition between East and West Germany from the Berlin
+  Airlift through the fall of the Wall. Players build their economies, raise citizens' living standards,
+  and manage political unrest across four decades of history guided by 84 event and operations cards.
+  Each turn, a card may be played for its printed event or spent as operations points — a classic
+  card-driven tension. The West must prevent socialism from dominating while the East must maintain
+  stability; both pursue international prestige in a tightly contested asymmetric duel that earned
+  significant praise from the historical gaming community.
+
+upgrades: []

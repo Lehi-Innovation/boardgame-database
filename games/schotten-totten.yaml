@@ -1,0 +1,54 @@
+id: schotten-totten
+name: "Schotten-Totten"
+alternate_names: ["Battle Line"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Abstract
+  - Euro
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Schotten-Totten is a 2-player card game by Reiner Knizia in which players compete to claim boundary stones arranged in a row by playing sets of three cards in poker-like combinations. Each of the nine stones represents a tug-of-war, and a player who claims five stones or any three adjacent stones wins. The elegant tension comes from limited hand information and the need to prove your claim before the opponent can improve theirs. Originally published in 1999, the game remains one of Knizia's most celebrated 2-player designs and was later adapted as Battle Line with tactical cards added.
+
+upgrades: []

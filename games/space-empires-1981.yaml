@@ -1,0 +1,52 @@
+id: space-empires-1981
+name: "Space Empires"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Sci-Fi
+  - Wargame
+  - Space
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Powerful
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Neil Zimmerer
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Space Empires is a 1981 microgame published by Mayfair Games in which 2-4 players each control alien civilizations competing to dominate a star cluster. Each player draws two races at random, places their fleets on home worlds, and expands across space by moving ships through a hex grid where proximity triggers mandatory combat. Neutral alien races occupy the remaining home worlds and act as obstacles. The player controlling the most star systems at game's end wins, earning the game comparisons to "a space version of Risk" for its accessible conquest mechanics.
+
+upgrades: []

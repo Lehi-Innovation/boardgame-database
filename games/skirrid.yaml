@@ -1,0 +1,54 @@
+id: skirrid
+name: "Skirrid"
+alternate_names: ["Skirrid: A Game of Shapes and Numbers"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Brian Taylor
+  - Mark Eliot
+publisher:
+  - Kenner
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Skirrid is a mathematical tile-placement game designed by Brian Taylor and Mark Eliot, published by Kenner in 1977, and described as a mathematical cousin to Scrabble. Players place pentomino-shaped tiles on a numbered board, scoring the numbers covered by their pieces — but when a piece's own number lands directly over a scoring square, the values are multiplied. Named after Skirrid mountain in Wales, the game rewards both spatial thinking and numerical strategy through its distinctive pentomino-and-multiplication scoring system.
+
+upgrades: []

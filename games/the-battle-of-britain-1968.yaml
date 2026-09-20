@@ -1,0 +1,59 @@
+id: the-battle-of-britain-1968
+name: "The Battle of Britain"
+alternate_names: []
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Lou Zocchi
+publisher:
+  - Gamescience
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Battle of Britain is a 1968 air combat wargame designed by Lou Zocchi and published by
+  Gamescience (under the Renwal imprint), covering the famous 1940 aerial campaign over England.
+  Players control groups of aircraft over the English Channel and southern England, using both basic
+  and advanced rule sets that allow the game to scale from introductory to detailed simulation.
+  Zocchi researched the battle extensively while serving in the U.S. military in Japan and designed
+  the game after finding no existing wargames covered air combat at this level of focus. It was
+  one of the first dedicated air-combat board wargames and had significant influence on subsequent
+  aerial warfare game design.
+
+upgrades: []

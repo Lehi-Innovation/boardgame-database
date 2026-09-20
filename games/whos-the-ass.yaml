@@ -1,0 +1,53 @@
+id: whos-the-ass
+name: "Who's the Ass?"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Party
+  - Family
+  - Wolfgang Kramer
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [5, 6, 7]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - 999 Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Who's the Ass? is a fast-playing card game by Wolfgang Kramer for 3-12 players in which the goal is to shed all your cards as quickly as possible. Players are dealt a hand of cards and must play them in tricks; the last player left holding cards scores negative points. The large player count range makes it a flexible party option, and its quick play time keeps things moving. The title is part of its charm as a cheeky party staple.
+
+upgrades: []

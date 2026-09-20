@@ -1,0 +1,48 @@
+id: rummy
+name: "Rummy"
+alternate_names: ["Rum"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - No Math
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  Rummy is a foundational card-matching game played with a standard 52-card deck, dating to the early 1900s with likely origins in Mexico or Asia. Players draw and discard cards aiming to build melds — sets of matching rank or runs of sequential suit — and score points when an opponent goes out. The simple stockpile-and-discard rhythm of Rummy underlies dozens of popular variants including Gin Rummy, Canasta, and Rummikub, making it one of the most widely played card game families in the world. Its combination of luck and hand management remains accessible to all ages.

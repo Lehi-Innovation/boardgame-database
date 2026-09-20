@@ -1,0 +1,53 @@
+id: the-queens-gambit-2021
+name: "The Queen's Gambit"
+alternate_names: ["The Queen's Gambit: The Board Game"]
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Family
+  - Party
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Rebecca Bleau
+  - Nicholas Cravotta
+publisher:
+  - Mixlore
+artist: []
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 30
+min_age: 12
+
+description: |
+  The Queen's Gambit: The Board Game is a 2021 strategy game published by Mixlore, based on the hit Netflix series. The game takes place on a traditional chessboard but replaces standard chess rules with a card-driven system for 2-4 players, in which players use decks of cards to make moves, capture pieces, and outmaneuver opponents. Inspired by the chess prodigy Beth Harmon's journey in the series, the game distills chess-like strategic thinking into an accessible format suitable for casual and family play. It serves as both a tie-in product and an entry point for players interested in chess-themed strategy games.
+
+upgrades: []

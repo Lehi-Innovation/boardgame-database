@@ -1,0 +1,64 @@
+id: madeira
+name: "Madeira"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Area Control
+  - Resource Management
+  - Economic
+  - Euro
+  - Historical
+  - Maritime
+
+evokes:
+  - Masterful
+  - Agency
+  - Clever
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Nuno Bizarro Sentieiro
+  - Paulo Soledade
+publisher:
+  - What's Your Game?
+artist:
+  - Ian O'Toole
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Madeira is a heavy economic euro game set on the 15th-century Portuguese island of Madeira,
+  where players develop their estates, trade goods, and manage Guild and Pirate dice to take
+  actions. The innovative dice-as-worker system means players must distribute dice among
+  characters, with higher-value dice costing more Guild influence while Pirates threaten
+  to disrupt operations. The layered decision-making across multiple action types, deep
+  resource management, and Ian O'Toole's striking artwork combine to make Madeira a
+  demanding and rewarding experience for dedicated Euro enthusiasts.
+
+upgrades: []

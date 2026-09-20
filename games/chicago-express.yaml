@@ -1,0 +1,55 @@
+id: chicago-express
+name: "Chicago Express"
+alternate_names:
+  - "Wabash Cannonball"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Network Building
+  - Economic
+  - Route Building
+  - Trains
+  - Euro
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Harry Wu
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Chicago Express is a streamlined economic train game for 2–6 players in which players invest in and develop competing railroad companies racing to connect the eastern seaboard to Chicago. Each turn a player chooses one of three actions: auction a share in a railroad company, expand one company's rail network, or develop a city hex to increase its value. Because players hold shares in multiple companies, the game creates fascinating conflicts of interest—you may be simultaneously eager to help a company expand and desperate to block a rival's track. Originally released as Wabash Cannonball by Winsome Games, Chicago Express is a pure stock-manipulation and network-building classic with no luck whatsoever.
+
+upgrades: []

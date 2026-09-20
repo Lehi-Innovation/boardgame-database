@@ -1,0 +1,50 @@
+id: sinco
+name: "Sinco"
+alternate_names: ["The Game of Five Combinations"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Set Collection
+  - No Math
+
+evokes:
+  - Lucky
+  - Connection
+  - Tension
+  - Complete
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Sinco is a traditional Italian-style bingo/lotto card game published by Ravensburger in which players use a standard 40-card Neapolitan deck in the four suits of clubs, coins, cups, and swords. Each player has a mat showing 25 cards with five different possible winning combinations, combining the structure of Italian bingo with an accessible family game format. The five winning combinations increase strategic excitement beyond a simple bingo pattern, making it a popular choice for family game nights in Italy and beyond.
+
+upgrades: []

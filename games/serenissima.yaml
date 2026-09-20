@@ -1,0 +1,54 @@
+id: serenissima
+name: "Serenissima"
+alternate_names: ["Méditerranée"]
+year: 1996
+
+# Relationships
+game_family: serenissima
+edition: "first"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Trading
+  - Resource Management
+  - Maritime
+  - Historical
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Dominique Ehrhard
+publisher:
+  - Eurogames
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Serenissima (published as Méditerranée in France) is a trading and naval combat game set during the Renaissance Mediterranean, designed by Dominique Ehrhard and first published by Eurogames in 1996. Players build fleets of merchant ships, purchase commodities from ports across the Mediterranean, sail to sell them at distant markets, and engage in piracy against rivals. Control of key ports drives income and resource access, creating a tense balance between commerce and military dominance across a historically evocative map.
+
+upgrades: []

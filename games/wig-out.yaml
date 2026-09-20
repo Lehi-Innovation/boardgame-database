@@ -1,0 +1,53 @@
+id: wig-out
+name: "Wig Out!"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Real-time
+  - Set Collection
+  - Family
+  - Party
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Forrest-Pruzan Creative
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 12
+min_playtime: 10
+max_playtime: 15
+min_age: 6
+
+description: |
+  Wig Out! is a fast-paced simultaneous card game for 2-6 players in which everyone plays at once, trying to discard all their cards before anyone else. Players start new piles, lay matching cards on existing piles, or draw when they can't play — and the first person to empty their hand shouts "Wig Out!" to end the round. The speedy real-time play and humorous hair-themed art make it a hit with young players and families looking for a quick, energetic game.
+
+upgrades: []

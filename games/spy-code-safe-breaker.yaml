@@ -1,0 +1,55 @@
+id: spy-code-safe-breaker
+name: "Spy Code: Safe Breaker"
+alternate_names: ["Safe Breaker"]
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Family
+  - Espionage
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Yulu
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Spy Code: Safe Breaker is an electronic deduction game by Yulu published in 2017. Players take turns guessing
+  a secret number between 1 and 18 while pressing an ear to a stethoscope; an electronic safe emits a high tone
+  if the number is too low, a low tone if too high, and occasionally a null tone that provides no feedback at all.
+  Landing on the correct number causes the safe to pop open, releasing 1 to 3 loot tokens of varying value. The
+  first player to collect enough loot wins, blending number-deduction logic with a satisfying physical payoff.
+
+upgrades: []

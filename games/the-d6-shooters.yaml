@@ -1,0 +1,55 @@
+id: the-d6-shooters
+name: "The d6 Shooters"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Press Your Luck
+  - Western
+
+evokes:
+  - Lucky
+  - Tension
+  - Agency
+  - Progress
+  - Complete
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  The d6 Shooters is a solitaire print-and-play dice game set in the American West, in which players lead
+  a posse on a 40-day trail journey. Using a Yahtzee-style system, each die face generates a resource:
+  ones move the posse along the trail, pairs of twos provide food, triples of threes yield gold, and
+  other combinations trigger further actions. Players must balance movement speed against maintaining
+  adequate food, ammo, and gold, resolving random trail events along the way. The design strips western
+  adventure down to a tense resource-management puzzle requiring only dice and a printed play sheet.
+
+upgrades: []

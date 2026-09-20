@@ -1,0 +1,64 @@
+id: glass-road
+name: "Glass Road"
+alternate_names:
+  - "Glasstraße"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Tile Placement
+  - Simultaneous Action
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Historical
+  - Uwe Rosenberg
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Progress
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Capstone Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 60
+min_playtime: 20
+max_playtime: 80
+min_age: 13
+
+description: |
+  Glass Road is a card-drafting and tile-placement game by Uwe Rosenberg set in the
+  18th-century Bavarian glassmaking region. Each round players secretly choose five of
+  fifteen specialist cards; if no opponent also chose a card, you get its full action—
+  but shared choices grant only partial benefits, creating a mind-reading element unique
+  among Rosenberg's designs. Resources are managed on an innovative two-wheel dial that
+  automatically converts materials, adding a satisfying mechanical puzzle layer. Glass Road
+  packs tremendous strategic depth into a surprisingly short playing time.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: tau-ceti-2015-ad
+name: "Tau Ceti 2015 AD"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Swedish Game Production
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Tau Ceti 2015 AD is a 1980 science fiction board wargame published by Swedish
+  Game Production. The game depicts near-future tactical combat between the Kraa
+  and H'ren, two alien races inhabiting a planet in the Tau Ceti star system.
+  Players command their respective alien forces in battles that determine
+  dominance over the contested world. The game reflects the era's interest in
+  scientific plausibility, setting the conflict within a real nearby star system
+  at a then-plausible future date.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: shanghaien
+name: "Shanghaien"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Set Collection
+  - Bluffing
+  - Filler
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Roman Pelek
+  - Michael Schacht
+publisher:
+  - Abacus Spiele
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Shanghaien is a dice-and-card game designed by Roman Pelek and Michael Schacht, published by Abacus Spiele in 2008, in which players take turns rolling dice and assigning them to face-up sailor cards to claim a crew of diverse nationalities. Players decide when to stop rolling and "shanghai" their claimed cards, but the scoring is unusual: only the stronger nationality among a pair scores, based on the weaker nationality's value. This inverted scoring mechanism creates clever bluffing decisions and dramatic reversals in what appears to be a simple dice game.
+
+upgrades: []

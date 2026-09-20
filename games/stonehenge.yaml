@@ -1,0 +1,55 @@
+id: stonehenge
+name: "Stonehenge"
+alternate_names: ["Stonehenge: An Anthology Board Game"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Variable Setup
+  - Abstract
+  - Unique
+
+evokes:
+  - Clever
+  - Unique
+  - Wonder
+  - Rivalry
+  - Discovery
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Richard Garfield
+  - Richard Borg
+  - James Ernest
+  - Bruno Faidutti
+  - Mike Selinker
+publisher:
+  - Paizo Publishing
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Stonehenge: An Anthology Board Game is a landmark 2007 design published by Paizo Publishing under the Titanic Games imprint — widely considered the world's first anthology board game. Five celebrated designers — Richard Garfield, Richard Borg, James Ernest, Bruno Faidutti, and Mike Selinker — were each given the same set of components and created entirely different games using them: a magic duel, a political simulation, a battle game, an auction game, and a science fiction game respectively. The shared physical components (the iconic Stonehenge monument and pieces) belie five completely distinct gaming experiences, showcasing the creative range of these legendary designers.
+
+upgrades: []

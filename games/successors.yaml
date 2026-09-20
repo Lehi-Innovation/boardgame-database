@@ -1,0 +1,55 @@
+id: successors
+name: "Successors"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Wargame
+  - Historical
+  - Ancient
+  - Civilization
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Richard Berg
+  - Mark Herman
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Successors is a 1997 Avalon Hill game co-designed by Richard Berg and Mark Herman that puts 2-5 players in the roles of Alexander the Great's generals — the Diadochi — as they scramble to inherit his empire after his death in 323 BCE. Players wage military campaigns, forge and break alliances, and court legitimacy by controlling Alexander's heirs and supporting the royal line. The interplay of military force, political maneuvering, and shifting allegiances creates a rich multi-player experience that captures the turbulent chaos of the Hellenistic succession wars. The game has since been republished in multiple editions, most recently the fourth edition by Phalanx Games in 2022.
+
+upgrades: []

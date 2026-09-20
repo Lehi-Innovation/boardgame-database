@@ -1,0 +1,64 @@
+id: the-barbarians
+name: "The Barbarians: Games of the Fall of Rome and the Mongol Invasion of Europe"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Variable Setup
+  - Wargame
+  - Historical
+  - War
+  - Ancient
+  - Medieval
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer:
+  - S. Craig Taylor
+  - Neil Zimmerer
+publisher:
+  - Yaquinto Publications
+artist:
+  - Chris White
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Barbarians is a 1981 Yaquinto Publications game containing two historical simulations: "Sack
+  Rome," in which two or three players race to capture Rome by playing barbarian factions in turn,
+  and "Mongol," a two-player game where the Mongol player must occupy 23 European provinces within
+  nine six-month turns. An evocative rule reflects the historical reality that European nations
+  refused to unite against the Mongols — some armies can only fight on their own territory, while
+  others require a die roll to mobilize at all. Published in the distinctive LP-record-sized folder
+  format Yaquinto favored, with maps printed on the inside covers.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: the-swarm-2008
+name: "The Swarm"
+alternate_names: ["Der Schwarm"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Resource Management
+  - Sci-Fi
+  - Euro
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Discovery
+  - Tension
+  - Mystery
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Z-Man Games
+  - KOSMOS
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Swarm is a 2008 area control and ocean exploration board game designed by Wolfgang Kramer and Michael Kiesling, published by Z-Man Games and based on Frank Schatzing's science fiction novel of the same name. Players represent nations investigating mysterious oceanic events, establishing research stations and sending out ships to gather water sample tiles from the ocean. Researchers analyze tiles to score research points, then return tiles to the sea, all while trying to establish contact with a vast oceanic intelligence called the Swarm by placing buoys strategically. The maritime sci-fi theme and area-majority scoring create a distinctive Euro experience from two of the genre's most celebrated designers.
+
+upgrades: []

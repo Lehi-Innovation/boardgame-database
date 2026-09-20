@@ -1,0 +1,61 @@
+id: imperial-miners
+name: "Imperial Miners"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Tableau Building
+  - Hand Management
+  - Simultaneous Action
+  - Card Drafting
+  - Euro
+  - Portal Games
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Tim Armstrong
+publisher:
+  - Portal Games
+artist:
+  - Jakub Fajtanowski
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Imperial Miners is a light engine-building card game where players excavate mines and
+  build synergistic card engines. Using a clever card-activation system, players chain
+  effects across their growing tableau of mine buildings to generate resources, advance
+  tracks, and score points. The simultaneous action selection keeps downtime minimal
+  while the combo-finding creates satisfying "aha" moments. As a lighter offering from
+  Portal Games, Imperial Miners provides accessible engine-building pleasure for 1-5 players.
+
+upgrades: []

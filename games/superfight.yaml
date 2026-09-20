@@ -1,0 +1,59 @@
+id: superfight
+name: "Superfight"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Party
+  - Superheroes
+
+evokes:
+  - Humor
+  - Persuasion
+  - Rivalry
+  - Lucky
+  - Tension
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jack Dire
+publisher:
+  - Skybound Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Superfight is a party argument card game in which players build absurd
+  superhero combinations by pairing character cards with attribute cards, then
+  debate whose fighter would win in a battle. Each player draws a character and
+  two attributes to create their unique champion, then the group votes on the
+  winner based on the most compelling argument. With over 19 expansion packs
+  available, Superfight encourages creative storytelling and lively debate in a
+  lighthearted format. Originally funded on Kickstarter in 2013, the game was
+  later picked up by Skybound Entertainment.
+
+upgrades: []

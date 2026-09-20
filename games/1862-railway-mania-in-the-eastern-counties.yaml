@@ -1,0 +1,54 @@
+id: 1862-railway-mania-in-the-eastern-counties
+name: "1862: Railway Mania in the Eastern Counties"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Trains
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Mike Hutton
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 360
+min_age: 14
+
+description: |
+  1862: Railway Mania in the Eastern Counties is an 18xx railroad investment game set during the Victorian Railway Mania of the 1840s in the Eastern Counties of England, designed by Mike Hutton and published by GMT Games in 2020. The game introduces a unique "Parliament Round" where companies can be started at a reduced cost by being chartered — a mechanic that mirrors the historical parliamentary approval required to launch railways. Unlike most 18xx games, 1862 allows companies to merge and reorganize in unusual ways, and shares can be sold short for profit. These innovations give the game a distinct economic texture that rewards players who understand how to manipulate corporate structures.
+
+upgrades: []

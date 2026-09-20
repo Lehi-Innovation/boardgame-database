@@ -1,0 +1,67 @@
+id: lorenzo-il-magnifico
+name: "Lorenzo il Magnifico"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: lorenzo-il-magnifico
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - masters-of-renaissance
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Card Drafting
+  - Dice Rolling
+  - Resource Management
+  - Engine Building
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Medieval
+  - Simone Luciani
+
+evokes:
+  - Progress
+  - Masterful
+  - Agency
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Flaminia Brasini
+  - Virginio Gigli
+  - Simone Luciani
+publisher:
+  - Cranio Creations
+artist:
+  - Klemens Franz
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 12
+
+description: |
+  Lorenzo il Magnifico is an acclaimed worker-placement Euro game set in Renaissance Florence
+  during the reign of the Medici family. Players send family members—dice of different values
+  rolled each round—to acquire development cards, gather resources, and gain favor with the
+  Church. Cards from four decks (Territory, Character, Building, Venture) form interlocking
+  engines that grow throughout the game. The combination of dice-as-workers, multi-path
+  development, and period-perfect theming makes it one of the standout heavy Euros of its era.
+
+upgrades: []

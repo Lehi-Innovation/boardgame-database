@@ -1,0 +1,56 @@
+id: tide-of-iron
+name: "Tide of Iron"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Variable Setup
+  - Hex Map
+  - Area Control
+  - Dice Rolling
+  - Wargame
+  - Historical
+  - War
+  - Fantasy Flight Games
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Tide of Iron is a squad-level World War II tactical wargame set in the American and German campaigns of 1944–1945 in Northern Europe. Players command detailed plastic figures including infantry, tanks, and other combat vehicles across scenario-based missions on a modular board that represents the varied terrain of the European theater. The game balances realistic combat simulation with streamlined rules approachable by non-wargamers, and spawned several expansions covering North Africa, Normandy, and the Eastern Front.
+
+upgrades: []

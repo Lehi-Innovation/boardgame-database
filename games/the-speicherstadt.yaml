@@ -1,0 +1,56 @@
+id: the-speicherstadt
+name: "The Speicherstadt"
+alternate_names:
+  - "Kaispeicher"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Family
+  - Stefan Feld
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Speicherstadt is an elegant auction and card-drafting game for 2–5 players set in the historic Hamburg warehouse district. Each round, cards representing ships, contracts, firefighters, and buildings are laid out; players simultaneously place meeples in queues behind desired cards, then pay their position in the queue — the first bidder pays one coin, the second pays two, and so on. This creates intense mind games: block a competitor by bidding high, or wait patiently and hope the card survives the queue. The firefighter mechanism punishes players who ignore disasters, adding a constant undercurrent of risk management to this beautifully tense bidding game.
+
+upgrades: []

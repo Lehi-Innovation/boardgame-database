@@ -1,0 +1,54 @@
+id: the-really-nasty-horse-racing-game
+name: "The Really Nasty Horse Racing Game"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Hand Management
+  - Take That
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Upstarts
+publisher:
+  - Upstarts
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Really Nasty Horse Racing Game is a 1987 British horse racing game for 2-6 players in which each player owns horses competing across six races, placing bets and sabotaging rivals with dirty trick cards. Each round players race their graded horses (1 through 6, best to worst) around a track using dice, with event cards enabling spectacular acts of horse-racing villainy: turning horses the wrong way, causing falls, forcing restarts, or triggering last-minute objections and photo finishes. Players earn money through finishing positions and successful bets, with the richest player after six races winning. Its unapologetically chaotic British humor has kept it in print for decades.
+
+upgrades: []

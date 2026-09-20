@@ -1,0 +1,56 @@
+id: applejack
+name: "Applejack"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Set Collection
+  - Euro
+  - Family
+  - Gateway
+  - Uwe Rosenberg
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - The Game Builders
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Applejack is a hex tile-placement game from Uwe Rosenberg in which players draft hexagonal tree tiles from a central carousel market, placing them in their personal meadow to grow seven varieties of apples and attract bees. Matching apple blossom edges draws bee tiles that generate honey, while skillfully placing beehives adjacent to each other scores bonus tokens. Players must balance drafting desirable tiles against the clockwise movement of the market die, making each turn a satisfying spatial puzzle of edge-matching and set optimization.
+
+upgrades: []

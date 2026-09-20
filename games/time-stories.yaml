@@ -1,0 +1,63 @@
+id: time-stories
+name: "T.I.M.E Stories"
+alternate_names: ["TIME Stories"]
+year: 2015
+
+# Relationships
+game_family: time-stories
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Campaign Mode
+  - Puzzle Solving
+  - Time Travel
+  - Mystery
+
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Peggy Chassenet
+  - Manuel Rozoy
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  T.I.M.E Stories is a narrative cooperative board game published by Space
+  Cowboys in which players take on the roles of temporal agents sent back in
+  time to fix anomalies in history. Each scenario is a "decksploration" — players
+  investigate a world built from location cards, making decisions and consuming
+  Temporal Units (TUs) with every action. When TUs run out, the run ends and
+  players restart with knowledge carried over from previous attempts. The game
+  pioneered the replayable-deduction adventure format, spawning numerous
+  expansion scenarios, and is notable for its innovative "time loop" mechanic
+  that rewards persistence and deduction.
+
+upgrades: []

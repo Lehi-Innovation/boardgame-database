@@ -1,0 +1,52 @@
+id: stockpile
+name: "Stockpile"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Bluffing
+  - Economic
+  - Family
+  - Euro
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Stockpile is an economic board game of stock market trading and insider information, designed by Seth Van Orden and Brett Sobol and published by Nauvoo Games in 2015. Each round, players secretly possess insider knowledge about which stocks will rise or fall and must decide how to use it while bluffing opponents by adding face-down cards to stockpiles that all players then bid on. The buy-low-sell-high core is enriched by this bidding mechanic and the risk that opponents may have even better information about the same stock. Accessible yet strategically layered, Stockpile captures the chaos and thrill of market speculation.
+
+upgrades: []

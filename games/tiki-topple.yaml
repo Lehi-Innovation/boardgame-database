@@ -1,0 +1,51 @@
+id: tiki-topple
+name: "Tiki Topple"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Tiki Topple is a fast-paced tactical card game published by Gamewright in which players secretly choose which of the totem tiki pieces they want to advance to the top of the line. Players play action cards each turn to push tikis up the row, topple rivals to the bottom, or toast the last-place tiki off the board entirely, all while keeping their secret objectives hidden from opponents. The bluffing element — since everyone is trying to advance their tiki without revealing which one they own — gives the game surprising depth for its simple rules.
+
+upgrades: []

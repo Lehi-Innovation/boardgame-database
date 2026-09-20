@@ -1,0 +1,53 @@
+id: vikings-gone-wild
+name: "Vikings Gone Wild"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Julien Vergonjeanne
+publisher:
+  - Lucky Duck Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Vikings Gone Wild is a 2017 deck-building and resource management game designed by Julien Vergonjeanne and published by Lucky Duck Games — their first Kickstarter project. Players build and improve their Viking clan's deck by purchasing permanent buildings, military units, defensive towers, and special cards that enhance their offensive and economic capabilities. The game blends deck-building with tableau construction, rewarding players who chain their card synergies efficiently while competing against rivals for the most prosperous and war-ready clan. Multiple expansion packs and editions have expanded the game since its original release.
+
+upgrades: []

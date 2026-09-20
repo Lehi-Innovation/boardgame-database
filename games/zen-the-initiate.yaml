@@ -1,0 +1,57 @@
+id: zen-the-initiate
+name: "Zen the Initiate"
+alternate_names:
+  - "Zen l'initié"
+  - "Zen l'initie"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - DJ Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Zen the Initiate (Zen l'initié) is a French abstract strategy game for two or four players played
+  on a 121-square board. Each player places and moves colored pieces plus a shared special red
+  piece called "Z." Pieces slide in straight lines, and the distance each piece travels equals the
+  number of pieces along its line of movement. The goal is to be the first player to form a
+  continuous chain with all remaining pieces on the board. Simple to learn but tactically deep,
+  it rewards positional thinking and spatial awareness.
+
+upgrades: []

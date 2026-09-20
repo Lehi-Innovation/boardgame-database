@@ -1,0 +1,54 @@
+id: urland
+name: "Urland"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Variable Player Powers
+  - Euro
+  - Nature
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Doris Matthäus
+  - Frank Nestel
+publisher: []
+artist:
+  - Doris Matthäus
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Urland is a strategic board game designed by Doris Matthäus and Frank Nestel (of Doris & Frank fame) in which players guide early vertebrate creatures as they make the evolutionary transition from water to land. One player each round selects which land area will be scored, while others use their actions to move creatures and compete for territorial control. At key intervals on the scoring track, gene modification cards are auctioned off, granting players additional actions and evolutionary advantages. The game blends area control with auction mechanics in a unique prehistoric setting.
+
+upgrades: []

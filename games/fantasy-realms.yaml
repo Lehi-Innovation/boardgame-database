@@ -1,0 +1,54 @@
+id: fantasy-realms
+name: "Fantasy Realms"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Fantasy
+  - Filler
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruce Glassco
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 14
+
+description: |
+  Fantasy Realms is a fast hand-optimization card game for 3-6 players, designed by Bruce Glassco and published by WizKids, nominated for the Kennerspiel des Jahres 2021. Each player starts with seven cards from a 53-card deck of fantasy creatures, armies, artifacts, and wizards, and on each turn draws a card and discards one, always trying to maximize the combos between cards in hand at game end. Every card scores based on the other cards it is paired with — a dragon may be worth more with flame cards, a wizard may boost certain factions — creating a rich web of synergies to discover and exploit. The genius of Fantasy Realms is that its elegant two-action turn conceals enormous depth in evaluating which card combinations to pursue.
+
+upgrades: []

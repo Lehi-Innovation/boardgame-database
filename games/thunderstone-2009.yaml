@@ -1,0 +1,54 @@
+id: thunderstone-2009
+name: "Thunderstone"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Dungeon Crawler
+  - Fantasy
+  - Variable Setup
+
+evokes:
+  - Progress
+  - Discovery
+  - Tension
+  - Powerful
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mike Elliott
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Jason Engle
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Thunderstone is a 2009 fantasy deck-building game designed by Mike Elliott and published by Alderac Entertainment Group (AEG), blending dungeon-crawling theme with deck-building mechanics pioneered by Dominion. Players purchase hero, weapon, and item cards from a village market to build their decks, then use those decks to battle monsters lurking in a dungeon—fighting monsters in the back rank costs light penalties, making lanterns and torches tactically important. The combination of monsters that may be resistant to certain hero types and the light-management mechanic gave Thunderstone a distinctive identity in the early deck-building era, spawning numerous expansions and a later redesign as Thunderstone Quest.
+
+upgrades: []

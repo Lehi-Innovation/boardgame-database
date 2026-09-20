@@ -1,0 +1,58 @@
+id: the-checkered-game-of-life
+name: "The Checkered Game of Life"
+alternate_names: []
+year: 1861
+
+# Relationships
+game_family: game-of-life
+edition: "Original 1861 Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Progress
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Milton Bradley
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  The Checkered Game of Life is the 1861 board game that launched the Milton Bradley Company and
+  became the direct ancestor of the modern Game of Life. Played on an eight-by-eight checkerboard
+  grid, players travel from Infancy to Happy Old Age, accumulating points by landing on virtuous
+  squares (Honor, Truth, Temperance) while avoiding vice squares (Idleness, Crime, Ruin). A spinner
+  replaced dice to avoid associations with gambling. The game sold over 45,000 copies in its first
+  year and was revolutionary for framing success in secular, achievement-based terms rather than
+  purely religious or moral ones — a distinctly American vision of life as a meritocratic race toward
+  respectable prosperity.
+
+upgrades: []

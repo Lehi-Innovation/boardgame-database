@@ -1,0 +1,54 @@
+id: summoner-wars-master-set
+name: "Summoner Wars: Master Set"
+alternate_names: ["Summoner Wars Master Set (First Edition)"]
+year: 2011
+
+# Relationships
+game_family: summoner-wars
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Plaid Hat Games
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Colby Dauch
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 9
+
+description: |
+  Summoner Wars: Master Set (First Edition) is a 2011 tactical dueling card game by Colby Dauch published by Plaid Hat Games. Players take command of one of six asymmetric factions — including The Vanguards, Savannah Elves, Polar Dwarves, Cave Goblins, Breakers, and Fallen Kingdom — summoning units from their faction deck to battle on a gridded battlefield. Dice determine combat outcomes, while hand management and careful summoning economy create deep strategic decisions. The Master Set includes all six factions, a battlefield board, and dice for a complete experience. A second edition was released in 2021.
+
+upgrades: []

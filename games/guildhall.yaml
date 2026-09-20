@@ -1,0 +1,55 @@
+id: guildhall
+name: "Guildhall"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Take That
+  - Card Drafting
+  - Family
+  - Filler
+  - Medieval
+
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Hope S. Hwang
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 13
+
+description: |
+  Guildhall is a 2-4 player set collection card game designed by Hope S. Hwang, published by AEG in 2012, in which players build chapters of six professions — dancer, historian, assassin, trader, weaver, and farmer — across five color groups. The key innovation is that each profession card grants an ability when played, and the power of that ability scales with how many cards of that profession are already in your Guildhall chapter. Complete chapters of all five colors can be traded in for victory points, but cashing in resets the ability, creating a tension between using powers and capitalizing on them. Players also use their abilities to disrupt opponents' chapters, making Guildhall a competitive, interactive affair.
+
+upgrades: []

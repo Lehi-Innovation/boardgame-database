@@ -1,0 +1,52 @@
+id: welcome-to-the-moon
+name: "Welcome to the Moon"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: welcome-to
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Sci-Fi
+  - Space
+  - Campaign Mode
+  - Family
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Tension
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Welcome to the Moon is a narrative flip-and-write game designed by Alexis Allard and Benoit Turpin and published by Blue Cocker Games in 2021. The final entry in the Welcome To... trilogy, it features eight standalone adventures of escalating difficulty that form a connected story about humanity's escape to the moon. Using the same card-flip mechanism as Welcome To..., players choose number-action combinations to fill their personal spacesheet, but each adventure introduces unique rules and scoring conditions that transform the familiar system into something fresh each time. Accessible as individual scenarios or played as a campaign, it adds remarkable variety and narrative texture to the flip-and-write genre.
+
+upgrades: []

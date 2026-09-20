@@ -1,0 +1,51 @@
+id: sea-hawks
+name: "Sea Hawks"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Pirates
+  - Family
+  - Maritime
+  - Historical
+
+evokes:
+  - Discovery
+  - Rivalry
+  - Lucky
+  - Tension
+  - Adventure
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Orca Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Sea Hawks is a family board game published by Orca Games in 1981 in which 2–4 players take the roles of 18th-century pirate captains sailing the Spanish Main in search of buried treasure. Players navigate the seas to find hidden treasure chests, while competing with and attacking rival pirates in ship-to-ship combat to steal their findings. The game captures the adventure and conflict of the golden age of piracy in an accessible family format.
+
+upgrades: []

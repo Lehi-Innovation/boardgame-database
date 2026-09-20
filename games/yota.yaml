@@ -1,0 +1,54 @@
+id: yota
+name: "Yota"
+alternate_names:
+  - "Yoté"
+  - "Yote"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Yota (also known as Yoté) is a traditional abstract strategy game of West African origin, valued
+  as a fast-paced gambling game due to its surprising turnarounds. Played on a 5x6 board that
+  starts empty, each player holds twelve pieces and on their turn may place a piece, move one
+  orthogonally, or capture by jumping over an opponent's piece — then remove an additional
+  opponent piece of their choice. The game is won by capturing all of the opponent's pieces.
+
+upgrades: []

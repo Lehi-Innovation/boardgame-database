@@ -1,0 +1,55 @@
+id: assyria
+name: "Assyria"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Resource Management
+  - Worker Placement
+  - Euro
+  - Ancient
+  - Civilization
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Emanuele Ornella
+publisher:
+  - Ystari Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Assyria is a strategy game set in ancient Mesopotamia where players lead tribes competing to develop the fertile crescent between two great rivers. Players build ziggurats as permanent outposts of power, construct wells to expand into desert regions, make offerings at temples, and curry favor with the nobles of Assur to score points. The clever interplay between the fertile and desert areas, combined with tight resource management and contested control of sacred sites, creates a rewarding Euro experience with strong historical flavor. Originally published by Ystari in 2009, a redesigned second edition was later Kickstarted by Garphill Games.
+
+upgrades: []

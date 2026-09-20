@@ -1,0 +1,54 @@
+id: chimera-station
+name: "Chimera Station"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Variable Player Powers
+  - Engine Building
+  - Sci-Fi
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Unique
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mark Major
+publisher:
+  - Tasty Minstrel Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 14
+
+description: |
+  Chimera Station is a worker placement game for 2–4 players set aboard a space station where the twist is that workers are fully customizable—players can splice claws, tentacles, leaves, or additional brains onto their workers mid-game to permanently enhance their capabilities. Each modification changes what a worker can do at various action spaces, turning the standard worker placement framework into an evolving engine of spliced abilities. The science fiction theme, the tactile excitement of upgrading workers, and the deep strategic planning required to optimize your chimeric workforce make this one of the most inventive worker placement games available.
+
+upgrades: []

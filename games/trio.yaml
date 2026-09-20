@@ -1,0 +1,52 @@
+id: trio
+name: "Trio"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hand Management
+  - Set Collection
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Humor
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  Trio is a speedy memory and deduction card game designed by Kaya Miyano and published by Cocktail Games in 2023. The 36-card deck contains three copies each of cards numbered 1–12, and players take turns asking opponents for a specific card value to collect matching trios. The goal is to be the first to collect the trio of 7s (the central value) or complete three trios before anyone else. Blending the simplicity of a children's game with surprising tension and memory challenges, Trio is an addictive filler that plays in under 10 minutes.
+
+upgrades: []

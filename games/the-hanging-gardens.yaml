@@ -1,0 +1,56 @@
+id: the-hanging-gardens
+name: "The Hanging Gardens"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Worker Placement
+  - Card Drafting
+  - Family
+  - Euro
+  - Ancient
+
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Agency
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Grégory Grard
+  - Matthieu Verdier
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  The Hanging Gardens is a fast tile-placement and set-collection game for 1–5 players in which players compete to build the most magnificent hanging garden for King Nebuchadnezzar II. Over four rounds, players use workers to claim Garden cards from a shared display, then arrange those cards in their personal garden to score victory points based on the types and arrangements of flora. The game rewards thinking ahead about which sets to complete and how to position workers to both block opponents and secure the most valuable cards. Its quick 30-minute play time and accessible rules make it a polished and replayable filler.
+
+upgrades: []

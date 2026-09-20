@@ -1,0 +1,56 @@
+id: pagan-fate-of-roanoke
+name: "Pagan: Fate of Roanoke"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Deduction
+  - Hand Management
+  - Action Points
+  - Area Control
+  - Bluffing
+  - 1 vs Many
+  - Historical
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kasper Kjaer Christiansen
+  - Kare Storgaard
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Pagan: Fate of Roanoke is a 2-player asymmetric deduction card game set in colonial America in 1587, where one player is a witch and the other a witch hunter. Each player manages their own 50-card variable deck, placing action pawns on villagers to draw cards, play cards, and gather influence, while simultaneously trying to uncover — or conceal — their true identity and objectives. The prototype won the Danish design award Otto at Fastaval in 2018, and its final release by Capstone Games features tight asymmetric mechanics and a tense hidden-information cat-and-mouse dynamic.

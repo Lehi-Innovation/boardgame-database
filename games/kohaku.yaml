@@ -1,0 +1,63 @@
+id: kohaku
+name: "Kōhaku"
+alternate_names:
+  - "Kohaku"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Set Collection
+  - Abstract
+  - Family
+  - Nature
+  - Animals
+
+evokes:
+  - Wonder
+  - Complete
+  - Agency
+  - Clever
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Danny Devine
+publisher:
+  - 25th Century Games
+artist:
+  - Danny Devine
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kōhaku is a serene koi-pond-building tile game where players draft pairs of tiles—a
+  Koi and a Feature—from a central pond board and place them into their personal sanctuary.
+  Koi tiles come in multiple varieties with distinct placement rules, while Feature tiles
+  add lily pads, lanterns, and rocks to score bonuses. The quiet, meditative theme and
+  elegant drafting decisions create a peaceful and accessible game suitable for families,
+  with a solo mode for single-player enjoyment.
+
+upgrades: []

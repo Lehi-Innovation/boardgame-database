@@ -1,0 +1,63 @@
+id: the-fury-of-the-norsemen
+name: "The Fury of the Norsemen"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Asymmetric
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kevin Hendryx
+publisher:
+  - Metagaming Concepts
+artist:
+  - Pat Tidy
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Fury of the Norsemen is a 1980 Metagaming Concepts microgame (MicroHistory #4) by Kevin
+  Hendryx simulating Viking raids of the 9th and 10th centuries on Western European settlements.
+  One player controls Viking raiders seeking to plunder, while the other defends with soldiers
+  and villagers. Rules cover plundering, capture, berserker rages, torching settlements, leader
+  units, missile combat, and a special Divine Wrath rule affecting clergy — giving the game
+  surprising tactical depth in a compact 126-counter format with a modest 14" x 12" map. The
+  asymmetric attacker-defender structure and varied Viking raider abilities make it a tense and
+  thematically evocative microgame.
+
+upgrades: []

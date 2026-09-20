@@ -1,0 +1,52 @@
+id: sky-my-husband
+name: "Sky My Husband"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Word Play
+  - Humor
+
+evokes:
+  - Humor
+  - Clever
+  - Connection
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Guillaume Blossier
+  - Jean-Loup Chiflet
+publisher:
+  - Interlude
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Sky My Husband is a French party card game designed by Guillaume Blossier and Jean-Loup Chiflet, published by Interlude in 2004, inspired by the bestselling book of the same name that presented English expressions through their absurdly literal French translations. Players are given two clues hinting at an English idiom as rendered literally in French — such as clues pointing to "sky my husband!" for "Je t'aime mon mari!" — and race to guess the expression. With 460 expressions and two clues each, the game offers hours of linguistic wordplay and cross-cultural humor.
+
+upgrades: []

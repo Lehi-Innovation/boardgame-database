@@ -1,0 +1,54 @@
+id: therapy-1986
+name: "Therapy"
+alternate_names: ["Therapy the Game"]
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Deduction
+  - Bluffing
+
+evokes:
+  - Humor
+  - Connection
+  - Mystery
+  - Persuasion
+  - Lucky
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jay Titel
+publisher:
+  - Pressman
+  - Alary Games
+artist:
+  - Jussi Wallenius
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Therapy is a 1986 party psychology game designed by Jay Titel and published by Pressman in which 3-6 players collect pieces representing six phases of life: infancy, childhood, adolescence, adulthood, seniority, and cosmos. Players landing on Therapy squares must answer personal questions about themselves while other players try to guess their answers—individually or in "group therapy" consensus. The game incorporates Rorschach-style "Thinkblot" ink-blot cards for psychological analysis, creating a light-hearted exploration of personality and behavior. A second edition called "Second Session" was released in 1996, attesting to the game's lasting popularity as a conversation-starter at parties.
+
+upgrades: []

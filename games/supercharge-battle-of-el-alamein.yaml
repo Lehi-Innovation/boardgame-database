@@ -1,0 +1,59 @@
+id: supercharge-battle-of-el-alamein
+name: "Supercharge: Battle of El Alamein, October 1942"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Greg Costikyan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Supercharge: Battle of El Alamein, October 1942 is a hex-and-counter board
+  wargame simulating Operation Supercharge during the Second Battle of El
+  Alamein in World War II. Originally published as part of SPI's "Four Battles
+  in North Africa" quadrigame collection, it was also released as a standalone
+  folio game. Designed by Greg Costikyan, Frank Davis, and Redmond A. Simonsen,
+  the game gives players control of Allied and Axis forces as they fight through
+  one of the pivotal engagements of the North African campaign.
+
+upgrades: []

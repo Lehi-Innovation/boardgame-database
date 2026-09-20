@@ -1,0 +1,51 @@
+id: showbiz
+name: "Showbiz"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Economic
+  - Events
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Prestige Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Showbiz is an entertainment industry board game published by Prestige Games in 1984 in which 2–8 players take the roles of theatre managers competing to hire performers and make the most money from the public. Players bid at auction to sign contracts with performers across six entertainment styles, while public preference cards shift audience tastes over time — providing both a current known preference and a partial forecast of future trends. The game rewards reading market trends and outbidding rivals for the right performers at the right time.
+
+upgrades: []

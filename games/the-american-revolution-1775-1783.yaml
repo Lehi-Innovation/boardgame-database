@@ -1,0 +1,58 @@
+id: the-american-revolution-1775-1783
+name: "The American Revolution: 1775–1783"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  The American Revolution: 1775–1783 is a two-player strategic wargame designed by James F. Dunnigan
+  and published by SPI in 1972. Notable for breaking with the hex-grid convention common to wargames
+  of its era, the game uses an abstract area-and-region map of North America with territory-based
+  movement and victory point values assigned to regions. One player commands British forces and the
+  other the Continental Army under George Washington, managing strength-point counters across the
+  entirety of the Revolutionary War. The game was published in a white box with a red stripe, with
+  later editions featuring artwork by Alonzo Chappel.
+
+upgrades: []

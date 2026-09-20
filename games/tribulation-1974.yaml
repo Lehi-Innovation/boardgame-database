@@ -1,0 +1,50 @@
+id: tribulation-1974
+name: "Tribulation"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Tribulation (1974) is a mathematical puzzle and speed game for 1-6 players. Players compete in real-time on a grid, racing to identify and claim combinations that satisfy the game's numerical conditions. Published by Whitman and other companies, it is a simple, fast-paced game that rewards quick mental arithmetic and pattern recognition. Sources on this game are limited; minimal entry.
+
+upgrades: []

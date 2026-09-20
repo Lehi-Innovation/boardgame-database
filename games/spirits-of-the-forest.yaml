@@ -1,0 +1,53 @@
+id: spirits-of-the-forest
+name: "Spirits of the Forest"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Drafting
+  - Abstract
+  - Nature
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Wonder
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Schacht
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 14
+
+description: |
+  Spirits of the Forest is a quick abstract set-collection game by Michael Schacht, published by Thundergryph Games, for 1–4 players. Players represent the four elements of nature competing to acquire the most spirit symbols from a shared pool of 48 spirit tiles arranged in a forest row. On each turn, a player drafts up to two spirit tiles or uses favor tokens to access tiles flanked by gemstones. Points are scored by holding the majority of each of the eight spirit types at game end. Elegant in its simplicity, the game teaches in minutes yet offers meaningful tactical decisions about when to claim tiles versus save favor tokens.
+
+upgrades: []

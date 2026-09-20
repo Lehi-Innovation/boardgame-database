@@ -1,0 +1,61 @@
+id: swashbuckler-1980
+name: "Swashbuckler"
+alternate_names: ["Swashbuckler: A Game of Swordplay and Derring-do"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Wargame
+  - Historical
+  - Pirates
+
+evokes:
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - S. Craig Taylor
+publisher:
+  - Yaquinto
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Swashbuckler is a tactical combat game set in the swashbuckling era of
+  The Three Musketeers, published by Yaquinto in 1980. Players secretly plan
+  six simultaneous orders for their character each turn — choosing from
+  movement, fencing maneuvers, throwing objects, swinging from chandeliers, and
+  more — then all actions are revealed and resolved together. Two double-sided
+  maps provide the settings (a tavern and a pirate ship), and players either
+  choose the role of musketeers with rapiers or pirates with sabres. The last
+  character standing wins in what often becomes a chaotic brawl of
+  simultaneous swordplay and comic mishaps.
+
+upgrades: []

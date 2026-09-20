@@ -1,0 +1,55 @@
+id: 1849-the-game-of-sicilian-railways
+name: "1849: The Game of Sicilian Railways"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Trains
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Chris Lawson
+  - Federico Vellani
+publisher:
+  - All-Aboard Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 14
+
+description: |
+  1849: The Game of Sicilian Railways is an 18xx railroad investment game set in Sicily from 1849 to 1922, designed by Chris Lawson and Federico Vellani. Players take on the roles of railroad investors, promoters, and company presidents with the general objective of accumulating personal wealth through savvy stock market moves and efficient route building across the distinctive Sicilian map. Like all 18xx titles, the game alternates between stock rounds — where players buy and sell shares — and operating rounds, where companies lay track, build stations, and run trains. The island setting creates unique geographic constraints that distinguish it from other entries in the series.
+
+upgrades: []

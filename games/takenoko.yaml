@@ -1,0 +1,64 @@
+id: takenoko
+name: "Takenoko"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Modular Board
+  - Action Points
+  - Family
+  - Gateway
+  - Euro
+  - Antoine Bauza
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Antoine Bauza
+publisher:
+  - Bombyx
+  - Matagot
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Takenoko is a family strategy game designed by Antoine Bauza and published by
+  Bombyx and Matagot in 2011. Players tend an imperial Japanese garden for the
+  Emperor's giant panda, placing hexagonal terrain tiles, irrigating plots to
+  grow colored bamboo, moving the gardener to nurture growth, and positioning the
+  panda to eat bamboo segments. Each turn players choose from a set of actions
+  while secretly pursuing objective cards for victory points. The game won the
+  2012 As d'Or - Jeu de l'Année in France and is celebrated for its beautiful
+  components and accessible yet strategic gameplay.
+
+upgrades: []

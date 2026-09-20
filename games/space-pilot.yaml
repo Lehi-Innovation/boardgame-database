@@ -1,0 +1,56 @@
+id: space-pilot
+name: "Space Pilot"
+alternate_names: []
+year: 1951
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Sci-Fi
+  - Space
+  - Family
+
+evokes:
+  - Lucky
+  - Wonder
+  - Discovery
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Cadaco-Ellis
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Space Pilot is a race game published by Cadaco-Ellis in 1951, one of the earliest commercial space-themed
+  board games produced as public fascination with science fiction and space exploration grew in the early Cold
+  War era. Players spin a large rocket-shaped spinner to determine movement, racing across a board illustrated
+  with vivid space ships and planets. A charming artifact of the pre-Space Age imagination, it features bold
+  futuristic graphics on both the box and built-in playing board.
+
+upgrades: []

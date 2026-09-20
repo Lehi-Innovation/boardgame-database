@@ -1,0 +1,54 @@
+id: ticket-to-ride-ghost-train
+name: "Ticket to Ride: Ghost Train"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Family
+  - Gateway
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Lucky
+  - Connection
+  - Wonder
+  - Progress
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 22
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Ticket to Ride: Ghost Train is a Halloween-themed standalone entry in the Ticket to Ride First Journey line, designed for families and younger players. Players collect Parade Float cards to claim routes on a spooky map connecting locations like the Mad Scientist's Lab, the Gingerbread House, and the Lonely Barn. The simplified rules and short playtime make it an ideal introduction to the Ticket to Ride series for children aged 6 and up.
+
+upgrades: []

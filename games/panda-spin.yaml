@@ -1,0 +1,52 @@
+id: panda-spin
+name: "Panda Spin"
+alternate_names: []
+year: 2026
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Set Collection
+  - Family
+  - Animals
+  - Carl Chudyk
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Carl Chudyk
+publisher:
+  - Moon Gate Design
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 14
+
+description: |
+  Panda Spin is a trick-taking climbing game by Carl Chudyk featuring a special deck of "double-headed" cards — each card can be flipped during play, changing its value and effects. Players build their palette of cards and use the flip mechanic to control the current winning condition, creating an evolving game state where the rules of victory shift with each play. The innovative dual-sided card design brings Chudyk's signature rule-bending creativity to a streamlined trick-taking format playable in under 40 minutes.

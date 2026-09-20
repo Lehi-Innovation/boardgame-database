@@ -1,0 +1,58 @@
+id: the-cottage-of-content
+name: "The Cottage of Content or the Blessings of Cheerfulness & Good Temper"
+alternate_names:
+  - "The Cottage of Content"
+  - "Cottage of Content"
+year: 1848
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Historical
+
+evokes:
+  - Progress
+  - Lucky
+  - Humor
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - William Spooner
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The Cottage of Content or the Blessings of Cheerfulness & Good Temper is an 1848 Victorian moral board
+  game published by William Spooner of London, played with a teetotum (a spinning top marked F, R, L, B
+  for forward, right, left, and back). Players navigate a hand-coloured lithograph landscape of roads,
+  rivers, and a railway, trying to reach the idyllic Cottage of Content. The game's moral message about
+  cheerfulness and good temper was characteristic of Victorian children's games, though its whimsical
+  illustrated board and humorous scenarios give it lightness. It is preserved in the Victoria and Albert
+  Museum collection and represents a charming artifact of 19th-century game design.
+
+upgrades: []

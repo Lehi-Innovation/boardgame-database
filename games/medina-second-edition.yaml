@@ -1,0 +1,52 @@
+id: medina-second-edition
+name: "Medina (Second Edition)"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: medina
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Abstract
+  - Euro
+  - City Building
+  - Medieval
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Stronghold Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Medina (Second Edition) is a strategic city-building game for 2-4 players set in the construction of an ancient Arabian city. Players take turns placing wooden buildings, towers, and walls onto a shared board, and must carefully claim buildings — each player can own only one of each color. Claiming a building scores points based on the number of pieces attached to it, plus bonuses for size and wall connections. This updated edition adds a double-sided board (enabling a better two-player experience), nearly 200 detailed wooden pieces, and new gameplay tweaks that deepen the tension of knowing when to claim vs. when to keep expanding.

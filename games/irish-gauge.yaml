@@ -1,0 +1,63 @@
+id: irish-gauge
+name: "Irish Gauge"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Network Building
+  - Route Building
+  - Economic
+  - Hex Map
+  - Historical
+  - Trains
+  - Capstone Games
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Tom Russell
+publisher:
+  - Capstone Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 15
+
+description: |
+  Irish Gauge is a streamlined cube-rails investment game set in mid-1800s Ireland where
+  players bid to fund railroad companies and build their networks across the island.
+  Rather than directly controlling a single railroad, players hold shares in multiple
+  companies and profit whenever those companies pay dividends. The interplay between
+  building routes to generate income and timing when to collect dividends creates
+  surprisingly deep strategic tension in under an hour. A refined and approachable
+  entry point into the classic Winsome Games stock-train genre.
+
+upgrades: []

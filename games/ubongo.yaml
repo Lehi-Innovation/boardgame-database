@@ -1,0 +1,55 @@
+id: ubongo
+name: "Ubongo"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: ubongo
+edition: null
+base_game: null
+expansions:
+  - ubongo-3d
+  - ubongo-extreme
+  - ubongo-duel
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Real-time
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Grzegorz Rejchtman
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Ubongo is a real-time competitive puzzle game designed by Grzegorz Rejchtman. Originally published as "Pyramidens Portar" in Sweden in 2003 (winning the Swedish Årets Spel Prize), it was republished in Germany in 2005 as Ubongo by KOSMOS. Players simultaneously race against a sand timer to place polyomino tiles onto their puzzle board to fill a designated area completely. The first to finish shouts "Ubongo!" and earns gems — the fastest players also claim bonus gems from the round track. After nine rounds, the player with the most valuable gem collection wins, blending spatial puzzle-solving with the excitement of real-time competition.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: the-stock-market-game-1970
+name: "The Stock Market Game"
+alternate_names: []
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Negotiation
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Thomas N. Shaw
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Stock Market Game is a 1970 economic strategy game designed by Thomas N. Shaw and published by Avalon Hill in which players buy and sell five different stocks and bonds at fluctuating prices within timed trading rounds, aiming to accumulate the most wealth. Players must track market conditions, time their trades, and out-maneuver competitors in a simulated stock market environment. As one of Avalon Hill's classic economic games of the era, it brought financial speculation mechanics to hobby gaming at a time when Euro-style economic games were still decades away, offering accessible entry into stock trading concepts.
+
+upgrades: []

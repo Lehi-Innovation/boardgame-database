@@ -1,0 +1,52 @@
+id: star-wars-customizable-card-game
+name: "Star Wars Customizable Card Game"
+alternate_names: ["Star Wars CCG"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Sci-Fi
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Braunlich
+  - Rollie Tesh
+publisher:
+  - Decipher
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Star Wars Customizable Card Game is a collectible card game published by Decipher from 1995 to 2001, at its peak the second best-selling CCG in the world behind Magic: The Gathering. One player controls the Light Side of the Force while the other plays the Dark Side, using 60-card decks to battle across iconic Star Wars locations. The "Destiny" system uses card draws to resolve random outcomes, and the Force Pile mechanic creates a resource system tied to your deck size. Notably, no card was ever banned from tournament play; instead, Decipher released specific counter-cards to balance problem strategies.
+
+upgrades: []

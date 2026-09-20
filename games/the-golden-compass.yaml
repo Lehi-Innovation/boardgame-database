@@ -1,0 +1,60 @@
+id: the-golden-compass
+name: "The Golden Compass"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Family
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Mystery
+  - Wonder
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Francesco Nepitello
+  - Marco Maggi
+publisher:
+  - Sophisticated Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Golden Compass board game was designed by Francesco Nepitello and Marco Maggi, published
+  by Sophisticated Games in 2007 to coincide with the film adaptation of Philip Pullman's novel
+  Northern Lights. Players take the role of Lyra Silvertongue as she escapes the Magisterium,
+  using an alethiometer with moving hands as the game's centerpiece alongside cards and tokens
+  that influence her progress. The mechanics reflect the novel's themes of uncertainty and hidden
+  meaning — appropriate to a device that reveals truth to those who know how to read it. The game
+  was developed under license from New Line Cinema and designed by the creators of acclaimed Lord
+  of the Rings tabletop adaptations.
+
+upgrades: []

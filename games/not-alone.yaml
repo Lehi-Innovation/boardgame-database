@@ -1,0 +1,52 @@
+id: not-alone
+name: "Not Alone"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hand Management
+  - Simultaneous Action
+  - Asymmetric
+  - Variable Player Powers
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Dread
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ghislain Masson
+publisher:
+  - Stronghold Games
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Not Alone is an asymmetric 1-vs-many card game for 2-7 players set on a hostile alien planet. One player controls the Creature, a predator hunting stranded survivors, while the rest play as the Hunted who must cooperate to survive. Each round both sides simultaneously choose their actions — the Hunted explore location cards for resources and special powers, while the Creature hunts to recapture them. The race mechanic drives everything: Hunted players must push their Will token to 0 to win, while the Creature tries to advance theirs to 10. Short, tense, and satisfying with escalating asymmetric strategy.

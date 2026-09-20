@@ -1,0 +1,51 @@
+id: starship-troopers-1976
+name: "Starship Troopers"
+alternate_names: ["Robert Heinlein's Starship Troopers"]
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Randall C. Reed
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Starship Troopers is a 1976 Avalon Hill hex wargame designed by Randall C. Reed, based on Robert A. Heinlein's novel. One player controls the Mobile Infantry assaulting Arachnid-controlled planets, while the other secretly plots bug-hive and tunnel systems on a paper map overlay. Using a programmed instruction approach, the game introduces concepts through escalating scenarios — from basic MI raids to the climactic assault on Klendathu. The hidden asymmetric map and gradual rule introduction were innovative design elements. The game received a Charles Roberts Award nomination for Best Tactical Game of 1976.
+
+upgrades: []

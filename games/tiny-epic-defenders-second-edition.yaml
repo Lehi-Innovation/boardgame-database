@@ -1,0 +1,52 @@
+id: tiny-epic-defenders-second-edition
+name: "Tiny Epic Defenders (Second Edition)"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: tiny-epic-defenders
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Variable Player Powers
+  - Fantasy
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Connection
+  - Dread
+  - Progress
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Tiny Epic Defenders (Second Edition) is a cooperative fantasy defense game designed by Scott Almes and published by Gamelyn Games in 2018. Players work together to defend the capital city and surrounding regions of the Epic Realm from waves of ever-escalating enemies, including a powerful boss. Each player takes the role of a unique hero with special abilities, spending action points each round to travel between regions, fight monsters, and shore up defenses. The second edition refines the original's mechanics and adds new heroes, enemies, and cards, delivering a tense cooperative experience in a compact, travel-friendly box.
+
+upgrades: []

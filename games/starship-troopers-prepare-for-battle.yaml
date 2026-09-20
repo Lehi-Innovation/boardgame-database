@@ -1,0 +1,53 @@
+id: starship-troopers-prepare-for-battle
+name: "Starship Troopers: Prepare for Battle!"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Variable Setup
+  - Modular Board
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ben Knight
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Starship Troopers: Prepare for Battle! is a 1997 Avalon Hill game released to coincide with Paul Verhoeven's film adaptation. Players control Starship Troopers with unique special abilities facing off against alien bugs across a barren planet. The map is customizable via terrain overlays, allowing for multiple arena configurations, and the game supports player-created scenarios with increasing difficulty. Each Trooper and each bug type has distinct abilities, and the scenario-based design rewards tactical adaptation to different battlefield conditions.
+
+upgrades: []

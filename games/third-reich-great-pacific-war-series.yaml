@@ -1,0 +1,53 @@
+id: third-reich-great-pacific-war-series
+name: "Third Reich/Great Pacific War series"
+alternate_names: ["Rise and Decline of the Third Reich", "Advanced Third Reich"]
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+  - Economic
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3]
+
+designer:
+  - John Prados
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 3000
+min_playtime: 480
+max_playtime: 10000
+min_age: 16
+
+description: |
+  The Third Reich/Great Pacific War series refers to Avalon Hill's grand strategy World War II wargame series beginning with Rise and Decline of the Third Reich (1974), designed by John Prados. Players command the major powers of WWII across the entire European or Pacific theater from 1939-1946, managing armies, navies, air forces, and production through detailed strategic turns. The series evolved through Advanced Third Reich (1992) and its Pacific counterpart Empire of the Rising Sun (1995), which could be combined for a full global war simulation. In 2003, GMT Games republished a redesign as A World at War. The series is celebrated as one of the most comprehensive and ambitious WWII strategic simulations in the wargame hobby.
+
+upgrades: []

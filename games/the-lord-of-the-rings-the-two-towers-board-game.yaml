@@ -1,0 +1,51 @@
+id: the-lord-of-the-rings-the-two-towers-board-game
+name: "The Lord of the Rings: The Two Towers Board Game"
+alternate_names: ["The Two Towers Boardgame"]
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Lord of the Rings
+  - Family
+
+evokes:
+  - Tension
+  - Powerful
+  - Discovery
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Games Workshop
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Lord of the Rings: The Two Towers Board Game is a 2002 games adaptation published by Games Workshop tied to the Peter Jackson film. Players engage in combat and adventure scenarios drawn from the second film in the trilogy, featuring iconic locations and characters such as Helm's Deep and the Battle of Isengard. The game won the 2002 Origins Award for Best Science Fiction or Fantasy Miniature Rules. It features miniatures that can be assembled straight from the box and uses a cardboard ruler to facilitate play without the need for a separate tape measure.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: the-scepter-of-zavandor
+name: "The Scepter of Zavandor"
+alternate_names: ["Zepter von Zavandor"]
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Engine Building
+  - Variable Player Powers
+  - Fantasy
+  - Euro
+  - Economic
+
+evokes:
+  - Progress
+  - Clever
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Jens Drögemüller
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  The Scepter of Zavandor is a 2004 fantasy economic board game designed by Jens Drögemüller (later co-designer of Terra Mystica and Gaia Project) and published by Lookout Games. Players portray young magicians competing to become archmage by enchanting gemstones to generate income, then using that income in auctions to acquire artifacts, sentinels, and magical knowledge. Victory points accumulate from active gems, artifacts, sentinels, and knowledge cards, requiring players to balance short-term income engine construction against long-term scoring. The game is openly inspired by Outpost's economy mechanics and placed ninth at the 2005 Deutscher Spiele Preis.
+
+upgrades: []

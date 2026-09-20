@@ -1,0 +1,56 @@
+id: ulm
+name: "Ulm"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Mancala
+  - Modular Board
+  - Euro
+  - Family
+  - Medieval
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Günter Burkhardt
+publisher:
+  - R&R Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Ulm is a medium-weight euro game for 2–4 players set during the medieval construction of Ulm's famous Gothic cathedral. The core mechanism features a 3×3 action grid where the active player draws an action tile from a bag and pushes it into any row, causing the entire row to shift and one tile to fall off the other end. Players execute the three actions showing in the row after the push, then move their boats along the Danube, control city districts, and compete on the famous Ulm Sparrow track. The push mechanism creates a satisfying puzzle as players try to set up their ideal action sequence while anticipating opponents' moves.
+
+upgrades: []

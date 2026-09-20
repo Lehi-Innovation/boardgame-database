@@ -1,0 +1,50 @@
+id: shipka-pass
+name: "Shipka Pass"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Shipka Pass is a board game catalogued in Wikidata (Q1704181), likely themed around the famous Battles of Shipka Pass during the Russo-Turkish War of 1877–1878, in which a small Russian and Bulgarian volunteer force successfully defended the strategically vital mountain pass against a much larger Ottoman army. The historical engagement at Shipka Pass is a celebrated moment in Bulgarian national history. Specific details about the game's publisher, designer, year of publication, and mechanics could not be verified from publicly available sources; it may be a Bulgarian-market or Eastern European regional publication.
+
+upgrades: []

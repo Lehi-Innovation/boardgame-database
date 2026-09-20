@@ -1,0 +1,56 @@
+id: the-lord-of-the-rings-the-card-game
+name: "The Lord of the Rings: The Card Game"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Card Drafting
+  - Campaign Mode
+  - Fantasy
+  - Lord of the Rings
+  - Fantasy Flight Games
+
+evokes:
+  - Progress
+  - Tension
+  - Masterful
+  - Discovery
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Nate French
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 13
+
+description: |
+  The Lord of the Rings: The Card Game is a 2011 Living Card Game (LCG) published by Fantasy Flight Games in which 1-4 players cooperatively battle through adventure scenarios set in Middle-earth. Players construct decks from three spheres of influence—Leadership, Spirit, Tactics, and Lore—and combine hero cards with ally, event, and attachment cards to overcome encounter decks filled with enemies, treacheries, and locations. The game features an expandable card pool with dozens of scenario packs, deluxe expansions, and saga expansions adapting the novels. It is celebrated as one of the finest solo and cooperative card games ever designed, with exceptional thematic depth and endless replayability.
+
+upgrades: []

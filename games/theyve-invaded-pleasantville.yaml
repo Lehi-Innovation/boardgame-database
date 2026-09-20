@@ -1,0 +1,51 @@
+id: theyve-invaded-pleasantville
+name: "They've Invaded Pleasantville"
+alternate_names: []
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Asymmetric
+  - Sci-Fi
+  - Aliens
+
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  They've Invaded Pleasantville is a two-player asymmetric game in which one player defends a small town by alerting its citizens to an alien invasion, while the other player secretly maneuvers to take over townspeople's minds. The town player races to warn residents before they fall under alien control, while the alien player works covertly to dominate the town. Published in 1968, it represents an early example of asymmetric hidden-movement gameplay with a science-fiction theme that would later become popular in the modern board game era. Details on this rare vintage title are limited due to its obscurity.
+
+upgrades: []

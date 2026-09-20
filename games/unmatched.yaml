@@ -1,0 +1,58 @@
+id: unmatched
+name: "Unmatched: Battle of Legends, Volume One"
+alternate_names:
+  - "Unmatched"
+year: 2019
+
+# Relationships
+game_family: unmatched
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Action Points
+  - 1 vs Many
+  - Fantasy
+  - Mythology
+  - Restoration Games
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Unique
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Rob Daviau
+  - Justin D. Jacobson
+publisher:
+  - Restoration Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 9
+
+description: |
+  Unmatched: Battle of Legends, Volume One is a fast, asymmetric skirmish game for 2–4 players featuring mythological and pop-culture heroes battling on unique maps. Each fighter — including King Arthur, Alice, Medusa, and Sinbad in the base set — has a completely different deck of cards representing their combat style, special abilities, and sidekick powers. Players alternate activating their hero and sidekick, using movement and card play to position for attacks. The genius of Unmatched lies in its asymmetry: every character plays and feels fundamentally different, and cross-set compatibility means the roster expands endlessly.
+
+upgrades: []

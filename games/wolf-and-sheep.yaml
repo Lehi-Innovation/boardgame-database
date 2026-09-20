@@ -1,0 +1,51 @@
+id: wolf-and-sheep
+name: "Wolf and Sheep"
+alternate_names:
+  - "Wolves and Sheep"
+  - "Fox and Hounds"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Deduction
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Wolf and Sheep is a classic asymmetric two-player abstract game in which one player controls a small number of wolves and the other a large flock of sheep on a checkered board. The sheep can only move forward diagonally while the wolves may move in any diagonal direction; the sheep win by trapping the wolves so they cannot move, while the wolves win by breaking through the sheep's defensive line. The game is an ancient folk game related to Fox and Hounds and similar barrier games, known by many names across different cultures, and is often produced in decorative wooden or travel editions.
+
+upgrades: []

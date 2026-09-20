@@ -1,0 +1,52 @@
+id: strike-force-one
+name: "Strike Force One"
+alternate_names: ["Strike Force One: The Cold War Heats Up – 1975"]
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Strike Force One is a 1975 SPI wargame designed as an introductory gateway to the hex-and-counter wargaming hobby, originally given away as a free promotional item. Set in a hypothetical 1975 clash in West Germany, one player controls a Soviet invasion force, the other American defenders, on a compact 8x9 hex map. With only 10 counters and a simple "I Go, You Go" system, the game teaches movement, zones of control, basic combat, retreat, and advancement in a tight four-turn format. The Soviet player must occupy two of three town hexes to win — otherwise the Americans prevail.
+
+upgrades: []

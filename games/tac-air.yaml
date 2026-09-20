@@ -1,0 +1,60 @@
+id: tac-air
+name: "Tac Air"
+alternate_names: ["TAC AIR"]
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Gary C. Morgan
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 16
+
+description: |
+  Tac Air is a complex two-player operational-level wargame published by Avalon
+  Hill in 1987, depicting NATO vs. Warsaw Pact combat in southern Germany along
+  the Main River corridor. Originally developed by US Air Force officers, the
+  game models the "modern air-land battle" doctrine with remarkable fidelity,
+  including air-to-air combat, close air support, interdiction, Wild Weasel and
+  electronic warfare missions, reconnaissance flights, and surface-to-air missile
+  networks. Players must coordinate ground forces and air power to either blunt
+  or execute a Warsaw Pact invasion. It won the CSR award for Best Modern Era
+  Boardgame in 1987.
+
+upgrades: []

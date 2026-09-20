@@ -1,0 +1,48 @@
+id: tintin-and-tintinors
+name: "Tintin & Tintinors"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Connection
+  - Wonder
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Tintin & Tintinors is a vintage set collection board game from 1962 themed around Hergé's beloved Belgian cartoon character Tintin. Players collect themed items associated with Tintin's adventures, such as rum, an umbrella, a music score, and walking sticks. As an early officially licensed Tintin game, it is primarily of interest to collectors of Tintin memorabilia and vintage board games.
+
+upgrades: []

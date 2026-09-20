@@ -1,0 +1,53 @@
+id: the-fox-in-the-forest-duet
+name: "The Fox in the Forest Duet"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: fox-in-the-forest
+edition: null
+base_game: the-fox-in-the-forest
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Cooperative
+  - Hand Management
+  - Nature
+  - Family
+  - Gateway
+
+evokes:
+  - Connection
+  - Clever
+  - Tension
+  - Complete
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 10
+
+description: |
+  The Fox in the Forest Duet is a cooperative two-player trick-taking game published by Foxtrot Games and Renegade Game Studios in 2020, reimagining the mechanics of The Fox in the Forest for cooperative play. Rather than competing, both players work together to move a shared token along a forest path to collect gems before running out of cards. Cards won in each trick correspond to specific forest spaces, and players must navigate without communicating about their hands. The tightrope between collecting the gems you need and avoiding treacherous forest spaces creates a uniquely tense cooperative puzzle within the elegant trick-taking framework.
+
+upgrades: []

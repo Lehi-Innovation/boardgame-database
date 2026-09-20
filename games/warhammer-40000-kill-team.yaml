@@ -1,0 +1,55 @@
+id: warhammer-40000-kill-team
+name: "Warhammer 40,000: Kill Team"
+alternate_names:
+  - "Kill Team"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Action Points
+  - Sci-Fi
+  - Wargame
+  - Campaign Mode
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Warhammer 40,000: Kill Team is Games Workshop's 2018 skirmish game that distills the full-scale 40K experience into fast-paced small-unit battles played on a compact 22" by 30" board. Players command customized squads of three to fifteen models, activating individual fighters in alternating turns during the shooting and combat phases, creating a more dynamic flow than standard Warhammer 40,000. The Tactics mechanic introduces special abilities costing Command Points, adding another layer of strategic depth. Optional narrative campaign rules allow squads to develop across linked battles, with faction-specific Tactics, name generators, and character quirks deepening the experience.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: troyes-dice
+name: "Troyes Dice"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: troyes
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Resource Management
+  - Historical
+  - Medieval
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Tension
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Troyes Dice is a roll-and-write game designed by Sébastien Dujardin, Xavier Georges, and Alain Orban — the creators of Troyes — published by Pearl Games in 2020. Players discover medieval Troyes during a time when society was organized around noble, civil, and religious orders, rolling dice and allocating results to activities in those three spheres. The signature Troyes mechanic of buying dice from others appears in adapted form, and players score for building the cathedral and meeting the needs of the city's citizens. A compact and accessible gateway into the rich Troyes universe.
+
+upgrades: []

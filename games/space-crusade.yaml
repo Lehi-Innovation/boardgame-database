@@ -1,0 +1,61 @@
+id: space-crusade
+name: "Space Crusade"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Dice Rolling
+  - Modular Board
+  - Variable Setup
+  - Sci-Fi
+  - Dungeon Crawler
+  - Wargame
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Steven Baker
+publisher:
+  - Milton Bradley
+  - Games Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Space Crusade is a Warhammer 40,000-themed adventure game designed by Steven Baker and co-produced by Milton
+  Bradley and Games Workshop in 1990. Set aboard a Tyranid vessel, up to three players command Space Marine scout
+  squads pursuing individual mission objectives while a fourth player controls the alien defenders — Orks, Chaos
+  Warriors, and Genestealers. Combat uses custom dice resolved against armor values, and the modular board tiles
+  build varied spaceship interiors each session. A simplified cousin of Space Hulk, it introduced many young
+  players to the Warhammer 40,000 universe.
+
+upgrades: []

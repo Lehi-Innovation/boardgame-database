@@ -1,0 +1,54 @@
+id: caper-europe
+name: "Caper: Europe"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Area Control
+  - Set Collection
+  - Hand Management
+  - Abstract
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unai Rubio
+publisher:
+  - Keymaster Games
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 10
+
+description: |
+  Caper: Europe is a competitive two-player card-drafting game in which rival criminal masterminds plan daring heists across iconic European cities—from Paris to Rome. Players simultaneously draft thieves and gear from a shared display, deploying operatives to contest three shared location cards while equipping them with tools that generate points and special abilities. The tug-of-war scoring across multiple locations, combined with the shifting card draft, creates a fast and deeply tactical battle of wits, making it one of the best two-player card games for strategic couples or friends.
+
+upgrades: []

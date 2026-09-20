@@ -1,0 +1,57 @@
+id: ticket-to-ride-rails-and-sails
+name: "Ticket to Ride: Rails & Sails"
+alternate_names:
+  - "Ticket to Ride: Rails and Sails"
+year: 2016
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Network Building
+  - Hand Management
+  - Family
+  - Euro
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Complete
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 10
+
+description: |
+  Ticket to Ride: Rails & Sails expands the series to cover both land and sea on a double-sided board, with one side depicting the entire world map and the other the Great Lakes of North America. Players manage two separate decks — train cards for rail routes and ship cards for sea routes — and must also build harbors to connect land and water networks. The added complexity of dual resource management and the ambitious global or Great Lakes scale make this one of the most strategically rich standalone entries in the Ticket to Ride family.
+
+upgrades: []

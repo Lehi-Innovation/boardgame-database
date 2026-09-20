@@ -1,0 +1,55 @@
+id: ugg-tect
+name: "Ugg-Tect"
+alternate_names:
+  - "Aargh!Tect"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Real-time
+  - Cooperative
+  - Dexterity
+  - Fantasy Flight Games
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Clever
+  - Lucky
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 8]
+
+designer:
+  - Walter Obert
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Ugg-Tect (also sold as Aargh!Tect) is a hilarious team party game published by Fantasy Flight Games in which players are prehistoric cave people attempting to construct buildings. The "architect" caveman sees a building blueprint but can only communicate using primitive caveman gestures and grunts — no words allowed. Their "builder" teammates must interpret these caveman signals to place the correct blocks in the correct positions. The comedy comes from the communication breakdown between architect and builders, and from a foam club the architect may use to "bonk" confused builders. Nominated for Golden Geek Best Party Game in 2010.
+
+upgrades: []

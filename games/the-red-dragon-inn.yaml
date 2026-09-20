@@ -1,0 +1,54 @@
+id: the-red-dragon-inn
+name: "The Red Dragon Inn"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Party
+  - Fantasy
+  - Humor
+
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Cliff Bohm
+  - Jeff Morrow
+publisher:
+  - SlugFest Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  The Red Dragon Inn is a 2007 party card game by SlugFest Games in which 2-4 players take on the roles of fantasy adventurers unwinding at the titular tavern after a dungeon crawl. Players must manage their character's Fortitude (health) and Alcohol Content, trying to remain conscious and retain enough gold while forcing their rivals to drink themselves under the table. Each adventurer has a unique deck of cards representing their special abilities and antics, fueling hilarious interactions as characters gamble, brawl, and slam drinks. The game has spawned numerous standalone expansions with new characters, making it one of the most enduring and charming light card games in the hobby.
+
+upgrades: []

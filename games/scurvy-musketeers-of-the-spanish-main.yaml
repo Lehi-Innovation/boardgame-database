@@ -1,0 +1,56 @@
+id: scurvy-musketeers-of-the-spanish-main
+name: "Scurvy Musketeers of the Spanish Main"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: b-movie-series
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Pirates
+  - Humor
+  - Party
+
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stephen Tassie
+publisher:
+  - Z-Man Games
+artist:
+  - Steve Bryant
+  - Oliver Castañeda
+  - Mike Jackson
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Scurvy Musketeers of the Spanish Main is the seventh installment in Z-Man Games' B-Movie Series of swashbuckling cinema card games, designed by Stephen Tassie. Players build their pirate movie by playing Character, Prop, and Location cards while sending Creatures to attack opponents' productions and eliminate their characters. SFX cards add wild modifications, and when "Roll the Credits" is played, the player with the most points wins. The game can be played standalone or combined with other B-Movie Series games for expanded variety.
+
+upgrades: []

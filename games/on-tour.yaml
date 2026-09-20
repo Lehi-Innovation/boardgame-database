@@ -1,0 +1,52 @@
+id: on-tour
+name: "On Tour"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Route Building
+  - Network Building
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Complete
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Chad DeShon
+publisher:
+  - Allplay
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  On Tour is a roll-and-write game for 1-8 players in which everyone tries to book the longest possible concert tour across the US or Europe. Each turn, two 10-sided dice are rolled and three region cards are flipped, telling all players which two numbers to write in which geographic areas. Players write numbers in their map, then at game end draw the longest ascending route they can through their numbers. The simultaneous play and simple scoring make it a breezy, clever puzzle that scales effortlessly to large groups.

@@ -1,0 +1,54 @@
+id: the-napoleonic-wars-2002
+name: "The Napoleonic Wars"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Action Points
+  - Negotiation
+  - Events
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Mark McLaughlin
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  The Napoleonic Wars (1805-1815) is a 2002 card-driven wargame by GMT Games designed by Mark McLaughlin, using a point-to-point movement system rooted in Mark Herman's We the People system. Two to five players command the great powers of Napoleonic Europe—France, Britain, Austria, Russia, and Prussia—managing armies, fleets, and diplomacy through strategy cards that serve dual functions as events or command points. When armies collide, battle cards are played and dice are rolled to resolve engagements and inflict casualties. The Diplomatic Track creates constant tension as alliances shift, and the game is praised for packing exceptional strategic depth into a relatively accessible ruleset.
+
+upgrades: []

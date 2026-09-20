@@ -1,0 +1,49 @@
+id: touch-and-go
+name: "Touch and Go"
+alternate_names:
+  - "Press Ups"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Touch and Go (also published as Press Ups) is an abstract strategy game published by Invicta Games in 1974. The game is a two-player abstract with limited documented details available, though it appears to be in the same family as position-based connection games popular in the 1970s. As a vintage Invicta production, it shares shelf space with other abstract games from the era.
+
+upgrades: []

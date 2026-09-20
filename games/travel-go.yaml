@@ -1,0 +1,50 @@
+id: travel-go
+name: "Travel Go"
+alternate_names:
+  - "Go: The International Travel Game"
+year: 1961
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Discovery
+  - Progress
+  - Wonder
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 8
+
+description: |
+  Travel Go (also published as "Go: The International Travel Game" by Waddingtons in 1961) is a family travel-themed board game in which players journey across the world by air, sea, rail, and road, collecting souvenirs from each city visited before returning to the starting point in London. Distinct from the ancient abstract strategy game Go (Weiqi), this is an accessible family game blending route selection and set collection in a globe-trotting adventure format that proved popular enough to remain nostalgically beloved decades after its initial release.
+
+upgrades: []

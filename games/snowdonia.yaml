@@ -1,0 +1,55 @@
+id: snowdonia
+name: "Snowdonia"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Card Drafting
+  - Hand Management
+  - Variable Setup
+  - Euro
+  - Historical
+  - Trains
+
+evokes:
+  - Progress
+  - Agency
+  - Tension
+  - Clever
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Tony Boydell
+publisher:
+  - Osprey Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Snowdonia is a worker-placement game for 1–5 players themed around the construction of the Snowdon Mountain Railway in Wales. Players lead work gangs excavating rubble, laying track, and building stations along a modular mountain route, racing to complete sections before weather and resource conditions deteriorate. A clever weather mechanism influences available actions each turn, creating dynamic variance and forcing adaptation. Contract cards provide personal objectives that reward specialization, while the shared construction board means every player's progress is intertwined. Snowdonia is a tightly designed eurogame that rewards planning and offers exceptional replayability through multiple scenario maps.
+
+upgrades: []

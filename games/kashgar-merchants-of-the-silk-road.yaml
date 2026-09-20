@@ -1,0 +1,55 @@
+id: kashgar-merchants-of-the-silk-road
+name: "Kashgar: Merchants of the Silk Road"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Historical
+  - Trading
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Gerhard Hecht
+publisher:
+  - Grail Games
+artist: []
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 12
+
+description: |
+  Kashgar: Merchants of the Silk Road is a 2-4 player deck-building game by Gerhard Hecht, originally published in 2013 and released in English by Grail Games in 2018. Players are spice merchants traveling the ancient Silk Road, managing three caravans simultaneously — each a vertical stack of cards where only the top of each is visible and accessible. On each turn, a player executes the one available action from one of the three active caravan tops, then cycles that card to the bottom of its stack, revealing a new card and new possibilities. This open deckbuilding structure creates a satisfying puzzle of planning ahead while watching each caravan's progression, earning a Fairplay à la carte award in 2014.
+
+upgrades: []

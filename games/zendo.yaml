@@ -1,0 +1,58 @@
+id: zendo
+name: "Zendo"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Abstract
+  - Puzzle Solving
+  - Party
+  - Family
+
+evokes:
+  - Mystery
+  - Clever
+  - Discovery
+  - Agency
+  - Wonder
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Kory Heath
+publisher:
+  - Looney Labs
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Zendo is an inductive logic game in which one player (the Master) creates a secret rule governing
+  arrangements of Icehouse pyramid pieces, called koans. The other players (Students) take turns
+  building structures and learning whether they follow or break the rule, trying to deduce its
+  nature through scientific reasoning. The first Student to correctly identify the rule wins.
+  The 2003 boxed set won Best Abstract Board Game at the Origins Awards and the 2005 Mensa
+  Select award.
+
+upgrades: []

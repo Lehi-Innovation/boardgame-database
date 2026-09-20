@@ -1,0 +1,50 @@
+id: shatar
+name: "Shatar"
+alternate_names: ["Mongolian Chess"]
+year: 1400
+
+# Relationships
+game_family: chess
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Wargame
+  - Historical
+  - Ancient
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 10
+
+description: |
+  Shatar is the traditional Mongolian form of chess, introduced to Mongolia during the era of Genghis Khan's western campaigns and codified by the late 14th century. It shares most rules with standard chess but has notable differences: the queen (berse) is weaker, moving like a rook or one square diagonally; there is no castling; the game always opens with d4/d5; and crucially, a knight (mori) cannot deliver checkmate — such a position is only a draw. A larger 10x10 variant called hiashatar also exists. Shatar remains a significant part of Mongolian cultural heritage.
+
+upgrades: []

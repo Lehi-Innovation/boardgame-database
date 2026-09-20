@@ -1,0 +1,51 @@
+id: voice-of-the-mummy
+name: "Voice of the Mummy"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Ancient
+  - Horror
+
+evokes:
+  - Dread
+  - Lucky
+  - Humor
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Voice of the Mummy is a 1971 three-dimensional board game by Milton Bradley, famous for being "the game that talks to you." The centrepiece is a battery-powered record player disguised as a sarcophagus, which plays one of 40 messages recorded in the ominous voice of a pharaoh's mummy. Players — called Explorers — travel up a three-level pyramid path around the sarcophagus, collecting jewels directed by the mummy's commands. The player who acquires the "great jewel" also receives the dreaded cobra curse, and must then try to pass it off to an opponent before escaping the tomb. The audio technology made it a novelty classic of its era.
+
+upgrades: []

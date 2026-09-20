@@ -1,0 +1,55 @@
+id: tribune-primus-inter-pares
+name: "Tribune: Primus Inter Pares"
+alternate_names:
+  - "Tribune"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Ancient
+  - Fantasy Flight Games
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Karl-Heinz Schmiel
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Tribune: Primus Inter Pares places players in ancient Rome as ambitious patrician families vying for dominance over the city's factions. Players deploy workers to influence the Legions, the Vestals, the Gladiators, and other powerful groups, collecting faction cards to win control and claim the prestigious title of Tribune. Designer Karl-Heinz Schmiel blends worker placement with set collection in a game where variable win conditions — players choose their own victory goals at the start — create radically different strategic paths each session. Published by Fantasy Flight Games in 2007.
+
+upgrades: []

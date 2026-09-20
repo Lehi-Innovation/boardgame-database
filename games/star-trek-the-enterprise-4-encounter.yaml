@@ -1,0 +1,54 @@
+id: star-trek-the-enterprise-4-encounter
+name: "Star Trek: The Enterprise 4 Encounter"
+alternate_names: ["Star Trek: The Enterprise^4 Encounter"]
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Tension
+  - Lucky
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+publisher:
+  - West End Games
+artist:
+  - Kevin Wilkins
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Star Trek: The Enterprise 4 Encounter is a 1985 board game by West End Games in which 2-4 players, each commanding their own copy of the USS Enterprise, must travel the galaxy to rescue marooned crew members. The trickster Trelane has scattered the crew across planets and disguised the other Enterprises as Klingon warbirds, creating confusion and competition. Players race to collect one crew member from each of the six ship Divisions, using die rolls for movement and exploration. It was one of three Star Trek board games released simultaneously by West End Games in 1985.
+
+upgrades: []

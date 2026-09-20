@@ -1,0 +1,61 @@
+id: the-golden-horde
+name: "The Golden Horde"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Asymmetric
+  - Historical
+  - War
+  - Medieval
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dennis O'Leary
+  - R.J. Hlavnicka
+publisher:
+  - Excalibre Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Golden Horde is a 1978 Excalibre Games two-player wargame simulating the Mongol conquests
+  of Asia and Europe from 1205 to 1241 AD. One player commands the Mongol Hordes with a leader
+  counter and four war machine counters to boost attack odds, while the other controls twelve
+  major nations collectively known as the Allies. Victory for the Mongols comes from conquering
+  homelands until conquered territories outnumber remaining Mongol units; the Allies win by
+  destroying all Mongol forces before that threshold is reached. The asymmetric win conditions
+  capture the historical dilemma facing both sides: Mongol expansion versus Allied attrition.
+
+upgrades: []

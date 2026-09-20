@@ -1,0 +1,55 @@
+id: pax-renaissance-2nd-edition
+name: "Pax Renaissance: 2nd Edition"
+alternate_names: ["Pax Renaissance (Second Edition)"]
+year: 2021
+
+# Relationships
+game_family: pax-renaissance
+edition: "2nd Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tableau Building
+  - Auctions/Bidding
+  - Hand Management
+  - Action Points
+  - Trading
+  - Economic
+  - Historical
+  - Medieval
+
+evokes:
+  - Masterful
+  - Clever
+  - Agency
+  - Powerful
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Phil Eklund
+  - Matt Eklund
+publisher:
+  - Ion Game Design
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 16
+
+description: |
+  Pax Renaissance: 2nd Edition is a deep historical card game for 2-4 players set in 15th–16th century Europe, designed by Phil Eklund and Matt Eklund. Players buy cards from eastern and western markets — prices shift with each purchase — and play them to their tableau to take actions, place pieces on a map of Europe, build banking empires, and assert influence over royal houses and republics. Four distinct victory conditions shape the future course of Western society: imperialism, trade globalization, religious totalitarianism, or enlightened art and science. This edition incorporates all previous expansion content and features new Renaissance-inspired artwork.

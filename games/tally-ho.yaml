@@ -1,0 +1,60 @@
+id: tally-ho
+name: "Tally Ho!"
+alternate_names: ["Jag und Schlag", "Halali!"]
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Deduction
+  - Abstract
+  - Animals
+
+evokes:
+  - Tension
+  - Clever
+  - Mystery
+  - Lucky
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Rudi Hoffman
+publisher:
+  - Spear Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Tally Ho! is a two-player asymmetric hunting game originally published by
+  Spear Spiele in 1973 as Jag und Schlag. One player controls hunters and
+  lumberjacks while the other controls foxes and bears — and both sides hunt
+  each other simultaneously. All pieces start face-down on the board, and on
+  each turn players either flip a tile to reveal it or move a revealed tile.
+  Lumberjacks clear forest paths while hunters need clear lines of sight to
+  strike. Luck dominates early in the game as hidden information abounds, but
+  skill and spatial planning take over as more tiles are revealed. The game
+  rewards careful observation and tactical foresight.
+
+upgrades: []

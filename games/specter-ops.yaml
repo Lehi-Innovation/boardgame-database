@@ -1,0 +1,55 @@
+id: specter-ops
+name: "Specter Ops"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - 1 vs Many
+  - Deduction
+  - Variable Player Powers
+  - Asymmetric
+  - Sci-Fi
+  - Plaid Hat Games
+
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Unique
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 9
+
+description: |
+  Specter Ops is a sci-fi hidden movement game of stealth and deduction in which one player secretly controls an A.R.K. agent infiltrating a Raxxon facility, moving in secret and recording their path on a private map while trying to complete objectives and escape. The remaining players control genetically enhanced Raxxon hunters who must deduce the agent's location and eliminate them before the mission succeeds. The agent reveals their position only when passing through a hunter's line of sight, creating cat-and-mouse tension with each turn. Unique agent and hunter characters each have special abilities, providing asymmetric powers that dramatically change strategy. The game is fully compatible with its standalone sequel, Specter Ops: Broken Covenant.
+
+upgrades: []

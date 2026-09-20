@@ -1,0 +1,51 @@
+id: what-were-you-thinking
+name: "What Were You Thinking?"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - No Math
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Mystery
+  - Clever
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - Richard Garfield
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  What Were You Thinking? is a 1998 party game designed by Richard Garfield and published by Wizards of the Coast in which players must guess the most common answer given by the current group to open-ended questions. A player who gives a unique answer—one that no other player shares—moves up the penalty track, risking elimination. The game rewards thinking like the crowd rather than being clever or original, creating a fascinating social mirror effect. Later republished by Exploding Kittens, it remains an accessible party game with a surprisingly elegant push-your-luck dynamic.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: the-palaces-of-carrara-2012
+name: "The Palaces of Carrara"
+alternate_names: ["Die Paläste von Carrara"]
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Resource Management
+  - Set Collection
+  - Engine Building
+  - Historical
+  - City Building
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Masterful
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Palaces of Carrara is a 2012 Euro game designed by Wolfgang Kramer and Michael Kiesling in which players compete as Renaissance master builders purchasing marble from the famous Italian quarries. Each turn a player may buy marble (reducing its price for all players), use marble to construct buildings in six Italian cities, or score buildings for points—a tense three-action economy requiring constant trade-off decisions. Players must balance cheap marble purchasing (which helps opponents) against timely scoring, and the game rewards those who best read the tempo of the table. A second edition later added statues and an advanced mode for additional strategic depth.
+
+upgrades: []

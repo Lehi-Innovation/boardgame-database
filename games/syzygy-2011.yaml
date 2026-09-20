@@ -1,0 +1,53 @@
+id: syzygy-2011
+name: "Syzygy"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Olaf Pieters
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Syzygy is a two-player abstract strategy game designed by Olaf Pieters in
+  2011. The game is played with 16 planet-like pieces on a compact board, and
+  players maneuver to achieve a winning alignment — a "syzygy" in the
+  astronomical sense of three celestial bodies in alignment. With short play
+  sessions of around 15 minutes, Syzygy offers a focused abstract puzzle
+  suitable for players aged 8 and up.
+
+upgrades: []

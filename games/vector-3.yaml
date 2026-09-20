@@ -1,0 +1,51 @@
+id: vector-3
+name: "Vector 3"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Hex Map
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Greg Costikyan
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Vector 3 is a science fiction space combat microgame published by Simulations Publications, Inc. (SPI) in 1979, designed by Greg Costikyan. Set in the densely populated Gilgamesh Cluster, the game pits two warring civilizations against each other in tactical starship combat. What makes Vector 3 distinctive is its rigorous use of Newtonian physics: ship movement is calculated using genuine vector arithmetic, tracked simultaneously on separate X-Y and X-Z charts to simulate three-dimensional space. The game functions as both an entertaining wargame and an educational tool for teaching vector math and the principles of orbital mechanics.
+
+upgrades: []

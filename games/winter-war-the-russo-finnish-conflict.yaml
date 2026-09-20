@@ -1,0 +1,55 @@
+id: winter-war-the-russo-finnish-conflict
+name: "Winter War: The Russo-Finnish Conflict"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Simulation
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James Goff
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Winter War: The Russo-Finnish Conflict is a two-player hex-and-counter wargame published by SPI in 1972, simulating the Soviet Union's 1939-40 invasion of Finland. One player commands the Soviet invasion forces while the other controls the Finnish defenders. Originally published as a pull-out game in Strategy & Tactics magazine issue 33, the game features only 120 counters and four pages of rules, placing it at the simpler end of the wargame complexity spectrum while still capturing the essential dynamics of the brutal Winter War.
+
+upgrades: []

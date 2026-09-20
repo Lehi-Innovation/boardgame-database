@@ -1,0 +1,50 @@
+id: the-march-on-india-1944
+name: "The March on India, 1944"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  The March on India, 1944 is a historical wargame simulating Operation U-Go, the Imperial Japanese Army's 1944 offensive in Burma aimed at invading India and capturing the key Allied supply base at Imphal and the town of Kohima. Two players command the Japanese forces attempting the bold offensive into British India and the British-Indian forces defending. The battle of Imphal-Kohima was a decisive Allied victory that halted Japanese expansion into South Asia and is often called "the Stalingrad of the East." Details on the specific publisher of this game are limited due to its obscurity as a vintage wargame publication.
+
+upgrades: []

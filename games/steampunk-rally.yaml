@@ -1,0 +1,56 @@
+id: steampunk-rally
+name: "Steampunk Rally"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Dice Rolling
+  - Racing
+  - Modular Board
+  - Simultaneous Action
+  - Variable Player Powers
+  - Steampunk
+  - Roxley Games
+
+evokes:
+  - Lucky
+  - Clever
+  - Humor
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Asher Stuhlman
+publisher:
+  - Roxley Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Steampunk Rally is a competitive card-drafting and dice-placement race game for 2–8 players in which players take on the roles of famous historical inventors — Tesla, Curie, Edison, and others — building fantastical steampunk contraptions to race through the Swiss Alps. Each round players draft cards to attach new machine components to their contraption, then roll and allocate dice to power those components, generating steam, heat, electricity, and movement. The modular race track scrolls as the leader advances, and damaged components can fly off mid-race. The game blends engine-building satisfaction with chaotic racing energy for a uniquely fun experience.
+
+upgrades: []

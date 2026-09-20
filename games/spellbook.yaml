@@ -1,0 +1,55 @@
+id: spellbook
+name: "SpellBook"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Variable Player Powers
+  - Engine Building
+  - Fantasy
+  - Euro
+  - Phil Walker-Harding
+
+evokes:
+  - Clever
+  - Progress
+  - Unique
+  - Discovery
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  SpellBook is a 1–4 player fantasy game by Phil Walker-Harding published by Space Cowboys in 2023, set in the world of the Annual Grand Rite where players compete to become the greatest wizard. Each player, accompanied by a familiar, possesses a grimoire and collects Materia to master spells. With over 2,100 possible spell combinations across various grimoire configurations, every game offers a vastly different strategic experience. The clever combination of set collection and resource management rewards players who build efficient spell chains and adapt their strategy to the available Materia.
+
+upgrades: []

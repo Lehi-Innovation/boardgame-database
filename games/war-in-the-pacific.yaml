@@ -1,0 +1,53 @@
+id: war-in-the-pacific
+name: "War in the Pacific"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Powerful
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 7200
+min_playtime: 3600
+max_playtime: 14400
+min_age: 14
+
+description: |
+  War in the Pacific is SPI's colossal simulation of the entire Pacific theater of World War II, designed by Edward Curran, Jim Dunnigan, Irad B. Hardy, and Tom Walczyk. The game ships with seven maps totaling 88 by 102 inches, 3,200 die-cut counters, and a 56-page rulebook, earning a complexity rating of 100 out of 100. Critics praised the game's treatment of logistics and "fog of war" as well as its uncommonly well-written rules. It stands alongside War in Europe and War in the East as one of the defining monster wargames of the SPI catalog.
+
+upgrades: []

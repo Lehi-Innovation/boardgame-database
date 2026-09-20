@@ -1,0 +1,52 @@
+id: stupor-mundi
+name: "Stupor Mundi"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Set Collection
+  - Historical
+  - Medieval
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Powerful
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+description: |
+  Stupor Mundi is a strategic euro game designed by Nestore Mangone and published by Quined Games in 2024, themed around Frederick II, Holy Roman Emperor, known to contemporaries as "the wonder of the world." Players serve as Frederick's vassals, summoning allies from around the Mediterranean, building structures in their castles, and promoting specialists to strengthen their kingdoms. The game features tight resource management and meaningful decisions about which combination of actions to pursue each round. Its unforgiving optimization puzzle rewards experienced euro gamers who enjoy complex, interlocking systems.
+
+upgrades: []

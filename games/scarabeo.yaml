@@ -1,0 +1,51 @@
+id: scarabeo
+name: "Scarabeo"
+alternate_names: []
+year: 1963
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Word Play
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Masterful
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Aldo Pasetti
+publisher:
+  - Editrice Giochi
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Scarabeo is an Italian word-formation tile game similar to Scrabble, designed by Aldo Pasetti and first commercially published by Editrice Giochi in 1963 after a successful legal defense against a Scrabble lawsuit. Played on a larger 17x17 grid with 130 tiles (including 2 scarab jokers), it differs by rewarding 50 points for using all 8 tiles and 30 points for using 7, encouraging longer words. The game has been a fixture of Italian family game nights for decades and remains the dominant word game in Italy.
+
+upgrades: []

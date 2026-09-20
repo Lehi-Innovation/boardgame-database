@@ -1,0 +1,51 @@
+id: tower-up
+name: "Tower Up"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Dexterity
+  - City Building
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Humor
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Tower Up is a city-building game with a dexterity twist designed by Frank Crittin, Grégoire Largey, and Sébastien Pauchon, published by Monolith Board Games at Essen SPIEL 2024. Players manage resources and construct buildings in a growing cityscape, but with a unique constraint: after each action affecting a building, the active player must physically drop one of their rooftop pieces onto that building's column, creating a dexterity mini-game embedded in the euro engine. This physical element adds unpredictable excitement to what would otherwise be a conventional resource management experience.
+
+upgrades: []

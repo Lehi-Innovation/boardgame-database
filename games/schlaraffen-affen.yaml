@@ -1,0 +1,51 @@
+id: schlaraffen-affen
+name: "Schlaraffen Affen"
+alternate_names: ["Monkeys"]
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Press Your Luck
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Schlaraffen Affen is a children's dice game by Schmidt Spiele in which monkey players roll dice to advance toward a 3D palm tree, trying to roll palm symbols to climb up and grab a coconut. Once a player reaches the tree they secretly peek inside a coconut — if it matches their color, they win; if not, they must try again next turn. The game won the 2018 Austrian Kids Game of the Year for its simple, visually engaging design with a 3D tree centerpiece that delights young players.
+
+upgrades: []

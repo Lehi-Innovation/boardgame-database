@@ -1,0 +1,58 @@
+id: targui
+name: "Targui"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Take That
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Jumbo
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Targui is an area control strategy game published by Jumbo in 1988, inspired
+  by the nomadic Tuareg tribes of North Africa. Players control different Tuareg
+  tribes competing to acquire economically valuable territories by moving and
+  buying camels to expand influence across the game board. The simple mechanisms
+  create a straightforward roll-and-fight contest for territorial dominance with
+  clear tactical decisions each turn. Targui was recommended for the 1988 Spiel
+  des Jahres and offers an accessible entry point to area control gaming for
+  families and casual players.
+
+upgrades: []

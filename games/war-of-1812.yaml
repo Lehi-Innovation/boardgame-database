@@ -1,0 +1,52 @@
+id: war-of-1812
+name: "War of 1812"
+alternate_names:
+  - "La Guerre de 1812"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Gamma Two Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  War of 1812 is a two-player block wargame published by Gamma Two Games (later Columbia Games) in 1973, simulating the conflict between the United States and British/Canadian/indigenous forces in British North America. One player controls the American forces while the other commands the British, Canadian, and Tecumseh's confederacy. The game uses the distinctive wooden block system that provides fog of war through rotating unit strength values. It was later republished as part of Columbia Games' growing catalog of block wargames.
+
+upgrades: []

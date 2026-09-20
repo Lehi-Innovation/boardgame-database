@@ -1,0 +1,59 @@
+id: the-game-of-49
+name: "The Game of 49"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Pattern Building
+  - Family
+  - Economic
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mark Corsey
+publisher:
+  - Breaking Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Game of 49 is a clever bidding and area control game described as Connect Four with auctions.
+  Each turn a numbered card is flipped, revealing a space on the 7x7 grid up for auction; players
+  bid for the right to place their chip there, with the winner paying their bid to the bank. Special
+  wild cards trigger an income phase where each player collects $7 per chip already on the board
+  (up to $49), creating a satisfying economic rhythm. The first player to claim four chips in a row
+  wins. The combination of public auctions, spatial strategy, and money management makes it
+  deceptively engaging despite minimal rules overhead.
+
+upgrades: []

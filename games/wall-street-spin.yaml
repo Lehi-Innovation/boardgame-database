@@ -1,0 +1,50 @@
+id: wall-street-spin
+name: "Wall Street Spin"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Family
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Funspin
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Wall Street Spin is a family-friendly stock market board game published by Funspin around 2004, describing itself as a "fun and educational" introduction to the stock exchange. The game features a unique patented spinner mechanic that drives stock price fluctuations, with players buying and selling shares and trying to profit from market movements. Aimed at ages 10 and up, it is intended to teach basic investment concepts in an accessible, game-show style format. The game was awarded a patent for its distinctive spinner-based stock market simulation.
+
+upgrades: []

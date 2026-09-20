@@ -1,0 +1,56 @@
+id: takemo
+name: "Takemo"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Takemo is a 1989 two-player word game in which players each occupy opposing sides
+  of the board and independently place words on their own defense lines. Words must
+  be at least two letters long and must be common nouns — proper nouns, foreign words,
+  abbreviations, and compound names are prohibited. On each turn, a player may place
+  a new word on their defense line, connect a word to an existing word of their color
+  (similar to Scrabble), attempt to reach the opponent's defense line (scoring a
+  "Takemo" joker), or capture opponent words. The game blends Scrabble-like word
+  placement with territorial strategy.
+
+upgrades: []

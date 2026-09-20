@@ -1,0 +1,53 @@
+id: cribbage
+name: "Cribbage"
+alternate_names: []
+year: 1630
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Set Collection
+  - No Math
+  - Family
+  - Filler
+
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - John Suckling
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Cribbage is a classic English card game created by the poet Sir John Suckling in the early 17th century, descended from the older game of Noddy. Two players (adaptable to three or four) are dealt six cards, each discarding two face-down into "the crib"—an extra hand scored by the dealer—then play out their remaining cards in a sequence, scoring points for pairs, runs, and combinations summing to 15 or 31. Scores are tracked on the distinctive peg-and-board cribbage board through 121 points, and the interplay between the pegging phase and the hand-scoring phase makes Cribbage one of the most enduring two-player skill games in history.
+
+upgrades: []

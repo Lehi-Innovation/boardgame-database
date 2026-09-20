@@ -1,0 +1,51 @@
+id: ubongo-extreme
+name: "Ubongo Extreme"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: ubongo
+edition: null
+base_game: ubongo
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Real-time
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Grzegorz Rejchtman
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Ubongo Extreme is a harder variant of the Ubongo puzzle series by Grzegorz Rejchtman, published by Z-Man Games. Instead of standard square polyomino tiles, the game uses hexagonal tiles — creating more complex spatial challenges for players racing to fill their puzzle boards. Players compete simultaneously against a sand timer, solving increasingly tricky hexagonal tile configurations. Featuring two difficulty levels, Ubongo Extreme is aimed at players who have mastered the original and want a stiffer puzzle-solving challenge.
+
+upgrades: []

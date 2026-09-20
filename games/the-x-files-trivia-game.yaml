@@ -1,0 +1,51 @@
+id: the-x-files-trivia-game
+name: "The X-Files Trivia Game"
+alternate_names: ["The X-Files Trivia Game on Video"]
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Sci-Fi
+  - Mystery
+
+evokes:
+  - Mystery
+  - Clever
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - 20th Century Fox Home Entertainment
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  The X-Files Trivia Game is a 1997 trivia party game published by 20th Century Fox Home Entertainment at the peak of the television series' popularity, covering Seasons 1 through 3 of the show. Players answer questions about the paranormal investigations of FBI agents Mulder and Scully, testing their knowledge of episodes, characters, and the show's complex mythology. Released as a VHS video trivia game format that was popular in the 1990s, the game served as an interactive companion piece for die-hard fans of the sci-fi phenomenon. Like most licensed trivia games of its era, it is primarily of interest to collectors and fans of the original series.
+
+upgrades: []

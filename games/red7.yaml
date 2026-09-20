@@ -1,0 +1,53 @@
+id: red7
+name: "Red7"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Filler
+  - Gateway
+  - Carl Chudyk
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Carl Chudyk
+  - Chris Cieslik
+publisher:
+  - Asmadi Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 9
+
+description: |
+  Red7 is a tiny, lightning-fast card game for 2-4 players by Carl Chudyk and Chris Cieslik in which the winning condition changes constantly. The 49-card rainbow deck has seven colors each numbered 1-7; each color also defines a different winning rule. On your turn you must play a card to your palette (personal display) and/or change the active canvas (winning rule) — but if you're not winning at the end of your turn, you're out. The elimination game runs just minutes per round, with the tension of knowing you might have one move to swing the game completely in your favor.

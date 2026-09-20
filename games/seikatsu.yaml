@@ -1,0 +1,56 @@
+id: seikatsu
+name: "Seikatsu"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Abstract
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+
+evokes:
+  - Wonder
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+
+possible_counts: [1, 2, 3]
+true_counts: [2, 3]
+
+designer:
+  - Matt Loomis
+  - Isaac Shalev
+publisher:
+  - IDW Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Seikatsu (meaning "life" in Japanese) is a tile-placement game in which players compete to create the most breathtaking view of a shared garden from their own pagoda. Each tile shows both a colored bird and a colored flower; players score immediately for flocks of adjacent matching birds but score flowers only at the end of the game from their personal perspective — rows visible from their seat. This perspective-based dual scoring system is the game's central innovation, creating a shared board that simultaneously feels unique to each player's viewpoint.
+
+upgrades: []

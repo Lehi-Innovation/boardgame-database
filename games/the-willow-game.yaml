@@ -1,0 +1,52 @@
+id: the-willow-game
+name: "The Willow Game"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Asymmetric
+  - Fantasy
+  - Family
+
+evokes:
+  - Tension
+  - Powerful
+  - Discovery
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Greg Costikyan
+publisher:
+  - Tor Books
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Willow Game is a 1988 asymmetric board game designed by Greg Costikyan and published by Tor Books, based on the Ron Howard fantasy film Willow. Players divide into two teams: Good characters (led by Willow) must protect the baby Elora Danan by searching the board for Places of Power, collecting treasures, and finding allies to keep her from harm; Evil players (serving the sorceress Bavmorda) patrol the board fighting Good characters and trying to capture the baby and bring her to Nockmaar Castle. The game captures the movie's adventure-quest atmosphere in a simple dice-and-card driven format that served as a tie-in to the film's theatrical release.
+
+upgrades: []

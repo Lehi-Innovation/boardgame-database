@@ -1,0 +1,54 @@
+id: soviet-system
+name: "Soviet System"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Historical
+  - Party
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Soviet System is a French board game published by Milton Bradley France in 1988. Players compete to rise
+  through the ranks of the USSR Communist Party by rolling dice and answering trivia questions, with the
+  ultimate goal of becoming the new Secretary General of the Soviet Union. The game was released exclusively
+  in France and blends roll-and-move mechanics with trivia, offering an irreverent satirical look at Soviet
+  political structure during the late Cold War era.
+
+upgrades: []

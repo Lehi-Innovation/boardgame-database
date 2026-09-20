@@ -1,0 +1,54 @@
+id: tajuto
+name: "Tajuto"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Bag Building
+  - Action Points
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Super Meeple
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Tajuto is a 2019 spiritual tile-placement game by Reiner Knizia set in 6th-century Japan, where Prince Shotoku has tasked Buddhist monks with erecting eight grand pagodas. Players draw pagoda tiles from a bag, build and extend pagoda structures on the board, make offerings to gain meditation points, and acquire action tiles to advance their goals. Activating multiple actions in a turn costs precious meditation points, creating a tight resource tension throughout. The game ends when the fourth pagoda is completed, and the player who has most effectively spread their religion and accrued spirituality points wins.
+
+upgrades: []

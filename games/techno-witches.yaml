@@ -1,0 +1,59 @@
+id: techno-witches
+name: "Techno Witches"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Racing
+  - Fantasy
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Heinrich Glumpler
+publisher:
+  - KOSMOS
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Techno Witches is a racing game published by KOSMOS and Rio Grande Games in
+  which modern witches and wizards pilot jet-powered brooms across a modular
+  table-top course with no fixed board. Players program their flight paths 1 to
+  5 stages at a time using magic books, requiring spatial planning and
+  visualization of movement without physically placing pieces first. Advanced
+  scenarios challenge players to capture and carry a cat or chase a rogue
+  technophobe on a traditional broom. The game teaches valuable planning skills
+  while offering a fun, whimsical racing experience with escalating complexity.
+
+upgrades: []

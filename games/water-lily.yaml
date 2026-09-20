@@ -1,0 +1,51 @@
+id: water-lily
+name: "Water Lily"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Bluffing
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Dominique Ehrhard
+publisher:
+  - GameWorks
+artist: []
+playtime_minutes: 10
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Water Lily is a short bluffing racing game designed by Dominique Ehrhard in which frog princes compete in a Royal Race to win the hand of a princess—but the scoring is counterintuitive, as arriving too early earns only a few points while arriving too late earns none. The game uses the box bottom as the board, with a built-in plastic inset containing five chutes for frog tokens, making setup instant. Players must balance the temptation to race ahead against the risk of overshooting, creating a tense, quick-playing blend of bluffing and tactical movement.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: dragonheart
+name: "Dragonheart"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Bluffing
+  - Abstract
+  - Fantasy
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - KOSMOS
+artist:
+  - Andrea Hofmann
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Dragonheart is an elegant two-player card game where players compete to score points
+  by placing cards on the board and collecting those already there. The game features nine
+  distinct card types, each with its own rules for collection, creating a web of tactical
+  decisions. Players must read their opponent's intentions, bait them into unfavorable
+  moves, and bluff to protect their own plans. Its simple rules mask a surprising depth
+  of psychological play.
+
+upgrades: []

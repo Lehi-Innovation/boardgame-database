@@ -1,0 +1,63 @@
+id: terror-in-meeple-city
+name: "Terror in Meeple City"
+alternate_names: ["Rampage"]
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Set Collection
+  - Variable Player Powers
+  - Take That
+  - Family
+  - Ameritrash
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ludovic Maublanc
+  - Antoine Bauza
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Terror in Meeple City (originally released as Rampage) is a dexterity-driven
+  chaos game designed by Ludovic Maublanc and Antoine Bauza and published by
+  Repos Production in 2013. Players control giant monsters rampaging through
+  a cardboard city, physically dropping wooden towers onto buildings, literally
+  blowing pieces across the table with their breath, and launching a "breath
+  attack" against opponents. Collecting sets of colored meeples earns bonus
+  points. Each monster has unique asymmetric powers via ability cards. The game
+  delivers an unabashedly silly, tactile experience that delights in the chaos
+  of literal monster-scale destruction.
+
+upgrades: []

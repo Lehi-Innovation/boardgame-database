@@ -1,0 +1,51 @@
+id: unlock-epic-adventures
+name: "Unlock! Epic Adventures"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: unlock
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Card Drafting
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Unlock! Epic Adventures is a collection of three cooperative escape room card game scenarios from Space Cowboys' Unlock! series. Players use a card-based system paired with a free companion app to solve puzzles, find hidden codes, and unravel mysteries across three distinct adventure settings. Like all Unlock! games, there is no board setup, the app tracks time and hints, and the scenarios are entirely replayable by new groups. The series draws inspiration from classic adventure fiction to create immersive card puzzle experiences.
+
+upgrades: []

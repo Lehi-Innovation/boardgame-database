@@ -1,0 +1,55 @@
+id: cosmoctopus
+name: "Cosmoctopus"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Drafting
+  - Hand Management
+  - Modular Board
+  - Variable Setup
+  - Cthulhu
+  - Fantasy
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Wonder
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Henry Audubon
+publisher:
+  - Lucky Duck Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Cosmoctopus is an engine-building, tentacle-gathering game for 1–4 devotees in which players guide the cosmic cephalopod Cosmoctopus through the Inky Realm, collecting resources and obtaining powerful cards representing relics, scripture, hallucinations, and constellations. Players craft potent card combinations and are the first to gather 8 tentacles to win, traversing a modular board that changes each game. Originally funded by Paper Fort Games on Kickstarter, the game blends Lovecraftian cosmic horror aesthetics with satisfying engine-building mechanics.
+
+upgrades: []

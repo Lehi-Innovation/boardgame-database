@@ -1,0 +1,51 @@
+id: to-the-last-man
+name: "To the Last Man! The Great War in the West"
+alternate_names:
+  - "To the Last Man"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hand Management
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  To the Last Man! The Great War in the West is a card-driven wargame published by Nuts! Publishing covering the grand strategic land battles of the Western Front in World War I, designed to be completed in approximately three hours. Designed by Tim Taylor over two decades of research, it puts players in command of the opposing forces in the war's most iconic theater from Belgium to the Alps. The card-driven mechanism captures the chaos and opportunity of a dynamic front while delivering an accessible grand-strategic experience for two players.
+
+upgrades: []

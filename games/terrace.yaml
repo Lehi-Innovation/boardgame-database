@@ -1,0 +1,58 @@
+id: terrace
+name: "Terrace"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Anton Dresden
+  - Buzz Siler
+publisher:
+  - Siler Enterprises
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Terrace is a multi-level abstract strategy game invented by Dutch-born Anton
+  Dresden in 1950, with a practical ruleset developed by Buzz Siler and published
+  in 1991. The 8x8 board rises in L-shaped terraces from two low corners to two
+  high corners, and players control four differently-sized pieces plus a special
+  "T" piece akin to a chess king. Larger pieces cannot be captured by smaller
+  ones, creating complex dominance hierarchies. To win, move your "T" piece from
+  its starting corner to the opposite corner, or capture your opponent's "T."
+  The game won the 1992 Mensa Award for Best New Game and appeared as a
+  permanent prop on Star Trek: The Next Generation.
+
+upgrades: []

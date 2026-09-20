@@ -1,0 +1,53 @@
+id: space-marine-assault
+name: "Space Marine Assault"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Space Marine Assault is a Warhammer 40,000-related board game product published by Games Workshop, presenting
+  fast-play Space Marine combat scenarios. Part of the broader Space Marine gaming range, it provides compact
+  rules and components for quick skirmish engagements between Space Marines and their enemies in the grim darkness
+  of the far future. Specific detailed design information for this product is limited in available sources.
+
+upgrades: []

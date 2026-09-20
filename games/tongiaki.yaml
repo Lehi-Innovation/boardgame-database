@@ -1,0 +1,53 @@
+id: tongiaki
+name: "Tongiaki"
+alternate_names:
+  - "Tongiaki: Journey into the Unknown"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Family
+  - Euro
+  - Maritime
+  - Historical
+
+evokes:
+  - Discovery
+  - Tension
+  - Progress
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Tongiaki: Journey into the Unknown is set in 300 AD as Polynesian peoples launch daring voyages on catamarans across the Pacific in search of new islands to settle. Players place boats on a modular tile board with unique hexagonal water tiles, expanding the map and competing to establish a presence on as many islands as possible by game end. The bright, colorful components and cooperative aspects of ocean exploration sit alongside competitive area control, creating a game of shared risk on the open sea.
+
+upgrades: []

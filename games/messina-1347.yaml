@@ -1,0 +1,58 @@
+id: messina-1347
+name: "Messina 1347"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Engine Building
+  - Modular Board
+  - Variable Player Powers
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Progress
+  - Agency
+  - Tension
+  - Masterful
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Raúl Fernández Aparicio
+  - Vladimír Suchý
+publisher:
+  - Delicious Games
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 45
+max_playtime: 120
+min_age: 14
+
+description: |
+  Messina 1347 is a 1-4 player worker placement and engine building game designed by Raúl Fernández Aparicio and Vladimír Suchý, set during the Black Plague's catastrophic arrival in Sicily in 1347. Players take on the roles of noble Messina families evacuating the city to the countryside while simultaneously rescuing citizens and combating the spread of infection. Over six rounds, players place three workers on a modular hex board, using fire to clear plague cubes and gain bonuses on an infection track — creating an unusual loop where engaging with the game's central threat becomes mechanically rewarding. The engine-building system rewards players who develop synergistic combinations of rescued inhabitants and built-up powers.
+
+upgrades: []

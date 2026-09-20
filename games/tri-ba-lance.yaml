@@ -1,0 +1,51 @@
+id: tri-ba-lance
+name: "Tri-Ba-Lance"
+alternate_names:
+  - "Triominos Tribalance"
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Michael Sohre
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Tri-Ba-Lance is a physics-based dexterity game played on a triangular board balanced on a central point. Players take turns placing differently weighted pieces into marked recesses on the board, with the key rule being that the board must remain balanced after each placement without touching the table. Spots near the tips of the triangle score higher, but risk destabilizing the board. The game involves no luck — it is purely about reading the board's balance and making smart placements. Originally published by Theta Games in 1995, it was later republished as Triominos Tribalance by Goliath in 2013.
+
+upgrades: []

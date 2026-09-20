@@ -1,0 +1,57 @@
+id: teenage-mutant-ninja-turtles-game-2003
+name: "Teenage Mutant Ninja Turtles Game"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Discovery
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  The Teenage Mutant Ninja Turtles Game is a licensed children's board game
+  published by Milton Bradley in 2003, based on the 2003 animated television
+  series. Four Turtles must infiltrate a towering skyscraper to battle Shredder
+  and stop his world domination plans, fighting through sewers and city streets
+  while encountering Foot Clan henchmen. The oversized gameboard includes sewer
+  tiles, street tiles, subway tiles, and Baxter Stockman's lab sections, with
+  dice-driven movement and combat. Designed for 2–4 players aged 5 and up, the
+  game translates the 2003 cartoon's action-adventure storylines into a simple
+  family-friendly format.
+
+upgrades: []

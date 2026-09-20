@@ -1,0 +1,50 @@
+id: seven-player-chess
+name: "Seven-Player Chess"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: chess-variants
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Deduction
+  - Action Points
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [7]
+true_counts: [7]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 150
+min_age: 10
+
+description: |
+  Seven-Player Chess is a multiplayer variant of chess adapted for exactly seven players, using a specially designed board and modified rules to accommodate the unusual player count while preserving the essential tactical and strategic elements of standard chess. As with most multi-player chess variants, players each control an army of pieces, moving in turn order, with victory awarded to the player who checkmates the most opponents or is the last player with a king on the board. No single standardized commercial edition of seven-player chess is widely documented; the game is typically played with custom boards produced by individual game designers or enthusiast groups.
+
+upgrades: []

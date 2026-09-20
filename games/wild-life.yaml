@@ -1,0 +1,56 @@
+id: wild-life
+name: "WildLife"
+alternate_names:
+  - "Wild Life"
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Auctions/Bidding
+  - Variable Player Powers
+  - Animals
+  - Euro
+  - Wolfgang Kramer
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Überplay
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  WildLife is a prehistoric area control game for 2-6 players designed by Wolfgang Kramer in which players guide competing species — Eagles in the mountains, Bears in the forests, Crocodiles in the water, Mammoths on the plains, Men in the savannah, and Snakes in the desert — in their struggle for survival. Players expand herds, develop new survival abilities, and compete for territorial control through tile placement and auctions. When space is plentiful, creatures coexist peacefully; when resources grow scarce, direct competition erupts. The game won GAMES Magazine's Best Advanced Strategy Game award in 2004.
+
+upgrades: []

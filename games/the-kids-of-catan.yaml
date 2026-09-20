@@ -1,0 +1,58 @@
+id: the-kids-of-catan
+name: "The Kids of Catan"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Lucky
+  - Progress
+  - Connection
+  - Complete
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Thames & Kosmos
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  The Kids of Catan is a simplified children's adaptation of Catan designed by Klaus Teuber and
+  published by Kosmos in 2003. Set on the island of Catan where children are helping their parents
+  build the first settlement, players spin a turntable mounted in the center of the box tray to
+  earn resources from 15 surrounding spaces, then use those resources to construct buildings. A
+  "bully" space creates mild tension by blocking certain resources. The game strips Catan's trading
+  and conflict down to a pure resource-gathering and building experience accessible to very young
+  children, making it an ideal introduction to the Catan universe for families.
+
+upgrades: []

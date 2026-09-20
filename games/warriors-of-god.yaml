@@ -1,0 +1,56 @@
+id: warriors-of-god
+name: "Warriors of God"
+alternate_names:
+  - "Warriors of God: The Wars of England & France, 1135-1453"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+  - Events
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Makoto Nakajima
+publisher:
+  - Multi-Man Publishing
+artist:
+  - Mark Mahaffey
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Warriors of God covers the wars between England and France from 1135 to 1453, including both the Lion in Winter scenario and the Hundred Years' War, designed by Makoto Nakajima and developed by Adam Starkweather for Multi-Man Publishing. Players command colorful historical leaders—from Henry V to Charles VI of France to the Welsh rebel Owain Glyn Dwr—through an impulse-based game system that captures both the strategic and tactical elements of medieval warfare. The game won the 2009 Charles S. Roberts Award for Best Pre-WWII Era Board Game. Its accessible rules and evocative period characters make it one of the most celebrated two-player medieval wargames.
+
+upgrades: []

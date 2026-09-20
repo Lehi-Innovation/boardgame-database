@@ -1,0 +1,60 @@
+id: the-generals
+name: "The Generals"
+alternate_names:
+  - "Game of the Generals"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Deduction
+  - Abstract
+  - Wargame
+  - War
+
+evokes:
+  - Mystery
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Sofronio H. Pasola Jr.
+publisher:
+  - Anjar Company
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Generals (Game of the Generals) is a two-player strategy game invented in the Philippines by
+  Sofronio H. Pasola Jr. and publicly released in 1973. Played on a 9x8 grid, each player commands
+  an army of 12 officers of different ranks, six privates, two spies, and a flag — all with hidden
+  identities revealed only during confrontations resolved by a neutral arbiter. The fog of war is
+  central: players must infer the identity of opposing pieces from their movements, positions, and
+  the outcomes of challenges. Higher-ranking officers defeat lower-ranked ones in challenges, but
+  spies can defeat the highest general. The game is the national board game of the Philippines.
+
+upgrades: []

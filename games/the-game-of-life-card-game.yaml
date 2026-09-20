@@ -1,0 +1,58 @@
+id: the-game-of-life-card-game
+name: "The Game of Life Card Game"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: game-of-life
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Rob Daviau
+
+evokes:
+  - Progress
+  - Lucky
+  - Complete
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Rob Daviau
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 9
+
+description: |
+  The Game of Life Card Game is a 2002 Hasbro card game designed by Rob Daviau, adapting the
+  iconic board game into a compact card format. Players choose whether to pursue a career directly
+  or invest time in college first. Each turn they draw to fill their hands and complete life goal
+  cards by paying costs in money or time — Career, Student/Married, Early Life, and Later Life
+  card types reflect different phases of the journey. Getting married and having children costs
+  time but earns bonus points. The game ends when LIFE cards are exhausted, and the player with
+  the most points from completed goals wins.
+
+upgrades: []

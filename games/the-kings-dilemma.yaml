@@ -1,0 +1,67 @@
+id: the-kings-dilemma
+name: "The King's Dilemma"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Legacy
+  - Narrative Heavy
+  - Negotiation
+  - Bluffing
+  - Auctions/Bidding
+  - Variable Player Powers
+  - Campaign Mode
+  - Ameritrash
+  - Medieval
+  - Fantasy
+
+evokes:
+  - Mystery
+  - Tension
+  - Persuasion
+  - Agency
+  - Discovery
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Lorenzo Silva
+  - Hjalmar Hach
+publisher:
+  - Horrible Guild
+artist:
+  - Carlo Burelli
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  The King's Dilemma is a legacy narrative game designed by Lorenzo Silva and Hjalmar Hach in which
+  players are noble houses on the King's Council, voting on dilemmas that shape the kingdom's fate.
+  Each session, one player reads a dilemma card that presents a historical-flavored moral or political
+  choice, and all players secretly bid power tokens for or against each option before revealing.
+  Houses have secret victory conditions tied to different kingdom metrics, creating natural conflicts
+  of interest. Stickers applied to the board after each session permanently alter the kingdom, and
+  new dilemma cards are added based on prior outcomes. No two campaigns will play out the same,
+  as the branching storyline leads to many possible endings.
+
+upgrades: []

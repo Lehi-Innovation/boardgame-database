@@ -1,0 +1,57 @@
+id: war-chest
+name: "War Chest"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Abstract
+  - Medieval
+  - War
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 4]
+true_counts: [2]
+
+designer:
+  - Trevor Benjamin
+  - David Thompson
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  War Chest is a bag-building area-control game for 2 or 4 players that combines the tactical depth of abstract strategy with the variability of randomized unit selection. Players draw unit coins from their bags, spending them either to deploy units to the board or to recruit new units to the bag. Each unit type — archers, cavalry, light infantry, and others — has a unique special ability, and each game uses a random subset, ensuring no two battles play the same. Players maneuver units across a hexagonal board to claim and hold objective spaces. Despite minimal rules overhead, War Chest rewards deep positional thinking and earns comparison to chess.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: stardew-valley-the-board-game
+name: "Stardew Valley: The Board Game"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-200 min depending on player count)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary/cooperative
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Resource Management
+  - Set Collection
+  - Modular Board
+  - Agriculture
+  - Nature
+
+evokes:
+  - Progress
+  - Connection
+  - Complete
+  - Discovery
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Eric Barone
+  - Cole Medeiros
+publisher:
+  - ConcernedApe
+artist: []
+playtime_minutes: 90
+min_playtime: 45
+max_playtime: 200
+min_age: 13
+
+description: |
+  Stardew Valley: The Board Game is a 2021 cooperative game for 1-4 players designed by Eric Barone (ConcernedApe) and Cole Medeiros, faithfully adapting the beloved farming video game. Players work together to restore the Community Center by completing Grandpa's objectives and collecting six sets of resources — crops, animals, fish, foraged goods, minerals, and cooked items — before the seasons deck runs out. Each player chooses a profession and tool loadout, taking turns performing actions at locations like the mine, farm, and forest. The game captures the cozy, collaborative spirit of the video game while adding meaningful cooperative decision-making.
+
+upgrades: []

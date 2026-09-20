@@ -1,0 +1,50 @@
+id: scribe-glass
+name: "Scribe Glass"
+alternate_names: ["Scrib"]
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - M. Tanniou
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Scribe Glass is a 1989 French board game designed and self-published by M. Tanniou, with very limited information surviving in publicly accessible sources. Catalogued under the alternate title "Scrib" on French game archives, the game appears to be a word or writing game. Due to its obscurity and self-published status, detailed information about its mechanics, player count, and full design intent is not available in English-language sources.
+
+upgrades: []

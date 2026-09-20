@@ -1,0 +1,58 @@
+id: first-class-all-aboard-the-orient-express
+name: "First Class: All Aboard the Orient Express!"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Tableau Building
+  - Set Collection
+  - Variable Setup
+  - Route Building
+  - Euro
+  - Trains
+  - Historical
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Helmut Ohley
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+artist:
+  - Klemens Franz
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  First Class: All Aboard the Orient Express! is a 2-4 player card-driven tableau building game designed by Helmut Ohley, set during the golden age of the Orient Express railway. Players compete to score the most fame points by extending rail networks, constructing luxurious train cars, and serving wealthy passengers — all through a shared pool of action cards that are carefully drafted each round. What makes First Class particularly replayable is its modular design: each game uses only two of five available modules, each introducing different mechanics such as contracts, celebrities, or postcards, ensuring that no two games feel alike. The tight action selection and multiple scoring paths reward careful planning and adaptability.
+
+upgrades: []

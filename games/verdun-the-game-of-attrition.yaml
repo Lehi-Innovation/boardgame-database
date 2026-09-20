@@ -1,0 +1,51 @@
+id: verdun-the-game-of-attrition
+name: "Verdun: The Game of Attrition"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Hill
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Verdun: The Game of Attrition is a 1972 board wargame designed by John Hill and published by Conflict Games, simulating the brutal Battle of Verdun during World War I — one of the longest and bloodiest confrontations in military history. The game reflects the asymmetric conditions of the actual battle: the French player always receives reinforcements each turn, while the German player must roll a six to receive any. This faithful historical modelling places enormous pressure on both sides and captures the grinding attritional nature of the conflict. Verdun was one of John Hill's first published wargames.
+
+upgrades: []

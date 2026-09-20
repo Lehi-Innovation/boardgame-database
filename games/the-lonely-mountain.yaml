@@ -1,0 +1,52 @@
+id: the-lonely-mountain
+name: "The Lonely Mountain"
+alternate_names: ["The Lonely Mountain: Lair of Smaug the Dragon"]
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Tension
+  - Dread
+  - Discovery
+  - Lucky
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Iron Crown Enterprises
+publisher:
+  - Iron Crown Enterprises
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Lonely Mountain: Lair of Smaug the Dragon is a 1984 adventure board game by Iron Crown Enterprises based on J.R.R. Tolkien's The Hobbit. Players control groups of adventurers—dwarves, elves, men, orcs, or freebooters—who sneak into the Lonely Mountain (Erebor) to steal as much of Smaug's treasure as possible. The dungeon is filled with traps, Fell Beasts, Trolls, Giant Spiders, and ultimately the great dragon Smaug himself, who players must escape before he awakens. Supporting 1-6 players, the game blends exploration and press-your-luck tension as players decide how deep to venture before retreating with their loot.
+
+upgrades: []

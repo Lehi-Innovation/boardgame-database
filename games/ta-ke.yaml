@@ -1,0 +1,60 @@
+id: ta-ke
+name: "Ta-Ke"
+alternate_names: ["TA-KE"]
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Arve D. Fühler
+publisher:
+  - HUCH!
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Ta-Ke is a two-player abstract strategy game set in feudal Japan, published
+  by HUCH! in 2017 and distributed by Rio Grande Games. Players act as rival
+  shoguns appointing advisors to the emperor's court, selecting courtiers whose
+  skills and influence best suit their strategy. The game revolves around clever
+  tile selection and placement, requiring careful observation of your opponent
+  and tactical planning ahead. With sessions of around 30 minutes, Ta-Ke
+  delivers a focused and elegant two-player contest of wits in a beautifully
+  themed package.
+
+upgrades: []

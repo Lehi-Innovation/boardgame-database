@@ -1,0 +1,57 @@
+id: yavalath
+name: "Yavalath"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer:
+  - Cameron Browne
+publisher:
+  - Nestorgames
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Yavalath is an abstract strategy game for two or three players created by the Ludi computer
+  program designed by Cameron Browne — making it one of the first successful games designed by
+  machine. Players take turns placing pieces on a hexagonal board, striving to form a line of four
+  pieces before their opponent, but immediately losing if they accidentally make a line of three
+  first. This elegant paradox of forced caution creates remarkable tension in a deceptively simple
+  ruleset that ranked among the top 100 abstract games.
+
+upgrades: []

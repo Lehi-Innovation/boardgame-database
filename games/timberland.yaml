@@ -1,0 +1,51 @@
+id: timberland
+name: "Timberland"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Nature
+  - Klaus Teuber
+
+evokes:
+  - Wonder
+  - Progress
+  - Discovery
+  - Connection
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 6
+
+description: |
+  Timberland is a family board game designed by Klaus Teuber and published in 1989 featuring beautiful enamelled wooden components representing trees, seeds, a lumberjack, and a boar. The game unfolds across the four seasons: fruits fall in autumn, a wild boar forages in winter, seeds sprout into trees in spring, and the lumberjack harvests trees in summer. The gentle nature-cycle theme and tactile wooden pieces make it especially appealing to younger players, and the game placed ninth in the 1989 Deutscher Spiele Preis.
+
+upgrades: []

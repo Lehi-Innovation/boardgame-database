@@ -1,0 +1,49 @@
+id: three-dimensional-chess
+name: "three-dimensional chess"
+alternate_names: ["3D Chess", "Tri-Dimensional Chess", "Raumschach"]
+year: 1907
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ferdinand Maack
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+description: |
+  Three-dimensional chess refers to a family of chess variants played across multiple stacked boards, with the earliest documented form being Raumschach (Space Chess), invented in 1907 by German inventor Ferdinand Maack. Various three-dimensional variants have been developed over the decades, most famously the Tri-Dimensional Chess seen in the TV series Star Trek, played by Mr. Spock and other crew members. Three-dimensional chess dramatically expands the tactical and strategic possibilities of standard chess by adding vertical movement to diagonal, horizontal, and vertical attacks, requiring players to visualize threats across multiple planes simultaneously.
+
+upgrades: []

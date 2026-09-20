@@ -1,0 +1,56 @@
+id: star-trek-iii-starship-combat-game
+name: "Star Trek III Starship Combat Game"
+alternate_names: ["Star Trek III: Starship Combat Simulator"]
+year: 1984
+
+# Relationships
+game_family: star-trek-fasa
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Star Trek III Starship Combat Game is a 1984 board wargame published by FASA as a companion to the release
+  of Star Trek III: The Search for Spock. The game includes four mini-games simulating starship battles featuring
+  vessels from the original Star Trek TV series and films, including the Klingon Bird of Prey. Combat is resolved
+  with ten-sided dice and silhouette counters, covering phaser duels and photon torpedo exchanges. It is
+  essentially a cleaned-up and expanded version of the Star Trek II combat rules in booklet form.
+
+upgrades: []

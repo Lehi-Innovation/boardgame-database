@@ -1,0 +1,56 @@
+id: glen-more-ii-chronicles
+name: "Glen More II: Chronicles"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: glen-more
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Rondel
+  - Set Collection
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Matthias Cramer
+publisher:
+  - Funtails
+artist:
+  - Klemens Franz
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Glen More II: Chronicles is a 2-5 player tile-placement game by Matthias Cramer, published in 2019 as a sequel and significant expansion of the original Glen More. Players build Scottish clan territories by claiming tiles from a time-track rondel — the last player in line takes a tile and advances as many spaces as desired, with each placed tile activating itself and all neighboring tiles to produce resources, points, and other effects. The "Chronicles" subtitle refers to eight modular expansion sets that can be mixed into the base game, introducing famous Scottish figures as person tiles with unique ongoing abilities, dramatically expanding strategic options and replayability. The core tile-activation engine is deeply satisfying, rewarding players who build densely interconnected territories.
+
+upgrades: []

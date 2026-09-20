@@ -1,0 +1,61 @@
+id: taboo
+name: "Taboo"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Teams
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Lucky
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 8]
+
+designer:
+  - Brian Hersch
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 13
+
+description: |
+  Taboo is a classic team-based party word game designed by Brian Hersch and
+  published by Parker Brothers in 1989, now produced by Hasbro. One player
+  tries to get teammates to guess a secret word on a card, but is forbidden
+  from saying that word or five additional "taboo" words listed beneath it.
+  An opposing team member monitors with a buzzer and penalizes any violations.
+  The game is purely verbal — no gestures or drawings allowed — creating hilarious
+  moments as players contort their descriptions. With its simple premise and
+  broad appeal, Taboo remains one of the most popular party games for groups
+  of four or more.
+
+upgrades: []

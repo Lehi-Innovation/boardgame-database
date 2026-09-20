@@ -1,0 +1,53 @@
+id: word-rummikub
+name: "Word Rummikub"
+alternate_names:
+  - "Rummikub Word"
+year: 1993
+
+# Relationships
+game_family: rummikub
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Tile Placement
+  - Word Play
+  - Family
+  - Party
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Lemada Light Industries
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Word Rummikub replaces the numbers of the classic Rummikub tile game with letters, challenging players to form complete words instead of number sequences. Players draw from 112 letter tiles and take turns melding words of three or more letters onto the table or adding tiles to existing words; crucially, they can also rearrange words already on the table to create new ones and offload more of their tiles. Two wild Joker tiles can represent any letter, and the first player to empty their rack wins. The Scrabble-meets-Rummikub design rewards vocabulary and creative tile manipulation equally.
+
+upgrades: []

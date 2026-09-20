@@ -1,0 +1,57 @@
+id: city-of-the-big-shoulders
+name: "City of the Big Shoulders"
+alternate_names:
+  - "Chicago 1875: City of the Big Shoulders"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Economic
+  - Auctions/Bidding
+  - Variable Player Powers
+  - Historical
+  - City Building
+  - Euro
+
+evokes:
+  - Masterful
+  - Agency
+  - Rivalry
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Raymond Chandler III
+publisher:
+  - Parallel Games
+artist: []
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+description: |
+  City of the Big Shoulders is a heavy economic game set in 1875 Chicago that merges 18xx-style stock manipulation with Euro-style worker placement in a historically evocative package. Players start companies, buy and sell shares, place workers to hire employees and equip factories, produce goods, and ship them across the midwest to maximize company value and personal wealth over five decades. Unlike most 18xx games, City of the Big Shoulders plays in roughly two and a half hours by streamlining the operational phases while keeping the deep strategic tension of managing companies whose fortunes directly affect your stock portfolio.
+
+upgrades: []

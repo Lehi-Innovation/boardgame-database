@@ -1,0 +1,50 @@
+id: tribond
+name: "TriBond"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Word Play
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  TriBond is a party trivia game built around the concept of the "Threezer" — players are presented with three seemingly unrelated items and must identify the common bond between them. For example, "Earth, Mars, Snickers" all share the bond of being candy bars. Created by Tim Walsh, Dave Yearick, and Ed Muccini while students at Colgate University in 1987 and published in 1990, the game rewards lateral thinking and pop culture knowledge. It has been published in multiple editions by Mattel, Winning Moves, and other companies.
+
+upgrades: []

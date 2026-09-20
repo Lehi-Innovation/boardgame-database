@@ -1,0 +1,53 @@
+id: valley-of-the-vikings
+name: "Valley of the Vikings"
+alternate_names:
+  - "Tal der Wikinger"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+  - Family
+  - Medieval
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Valley of the Vikings is a children's dexterity game designed by Marie Fort and Wilfried Fort, published by HABA, and winner of the 2019 Kinderspiel des Jahres (Children's Game of the Year). Players take turns launching a bowling ball to knock down barrels in a Viking village, strategically targeting the barrels they need to score points while trying to send opponents' Vikings tumbling into the water. The tactile barrel-bowling action makes the game immediately accessible and exciting for young players, while the light strategic element — choosing which barrels to aim for — gives it enough depth to appeal to the whole family.
+
+upgrades: []

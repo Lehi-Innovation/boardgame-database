@@ -1,0 +1,52 @@
+id: super-fantasy-brawl
+name: "Super Fantasy Brawl"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Area Control
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Unique
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 40
+min_age: 14
+
+description: |
+  Super Fantasy Brawl is a fast-paced competitive miniatures board game published by Mythic Games in 2020, for 2–4 players. Players select teams of three champions from a diverse roster, combining their unique action card decks to create synergistic combinations. On each turn, players use their hand of action cards to maneuver, attack, displace enemies, and claim objectives to score victory points. The faction-free champion selection allows for unlimited team combinations, and the card-driven actions create strategic depth without requiring complex rule memorization. Games play in 30–40 minutes, making it an accessible yet rewarding arena brawler.
+
+upgrades: []

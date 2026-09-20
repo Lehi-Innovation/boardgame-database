@@ -1,0 +1,58 @@
+id: space-opera
+name: "Space Opera"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Resource Management
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Role Playing
+
+evokes:
+  - Discovery
+  - Agency
+  - Masterful
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Fantasy Games Unlimited
+artist: []
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 720
+min_age: 16
+
+description: |
+  Space Opera is a science fiction role-playing game published by Fantasy Games Unlimited in 1980, marketed as
+  "the most complete science fiction role-playing game ever produced." Players choose from classes — Armsman,
+  Astronaut, Tech, and Scientist — building characters across 14 characteristics using percentile dice. The game
+  covers character and planet generation, human and alien races, skills, starship design (requiring physics
+  knowledge to appreciate), and tactical combat rivaling dedicated wargames in detail. A complete scenario can
+  take an entire weekend; the game's ambition for comprehensiveness made it both celebrated and notoriously complex.
+
+upgrades: []

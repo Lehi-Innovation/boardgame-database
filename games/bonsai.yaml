@@ -1,0 +1,58 @@
+id: bonsai
+name: "Bonsai"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Pattern Building
+  - Euro
+  - Family
+  - Gateway
+  - Nature
+
+evokes:
+  - Complete
+  - Wonder
+  - Clever
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Rosaria Battiato
+  - Massimo Borzì
+  - Martino Chiacchiera
+publisher:
+  - dV Giochi
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bonsai is a serene tile-placement game for 1–4 players in which each player cultivates a living bonsai tree, carefully placing wood, leaf, flower, and fruit tiles to maximize beauty and points. On each turn players either meditate—selecting a face-up card and taking associated tiles—or cultivate, placing tiles from their personal supply according to the symbols on their Seishi tile and Growth cards. Three public objective cards with tiered thresholds create a clever racing tension: when you achieve an objective level, you must immediately decide whether to claim it or renounce it in hopes of reaching a higher tier.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: a-vos-marques
+name: "À vos marques!"
+alternate_names:
+  - "A vos Marques"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Set Collection
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Goliath Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  À vos marques! is a speed-based party game by Goliath in which players race to collect cards
+  matching specific criteria related to consumer brand logos, using special suction-cup components
+  to grab matching tiles. The game includes 72 brand representations and 120 mission cards
+  defining collection goals. Its fast-paced real-time play and brand recognition theme make it a
+  lively, competitive party game suitable for families and groups.
+
+upgrades: []

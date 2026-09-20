@@ -1,0 +1,56 @@
+id: the-name-of-the-rose-2008
+name: "The Name of the Rose"
+alternate_names: ["Der Name der Rose"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Social Deduction
+  - Euro
+  - Historical
+  - Mystery
+  - Stefan Feld
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Persuasion
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Name of the Rose is a 2008 deduction and social deduction board game designed by Stefan Feld and published by Ravensburger, based on Umberto Eco's acclaimed medieval mystery novel. Players take on the roles of monks in a monastery, each with a secret identity they must protect while gathering clues to deduce the identities of their fellow players. The game blends hidden identity mechanics with deduction and bluffing, creating a layered experience of information management and misdirection. Now out of print and highly sought after, it is often cited as Stefan Feld's "lost masterpiece" and one of his most thematically evocative designs.
+
+upgrades: []

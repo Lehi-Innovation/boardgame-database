@@ -1,0 +1,53 @@
+id: tournay
+name: "Tournay"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: troyes
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Resource Management
+  - Historical
+  - Medieval
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Tournay is a card game designed by Sébastien Dujardin, Xavier Georges, and Alain Orban — the same team behind Troyes — published by Pearl Games and Z-Man Games in 2012. Players manage a district of a medieval city, recruiting citizens from three classes (nobility, clergy, and burghers) organized into nine level-tiered card decks. Citizens generate resources and effects that allow players to hire more powerful citizens or block opponents. The elegant card-drafting and citizen-chaining mechanics reward experienced players who can read multiple turns ahead, making Tournay a finely crafted euro card game from a celebrated design team.
+
+upgrades: []

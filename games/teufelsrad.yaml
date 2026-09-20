@@ -1,0 +1,58 @@
+id: teufelsrad
+name: "Teufelsrad"
+alternate_names: ["Devil's Wheel"]
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Take That
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Schmidt Spiele
+artist:
+  - Susa Schlieper
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Teufelsrad (Devil's Wheel) is a German family board game published by
+  Spiele-Schmidt with artwork by Susa Schlieper. Descended from Pachisi with
+  elements of Malefiz, it features a multi-level circular board with four rings
+  of safe zones and downward trap arrows. Players race pieces through increasingly
+  dangerous levels toward the outer ring, with two same-colored pieces forming
+  impassable barriers and pieces thrown from the highest level being eliminated.
+  The winner is the player with the last piece remaining on the wheel, creating
+  a tense elimination race with tactical blocking opportunities.
+
+upgrades: []

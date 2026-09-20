@@ -1,0 +1,55 @@
+id: whistle-mountain
+name: "Whistle Mountain"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Steampunk
+
+evokes:
+  - Progress
+  - Clever
+  - Wonder
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Scott Caputo
+  - Luke Laurie
+publisher:
+  - Bezier Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Whistle Mountain is a steampunk worker-placement and engine-building game for 2–4 players set on a fantastical mountain where players construct ever-taller airship scaffolding and machines. Workers are placed on a shared mountain board, but the mountain floods periodically — workers left too low drown and are lost, forcing players to continually build their infrastructure higher. Players gather resources, build machines, and deploy airships to access elevated construction sites, creating an escalating vertical race. The flood mechanism creates urgent tension while the engine-building rewards careful planning across the mountain's many interconnected actions.
+
+upgrades: []

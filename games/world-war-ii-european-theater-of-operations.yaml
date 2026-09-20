@@ -1,0 +1,56 @@
+id: world-war-ii-european-theater-of-operations
+name: "World War II: European Theater of Operations"
+alternate_names:
+  - "WW2: ETO"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Simulation
+  - Historical
+  - War
+  - Wargame
+  - Resource Management
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+  - Jeff Ealy
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 16
+
+description: |
+  World War II: European Theater of Operations 1939-1945 is a strategic-level hex wargame originally designed by Jim Dunnigan and revised by Jeff Ealy in 1985, covering the entirety of the European theater from the invasion of Poland to Germany's defeat. Each game turn represents three months, with phases for movement, combat, mechanized movement, rail and naval logistics, reinforcements, partisan activity, and production. The game incorporates air and naval operations, strategic bombing, economic production, and army group command rules, making it one of the more comprehensive strategic-level treatments of the conflict in a manageable format.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: gang-of-dice
+name: "Gang of Dice"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Filler
+  - Family
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Mandoo Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Gang of Dice is a 2022 dice-rolling press-your-luck game by Reiner Knizia, published by Mandoo Games, themed around mob lieutenants vying to become the successor to a retiring crime boss by recruiting the most minions. Each round a Warning card is revealed showing a dangerous dice combination or threshold; players then choose any number of their dice and roll them, trying to get the highest result without triggering the warned combination. The winner collects all the dice rolled by all players, growing their gang — but going too far risks losing everything. Light and fast, it rewards reading the odds and knowing when to hold back.
+
+upgrades: []

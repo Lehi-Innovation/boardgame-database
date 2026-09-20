@@ -1,0 +1,62 @@
+id: get-on-board-new-york-and-london
+name: "Get on Board: New York & London"
+alternate_names:
+  - "Get on Board"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Network Building
+  - Route Building
+  - Simultaneous Action
+  - Family
+  - Gateway
+  - City Building
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Puzzle Solving
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Saashi
+publisher:
+  - IELLO
+artist:
+  - Monsieur Z
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Get on Board: New York & London is a simultaneous route-drawing game where 2-5 players
+  build bus routes through iconic city maps. Each round a shared die determines the road
+  segments available, and players simultaneously draw routes to pick up passengers and
+  avoid traffic jams. Two double-sided maps—New York and London—provide four distinct
+  scoring environments, and the shared decision space means everyone's choices affect
+  each other. Winner of the 2022 UK Games Expo People's Choice Award.
+
+upgrades: []

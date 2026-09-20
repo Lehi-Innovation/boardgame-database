@@ -1,0 +1,52 @@
+id: toc-toc-toc
+name: "Toc Toc Toc!"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Hand Management
+  - Party
+  - Family
+  - Horror
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Toc Toc Toc! is a Halloween-themed bluffing card game designed by Bruno Faidutti and Gwénaël Bouquin and published by Asmodee in 2004. On each turn a player offers a face-down card to an opponent who must decide to accept it or return it to the sender — without ever seeing what it is — creating escalating tension as desirable guests (musicians) and undesirable monsters (vampires, ghosts, Frankenstein) circulate around the table. The elegant bluffing mechanic and spooky theme make it accessible fun for families and casual players.
+
+upgrades: []

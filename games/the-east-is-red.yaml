@@ -1,0 +1,59 @@
+id: the-east-is-red
+name: "The East is Red: The Sino Soviet War"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  The East is Red: The Sino-Soviet War is a 1974 SPI strategic/operational simulation originally
+  published in Strategy & Tactics #42, covering a hypothetical Soviet invasion of Manchuria and
+  North China set in the then-contemporary 1970s. One player commands Soviet forces attempting
+  to occupy key Chinese territory; the other controls Chinese defenders resisting the invasion.
+  Division and corps-level units operate under a scenario that assumes the use of tactical nuclear
+  weapons and atomic demolitions within the theater of operations — an unusually explicit nuclear
+  warfighting premise for a board game of the era, reflecting the heightened Sino-Soviet tensions
+  of the 1960s-70s.
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: talisman-kingdom-hearts
+name: "Talisman: Kingdom Hearts"
+alternate_names: ["Talisman: Kingdom Hearts Edition"]
+year: 2019
+
+# Relationships
+game_family: talisman
+edition: "Kingdom Hearts Edition"
+base_game: talisman-1983
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Ameritrash
+  - Fantasy
+  - Disney
+
+evokes:
+  - Discovery
+  - Lucky
+  - Wonder
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Elisa Teague
+  - Kami Mandell
+  - Robert Harris
+publisher:
+  - The Op
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Talisman: Kingdom Hearts is a licensed edition of the classic Talisman board
+  game featuring characters, worlds, and themes from Disney and Square Enix's
+  Kingdom Hearts video game franchise. Published by The Op in 2019, players
+  guide Sora, Kairi, Riku, King Mickey, Goofy, and other beloved characters
+  through three regions of the board, battling Heartless and gathering strength
+  and magic to seal the Door to Darkness. Custom marbleized dice, themed tokens,
+  and artwork faithful to the games maintain Talisman's beloved exploratory
+  spirit while offering a fresh coat of Disney nostalgia paint.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: dei-divide-et-impera
+name: "D.E.I.: Divide et Impera"
+alternate_names:
+  - "DEI: Divide et Impera"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Variable Player Powers
+  - Asymmetric
+  - Modular Board
+  - Variable Setup
+  - Post-Apocalyptic
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Tommaso Battista
+publisher:
+  - Ludus Magnus Studio
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  D.E.I.: Divide et Impera is a competitive strategy game for 2–4 players set in a world devastated by a new Ice Age, where factions of Scrappers battle across a fully modular three-dimensional board of stacked district levels. Players control asymmetric faction leaders and starting decks, sending workers to gather scrap, buy equipment, and fulfill public missions by satisfying requests from the surviving Purebred elite. Each game plays out over four turns of action and cleanup phases, with the constantly shifting 3D board—assembled differently every session—ensuring no two games feel alike.
+
+upgrades: []

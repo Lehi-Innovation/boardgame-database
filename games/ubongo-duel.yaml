@@ -1,0 +1,52 @@
+id: ubongo-duel
+name: "Ubongo: Duel"
+alternate_names:
+  - "Ubongo Duel"
+year: 2010
+
+# Relationships
+game_family: ubongo
+edition: null
+base_game: ubongo
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Real-time
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Grzegorz Rejchtman
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Ubongo: Duel is a two-player head-to-head version of the Ubongo puzzle series by Grzegorz Rejchtman, published by KOSMOS. Both players receive the same set of tiles and the same puzzle each round, determined by rolling a 20-sided die, then race to fill their puzzle board first. The first to shout "Ubongo!" scores a point. The first player to win 5 rounds (or the leader after 9 rounds) wins. Ubongo: Duel distills the original's real-time puzzle competition into a pure direct rivalry format.
+
+upgrades: []

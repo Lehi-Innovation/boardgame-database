@@ -1,0 +1,50 @@
+id: p-i
+name: "P.I."
+alternate_names: ["Private Investigator"]
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Set Collection
+  - Family
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  P.I. (Private Investigator) is a competitive deduction game for 2-4 players designed by Martin Wallace, consisting of three mini-investigations played back to back. At the start of each mini-game, players secretly receive a suspect, crime, and location — forming a case that the player to their left must solve. On their turn, investigators place pawns to gather evidence discs and cubes that reveal adjacency and matches without pointing directly to the answer. The player who solves their case first earns the most points, rewarding logical reasoning and careful observation over three brisk rounds.

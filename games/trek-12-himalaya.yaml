@@ -1,0 +1,54 @@
+id: trek-12-himalaya
+name: "Trek 12: Himalaya"
+alternate_names: ["Trek 12"]
+year: 2020
+
+# Relationships
+game_family: trek-12
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Press Your Luck
+  - Nature
+  - Family
+  - Gateway
+  - Bruno Cathala
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [2, 3, 4]
+
+designer:
+  - Bruno Cathala
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Trek 12: Himalaya is a roll-and-write mountaineering game designed by Bruno Cathala and Corentin Lebrat, published by Lumberjacks Studio in 2020 and Pandasaurus Games internationally in 2021. Each turn, players roll two dice and choose one of five mathematical operations to combine them, writing the resulting number in a hex on their personal mountain map. Numbers must connect in valid ascending chains, and players score for the longest chain, the most isolated peaks, and completing camp circles. Playable by enormous groups simultaneously, Trek 12 combines light campaign elements with satisfying number-placement puzzle decisions.
+
+upgrades: []

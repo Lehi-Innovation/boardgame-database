@@ -1,0 +1,62 @@
+id: fleet
+name: "Fleet"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: fleet
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Economic
+  - Family
+  - Maritime
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ben Pinchback
+  - Matt Riddle
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Eric J. Carter
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Fleet is a strategic card game with a unique commercial fishing theme where players
+  compete to earn the most victory points by purchasing fishing licenses, launching boats,
+  and hiring captains. Each round consists of five phases including an auction for licenses
+  and card play to advance fishing operations. The hand management decisions—when to bid,
+  when to launch, when to fish—create satisfying economic tension in a compact and
+  approachable package. Fleet was the 2012 Dice Hate Me Game of the Year.
+
+upgrades: []

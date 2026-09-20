@@ -1,0 +1,58 @@
+id: yvio
+name: "YVIO"
+alternate_names:
+  - "YVIO: Freibeuter der Karibik"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Variable Setup
+  - Maritime
+  - Pirates
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Tension
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Noris Spiele
+artist: []
+playtime_minutes: 70
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  YVIO is a hybrid electronic-board game system that combines a physical game board with a
+  dedicated electronic console featuring an LED display, SD card slot, and speaker. The launch
+  game, Freibeuter der Karibik (Pirates of the Caribbean), casts players as merchant captains
+  trading goods across the Caribbean to earn victory points. The YVIO console simulates real-time
+  trade economics and voyage durations based on distance and ship equipment, bridging the gap
+  between classic tabletop gameplay and video game complexity.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: unlock-game-adventures
+name: "Unlock! Game Adventures"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: unlock
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Card Drafting
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Humor
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Unlock! Game Adventures is a box set in Space Cowboys' cooperative escape room card game series featuring three scenarios with themes drawn from classic gaming and video game culture. Using the card-based Unlock! system and companion app, players explore puzzle scenarios inspired by game genres and settings. Like all entries in the series, it requires no physical setup and uses card combinations and app-based interactions to create the escape room experience.
+
+upgrades: []

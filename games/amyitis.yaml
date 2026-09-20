@@ -1,0 +1,54 @@
+id: amyitis
+name: "Amyitis"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Worker Placement
+  - Resource Management
+  - Euro
+  - Ancient
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Masterful
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Cyril Demaegd
+publisher:
+  - Ystari Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Amyitis is a strategy game set in ancient Babylon where players assume the roles of nobles competing to create the most spectacular gardens for Queen Amyitis, the wife of Nebuchadnezzar II. Players recruit priests, engineers, merchants, and farmers—each enabling different actions—to construct garden and irrigation tiles, control temples through area majority, and accumulate victory points. The layered resource management and intricate worker recruitment system earned the game high praise as one of the most thematic and mechanically rich releases from publisher Ystari.
+
+upgrades: []

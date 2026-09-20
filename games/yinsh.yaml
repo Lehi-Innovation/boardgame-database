@@ -1,0 +1,51 @@
+id: yinsh
+name: "YINSH"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: "gipf-project"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Rio Grande Games
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kris Burm
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  YINSH is the fifth entry in Kris Burm's acclaimed GIPF Project series of two-player abstract games, published in 2003. Each player begins with five rings on a star-shaped hexagonal grid; moving a ring across the board leaves a marker behind and flips all markers it jumps over, creating a constantly shifting landscape of black and white discs. The goal is to form a row of five same-coloured markers, at which point a ring is removed — and the first player to remove three of their own rings wins. This creates a fascinating paradox where the path to victory requires weakening your own forces, giving YINSH a depth and elegance that earned it a Mensa Select award.
+
+upgrades: []

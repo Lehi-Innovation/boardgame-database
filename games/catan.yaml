@@ -1,0 +1,66 @@
+id: catan
+name: "Catan"
+alternate_names:
+  - "The Settlers of Catan"
+  - "Die Siedler von Catan"
+year: 1995
+
+# Relationships
+game_family: "catan"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Negotiation
+  - Modular Board
+  - Resource Management
+  - Network Building
+  - Variable Setup
+  - Euro
+  - Family
+  - Gateway
+  - Cult Classic
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Rivalry
+  - Tension
+  - Lucky
+  - Clever
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Rio Grande Games
+artist:
+  - Volkan Baga
+  - Tanja Donner
+  - Pete Fenlon
+  - Jason Hawkins
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan (originally The Settlers of Catan) is the landmark 1995 Eurogame by Klaus Teuber that brought hobby board gaming to mainstream audiences worldwide, winning both the Spiel des Jahres and Deutscher Spiele Preis in its release year. Players take the role of settlers on a randomly assembled island of hexagonal terrain tiles, collecting resources — wool, grain, lumber, brick, and ore — based on dice rolls and the location of their settlements. Through trading with opponents and building roads, settlements, and cities, players race to reach 10 victory points first. Its combination of accessible rules, meaningful player interaction through trading, and the tension of the robber mechanic made it one of the best-selling board games of all time, with over 45 million copies sold.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: the-thin-red-line-1979
+name: "The Thin Red Line"
+alternate_names: ["The Thin Red Line: A Game of the Battle of Waterloo"]
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - S. Craig Taylor
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Thin Red Line is a 1979 hex-and-counter wargame designed by S. Craig Taylor and published by Yaquinto Publications, simulating the Battle of Waterloo on June 18, 1815. One player commands Napoleon's French Imperial forces, the other controls the Duke of Wellington's Anglo-Allied army in one of history's most pivotal battles. With 275 counters, a large hex-grid map, and a 24-page rulebook, the game offers moderate-to-complex tactical simulation of this decisive Napoleonic engagement. It was one of eight games simultaneously introduced by Yaquinto at GenCon XII in 1979, marking the publisher's debut in the wargame market.
+
+upgrades: []

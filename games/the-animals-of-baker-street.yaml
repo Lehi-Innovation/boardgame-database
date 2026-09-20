@@ -1,0 +1,61 @@
+id: the-animals-of-baker-street
+name: "The Animals of Baker Street"
+alternate_names:
+  - "Les Animaux de Baker Street"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Mystery
+  - Family
+  - Animals
+
+evokes:
+  - Mystery
+  - Discovery
+  - Connection
+  - Clever
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Clémentine Beauvais
+  - Dave Neale
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Animals of Baker Street is a cooperative deduction game set in a whimsical Sherlock Holmes-
+  inspired world populated by animal characters, written by youth author Clémentine Beauvais and
+  Sherlock game specialist Dave Neale, published by IELLO in 2022. Players collectively choose
+  which locations to visit across Baker Street, interact with quirky animal characters, and collect
+  clues to solve a mystery. Each detective character has unique abilities that can be activated during
+  visits, but time is limited and every location visited advances the clock. Players must plan their
+  path wisely to gather enough information to crack the case before time runs out.
+
+upgrades: []

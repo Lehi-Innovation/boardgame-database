@@ -1,0 +1,51 @@
+id: warhammer-warriors-battle-books
+name: "Warhammer Warriors Battle Books"
+alternate_names:
+  - "Warhammer Warriors"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Variable Player Powers
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Warhammer Warriors Battle Books are a series of multiplayer combat gamebooks published by Games Workshop, similar in format to the Lost Worlds Fantasy Combat Books, set in the Warhammer 40,000 science fiction universe. Each book represents a specific character—such as Kal Jerico (Necromunda Bounty Hunter), a Blood Angel Captain, or Ephrael Stern (Sister of Battle)—and two players use their respective books to resolve combat by referencing illustrated combat pages. Characters advance by winning battles, unlocking special moves over time. The format provides quick, accessible wargame-style skirmishes without requiring full miniature collections.
+
+upgrades: []

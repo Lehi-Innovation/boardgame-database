@@ -1,0 +1,53 @@
+id: victory-world-war-ii
+name: "Victory: World War II"
+alternate_names:
+  - "Victory: The Blocks of War"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Tom Dalgliesh
+  - Grant Dalgliesh
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Victory: World War II (also titled Victory: The Blocks of War) is a block wargame designed by Tom Dalgliesh and Grant Dalgliesh and published by Columbia Games in 1998. It is a strategic-level simulation of the entire Second World War, with players commanding the major powers across both the European and Pacific theatres. Columbia Games' signature wooden block system provides a natural fog of war mechanic, as block faces are hidden from opponents until combat occurs. The game supports two to four players in a sandbox-style conflict, making it one of the most comprehensive of Columbia Games' World War II block wargame offerings.
+
+upgrades: []

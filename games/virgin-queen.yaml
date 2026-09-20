@@ -1,0 +1,55 @@
+id: virgin-queen
+name: "Virgin Queen"
+alternate_names:
+  - "Virgin Queen: Wars of Religion 1559-1598"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Negotiation
+  - Events
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [6]
+
+designer:
+  - Ed Beach
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 600
+min_playtime: 480
+max_playtime: 720
+min_age: 16
+
+description: |
+  Virgin Queen: Wars of Religion 1559-1598 is a grand strategy game for two to six players designed by Ed Beach and published by GMT Games in 2012. Set during the turbulent late 16th century, it covers the military, political, and religious conflicts across Europe during the reigns of Elizabeth I of England and Philip II of Spain — an era of proxy wars, Protestant Reformation, colonial expansion, and dynastic rivalry. Players control the major European powers and must manage military campaigns, religious influence, diplomatic manoeuvring, and event cards, making it one of the most comprehensive and acclaimed games of the GMT catalogue.
+
+upgrades: []

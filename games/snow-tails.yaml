@@ -1,0 +1,59 @@
+id: snow-tails
+name: "Snow Tails"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Hand Management
+  - Modular Board
+  - Variable Setup
+  - Family
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Fraser Lamont
+  - Gordon Lamont
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Snow Tails is a sled-racing game designed by the Lamont Brothers and published by Asmodee in 2008, set in
+  the Arctic where players race dog sleds across a modular track assembled differently each game. Each player
+  manages a personal Dog Deck, playing cards onto three sled mat slots — left dog, right dog, and brakes —
+  with forward speed determined by the combined dog values minus braking. Because sleds drift toward the faster
+  dog, cornering and collision management are key skills, and collecting Dent cards for reckless driving shrinks
+  your hand size, adding escalating penalty.
+
+upgrades: []

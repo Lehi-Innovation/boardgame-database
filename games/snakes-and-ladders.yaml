@@ -1,0 +1,56 @@
+id: snakes-and-ladders
+name: "Snakes and Ladders"
+alternate_names: ["Chutes and Ladders", "Moksha Patam", "Gyan Chaupar"]
+year: 1943
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Progress
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 3
+
+description: |
+  Snakes and Ladders is an ancient Indian board game known as Moksha Patam, brought to Britain in the 19th century
+  as a moral teaching tool illustrating virtue (ladders) and vice (snakes). Players race pawns from start to finish
+  on a numbered grid, advancing by die roll but subject to sudden rises via ladders and falls via snake chutes.
+  The modern American edition "Chutes and Ladders" was published by Milton Bradley in 1943 with a playground theme.
+  Entirely luck-based, it remains a universal gateway for introducing young children to board games.
+
+upgrades: []

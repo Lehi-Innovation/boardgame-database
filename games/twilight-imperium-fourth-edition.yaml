@@ -1,0 +1,59 @@
+id: twilight-imperium-fourth-edition
+name: "Twilight Imperium: Fourth Edition"
+alternate_names: ["Twilight Imperium 4"]
+year: 2017
+
+# Relationships
+game_family: twilight-imperium
+edition: "Fourth Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Trading
+  - Tech Tree
+  - Variable Player Powers
+  - Asymmetric
+  - Modular Board
+  - Sci-Fi
+  - Space
+  - 4X
+  - Cult Classic
+  - Fantasy Flight Games
+
+evokes:
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [6]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 480
+min_playtime: 240
+max_playtime: 600
+min_age: 14
+
+description: |
+  Twilight Imperium: Fourth Edition is the definitive edition of Christian T. Petersen's epic space opera board game of galactic conquest, published by Fantasy Flight Games in 2017. Three to six players each control one of seventeen alien factions with unique strengths, technologies, and agendas as they maneuver fleets, build economies, negotiate treaties, pass laws, and pursue secret objectives to accumulate ten victory points and claim the throne of Mecatol Rex. Every faction has its own playstyle and asymmetric powers, ensuring no two games play alike across a modular galaxy map. Widely praised as one of the greatest board games ever made, TI4 demands an entire day and rewards those who commit with an unmatched scope of political, military, and economic drama.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: zertz
+name: "ZÈRTZ"
+alternate_names:
+  - "Zertz"
+year: 1999
+
+# Relationships
+game_family: gipf-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kris Burm
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 9
+
+description: |
+  ZÈRTZ is a two-player abstract strategy game and part of Kris Burm's acclaimed GIPF Project
+  series. Players place and jump marbles — five white, seven grey, and nine black — on an
+  ever-shrinking board of rings, aiming to capture either three white, four grey, or five black
+  marbles, or two of each color. The board itself shrinks as isolated rings are removed, creating
+  a dynamic and constantly changing landscape that requires players to think several moves ahead.
+  ZÈRTZ won the Mensa Select award and ranked among the top abstract games.
+
+upgrades: []

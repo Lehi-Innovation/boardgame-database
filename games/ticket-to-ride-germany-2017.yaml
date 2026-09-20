@@ -1,0 +1,56 @@
+id: ticket-to-ride-germany-2017
+name: "Ticket to Ride: Germany"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Historical
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Ticket to Ride: Germany is a 2017 standalone entry in the Ticket to Ride series by Alan R. Moon and Days of Wonder, featuring a map of Germany and a unique passenger mechanic. When players claim a route, they collect a passenger meeple of their choice from either end city; at game end, the player with the most of each passenger color scores 20 points, and second place scores 10. As passengers are limited per city, popular areas run dry quickly, adding a competitive race to claim passengers alongside routes. Players also choose between short and long destination tickets from separate decks, adding further variety to this standout entry in the Ticket to Ride family.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: three-player-chess
+name: "three-player chess"
+alternate_names: ["Three-handed chess"]
+year: 1722
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [3]
+true_counts: [3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Three-player chess encompasses a wide family of chess variants adapted for exactly three players, typically played on a hexagonal board or a modified board combining three standard chessboards arranged around a central hub. Documented as far back as the early 18th century, three-player chess introduces entirely new strategic dimensions: alliances of convenience, kingmaking dynamics, and asymmetric threats from multiple directions simultaneously. The fundamental challenge of three-player chess—preventing any single player from winning while not inadvertently helping a third—creates a uniquely political dimension absent from the two-player game.
+
+upgrades: []

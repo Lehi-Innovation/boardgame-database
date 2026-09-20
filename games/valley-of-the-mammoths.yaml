@@ -1,0 +1,53 @@
+id: valley-of-the-mammoths
+name: "Valley of the Mammoths"
+alternate_names:
+  - "La Vallée des Mammouths"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+  - Ameritrash
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Powerful
+  - Humor
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruno Faidutti
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Valley of the Mammoths is a 1991 board game designed by Bruno Faidutti, first published by Ludodélire and later reissued by Jeux Descartes. A slightly tactical old-style game set in prehistoric times, it occupies territory somewhere between Risk and Civilization with a generous dose of fun and chaos. Players lead prehistoric tribes competing for dominance across the valley, using dice, special abilities, and tactical cunning to outmanoeuvre rival clans. With support for three to six players and a playtime of up to three hours, it is designed for an evening of raucous prehistoric conquest.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: shove-hapenny
+name: "Shove Ha'penny"
+alternate_names: ["Shoffe-grote", "Slype Groat"]
+year: 1840
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Masterful
+  - Connection
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Shove Ha'penny is a traditional British pub game with origins in Tudor England, in which two players alternately shove five coins or discs along a smooth wooden board using the palm of the hand, trying to land them cleanly within the nine scored "beds" (strips between horizontal lines). Each bed must be scored exactly three times to win it; the first player to score all nine beds wins. Once a common fixture in English pubs, it belongs to the shuffleboard family and has roots traceable to the 15th-century game shoffe-grote played with groat coins.
+
+upgrades: []

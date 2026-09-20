@@ -1,0 +1,59 @@
+id: swish
+name: "Swish"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Zvi Shalem
+  - Gali Shimoni
+publisher:
+  - ThinkFun
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Swish is a real-time spatial pattern recognition game published by ThinkFun
+  in 2011. Players race to find "Swishes" — valid combinations of two or more
+  transparent cards that, when layered and possibly rotated or flipped, perfectly
+  match every colored ball to a hoop of the same color. Sixteen cards are laid
+  out at a time, and players compete to spot valid stacking combinations faster
+  than their opponents. The game was a Toy of the Year nominee and challenges
+  players' spatial intelligence in a fast and satisfying way.
+
+upgrades: []

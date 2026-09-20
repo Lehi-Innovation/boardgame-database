@@ -1,0 +1,53 @@
+id: spyrium
+name: "Spyrium"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Economic
+  - Steampunk
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Spyrium is a worker-placement and engine-building game by William Attia, published by Ystari Games and Asmodee in 2013, set in a steampunk Victorian England where the mineral Spyrium has revolutionized industry. Players lead industrial conglomerates, recruiting workers, constructing factories, and patenting techniques over six turns to score victory points. The unique placement mechanic has workers placed between face-up cards in the market row; to take an action, a player must remove a worker and pay resources based on how many other workers neighbor the card. This creates elegant tension between workers claiming space and workers converting that adjacency into powerful actions.
+
+upgrades: []

@@ -1,0 +1,67 @@
+id: the-castles-of-burgundy
+name: "The Castles of Burgundy"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: castles-of-burgundy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Tile Placement
+  - Set Collection
+  - Drafting
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Medieval
+  - Stefan Feld
+  - Ravensburger
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Masterful
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Ravensburger
+artist:
+  - Julien Delval
+  - Harald Lieske
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Castles of Burgundy is a classic Euro dice-placement game by Stefan Feld in which players
+  take the role of medieval aristocrats building and expanding their princedoms along the Rhone
+  river. Each round, players roll two dice and use the results to take hexagonal tiles from a
+  central market and place them onto their personal estate boards, earning bonuses for completing
+  regions. Workers can modify dice values, giving players flexibility. With livestock farming,
+  silver mines, trade goods, and various building types all yielding different scoring opportunities,
+  the game rewards careful planning and adapting to what the dice provide. It is widely regarded as
+  one of the defining Eurogames of its era and remains in print as an alea classic.
+
+upgrades: []

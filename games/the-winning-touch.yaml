@@ -1,0 +1,50 @@
+id: the-winning-touch
+name: "The Winning Touch"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - No Math
+
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Connection
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ideal
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  The Winning Touch is a 1962 educational arithmetic board game published by Ideal, designed to make math practice entertaining for the whole family. Players apply basic arithmetic skills to advance in the game, making it an early example of educational board game design that dresses up skill practice in a competitive game format. As a vintage Ideal game from the early 1960s, it represents the era when educational publishers were exploring board games as a medium for reinforcing school subjects in a home setting.
+
+upgrades: []

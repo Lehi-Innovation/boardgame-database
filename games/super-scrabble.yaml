@@ -1,0 +1,51 @@
+id: super-scrabble
+name: "Super Scrabble"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: scrabble
+edition: super
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Alfred Mosher Butts
+publisher:
+  - Winning Moves
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Super Scrabble is an expanded version of the classic Scrabble crossword game, featuring a 21x21 board (versus the standard 15x15) and 200 letter tiles rather than the usual 100, with a modified distribution that creates additional word-forming opportunities. All core Scrabble gameplay rules remain the same — players take turns placing tiles on the board to form words, scoring based on letter values and premium squares — but the larger board makes it better suited for three- and four-player games and rewards broader vocabulary. Published in North America by Winning Moves Games under license from Hasbro.
+
+upgrades: []

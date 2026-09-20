@@ -1,0 +1,51 @@
+id: who-can-beat-nixon
+name: "Who Can Beat Nixon?"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Events
+  - Historical
+  - Party
+
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Dynamic Design Industries
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Who Can Beat Nixon? is a political board game published during the 1972 presidential campaign in which up to six challengers compete to become the last candidate standing to face the incumbent president Richard Nixon in the general election. Players spend money and media points to accumulate electoral votes from state electoral colleges, needing 270 to win. Nixon has certain built-in advantages as the incumbent, while challengers must first eliminate each other before facing him in a final showdown. The game is a colorful artifact of early 1970s American political satire.
+
+upgrades: []

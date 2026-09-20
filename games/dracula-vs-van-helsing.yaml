@@ -1,0 +1,62 @@
+id: dracula-vs-van-helsing
+name: "Dracula vs Van Helsing"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Trick-taking
+  - Asymmetric
+  - Variable Player Powers
+  - Horror
+  - Vampires
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Maxime Rambourg
+  - Théo Rivière
+publisher:
+  - 25th Century Games
+artist:
+  - Anca Gavril
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Dracula vs Van Helsing is an asymmetric two-player card game inspired by Bram Stoker's
+  classic novel. One player controls Dracula seeking to dominate, while the other plays
+  Van Helsing fighting for balance across a series of lanes. Players alternately draw and
+  play cards from a shared rack, triggering unique effects from eight card types. The
+  asymmetric goals and hand-management tension create a quick but deeply interactive duel
+  that plays differently from each side.
+
+upgrades: []

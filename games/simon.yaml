@@ -1,0 +1,52 @@
+id: simon
+name: "Simon"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Progress
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1]
+
+designer:
+  - Ralph H. Baer
+  - Howard J. Morrison
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 5
+min_playtime: 2
+max_playtime: 10
+min_age: 3
+
+description: |
+  Simon is an electronic memory game invented by Ralph H. Baer and Howard J. Morrison and manufactured by Milton Bradley starting in 1978. The circular device has four colored buttons that light up in random sequences with accompanying tones; players must repeat each sequence correctly to advance, with the sequence growing by one step after each successful repetition. Available in multiple skill levels and game modes, Simon became one of the iconic toys of the late 1970s and has been continuously produced in various forms since its introduction.
+
+upgrades: []

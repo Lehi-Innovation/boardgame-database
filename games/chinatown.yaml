@@ -1,0 +1,55 @@
+id: chinatown
+name: "Chinatown"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Trading
+  - Set Collection
+  - Economic
+  - City Building
+  - Euro
+  - Family
+
+evokes:
+  - Persuasion
+  - Rivalry
+  - Clever
+  - Progress
+  - Tension
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Karsten Hartwig
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Chinatown is a 1999 negotiation and trading game by Karsten Hartwig, originally published by Alea and later reprinted by Z-Man Games, set in the bustling streets of San Francisco's Chinatown from the 1960s to the 1980s. Players randomly receive shop tiles and building lots each round, then engage in an open negotiation phase where anything can be traded — lots, tiles, and cash — to assemble matching sets of shops on contiguous lots and earn escalating income. Because tile and lot distributions are often mismatched, almost every turn demands deal-making and horse-trading with other players. Widely praised for its pure negotiation experience, it earned a Spiel des Jahres Recommended nod in 1999 and has become a beloved classic of the genre.
+
+upgrades: []

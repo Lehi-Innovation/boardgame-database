@@ -1,0 +1,49 @@
+id: timber-tom
+name: "Timber Tom"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Adventure
+  - Nature
+
+evokes:
+  - Discovery
+  - Progress
+  - Rivalry
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Timber Tom is a strategy and adventure board game for 2–4 players themed around an eccentric mountaineer nicknamed Timber Tom who has buried gold coins on mountain peaks. Players navigate the outdoor-themed board working to recover the hidden gold through a combination of strategy and exploration. The game offers light-to-moderate strategic depth suited to family game nights with an outdoor adventure flavor.
+
+upgrades: []

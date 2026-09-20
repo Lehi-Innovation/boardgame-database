@@ -1,0 +1,56 @@
+id: rajas-of-the-ganges-the-dice-charmers
+name: "Rajas of the Ganges: The Dice Charmers"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: rajas-of-the-ganges
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Roll & Write
+  - Set Collection
+  - Resource Management
+  - Family
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Progress
+  - Lucky
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - HUCH!
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Rajas of the Ganges: The Dice Charmers is a roll-and-write standalone spin-off of the acclaimed Rajas of the Ganges, designed by Inka and Markus Brand. Players use eight symbol dice to develop their Indian province, gathering goods, selling at the market, winning over influential personalities at the palace, and sailing up and down the Ganges River — all on their personal score sheets. Like the original, each player tracks both fame and fortune on two separate tracks that move in opposite directions, and the winner is the first to cross both tracks at the same point. It distills the thematic richness of the base game into a portable, fast-playing format for 2–5.
+
+upgrades: []

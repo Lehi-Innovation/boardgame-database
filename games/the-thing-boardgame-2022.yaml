@@ -1,0 +1,56 @@
+id: the-thing-boardgame-2022
+name: "The Thing: The Boardgame"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - 1 vs Many
+  - Cooperative
+  - Horror
+  - Sci-Fi
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Rivalry
+  - Unique
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - Andrea Crespi
+  - Giuseppe Cicero
+publisher:
+  - Pendragon Game Studio
+  - Ares Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  The Thing: The Boardgame is a 2022 hidden-role horror game designed by Andrea Crespi and Giuseppe Cicero, published by Pendragon Game Studio and distributed by Ares Games, based on John Carpenter's 1982 cult film. One player begins secretly as the Thing while the others are human survivors at Outpost 31; the Thing seeks to infect the humans and prevent escape, while humans try to survive and escape the base through one of three possible exits. Players must manage food, power, and heat while investigating their companions, creating an atmosphere of escalating paranoia faithful to the film. The 1-8 player count and modular board make for a replayable and thoroughly thematic experience.
+
+upgrades: []

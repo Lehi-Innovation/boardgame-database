@@ -9938,3 +9938,103 @@ entries:
     game_id: ribbit
     url: "https://www.majorfun.com/ribbit/"
     description: "Game information page — majorfun.com"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-london-game
+    url: "https://en.wikipedia.org/wiki/The_London_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-lord-of-the-rings-the-card-game
+    url: "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Card_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-game-of-fortress-and-siege
+    url: "https://en.wikipedia.org/wiki/List_of_board_wargames"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-labyrinth-of-rings
+    url: "https://rpggeek.com/boardgame/1217/the-labyrinth-of-rings"
+    description: "Game information page — rpggeek.com"
+  - timestamp: "2026-03-25T00:00:00Z"
+    game_id: 6-nimmt
+    url: "https://en.wikipedia.org/wiki/6_nimmt!"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: one-deck-dungeon
+    url: "https://www.asmodeena.com/en/games/one-deck-dungeon/"
+    description: "Game information page — asmodeena.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: between-two-castles-of-mad-king-ludwig
+    url: "https://www.amazon.com/Stonemaier-Games-Between-Castles-Ludwig/dp/B07KX3BNHK"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: war-of-the-ring-second-edition
+    url: "https://en.wikipedia.org/wiki/War_of_the_Ring_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: specter-ops
+    url: "https://www.plaidhatgames.com/board-games/specter-ops/"
+    description: "Publisher product page — plaidhatgames.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: santa-maria
+    url: "https://www.aportagames.com/en/games/santa-maria/"
+    description: "Publisher product page — aportagames.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: whirling-witchcraft
+    url: "https://www.alderac.com/whirling-witchcraft/"
+    description: "Publisher product page — alderac.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: whirling-witchcraft
+    url: "https://www.amazon.com/Alderac-Entertainment-Group-Whirling-Witchcraft/dp/B09BQSHP2G"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wits-and-wagers
+    url: "https://en.wikipedia.org/wiki/Wits_%26_Wagers"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wits-and-wagers
+    url: "https://www.amazon.com/North-Star-Games-Wits-Wagers/dp/B000KGGFVA"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wiz-war
+    url: "https://en.wikipedia.org/wiki/Wiz-War"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wiz-war
+    url: "https://www.amazon.com/Fantasy-Flight-Games-SW02-Wiz-War/dp/B008O2T6BE"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wrath-of-ashardalon
+    url: "https://dnd.wizards.com/products/wrath-ashardalon-board-game"
+    description: "Game information page — dnd.wizards.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wrath-of-ashardalon
+    url: "https://en.wikipedia.org/wiki/Wrath_of_Ashardalon"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wrath-of-ashardalon
+    url: "https://www.amazon.com/Dungeons-Dragons-Wrath-Ashardalon-Adventure/dp/0786956445"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wreck-raiders
+    url: "https://www.amazon.com/Wreck-Raiders-Board-Game/dp/B07NBTLQNT"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wyrmspan
+    url: "https://stonemaiergames.com/games/wyrmspan/"
+    description: "Publisher product page — stonemaiergames.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wyrmspan
+    url: "https://www.amazon.com/Stonemaier-Games-STM930-Wyrmspan/dp/B0C7LQZXVQ"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: xcom-the-board-game
+    url: "https://en.wikipedia.org/wiki/XCOM:_The_Board_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: xcom-the-board-game
+    url: "https://www.amazon.com/Fantasy-Flight-Games-XCOM-Board/dp/B00PY5FGVY"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: klask
+    url: "https://www.klaskgame.com"
+    description: "Game information page — klaskgame.com"

@@ -1,0 +1,53 @@
+id: wabash-cannonball
+name: "Wabash Cannonball"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Network Building
+  - Auctions/Bidding
+  - Euro
+  - Trains
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - John Bohrer
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Wabash Cannonball is a 2007 economic railway game designed by John Bohrer, published by Rio Grande Games. Set in Robber Baron-era 1830s America, players compete to build and profit from the great eastern railroads — the Pennsylvania, the Baltimore & Ohio, the Chesapeake & Ohio, and the New York Central. The game contains no luck or randomness whatsoever; every decision is purely strategic, creating a tense battle of investment, network building, and market manipulation. Its short playtime and high strategic density have made it a beloved gateway to the 18xx family of train games.
+
+upgrades: []

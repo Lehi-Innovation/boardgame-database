@@ -1,0 +1,59 @@
+id: spqr
+name: "SPQR"
+alternate_names: ["SPQR: Great Battles of the Roman Republic"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Action Points
+  - Ancient
+
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Berg
+  - Mark Herman
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  SPQR is the second volume in GMT Games' Great Battles of History series, designed by Richard Berg and Mark
+  Herman and first published in 1992. The game simulates the emergence of the Roman military system and its
+  clashes with opponents including Samnites, Etruscans, Epirotes, and Macedonians. Using a command-activation
+  system, generals activate units within their command range to rout or destroy the enemy army, with Roman
+  commanders often limited to a single legion at a time — a historically realistic constraint. A Deluxe Edition
+  in 2008 consolidated SPQR with nearly all its expansion modules.
+
+upgrades: []

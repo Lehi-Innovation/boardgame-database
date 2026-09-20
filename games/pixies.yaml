@@ -1,0 +1,53 @@
+id: pixies
+name: "Pixies"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Animals
+  - Nature
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Johannes Goupy
+publisher:
+  - Bombyx
+artist:
+  - Sylvain Trabut
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pixies is a card placement game for 2-5 players featuring extraordinary photography of hand-crafted woodland creature models made from natural materials. Players place cards in their personal playing area according to number rules, with stacked validated cards and large color zones scoring at round end. The layering mechanic — placing cards on top of others to lock in scores — creates satisfying decisions about when to commit versus when to build further. Pixies is notable for its unique nature-photography art style, giving it a truly distinctive table presence.

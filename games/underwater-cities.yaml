@@ -1,0 +1,54 @@
+id: underwater-cities
+name: "Underwater Cities"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Engine Building
+  - Resource Management
+  - Network Building
+  - Sci-Fi
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Vladimír Suchý
+publisher: []
+artist: []
+playtime_minutes: 150
+min_playtime: 100
+max_playtime: 180
+min_age: 14
+
+description: |
+  Underwater Cities is a heavy Euro strategy game designed by Vladimír Suchý (Last Will, Pulsar 2849) and published by Delicious Games in 2018. Players build and develop networks of underwater metropolises — constructing kelp farms, desalination plants, laboratories, and tunnels — in a future where humanity has colonized the ocean floor. The heart of the design is a worker placement system with color-coded action slots: playing a card matching the slot's color triggers a powerful bonus action, incentivizing careful hand management. The game accommodates 1-4 players including a solitaire mode, and won numerous awards for its elegant interaction of chance and deep strategic planning.
+
+upgrades: []

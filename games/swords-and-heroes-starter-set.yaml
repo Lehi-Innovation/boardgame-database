@@ -1,0 +1,57 @@
+id: swords-and-heroes-starter-set
+name: "Swords and Heroes: Starter Set"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Medieval
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Swords and Heroes: Starter Set is a tactical board game in which players choose
+  a civilization, build their army, and lead it to victory on the battlefield.
+  The game was funded through Indiegogo crowdfunding and published by ZAMA Game
+  Design, allowing players to field historical and fantasy armies against one another.
+  The starter set provides an entry point into the Swords and Heroes system with
+  core rules and components for learning the game's tactical mechanics. Detailed
+  publisher information and wide distribution remain limited given its crowdfunded
+  origins.
+
+upgrades: []

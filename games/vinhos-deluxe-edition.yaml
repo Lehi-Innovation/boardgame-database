@@ -1,0 +1,59 @@
+id: vinhos-deluxe-edition
+name: "Vinhos: Deluxe Edition"
+alternate_names:
+  - "Vinhos"
+year: 2016
+
+# Relationships
+game_family: vinhos
+edition: deluxe
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Economic
+  - Action Points
+  - Euro
+  - Cult Classic
+  - Agriculture
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+evokes:
+  - Masterful
+  - Progress
+  - Agency
+  - Clever
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Vinhos: Deluxe Edition is Vital Lacerda's acclaimed 2016 reimplementation of his 2010 wine-production game, featuring completely redesigned rules and stunning artwork by Ian O'Toole. Players manage Portuguese wine estates over six years, cultivating vineyards, hiring enologists, attending wine fairs, and exporting vintages to international markets. The action selection system creates intense efficiency puzzles: regions of the board are shared, and the actions you take affect what your opponents can do nearby. The Deluxe Edition adds solo and two-player modes alongside the refined multiplayer experience, cementing its status as one of the finest worker-placement euros in the genre.
+
+upgrades: []

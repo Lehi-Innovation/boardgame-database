@@ -1,0 +1,49 @@
+id: toscana
+name: "Toscana"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Complete
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Toscana is a two-player abstract tile-laying game in which each player has 16 tiles showing either red roofs or gray plazas. Players take turns placing tiles to build connected areas, with the goal of forming the largest contiguous region of their color by game end. The simple ruleset belies a tense spatial competition as both players simultaneously try to expand their own territory while fragmenting their opponent's.
+
+upgrades: []

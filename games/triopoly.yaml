@@ -1,0 +1,50 @@
+id: triopoly
+name: "Triopoly"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Economic
+  - Dice Rolling
+  - Trading
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Progress
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 10
+
+description: |
+  Triopoly is a three-dimensional Monopoly-style property trading game published by Reveal Entertainment in 1997. Instead of a single flat board, the game features three stacked boards of decreasing size, representing increasingly valuable tiers of real estate — from streets to shopping centers to skyscrapers. Players can choose to play on one, two, or three levels depending on how long they want the game to last. The three-level structure creates a vertical property empire-building experience within the classic roll-and-move trading game formula.
+
+upgrades: []

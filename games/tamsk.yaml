@@ -1,0 +1,58 @@
+id: tamsk
+name: "TAMSK"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: gipf-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Real-time
+
+evokes:
+  - Tension
+  - Masterful
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kris Burm
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 12
+
+description: |
+  TAMSK is the second game in Kris Burm's acclaimed GIPF Project series of
+  abstract strategy games, published in 1998. Players move sand hourglass timers
+  across a hexagonal board, flipping them over with each move and placing plastic
+  rings to mark visited positions. Hourglasses must have sand running to be
+  moved — if one runs out, it is frozen permanently. The player with the fewest
+  remaining rings at the end wins. The shrinking usable board creates an elegant
+  tension as players race against time and each other. TAMSK was later replaced
+  in the GIPF series by TZAAR, though it retains a loyal following for its
+  unique real-time element.
+
+upgrades: []

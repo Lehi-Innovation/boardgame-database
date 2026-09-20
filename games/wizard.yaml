@@ -1,0 +1,51 @@
+id: wizard
+name: "Wizard"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Press Your Luck
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Masterful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Wizard is a trick-taking card game designed by Ken Fisher of Toronto in 1984 and first commercially printed in 1986, published in Germany by Amigo Spiele from 1996. The standard 52-card deck is augmented with four Wizard cards (always win) and four Jester cards (always lose). Before each round, players bid the exact number of tricks they expect to win, and then must hit that prediction precisely to score; being over or under both result in point penalties. The expanding hand size each round means players must constantly re-evaluate odds. Wizard remains one of the most beloved and elegantly designed bidding card games ever made.
+
+upgrades: []

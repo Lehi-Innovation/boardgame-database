@@ -1,0 +1,50 @@
+id: ufo-game-of-close-encounters
+name: "UFO: Game of Close Encounters"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Sci-Fi
+  - Area Control
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Tom Dalgliesh
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  UFO: Game of Close Encounters is a board game designed by Tom Dalgliesh and originally published in Canada by Gamma Two Games in 1976. Avalon Hill purchased and republished the game in the United States in 1978. The game captures the era's fascination with UFOs and extraterrestrial phenomena, presenting players with scenarios involving alien sightings and encounters in a competitive format.
+
+upgrades: []

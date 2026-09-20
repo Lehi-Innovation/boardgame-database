@@ -1,0 +1,53 @@
+id: three-dragon-ante
+name: "Three-Dragon Ante"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Auctions/Bidding
+  - Party
+  - Fantasy
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Rob Heinsoo
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Three-Dragon Ante is a 2005 card game designed by Rob Heinsoo and published by Wizards of the Coast, presented as a real-world version of a gambling game played in the Dungeons & Dragons universe. Using a 70-card deck of dragons and mortals (each with a strength from 1-13 and a special ability), 2-6 players compete in gambits that mix poker-style pot mechanics with strategic card play. The game appears as an in-world game in official D&D campaigns and can double as a prop for tabletop RPG sessions where player characters might gamble at a tavern. A sequel, Emperor's Gambit, was published in 2010.
+
+upgrades: []

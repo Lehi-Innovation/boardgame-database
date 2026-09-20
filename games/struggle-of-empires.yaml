@@ -1,0 +1,58 @@
+id: struggle-of-empires
+name: "Struggle of Empires"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Negotiation
+  - Dice Rolling
+  - Economic
+  - Wargame
+  - Historical
+  - War
+  - Martin Wallace
+  - Eagle-Gryphon Games
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Martin Wallace
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 210
+min_playtime: 180
+max_playtime: 240
+min_age: 12
+
+description: |
+  Struggle of Empires is Martin Wallace's epic area-control game for 2–7 players recreating the 18th century wars between European powers competing for dominance in Europe and the colonial world. Each game is divided into three wars, with players first bidding to form alliances before competing to control territories across multiple continents. Armies and fleets are built, colonies established, and wars declared in a rich interplay of economic development, military expansion, and diplomatic maneuver. The alliance system is particularly brilliant: it prevents runaway leaders and forces shifting coalitions, generating intense negotiation and political drama throughout a sweeping, thematic experience.
+
+upgrades: []

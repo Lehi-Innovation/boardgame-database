@@ -1,0 +1,61 @@
+id: the-conquerors
+name: "The Conquerors"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Ancient
+
+evokes:
+  - Powerful
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Berg
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Conquerors is a 1977 SPI package of two board wargames designed by Richard Berg. The first,
+  The Macedonians, simulates Alexander the Great's invasion of the Persian Achaemenid Empire from
+  334–331 BCE, with one player commanding Alexander's armies and the other Darius III. The second,
+  The Romans, covers Rome's eastward expansion following the Second Punic War. Each game uses an
+  eight-turn-per-year structure with a Winter Planning Turn, earning victory points through
+  controlling regions, cities, and winning battles. A redesigned card-driven version, The Conquerors:
+  Alexander the Great, was published by GMT Games in 2006.
+
+upgrades: []

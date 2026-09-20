@@ -1,0 +1,55 @@
+id: ticket-to-ride-san-francisco
+name: "Ticket to Ride: San Francisco"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Family
+  - Gateway
+  - Filler
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Complete
+  - Rivalry
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 12
+min_playtime: 10
+max_playtime: 15
+min_age: 8
+
+description: |
+  Ticket to Ride: San Francisco is the fourth entry in the Cities line, set in the San Francisco Bay Area of the 1960s where players use cable cars instead of trains. Players race to visit iconic city landmarks and collect souvenir tokens representing famous sights, with those tokens providing bonus points at game end. The compact map and 10–15 minute playtime deliver the core Ticket to Ride experience in a portable, affordable package.
+
+upgrades: []

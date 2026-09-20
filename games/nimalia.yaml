@@ -1,0 +1,53 @@
+id: nimalia
+name: "Nimalia"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Simultaneous Action
+  - Pattern Building
+  - Family
+  - Animals
+  - Nature
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - William Liévin
+publisher:
+  - Lucky Duck Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Nimalia is a simultaneous card-drafting and tile-placement game for 2-5 players in which players build a wildlife sanctuary. Each round players draw three cards, keep one, and pass the rest — then place their chosen card in their 6×6 sanctuary grid, covering at least one existing biome. Cards show four biomes each containing an animal, and points are scored for the largest zones of each biome type and for specific animal patterns. Its colorful, nature-themed artwork and simple rules make it an accessible family game with surprising spatial depth.

@@ -1,0 +1,53 @@
+id: westminster-the-election-game
+name: "Westminster: The Election Game"
+alternate_names:
+  - "Westminster"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Events
+  - Family
+  - Historical
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Persuasion
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Charles Lewis
+publisher:
+  - Gibsons Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Westminster: The Election Game is a 1983 board game designed by Charles Lewis and published by Gibsons Games to coincide with the UK general election of that year. Players control political parties competing across 16 representative constituencies in an initial General Election, with the winner forming the government. Further by-elections across 16 more constituencies follow, potentially changing which party governs. The ultimate winner is the first player to form a Government and pass three "readings" of a legislative Bill into law, blending electoral strategy with parliamentary procedure. The game's rush to publication led to some criticized rule imbalances.
+
+upgrades: []

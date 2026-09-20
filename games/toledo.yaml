@@ -1,0 +1,54 @@
+id: toledo
+name: "Toledo"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Gateway
+  - Historical
+  - Medieval
+  - Martin Wallace
+
+evokes:
+  - Progress
+  - Complete
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Martin Wallace
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Toledo is a light strategy game by Martin Wallace published by Mayfair Games, set in the Spanish city famous for its master swordsmithing. Players use cards as movement randomizers to advance pieces through the city's streets — from the cathedral to the Alcazar — collecting materials to forge sword collections for their liege lord. Described as Wallace's take on Backgammon, the game combines risk-taking with set collection in a family-accessible format that offers more depth than typical family games.
+
+upgrades: []

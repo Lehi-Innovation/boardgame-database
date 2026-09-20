@@ -1,0 +1,58 @@
+id: the-fall-of-south-vietnam
+name: "The Fall of South Vietnam"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Fall of South Vietnam is a two-player board wargame published by Yaquinto Publications
+  covering the final phase of the Vietnam War from 1973 to 1975, after the Paris Peace Accords.
+  One player controls North Vietnamese forces invading from the North, while the other commands
+  South Vietnamese defenders fighting to hold their provinces against the onslaught. Province
+  control determines victory, capturing the desperate, territory-focused nature of the final
+  NVA offensive that culminated in the fall of Saigon on April 30, 1975. The game covers one
+  of the most dramatic and decisive military campaigns of the Cold War era.
+
+upgrades: []

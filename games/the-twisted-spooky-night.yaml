@@ -1,0 +1,49 @@
+id: the-twisted-spooky-night
+name: "The Twisted Spooky Night"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Horror
+
+evokes:
+  - Humor
+  - Dread
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  The Twisted Spooky Night is a children's Halloween-themed board game featuring ghosts, monsters, and spooky night-time adventures. Players navigate a haunted setting, encountering spooky surprises and obstacles along the way in a family-friendly light horror game. Specific publisher, designer, and release year details are limited due to the game's obscurity.
+
+upgrades: []

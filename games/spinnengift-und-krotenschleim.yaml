@@ -1,0 +1,58 @@
+id: spinnengift-und-krotenschleim
+name: "Spinnengift und Krötenschleim"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Family
+  - Fantasy
+  - Klaus Teuber
+
+evokes:
+  - Humor
+  - Discovery
+  - Lucky
+  - Wonder
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 6
+
+description: |
+  Spinnengift und Krötenschleim (Spider Venom and Toad Slime) is a children's memory and collection game
+  designed by Klaus Teuber and published by Kosmos in 2012, based on his earlier game Hallo Dachs! Players
+  are young witches collecting hidden potion ingredients scattered around the board, using memory to find the
+  right items for each potion recipe. Gathering the correct ingredients earns a medal and a magic chip added
+  to a shared cauldron; when enough chips overflow the cauldron, an adorable monster is created. Nominated for
+  the Kinderspiel des Jahres 2012, it won the Graf Ludo award for best children's game graphics.
+
+upgrades: []

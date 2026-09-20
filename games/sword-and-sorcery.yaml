@@ -1,0 +1,58 @@
+id: sword-and-sorcery
+name: "Sword & Sorcery"
+alternate_names:
+  - "Sword & Sorcery: Immortal Souls"
+year: 2017
+
+# Relationships
+game_family: sword-and-sorcery
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Dice Rolling
+  - Campaign Mode
+  - Fantasy
+  - Dungeon Crawler
+
+evokes:
+  - Powerful
+  - Progress
+  - Discovery
+  - Dread
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Simone Romano
+  - Nunzio Surace
+publisher:
+  - Ares Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Sword & Sorcery is a cooperative epic-fantasy dungeon crawl for 1–5 players in which immortal heroes fight through a campaign of quests to save a kingdom from darkness. Each hero has a unique power deck and ability set, and when a hero falls in combat they are reborn between scenarios — retaining memories and items but potentially with altered abilities. The game features an innovative AI system that controls enemy behavior with variable tactics, making encounters feel dynamic and threatening. Designed by Simone Romano and Nunzio Surace, the Immortal Souls core set provides a full cinematic campaign with escalating narrative stakes.
+
+upgrades: []

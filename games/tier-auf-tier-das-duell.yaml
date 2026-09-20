@@ -1,0 +1,52 @@
+id: tier-auf-tier-das-duell
+name: "Tier auf Tier: Das Duell"
+alternate_names:
+  - "Animal Upon Animal: The Duel"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Tier auf Tier: Das Duell (Animal Upon Animal: The Duel) is a two-player competitive variant of HABA's beloved wooden stacking game Animal Upon Animal. Each player has their own set of four wooden animal figures — octopus, tiger, goose, and squirrel — and rolls dice to determine which animal to place and where on the growing tower. The first player to place all their animals wins, but one wobble too many and the tower comes crashing down in laughter.
+
+upgrades: []

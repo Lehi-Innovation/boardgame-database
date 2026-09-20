@@ -1,0 +1,52 @@
+id: ultimate-werewolf-whitebox-edition
+name: "Ultimate Werewolf: Whitebox Edition"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: ultimate-werewolf
+edition: "Whitebox Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Party
+  - Teams
+  - Bluffing
+
+evokes:
+  - Tension
+  - Persuasion
+  - Mystery
+  - Rivalry
+  - Humor
+
+possible_counts: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+true_counts: [8, 10, 12]
+
+designer:
+  - Ted Alspach
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 13
+
+description: |
+  Ultimate Werewolf: Whitebox Edition is a streamlined compact edition of Ted Alspach's popular social deduction game, published by Bezier Games. The Whitebox Edition offers the core Werewolf experience in a smaller, more portable package with a curated set of roles for groups that prefer a cleaner, more focused game compared to the sprawling Ultimate Edition. It maintains the core day/night cycle of elimination, deduction, and deception that defines the series.
+
+upgrades: []

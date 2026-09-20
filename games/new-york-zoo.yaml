@@ -1,0 +1,53 @@
+id: new-york-zoo
+name: "New York Zoo"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Modular Board
+  - Racing
+  - Euro
+  - Family
+  - Animals
+  - Uwe Rosenberg
+
+evokes:
+  - Complete
+  - Clever
+  - Progress
+  - Tension
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 75
+min_age: 8
+
+description: |
+  New York Zoo is a competitive polyomino tile-placement game by Uwe Rosenberg for 1-5 players. On each turn players may either place a new enclosure tile — fitting the polyomino shape into their zoo grid — or acquire animals to populate those enclosures. When an enclosure fills up completely with animals, it scores points and opens up space for expansion. The race mechanic drives tension: the first player to finish their zoo triggers the end of the game, blending Rosenberg's beloved animal-breeding and puzzle mechanics into a fast, accessible package.

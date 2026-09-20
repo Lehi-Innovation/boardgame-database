@@ -1,0 +1,50 @@
+id: times-up-title-recall
+name: "Time's Up! Title Recall!"
+alternate_names:
+  - "Time's Up Title Recall"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Party
+  - Word Play
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 8, 10]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Time's Up! Title Recall! is the pop-culture variant of R&R Games' award-winning party game series, focusing on famous TV shows, movies, songs, and books rather than celebrity names. Like the original, teams race through three rounds in 30-second bursts, starting with full clues and progressively restricting to a single word, then silent charades only. The familiar three-round escalation ensures that even outrageous titles become guessable through creative miming and sound effects by the final round.
+
+upgrades: []

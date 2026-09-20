@@ -1,0 +1,63 @@
+id: the-castle-of-the-devil
+name: "The Castle of the Devil"
+alternate_names:
+  - "Die Kutschfahrt zur Teufelsburg"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Trading
+  - Party
+  - Fantasy
+  - Horror
+
+evokes:
+  - Mystery
+  - Tension
+  - Persuasion
+  - Dread
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6]
+
+designer:
+  - Michael Palm
+  - Lukas Zach
+publisher:
+  - daVinci Editrice
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  The Castle of the Devil (Die Kutschfahrt zur Teufelsburg) is a hidden-role social deduction game
+  by Michael Palm and Lukas Zach, published by daVinci Editrice in 2010. Players are divided into
+  secret factions and must cooperate with allies they haven't yet identified to collect three defined
+  artifacts before the opposing faction does. On each turn players can spy on others, trade objects,
+  or duel. Many objects have powers that activate when traded, making the trading mechanic central
+  to both deduction and deception. The game builds on hidden-role mechanics popularized by Werewolf
+  while adding an item collection and trading layer.
+
+upgrades: []

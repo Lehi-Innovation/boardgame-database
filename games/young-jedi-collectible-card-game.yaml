@@ -1,0 +1,57 @@
+id: young-jedi-collectible-card-game
+name: "Young Jedi Collectible Card Game"
+alternate_names:
+  - "Young Jedi CCG"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Sci-Fi
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Chuck Kallenbach
+publisher:
+  - Decipher
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  The Young Jedi Collectible Card Game was Decipher's second Star Wars licensed card game,
+  released in 1999 to coincide with The Phantom Menace. Designed with a simplified ruleset aimed
+  at younger players, it featured characters and scenarios from the prequel film. Seven expansions
+  were released before the game was discontinued in 2001. It was voted CCG of the Year by
+  InQuest Gamer magazine in its fan poll.
+
+upgrades: []

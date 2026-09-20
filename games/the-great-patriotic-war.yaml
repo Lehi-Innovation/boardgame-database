@@ -1,0 +1,60 @@
+id: the-great-patriotic-war
+name: "The Great Patriotic War: Nazi Germany vs. the Soviet Union"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 480
+min_playtime: 240
+max_playtime: 720
+min_age: 16
+
+description: |
+  The Great Patriotic War: Nazi Germany vs. the Soviet Union is a 1988 GDW board wargame designed
+  by Frank Chadwick, simulating the entire German-Soviet conflict of World War II at corps and army
+  level. Expanded from Chadwick's earlier Battle for Moscow, the game covers the complete Eastern
+  Front from Barbarossa to Berlin as either a series of scenarios or a single campaign game.
+  Advanced options allow players to increase the simulation's fidelity. The Eastern Front's scale —
+  the largest land conflict in history — makes this a demanding but deeply rewarding operational
+  wargame for players who want to grapple with the strategic and logistical challenges faced by
+  both Wehrmacht and Red Army commanders.
+
+upgrades: []

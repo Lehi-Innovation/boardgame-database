@@ -1,0 +1,51 @@
+id: the-kings-guild
+name: "The King's Guild"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Variable Player Powers
+  - Fantasy
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  The King's Guild is a strategy board game designed by Matthew Austin and published by Mirror Box Games in 2018, themed around players competing to establish the most renowned guild in a fantasy kingdom. Players use hand management and set collection mechanics to hire craftsmen, complete commissions, and earn prestige. Variable player powers from guild specializations give each player a unique path to victory and ensure replayability. The game was funded through Kickstarter and offers a moderate weight euro experience with accessible rules and meaningful strategic choices.
+
+upgrades: []

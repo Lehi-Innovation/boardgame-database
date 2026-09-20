@@ -1,0 +1,55 @@
+id: unlock-kids-detective-stories
+name: "Unlock! Kids: Detective Stories"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: "unlock-kids"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Family
+  - Mystery
+
+evokes:
+  - Mystery
+  - Discovery
+  - Connection
+  - Tension
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+  - Cyril Demaegd
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 6
+
+description: |
+  Unlock! Kids: Detective Stories is a child-friendly adaptation of the popular Unlock! escape room card game series, designed for young players aged 6 and up. The box contains three stories with two adventures each, totalling six cooperative mysteries to solve. Unlike the standard Unlock! games, no app is required — the tutorial teaches the game as it is played, making it fully accessible to children. Players explore scenes, combine objects, and follow clues to crack each case before the adventure ends.
+
+upgrades: []

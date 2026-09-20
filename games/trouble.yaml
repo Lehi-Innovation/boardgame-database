@@ -1,0 +1,51 @@
+id: trouble
+name: "Trouble"
+alternate_names:
+  - "Frustration"
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Racing
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Trouble is a classic family race game developed by the Kohner Brothers and first manufactured by Irwin Toy Ltd., then by Milton Bradley in 1965. Players race four colored pegs around a circular track, aiming to move all their pieces to the finish zone before opponents. The game's iconic feature is the "Pop-O-Matic" bubble — a clear plastic dome over a die that players press to roll, producing a distinctive popping sound and preventing die loss or cheating. Trouble is a pure luck game beloved for generations, now published by Hasbro, and also sold internationally as "Frustration."
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: sune-och-ryska-posten
+name: "Sune och ryska posten"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Unknown
+publisher:
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Sune och ryska posten is a 1992 Swedish children's board game based on the classic Scandinavian party game "Ryska posten" (Russian Post), a social elimination game in which players pass a secret message or token around without the recipient knowing it is coming. The board game adaptation is tied to the popular Swedish "Sune" children's book and film character, packaging a familiar social game in a branded family product. Detailed mechanical and publisher information is limited due to the game's regional, domestic Swedish market release.
+
+upgrades: []

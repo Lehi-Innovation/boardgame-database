@@ -1,0 +1,52 @@
+id: shell-shock
+name: "Shell Shock!"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: ambush
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Tension
+  - Powerful
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Shell Shock! is a 2-player tactical WWII wargame published by Victory Games in 1990, designed as a two-player adaptation of the solitaire game Ambush!. Set in the European theater, players command either Axis (German) or Allied (American, British, or Soviet) squads across six missions with varying objectives, troop compositions, and weather conditions. Players select their squad's men, weapons, and equipment before each mission, and the hex grid tactical combat system emphasizes real-world squad tactics and variable replayability through changing mission parameters.
+
+upgrades: []

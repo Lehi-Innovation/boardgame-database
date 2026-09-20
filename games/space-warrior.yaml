@@ -1,0 +1,55 @@
+id: space-warrior
+name: "Space Warrior"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Hex Map
+  - 1 vs Many
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Argon Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Space Warrior is a 1980 science fiction microgame published by Argon Games, simulating shipboard infantry
+  combat in outer space. One player commands a boarding party attempting to seize control of a vessel, while
+  the other commands the crew defending their ship. The compact game includes a map, counters, charts, a
+  rulebook, and character sheets, providing a focused skirmish experience reminiscent of other space boarding
+  action games of the era such as Traveller's Snapshot.
+
+upgrades: []

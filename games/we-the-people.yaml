@@ -1,0 +1,53 @@
+id: we-the-people
+name: "We the People"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Herman
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  We the People is Mark Herman's 1993 Avalon Hill design that pioneered the card-driven wargame genre, using a deck of 64 strategy cards to control the pace and tempo of the American Revolutionary War. One player commands American forces, the other British, with each side alternating card plays that provide operations points or trigger special historical events affecting colonial political control. Drawing inspiration from Lt-Colonel Simcoe's memoirs, Herman designed a system that better approximated the war of skirmishes and raids, rather than conventional pitched battles. The game's innovative hidden card mechanic created a "fog of war" that would influence an entire generation of wargame designers, leading directly to Herman's 2010 redesign, Washington's War.
+
+upgrades: []

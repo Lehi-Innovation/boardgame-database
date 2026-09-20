@@ -1,0 +1,55 @@
+id: this-war-of-mine-the-board-game
+name: "This War of Mine: The Board Game"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 0  # Solitary (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Events
+  - Survival
+  - War
+  - Historical
+
+evokes:
+  - Dread
+  - Tension
+  - Agency
+  - Powerful
+  - Mystery
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michal Oracz
+  - Jakub Wisniewski
+publisher:
+  - Awaken Realms
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 18
+
+description: |
+  This War of Mine: The Board Game is a 2017 fully cooperative survival game designed by Michal Oracz and Jakub Wisniewski, published by Awaken Realms, adapted from the acclaimed 11 bit studios video game. One to six players portray civilians trapped in a besieged city inspired by the Siege of Sarajevo, scavenging for food and medicine during the day and defending their shelter by night while grappling with brutal ethical dilemmas. The game is notable for its unflinching emotional weight—players frequently face impossible moral choices between their own survival and the welfare of others. Its bleak atmosphere and cooperative storytelling make it one of the most impactful and emotionally resonant board games ever published.
+
+upgrades: []

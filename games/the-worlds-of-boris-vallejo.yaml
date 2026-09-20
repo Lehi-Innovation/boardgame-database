@@ -1,0 +1,51 @@
+id: the-worlds-of-boris-vallejo
+name: "The Worlds of Boris Vallejo"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Fantasy
+  - Family
+
+evokes:
+  - Wonder
+  - Powerful
+  - Rivalry
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Mayfair Games
+artist:
+  - Boris Vallejo
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Worlds of Boris Vallejo is a 1984 fantasy strategy board game published by Mayfair Games, notable for featuring 30 world tiles each illustrated with original paintings by legendary fantasy and science fiction artist Boris Vallejo. Two to six players compete across these visually stunning fantasy worlds, using strategy cards and plastic markers to claim territory. The game's primary appeal lies in Vallejo's breathtaking artwork depicting warriors, sorcerers, and mythical creatures in his signature hyper-detailed style, making it as much a gallery of his work as a competitive game. It remains a collector's item for fans of both Vallejo's art and vintage Mayfair Games.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: the-adventurers-the-temple-of-chac
+name: "The Adventurers: The Temple of Chac"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Modular Board
+  - Racing
+  - Ameritrash
+  - Family
+  - Ancient
+
+evokes:
+  - Lucky
+  - Tension
+  - Dread
+  - Discovery
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Guillaume Blossier
+  - Frédéric Henry
+publisher:
+  - AEG
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  The Adventurers: The Temple of Chac is a press-your-luck adventure game in which players race
+  through a deadly Mayan temple, grabbing treasure while avoiding traps. A giant boulder rolls
+  through one passage as the temple slowly floods and rope bridges collapse over a lava pit.
+  Players must decide how much loot to carry — more treasure means slower movement and greater
+  risk of being crushed or submerged before escaping. The lighthearted Indiana Jones-inspired
+  theme and tactile components (actual rolling boulder miniature) make it a crowd-pleasing
+  thrill-ride. Originally published by Dust Games in 2009; Fantasy Flight Games released a
+  revised edition in 2012.
+
+upgrades: []

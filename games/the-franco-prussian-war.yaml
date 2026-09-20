@@ -1,0 +1,59 @@
+id: the-franco-prussian-war
+name: "The Franco-Prussian War"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Hidden Movement
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Franco-Prussian War is a 1972 SPI wargame by Jim Dunnigan simulating the 1870 conflict
+  between the Second French Empire and Bismarck's North German Confederation. Each counter
+  represents an army corps (up to 18 German and 11 French), and the standard rules feature hidden
+  movement — all units begin face-down and remain hidden until attacked, with dummy counters
+  allowed to mislead opponents. Rail movement and leadership rules add operational complexity.
+  The game rewards careful management of the inherently asymmetric forces and captures the rapid
+  Prussian mobilization that devastated France in the actual campaign.
+
+upgrades: []

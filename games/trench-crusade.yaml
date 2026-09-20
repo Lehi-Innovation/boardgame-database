@@ -1,0 +1,53 @@
+id: trench-crusade
+name: "Trench Crusade"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - War
+  - Horror
+  - Historical
+  - Fantasy
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+
+evokes:
+  - Dread
+  - Powerful
+  - Unique
+  - Tension
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 16
+
+description: |
+  Trench Crusade is a grimdark skirmish miniatures wargame set in an alternate World War I timeline where the Crusades succeeded but opened a gate to Hell, plunging the world into a never-ending war between humanity and demonic forces. Designed by Tuomas Pirinen (lead designer of Mordheim) with horror artwork by Mike Franchina, the game pits asymmetric warbands — from the fanatical Trench Pilgrims to the New Antioch forces — against each other in brutal 32mm scale skirmish battles. Its living rulebook is free in perpetuity, and the game rapidly gained a passionate following for its unique lore, stunning visuals, and deep tactical gameplay. Published by Factory Fortress Inc via Kickstarter.
+
+upgrades: []

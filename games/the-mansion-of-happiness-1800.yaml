@@ -1,0 +1,52 @@
+id: the-mansion-of-happiness-1800
+name: "The Mansion of Happiness"
+alternate_names: ["The Mansion of Happiness: An Instructive Moral and Entertaining Amusement"]
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Progress
+  - Wonder
+  - Unique
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - George Fox
+publisher:
+  - Laurie and Whittle
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  The Mansion of Happiness is a 1800 British moral racing game designed by George Fox and first published by Laurie and Whittle, making it one of the first known board games with a credited designer. Players race around a 66-space spiral track depicting virtues such as piety and honesty that advance players, and vices such as ingratitude and immodesty that set them back, all aiming to reach the Mansion of Happiness at the track's end. The game was the first mass-produced board game in America when Q. & S. B. Ives published it in 1843, and it remained in continuous publication for over 126 years, profoundly influencing the development of the American board game industry.
+
+upgrades: []

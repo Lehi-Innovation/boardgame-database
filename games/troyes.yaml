@@ -1,0 +1,57 @@
+id: troyes
+name: "Troyes"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Hand Management
+  - Area Control
+  - Resource Management
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sébastien Dujardin
+  - Xavier Georges
+  - Alain Orban
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Troyes is an acclaimed Euro strategy game set in medieval Champagne, France, in which players manage the three domains of the famous city — religious, military, and civil — through a unique dice drafting mechanism. Each round, players roll dice matching their influence in each domain, then use or purchase dice to activate character cards representing historical figures of the era. The strategic depth comes from hiring opponents' dice and blocking their plans while pursuing hidden individual objectives. Published by Pearl Games in 2010, Troyes became a modern classic for its elegant blend of chance and deep strategic decisions.
+
+upgrades: []

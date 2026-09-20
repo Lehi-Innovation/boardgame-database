@@ -1,0 +1,55 @@
+id: caesar-seize-rome
+name: "Caesar!: Seize Rome in 20 Minutes!"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Area Control
+  - Asymmetric
+  - Historical
+  - Ancient
+  - Wargame
+  - Filler
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Paolo Mori
+publisher:
+  - PSC Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 12
+
+description: |
+  Caesar!: Seize Rome in 20 Minutes! is a 2021 two-player asymmetric area-control game by Paolo Mori, published by PSC Games, in which one player commands Julius Caesar and the other leads Pompey in a showdown for the Roman Republic. Players draw influence tokens from a bag and allocate them to provinces — but they only ever hold two markers at a time and never know which they'll draw next, injecting a compelling push-your-luck uncertainty into every deployment decision. Three optional modules add poison, powerful Centurions, and underhanded tactics to expand the experience. Designed to play in about 20 minutes, it delivers a punchy and historically evocative wargame in a tiny package.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: tipsy-tower
+name: "Tipsy Tower"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 21
+
+description: |
+  Tipsy Tower is an adult party game that combines the classic block-stacking tension of Jenga with drinking game mechanics. Each of the 54 wooden blocks has a drinking rule printed on it, so every successfully extracted block triggers a unique challenge — make a rule, rhyme a word, give a drink, or perform a dare. The game requires no rulebook since all instructions are printed on the blocks and packaging, making it an instant icebreaker for adult parties and game nights.
+
+upgrades: []

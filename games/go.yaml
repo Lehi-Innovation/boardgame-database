@@ -1,0 +1,59 @@
+id: go
+name: "Go"
+alternate_names:
+  - "Weiqi"
+  - "Baduk"
+  - "Igo"
+year: 548
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple (rules are simple; mastery is infinite)
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Abstract
+  - Ancient
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 20
+max_playtime: 360
+min_age: 8
+
+description: |
+  Go is an ancient abstract strategy game for two players in which the aim is to fence
+  off more territory than the opponent by placing black and white stones on intersections
+  of a 19x19 grid. Originating in China over 2,500 years ago, it is considered the oldest
+  board game still played continuously today. Despite its minimalist rules—stones are
+  captured by surrounding them, and the player with more territory wins—Go has an effectively
+  infinite strategic depth that has challenged human masters for millennia and only recently
+  been matched by AI systems. With over 46 million players worldwide, it remains one of the
+  most played games in human history.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: star-quest
+name: "Star Quest"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Programmed Movement
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - Operational Studies Group
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Star Quest is a science fiction space combat game published by Operational Studies Group (OSG) in 1979.
+  Players represent interstellar trading houses whose starships have entered a newly discovered star system,
+  hyperjumping to random locations on an 11x17 hex grid and then maneuvering under physics-based movement
+  rules that reward multi-turn planning. The realism of its momentum-based navigation — uncommonly rigorous for
+  its era — creates tense tactical duels, particularly at two players, and the short playing time makes it
+  suitable for repeat sessions.
+
+upgrades: []

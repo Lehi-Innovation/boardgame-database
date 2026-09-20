@@ -1,0 +1,59 @@
+id: zoowaboo
+name: "Zoowaboo"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Press Your Luck
+  - Teams
+  - Simultaneous Action
+  - Animals
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Carlo A. Rossi
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Zoowaboo is a spatial estimation game in which players secretly vote each round on whether
+  all ten animal cards arranged around a raft can physically fit on it. Those who voted yes flip a
+  sand timer and work as a team to prove it; those who voted no observe. The team that guessed
+  correctly wins points for that round. The push-your-luck tension of the yes/no vote and the
+  frantic physical puzzle of fitting oversized animals onto an undersized raft creates delightful
+  family chaos. It won the 2009 Årets Spill Best Children's Game award.
+
+upgrades: []

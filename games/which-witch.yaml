@@ -1,0 +1,52 @@
+id: which-witch
+name: "Which Witch?"
+alternate_names:
+  - "Ghost Castle"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Dread
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Marvin Glass and Associates
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Which Witch? is a 1970 Milton Bradley board game designed by Marvin Glass & Associates featuring a memorable three-dimensional haunted house game board with four rooms—the Spell Cell, Bat's Ballroom, Broom Room, and Witchin Kitchen—and a central chimney. Players roll dice to move their pawns through the house, drawing cards that summon one of three witches: Wanda the Wicked (who turns players into mice, freezing them), Ghoulish Gertie, or Glenda the Good (who breaks Wanda's spells). The goal is to be the first to escape to the Charmed Circle. Its imaginative 3D components and whimsical theme made it a beloved classic of 1970s children's gaming.
+
+upgrades: []

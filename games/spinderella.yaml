@@ -1,0 +1,57 @@
+id: spinderella
+name: "Spinderella"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Roberto Fraga
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Spinderella is a dexterity and racing game designed by Roberto Fraga and published by Zoch Verlag, in which
+  players race ants across the forest floor while two magnetic spiders dangle from the trees above. On each turn,
+  players roll three dice to move their ants, shift the tree trunk, or manipulate the Peter and Parker spiders —
+  moving the spiders together or apart raises and lowers Spinderella, who can swoop down and carry ants back to
+  the start. The charming physical mechanism makes the game a delight for young children.
+
+upgrades: []

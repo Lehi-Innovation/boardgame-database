@@ -1,0 +1,62 @@
+id: spies
+name: "Spies!"
+alternate_names: ["Spies! Game of International Intrigue"]
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Action Points
+  - Deduction
+  - Bluffing
+  - Historical
+  - Wargame
+  - Espionage
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - John Prados
+  - Lenny Glynn
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 180
+min_age: 14
+
+description: |
+  Spies! is a board game of international espionage designed by John Prados and Lenny Glynn, published by SPI
+  in 1981. Set in 1930s Europe in the years before World War II, two to five players each represent a Great Power
+  (France, Germany, Britain, Italy, or Russia), running spy networks to steal rivals' secrets while protecting
+  their own. Standard rules fit into 30 minutes of learning; a longer rules variant adds Action Points and Spy
+  Havens for a more complex campaign. After TSR acquired SPI in 1982, they republished several popular SPI titles
+  including Spies!
+
+upgrades: []

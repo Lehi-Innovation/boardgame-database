@@ -1,0 +1,54 @@
+id: the-mind
+name: "The Mind"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - No Math
+  - Party
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Humor
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Wolfgang Warsch
+publisher:
+  - Nürnberger-Spielkarten-Verlag
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  The Mind is a deceptively simple cooperative card game for 2–4 players that contains only numbered cards from 1 to 100. Players must play all their cards to the center pile in ascending order — without any communication whatsoever. No telling other players what you hold, no signals, no gestures: only a shared moment of intense focus and intuition. Players advance through levels by successfully playing all cards, with each level adding more cards to everyone's hand. The game's unique tension comes entirely from the challenge of synchronizing with teammates through silence, making it one of the most talked-about and polarizing designs of recent years.
+
+upgrades: []

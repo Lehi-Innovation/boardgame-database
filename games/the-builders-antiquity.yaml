@@ -1,0 +1,56 @@
+id: the-builders-antiquity
+name: "The Builders: Antiquity"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: the-builders
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Action Points
+  - Historical
+  - Ancient
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  The Builders: Antiquity is a card game designed by Frédéric Henry and published by Bombyx/Asmodee in 2015, setting the worker-hiring and monument-construction mechanics of The Builders: Middle Ages in ancient civilizations. Players spend their three actions per turn hiring craftsmen, assigning them to construction projects, and collecting wages, aiming to reach 17 victory points through completed ancient structures. New elements like tools, loans, prisoners, and universities add flavor and strategic options beyond the original design. Quick to learn and play, it's an accessible gateway to worker-allocation euro games.
+
+upgrades: []

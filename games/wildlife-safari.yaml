@@ -1,0 +1,57 @@
+id: wildlife-safari
+name: "Wildlife Safari"
+alternate_names:
+  - "Botswana"
+  - "Flinke Pinke"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Animals
+  - Family
+  - Filler
+  - Reiner Knizia
+  - Eagle-Gryphon Games
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Wildlife Safari (originally published as Flinke Pinke in 1994, later as Botswana) is a card and chip collecting game by Reiner Knizia for 2-5 players. The game features five animal species, each with a set of six cards numbered zero through five; players take turns playing a card and collecting a chip of the corresponding animal, but the catch is that the last card played in each color determines that color's final scoring value. Players must balance grabbing chips early against the risk of driving up or down the value through card play. The compact rules and quick play time make it an ideal filler.
+
+upgrades: []

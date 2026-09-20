@@ -1,0 +1,58 @@
+id: witchcraft
+name: "Witchcraft!"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Bag Building
+  - Hand Management
+  - Card Drafting
+  - Press Your Luck
+  - Fantasy
+  - Cooperative
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Clever
+  - Mystery
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Trevor Benjamin
+  - Roger Tankersley
+  - David Thompson
+publisher:
+  - Salt and Pepper Games
+artist:
+  - Albert Monteys
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Witchcraft! is a solo card-driven game in which you lead a coven of witches protecting a village in a world where magic is real — and so are the monsters. Building on the hidden/revealed mechanism of Resist!, you must decide when to use magic to defeat the challenges you face, at the risk of being discovered and imprisoned for witchcraft. Players build their coven from multiple witch families, each specializing in different tasks such as revealing challenges, attacking monsters, uncovering juror convictions, or capturing familiars. The game balances resource management with push-your-luck tension across a 20-40 minute play session.
+
+upgrades: []

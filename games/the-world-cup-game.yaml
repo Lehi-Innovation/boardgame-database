@@ -1,0 +1,49 @@
+id: the-world-cup-game
+name: "The World Cup Game"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  The World Cup Game is a soccer (football) themed board game designed around the FIFA World Cup tournament format. Players manage national teams through group stages and knockout rounds, rolling dice or playing cards to determine match results as they compete for the championship. Games of this type have been published in many editions to coincide with various World Cup tournaments, with publishers releasing themed editions tied to specific tournament years. Specific publisher and designer details are limited due to the game's obscurity.
+
+upgrades: []

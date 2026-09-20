@@ -1,0 +1,60 @@
+id: the-fall-of-rome
+name: "The Fall of Rome"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Ancient
+  - War
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Masterful
+  - Dread
+  - Agency
+  - Progress
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - John Young
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  The Fall of Rome is a 1973 solitaire wargame by John Young, published by SPI as a pullout in
+  Strategy & Tactics #39 and as an individual flatpack game. The player controls Rome's beleaguered
+  legions across a full European hex map as barbarian hordes attack by pre-determined rules from
+  100 to 500 CE. Managing treasuries, raising militias, and suppressing barbarian revolts within
+  the empire add layers of crisis management. The automated barbarian movement system creates a
+  relentless pressure that mirrors the historical inevitability of Rome's decline. A revised
+  edition by Joe Miranda was published in Strategy & Tactics #181 in 1997.
+
+upgrades: []

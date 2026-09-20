@@ -1,0 +1,52 @@
+id: up-the-creek
+name: "Up the Creek"
+alternate_names:
+  - "Ogallala"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Nature
+
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Up the Creek (originally published as Ogallala) is a card game in which players try to assemble complete canoes from card parts. Players compete to finish the most valuable canoes using various card types representing canoe sections, prey, booty, and special actions. The game includes aggressive mechanics that allow players to use special characters — hunters with bows and lassos — to interfere with opponents' canoes, and completed canoes can themselves be used to attack other players. Scoring rewards longer canoes and combination bonuses, creating a lively and competitive card game atmosphere.
+
+upgrades: []

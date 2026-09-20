@@ -1,0 +1,54 @@
+id: the-rose-king
+name: "The Rose King"
+alternate_names: ["Rosenkönig", "Texas"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Hand Management
+  - Pattern Building
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dirk Henn
+publisher:
+  - db-Spiele
+  - KOSMOS
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Rose King is a 1992 two-player abstract area control game designed by Dirk Henn, originally published as "Texas" before being republished by Kosmos in 1999 with a Wars of the Roses theme. Players use a hand of directional/distance cards to move a shared pawn across a grid, placing colored discs to claim territory; claimed territories can be flipped to the opponent's color in Reversi-like fashion. The winner is determined by who controls the most contiguous regions of their color at game end. The combination of card management and spatial reasoning gives this compact game a satisfying strategic depth well beyond its apparent simplicity.
+
+upgrades: []

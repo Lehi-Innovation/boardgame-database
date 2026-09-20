@@ -1,0 +1,52 @@
+id: vanished-planet
+name: "Vanished Planet"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Resource Management
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Connection
+  - Discovery
+  - Agency
+  - Dread
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Samuel Blanchard
+  - Craig Oliver
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Vanished Planet is a cooperative strategy board game designed by Samuel Blanchard and Craig Oliver, first showcased at the World Boardgaming Championships in 2003 and published by Vanished Planet Games. Players must work together against a racing countdown, managing shared resources and completing a set of mission goals before time runs out — if they fail, they all lose together. For one to six players, the game requires careful coordination and planning, with cooperative management of limited resources and actions being essential to survival. It represents an early example of the purely cooperative genre that would later flourish in the hobby.
+
+upgrades: []

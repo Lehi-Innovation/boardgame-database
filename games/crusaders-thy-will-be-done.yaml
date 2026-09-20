@@ -1,0 +1,57 @@
+id: crusaders-thy-will-be-done
+name: "Crusaders: Thy Will Be Done"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Mancala
+  - Area Control
+  - Variable Player Powers
+  - Asymmetric
+  - Medieval
+  - Historical
+  - Euro
+  - Renegade Game Studios
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Masterful
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Seth Jaffee
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Crusaders: Thy Will Be Done is a strategy game for 2–4 players in which each player leads a knightly order—each with asymmetric special powers—spreading influence across medieval Europe. The game's signature mechanic blends a personal rondel with mancala-style action token distribution: choosing a wedge takes the action with strength equal to the tokens on it, then distributes those tokens clockwise, constantly reshaping future options. Players upgrade their rondels over the course of the game, allowing their order's faction ability to interact with their evolving action choices in deeply satisfying ways.
+
+upgrades: []

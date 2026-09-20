@@ -1,0 +1,53 @@
+id: tortuga-1667
+name: "Tortuga 1667"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Traitor
+  - Social Deduction
+  - Bluffing
+  - Teams
+  - Pirates
+  - Historical
+  - Party
+
+evokes:
+  - Tension
+  - Persuasion
+  - Humor
+  - Mystery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9]
+true_counts: [5, 6, 7, 8]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 14
+
+description: |
+  Tortuga 1667 is a pirate-themed social deduction and light strategy game designed by Travis Hancock and published by Facade Games in 2017. Players are secretly assigned to French or Dutch pirate factions aboard two ships competing for treasure, with mutinous pirates who want to seize power for themselves. On their turns, players take cards that manipulate the balance of treasure and trust between ships, while using event cards to scheme, form temporary alliances, and backstab. Part of Facade Games' Dark Cities series, Tortuga 1667 is beloved for its thematic flavor and ability to create dramatic moments with its traitor mechanics.
+
+upgrades: []

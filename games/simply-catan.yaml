@@ -1,0 +1,54 @@
+id: simply-catan
+name: "Simply Catan"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Dice Rolling
+  - Trading
+  - Family
+  - Gateway
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Lucky
+  - Rivalry
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - SimplyFun
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Simply Catan is an introductory edition of the award-winning Settlers of Catan, published by SimplyFun in 2006, designed to take less than 5 minutes to set up and approximately 30 minutes to play. It retains the core Catan mechanics of resource collection, trading, and building, but in a streamlined format accessible to beginners and younger players. The game serves as a gentle on-ramp to the full Catan experience for families new to modern board games.
+
+upgrades: []

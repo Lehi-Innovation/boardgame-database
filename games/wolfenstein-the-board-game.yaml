@@ -1,0 +1,57 @@
+id: wolfenstein-the-board-game
+name: "Wolfenstein: The Board Game"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Action Points
+  - Variable Player Powers
+  - Asymmetric
+  - Dungeon Crawler
+  - Sci-Fi
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Dread
+  - Agency
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jakub S. Olekszyk
+publisher:
+  - Archon Studio
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Wolfenstein: The Board Game is a cooperative dungeon-crawler for 1-4 players based on the Wolfenstein video game series, set in the legendary Castle Wolfenstein in an alternate early 1960s where the Nazis won World War II. Players take on the roles of BJ Blazkowicz, Anya Oliwa, Set Roth, Max Hass, and Bombate as they sneak through the castle using Action Points or go loud with Glory Points in heroic combat. An AI system controls Nazi guards, zombies, and mechanized soldiers depending on the chosen scenario, across a full campaign of interconnected missions funded via Kickstarter by Archon Studio.
+
+upgrades: []

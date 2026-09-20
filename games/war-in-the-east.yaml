@@ -1,0 +1,53 @@
+id: war-in-the-east
+name: "War in the East"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Resource Management
+
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Progress
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 3600
+min_playtime: 1800
+max_playtime: 7200
+min_age: 14
+
+description: |
+  War in the East is a corps/division-level simulation of the Russo-German War from Operation Barbarossa in 1941 through Germany's surrender in 1945, designed by Jim Dunnigan and published by SPI in 1974. The original edition included 3 maps and 2,000 counters, making it one of the first "monster wargames," while a 1976 second edition trimmed this to 1,000 counters for greater manageability. The Soviet player must carefully allocate production resources to build new units while special rules reflect weather conditions that proved critical in the actual campaign. In addition to the full campaign game, four shorter scenarios depict key phases of the war on the Eastern Front.
+
+upgrades: []

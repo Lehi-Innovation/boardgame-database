@@ -1,0 +1,56 @@
+id: sveaborg
+name: "Sveaborg"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Maritime
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Sveaborg is a historical board wargame published by SPI covering the famous
+  Finnish sea fortress of Sveaborg (Suomenlinna) and its role in 18th-century
+  Nordic naval warfare. The game simulates the strategic and tactical challenges
+  of defending or attacking the fortified island complex near Helsinki. As a
+  folio-format wargame from SPI's era of prolific historical simulation design,
+  it features hex-and-counter mechanics typical of the publisher's catalog
+  during the 1970s.
+
+upgrades: []

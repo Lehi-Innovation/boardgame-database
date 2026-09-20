@@ -1,0 +1,59 @@
+id: star-smuggler
+name: "Star Smuggler"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Events
+  - Resource Management
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Progress
+  - Lucky
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - B. Dennis Sustare
+publisher:
+  - Heritage Games
+  - Dwarfstar Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Star Smuggler is a solitaire programmed adventure game designed by B. Dennis Sustare and published by Dwarfstar
+  (Heritage Games) in 1982. The player is Duke Springer, a planet-hopping entrepreneur in the Pavonis Sector,
+  flying a starship and smuggling goods — drugs, weapons, robotics — to pay off a mounting debt. An Event Booklet
+  drives encounters that differ each playthrough, simulating a free-roaming space adventure without a human
+  opponent. One of the celebrated Dwarfstar microgames, it remains a fondly remembered solitaire classic of the
+  early 1980s.
+
+upgrades: []

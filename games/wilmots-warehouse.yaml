@@ -1,0 +1,54 @@
+id: wilmots-warehouse
+name: "Wilmot's Warehouse"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ricky Haggett
+  - Richard Hogg
+  - David King
+publisher:
+  - CMYK
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Wilmot's Warehouse is a 2024 cooperative memory game by Ricky Haggett, Richard Hogg, and David King, published by CMYK, in which a team of players must organize a warehouse full of strange product tiles and then retrieve them on demand. During the setup phase, the team draws tiles, collaboratively invents stories and associations for what each one "is," places them face-down in the warehouse, and then during a frantic five-minute finale must match all 35 face-down tiles to customer cards. The game rewards creative shared storytelling and collective memory rather than individual skill, making it a uniquely sociable experience that thrives at larger player counts.
+
+upgrades: []

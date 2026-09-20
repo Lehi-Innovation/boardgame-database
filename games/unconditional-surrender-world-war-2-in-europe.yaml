@@ -1,0 +1,52 @@
+id: unconditional-surrender-world-war-2-in-europe
+name: "Unconditional Surrender! World War 2 in Europe"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Area Control
+  - Historical
+  - War
+  - Negotiation
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 480
+min_playtime: 180
+max_playtime: 1440
+min_age: 16
+
+description: |
+  Unconditional Surrender! World War 2 in Europe is a strategic-level wargame covering the entire European Theater of World War II, designed by Salvatore Vasta and published by GMT Games in 2014. Players control the Axis, Western Allies, and Soviet factions across 16 scenarios ranging from individual campaigns to the full war. The game features simplified mechanics — one combat table covers all combat types — with low counter density enabling clear strategic decision-making without excessive bookkeeping. Variable politics means most countries' allegiances aren't predetermined, and air and naval power integrate meaningfully into ground operations. Winner of the 2014 GrogHeads Game of the Year.
+
+upgrades: []

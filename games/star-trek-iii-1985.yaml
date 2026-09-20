@@ -1,0 +1,56 @@
+id: star-trek-iii-1985
+name: "Star Trek III"
+alternate_names: ["Star Trek III: Starship Combat Game (2nd Edition)"]
+year: 1985
+
+# Relationships
+game_family: star-trek-fasa
+edition: "2nd"
+base_game: star-trek-iii-starship-combat-game
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Star Trek III (1985) is the second edition of FASA's Star Trek III: Starship Combat Game, published in 1985.
+  This revised edition was released as part of the deluxe second edition of the FASA Star Trek RPG line and
+  contains cleaned-up rules and counters for simulating tactical starship combat in the Star Trek universe,
+  including ships from The Search for Spock such as the Klingon Bird of Prey. The game uses ten-sided dice and
+  hex-based counters, and is compatible with FASA's broader Star Trek role-playing game system.
+
+upgrades: []

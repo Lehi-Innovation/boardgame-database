@@ -1,0 +1,57 @@
+id: star-trek-ii-starship-combat-simulator
+name: "Star Trek II: Starship Combat Simulator"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: star-trek-fasa
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Dice Rolling
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - David Tepool
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Star Trek II: Starship Combat Simulator is a board wargame published by FASA in 1984, set in the Star Trek
+  universe. The game includes Basic, Advanced, and Expert Starship Tactics systems as well as a Command & Control
+  role-playing layer, using ten-sided dice and counters to simulate tactical combat between Federation and Klingon
+  starships. While designed as a companion to FASA's Star Trek role-playing game, it is a complete standalone
+  game and does not require ownership of the RPG to play.
+
+upgrades: []

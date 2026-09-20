@@ -1,0 +1,59 @@
+id: taco-cat-goat-cheese-pizza
+name: "Taco Cat Goat Cheese Pizza"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Family
+  - Dexterity
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dave Campbell
+publisher:
+  - Dolphin Hat Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Taco Cat Goat Cheese Pizza is a fast-paced reflex card game published by
+  Dolphin Hat Games in 2018. Players take turns flipping cards while chanting
+  "Taco," "Cat," "Goat," "Cheese," and "Pizza" in sequence — when the spoken
+  word matches the flipped card, everyone races to slap the pile. Three special
+  action cards (Gorillas, Groundhogs, and Narwhals) trigger silly physical
+  challenges before players can slap. The first player to empty their hand wins.
+  Simple, hilarious, and endlessly replayable, the game won the 2021 Palme d'Or
+  for Best Party Game and has spawned numerous themed editions.
+
+upgrades: []

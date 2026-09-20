@@ -1,0 +1,55 @@
+id: whistle-stop
+name: "Whistle Stop"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Tile Placement
+  - Resource Management
+  - Set Collection
+  - Trains
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Scott Caputo
+publisher:
+  - Bezier Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Whistle Stop is a 2017 pick-up-and-deliver route-building train game by Scott Caputo, published by Bezier Games, in which 2–5 players race their trains westward across the country during the golden age of American railroads. Players lay track tiles from their hand to connect routes, spend coal to move their train along the growing network, pick up goods at whistle stops, and deliver them to growing towns for shares and fame points. Acquiring shares in rival railroads adds a stock-collecting layer, while gold tokens and West Coast deliveries provide big late-game payoffs. Light to medium in weight, it teaches route-building, resource allocation, and light stock collection in an accessible package.
+
+upgrades: []

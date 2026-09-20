@@ -1,0 +1,55 @@
+id: starfire-iii-empires
+name: "Starfire III: Empires"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: starfire
+edition: null
+base_game: starfire
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Hex Map
+  - Wargame
+  - Resource Management
+  - Tech Tree
+  - Sci-Fi
+
+evokes:
+  - Progress
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stephen V. Cole
+  - David Weber
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 14
+
+description: |
+  Starfire III: Empires is a 1981 Task Force Games campaign expansion for the Starfire tactical wargame system, adding strategic-level rules for building and managing interstellar empires. Players create their own alien races, colonize planets, research technologies, develop economies, and project military power across the galaxy — adding a grand-strategy layer above the tactical combat of the base game. Designed in part by science fiction novelist David Weber, Empires transforms Starfire into a complete 4X experience spanning multiple sessions. It remains a landmark in the development of the 4X genre.
+
+upgrades: []

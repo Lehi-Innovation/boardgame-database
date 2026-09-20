@@ -1,0 +1,62 @@
+id: the-game-of-france-1940
+name: "The Game of France, 1940"
+alternate_names:
+  - "France 1940: German Blitzkrieg in the West"
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Variable Setup
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - Avalon Hill
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Game of France, 1940 is a board wargame by James F. Dunnigan simulating the German blitzkrieg
+  that overwhelmed Allied defenses in May-June 1940, originally designed for SPI's Strategy &
+  Tactics #27 and republished by Avalon Hill in 1972. The game captures the interplay of German
+  infantry, armored Panzer divisions, Luftwaffe support, and airborne units that enabled one of
+  history's most dramatic military victories. A notable feature is fifteen alternate "What If"
+  orders of battle alongside the historical scenario — allowing players to explore what might
+  have happened had France rearmed earlier, invested differently in airpower, or not built
+  the Maginot Line.
+
+upgrades: []

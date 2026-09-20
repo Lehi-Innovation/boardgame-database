@@ -1,0 +1,52 @@
+id: turn-the-tide
+name: "Turn the Tide"
+alternate_names: ["Land Unter"]
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Simultaneous Action
+  - Bluffing
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Humor
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Turn the Tide (originally published in Germany as Land Unter by Stefan Dorra in 1997) is a card game of simultaneous play and hand management for 3–5 players. Players simultaneously choose a card from their hand to play, then reveal them together; the player who played the highest card in the round must take all cards played — which counts as flooding — unless they play the only high card with no others above them. The goal is to avoid collecting too many cards while carefully predicting what others will play. This elegant tension between going high to dodge floods and going low to stay safe makes Turn the Tide a beloved filler.
+
+upgrades: []

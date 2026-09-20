@@ -1,0 +1,49 @@
+id: the-mysterious-dragon-cave
+name: "The mysterious Dragon Cave"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Mystery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The mysterious Dragon Cave is a children's fantasy board game featuring a dragon cave exploration theme. Players venture into a mysterious cave to discover what lies within, using simple dice mechanics designed for young players. Specific publisher, designer, and release year details for this game are limited due to its obscurity.
+
+upgrades: []

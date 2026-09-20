@@ -1,0 +1,49 @@
+id: war-1972
+name: "War"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Clever
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Donald Benge
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  War is a 1972 two-player strategy board game self-published by Donald Benge, considered one of the best two-player board games of the early 1970s. The game presents a chess-like abstract challenge around military confrontation, with Benge later creating a variant called Quest Chess. Multiple editions have appeared since its introduction. Specific details about the rules and components are not widely documented in modern English-language sources, and the game is primarily of interest to collectors and historians of American independent game design.
+
+upgrades: []

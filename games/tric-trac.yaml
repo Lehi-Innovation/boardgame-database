@@ -1,0 +1,51 @@
+id: tric-trac
+name: "Tric Trac"
+alternate_names:
+  - "Trictrac"
+  - "Tric-Trac"
+year: 1634
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Tric Trac is a classical French two-player board game played on a board nearly identical to a backgammon board, dating to at least the 16th century with the first written treatise recorded in 1634. Unlike backgammon, Tric Trac is not a racing game — instead players score points by creating specific piece formations (called jans) and by bearing off pieces, with a complex scoring system that rewards careful positional play. It was the prestige game of French upper-class society before the Revolution and remained popular for centuries with remarkably stable rules.
+
+upgrades: []

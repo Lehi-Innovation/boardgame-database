@@ -1,0 +1,55 @@
+id: seasons
+name: "Seasons"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Dice Rolling
+  - Hand Management
+  - Engine Building
+  - Fantasy
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Régis Bonnessée
+publisher:
+  - Asmodee
+artist:
+  - Naïade
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Seasons is a tactical card-and-dice game set in a magical tournament in which players first draft a 9-card hand split into three yearly groups, then roll season-specific dice to harvest elemental energies and power their summoned enchantments. Each die unchosen by the active player advances the time track, creating a clever tension between taking resources and accelerating the passage of time. The interplay between drafted combos, dice selection, and the changing resource availability across four seasons rewards careful planning and makes each game feel distinctly different.
+
+upgrades: []

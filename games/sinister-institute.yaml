@@ -1,0 +1,53 @@
+id: sinister-institute
+name: "Sinister Institute"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Fantasy
+  - Family
+  - Phil Walker-Harding
+
+evokes:
+  - Connection
+  - Discovery
+  - Tension
+  - Progress
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Mojito Studios
+artist:
+  - Edu Valls
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Sinister Institute is a cooperative family game designed by Phil Walker-Harding in which 2–4 players are students at a wizardry college built in a cursed swamp, tasked with defeating an Evil Sorcerer by exploring the school and surrounding swamp to collect and destroy fragments of his cursed soul. Players must work together and manage their time carefully before the sorcerer's power overwhelms the school. Part of the Mojito Trio collection by Mojito Studios, the game offers accessible co-op gameplay with a lighthearted fantasy theme.
+
+upgrades: []

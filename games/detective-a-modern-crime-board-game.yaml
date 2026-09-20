@@ -1,0 +1,58 @@
+id: detective-a-modern-crime-board-game
+name: "Detective: A Modern Crime Board Game"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Deduction
+  - Mystery
+  - Variable Player Powers
+  - Euro
+  - Portal Games
+
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Connection
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Przemysław Rymer
+  - Ignacy Trzewiczek
+  - Jakub Łapot
+publisher:
+  - Portal Games
+artist:
+  - Rafał Szyma
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 16
+
+description: |
+  Detective: A Modern Crime Board Game is a cooperative investigation game for 1-5 players where players act as detectives working at the Antares Agency, solving five interconnected cases. Unlike traditional mystery games, Detective integrates a real online database — the Antares system — allowing players to search for suspects, cross-reference evidence, and uncover information beyond the physical cards. Players manage limited in-game time across multiple workdays, with overtime costing stress tokens, creating a tense resource management layer beneath the deduction. The game rewards careful reading and logical deduction, with a final scoring phase that measures how thoroughly the case was solved.
+
+upgrades: []

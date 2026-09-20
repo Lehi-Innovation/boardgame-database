@@ -1,0 +1,51 @@
+id: stella-dixit-universe
+name: "Stella: Dixit Universe"
+alternate_names: ["Stella"]
+year: 2021
+
+# Relationships
+game_family: dixit
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Connection
+  - Clever
+  - Tension
+  - Humor
+  - Wonder
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Stella: Dixit Universe is a competitive standalone game set in the Dixit universe, published by Libellud/Asmodee in 2021, for 3–6 players. Each round, all players receive the same clue word and secretly mark Dixit image cards on their personal erasable slates that they associate with that word. Scoring rewards matching other players' choices — selecting the same cards as others earns points, while picking a unique card nobody else chose risks a penalty. The result is a fascinating social-deduction guessing game about how other players think, using the gorgeous surrealist Dixit artwork as the shared canvas.
+
+upgrades: []

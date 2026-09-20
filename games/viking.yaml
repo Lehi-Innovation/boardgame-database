@@ -1,0 +1,52 @@
+id: viking
+name: "Viking"
+alternate_names:
+  - "The Viking Game"
+  - "Hnefatafl"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+  - Medieval
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  The Viking Game is a 1981 revival of the ancient Norse tafl game family, primarily based on the Sámi game tablut and the 12th-century board format found at Trondheim. Played on an 11×11 board with 37 pieces — a king, twelve defenders, and twenty-four attackers — it is an asymmetric abstract strategy game in which the defender must escort the king to a corner square while the attacker attempts to capture him before he escapes. The modern publication reintroduced this ancient form of Viking strategic play to a wide audience, and the game has been commercially produced by numerous makers ever since.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: paris-connection
+name: "Paris Connection"
+alternate_names: ["SNCF"]
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Network Building
+  - Economic
+  - Set Collection
+  - Family
+  - Gateway
+  - Trains
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - David V.H. Peters
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Paris Connection (originally SNCF) is a fast-playing network- and portfolio-building train game for 2-6 players. Players place colored wooden train pieces representing tracks and shares in six French railway companies — but crucially, the pieces placed on the board also represent shares held, so each piece placed doubles as a stock investment. On your turn you either lay track to build a network or take shares, but growing a company means you own fewer pieces of it. The elegantly tense scoring — the most valuable stock portfolio wins — emerges from these two competing motivations.

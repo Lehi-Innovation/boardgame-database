@@ -1,0 +1,58 @@
+id: xiii-le-complot
+name: "XIII: Le Complot"
+alternate_names:
+  - "XIII, Le complot"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Variable Player Powers
+  - Espionage
+  - Historical
+  - Ameritrash
+
+evokes:
+  - Agency
+  - Mystery
+  - Tension
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Pascal Bernard
+publisher:
+  - Week End Game
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  XIII: Le Complot is a board game adaptation of the Belgian comic book series XIII, designed for
+  two to four players. Each player controls a team of agents drawn from the cast of 27 characters,
+  each with their own profiles, skills, and abilities as written by Vance and Van Hamme. Players
+  move across the terrain of XIII's adventures, recruiting operatives and completing missions to
+  accumulate investigation points. After five or eight rounds, the player with the most points wins.
+
+upgrades: []

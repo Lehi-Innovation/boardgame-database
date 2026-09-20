@@ -1,0 +1,62 @@
+id: star-trek-catan
+name: "Star Trek: Catan"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Trading
+  - Negotiation
+  - Modular Board
+  - Network Building
+  - Sci-Fi
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+  - Mayfair Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Star Trek: Catan is a licensed adaptation of The Settlers of Catan designed by Klaus Teuber, first published
+  in 2012 by Kosmos. Players take on the roles of Federation members colonizing uncharted space, gathering
+  resources — Dilithium, Tritanium, Oxygen, Food, and Energy — to build outposts and spaceships across a modular
+  hex map. The game retains Catan's core resource trading mechanics while adding ten character support cards
+  (Kirk, Spock, Uhura, and others) that grant unique abilities, giving the familiar formula a fresh Star Trek
+  identity for fans of both franchises.
+
+upgrades: []

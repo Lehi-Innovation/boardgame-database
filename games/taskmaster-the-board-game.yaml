@@ -1,0 +1,56 @@
+id: taskmaster-the-board-game
+name: "Taskmaster: The Board Game"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Events
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Rivalry
+  - Creative
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - Ginger Fox Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 14
+
+description: |
+  Taskmaster: The Board Game is the officially licensed board game adaptation
+  of the popular British comedy panel TV show, published by Ginger Fox Games
+  in 2018. Players take turns as the Taskmaster while others complete 200
+  challenge cards — including video tasks from host Alex Horne — with the
+  Taskmaster awarding points based on their subjective judgment. Each player also
+  has a hidden secret task to accomplish throughout the game without detection,
+  worth bonus points if undiscovered at the end. The game captures the show's
+  spirit of absurdist creativity and judge-pleasing humor in a party format.
+
+upgrades: []

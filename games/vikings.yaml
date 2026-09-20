@@ -1,0 +1,55 @@
+id: vikings
+name: "Vikings"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Economic
+  - Euro
+  - Gateway
+  - Medieval
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Kiesling
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Vikings is a 2007 Spiel des Jahres-recommended tile-placement and economic game designed by Michael Kiesling, published by Rio Grande Games. Players use an innovative pricing wheel to draft pairs of Viking meeples and territory tiles, placing them to populate and settle their island boards. The game's most distinctive feature is its rotating market wheel, which pairs worker types with tiles and adjusts prices each round — certain combinations become cheap while others grow costly, creating clever indirect competition for resources. With no direct player interaction beyond the drafting, Vikings rewards planning and efficient use of limited workers.
+
+upgrades: []

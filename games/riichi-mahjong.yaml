@@ -1,0 +1,49 @@
+id: riichi-mahjong
+name: "Riichi Mahjong"
+alternate_names: ["Japanese Mahjong", "Reach Mahjong"]
+year: 1924
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Drafting
+  - Trick-taking
+  - Bluffing
+
+evokes:
+  - Masterful
+  - Tension
+  - Clever
+  - Lucky
+  - Agency
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Riichi Mahjong is the Japanese variant of the ancient tile-drawing game, adapted and standardized in Japan in the early 20th century. Four players draw and discard tiles from a 136-tile set, working to assemble a winning hand of four sets and one pair while tracking what opponents are discarding. The signature "riichi" declaration — announcing a complete hand minus one tile as a scored wager — adds unique tension and commitment mechanics not found in other mahjong variants. Hand scoring through yaku (valid patterns) makes it one of the most strategically rich tile games in the world.

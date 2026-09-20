@@ -1,0 +1,56 @@
+id: uruk
+name: "Uruk"
+alternate_names:
+  - "Uruk: Wiege der Zivilisation"
+  - "Uruk: Cradle of Civilization"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Tableau Building
+  - Resource Management
+  - Euro
+  - Ancient
+  - Civilization
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wilfried Kuhn
+  - Hanno Kuhn
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Uruk: Cradle of Civilization is a strategy board game set in ancient Mesopotamia in which 2–4 players each build a civilization along the Euphrates River. Inventions — represented as cards — form the backbone of each player's growing settlement, starting from simple mud huts and advancing through increasingly sophisticated developments like aqueducts. Inventions generate resources used to build settlements, and settlements in turn score points based on the level of invention they are built upon. Players must also contend with disasters and seek blessings from Sumerian gods as they compete to establish the most prosperous civilization.
+
+upgrades: []

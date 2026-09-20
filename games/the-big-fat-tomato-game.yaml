@@ -1,0 +1,59 @@
+id: the-big-fat-tomato-game
+name: "The Big Fat Tomato Game"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Set Collection
+  - Family
+  - Food Theme
+
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Casey Grove
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  The Big Fat Tomato Game is a lightweight take-that card game by Casey Grove, published by
+  Gamewright in 2012. Players try to harvest the most tomatoes while defending their garden patch
+  from weeds, varmints, and the dastardly tomato zombie. Green Thumb cards defend your patch,
+  Fence cards protect your stockpile from varmint attacks, and Thumbs Down cards are used to
+  attack opponents' patches. The game ends when a "Market Time" card appears, and the player with
+  the most stockpiled tomatoes wins. Its silly theme, fast play, and chaotic take-that mechanics
+  make it a hit with families looking for light competitive fun.
+
+upgrades: []

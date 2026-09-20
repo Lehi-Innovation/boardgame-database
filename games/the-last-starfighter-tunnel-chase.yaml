@@ -1,0 +1,60 @@
+id: the-last-starfighter-tunnel-chase
+name: "The Last Starfighter: Tunnel Chase"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Simultaneous Action
+  - Sci-Fi
+  - Space
+  - Racing
+
+evokes:
+  - Tension
+  - Lucky
+  - Agency
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 4]
+
+designer:
+  - Jordan Weisman
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Last Starfighter: Tunnel Chase is a 1984 FASA board game designed by Jordan Weisman, based
+  on the climactic sequences of the 1984 sci-fi film The Last Starfighter. Players maneuver
+  miniature starfighter pieces across a modular hex-based board representing the asteroid tunnel
+  interior, using simultaneous action selection and dice rolling for combat. The game can
+  accommodate up to 25 players, an unusual capacity that made it suitable for large-group
+  conventions and events. Paper-and-pencil tracking and player elimination add to the simulation
+  feel of this fast-and-frantic space combat experience.
+
+upgrades: []

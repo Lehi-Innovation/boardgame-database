@@ -1,0 +1,58 @@
+id: speed-circuit
+name: "Speed Circuit"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Programmed Movement
+  - Action Points
+  - Family
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - John Reilly
+  - Tom Divoll
+publisher:
+  - 3M
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Speed Circuit is a Formula 1 racing game originally published by 3M in 1971 and later republished by Avalon
+  Hill. Players secretly record their speed each turn — maintaining, accelerating, or braking within the car's
+  limits — and cars move across the track in proportion to their chosen speed, with the leader moving first.
+  This programmed movement mechanic rewards precise speed management through corners and tactical blocking on
+  circuits like Monaco, Monza, and Watkins Glen, making it a skill-heavy racing simulation well ahead of its time.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: tavli
+name: "Tavli"
+alternate_names: ["Greek Backgammon"]
+year: 0
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Tavli is Greece's national board game, a compendium of three backgammon
+  variants — Portes, Plakoto, and Fevga — typically played in sequence, with
+  the first player to accumulate a set number of points winning the match. In
+  Portes (closest to standard backgammon), pieces can be hit and sent to the
+  bar; in Plakoto, pieces are pinned by stacking rather than removed; and in
+  Fevga, a single piece can secure a point. Played with a shared pair of dice
+  (no doubling cube), Tavli is ubiquitous in Greek cafes and social life, with
+  a deeply ingrained cultural tradition of fast, passionate play.
+
+upgrades: []

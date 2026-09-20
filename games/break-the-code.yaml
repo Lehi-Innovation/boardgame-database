@@ -1,0 +1,54 @@
+id: break-the-code
+name: "Break the Code"
+alternate_names:
+  - "Tagiron"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Ryohei Kurahashi
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Break the Code is a compact deduction game for 2–4 players in which each player attempts to deduce a hidden sequence of numbered tiles held by their opponents. Players use question cards to ask logical queries—such as comparing values or positions—and must reason from the answers to identify their opponents' hidden codes before the others figure out theirs. Originally published in Japan as Tagiron by Jelly Jelly Games, this IELLO edition brings the clean logical deduction to an international audience with elegant components and quick play time.
+
+upgrades: []

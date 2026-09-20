@@ -1,0 +1,52 @@
+id: star-wars-destroy-death-star
+name: "Star Wars: Destroy Death Star"
+alternate_names: ["Star Wars: Destroy Death Star Game"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Kenner
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Star Wars: Destroy Death Star is a 1977 Kenner board game re-enacting the Battle of Yavin from the original Star Wars film. Players move X-wing squadrons along the board, trying to fly down the trench and land on the exhaust port by exact count to fire the torpedoes and destroy the Death Star. The game's centerpiece is a rotating Death Star board that turns with each player's turn, requiring precise timing and lucky rolls to hit the target. A companion game to Kenner's Escape from Death Star.
+
+upgrades: []

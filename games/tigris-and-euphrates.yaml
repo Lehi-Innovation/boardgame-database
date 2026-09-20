@@ -1,0 +1,58 @@
+id: tigris-and-euphrates
+name: "Tigris and Euphrates"
+alternate_names:
+  - "Tigris & Euphrates"
+  - "Euphrat & Tigris"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Euro
+  - Cult Classic
+  - Historical
+  - Ancient
+  - Civilization
+  - Reiner Knizia
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Tigris and Euphrates is widely considered Reiner Knizia's masterpiece, a tile-placement civilization game set at the dawn of Mesopotamian history where players build kingdoms along the rivers Tigris and Euphrates. Each dynasty fields four leader types — king, priest, farmer, and trader — and players earn victory points in all four categories, but the winner is determined by their lowest-scoring category, forcing balanced development and punishing overspecialization. The conflict system, which triggers internal and external wars when leaders collide, creates intense interactive drama that sets it apart from other Euro games of its era.
+
+upgrades: []

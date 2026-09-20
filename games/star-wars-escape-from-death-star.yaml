@@ -1,0 +1,52 @@
+id: star-wars-escape-from-death-star
+name: "Star Wars: Escape from Death Star"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Kenner
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Star Wars: Escape from Death Star is a 1977 Kenner board game — one of the very first Star Wars licensed products — in which players guide the heroes through the Death Star's trash compactor and race to reach the Rebel base on Yavin 4. Players use a spinning wheel and draw cards that provide benefits and penalties during their escape. As a foundational artifact of Star Wars licensing history, the game is prized by collectors and represents the beginning of the Star Wars merchandise phenomenon.
+
+upgrades: []

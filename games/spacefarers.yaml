@@ -1,0 +1,57 @@
+id: spacefarers
+name: "Spacefarers"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Action Points
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nick Henfrey
+  - Andy Murdin
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Spacefarers is a 1981 science fiction miniatures skirmish game published by Games Workshop, designed by Nick
+  Henfrey and Andy Murdin for use with Citadel Miniatures' Spacefarers figure range. Units move via ruler
+  measurement (or optionally a hex map), may fire ranged weapons, and engage in close combat in a standard
+  tabletop skirmish framework. Optional rules cover ammunition limits, visibility, and fighting inside starships
+  or buildings, making it one of Games Workshop's earliest forays into sci-fi miniature gaming before the
+  development of Warhammer 40,000.
+
+upgrades: []

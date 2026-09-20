@@ -1,0 +1,62 @@
+id: the-hunt-for-red-october
+name: "The Hunt for Red October"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Wargame
+  - Deduction
+  - Asymmetric
+  - War
+  - Espionage
+  - Maritime
+  - Historical
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Dread
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Douglas Niles
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Hunt for Red October is a two-player naval wargame published by TSR in 1988, based on Tom
+  Clancy's Cold War thriller novel. The American player tries to guide the rogue Soviet submarine
+  Red October safely to defection, while the Soviet player marshals aircraft, surface ships, and
+  submarines to hunt it down and destroy it. The game features a map of the North Atlantic broken
+  into irregular spaces, with unit information kept partially hidden from opponents. Eight scenarios
+  provide varying forces and objectives. It won the 1989 Origins Award for Best Boardgame covering
+  the modern era, and TSR claimed it was one of the bestselling wargames of its time.
+
+upgrades: []

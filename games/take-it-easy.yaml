@@ -1,0 +1,61 @@
+id: take-it-easy
+name: "Take It Easy"
+alternate_names: ["Take It Easy!"]
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Tension
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Peter Burley
+publisher:
+  - Ravensburger
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Take It Easy is a simultaneous tile-placement puzzle game designed by Peter
+  Burley, first published in 1983. Each player has their own hexagonal board of
+  19 spaces and an identical set of 27 hexagonal tiles featuring three colored
+  lines with different values. One player randomly draws a tile and all players
+  must place that same tile on their own board. The goal is to complete
+  contiguous lines of matching colors across the board, scoring the line value
+  multiplied by the tile count. Since all players use the same tile each round
+  but place them independently, the game produces a fascinating parallel puzzle
+  experience. It was nominated for the 1994 Spiel des Jahres.
+
+upgrades: []

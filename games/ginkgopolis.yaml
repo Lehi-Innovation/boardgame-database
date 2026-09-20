@@ -1,0 +1,64 @@
+id: ginkgopolis
+name: "Ginkgopolis"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Engine Building
+  - Simultaneous Action
+  - Euro
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Xavier Georges
+publisher:
+  - Pearl Games
+artist:
+  - Stéphane Gantiez
+  - Alain Orban
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  Ginkgopolis is a city-building card-and-tile game where players simultaneously choose
+  cards to expand or build upon a shared futuristic city. Playing a card either adds a
+  new tile to the city's border or stacks a tile on top of an existing one, altering who
+  controls which districts. A hand-drafting mechanism means players rotate cards, gradually
+  building personalized engines while competing for the most valuable urban real estate.
+  The elegant interplay between card drafting, area control, and engine building rewards
+  multiple plays to master.
+
+upgrades: []

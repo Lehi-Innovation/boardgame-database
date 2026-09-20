@@ -1,0 +1,57 @@
+id: ticket-to-ride-marklin
+name: "Ticket to Ride: Märklin"
+alternate_names:
+  - "Ticket to Ride: Marklin"
+  - "Ticket to Ride: Märklin Edition"
+year: 2006
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Network Building
+  - Family
+  - Euro
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Rivalry
+  - Complete
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Ticket to Ride: Märklin is the third major standalone entry in the Ticket to Ride series, set on a map of 1902 Germany produced in collaboration with the famous German model railway company Märklin. The game introduces Passengers and Merchandise mechanics, where players move passengers between cities to collect merchandise cards for bonus points. Each train card features a unique image of a Märklin model locomotive or car, adding collector appeal to an already robust rail-building game.
+
+upgrades: []

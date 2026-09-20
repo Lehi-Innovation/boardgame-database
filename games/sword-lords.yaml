@@ -1,0 +1,55 @@
+id: sword-lords
+name: "Sword Lords"
+alternate_names: ["Sword Lords of the Eastern Regions"]
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Sword Lords (also known as Sword Lords of the Eastern Regions) is a 1981 fantasy
+  miniature wargame published by Archive Miniatures & Game Systems, a company now
+  defunct. Players can run any of several provided fantasy battles or design their
+  own scenarios, commanding armies in a medieval fantasy setting. The game was noted
+  for its elegant production values and interesting concept, though contemporary
+  reviewers criticized the rulebook editing. It is now a collectible out-of-print
+  title available through secondary markets like Noble Knight Games.
+
+upgrades: []

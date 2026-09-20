@@ -1,0 +1,54 @@
+id: times-up
+name: "Time's Up!"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: times-up
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool (rules are trivially simple)
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Real-time
+  - Party
+  - Family
+  - Gateway
+  - Word Play
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [4, 6, 8]
+
+designer:
+  - Peter Sarrett
+publisher:
+  - R&R Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 7
+
+description: |
+  Time's Up! is a classic team-based party game in which players race through three progressive rounds to identify famous names from a shared deck of cards. In round one, clue-givers can say almost anything; in round two, only a single word is permitted plus gestures; and in round three, no words at all — only sounds and acting. Because the same deck of names cycles through all three rounds, players build familiarity with the cards, making later rounds a hilarious callback to earlier clues. The game's escalating restrictions transform casual name-dropping into increasingly absurd performances, creating memorable shared moments. It has won over 15 awards since its 1999 debut and inspired numerous editions and spin-offs.
+
+upgrades: []

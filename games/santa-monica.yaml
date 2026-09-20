@@ -1,0 +1,55 @@
+id: santa-monica
+name: "Santa Monica"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Tableau Building
+  - Set Collection
+  - Pattern Building
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Josh Wood
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 14
+
+description: |
+  Santa Monica is a breezy card-drafting and tableau-building game for 2–4 players set along the iconic Southern California beachfront. Each turn, players draft location cards and place them into one of two distinct areas: the Beach, which scores based on sets of identical icons, or the Street, which scores based on chains of connected card types. The interplay between these two scoring zones forces delightful tension every draft, as a card ideal for one zone may cripple the other. Santa Monica's relaxed theme belies a tight puzzle that plays in about 40 minutes and scales well across player counts.
+
+upgrades: []

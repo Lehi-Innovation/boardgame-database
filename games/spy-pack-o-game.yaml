@@ -1,0 +1,58 @@
+id: spy-pack-o-game
+name: "SPY - Pack O Game"
+alternate_names: ["SPY"]
+year: 2015
+
+# Relationships
+game_family: pack-o-game
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Deduction
+  - Social Deduction
+  - Party
+  - Espionage
+  - Filler
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Chris Handy
+publisher:
+  - Perplext
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 10
+
+description: |
+  SPY is a tiny card game in Chris Handy's Pack O Game series, published by Perplext. It is an elegant game
+  of deduction played entirely in the hand — no table required — making it perfect for travel. Players work
+  through a hand-management and deduction puzzle in the spy theme, attempting to identify hidden roles and
+  information while concealing their own. At just 10 minutes, SPY is a masterclass in miniaturized design,
+  fitting a complete social experience into a pocket-sized pack of cards.
+
+upgrades: []

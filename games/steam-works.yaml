@@ -1,0 +1,51 @@
+id: steam-works
+name: "Steam Works"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Steampunk
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Creative
+  - Masterful
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Steam Works is a steampunk worker-placement game designed by Alex Churchill and published by Tasty Minstrel Games in 2015. Players take on the role of engineers who must not only place workers but also physically construct the worker-placement spots themselves by assembling components and power sources into machines. The resulting devices then become action spaces available to all players, creating a dynamic board that evolves each game. This meta-puzzle of building the engine you will work in, while also competing for resources and completed inventions, makes Steam Works a uniquely layered euro game.
+
+upgrades: []

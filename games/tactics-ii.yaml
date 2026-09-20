@@ -1,0 +1,57 @@
+id: tactics-ii
+name: "Tactics II"
+alternate_names: []
+year: 1958
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Charles S. Roberts
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Tactics II is a foundational board wargame designed by Charles S. Roberts and
+  published by Avalon Hill in 1958. It is the sequel to the original Tactics and
+  uses a fictional continent divided into two countries (Blue and Red) as its
+  battlefield. The game introduced many standard wargaming conventions including
+  movement points, attack strength ratings, odds-based combat resolution using a
+  combat results table, and the zone-of-control rule. Played on a square-grid
+  map (rather than hexes), it was instrumental in launching the commercial
+  wargaming hobby and is considered a landmark in board game history.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: coatl
+name: "Cóatl"
+alternate_names:
+  - "Coatl"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Pattern Building
+  - Puzzle Solving
+  - Family
+  - Gateway
+  - Ancient
+  - Mythology
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Pascale Brassard
+  - Etienne Dubois-Roy
+publisher:
+  - Synapses Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Cóatl is an Aztec-themed strategy game for 1–4 players in which players act as priests assembling feathered serpents to fulfill divine prophecies. On each turn, a player either takes Cóatl pieces (head, body segments, or tail) from the shared supply, chooses Prophecy cards that specify which combinations score points, or assembles their collected pieces into a complete serpent. The better a completed Cóatl satisfies Prophecy cards and Temple bonuses, the more prestige it earns, creating an elegant puzzle of piece collection and prophecy fulfillment with striking 3D serpent constructions on the table.
+
+upgrades: []

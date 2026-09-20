@@ -1,0 +1,55 @@
+id: the-settlers-of-nuremberg
+name: "The Settlers of Nuremberg"
+alternate_names: ["Die Siedler von Nürnberg"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Events
+  - Euro
+  - Historical
+  - City Building
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  The Settlers of Nuremberg is a 1999 standalone Catan variant designed by Klaus Teuber, published in German to commemorate Nuremberg's founding anniversary. Players build settlements and workshops across a split-map board—one half showing the surrounding countryside's resource hexes, the other a close-up of Nuremberg where workshops are constructed. Rather than dice, a card deck determines each turn's production and events. Players also contribute to the construction of Nuremberg's walls and towers for prestige, adding a cooperative-within-competition layer. The game is more complex than base Catan, comparable to Cities & Knights, and was published only in German.
+
+upgrades: []

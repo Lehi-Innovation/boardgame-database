@@ -1,0 +1,54 @@
+id: virus
+name: "Virus!"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Set Collection
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Domingo Cabrero
+  - Carlos López
+  - Santi Santisteban
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Virus! is a fast-playing card game designed by Domingo Cabrero, Carlos López, and Santi Santisteban, published by Tranjis Games in 2015. Players race to assemble a complete healthy human body by collecting four different organ cards, while attacking opponents with virus cards that infect their organs and using medicine cards to inoculate or cure. The game's straightforward mechanics and chaotic take-that dynamic make it an ideal filler for groups who enjoy card-slapping chaos. Published by Goliath internationally, it has become one of Spain's most commercially successful card game exports.
+
+upgrades: []

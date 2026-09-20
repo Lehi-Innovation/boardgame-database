@@ -1,0 +1,61 @@
+id: so-long-sucker
+name: "So Long Sucker"
+alternate_names: []
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Trading
+  - Bluffing
+  - Social Deduction
+  - Traitor
+  - Abstract
+
+evokes:
+  - Tension
+  - Persuasion
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [4]
+true_counts: [4]
+
+designer:
+  - Mel Hausner
+  - John Nash
+  - Lloyd Shapley
+  - Martin Shubik
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  So Long Sucker is a four-player bargaining game invented in 1950 by game theorists Mel Hausner, John Nash,
+  Lloyd Shapley, and Martin Shubik at Princeton University, and first published in academic form in 1964.
+  Each player starts with colored chips and must form coalitions with others to gain control and advance, but
+  all agreements are unenforceable — and ultimately, winning requires betraying your allies. Originally titled
+  "Fuck Your Buddy," the game is a stark demonstration of how cooperation and treachery intertwine in zero-sum
+  social dynamics, making it a fascinating artifact of game theory history.
+
+upgrades: []

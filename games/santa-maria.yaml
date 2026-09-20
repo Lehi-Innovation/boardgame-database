@@ -1,0 +1,57 @@
+id: santa-maria
+name: "Santa Maria"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Engine Building
+  - Resource Management
+  - Route Building
+  - Euro
+  - Historical
+  - Maritime
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Masterful
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Eilif Svensson
+  - Kristian Amundsen Østby
+publisher:
+  - Aporta Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Santa Maria is a streamlined Euro strategy game in which players establish and develop colonies in the New World by placing Tetris-like colony tiles on their individual boards. Each player drafts dice representing migrant workers, then uses each die to activate an entire row or column of buildings in their colony — a clever constraint that forces careful spatial planning. Buildings generate resources, ships, colonists, and special powers that form growing engines of production. The game rewards tight optimization and spatial puzzle-solving while keeping turns brisk and interaction light, making it an accessible but satisfying mid-weight Euro.
+
+upgrades: []

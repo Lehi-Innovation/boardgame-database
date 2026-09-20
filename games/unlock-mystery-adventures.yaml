@@ -1,0 +1,56 @@
+id: unlock-mystery-adventures
+name: "Unlock! Mystery Adventures"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: "unlock"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Family
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Fabrice Mazza
+  - Arnaud Ladagnous
+publisher:
+  - Space Cowboys
+artist:
+  - Pierre Santamaria
+  - Florian de Gesincourt
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Unlock! Mystery Adventures is an entry in the popular Unlock! cooperative escape-room card game series, featuring three standalone one-hour scenarios. Players investigate a cursed manor on a hill, escape from a Jules Verne-inspired submarine, and hunt for hidden treasure on a remote island. Using a deck of illustrated cards and the free Unlock! companion app, teams search scenes, combine objects, and crack codes against a countdown timer. Each scenario varies in difficulty and can be replayed with different group compositions.
+
+upgrades: []

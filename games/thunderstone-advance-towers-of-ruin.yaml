@@ -1,0 +1,53 @@
+id: thunderstone-advance-towers-of-ruin
+name: "Thunderstone Advance: Towers of Ruin"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: thunderstone-2009
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Dungeon Crawler
+  - Fantasy
+  - Variable Setup
+
+evokes:
+  - Progress
+  - Discovery
+  - Tension
+  - Powerful
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mike Elliott
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Thunderstone Advance: Towers of Ruin is the 2012 revised and repackaged edition of AEG's Thunderstone deck-building series, set in a new game world with completely rewritten rules, new art, and over 500 new cards including 11 new heroes, nine monster groups, and 19 village cards. Compatible with all previous Thunderstone sets, the Advance edition streamlines the original game's rules while adding two dungeons simultaneously, familiars that aid players during dungeon delving, and powerful new Thunderstone Bearers guarding each dungeon. Players compete to accumulate the most victory points through defeated monsters, balancing village purchases against dungeon expeditions each turn.
+
+upgrades: []

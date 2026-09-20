@@ -1,0 +1,53 @@
+id: startups
+name: "Startups"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Auctions/Bidding
+  - Bluffing
+  - Economic
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jun Sasaki
+publisher:
+  - Oink Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Startups is a 2017 Oink Games card game of investment and information asymmetry for 3-7 players designed by Jun Sasaki. Each card represents a share in one of six startup companies, and players take turns drawing from the deck (blind, placing a coin on each market card) or taking a market card and any coins on it. The mix of public information (which companies a player is investing in, since played cards are visible) and private hand information creates a clever guessing game. The player with the largest stake in each company claims its victory points at game end.
+
+upgrades: []

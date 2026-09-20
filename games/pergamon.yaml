@@ -1,0 +1,55 @@
+id: pergamon
+name: "Pergamon"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Tile Placement
+  - Euro
+  - Family
+  - Historical
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 55
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Pergamon is an elegant bidding and tile-placement game for 2–4 players set during the 1878 archaeological excavations in what is now modern Turkey. Players seek federal research grants through a clever reverse-auction mechanism: the less funding you request, the earlier you get to excavate — but frugality means smaller dig budgets. Excavated artifacts are assembled into exhibitions, scored based on completeness and quality. The core tension between grabbing funding early versus holding out for more creates constant, satisfying decision-making in a compact 45–60 minute playtime.
+
+upgrades: []

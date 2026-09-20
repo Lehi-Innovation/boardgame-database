@@ -1,0 +1,56 @@
+id: burgle-bros
+name: "Burgle Bros."
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 0  # Solitary (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Action Points
+  - Dice Rolling
+  - Modular Board
+  - Variable Player Powers
+  - Variable Setup
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Connection
+  - Agency
+  - Mystery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Tim Fowers
+publisher:
+  - Fowers Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Burgle Bros. is a cooperative heist game for 1–4 players designed and self-published by Tim Fowers, in which players must break into a multi-floor building, crack the safes on each floor, and escape to the roof without being caught by roaming guards. The building is represented by a randomly stacked modular board of face-down room tiles, creating a different puzzle each game as players reveal spaces, manage action points, and coordinate their individual abilities. The guard AI, hidden room contents, and escalating alarm level create palpable tension that makes even experienced players sweat through every turn.
+
+upgrades: []

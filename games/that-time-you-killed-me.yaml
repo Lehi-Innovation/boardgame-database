@@ -1,0 +1,63 @@
+id: that-time-you-killed-me
+name: "That Time You Killed Me"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Narrative Heavy
+  - Campaign Mode
+  - Time Travel
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Tension
+  - Mystery
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Peter C. Hayward
+publisher:
+  - Pandasaurus Games
+artist:
+  - Jor Ros
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 14
+
+description: |
+  That Time You Killed Me is a two-player abstract strategy game with narrative
+  depth, published by Pandasaurus Games in 2022. Three boards represent the
+  past, present, and future, and each player controls copies of themselves
+  scattered across timelines. On a turn, a player chooses a single copy on the
+  board matching their focus token's timeline, then takes two actions —
+  movement, time travel forward, or time travel back (leaving a copy behind).
+  Copies are eliminated by being pushed into walls. Four chapters of escalating
+  scenarios introduce new wild time-travel mechanics, building a structured
+  narrative campaign of puzzle-like confrontations with rising complexity.
+
+upgrades: []

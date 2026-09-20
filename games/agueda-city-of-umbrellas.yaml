@@ -1,0 +1,60 @@
+id: agueda-city-of-umbrellas
+name: "Àgueda: City of Umbrellas"
+alternate_names:
+  - "Agueda: City of Umbrellas"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Variable Setup
+  - Family
+  - Gateway
+
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dustin Dobson
+  - Milan Zivkovic
+publisher:
+  - 25th Century Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Àgueda: City of Umbrellas is a tile-placement game inspired by the annual Umbrella Sky Project
+  festival in Águeda, Portugal, where the streets are decorated with colorful hanging umbrellas.
+  Players take on the roles of festival artists, placing umbrella tiles to create vibrant streetscapes
+  and attract the most tourists to their streets. Its accessible design and visually striking theme
+  earned it a Mensa Select Award, making it a standout family gateway game of 2024.
+
+upgrades: []

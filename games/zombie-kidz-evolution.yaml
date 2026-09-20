@@ -1,0 +1,59 @@
+id: zombie-kidz-evolution
+name: "Zombie Kidz Evolution"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Legacy
+  - Campaign Mode
+  - Zombies
+  - Family
+
+evokes:
+  - Connection
+  - Tension
+  - Progress
+  - Discovery
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Annick Lobet
+publisher:
+  - Scorpion Masque
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Zombie Kidz Evolution is a cooperative legacy game designed for young children in which players
+  defend a school from zombie invasion by moving between classrooms, eliminating zombies, and
+  locking the school's gates to win. The legacy system, delivered through thirteen sealed envelopes
+  opened as milestones are achieved, gradually adds new rules and powers that grow with the
+  players' skill. The progressive campaign and accessible zombie theme make it one of the most
+  successful children's board games ever designed.
+
+upgrades: []

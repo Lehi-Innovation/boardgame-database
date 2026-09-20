@@ -1,0 +1,63 @@
+id: survivor-the-tribe-has-spoken
+name: "Survivor: The Tribe Has Spoken"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Negotiation
+  - Bluffing
+  - Social Deduction
+  - Traitor
+  - Party
+
+evokes:
+  - Persuasion
+  - Tension
+  - Rivalry
+  - Mystery
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ian Clayman
+  - Elan Lee
+publisher:
+  - Exploding Kittens
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  Survivor: The Tribe Has Spoken is an officially licensed card game based on
+  the hit reality TV show, designed by Elan Lee and published by Exploding
+  Kittens. Players collect cards representing knowledge, power, and resources,
+  while using action cards to steal from opponents, form alliances, find hidden
+  immunity idols, and manipulate votes at Tribal Council. The fast-paced turns
+  encourage direct player interaction and scheming, culminating in elimination
+  votes that thin the field until one player claims victory. The game captures
+  the social dynamics, alliances, and blindsides that have defined 50 seasons
+  of the beloved reality competition.
+
+upgrades: []

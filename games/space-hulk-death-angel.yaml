@@ -1,0 +1,59 @@
+id: space-hulk-death-angel
+name: "Space Hulk: Death Angel – The Card Game"
+alternate_names: ["Death Angel: The Space Hulk Card Game"]
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Card Drafting
+  - Simultaneous Action
+  - Sci-Fi
+  - Wargame
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Connection
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1, 2, 3]
+
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Space Hulk: Death Angel is a cooperative card game designed by Corey Konieczka and published by Fantasy Flight
+  Games in 2010, set in the Warhammer 40,000 universe. Players control teams of Space Marine Terminators fighting
+  through the claustrophobic corridors of a derelict space hulk infested with Genestealers. Each combat team uses
+  action cards — Attack, Support, or Move — with the critical restriction that the same action cannot be taken on
+  consecutive turns. With an estimated win rate of only 25–33%, Death Angel is notoriously brutal, demanding tight
+  coordination and careful sacrifice to survive.
+
+upgrades: []

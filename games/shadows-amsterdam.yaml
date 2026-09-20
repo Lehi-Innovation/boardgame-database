@@ -1,0 +1,54 @@
+id: shadows-amsterdam
+name: "Shadows: Amsterdam"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Deduction
+  - Teams
+  - Party
+  - Family
+  - Mystery
+
+evokes:
+  - Tension
+  - Clever
+  - Mystery
+  - Connection
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 6, 8]
+
+designer:
+  - Mathieu Aubert
+publisher:
+  - Libellud
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Shadows: Amsterdam is a real-time team deduction game designed by Mathieu Aubert and published by Libellud, in which pairs of players race across an Amsterdam-themed board to find three clues. One player on each team acts as the Informer, using image cards to silently direct their Detectives to the correct locations without speaking. The first team to gather all three clues and return to their sponsor wins. The game's visual communication mechanic and fast pace make it an exciting filler for groups of 2–8 players.
+
+upgrades: []

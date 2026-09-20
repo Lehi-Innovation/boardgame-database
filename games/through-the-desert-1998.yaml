@@ -1,0 +1,57 @@
+id: through-the-desert-1998
+name: "Through the Desert"
+alternate_names: ["Durch die Wüste"]
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Network Building
+  - Pattern Building
+  - Abstract
+  - Euro
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - KOSMOS
+  - Fantasy Flight Games
+  - Allplay
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Through the Desert is a 1998 abstract area control game designed by Reiner Knizia, part of his celebrated tile-laying trilogy alongside Samurai and Tigris & Euphrates. Two to five players place pastel-colored plastic camel caravans on a hex grid, with each camel placed adjacent to the same-colored group; points are scored by capturing watering holes and enclosing oases. The constraint that each color's caravan must connect back to a leader piece creates interesting blocking and territory decisions, and the elegant scoring systems reward both aggression and opportunistic expansion. Its beautiful pastel camels and clean mechanics have made it a beloved classic of abstract Euro design.
+
+upgrades: []

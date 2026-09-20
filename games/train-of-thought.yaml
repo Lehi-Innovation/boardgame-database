@@ -1,0 +1,49 @@
+id: train-of-thought
+name: "Train of Thought"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Train of Thought is a creative word party game published by Tasty Minstrel Games in which the active "conductor" must lead other players from a starting word to a destination word using only three-word clues — and one of those words must come from a previous guess. The chaining mechanism forces increasingly creative associations as the chain grows longer, rewarding lateral thinking and generating plenty of memorable moments. The simple rules make it immediately playable for ages 10 and up across groups of 2–7.
+
+upgrades: []

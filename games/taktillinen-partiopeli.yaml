@@ -1,0 +1,54 @@
+id: taktillinen-partiopeli
+name: "Taktillinen partiopeli"
+alternate_names: []
+year: 1934
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Taktillinen partiopeli (Finnish: "Tactical Scouting Game") is a Finnish board
+  wargame published in 1934 related to the Boy Scout movement. The game simulates
+  tactical scouting scenarios, likely reflecting the military preparedness culture
+  of Finland in the interwar period. As a historical artifact of Finnish gaming
+  culture from the 1930s, it is a rare example of scout-themed tactical wargaming
+  from this era. Detailed publisher and rule information are scarce, as the game
+  had very limited commercial distribution outside Finland.
+
+upgrades: []

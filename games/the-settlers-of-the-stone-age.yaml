@@ -1,0 +1,56 @@
+id: the-settlers-of-the-stone-age
+name: "The Settlers of the Stone Age"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Network Building
+  - Racing
+  - Family
+  - Historical
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Settlers of the Stone Age is a 2002 standalone Catan variant designed by Klaus Teuber, set in prehistoric Africa during the Stone Age migration of early humans across the globe. Players guide Homo sapiens populations outward from Africa, gathering resources, developing technologies, and claiming territories on all continents. The game models real prehistoric dynamics including the slow desertification of Africa and the exploration bonuses of spreading into new regions, with victory points rewarding the successful peopling of the world. It won the 2003 International Gamers Award for General Strategy and is part of the Catan Histories subseries.
+
+upgrades: []

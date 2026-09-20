@@ -1,0 +1,53 @@
+id: what-do-you-meme
+name: "What Do You Meme?"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - Humor
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Rivalry
+  - Creative
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [4, 6, 8]
+
+designer:
+  - Elliot Tebele
+  - Elie Ballas
+  - Ben Kaplan
+publisher:
+  - What Do You Meme LLC
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 17
+
+description: |
+  What Do You Meme? is an adult party card game created by Elliot Tebele, Elie Ballas, and Ben Kaplan in 2016, launched via Kickstarter where it raised over $229,000. Players compete to create the funniest internet meme by pairing caption cards from their hand with a rotating photo card, with a judge determining the best combination each round. The game's format closely parallels Cards Against Humanity and was the 9th best-selling game on Amazon in 2017. It is intended for ages 17 and up due to mature content.
+
+upgrades: []

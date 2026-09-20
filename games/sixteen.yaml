@@ -1,0 +1,50 @@
+id: sixteen
+name: "Sixteen"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Press Your Luck
+  - No Math
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Sixteen is a fast-playing 2-player card game in which players alternate playing cards onto a shared face-up pile, racing to form "sets" when the running total of cards reaches exactly 16 — the player who completes a set to exactly 16 wins it. Players must use strategic card play and press-your-luck counting to force opponents into busting beyond 16 while creating their own winning opportunities. The cribbage-like counting and compact rules make it a quick but engaging duel.
+
+upgrades: []

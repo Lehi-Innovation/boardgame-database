@@ -1,0 +1,52 @@
+id: star-wars-yoda-the-jedi-master
+name: "Star Wars: Yoda the Jedi Master"
+alternate_names: ["Yoda the Jedi Master"]
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Discovery
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Kenner
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Star Wars: Yoda the Jedi Master is a 1981 Kenner board game based on Luke Skywalker's Jedi training scenes in The Empire Strikes Back. Players complete difficult tasks and trials set by Yoda, accumulating Jedi merit as they progress around the board via spinner. Once a player has enough merit, they enter the Jedi Knight circle and must out-spin the Dark Side of the Force to win. A colorful family game capturing the mystical appeal of Dagobah and the Jedi path.
+
+upgrades: []

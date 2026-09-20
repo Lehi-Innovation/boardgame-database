@@ -1,0 +1,53 @@
+id: venice-connection
+name: "Venice Connection"
+alternate_names:
+  - "The Venice Connection"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Abstract
+  - Puzzle Solving
+  - Route Building
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alex Randolph
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 14
+
+description: |
+  Venice Connection is a two-player abstract tile-placement game designed by Alex Randolph and first published in 1988. The game consists of just 16 identical tiles, each bearing a straight canal segment on one face and a curved segment on the other. Players take turns placing one to three connected tiles, attempting to complete the canal as a closed loop. Despite its simplicity — just one type of tile and a single rule — the game rewards spatial reasoning and careful planning, making it a beloved abstract filler. Its pocket-sized format and quick 5–10 minute play time make it ideal for travel.
+
+upgrades: []

@@ -1,0 +1,65 @@
+id: the-fury-of-dracula-1987
+name: "The Fury of Dracula"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: fury-of-dracula
+edition: "First Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hidden Movement
+  - Deduction
+  - Asymmetric
+  - Variable Player Powers
+  - Hand Management
+  - Ameritrash
+  - Horror
+  - Vampires
+  - Historical
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Stephen Hand
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  The Fury of Dracula is the original 1987 hidden movement game designed by Stephen Hand and
+  published by Games Workshop, pitting one player as Count Dracula secretly moving across a
+  stylized map of Victorian Europe against one to three hunters working cooperatively to track
+  him down. Dracula moves in secret behind a screen, placing encounter cards along his trail,
+  while hunters travel by road, rail, and sea trying to deduce his location. Combat uses a card-
+  based tactical rock-paper-scissors system. The game established many conventions of the 1 vs Many
+  asymmetric hidden movement genre and inspired multiple revised editions, with the third and fourth
+  editions published by Fantasy Flight Games.
+
+upgrades: []

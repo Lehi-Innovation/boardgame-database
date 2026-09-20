@@ -1,0 +1,55 @@
+id: unfair
+name: "Unfair"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Variable Player Powers
+  - Economic
+  - CMON
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Rivalry
+  - Creative
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Joel Finch
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Unfair is a competitive theme park building card game designed by Joel Finch and published by Good Games Publishing and CMON in 2017. Players combine modular theme decks (Pirate, Robot, Vampire, Gangster, Ninja, Jungle) to build their park, hiring staff, constructing rides, and playing event cards — including sabotaging opponents' parks with disasters and dirty tricks. Over eight rounds, players develop attractions by upgrading cards in a tableau while managing hand, resources, and opponent interference. The game's "Take That" interactions give it a chaotic, high-energy feel despite its Euro-style construction mechanics.
+
+upgrades: []

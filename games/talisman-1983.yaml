@@ -1,0 +1,61 @@
+id: talisman-1983
+name: "Talisman"
+alternate_names: ["Talisman: The Magical Quest Game"]
+year: 1983
+
+# Relationships
+game_family: talisman
+edition: "1st Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Ameritrash
+  - Fantasy
+  - Cult Classic
+
+evokes:
+  - Discovery
+  - Lucky
+  - Dread
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Robert Harris
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 300
+min_age: 10
+
+description: |
+  Talisman is a fantasy adventure board game designed by Robert Harris and first
+  published by Games Workshop in 1983. Players choose from iconic character
+  classes — Warrior, Wizard, Thief, and many more — each with unique Strength
+  and Craft stats, then roll dice to move through the modular Outer, Middle, and
+  Inner Regions of the game board, encountering adventure cards with monsters,
+  treasures, and events. The objective is to reach the Crown of Command at the
+  board's center and use it to eliminate all other players. The game is notorious
+  for its lengthy playtimes and chaotic dice-driven randomness, but remains a
+  beloved classic in fantasy gaming with five editions spanning decades.
+
+upgrades: []

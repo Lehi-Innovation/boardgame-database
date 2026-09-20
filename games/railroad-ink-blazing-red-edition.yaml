@@ -1,0 +1,54 @@
+id: railroad-ink-blazing-red-edition
+name: "Railroad Ink: Blazing Red Edition"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: railroad-ink
+edition: "Blazing Red Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Route Building
+  - Network Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Hjalmar Hach
+  - Lorenzo Silva
+publisher:
+  - Horrible Guild
+artist:
+  - Marta Tranquilli
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Railroad Ink: Blazing Red Edition is a roll-and-write network-building game for 1-6 players (combinable up to 12). Each round a set of route dice are rolled and all players must draw those routes on their personal whiteboards, trying to connect exits on each side of the board and build the longest continuous networks. The Blazing Red Edition includes the Meteors and Lava expansion dice modules that add fiery chaos to the standard route-drawing puzzle. Simple to learn but endlessly variable, Railroad Ink works perfectly as a simultaneous-play experience at any table size.

@@ -1,0 +1,53 @@
+id: the-war-of-the-worlds-board-game
+name: "The War of the Worlds"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Aliens
+  - Historical
+  - 1 vs Many
+
+evokes:
+  - Tension
+  - Dread
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Allen D. Eldridge
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The War of the Worlds is a 1980 wargame designed by Allen D. Eldridge and published by Task Force Games, based on H.G. Wells' classic 1898 science fiction novel. Two players take opposing sides—one commanding the invading Martians with their devastating tripod war machines, the other defending Victorian London and England with human military forces. The asymmetric nature of the conflict mirrors the novel, with humans starting at a severe technological disadvantage and relying on attrition and terrain. A 16K computer adaptation was developed in 1983, and the property has continued to inspire new board game adaptations into the modern era.
+
+upgrades: []

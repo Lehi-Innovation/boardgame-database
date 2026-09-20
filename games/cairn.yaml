@@ -1,0 +1,52 @@
+id: cairn
+name: "Cairn"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Area Control
+  - Abstract
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Christian Martinez
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Cairn is a two-player abstract strategy game published by Matagot in which rival shamans battle to expand their mystical power by placing Megaliths across a sacred landscape. On their turn, a player chooses one of three face-up action tiles—movement (orthogonal or diagonal), a jump, or deploying another shaman—and executes it, then the tile is flipped and triggers a special effect. The first player to place three megaliths onto the board wins, making Cairn a sharp, thematic duel that rewards reading your opponent's actions and controlling the center.
+
+upgrades: []

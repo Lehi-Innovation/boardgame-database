@@ -1,0 +1,57 @@
+id: taliesin-master-game
+name: "Taliesin Master Game"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ronald William Astle
+publisher:
+  - Talforce Ltd.
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Taliesin Master Game is a three-dimensional abstract strategy game invented
+  by Ronald William Astle and distributed by Talforce Ltd. in 1981. Played on
+  three stacked circular boards connected by a central "black hole" that allows
+  pieces to transfer between levels, players control nine types of gold and silver
+  pieces, each with unique movement rules. The objective is to capture the
+  opponent's Life Force piece. The game was available in a Starter version, a
+  full Master Game with all three intricately designed circular levels, and a
+  luxury Executive version with glass boards. It was sold at Harrods and Hamleys
+  and marketed through Mensa magazine.
+
+upgrades: []

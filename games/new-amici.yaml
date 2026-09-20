@@ -1,0 +1,57 @@
+id: new-amici
+name: "¡New Amici!"
+alternate_names:
+  - "New Amici"
+  - "New Amigos"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Connection
+  - Humor
+  - Discovery
+  - Progress
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Lakki Patey
+publisher:
+  - Californian Products
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  ¡New Amici! is a language-learning board game designed to help players practice foreign languages
+  through gameplay. Players who speak different languages can play together — for example, native
+  German speakers learning English can play alongside native English speakers learning German,
+  with both benefiting simultaneously. Developed in Norway in 2002 by musician Lakki Patey, it
+  was nominated for Game of the Year in the Netherlands in 2006 and released commercially in 2004.
+
+upgrades: []

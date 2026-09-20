@@ -1,0 +1,56 @@
+id: cthulhu-wars
+name: "Cthulhu Wars"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Action Points
+  - Cthulhu
+  - Horror
+  - Dudes on a Map
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Dread
+  - Unique
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Sandy Petersen
+publisher:
+  - Petersen Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Cthulhu Wars is a massive asymmetric area control game in which players each command one of H.P. Lovecraft's Great Old Ones — Cthulhu, Crawling Chaos, Black Goat, or Yellow Sign — vying for dominance over Earth at the end of time. Each faction has a completely unique set of units, spellbooks, and special abilities that unlock as the game progresses, ensuring no two factions play alike and demanding different strategies. Players spend Power each round to move monsters, summon gates, cast spells, and unlock new powers, racing to earn enough Doom points before opponents do. The game features enormous, detailed miniatures for each faction's monsters and Great Old One, making it a visually spectacular presence on the table. Combat is swift and decisive, keeping the game moving despite the epic scale.
+
+upgrades: []

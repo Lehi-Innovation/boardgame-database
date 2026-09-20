@@ -1,0 +1,56 @@
+id: lords-of-vegas
+name: "Lords of Vegas"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Economic
+  - Auctions/Bidding
+  - Modular Board
+  - Family
+  - Ameritrash
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Powerful
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - James Ernest
+  - Mike Selinker
+publisher:
+  - Lone Shark Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Lords of Vegas is a 2010 city-building economic game for 2–6 players by James Ernest and Mike Selinker, set in the era when Las Vegas was being built from the desert floor up. Players develop casino lots on a modular board, using dice rolls to determine which casinos they own and to resolve conflicts when rival casinos expand into adjacent spaces. Owners of the boss die in a casino control it and earn income based on its size and value; players can also gamble against each other to gain chips. Highly interactive and luck-infused, it captures the high-stakes, unpredictable feeling of building a gambling empire.
+
+upgrades: []

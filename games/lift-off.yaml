@@ -1,0 +1,55 @@
+id: lift-off
+name: "Lift Off"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Action Points
+  - Euro
+  - Space
+  - Sci-Fi
+
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Jeroen Vandersteen
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Lift Off is a 2-4 player space race card drafting game by Jeroen Vandersteen, published by Hans im Glück and Z-Man Games in 2018. Players compete to be the most successful space agency over eight rounds by circle-drafting specialist cards, using those cards to take actions, and launching rockets to score points and complete missions. Each turn requires tight cost-benefit analysis as players must balance acquiring the right specialists, taking actions with those specialists, and timing their rocket launches to maximize points. The game rewards players who can efficiently convert their drafted workforce into successful launches, making it a satisfying card management puzzle with a satisfying space exploration theme.
+
+upgrades: []

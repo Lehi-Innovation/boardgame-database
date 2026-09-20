@@ -1,0 +1,56 @@
+id: shikoku-1889
+name: "Shikoku 1889"
+alternate_names:
+  - "1889: History of Shikoku Railways"
+year: 2004
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Tile Placement
+  - Network Building
+  - Economic
+  - Wargame
+  - Historical
+  - Trains
+
+evokes:
+  - Powerful
+  - Masterful
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Yasutaka Ikeda
+publisher:
+  - Grand Trunk Games
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 210
+min_age: 14
+
+description: |
+  Shikoku 1889 is an 18xx train game set in 1889 Japan, modelling the early railway development of the Shikoku island. Players buy shares in railroad companies, manage those companies through share dealing and operating rounds, and build track across the hexagonal map to connect cities and generate revenue. The player controlling the majority of shares in a company directs its operations, but all shareholders receive dividends — creating ruthless financial tension between personal wealth and company investment. Often cited as the best entry-point into the notoriously complex 18xx family, Shikoku 1889 delivers the full genre experience in a more accessible map and time frame.
+
+upgrades: []

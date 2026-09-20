@@ -1,0 +1,59 @@
+id: near-and-far
+name: "Near and Far"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Worker Placement
+  - Dice Rolling
+  - Variable Player Powers
+  - Route Building
+  - Campaign Mode
+  - Euro
+  - Fantasy
+  - Adventure
+  - Red Raven Games
+
+evokes:
+  - Discovery
+  - Wonder
+  - Agency
+  - Connection
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 13
+
+description: |
+  Near and Far is a 2-4 player map-based storytelling and worker placement game designed and illustrated by Ryan Laukat, published by Red Raven Games in 2017 as a sequel to Above and Below. Players take on the roles of adventurers seeking fame, fortune, and the discovery of a legendary last ruin, traveling between towns and exploring wilderness maps where story encounters present moral and practical choices read aloud from a companion book. Between adventures, players manage an outpost, hire companions from a roster of 20 unique characters, and gather artifacts and supplies. The game can be played as a competitive campaign across multiple sessions or in a standalone format, and its gorgeous hand-painted artwork creates a rich, evocative world.
+
+upgrades: []

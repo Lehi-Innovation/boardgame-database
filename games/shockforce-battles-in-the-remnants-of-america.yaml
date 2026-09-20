@@ -1,0 +1,53 @@
+id: shockforce-battles-in-the-remnants-of-america
+name: "Shockforce: Battles in the Remnants of America"
+alternate_names: ["Shock Force: Battles in the Remnants of America"]
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Post-Apocalyptic
+  - Action Points
+  - Variable Player Powers
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Aaron Overton
+publisher:
+  - DemonBlade Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+description: |
+  Shockforce: Battles in the Remnants of America is a 1998 miniatures wargame published by DemonBlade Games and designed by Aaron "Warpeyes" Overton, set in a war-torn post-apocalyptic future United States. Players build forces using a flexible build-it-yourself mechanic, assigning weapons and defensive values to models, then resolve fast-paced firefights and close assaults using opposed dice pools — the attacker's weapon dice versus the target's defense dice. Praised for its accessible yet tense core mechanic, the game earned a cult following and was later released in an expanded second edition through Wargame Vault.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: astra
+name: "Astra"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Press Your Luck
+  - Variable Setup
+  - Euro
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Wonder
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Patrik Porkoláb
+  - Frigyes Schőberl
+  - Eszter Krisztina Sas
+publisher:
+  - Mindclash Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Astra is a streamlined area-majority and set-collection game for 2–4 players in which astronomers race to discover and claim constellation cards by marking stars with a dry-erase marker. On each turn, players either spend Stardust to mark stars in a straight line (using Telescope tokens to start new lines), or Rest to refill resources and reactivate card abilities. The moment a player marks the final star in a constellation, they claim the card and gain a powerful reusable ability, rewarding careful timing and resource management in a fast-paced race for astronomical fame.
+
+upgrades: []

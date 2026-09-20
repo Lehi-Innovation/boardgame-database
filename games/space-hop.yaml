@@ -1,0 +1,59 @@
+id: space-hop
+name: "Space Hop"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Events
+  - Sci-Fi
+  - Space
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Wonder
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Helmut Wimmer
+publisher:
+  - Teaching Concepts
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Space Hop is an educational astronomy board game designed by Helmut Wimmer — resident artist at New York's
+  Hayden Planetarium — and published by Teaching Concepts in 1973. Players receive secret Mission Cards hinting
+  at their destination in the Solar System, then choose between accumulating Hop cards to teleport through
+  portals or rolling dice to navigate, dodging asteroids, comets, and rival ships. A decoder wheel helps
+  uncertain players decipher destination names at the cost of their turn. The game teaches facts about the
+  Solar System while delivering an exciting space travel experience.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: the-game-of-the-district-messenger-boy
+name: "The Game of the District Messenger Boy"
+alternate_names:
+  - "Game of the District Messenger Boy; or, Merit Rewarded"
+year: 1886
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Historical
+
+evokes:
+  - Progress
+  - Lucky
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - McLoughlin Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  The Game of the District Messenger Boy; or, Merit Rewarded is an 1886 McLoughlin Brothers
+  race game historically significant as one of the earliest American board games to celebrate
+  the accumulation of wealth as the path to social advancement. Players race tokens around a
+  track as humble messenger boys, with the first to reach the "Head of the Firm" position
+  winning. This was a notable departure from the moralistic Christian-virtue framework of prior
+  American board games like The Mansion of Happiness, reflecting the Gilded Age ideology that
+  hard work and merit — rather than piety alone — could elevate one's station in life. It
+  represents a cultural turning point in American game design.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: yalu
+name: "Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951"
+alternate_names:
+  - "Yalu"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Hill
+publisher:
+  - Conflict Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Yalu is a two-player hex-and-counter wargame covering the Chinese counteroffensive during the
+  Korean War, from November 1950 to May 1951. One player commands asymmetric UN forces with
+  superior supplies and combat strength, while the other controls Chinese and North Korean forces
+  with greater mobility and unit count but limited supplies. Each hex represents 10 miles and each
+  turn one week of game time, with units at battalion to division level. It was John Hill's first
+  design and served as a test bed for many of his subsequent game ideas.
+
+upgrades: []

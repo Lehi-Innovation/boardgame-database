@@ -1,0 +1,56 @@
+id: the-generic-gangster-chase-game
+name: "The Generic Gangster Chase Game"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Asymmetric
+  - Humor
+  - Historical
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Generic Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Generic Gangster Chase Game is a 1981 board game published by Generic Games in which mob
+  hitman Big Jim pursues top reporter Ace Wilson across a game board in a classic cat-and-mouse
+  chase scenario. The game captures the era's fascination with Prohibition-era gangster aesthetics
+  in a straightforward two-player asymmetric pursuit format. The self-consciously "generic" branding
+  was a tongue-in-cheek choice by the publisher, poking fun at the era's proliferation of chase
+  game formats.
+
+upgrades: []

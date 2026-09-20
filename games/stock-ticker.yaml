@@ -1,0 +1,52 @@
+id: stock-ticker
+name: "Stock Ticker"
+alternate_names: []
+year: 1937
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Trading
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Copp Clark
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 9
+
+description: |
+  Stock Ticker is a 1937 Copp Clark stock market simulation game for 2-6 players. Players invest $5,000 in six commodity-based stocks (gold, silver, bonds, oil, industrials, grain), buying shares in blocks. Each turn three dice are rolled: one identifies which stock is affected, one determines direction (up, down, or dividend), and one sets the amount of change (5, 10, or 20). The player with the most wealth when the agreed time limit expires — having sold all stocks back to the Broker at final market value — wins. The enduring simplicity of the design has kept it in print through multiple publishers for nearly a century.
+
+upgrades: []

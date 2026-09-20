@@ -1,0 +1,53 @@
+id: such-a-thing
+name: "Such a Thing?"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Urs Hostettler
+publisher:
+  - Valley Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Such a Thing? is a 1989 card game designed by Urs Hostettler in which players take turns adding category cards — "needs fuel," "swims," "can be used militarily" — to a central collection, challenging each other to think of a real thing that satisfies all the criteria. When a player doubts a match exists, they can challenge; if the previous player can name a convincing thing, the doubter takes a penalty, but if they cannot, the previous player is penalized instead. The game earned a Spiel des Jahres Recommended nomination and placed third at the Deutscher Spiele Preis, and its simple, escalating creativity makes it an effective party game.
+
+upgrades: []

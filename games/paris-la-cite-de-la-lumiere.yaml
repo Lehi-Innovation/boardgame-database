@@ -1,0 +1,57 @@
+id: paris-la-cite-de-la-lumiere
+name: "Paris: La Cité de la Lumière"
+alternate_names:
+  - "Paris: City of Light"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Area Control
+  - Abstract
+  - Euro
+  - Family
+  - Historical
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - José Antonio Abascal Gutiérrez
+publisher:
+  - Devir
+artist:
+  - Oriol Hernández
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Paris: La Cité de la Lumière is a two-player tile-placement game set during the 1889 Exposition Universelle, when the City of Light was dazzling the world with the debut of public electricity. In the first phase, players take turns drafting and placing tiles to jointly build the streets of Paris; in the second phase, they place their pawns to claim the illuminated sections they've carefully set up. The game rewards planning ahead during tile placement while staying alert to your opponent's intentions, all in a tight and elegant 30-minute package with gorgeous Parisian artwork.
+
+upgrades: []

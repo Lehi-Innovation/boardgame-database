@@ -1,0 +1,57 @@
+id: mindbug-first-contact
+name: "Mindbug: First Contact"
+alternate_names: ["Mindbug"]
+year: 2022
+
+# Relationships
+game_family: mindbug
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Take That
+  - Fantasy
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Skaff Elias
+  - Richard Garfield
+  - Marvin Hegen
+  - Christian Kudahl
+publisher:
+  - Nerdlab Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 10
+
+description: |
+  Mindbug: First Contact is a two-player dueling card game co-designed by Magic: The Gathering creator Richard Garfield, published by Nerdlab Games in 2022. Each player has ten creature cards — five in hand and five in a deck — and tries to reduce the opponent's life total to zero by summoning hybrid monsters. The game's defining mechanic is the Mindbug: each player holds two single-use Mindbug cards that can instantly steal control of any creature the opponent plays at the moment of summoning, turning your own best cards into potential weapons for the enemy. This creates a mind-game of bluffing and baiting, where playing your strongest card at the wrong moment can be catastrophically self-defeating.
+
+upgrades: []

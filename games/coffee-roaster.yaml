@@ -1,0 +1,53 @@
+id: coffee-roaster
+name: "Coffee Roaster"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Press Your Luck
+  - Puzzle Solving
+  - Food Theme
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Progress
+  - Agency
+  - Complete
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Saashi
+publisher:
+  - Saashi & Saashi
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 14
+
+description: |
+  Coffee Roaster is a 2015 solo bag-building game by designer Saashi (Saashi & Saashi) in which the player simulates the art of roasting coffee beans to brew the perfect cup. On each turn, tokens are drawn from a cloth bag representing the roasting process — the key mechanic is managing the bag's contents by removing undesirable tokens and adding beneficial ones, controlling roast level without overshooting it. After roasting, the player brews a cup and scores based on how well the coffee profile matches the target recipe. With multiple coffee varieties to master and a satisfying push-your-luck tension in every draw, it is one of the most celebrated solo board games in the hobby.
+
+upgrades: []

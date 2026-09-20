@@ -1,0 +1,57 @@
+id: conspiracy-abyss-universe
+name: "Conspiracy: Abyss Universe"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: abyss
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Gateway
+  - Fantasy
+  - Bruno Cathala
+
+evokes:
+  - Complete
+  - Clever
+  - Tension
+  - Wonder
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Bruno Cathala
+  - Charles Chevallier
+publisher:
+  - Bombyx
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Conspiracy: Abyss Universe is a standalone card game set in Bruno Cathala and Charles Chevallier's undersea Abyss world, in which players draft cards and assemble them into a reverse pyramid—five cards wide at the top, tapering to one at the bottom. On your turn you may draw 1–3 cards and choose one to add to your current row, placing any extras face-up near the deck by color; alternatively, you scoop up all cards of one color and add them. The tension between drawing deep for options and letting rivals claim your discards makes every decision charged, while the pyramid structure creates a satisfying construction narrative.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: harbour
+name: "Harbour"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Variable Player Powers
+  - Variable Setup
+  - Economic
+  - Fantasy
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Progress
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Scott Almes
+publisher:
+  - Tasty Minstrel Games
+artist:
+  - Rob Lundy
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Harbour is a compact worker-placement game set in a fantasy port town where players are
+  entrepreneurs collecting and trading four resources—fish, livestock, wood, and stone—to
+  purchase buildings. Each time a player buys a building, the market values of the resources
+  used drop while others rise, creating a dynamic economy that constantly shifts the
+  optimal strategy. Buildings double as worker-placement spots, so a growing shared town
+  expands everyone's options. The small footprint, quick turns, and evolving market make
+  Harbour a satisfying filler for fans of heavier games.
+
+upgrades: []

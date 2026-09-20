@@ -1,0 +1,61 @@
+id: for-northwood
+name: "For Northwood! A Solo Trick-Taking Game"
+alternate_names:
+  - "For Northwood!"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Puzzle Solving
+  - Fantasy
+  - Animals
+
+evokes:
+  - Agency
+  - Tension
+  - Clever
+  - Mystery
+  - Complete
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Wilhelm Su
+publisher:
+  - Side Room Games
+artist:
+  - Camille Kuo
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  For Northwood! is an innovative solo trick-taking game in which you play eight rounds
+  of tricks to win the alliance of eight rulers for your kingdom. Each ruler requires you
+  to win an exact number of tricks to join your cause, creating a precise puzzle rather
+  than a simple "win as many as possible" challenge. Four ally abilities that can be used
+  once per visit help manipulate your hand, but options dwindle as allies are won over.
+  The game won multiple awards in the 2021 BGG 54-card contest, including Best Overall
+  and Best Solo Game.
+
+upgrades: []

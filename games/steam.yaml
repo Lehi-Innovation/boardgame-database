@@ -1,0 +1,54 @@
+id: steam
+name: "Steam"
+alternate_names: ["Martin Wallace's Totally Renamed Train Game"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Economic
+  - Martin Wallace
+  - Trains
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Martin Wallace
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 13
+
+description: |
+  Steam is a 2009 Martin Wallace train game published by Mayfair Games, a streamlined reworking of Age of Steam after trademark disputes. Players build railroad networks across a modular map, upgrade towns, improve locomotive capabilities, and deliver goods along routes to score points and generate income. Each round, players compete to determine turn order through bidding, then select actions for building and delivering. The core tension lies in balancing income generation against victory point accumulation — spending too freely leaves you unable to compete, while hoarding money loses the race.
+
+upgrades: []

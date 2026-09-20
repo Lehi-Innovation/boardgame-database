@@ -1,0 +1,59 @@
+id: south-africa-vestige-of-colonialism
+name: "South Africa: Vestige of Colonialism"
+alternate_names: ["South Africa: The Death of Colonialism"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Asymmetric
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Dread
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Irad B. Hardy
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  South Africa: Vestige of Colonialism is a board wargame by Irad B. Hardy, published by SPI in 1977 as a
+  pull-out game in Strategy & Tactics magazine issue #62. The game simulates a hypothetical guerrilla war during
+  the apartheid era: one player commands conventional RSA forces while the other leads the ANC invading from
+  neighboring countries. Play alternates in 13-turn seasons, with the RSA player managing taxation and manpower
+  depletion, and the ANC winning by controlling seven town hexes and one city hex. The rules uniquely state that
+  "no RSA victory is possible," making it one of the era's most politically charged wargames.
+
+upgrades: []

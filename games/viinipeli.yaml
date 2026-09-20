@@ -1,0 +1,49 @@
+id: viinipeli
+name: "Viinipeli"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Food Theme
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 18
+
+description: |
+  Viinipeli is a Finnish board game centred on wine tasting and knowledge. As a Finnish-market product, it is designed to entertain players who enjoy wine culture, likely combining trivia about wines, regions, and grape varieties with light party game mechanics. Published in Finland and listed in the Wikidata game catalogue, specific publisher and designer information is not widely available in English-language sources. The game reflects the genre of themed party games popular in the Nordic market during the early 2000s.
+
+upgrades: []

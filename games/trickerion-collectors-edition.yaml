@@ -1,0 +1,60 @@
+id: trickerion-collectors-edition
+name: "Trickerion: Collector's Edition"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: trickerion
+edition: "Collector's Edition"
+base_game: trickerion
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Action Points
+  - Programmed Movement
+  - Simultaneous Action
+  - Tile Placement
+  - Economic
+  - Steampunk
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Masterful
+  - Unique
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Richard Amann
+  - Viktor Peter
+publisher:
+  - Mindclash Games
+artist:
+  - Villő Farkas
+  - László Fejes
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  The Collector's Edition of Trickerion: Legends of Illusion is a premium Kickstarter bundle released in 2019 containing the base game, the Dahlgaard's Academy and Dahlgaard's Gifts expansions, metal coins, custom linen pouches, and an alternate art box. Players compete as rival Victorian steampunk illusionists in the city of Magoria, simultaneously programming their workers' movements to gather components, learn tricks, and perform spectacular illusions at the theater. The Collector's Edition consolidates the full Trickerion experience into a single deluxe package with enhanced components.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: dogs-of-war
+name: "Dogs of War"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Worker Placement
+  - Variable Player Powers
+  - Bluffing
+  - Ameritrash
+  - Steampunk
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Unique
+  - Persuasion
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Paolo Mori
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Dogs of War is a 2014 area-majority game by Paolo Mori set in a steampunk-influenced Renaissance universe, where noble houses wage fierce battles and players control mercenary captains deploying private armies to tip the balance in their favor. Each round, players simultaneously assign their Dog of War to a battlefield by playing cards from their hand, shifting influence through clockwork knights and war machines, with the ultimate aim of earning rewards from whichever house they've backed most effectively. Deception and betrayal are core tools — a captain's special ability can flip allegiances at a critical moment — making it a game of bluffing and politics as much as military placement. CMON's production gives the game impressive miniature figures and table presence.
+
+upgrades: []

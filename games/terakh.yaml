@@ -1,0 +1,59 @@
+id: terakh
+name: "Terakh"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Variable Setup
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Terence Wong
+  - Akhil Patel
+publisher:
+  - Stoneplay
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Terakh is a Canadian abstract strategy board game published by Stoneplay in
+  2005, named after its inventors Terence Wong and Akhil Patel (Te-rakh). Played
+  on a variable battlefield assembled from triangular panels that players combine
+  before each game, Terakh pits 2–6 players against each other in a turn-based
+  combat of troops and territory. Players deploy and maneuver forces across the
+  modular hexagonal battlefield, combining strategic planning with variable setup
+  to ensure a fresh challenge each game. The concept was originally conceived
+  by Wong in 1999 before reaching its published form.
+
+upgrades: []

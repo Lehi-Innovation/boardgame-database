@@ -1,0 +1,58 @@
+id: the-first-galaxy-g1
+name: "The First Galaxy G1"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Racing
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Rivalry
+  - Agency
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Hungry Owl Publications
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  The First Galaxy G1 is a 1985 science fiction board game published by Hungry Owl Publications for
+  two to five players. Players pilot rockets around a distinctive galaxy-shaped gameboard — a spiral
+  with ten arms — trying to reassemble their space stations, which have been broken into pieces and
+  scattered across the galaxy. Combat via laser attacks, fuel management as a limiting resource, and
+  the peril of a black hole on the board add tactical depth to the race for station pieces. Round
+  supply cards and the original galaxy board design make it a distinctive artifact of 1980s
+  independent game publishing.
+
+upgrades: []

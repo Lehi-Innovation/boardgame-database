@@ -1,0 +1,57 @@
+id: the-castles-of-tuscany
+name: "The Castles of Tuscany"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Card Drafting
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Family
+  - Medieval
+  - Stefan Feld
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Alea
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  The Castles of Tuscany is Stefan Feld's lighter, faster tile-placement game for 2–4 players inspired by the rolling hills and medieval villages of Tuscany. Players take turns taking cards that allow them to place hexagonal region tiles — towns, forests, quarries, vineyards, and castles — into their personal landscape, scoring points through completed areas and collected sets. The game moves faster than Feld's typical fare, with a streamlined structure that emphasizes quick decisions and satisfying tile combos over deep calculation. It captures the aesthetic warmth of the Tuscany countryside in a breezy 45–60 minute experience well-suited for family play.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: thiruthamizh
+name: "Thiruthamizh"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Set Collection
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Masterful
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - G. Rajakumar
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Thiruthamizh is a 1990 Tamil-language word game invented by G. Rajakumar of Chennai, designed as a Tamil-script adaptation of Scrabble. The game uses a 21x21 grid board and 272 tiles: 186 tiles bearing individual Tamil letters and 86 transparent tiles with diacritic marks that combine with letter tiles to form new characters. Players form words in Tamil script to score points, making it both a strategy game and a tool for vocabulary building. In 2002, the Directorate of Tamil Development recommended Thiruthamizh for use in Tamil Nadu schools, recognizing its educational value for preserving and enriching Tamil language skills among students.
+
+upgrades: []

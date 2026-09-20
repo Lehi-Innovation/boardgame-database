@@ -1,0 +1,55 @@
+id: watergate
+name: "Watergate"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Asymmetric
+  - 1 vs Many
+  - Deduction
+  - Historical
+  - Euro
+  - Capstone Games
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Matthias Cramer
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Watergate is a tense asymmetric card game for exactly two players inspired by the political scandal that ended Nixon's presidency. One player takes the role of Nixon's administration trying to weather the storm by accumulating momentum tokens, while the other plays the newspaper editors pursuing the investigation by connecting informants to the evidence network. Both players use the same deck of dual-use historical cards, choosing to use each card for its top effect or its bottom effect. The asymmetric win conditions and dual-purpose card mechanics create extraordinary depth in a 30–60 minute package that rewards study and repays repeated play.
+
+upgrades: []

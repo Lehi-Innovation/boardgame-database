@@ -1,0 +1,51 @@
+id: utopia-engine
+name: "Utopia Engine"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Puzzle Solving
+  - Cooperative
+  - Fantasy
+
+evokes:
+  - Tension
+  - Lucky
+  - Discovery
+  - Dread
+  - Agency
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Nick Hayes
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Utopia Engine is a free print-and-play solitaire dice game designed by Nick Hayes in 2010. Players take the role of Isodoros, an aged artificer on a desperate quest to reassemble the Utopia Engine — a legendary device that may be the only thing capable of preventing the world's imminent destruction. The game sends the lone player across six dangerous regions to recover the machine's six parts, using simple dice mechanics to simulate wilderness exploration, activating powerful artifacts, and combat encounters. Requiring only two six-sided dice, a pencil, an eraser, and a printed adventure sheet, it is a compact and tense survival puzzle.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: take-stock
+name: "Take Stock"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Take Stock is a stock market trading board game in which players buy and sell shares
+  to accumulate wealth, with the winner being the player who amasses the most money
+  by game's end. Players make investment decisions across multiple companies, reacting
+  to price fluctuations and market events driven by card draws or dice rolls. The game
+  captures the tension of speculative trading and financial risk in a family-accessible
+  format. Detailed publisher and designer information is limited, as the game had
+  relatively limited commercial documentation beyond its original release.
+
+upgrades: []

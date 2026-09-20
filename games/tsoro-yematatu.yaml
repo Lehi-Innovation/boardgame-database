@@ -1,0 +1,48 @@
+id: tsoro-yematatu
+name: "Tsoro Yematatu"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  Tsoro Yematatu is a traditional two-player abstract strategy game from Zimbabwe. Players first place their three pieces alternately on a star-shaped board, then move them along lines to achieve three-in-a-row — the winning condition. Pieces may jump over opponents without capture, adding a layer of tactical depth beyond standard tic-tac-toe variants. It is closely related to games such as Shisima, Achi, and Tapatan found across Africa and the world, and represents a living tradition of Indigenous abstract gameplay from southern Africa.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: tavreli
+name: "Tavreli"
+alternate_names: ["Russian Chess"]
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+description: |
+  Tavreli (also called Russian Chess) is a modern stacking chess variant inspired
+  by a lost ancient Russian game. Recreated in the late 1990s by combining
+  standard chess with Bashni (Russian stacking draughts), the game introduces
+  a distinctive mechanic: when a piece captures an enemy piece, the captured
+  piece is placed under the capturing piece, forming a stack. Stacks belong to
+  the player controlling the topmost piece and move as that piece type. Friendly
+  pieces can also stack on each other. Pawns promote when opposite their
+  starting opponent's piece, gaining unique compound abilities. The resulting
+  game is a deeply complex and dynamic variant of chess.
+
+upgrades: []

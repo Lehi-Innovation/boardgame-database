@@ -1,0 +1,56 @@
+id: the-lord-of-the-rings-the-two-towers
+name: "The Lord of the Rings: The Two Towers"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: the-lord-of-the-rings-knizia
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 0  # Solitary (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Tableau Building
+  - Fantasy
+  - Lord of the Rings
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Progress
+  - Connection
+  - Dread
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - KOSMOS
+  - Fantasy Flight Games
+artist:
+  - John Howe
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Lord of the Rings: The Two Towers is a 2002 expansion to Reiner Knizia's cooperative Lord of the Rings board game. As one of several expansions to the base game, it adds new scenario boards, encounter cards, and challenges tied to the events of the second volume of Tolkien's trilogy. Players continue to work together as hobbits navigating the peril of Sauron's corruption while managing their resources across increasingly difficult encounters. The expansion deepens the base game's narrative arc and is required for the full cooperative experience across all three books of the trilogy.
+
+upgrades: []

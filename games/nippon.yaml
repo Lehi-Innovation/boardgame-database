@@ -1,0 +1,54 @@
+id: nippon
+name: "Nippon"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Resource Management
+  - Economic
+  - Tech Tree
+  - Euro
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Nuno Bizarro Sentieiro
+  - Paulo Soledade
+publisher:
+  - What's Your Game?
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Nippon is a heavyweight economic euro game for 2-4 players set during Japan's Meiji industrialization era. Players control Zaibatsu — powerful industrial conglomerates — competing to develop factories, improve technology, ship goods abroad, and satisfy domestic demand. The game features a rich action-selection system where workers placed on the board generate resources and trigger cascading decisions about investing in new industries versus dominating market areas. Its tight resource management and deep strategic branching reward experienced players who plan across multiple turns.

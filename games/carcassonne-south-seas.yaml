@@ -1,0 +1,56 @@
+id: carcassonne-south-seas
+name: "Carcassonne: South Seas"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Family
+  - Gateway
+  - Euro
+  - Maritime
+
+evokes:
+  - Clever
+  - Complete
+  - Discovery
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus-Jürgen Wrede
+publisher:
+  - Z-Man Games
+  - Hans im Glück
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 7
+
+description: |
+  Carcassonne: South Seas is the first entry in the Carcassonne: Around the World series, reimagining the classic tile-laying game in a tropical Pacific island setting. Instead of cities, roads, and farms, players now place tiles depicting islands, bridges, and sea regions, where meeples gather bananas, shellfish, and fish respectively. A key new element is a shipping delivery system — players score points not from completing features alone but by delivering their harvested goods to visiting merchant ships, matching wares to the ship tokens revealed each round. This added economy layer makes South Seas a distinctly different experience from base Carcassonne while remaining accessible and quick to play.
+
+upgrades: []

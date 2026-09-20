@@ -1,0 +1,60 @@
+id: ta-yu
+name: "Ta Yü"
+alternate_names: ["Ta Yu"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Network Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Nicolas Neuwahl
+publisher:
+  - Goliath Games
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Ta Yü is a two-player abstract tile-placement game in which each player tries
+  to build a connected network reaching opposite sides of the board. One player
+  races to link the east and west edges; the other tries to link north and south.
+  On each turn, a player draws a tile — each tile is 3x1 with three connection
+  outlets — and decides where to place it on the expanding network. The score is
+  calculated as the product of connections reached on both target edges, so
+  players cannot afford to ignore either side. Originally published by Goliath
+  and Rio Grande Games in 1999, it is a clever spatial competition with elegant
+  tension.
+
+upgrades: []

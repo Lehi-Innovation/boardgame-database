@@ -1,0 +1,55 @@
+id: the-pursuit-of-happiness
+name: "The Pursuit of Happiness"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Agency
+  - Complete
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - David Chircop
+  - Adrian Abela
+publisher:
+  - Artipia Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  The Pursuit of Happiness is a worker placement game in which each player lives out a simulated lifetime, spending limited time tokens — the most precious resource — to take jobs, pursue projects, acquire possessions, and build relationships in search of lasting happiness. Players develop their character through three life stages, balancing short-term happiness gains against long-term investments like education and relationships. Time itself is the core constraint; every action costs time, and players who overextend burn out and age faster, shortening their life. The game's relatable theme of life choices and its light worker-placement engine make it an accessible Euro with unexpected emotional resonance. Expansions add content around community, experiences, and nostalgia.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: the-golden-ages
+name: "The Golden Ages"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Area Control
+  - Card Drafting
+  - Tile Placement
+  - Modular Board
+  - Tech Tree
+  - Euro
+  - Civilization
+  - Historical
+
+evokes:
+  - Progress
+  - Discovery
+  - Clever
+  - Wonder
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Luigi Ferrini
+publisher:
+  - Quined Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  The Golden Ages is a euro-style civilization game by Luigi Ferrini in which players guide multiple
+  civilizations across four historical eras, developing technologies, constructing buildings, erecting
+  wonders, and sending explorers to discover and colonize new continents. Each era begins with map
+  exploration, and players must adapt their civilization's focus to the era's available options.
+  The game features a modular map, a technology system reminiscent of Endeavor, and an action-point
+  selection mechanic. Players score through area majority, cultural achievements, and wonders built
+  across civilizations, rewarding both military expansion and cultural development.
+
+upgrades: []

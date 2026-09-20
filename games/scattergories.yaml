@@ -1,0 +1,52 @@
+id: scattergories
+name: "Scattergories"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Word Play
+  - Real-time
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Brian Hersch
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 13
+
+description: |
+  Scattergories is a timed word game published by Milton Bradley in 1988 in which players try to fill in 12 categories with words starting with a randomly rolled letter — and score only for unique answers that no one else has written. Each round, a 20-sided die is rolled to determine the starting letter, and players race against a 3-minute sand timer to complete their category lists. Duplicate answers are eliminated, rewarding creativity and lateral thinking. The game's simple rules and competitive scoring have made it a perennial party game staple.
+
+upgrades: []

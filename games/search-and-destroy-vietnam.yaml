@@ -1,0 +1,53 @@
+id: search-and-destroy-vietnam
+name: "Search & Destroy: Tactical Combat Vietnam 1965-1966"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Young
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Search & Destroy: Tactical Combat Vietnam 1965-1966 is a squad- and platoon-level tactical wargame designed by John Young and published by SPI in 1975, simulating non-urban combat between American forces and Viet Cong guerrillas during the early years of U.S. involvement in Vietnam. A heavily revised version of SPI's earlier Grunt game system, it improved counters, map design, and rule clarity while capturing the asymmetric nature of jungle warfare including ambushes, search operations, and the fog of guerrilla conflict. The game represents a significant advancement in the design of Vietnam-era tactical wargames.
+
+upgrades: []

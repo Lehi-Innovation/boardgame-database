@@ -1,0 +1,61 @@
+id: wreck-raiders
+name: "Wreck Raiders"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Drafting
+  - Set Collection
+  - Worker Placement
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Tension
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Tim W. K. Brown
+  - Josh Cappel
+publisher:
+  - Kids Table BG
+artist:
+  - Apolline Etienne
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Wreck Raiders is a dice-drafting and set collection game in which players lead squads of divers
+  raiding shipwrecks for sunken treasure and combing beaches for valuable seashells. Players roll
+  dice inside the box lid, then draft them to take actions, collecting finds to build museum exhibits
+  and aquariums or store them in personal vaults. The game blends accessible rules with meaningful
+  choices and is equally enjoyable for families and adult gamers alike.
+
+upgrades: []

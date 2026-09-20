@@ -1,0 +1,52 @@
+id: starfire
+name: "Starfire"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: starfire
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - 4X
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen V. Cole
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Starfire is a 1979 Task Force Games space combat wargame designed by Stephen V. Cole that emphasizes fast-playing large fleet battles. Players design every component of their starships — a distinctive feature for its era — and command fleets in scenarios ranging from basic two-ship engagements to sweeping multi-fleet conflicts. The original game featured 10 sequential two-player combat scenarios, with one player commanding humans and the other the alien Khanate. The streamlined movement system keeps both players engaged throughout, achieving high excitement per Dragon magazine's 1979 review. The game spawned multiple expansions and a rich science fiction universe of novels and supplements.
+
+upgrades: []

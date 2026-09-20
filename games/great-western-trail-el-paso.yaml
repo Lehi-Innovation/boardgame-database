@@ -1,0 +1,66 @@
+id: great-western-trail-el-paso
+name: "Great Western Trail: El Paso"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: great-western-trail
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Engine Building
+  - Route Building
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Western
+  - Historical
+  - Alexander Pfister
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Complete
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alexander Pfister
+  - Johannes Krenner
+publisher:
+  - Lookout Games
+artist:
+  - Andreas Resch
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Great Western Trail: El Paso is a standalone entry in the Great Western Trail family
+  that serves as an accessible introduction to the series while offering fresh challenges
+  for veterans. Set in the iconic border city, players drive cattle and manage their
+  ranching operation in a more compact format than the flagship games. Co-designed by
+  Alexander Pfister and Johannes Krenner, El Paso distills the core deck-building and
+  route-building pleasures of the series into a faster, travel-friendly experience suitable
+  for families and newcomers to the GWT universe.
+
+upgrades: []

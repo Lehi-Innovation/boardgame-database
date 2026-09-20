@@ -1,0 +1,56 @@
+id: dale-of-merchants
+name: "Dale of Merchants"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: dale-of-merchants
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Gateway
+  - Fantasy
+  - Animals
+
+evokes:
+  - Tension
+  - Clever
+  - Complete
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Sami Laakso
+publisher:
+  - Snowdale Design
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Dale of Merchants is a competitive deck-building game for 2–4 players from Finnish publisher Snowdale Design, in which animal folk merchants race to join the prestigious Guild of Extraordinary Traders by being the first to build eight market stalls. Players improve their starting decks by acquiring new animal species cards—each with unique abilities—but the key twist is that winning requires sacrificing cards out of your deck to construct stalls, creating a tension between building up and spending down. Every card serves multiple purposes (buying, activating abilities, or building stalls), demanding tough choices and quick adaptation throughout the brisk 20–30-minute play time.
+
+upgrades: []

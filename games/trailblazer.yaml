@@ -1,0 +1,54 @@
+id: trailblazer
+name: "Trailblazers"
+alternate_names:
+  - "Trailblazer"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Route Building
+  - Pattern Building
+  - Simultaneous Action
+  - Family
+  - Gateway
+  - Nature
+
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Lucky
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Trailblazers is a simultaneous card-drafting and route-building game published by Bitewing Games and Allplay in which players construct networks of hiking, biking, and kayaking trails. Each round players are dealt eight trail cards, draft two, arrange them in their play area to form loops, and pass the remainder — only closed loops starting and ending at a matching campsite score points, rewarding careful planning and risk-taking. The game's outdoor adventure theme, quick 30-minute playtime, and scalability up to 8 players make it an approachable gateway for families and groups.
+
+upgrades: []

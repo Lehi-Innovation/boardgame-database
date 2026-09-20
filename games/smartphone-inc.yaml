@@ -1,0 +1,55 @@
+id: smartphone-inc
+name: "Smartphone Inc."
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Action Points
+  - Economic
+  - Network Building
+  - Area Control
+  - Euro
+  - Variable Setup
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Ivan Lashin
+publisher:
+  - Cosmodrome Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Smartphone Inc. is a competitive economic eurogame for 1–5 players simulating the cutthroat world of smartphone manufacturing and global market competition. Each round, players simultaneously program their decisions using a unique layered card system, setting prices, managing production, investing in research, and expanding their sales network to regions around the world. The simultaneous programming creates delicious tension as everyone reveals at once — price wars erupt, regions get flooded, and carefully laid plans collide. Over five rounds players build their company from a modest operation to a global tech empire, and the most profitable CEO wins.
+
+upgrades: []

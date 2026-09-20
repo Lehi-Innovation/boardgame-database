@@ -1,0 +1,58 @@
+id: tank-battle-1975
+name: "Tank Battle"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Deduction
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Tank Battle is a two-player strategy game published by Milton Bradley in 1975,
+  combining elements of Battleship and Stratego in a World War II armored combat
+  setting. Players secretly deploy tanks, anti-tank guns, fuel and ammunition
+  dumps, and mines on their half of the board, then attempt to outguess and
+  outmaneuver their opponent's forces. Each turn players target positions where
+  they believe enemy tanks will move, with special one-time shots providing
+  additional tactical options. The game was only produced in 1975 and 1976 before
+  being discontinued, making complete sets increasingly collectible.
+
+upgrades: []

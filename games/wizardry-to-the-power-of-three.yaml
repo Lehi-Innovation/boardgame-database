@@ -1,0 +1,52 @@
+id: wizardry-to-the-power-of-three
+name: "Wizardry to the Power of Three"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Racing
+  - Fantasy
+  - Family
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Dread
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 6
+
+description: |
+  Wizardry to the Power of Three is a cooperative memory-based racing game for 2-6 players from Pegasus Spiele in which young wizards race through an enchanted forest to reach their school before a ghost catches them. Players must remember the paths revealed earlier to navigate safely, and cooperation is essential to keep the whole group moving forward together. With simple mechanics, cooperative play, and a magical fantasy theme, the game is well-suited as an introduction to cooperative board gaming for young children.
+
+upgrades: []

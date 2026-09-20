@@ -1,0 +1,55 @@
+id: thai-checkers
+name: "Thai checkers"
+alternate_names: ["Mak-hot", "Makhos"]
+year: 0
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Thai checkers (Mak-hot or Makhos) is the traditional Thai variant of
+  checkers, played on an 8x8 board with each player starting with eight pieces
+  at opposite ends. Like international draughts, pieces move diagonally and
+  capture by jumping over opponents, but Thai checkers features its own distinct
+  rules for kings — which can move diagonally in any direction for any distance
+  and continue capturing in any direction from behind a captured piece. The game
+  is part of a broader family of regional checkers variants played across
+  Southeast Asia and is a common recreational pastime in Thailand.
+
+upgrades: []

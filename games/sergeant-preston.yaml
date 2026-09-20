@@ -1,0 +1,50 @@
+id: sergeant-preston
+name: "Sergeant Preston"
+alternate_names: ["Sergeant Preston of the Yukon Game"]
+year: 1956
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Historical
+  - Racing
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Mystery
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Sergeant Preston is a children's board game published by Milton Bradley in 1956, based on the television series Sergeant Preston of the Yukon (1955-1958). Players take on the role of Canadian Mounties helping Sergeant Preston track and capture criminals like Weasel Willie and Klondike Pete across Yukon wilderness locations. The game involves finding "Wanted" cards and matching "Contact" cards to make captures, reflecting the simple deduction-and-movement mechanics common in TV tie-in games of the era.
+
+upgrades: []

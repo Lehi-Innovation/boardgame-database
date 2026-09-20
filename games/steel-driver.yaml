@@ -1,0 +1,54 @@
+id: steel-driver
+name: "Steel Driver"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Route Building
+  - Network Building
+  - Economic
+  - Martin Wallace
+  - Trains
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Steel Driver is a 2008 Martin Wallace auction game of railroad building and stock ownership set in 19th century North America. Each round players bid using investment cubes to control railroad companies; winning a bid grants a share in that company and the cubes bid become the budget for building that company's track. Players accumulate shares across multiple companies and score based on each company's track-building performance at game end. The elegant interaction between bidding amount, track-building budget, and share ownership creates deep decisions in a compact playing time.
+
+upgrades: []

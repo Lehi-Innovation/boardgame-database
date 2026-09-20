@@ -1,0 +1,58 @@
+id: the-game-of-fortress-and-siege
+name: "The game of fortress and siege"
+alternate_names:
+  - "Asalto"
+  - "Belagerungsspiel"
+  - "Officer and Sepoys"
+year: 1803
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  The game of fortress and siege (also known as Asalto or Belagerungsspiel) is a two-player abstract
+  strategy game appearing in Germany as early as 1803, related to the older Fox & Geese family of hunt
+  games. One player defends a fortress with two powerful officer pieces in the corner of the board, while
+  the other player commands a large force of foot soldiers attempting to capture or overwhelm the fortress.
+  The asymmetric piece powers — officers can move freely, soldiers are more restricted — create a tense
+  cat-and-mouse dynamic. The game was popular throughout the Victorian era in England and Germany and
+  remains one of the clearest early examples of asymmetric abstract gameplay.
+
+upgrades: []

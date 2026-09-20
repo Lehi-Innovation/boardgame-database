@@ -1,0 +1,56 @@
+id: awkward-guests
+name: "Awkward Guests: The Walton Case"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hand Management
+  - Set Collection
+  - Negotiation
+  - Mystery
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Discovery
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Ramón Gonzalo García
+publisher:
+  - Megacorpin Games
+artist:
+  - Samuel Gonzalo García
+  - Laura Medina Solera
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Awkward Guests: The Walton Case is a deduction murder-mystery game powered by the Brilliant Deck System, offering over 3,600 different case solutions across millions of possible card combinations. Players hold a hand of six clue cards—suspect statements, alibis, police reports, and forensic findings—and take turns interrogating witnesses, examining evidence, and strategically trading information with other players to piece together the identity of the murderer, weapon, and motive. The clever information economy ensures that sharing clues is as important as hoarding them, creating a social deduction experience that rewards careful deduction and negotiation.
+
+upgrades: []

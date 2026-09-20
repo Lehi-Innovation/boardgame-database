@@ -1,0 +1,59 @@
+id: charterstone
+name: "Charterstone"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Legacy
+  - Campaign Mode
+  - Engine Building
+  - Variable Setup
+  - Euro
+  - City Building
+  - Stonemaier Games
+  - Jamey Stegmaier
+
+evokes:
+  - Progress
+  - Discovery
+  - Complete
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist:
+  - Gong Studios
+  - Andrew Bosley
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Charterstone is a competitive legacy worker placement game from Stonemaier Games, designed by Jamey Stegmaier, in which 1-6 players build a shared village over a 12-game campaign. Each player is granted a charter — a section of the village board — where they permanently sticker new buildings that become action spaces available to all players. Opening supply crates during the campaign progressively unlocks new rules, special abilities, and narrative revelations, so each campaign develops into a unique board state. Upon completing the campaign, players retain their personalized board for replayable post-campaign games, providing lasting value. The game blends legacy permanence with approachable Euro mechanics, though it is slow to reveal its full depth early in the campaign.
+
+upgrades: []

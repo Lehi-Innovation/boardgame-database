@@ -1,0 +1,54 @@
+id: the-settlers-of-catan-mini
+name: "The Settlers of Catan - Mini"
+alternate_names: ["Catan: Traveler—Compact Edition", "Catan Mini"]
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Network Building
+  - Family
+  - Gateway
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Lucky
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Settlers of Catan Mini (Compact/Travel Edition) is a portable version of Klaus Teuber's landmark strategy game, featuring a reduced-size board with interlocking tiles and pegged roads and settlements for travel-friendly play. The game retains the full Catan rules and experience—resource production via dice, trading, building roads, settlements, and cities, and racing to ten victory points—in a smaller, more durable package suitable for play on the go. Multiple compact editions have been published by Kosmos and other distributors over the years to serve players who want the full Catan experience in a travel-ready format.
+
+upgrades: []

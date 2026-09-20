@@ -1,0 +1,55 @@
+id: white-bear-and-red-moon
+name: "White Bear and Red Moon"
+alternate_names:
+  - "Dragon Pass"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Dice Rolling
+  - Fantasy
+  - Wargame
+  - Historical
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Wonder
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Greg Stafford
+publisher:
+  - Chaosium
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  White Bear and Red Moon is a fantasy hex-and-counter wargame set in Glorantha, Greg Stafford's mythological game world that would later become the backdrop for RuneQuest. Players command the forces of the invading Lunar Empire or the defending barbarian kingdom of Sartar, with each side commanding armies of infantry, cavalry, heroes, and powerful magical units. The game blends conventional wargame mechanics with unique elements such as hero units and magical organizations drawn from Gloranthan mythology. It was the founding product of Chaosium and established the Glorantha setting that has influenced tabletop roleplaying ever since.
+
+upgrades: []

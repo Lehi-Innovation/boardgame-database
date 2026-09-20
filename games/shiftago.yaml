@@ -1,0 +1,53 @@
+id: shiftago
+name: "Shiftago"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Frank Warneke
+  - Robert Witter
+publisher:
+  - WiWa Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Shiftago is an abstract strategy game designed by Frank Warneke and Robert Witter, published by WiWa Spiele in 2017 (Spiel des Jahres recommended), in which 2–4 players insert colored glass marbles into the edges of a square board, pushing existing marbles inward. The goal is to form lines of your own color in any direction while disrupting opponents' line-forming attempts. The shifting mechanic means every insertion changes the board for all players, creating a dynamic spatial puzzle that escalates in complexity across three difficulty variants: Basic, Expert, and Extreme.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: starship-the-game-of-space-contact
+name: "Starship: The Game of Space Contact"
+alternate_names: ["Starship: The Game of Tactical Space Contact"]
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Bluffing
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Mystery
+  - Agency
+  - Clever
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Fantasy Games Unlimited
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Starship: The Game of Space Contact is a 1975 Fantasy Games Unlimited two-player tactical starship game in which one player is the Interceptor and the other the Intruder, each with a secretly chosen mission. Missions range from peaceful contact to total destruction, and violating one's orders prevents achieving a command victory. Points are awarded for strategic, command, and tactical victories based on ship damage. The emphasis is on skill, bluffing, outmaneuvering, and planning rather than luck, making it a cerebral space combat experience unusual for its era.
+
+upgrades: []

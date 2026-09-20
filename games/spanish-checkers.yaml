@@ -1,0 +1,55 @@
+id: spanish-checkers
+name: "Spanish Checkers"
+alternate_names: ["Spanish Draughts", "Damas Españolas"]
+year: 1400
+
+# Relationships
+game_family: checkers
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Family
+  - Historical
+
+evokes:
+  - Agency
+  - Masterful
+  - Clever
+  - Tension
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 10
+max_playtime: 60
+min_age: 6
+
+description: |
+  Spanish Checkers (Damas Españolas) is a traditional two-player variant of Checkers played in Spain for
+  centuries on a standard 8x8 board. Each player begins with 12 pieces on the dark squares of their three
+  home rows. Common pieces capture forward by jumping adjacent enemy pieces with an empty square beyond, while
+  Kings — formed when a piece reaches the back rank — can move diagonally in any direction across multiple
+  squares and capture at range. The objective is to capture all of the opponent's pieces or leave them with
+  no legal moves.
+
+upgrades: []

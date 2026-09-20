@@ -1,0 +1,63 @@
+id: the-great-war
+name: "The Great War"
+alternate_names:
+  - "The Great War: Centenary Edition"
+year: 2017
+
+# Relationships
+game_family: commands-and-colors
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Card Drafting
+  - Dice Rolling
+  - Hand Management
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Borg
+publisher:
+  - PSC Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  The Great War is Richard Borg's adaptation of his acclaimed Commands & Colors system to the
+  Western Front of World War I, published by PSC Games as the Centenary Edition in 2017. Players
+  use a hand of command cards to activate units in the left, center, or right sections of the
+  hexagonal battlefield, then roll custom dice to resolve combat. The trench warfare setting required
+  modifications to the classic C&C formula — units hunker into trenches for protection, artillery
+  barrages soften positions before assaults, and barbed wire slows advances. Each scenario recreates
+  a historical engagement with asymmetric forces and objectives, rewarding tactical finesse over
+  brute-force pushing.
+
+upgrades: []

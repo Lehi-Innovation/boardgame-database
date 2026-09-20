@@ -1,0 +1,59 @@
+id: space-walk
+name: "Space Walk"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Sci-Fi
+  - Space
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Ravensburger
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Space Walk is a modern mancala-style abstract strategy game designed by Rüdiger Dorn and published by
+  Ravensburger in 1999 with artwork by Franz Vohwinkel. Played on a board of 2×6 planets with black holes
+  at each end, players distribute spaceships of three sizes — small, medium, and large — across the board
+  in a mancala sowing pattern. The game ends when a player has no remaining spaceships on the board, with
+  points calculated from remaining pieces. Its colorful high-quality plastic components and accessible rules
+  made it one of the more popular modern mancala implementations.
+
+upgrades: []

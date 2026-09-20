@@ -1,0 +1,59 @@
+id: slide-5
+name: "Slide 5"
+alternate_names: ["6 Nimmt!", "Category 5"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Hand Management
+  - Take That
+  - Party
+  - Family
+  - Gateway
+  - Wolfgang Kramer
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Endless Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Slide 5 is a skiing-themed edition of the classic Wolfgang Kramer card game better known as 6 Nimmt!, published
+  by Endless Games in 2007. Each round, players simultaneously choose and reveal cards which are placed in rows in
+  ascending order; when a row reaches five cards, the sixth triggers an "Avalanche" and its player must take the
+  entire row as penalty points. Card placement follows strict ascending rules with ties broken by closest match,
+  creating a wonderful balance of prediction and chaos. Fast, tense, and brilliant for large groups.
+
+upgrades: []

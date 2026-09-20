@@ -1,0 +1,60 @@
+id: the-farming-game
+name: "The Farming Game"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Resource Management
+  - Family
+  - Agriculture
+
+evokes:
+  - Progress
+  - Lucky
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - George Rohrbacher
+publisher:
+  - Weekend Farmer Company
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 10
+
+description: |
+  The Farming Game is a 1979 economic board game designed by Washington rancher George Rohrbacher,
+  reportedly created in a single night on a scrap of drywall from his basement. Players each inherit
+  twenty acres of land — not enough to live on — so they supplement income by working in town while
+  investing in crops (hay, fruit, grain, cattle) and expanding their holdings. Operating Expense
+  cards create the constant financial pressure of real farming life: irrigation bills, seed costs,
+  equipment failures. Farmer's Fate cards add random fortune and misfortune. The winner is the first
+  to reach $250,000 in net farm assets — enough to finally quit the day job. The game is celebrated
+  for its authentic portrayal of agricultural economics and has sold steadily for decades.
+
+upgrades: []

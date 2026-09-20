@@ -1,0 +1,50 @@
+id: tummple
+name: "tummple!"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruce Shadorf
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  tummple! is an award-winning wooden block stacking game designed by Bruce Shadorf and published in 2018. Players take turns stacking cylindrical and disk-shaped wooden pieces on an ever-growing tower, trying not to cause it to collapse. With two types of pieces — Tumblers (cylinders) and Topplers (flat disks) — creating tricky balance challenges, the game is easy to learn but increasingly tense as the structure grows unstable. Published by Baxbo LLC, it won a Parents' Choice award and is popular as a party and family game for all ages.
+
+upgrades: []

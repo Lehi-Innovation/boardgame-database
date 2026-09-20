@@ -1,0 +1,56 @@
+id: valletta
+name: "Valletta"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Action Points
+  - Set Collection
+  - Euro
+  - Family
+  - Historical
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Z-Man Games
+artist:
+  - Klemens Franz
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 10
+
+description: |
+  Valletta is a deck-building game for 2–4 players set in the historic Maltese capital, the youngest city ever to hold the title of European Capital of Culture. Players build individual decks of action cards representing the city's notable citizens — merchants, guards, architects — using them to gather resources, construct buildings, and score points. What distinguishes Valletta is its flexible card-timing system: players can play cards from hand, from the top of their deck, or from their discard pile, giving remarkable control over combo execution. The result is a satisfying, medium-weight deck-builder with a distinctive structure and appealing Mediterranean theme.
+
+upgrades: []

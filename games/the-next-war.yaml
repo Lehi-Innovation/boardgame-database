@@ -1,0 +1,53 @@
+id: the-next-war
+name: "The Next War"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 2400
+min_playtime: 480
+max_playtime: 6000
+min_age: 16
+
+description: |
+  The Next War is a 1978 monster wargame designed by James F. Dunnigan and published by SPI, simulating the first 60 days of a hypothetical ground war between the Warsaw Pact and NATO in Central Europe. Published during the height of the Cold War, the game was a bestseller for SPI, reaching #1 on the company's Top Ten list and remaining there for a year after its July 1978 release. It was a finalist for two Charles S. Roberts Awards at the 1979 Origins Awards—Best Twentieth Century Game and Best Graphics—reflecting its landmark status among wargame enthusiasts. The game's SPI-level operational detail and vast scope established it as a defining example of the cold-war hypothetical wargame genre.
+
+upgrades: []

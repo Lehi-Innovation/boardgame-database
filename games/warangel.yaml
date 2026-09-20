@@ -1,0 +1,55 @@
+id: warangel
+name: "Warangel"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Unique
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Angelo Porazzi
+publisher:
+  - Angelo Porazzi Games
+artist:
+  - Angelo Porazzi
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Warangel is an Italian fantasy wargame created and illustrated by Angelo Porazzi, with the first boxed edition published in 2000 and awarded Best Italian Board Game at multiple conventions. Players command one of 120 distinct warrior races drawn from a post-nuclear Earth, each with unique abilities, battling across hex maps depicting real sectors of the globe. The "blue hole" portal system connects disparate maps into multi-board battles, adding a distinctive layer of tactical depth. A card game spin-off was later picked up by Hasbro Italy for national distribution in 2002.
+
+upgrades: []

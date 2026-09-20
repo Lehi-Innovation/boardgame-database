@@ -1,0 +1,50 @@
+id: victory-in-normandy
+name: "Victory in Normandy"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Victory in Normandy is a two-player hex-and-counter wargame covering the Allied liberation campaign in France following the D-Day landings of June 1944. Published by XTR and listed in wargaming reference databases such as Grognard.com, the game simulates operational-level combat on the Normandy front. Specific designer and publication year information is not well-documented in English-language sources; details are primarily available in specialist wargaming archives. Players command Allied or German forces as they fight for control of the crucial Normandy beachhead and breakout.
+
+upgrades: []

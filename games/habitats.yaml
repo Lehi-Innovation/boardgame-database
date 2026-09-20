@@ -1,0 +1,63 @@
+id: habitats
+name: "Habitats"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Set Collection
+  - Euro
+  - Nature
+  - Animals
+  - Family
+
+evokes:
+  - Wonder
+  - Complete
+  - Agency
+  - Clever
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Corné van Moorsel
+publisher:
+  - Allplay
+artist:
+  - Dennis Lohausen
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Habitats is a tile-drafting game where each player constructs their own wildlife park
+  without cages or fences. Animals need their natural habitats—grassland, bush, rocks, or
+  lakes—and scoring requires correctly placing them in their preferred surroundings. Each
+  turn a player takes the tile to their left, right, or front, then moves to the vacated
+  space and draws a replacement tile. The spatial movement mechanic limits tile access in
+  an elegant way, rewarding players who read the board and position themselves well for
+  future turns.
+
+upgrades: []

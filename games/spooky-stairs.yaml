@@ -1,0 +1,58 @@
+id: spooky-stairs
+name: "Spooky Stairs"
+alternate_names: ["Geistertreppe"]
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Deduction
+  - Family
+  - Horror
+
+evokes:
+  - Tension
+  - Humor
+  - Mystery
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michelle Schanen
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Spooky Stairs (known as Geistertreppe in German) is a children's memory-and-racing game designed by Michelle
+  Schanen and published by Schmidt Spiele. Players race their pawns up a haunted staircase toward the top, but
+  when a player rolls a ghost, they may cover another player's pawn with a ghost piece — a magnetic mechanism
+  that hides it from view. Players must remember which ghost hides their own figure for the rest of the game,
+  blending roll-and-move with a cunning memory element. The game won the Kinderspiel des Jahres award for
+  children's games.
+
+upgrades: []

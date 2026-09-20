@@ -1,0 +1,50 @@
+id: ultra-warrior
+name: "Ultra-Warrior"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Hex Map
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thomas Zarbock
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Ultra-Warrior is a 1981 science fiction wargame published by Task Force Games and designed by Thomas Zarbock. Set in the far future, the game features single combatants wearing powerful environmental control suits equipped with energy barriers and devastating weapons capable of altering the landscape during combat. Players maneuver their ultra-warriors across the battlefield, using their suits' capabilities strategically while managing terrain modification as part of the tactical challenge.
+
+upgrades: []

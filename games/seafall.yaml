@@ -1,0 +1,58 @@
+id: seafall
+name: "SeaFall"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Legacy
+  - Campaign Mode
+  - 4X
+  - Exploration
+  - Narrative Heavy
+  - Variable Setup
+  - Historical
+  - Maritime
+  - Rob Daviau
+
+evokes:
+  - Discovery
+  - Progress
+  - Wonder
+  - Agency
+  - Tension
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Rob Daviau
+publisher:
+  - Plaid Hat Games
+artist:
+  - Jared Blando
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  SeaFall is a legacy game by Rob Daviau set in an age-of-sail world emerging from a long dark age, where 3–5 players take on the roles of seafaring provinces competing to explore islands, exploit resources, and dominate trade routes over approximately 15 campaign sessions. Using a 4X structure (explore, expand, exploit, exterminate), each game permanently alters the board and components through stickers, sealed packet reveals, and a 430-entry Captain's Booke of narrative entries. Unlike Daviau's earlier Risk Legacy and Pandemic Legacy, SeaFall is a wholly original setting with no established ruleset to build from, offering a complete narrative arc with a defined ending.
+
+upgrades: []

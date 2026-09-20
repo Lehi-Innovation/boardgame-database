@@ -1,0 +1,59 @@
+id: spellbinder
+name: "Spellbinder"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Simultaneous Action
+  - Bluffing
+  - Fantasy
+  - Wargame
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - R. Vance Buck
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Spellbinder is a fantasy microgame designed by R. Vance Buck and published by Task Force Games in 1980. Four
+  wizards battle to conquer Yof-Pintre, the central castle on a hex board, each commanding armies from lesser
+  corner castles. The central mechanic involves simultaneously selecting spells in secret, then revealing them
+  together — spells damage enemy forces but may also backfire on the caster. Shifting alliances and clever spell
+  selection give the game surprising depth for its compact format, blending area control with bluffing in a
+  classic fantasy wargame package.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: teenage-mutant-ninja-turtles-pizza-power-game
+name: "Teenage Mutant Ninja Turtles: Pizza Power Game"
+alternate_names: ["Teenage Mutant Hero Turtles: The Power Game"]
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Discovery
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Random House
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  The Teenage Mutant Ninja Turtles: Pizza Power Game is a licensed children's
+  board game published by Random House in 1987. Players choose one of the four
+  Turtles and move around a board navigating streets and sewers, battling enemies
+  along the way. Combat is resolved using a special "flipper" launcher that
+  shoots dice into numbered compartments to determine outcomes. Players must
+  defeat three enemies, reach the Technodrome, and recover the secret Mutagen
+  to win. The game captures the action-adventure spirit of the original cartoon
+  series in a simple roll-and-move format designed for young fans.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: solarquest
+name: "Solarquest"
+alternate_names: ["SolarQuest: The Space-Age Real Estate Game"]
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Economic
+  - Negotiation
+  - Sci-Fi
+  - Space
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Valen Brost
+publisher:
+  - Valen Brost Game Company
+  - Golden
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Solarquest is a space-themed real estate trading game designed by Valen Brost and first published in 1985.
+  Patterned after Monopoly, players pilot rocket ships across the solar system, buying planets and moons and
+  building fuel stations to charge opponents for refueling. Red Shift cards direct ships to specific destinations,
+  and optional laser combat and dwindling fuel supplies add peril beyond simple property accumulation. Its solar
+  system setting and sci-fi trappings gave the Monopoly formula a memorable educational gloss about the planets
+  and their moons.
+
+upgrades: []

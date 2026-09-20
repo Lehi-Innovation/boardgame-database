@@ -1,0 +1,54 @@
+id: sillage
+name: "Sillage"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Sci-Fi
+  - Aliens
+  - Space
+  - Euro
+
+evokes:
+  - Discovery
+  - Clever
+  - Progress
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Patrick Renault
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Sillage is a card game designed by Patrick Renault and published by Asmodee in 2003, inspired by the French science fiction comic book series of the same name. Each turn, a new planet card is revealed and players are dealt alien race cards wanting to colonize it; players lay cards matching the planet's required characteristics to successfully settle alien colonies and score points. The game rewards reading the distribution of resources in your hand and adapting your colonization strategy to each planet's specific demands across the sci-fi universe of the Sillage armada.
+
+upgrades: []

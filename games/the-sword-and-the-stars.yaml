@@ -1,0 +1,50 @@
+id: the-sword-and-the-stars
+name: "The Sword and the Stars"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Wargame
+  - Area Control
+  - Space
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Sword and the Stars is a science fiction space opera board game in which players command interstellar empires competing for dominance across the stars. Blending military conquest with the thematic grandeur of space opera, the game features fleet combat, planetary control, and imperial expansion mechanics. Specific publisher and designer details are limited due to the game's obscurity as a vintage science fiction wargame title.
+
+upgrades: []

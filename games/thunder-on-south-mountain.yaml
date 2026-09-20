@@ -1,0 +1,52 @@
+id: thunder-on-south-mountain
+name: "Thunder on South Mountain"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Blue Guidon
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Thunder on South Mountain is a tactical wargame simulating the American Civil War Battle of South Mountain in Maryland, fought on September 14, 1862—a prelude to the Battle of Antietam. Two players command Union and Confederate forces at the brigade level, fighting for control of the mountain gaps along the National Road. The game won the 2003 Charles S. Roberts Award for Best Desktop Publishing Produced Board Game, recognizing it as an outstanding example of independently produced wargame design. It offers a detailed recreation of this often-overlooked but strategically significant engagement of the Maryland Campaign.
+
+upgrades: []

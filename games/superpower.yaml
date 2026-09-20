@@ -1,0 +1,60 @@
+id: superpower
+name: "Superpower"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Wargame
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - E. Bruce Hollands
+  - Daniel R. McGregor
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Superpower is a Cold War political and military strategy game published by
+  Games Workshop in 1986. Players choose one of six superpowers — including
+  the USA, USSR, People's Republic of China, and three regional blocs — and
+  compete to control Third World countries through propaganda, coup d'état,
+  military intervention, and diplomatic maneuvering. The game uses world
+  opinion as a resource, making reckless military action costly, while
+  special cards and a roll-and-move track add variability to the geopolitical
+  struggle. The winner controls the most Third World nations by game's end.
+
+upgrades: []

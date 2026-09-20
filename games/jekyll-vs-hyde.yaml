@@ -1,0 +1,59 @@
+id: jekyll-vs-hyde
+name: "Jekyll vs. Hyde"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Asymmetric
+  - Hand Management
+  - Horror
+  - Mystery
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Geonil
+publisher:
+  - Mandoo Games
+artist:
+  - Mathieu Leyssenne
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Jekyll vs. Hyde is an asymmetric two-player trick-taking game based on the classic
+  Robert Louis Stevenson novel. Dr. Jekyll seeks balance—winning and losing tricks in
+  roughly equal measure—while Mr. Hyde strives for dominance. Variable suit rankings
+  and special potion cards with unique effects twist the traditional trick-taking formula,
+  creating a game that feels nothing like its inspirations. The stark asymmetry means
+  each side of the table demands completely different strategies and mental models.
+
+upgrades: []

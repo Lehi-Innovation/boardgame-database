@@ -1,0 +1,53 @@
+id: chakra
+name: "Chakra"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Drafting
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Complete
+  - Clever
+  - Tension
+  - Wonder
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Luka Krleza
+publisher:
+  - BLAM!
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 35
+min_age: 8
+
+description: |
+  Chakra is an abstract strategy game for 2–4 players from publisher BLAM! in which players channel energy through their personal chakra boards, drafting colored gem tokens and sliding them through rows to build complete, harmonious energy centers. Players must carefully manage the flow of gems—pushing new ones in from one end cascades existing gems through the board—while racing to align seven chakras before their opponents. The elegant push-slide mechanism and vibrant components make Chakra a visually striking and mentally satisfying light abstract.
+
+upgrades: []

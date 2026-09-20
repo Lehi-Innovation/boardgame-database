@@ -1,0 +1,64 @@
+id: dragon-castle
+name: "Dragon Castle"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Drafting
+  - Abstract
+  - Family
+  - Ancient
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Hjalmar Hach
+  - Luca Ricci
+  - Lorenzo Silva
+publisher:
+  - Horrible Guild
+artist:
+  - Lorenzo Mastroianni
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Dragon Castle is a tile-drafting and set-collection game freely inspired by Mahjong
+  Solitaire. Players take matching tiles from the central 3D castle structure and use them
+  to build their own personal realm, scoring points by creating sets of the same color and
+  constructing shrines. As the castle collapses tile by tile, new decisions emerge about
+  which tiles to take and where to place them. The game's elegant simplicity, beautiful
+  3D castle centerpiece, and satisfying pattern-building make it a visually striking and
+  accessible game for all ages.
+
+upgrades: []

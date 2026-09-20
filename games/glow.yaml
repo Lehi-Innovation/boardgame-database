@@ -1,0 +1,61 @@
+id: glow
+name: "Glow"
+alternate_names:
+  - "Lueur"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Card Drafting
+  - Set Collection
+  - Press Your Luck
+  - Fantasy
+  - Family
+
+evokes:
+  - Lucky
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Cédrick Chaboussit
+publisher:
+  - Bombyx
+artist:
+  - Jérémie Fleury
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Glow is a competitive dice-rolling and card-drafting game set in a fantastical glowing
+  world. Over eight rounds, players roll dice and draft combinations of character and
+  ability cards, seeking to create the most potent combos. The game blends push-your-luck
+  decisions with strategic set collection, as players weigh the value of their current
+  dice results against the cards available. The beautiful luminescent art and accessible
+  mechanics make it a strong choice for families and casual players.
+
+upgrades: []

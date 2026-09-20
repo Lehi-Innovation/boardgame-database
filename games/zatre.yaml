@@ -1,0 +1,57 @@
+id: zatre
+name: "Zatre"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Set Collection
+  - No Math
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Masterful
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Manfred Schuling
+publisher:
+  - Peri Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Zatre (short for Zahlen und Treppen — numbers and steps) is a tile-placement game that plays
+  like Scrabble with numbers. Players draw and place two tiles on the board each turn, extending
+  existing patterns. When a vertical or horizontal line of tiles totals 10, 11, or 12, the player
+  scores 1, 2, or 4 points accordingly. The game has maintained an active following in Europe for
+  over 30 years and hosts annual championships.
+
+upgrades: []

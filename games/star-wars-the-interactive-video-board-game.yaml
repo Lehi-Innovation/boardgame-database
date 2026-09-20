@@ -1,0 +1,50 @@
+id: star-wars-the-interactive-video-board-game
+name: "Star Wars: The Interactive Video Board Game"
+alternate_names: ["Star Wars: The Interactive Video Board Game – Assault on the Death Star"]
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Discovery
+  - Agency
+  - Unique
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Star Wars: The Interactive Video Board Game is a 1996 Parker Brothers board game incorporating a VHS tape featuring newly filmed footage of Darth Vader on the original Death Star set, performed by David Prowse with narration by James Earl Jones. Players join the Rebel Alliance in a mission to destroy the reconstructed Death Star before it reaches the moon of Endor. The game notably resulted in the canonization of four new Star Wars characters and features extensive rule components for its era.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: skyrise
+name: "Skyrise"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - City Building
+  - Roxley Games
+
+evokes:
+  - Clever
+  - Rivalry
+  - Complete
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Adam Wyse
+  - Gavan Brown
+  - Sébastien Pauchon
+publisher:
+  - Roxley Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 75
+min_age: 14
+
+description: |
+  Skyrise is a 2024 spatial auction game by Adam Wyse, Gavan Brown, and Sébastien Pauchon, published by Roxley Games, set across a modular archipelago of islands where players compete to build the most impressive architectural skyline. Players use a spatial auction system to claim building sites on the islands, earning favor across factions, scoring secret and public objectives, courting mysterious Patrons, and constructing their own unique Wonder. The combination of area-majority scoring, auction mechanics, and variable end-game objectives creates a rich decision space that rewards both tactical bids and long-term strategic vision.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: shasn
+name: "Shasn"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Deck Building
+  - Negotiation
+  - Variable Player Powers
+  - Economic
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Persuasion
+  - Unique
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Zain Memon
+publisher:
+  - Memesys Culture Lab
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Shasn is a political strategy board game designed by Zain Memon in which 3–5 players contest elections by controlling territories, managing resources, and answering ethical political dilemmas that shape their character's ideology. Players build custom decks based on their political stances — from promises to propaganda — and deploy them to win voter support across a contested map. The game has attracted both critical acclaim for its thematic depth and controversy for its frank engagement with political manipulation and modern electoral dynamics.
+
+upgrades: []

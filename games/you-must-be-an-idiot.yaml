@@ -1,0 +1,57 @@
+id: you-must-be-an-idiot
+name: "You Must Be an Idiot!"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Deduction
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Persuasion
+  - Lucky
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Stephen Glenn
+publisher:
+  - R&R Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  You Must Be an Idiot! is a trivia bluffing party game in which a rotating "genius" poses a
+  question to the group, but some players are secretly designated as "idiots" and must give a
+  wrong answer. Scoring rewards getting the right answer when you're not an idiot, correctly
+  accusing an idiot, and successfully avoiding detection when you are the idiot. The combination
+  of genuine trivia knowledge and social bluffing creates a lively guessing game for groups.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: shovel-board
+name: "Shovel Board"
+alternate_names: ["Shovelboard", "Shove Ha'penny"]
+year: 1532
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Masterful
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Shovel Board (or Shovelboard) is a traditional English table game dating back to at least 1532, when records show Henry VIII playing "shovillabourde" for stakes. Players slide heavy metal weights down a long narrow table (historically up to 30 feet) attempting to land them past a scoring line near the far end without falling off. The player whose weight rests nearest the end scores the round. While the original courtly game fell out of use, it spawned descendants including Dutch Sjoelbak and North American Shuffleboard, which remain popular today.
+
+upgrades: []

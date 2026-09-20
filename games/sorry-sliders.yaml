@@ -1,0 +1,55 @@
+id: sorry-sliders
+name: "Sorry! Sliders"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+  - Take That
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Sorry! Sliders is a dexterity variant of the classic Sorry! franchise published by Hasbro. Players slide
+  roller pawns down a track onto a shared target board, aiming for the bullseye center for the highest score.
+  Bumping opponents' pawns away from valuable scoring circles adds a satisfying interactive element. Points
+  scored from landing on circles move scoring pawns toward Home, and the first player to get all four scoring
+  pawns home wins in this compact, tactile family game.
+
+upgrades: []

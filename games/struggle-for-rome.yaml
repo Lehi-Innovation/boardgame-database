@@ -1,0 +1,55 @@
+id: struggle-for-rome
+name: "Struggle for Rome"
+alternate_names: ["Catan Histories: Struggle for Rome"]
+year: 2006
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Resource Management
+  - Trading
+  - Euro
+  - Historical
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Progress
+  - Agency
+  - Powerful
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Struggle for Rome is a 2006 Klaus Teuber board game (part of the Catan Histories series) set during the fall of the Western Roman Empire. Players lead Germanic tribes marching on Rome, moving armies across a map to pillage cities and gather resources. Like Settlers of Catan, resource production is triggered by dice rolls matching adjacent number tokens. Players progress through a nomadic phase of gathering wealth and then a settlement phase of anchoring dominance over conquered territories. The familiar Catan resource engine is recast in a rich historical setting of migration, conquest, and civilization's collapse.
+
+upgrades: []

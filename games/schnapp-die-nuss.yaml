@@ -1,0 +1,51 @@
+id: schnapp-die-nuss
+name: "Schnapp die Nuss!"
+alternate_names: ["Grab the Nut"]
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Animals
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Schnapp die Nuss! (Grab the Nut!) is a children's board game published by Schmidt Spiele in 2017 in which little squirrels race to collect as many hazelnuts as possible without being caught by the mother squirrel. Players roll dice and move their squirrel to a matching colored space, and may also move the mother squirrel to chase others. The simple dice-movement mechanics and cute squirrel theme make it an accessible and charming game for young children learning turn-based play.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: thud
+name: "Thud"
+alternate_names: ["Thud! The Discworld Board Game"]
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+  - Area Control
+  - Fantasy
+  - Cult Classic
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Trevor Truran
+publisher:
+  - Discworld Emporium
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Thud is a 2002 asymmetric abstract strategy game designed by Trevor Truran, inspired by Terry Pratchett's Discworld novels and named by Pratchett himself. Two players take opposing sides—the smaller but powerful Troll and the more numerous but weaker Dwarfs—battling on an octagonal board across a grid of squares. The game draws on ancient Norse Hnefatafl-style asymmetric capture games but radically redesigns the balance to make competition genuinely even. Referenced in Pratchett's "Going Postal" and central to the novel "Thud!", the game occupies a unique place in literary gaming culture as a functional and beautifully designed abstract that emerged directly from fictional worldbuilding.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: starfighter
+name: "Starfighter"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Deck Building
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stéphane Boudin
+publisher:
+  - Ystari Games
+artist:
+  - Arnaud Demaegd
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 13
+
+description: |
+  Starfighter is a 2015 two-player space combat card game by Stéphane Boudin published by Ystari Games. Each player commands a capital ship, launching waves of fighters represented by cards that trigger abilities whenever they become visible at the edge of a row — creating a distinctive "sliding reveal" mechanic where playing or moving cards can uncover new ability icons. Three game modes are included: a stripped-down introductory Initiation mode, a more complete Skirmish mode, and a Total War deck-building variant where players construct their own decks. Published to high production standards with thick linen-finish cards and wooden tokens.
+
+upgrades: []

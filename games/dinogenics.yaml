@@ -1,0 +1,57 @@
+id: dinogenics
+name: "DinoGenics"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Set Collection
+  - Dice Rolling
+  - Events
+  - Variable Setup
+  - Sci-Fi
+  - Animals
+  - Euro
+
+evokes:
+  - Progress
+  - Tension
+  - Wonder
+  - Agency
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Richard Keene
+publisher:
+  - Ninth Haven Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  DinoGenics is a worker placement game for 1–4 players in which players compete to build the most profitable dinosaur park by cloning and housing prehistoric creatures across a player board of expanding enclosures. Players send workers to gather DNA, construct facilities, hire staff, and acquire dinosaurs—but events can trigger escapes and chaos if parks are poorly managed, creating thrilling moments of near-disaster. Designed and self-published by Richard Keene through a successful Kickstarter campaign, the game combines the satisfying park-building puzzle of tile placement with set collection scoring and a rich Jurassic theme.
+
+upgrades: []

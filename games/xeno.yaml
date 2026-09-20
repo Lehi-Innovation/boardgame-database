@@ -1,0 +1,56 @@
+id: xeno
+name: "Xeno"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Social Deduction
+  - Deduction
+  - Party
+
+evokes:
+  - Tension
+  - Clever
+  - Mystery
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+description: |
+  Xeno is a Japanese card game similar in structure to Love Letter, in which each player holds a
+  single card at a time, drawing and discarding each turn according to each card's power. Character
+  cards include the Emperor, who seeks to execute the Hero, the Death card representing an
+  infectious disease, the Spirit, and other archetypal roles, each with distinct effects on rivals.
+  The game's psychological tension comes from deducing opponents' identities while concealing
+  your own, creating quick but memorable confrontations.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: suburbia
+name: "Suburbia"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Engine Building
+  - Economic
+  - Euro
+  - City Building
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Complete
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ted Alspach
+publisher:
+  - Bézier Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Suburbia is a 2012 tile-laying city-building game by Ted Alspach published by Bézier Games. Players build towns using hex-shaped building tiles representing residential, commercial, civic, and industrial zones as well as special points of interest. Each tile placed modifies income and reputation — income determines spending power, while reputation drives population growth — and the player with the largest population at game end wins. Players must also achieve secret borough goals while managing interactions with neighboring towns. A winner of the Mensa Select award, Suburbia rewards thoughtful planning and engine optimization.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: the-one-world
+name: "The One World"
+alternate_names: ["The One World: A Strategic Game of the Aztecs, 1426-1501"]
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Negotiation
+  - Historical
+  - Ancient
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Peter Hollinger
+  - Stephen Newberg
+publisher:
+  - Simulations Canada
+artist:
+  - John Kula
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  The One World is a 1984 Aztec Empire wargame published by Simulations Canada in a limited run of 1000 copies, designed by Peter Hollinger and Stephen Newberg. Four to six players command the competing nations of the Mexican Basin—Tepanscapan, Acolhuacan, Tlahuican, Chalco, Tlateputzco, and Mexica—across the period 1426-1501, vying for dominance through military conquest, religion, and political maneuvering. The game captures the complex multipower dynamics of pre-Columbian Mesoamerica leading up to the rise of the Aztec Triple Alliance. Its rarity and the uniqueness of its historical setting make it prized among collectors of vintage wargames.
+
+upgrades: []

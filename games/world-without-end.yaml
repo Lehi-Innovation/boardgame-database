@@ -1,0 +1,56 @@
+id: world-without-end
+name: "World Without End"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Resource Management
+  - Set Collection
+  - Events
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Rieneck
+  - Stefan Stadler
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  World Without End is a resource management board game based on Ken Follett's sequel to The Pillars of the Earth, set in the medieval city of Kingsbridge. Players act as citizens managing five areas of civic life — Building, Trading, Religion, Feeding the poor, and Medical Knowledge — using a hand of twelve action cards shared by all players. Each turn an event card determines which actions are available, while players compete to earn victory points through construction, charitable works, and developing their knowledge. The literary setting and event-driven structure give the game a narrative quality unusual in Euro games of the era.
+
+upgrades: []

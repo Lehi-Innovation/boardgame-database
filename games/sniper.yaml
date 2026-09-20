@@ -1,0 +1,59 @@
+id: sniper
+name: "Sniper!"
+alternate_names: ["Sniper! House-to-House Fighting in World War II"]
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Programmed Movement
+  - Simultaneous Action
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James Dunnigan
+publisher:
+  - SPI
+artist:
+  - Rodger B. MacGowan
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Sniper! is a two-player board wargame designed by James Dunnigan and published by Simulations Publications Inc.
+  (SPI) in 1973, simulating man-to-man combat in World War II urban environments at a ground scale of two metres
+  per hex. Notably the first commercial tactical wargame to treat individual WWII infantry combat, it featured
+  a simultaneous movement system where both players pre-plot orders before revealing and resolving actions together.
+  Multiple editions were published, including a Designer's Edition with mounted mapboards, and the game influenced
+  an entire generation of tactical wargaming design.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: la-isla
+name: "La Isla"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Nature
+  - Stefan Feld
+
+evokes:
+  - Discovery
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Ravensburger
+  - Alea
+artist:
+  - Alexander Jung
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  La Isla is a 2-4 player card-driven exploration game by Stefan Feld, published by Ravensburger's alea imprint in 2014. Players are explorers on a mysterious island populated with rare extinct animals — dodo birds, giant fossas, and Sardinian pikas — competing to capture the most specimens. The board is constructed from a central 10-sided island piece and interlocking spoke-like segments offering over 100,000 possible layouts. Each turn, players play cards to simultaneously serve three functions: gaining resources, modifying ongoing powers, or placing workers, with the three-card hand forcing difficult choices about which function to activate each round. La Isla was Feld's 20th game design and stands as an accessible entry into his work.
+
+upgrades: []

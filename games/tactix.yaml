@@ -1,0 +1,56 @@
+id: tactix
+name: "TacTix"
+alternate_names: []
+year: 1958
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Piet Hein
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  TacTix is a two-player abstract strategy game invented by Danish polymath
+  Piet Hein — also known for creating the game Hex — in the late 1940s. It is
+  a two-dimensional variation of Nim, played on a 4x4 (or larger) grid of
+  tokens; players take turns removing one or more tokens from a single row or
+  column, and the player forced to take the last token loses. TacTix was
+  popularized in recreational mathematics by Martin Gardner's February 1958
+  Scientific American column, making it a beloved puzzle challenge among
+  mathematicians and abstract game enthusiasts.
+
+upgrades: []

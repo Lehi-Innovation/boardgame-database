@@ -1,0 +1,51 @@
+id: too-many-monkeys
+name: "Too Many Monkeys"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - Party
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Complete
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 25
+min_age: 6
+
+description: |
+  Too Many Monkeys is a silly card game published by Gamewright in which players help Primo the elephant chase away mischievous primates by flipping and swapping number cards in ascending order. Wild monkey cards can clear the room in one sweep, while elephant and giraffe special cards add chaos and fun. The first player to get all their cards in order and send Primo back to bed wins, making it an easy and entertaining game for young children and families.
+
+upgrades: []

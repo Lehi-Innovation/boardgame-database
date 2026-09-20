@@ -1,0 +1,58 @@
+id: red-rising
+name: "Red Rising"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Tableau Building
+  - Variable Player Powers
+  - Sci-Fi
+  - Euro
+  - Stonemaier Games
+  - Jamey Stegmaier
+
+evokes:
+  - Clever
+  - Progress
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Alexander Schmidt
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+description: |
+  Red Rising is a competitive hand-management and combo-building card game for 1–6 players inspired by Pierce Brown's dystopian sci-fi novel series. Players draft cards from a central "The Citadel" tableau, placing them into their personal tableau to activate powerful card synergies, while strategically managing when to pick up cards versus play them for points. The game distills the politics and faction rivalry of the source material into tight decisions: each of the 60 unique character cards has a special ability that interacts with the others, rewarding players who build clever combinations. Designed by Jamey Stegmaier and Alexander Schmidt, it plays in under an hour with a satisfying depth-to-weight ratio.
+
+upgrades: []

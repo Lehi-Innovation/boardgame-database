@@ -1,0 +1,55 @@
+id: mythic-battles-ragnarok
+name: "Mythic Battles: Ragnarök"
+alternate_names: ["Mythic Battles: Ragnarok"]
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Dice Rolling
+  - Area Control
+  - Hand Management
+  - Campaign Mode
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Mythology
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Discovery
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Benoit Vogt
+publisher:
+  - Monolith
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Mythic Battles: Ragnarök is a 2-4 player miniature skirmish game set in Norse mythology, published by Monolith in 2023. Players draft a mighty force — choosing a god or titan as their divinity, then adding monsters, heroes, and troops — and battle across dynamic scenarios. The card-driven drafting mechanic ensures every force is unique, while dice and hand management govern combat. The game can be played as a standalone skirmish or as part of an extended campaign of interconnected scenarios, rewarding deep tactical play with beautifully sculpted miniatures and thematic Norse encounters.

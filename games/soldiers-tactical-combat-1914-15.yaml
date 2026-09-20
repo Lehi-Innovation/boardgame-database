@@ -1,0 +1,56 @@
+id: soldiers-tactical-combat-1914-15
+name: "Soldiers: Tactical Combat in 1914-15"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Soldiers: Tactical Combat in 1914–15 is a two-player board wargame published by SPI in 1972, simulating
+  the early mobile phase of World War I before the onset of trench warfare. On a hex map scaled at 100 metres
+  per hex, players command forces of six nations — British, French, Russian, Belgian, German, and Austro-Hungarian
+  — in ten-minute turns of move-and-fire. Unusually, attacking fire is compared against the defending unit's
+  terrain rather than its strength, rewarding positional awareness. The game is credited as an influential
+  predecessor to Sniper! and Squad Leader, establishing the tactical wargame lineage at SPI.
+
+upgrades: []

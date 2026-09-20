@@ -1,0 +1,53 @@
+id: tobago
+name: "Tobago"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Deduction
+  - Set Collection
+  - Family
+  - Euro
+  - Adventure
+  - Mystery
+
+evokes:
+  - Discovery
+  - Mystery
+  - Tension
+  - Clever
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Tobago is a treasure-hunting deduction game played on a beautifully modular three-dimensional island board where players hold fragments of treasure maps. On each turn, players add clue cards to partially revealed treasure locations, progressively narrowing down where each treasure is buried until someone finds and claims it. The inverse deduction mechanic — where players contribute information to locate treasures they then race to claim — creates a tense balance between sharing knowledge and protecting your position, earning the game widespread critical acclaim on its release.
+
+upgrades: []

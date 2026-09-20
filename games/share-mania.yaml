@@ -1,0 +1,52 @@
+id: share-mania
+name: "Share Mania"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Trading
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Julian Musgrave
+publisher:
+  - Perfect Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Share Mania is a stock market simulation board game designed by Julian Musgrave and published by Perfect Games in 1988, in which 2–8 players begin with a 100,000 stake and trade shares in four fictional companies by rolling special dice. Company Dice select which stock to trade and Share Dice determine the volume, with each transaction moving prices up or down on the board tracker. The first player to reach one million in total assets wins, with an advanced variant adding loans, put options, and random market events for greater realism.
+
+upgrades: []

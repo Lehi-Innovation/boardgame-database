@@ -1,0 +1,53 @@
+id: starforce-alpha-centauri
+name: "Starforce: Alpha Centauri"
+alternate_names: ["StarForce: Alpha Centauri – Interstellar Conflict in the 25th Century"]
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Programmed Movement
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [1, 2, 3]
+true_counts: [2]
+
+designer:
+  - Redmond A. Simonsen
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  StarForce: Alpha Centauri is a 1974 SPI science fiction wargame designed and illustrated by Redmond A. Simonsen — the first mass-market science fiction board wargame, and a bestseller that appeared on SPI's Top 10 list 14 times. Players maneuver fleets of Telesthetically-operated ships across a hex grid spanning 74 star systems within 40 light years of Earth. All movement is pre-plotted and resolved simultaneously, with ship vertical positions and fleet sizes kept secret until combat is triggered. The game's scenarios range from basic to advanced and solo play, and it directly inspired the spin-offs Outreach (1976) and StarSoldier (1977).
+
+upgrades: []

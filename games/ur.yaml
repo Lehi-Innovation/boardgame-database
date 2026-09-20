@@ -1,0 +1,52 @@
+id: ur
+name: "Ur"
+alternate_names:
+  - "Royal Game of Ur"
+  - "Game of Twenty Squares"
+year: -2600
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Abstract
+  - Ancient
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  The Royal Game of Ur is one of the oldest known board games in history, dating to approximately 2600–2400 BC and discovered by British archaeologist Sir Leonard Woolley during excavations of the Royal Cemetery at Ur. It is a two-player race game in which each player moves pieces along a shared path of twenty squares, using tetrahedral dice to determine movement. Players can capture opponent pieces and send them back to the start, while landing on rosette squares grants safety and an extra turn. Rules were reconstructed by British Museum curator Irving Finkel from a Babylonian clay tablet. The game was popular across the ancient Middle East and carries cultural and divinatory significance.
+
+upgrades: []

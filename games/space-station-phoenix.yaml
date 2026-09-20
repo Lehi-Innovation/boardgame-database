@@ -1,0 +1,53 @@
+id: space-station-phoenix
+name: "Space Station Phoenix"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Variable Player Powers
+  - Euro
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Gabriel J. Cohn
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 14
+
+description: |
+  Space Station Phoenix is a worker-placement and engine-building game for 2-4 players designed by Gabriel J. Cohn. Players begin with the best production engine they will ever have — a full complement of nine ships — then systematically break it down to build a space station piece by piece. As ships are converted, actions become more efficient but fewer options remain, creating an elegant tension between maximizing the present and building for the future. A shared Diplomacy board means every player's actions generate small benefits for opponents based on track positions, encouraging tight tactical awareness throughout.

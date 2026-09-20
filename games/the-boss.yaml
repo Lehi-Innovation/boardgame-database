@@ -1,0 +1,52 @@
+id: the-boss
+name: "The Boss"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Bluffing
+  - Simultaneous Action
+  - Family
+  - Filler
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Bluffing
+  - Lucky
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  The Boss is a compact card game of crime syndicate territory control designed by Alain Ollier and published by Blackrock Editions in 2015. Players simultaneously send their gangsters to control city districts, but if too many gangsters from different factions show up at the same location, a fight breaks out and the winner claims the territory. Bluffing, reading opponents' intentions, and deciding when to contest key locations versus when to take easy wins creates surprising depth in a small, quick package. The Boss plays in under 30 minutes and works well as a filler or warm-up game.
+
+upgrades: []

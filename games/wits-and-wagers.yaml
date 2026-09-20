@@ -1,0 +1,54 @@
+id: wits-and-wagers
+name: "Wits & Wagers"
+alternate_names:
+  - "Wits and Wagers"
+year: 2005
+
+# Relationships
+game_family: wits-and-wagers
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Press Your Luck
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dominic Crapuchettes
+publisher:
+  - North Star Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Wits & Wagers is an award-winning party trivia game for 3-7 players (or teams) in which players write numerical answers to trivia questions and then bet chips on the answer they believe is closest to correct without going over. Unlike traditional trivia games, you don't need to know the exact answer — you just need to know who at the table is most likely to be right and wager accordingly. The betting mechanic allows knowledgeable and lucky players alike to succeed, making it accessible and engaging for mixed groups. It has won over 20 awards including the Mensa Select.
+
+upgrades: []

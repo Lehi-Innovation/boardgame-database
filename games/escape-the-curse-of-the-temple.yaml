@@ -1,0 +1,62 @@
+id: escape-the-curse-of-the-temple
+name: "Escape: The Curse of the Temple"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Dice Rolling
+  - Tile Placement
+  - Modular Board
+  - Family
+  - Fantasy
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Dread
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Kristian Amundsen Østby
+publisher:
+  - Queen Games
+artist:
+  - Zbigniew Umgelter
+playtime_minutes: 10
+min_playtime: 10
+max_playtime: 15
+min_age: 8
+
+description: |
+  Escape: The Curse of the Temple is a frenetic real-time cooperative game played
+  simultaneously by all players, accompanied by a dramatic 10-minute soundtrack that
+  acts as the clock. Players roll dice to move through a modular, self-building temple,
+  collecting gems and unlocking the exit before the music ends. If even one player fails
+  to escape, everyone loses. The combination of real-time pressure, simultaneous play,
+  and cooperative urgency creates a uniquely chaotic and exhilarating experience unlike
+  any other game on the market.
+
+upgrades: []

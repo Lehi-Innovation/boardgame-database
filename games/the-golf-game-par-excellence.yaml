@@ -1,0 +1,56 @@
+id: the-golf-game-par-excellence
+name: "The Golf Game: Par Excellence"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Simulation
+  - Family
+
+evokes:
+  - Lucky
+  - Agency
+  - Tension
+  - Clever
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher:
+  - Challenge
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  The Golf Game: Par Excellence is a 1985 golf simulation board game published by Challenge sprl,
+  available in multilingual editions covering English, Dutch, French, German, and Italian. Players
+  simulate an 18-hole round of golf using nine large double-sided laminated maps representing golf
+  holes, and 13 specialized "club" dice — one for each type of club — along with a directional die
+  and a hazard die. Players select their club, declare shot shape (straight, draw, or fade), and
+  roll to determine outcomes. The system captures the tactical decision-making of real golf club
+  selection in an accessible tabletop format.
+
+upgrades: []

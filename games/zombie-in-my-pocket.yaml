@@ -1,0 +1,58 @@
+id: zombie-in-my-pocket
+name: "Zombie in My Pocket"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Dice Rolling
+  - Zombies
+  - Horror
+
+evokes:
+  - Dread
+  - Tension
+  - Lucky
+  - Agency
+  - Mystery
+
+possible_counts: [1, 2]
+true_counts: [1]
+
+designer:
+  - Jeremiah Lee
+publisher:
+  - Cambridge Games Factory
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Zombie in My Pocket is a compact solitaire or cooperative card game in which a lone survivor
+  must navigate a zombie-infested neighbourhood, searching for the ancient totem needed to end
+  the zombie plague. Tiles are drawn to reveal locations filled with zombies, items, and encounters,
+  and the protagonist must survive long enough to bury the totem. Originally developed as a
+  print-and-play game, it won the 2010 Golden Geek Best Print & Play Board Game award before
+  receiving a retail release.
+
+upgrades: []

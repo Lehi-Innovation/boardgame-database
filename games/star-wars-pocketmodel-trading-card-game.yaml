@@ -1,0 +1,51 @@
+id: star-wars-pocketmodel-trading-card-game
+name: "Star Wars PocketModel Trading Card Game"
+alternate_names: ["Star Wars PocketModel TCG"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Discovery
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mike Elliott
+  - Ethan Pasternack
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Star Wars PocketModel Trading Card Game is a 2007 WizKids game blending constructable starship miniatures with trading card game deck building. Each game pack contained styrene cards that players punched out and assembled into 3D starships, plus game cards, micro dice, and complete rules. Players build fleets from different Star Wars eras and factions, mixing and matching units freely, and engage in space and ground battles using cards as both units and action modifiers. The game was discontinued in November 2008 when Topps shut down WizKids operations.
+
+upgrades: []

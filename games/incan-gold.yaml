@@ -1,0 +1,64 @@
+id: incan-gold
+name: "Incan Gold"
+alternate_names:
+  - "Diamant"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Simultaneous Action
+  - Set Collection
+  - Family
+  - Party
+  - Filler
+  - Alan R. Moon
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Agency
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+designer:
+  - Bruno Faidutti
+  - Alan R. Moon
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Julien Delval
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Incan Gold is a quick and thrilling push-your-luck game where players simultaneously
+  decide each turn whether to press deeper into a ruined temple or retreat to safety with
+  their accumulated treasure. Each round a card is flipped from the deck—it either reveals
+  more riches shared among remaining explorers, or a hazard that causes everyone still inside
+  to lose their unbanked loot. The tension of watching others leave (and taking their share
+  of the gold) or stay (risking the same hazard twice) makes every decision agonizing and
+  hilarious for 3-8 players.
+
+upgrades: []

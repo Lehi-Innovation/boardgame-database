@@ -1,0 +1,54 @@
+id: cloud-city
+name: "Cloud City"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Network Building
+  - Pattern Building
+  - Family
+  - Gateway
+  - City Building
+
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 8
+
+description: |
+  Cloud City is a tile-placement and network-building game for 2–4 players designed by Phil Walker-Harding, in which players compete as city architects to create the most impressive sky city by placing tiles and connecting buildings with walkways. Each turn players add a tile from their hand to their growing city, then build walkways between buildings—longer walkways earn more city council votes. The 3D buildings and colorful tiles make the game visually striking, while the walkway scoring creates satisfying network-building decisions that are easy to teach but reward careful planning.
+
+upgrades: []

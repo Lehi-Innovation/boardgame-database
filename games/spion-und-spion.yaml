@@ -1,0 +1,57 @@
+id: spion-und-spion
+name: "Spion & Spion"
+alternate_names: ["Spy vs Spy board game"]
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Take That
+  - Bluffing
+  - Family
+  - Espionage
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - MB Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Spion & Spion is a 1987 German board game themed around the MAD magazine comic strip Spy vs. Spy. Two players
+  each control three spy pawns of their color, racing to break into the opposing embassy to steal the "BAZONG"
+  secret item or accumulate 37 coins. Movement is driven by cards allowing 0–4 steps plus various special
+  benefits or penalties. The first player to collect 37 coins or successfully transport the stolen BAZONG back
+  to their home embassy wins, in a fast-playing two-player race with comic espionage flair.
+
+upgrades: []

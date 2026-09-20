@@ -1,0 +1,49 @@
+id: siemens-grand-prix-game
+name: "Siemens Grand Prix Game 2004"
+alternate_names: ["Siemens Grand Prix Spiel 2004"]
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Dice Rolling
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Agency
+  - Progress
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Siemens Grand Prix Game 2004 is a promotional Formula One racing board game produced in conjunction with Siemens' sponsorship of the McLaren F1 team during the 2004 season, supporting 3 to 6 players. Released as a branded merchandise item rather than through standard retail channels, the game simulates the excitement of a Grand Prix race using dice and a track board. Little documentation of the game's specific mechanics survives in public sources, making it a rare collectible associated with the early 2000s F1 sponsorship era.
+
+upgrades: []

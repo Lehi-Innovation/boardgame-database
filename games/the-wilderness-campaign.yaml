@@ -1,0 +1,52 @@
+id: the-wilderness-campaign
+name: "The Wilderness Campaign"
+alternate_names: ["The Wilderness Campaign: Lee vs. Grant, 1864"]
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Hidden Movement
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Mystery
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  The Wilderness Campaign is a 1972 hex-and-counter wargame published by SPI simulating Ulysses Grant's Overland Campaign against Robert E. Lee in Virginia from May-June 1864. One player commands Union forces under Grant, the other Confederate forces under Lee, across a complex turn sequence covering land, river, and rail movement, reconnaissance, cavalry operations, and leadership factors. Crucially, all units are placed face-down and remain hidden until combat or cavalry probe reveals them, adding a genuine fog-of-war element rare in wargames of that era. The hidden unit placement mechanic makes it a particularly tense and strategically demanding simulation.
+
+upgrades: []

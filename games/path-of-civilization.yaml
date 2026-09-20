@@ -1,0 +1,52 @@
+id: path-of-civilization
+name: "Path of Civilization"
+alternate_names: ["Path of Civilization: A Story of Humankind"]
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tech Tree
+  - Hand Management
+  - Simultaneous Action
+  - Variable Setup
+  - Euro
+  - Civilization
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Fabien Gridel
+publisher:
+  - Captain Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Path of Civilization is a simultaneous-action civilization game for 1-5 players that condenses the grand sweep of human history into a single session. Each phase plays out simultaneously as players research technologies, fight challenges, wage epic battles, recruit leaders, and construct wonders. The game captures all the core pillars of a civilization game — tech trees, leaders, wonders, combat — while maintaining a brisk pace through its simultaneous-play structure. Variable setup ensures different civilizations emerge each game, offering high replayability.

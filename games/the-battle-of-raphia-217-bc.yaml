@@ -1,0 +1,57 @@
+id: the-battle-of-raphia-217-bc
+name: "The Battle of Raphia, 217 B.C."
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Ancient
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  The Battle of Raphia, 217 B.C. is a two-player hex-and-counter wargame published by Game Designers'
+  Workshop in 1977 as the first entry in their "Series 120" line — games intentionally limited to 120
+  counters and designed to be completed in roughly 120 minutes. It simulates the climactic clash between
+  the Ptolemaic Egyptian and Seleucid Syrian empires, one of the largest ancient battles involving war
+  elephants. One player commands the Egyptians under Ptolemy IV, the other the Seleucids under Antiochus
+  III, maneuvering infantry, cavalry, and elephant units across an 18"x24" hex grid scaled at 100 yards
+  per hex. The compact format makes this an accessible entry point into ancient warfare simulation.
+
+upgrades: []

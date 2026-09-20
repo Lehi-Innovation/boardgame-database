@@ -1,0 +1,52 @@
+id: werewolf
+name: "Werewolf"
+alternate_names:
+  - "Mafia"
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 4  # Fierce
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Party
+
+evokes:
+  - Tension
+  - Persuasion
+  - Mystery
+  - Rivalry
+  - Dread
+
+possible_counts: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [10, 12, 15]
+
+designer:
+  - Dmitry Davidoff
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 13
+
+description: |
+  Werewolf (also known as Mafia) is a social deduction party game created by psychology student Dmitry Davidoff at Moscow State University in 1986–87, modeling a conflict between an informed minority (the werewolves) and an uninformed majority (the villagers). Each night, the werewolves secretly eliminate a villager; each day, the village collectively votes to eliminate a suspect through discussion, accusation, and persuasion. Optional roles such as the Seer—who can secretly learn one player's identity each night—add asymmetric information that enriches the social dynamics. Dozens of commercial editions have followed, including Ultimate Werewolf (Bezier Games) and One Night Ultimate Werewolf, but the game can be played with any standard deck of cards or role cards.
+
+upgrades: []

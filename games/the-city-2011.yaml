@@ -1,0 +1,63 @@
+id: the-city-2011
+name: "The City"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tableau Building
+  - Engine Building
+  - Hand Management
+  - Card Drafting
+  - Euro
+  - Family
+  - City Building
+  - Donald X. Vaccarino
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Donald X. Vaccarino
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  The City is a quick tableau-building card game by Donald X. Vaccarino in which players race to
+  construct a city worth 50 victory points. Cards serve both as buildings and as currency — each
+  turn players play some cards as buildings and discard others to pay costs. Some buildings have
+  symbols (cars, fountains, shopping carts) that synergize with other cards, so that each icon
+  in play multiplies the income and VP value of matching buildings. The first player to reach
+  50 victory points wins immediately, creating a race tension where timing your builds and watching
+  opponents' tableau is critical. The game's elegant simplicity made it a hit for casual and
+  family gaming.
+
+upgrades: []

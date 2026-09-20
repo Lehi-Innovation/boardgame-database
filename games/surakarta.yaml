@@ -1,0 +1,54 @@
+id: surakarta
+name: "Surakarta"
+alternate_names: ["Roundabouts"]
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Surakarta is an ancient Indonesian two-player abstract strategy game named
+  after the city of Surakarta in central Java. Played on a 6x6 grid with eight
+  corner loops, each player begins with 12 pieces and can either move one step
+  in any direction or make a capturing move by traversing a corner loop and
+  landing on an enemy piece. Pieces gain power toward the center of the board
+  where they connect to more loops. The game is regularly featured at the
+  Computer Olympiad and is considered a classic alongside Go, Checkers, and
+  Mancala. It was first commercially published in France in 1970.
+
+upgrades: []

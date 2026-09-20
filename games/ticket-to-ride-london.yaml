@@ -1,0 +1,55 @@
+id: ticket-to-ride-london
+name: "Ticket to Ride: London"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Family
+  - Gateway
+  - Filler
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Rivalry
+  - Tension
+  - Progress
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Ticket to Ride: London is a compact, fast-playing entry in the Ticket to Ride Cities line set on a 1970s map of London. Players race to claim bus routes and connect districts of the British capital, scoring bonus points for fully connecting districts. The streamlined rules deliver the core Ticket to Ride experience — collect cards, claim routes, complete Destination Tickets — in under 15 minutes, making it an ideal filler or introduction to the series.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: starship-duel
+name: "Starship Duel"
+alternate_names: ["Starship Duel I"]
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Starship Duel is a 1984 FASA Star Trek combat game in which the USS Enterprise duels a Klingon Bird of Prey scout. Unlike most wargames, there is no hex mapboard — instead, gameplay uses two Navigation Wheels that track each ship's relative position and heading based on maneuvers selected by players. After plotting movements on the wheels, players check which view-port reveals the enemy. The game supports solitaire play in addition to the standard two-player mode, and was followed by Starship Duel II.
+
+upgrades: []

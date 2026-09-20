@@ -1,0 +1,51 @@
+id: shengguan-tu
+name: "Shengguan Tu"
+alternate_names: ["Table of Bureaucratic Promotion", "升官圖"]
+year: 836
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Ancient
+  - Historical
+  - Dice Rolling
+  - Civilization
+
+evokes:
+  - Lucky
+  - Tension
+  - Progress
+  - Rivalry
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Shengguan Tu (Table of Bureaucratic Promotion) is an ancient Chinese board game originating in the Tang Dynasty around 836 CE, designed to simulate the advancement of civil servants through the complex Confucian bureaucratic hierarchy. Players roll six dice in a bowl and advance three tokens (a primary mandarin and two side officials) up a chart of 63–117 official positions, accumulating wealth through promotions while suffering setbacks from vice and bad fortune. Often compared to a cross between Snakes & Ladders and Monopoly, the game is still played in mainland China, Hong Kong, and Taiwan today.
+
+upgrades: []

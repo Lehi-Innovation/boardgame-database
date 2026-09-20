@@ -1,0 +1,49 @@
+id: vai-lung-thlan
+name: "Vai Lung Thlan"
+alternate_names: []
+year: 1912
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Ancient
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Vai Lung Thlan is a traditional mancala variant played by the Mizo people of eastern India, documented in written sources as early as J. Shakespear's 1912 ethnographic work "The Lushei Kuki Clans." The game is played on a board with twelve holes arranged in two rows, each initially holding five beads. Players sow beads around the board following mancala rules, capturing stones according to the game's specific conventions. It is a folk game without a modern commercial publisher and is primarily known through academic records and online abstract game platforms.
+
+upgrades: []

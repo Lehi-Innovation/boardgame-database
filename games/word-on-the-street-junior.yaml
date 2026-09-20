@@ -1,0 +1,53 @@
+id: word-on-the-street-junior
+name: "Word on the Street Junior"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: word-on-the-street
+edition: null
+base_game: word-on-the-street
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Word Play
+  - Party
+  - Family
+  - No Math
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Connection
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 6, 8]
+
+designer:
+  - Jack Degnan
+publisher:
+  - Out of the Box Publishing
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 35
+min_age: 8
+
+description: |
+  Word on the Street Junior is the family-friendly adaptation of Word on the Street, designed for players ages 8 and up. Like the original, teams compete to slide letter tiles off the board by shouting out words that fit given categories within a time limit — but the Junior edition features the complete alphabet (rather than only 17 consonants) and uses age-appropriate categories that make it more accessible for younger players. The tug-of-war letter mechanic remains intact, making it equally energetic and fun for family game nights.
+
+upgrades: []

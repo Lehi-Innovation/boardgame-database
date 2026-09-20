@@ -1,0 +1,52 @@
+id: spielesammlung
+name: "Spielesammlung"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Humor
+  - Connection
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 6
+
+description: |
+  Spielesammlung (German: "Game Collection") is a generic term referring to a German multi-game compilation
+  product containing several classic or traditional games in a single box. Such compilations typically include
+  chess, checkers, backgammon, ludo, and similar traditional games. Specific publisher and design details for
+  this entry are not available, as the title represents a category of product rather than a uniquely titled
+  game.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: vector
+name: "Vector"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Bluffing
+  - Hand Management
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Vector is a minimalist abstract strategy game published around 1969 by Plan B Corp and later by FX Schmid. The entire game revolves around a single movable piece on a board: players use cards to direct the piece to land on squares of varying point values or score by guiding it through a goal. The game's tension comes from bluffing opponents into sending the piece to less valuable positions while manoeuvring it toward high-scoring squares yourself. Its extreme simplicity makes it an accessible two-player filler for all ages.
+
+upgrades: []

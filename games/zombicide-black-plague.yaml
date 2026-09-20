@@ -1,0 +1,65 @@
+id: zombicide-black-plague
+name: "Zombicide: Black Plague"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: zombicide
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Zombies
+  - Fantasy
+  - Medieval
+  - Dungeon Crawler
+  - CMON
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Powerful
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Raphaël Guiton
+  - Jean-Baptiste Lullien
+  - Nicolas Raoult
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Zombicide: Black Plague transplants the cooperative zombie survival gameplay of the original
+  Zombicide into a fantastical medieval setting. Players control paladins, dwarves, knights, and
+  magicians wielding swords, crossbows, and magic spells against zombie hordes commanded by
+  Necromancer overlords. The addition of magic-wielding characters and Necromancer mechanics
+  that spawn reinforcements give Black Plague a distinct flavor while preserving the survivor
+  experience system and action-point structure of its predecessor.
+
+upgrades: []

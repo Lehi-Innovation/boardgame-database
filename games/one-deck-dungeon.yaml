@@ -1,0 +1,54 @@
+id: one-deck-dungeon
+name: "One Deck Dungeon"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Deck Building
+  - Press Your Luck
+  - Fantasy
+  - Dungeon Crawler
+
+evokes:
+  - Tension
+  - Progress
+  - Lucky
+  - Discovery
+  - Dread
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer:
+  - Chris Cieslik
+publisher:
+  - Asmadi Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  One Deck Dungeon is a cooperative dungeon-crawling card game for 1–2 players that fits an entire fantasy roguelite experience into a single deck. Players choose a hero, then descend through a dungeon by flipping encounter cards and rolling dice to defeat monsters, avoid traps, and collect loot. Each card serves multiple functions: as an encounter to overcome, as experience points to level up, as a skill or potion, or as a stat-boosting item — creating remarkable versatility from minimal components. The game emulates the tension and escalating difficulty of a video game roguelike in a compact, fast-playing format with strong solo appeal.
+
+upgrades: []

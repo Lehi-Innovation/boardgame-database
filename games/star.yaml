@@ -1,0 +1,50 @@
+id: star
+name: "Star"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Craige Schensted
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Star is a two-player abstract strategy connection game designed by Craige Schensted (also known as Ea Ea) and first published in the September 1983 issue of Games magazine. Players alternate placing stones on a hex-based board; a "star" is formed when a group of connected stones touches at least three partial-hex border cells, and its score equals the number of such border cells minus two. To prevent first-player advantage, a pie rule is used. The game rewards players who link their groups efficiently across multiple border regions, offering high strategic depth in a simple ruleset.
+
+upgrades: []

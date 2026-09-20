@@ -1,0 +1,54 @@
+id: star-wars-miniatures
+name: "Star Wars Miniatures"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bill Slavicsek
+  - Jeff Grubb
+  - Rob Watkins
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  Star Wars Miniatures is a collectible miniatures game published by Wizards of the Coast from 2004 to 2010, based on a simplified d20 system. Players build point-based squads from one of ten factions — including Rebel, Imperial, Republic, Separatist, Mandalorian, and others — then battle across grid maps. Combat uses a d20 roll plus attack bonus versus the defender's defense score, making resolution fast and intuitive. The 34mm pre-painted plastic figures spanning hundreds of characters across the Star Wars saga made the game visually striking and collectible.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: voodoo
+name: "Voodoo"
+alternate_names:
+  - "Vudù"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Party
+  - Take That
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Francesco Giovo
+  - Marco Valtriani
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Voodoo (Vudù in Italian) is a 2014 party game by Francesco Giovo and Marco Valtriani, published by Red Glove. Players take on the role of competing magic-wielders — a cunning Egyptian adept, a mischievous Dead Druid, or a voodoo sorcerer — and roll dice to gather ingredients for casting curses. Each spell imposes a silly physical condition on opponents, such as speaking with tongue out, using only one hand, or running around the table after each turn. The accumulating comedy of multiple simultaneous curses makes the game escalate in absurdity, making it an ideal icebreaker for social occasions.
+
+upgrades: []

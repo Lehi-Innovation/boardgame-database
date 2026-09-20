@@ -1,0 +1,56 @@
+id: villagers
+name: "Villagers"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Tableau Building
+  - Engine Building
+  - Euro
+  - Medieval
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Haakon Gaarder
+publisher:
+  - Sinister Fish Games
+artist:
+  - Haakon Gaarder
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Villagers is a card-drafting and tableau-building game designed and illustrated by Haakon Hoel Gaarder, published by Sinister Fish Games in 2019. Players build a medieval village by drafting villager cards from a central market — each new recruit unlocking the ability to hire further specialists in a cascading chain of dependencies. The art is entirely hand-drawn by the designer and gives the game a warm, storybook quality. Funded through Kickstarter as one of the most-backed UK campaigns of its time, Villagers is praised for its clean rules, satisfying engine-building arc, and strong solo mode.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: small-world-underground
+name: "Small World Underground"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: small-world
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Drafting
+  - Fantasy
+  - Family
+  - Euro
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Unique
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Philippe Keyaerts
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 8
+
+description: |
+  Small World Underground is a standalone game in the Small World series, published by Days of Wonder in 2011.
+  Set in the caverns beneath the Surface, players command 15 underground creature races — each paired with one of
+  21 special powers — to claim subterranean territories. Monster-occupied regions guarding powerful relics must be
+  conquered first, adding a new layer of tactical challenge. The river mechanic creates both a boundary and access
+  route, and the core decline-and-draft system from the original returns in this fresh underground setting.
+
+upgrades: []

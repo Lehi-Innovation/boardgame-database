@@ -1,0 +1,51 @@
+id: wide-world
+name: "Wide World"
+alternate_names: []
+year: 1955
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Historical
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Connection
+  - Adventure
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Wide World is a vintage air travel racing board game from Parker Brothers featuring a large world map as its playing surface. Players race their airplanes around the globe, visiting famous cities and countries in a roll-and-move format typical of mid-century American family games. The game's appeal lies in its geography-themed board that introduces young players to world travel and landmarks, and it remains a collectible piece of mid-twentieth century game history.
+
+upgrades: []

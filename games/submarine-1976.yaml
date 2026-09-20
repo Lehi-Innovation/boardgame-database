@@ -1,0 +1,52 @@
+id: submarine-1976
+name: "Submarine"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Wargame
+  - Historical
+  - Maritime
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Steve Peek
+publisher:
+  - Battleline Publications
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Submarine is a 1976 asymmetric wargame designed by Steve Peek and published by Battleline Publications in which one player commands a submarine attempting to sink a high-value target — a freighter or aircraft carrier — while the other player controls the target vessel and its anti-submarine defenses, including destroyer escorts. The two sides play entirely differently, capturing the predator-prey dynamic of undersea warfare. Avalon Hill later revised the rules and published a second edition in 1981, extending the game's life and reach in the wargaming community.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: star-fleet-battles
+name: "Star Fleet Battles"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Action Points
+  - Asymmetric
+
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+designer:
+  - Stephen V. Cole
+publisher:
+  - Amarillo Design Bureau
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 14
+
+description: |
+  Star Fleet Battles is a ship-to-ship tactical wargame set in the Star Fleet Universe — an alternate Star Trek
+  setting — originally designed by Stephen V. Cole and published in 1979 by Task Force Games, now maintained by
+  Amarillo Design Bureau. Using hexagonal map counters and a distinctive 32-impulse turn system, players simulate
+  detailed starship combat where each ship's weapons, shields, engines, and crew are individually tracked and
+  managed. The game is celebrated for its extraordinary depth: boarding parties, shuttlecraft, electronic
+  countermeasures, and dozens of ship types across multiple races create an almost infinite tactical space.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: zombiepox
+name: "Zombiepox"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Puzzle Solving
+  - Zombies
+  - Family
+
+evokes:
+  - Tension
+  - Progress
+  - Connection
+  - Agency
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Zara Downs
+  - Mary Flanagan
+  - Max Seidman
+publisher:
+  - Tiltfactor
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Zombiepox is an educational cooperative game from Tiltfactor Laboratory at Dartmouth College,
+  designed to promote positive attitudes toward vaccination. Players work together to vaccinate and
+  cure the citizens of a zombie-pox-infected town represented as an 81-person grid, strategically
+  prioritizing who to protect while managing limited resources. The game evolved from Pox: Save
+  the People and research demonstrated that players' sentiments about vaccination improved after
+  playing. It blends genuine public health education with engaging cooperative puzzle-solving.
+
+upgrades: []

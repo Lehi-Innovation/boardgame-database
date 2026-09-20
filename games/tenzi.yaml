@@ -1,0 +1,60 @@
+id: tenzi
+name: "Tenzi"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Kevin Carroll
+  - Steve Carroll
+publisher:
+  - Carma Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 7
+
+description: |
+  Tenzi is a fast-paced real-time dice game created by Kevin and Steve Carroll
+  in 2011. Each player receives ten dice of the same color and simultaneously
+  rolls them all, keeping any showing their chosen target number and re-rolling
+  the rest, racing to be the first to roll all ten dice to the same number and
+  shout "TENZI!" The game offers over 75 published alternative ways to play
+  (via the Sassy Tenzi card set), keeping gameplay fresh and adaptable for all
+  ages. Tenzi has grown from a local toy store curiosity to a nationally
+  distributed game sold in over 5,000 stores across North America.
+
+upgrades: []

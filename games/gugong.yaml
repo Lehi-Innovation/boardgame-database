@@ -1,0 +1,57 @@
+id: gugong
+name: "Gùgōng"
+alternate_names: ["Gugong"]
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Set Collection
+  - Engine Building
+  - Variable Setup
+  - Euro
+  - Historical
+  - Ancient
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Andreas Steding
+publisher:
+  - Game Brewer
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Gùgōng (Forbidden City) is a 2-4 player worker placement and hand management game by Andreas Steding set in Ming Dynasty China, published by Game Brewer in 2018. Players take on the roles of powerful Chinese families seeking influence by exchanging gifts with imperial officials — the central mechanic requires playing a card to take an action space, but the card played must be of higher value than the card already at that location, which is taken as the worker's replacement. This gift exchange system creates a flowing hand management puzzle where every action simultaneously fuels future options. Players travel across China, sail the Grand Canal, purchase jade, construct the Great Wall, and seek a coveted audience with the Emperor to accumulate victory points.
+
+upgrades: []

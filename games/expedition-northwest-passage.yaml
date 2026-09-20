@@ -1,0 +1,61 @@
+id: expedition-northwest-passage
+name: "Expedition: Northwest Passage"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Action Points
+  - Modular Board
+  - Euro
+  - Historical
+  - Exploration
+
+evokes:
+  - Discovery
+  - Agency
+  - Tension
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Yves Tourigny
+publisher:
+  - Matagot
+artist:
+  - Yves Tourigny
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Expedition: Northwest Passage places players in the role of 19th-century Arctic explorers
+  navigating the treacherous passage from Greenland to the Pacific. Players tile-place to
+  build the frozen seascape, managing action points to explore, gather supplies, and set
+  up camps before the seas freeze them in place. The race to return safely before winter
+  closes in creates mounting tension, while the modular board ensures a unique geography
+  every game. A solo variant adds replayability for solo gamers.
+
+upgrades: []

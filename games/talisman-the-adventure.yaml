@@ -1,0 +1,58 @@
+id: talisman-the-adventure
+name: "Talisman: The Adventure"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: talisman
+edition: null
+base_game: talisman-1983
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Variable Player Powers
+  - Ameritrash
+  - Fantasy
+  - Narrative Heavy
+
+evokes:
+  - Discovery
+  - Lucky
+  - Dread
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 10
+
+description: |
+  Talisman: The Adventure is an expansion for the second edition of Talisman
+  published by Games Workshop in 1986. It introduced the Adventure deck
+  mechanic, significantly expanding the events and encounters players experience
+  while traversing the Talisman board. New alignment cards affect how characters
+  interact with each other depending on their moral alignment (Good, Neutral, or
+  Evil). The expansion deepens the storytelling element of Talisman sessions and
+  adds more variety and replayability to the base game's adventure card system.
+
+upgrades: []

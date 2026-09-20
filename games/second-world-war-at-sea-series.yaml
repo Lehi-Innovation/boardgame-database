@@ -1,0 +1,54 @@
+id: second-world-war-at-sea-series
+name: "Second World War at Sea series"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: second-world-war-at-sea
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Maritime
+  - War
+  - Hex Map
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mike Bennighof
+  - Brian Knipple
+publisher:
+  - Avalanche Press
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  The Second World War at Sea series is a comprehensive operational and tactical naval wargame series published by Avalanche Press, founded by Mike Bennighof and Brian Knipple, covering WWII naval campaigns across multiple theaters. Each entry in the series focuses on a specific campaign — such as Java Sea, Arctic Convoy, or Coral Sea — using a consistent rule system that models ship-to-ship engagements, fleet movements, and strategic decisions. Based on Avalanche Press' Great War at Sea system, the series is known for its deep historical research, extensive order-of-battle detail, and attractive map and counter presentation.
+
+upgrades: []

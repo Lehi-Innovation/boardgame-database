@@ -1,0 +1,59 @@
+id: taco-kitten-pizza
+name: "Taco Kitten Pizza"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Family
+  - Party
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Dave Campbell
+  - Thierry Denoual
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Taco Kitten Pizza is a children's version of Taco Cat Goat Cheese Pizza,
+  designed by Dave Campbell and Thierry Denoual and published by Blue Orange
+  Games in 2023. Players announce "Taco," "Kitten," or "Pizza" as they flip
+  cards, and when the spoken word matches the card image, players race to grab
+  the candy piece at the center. Designed for ages 4 and up with 2–6 players
+  and sessions as short as five minutes, the game brings the reflex-slapping
+  fun of its parent game to a younger audience with a cuter, more accessible
+  presentation.
+
+upgrades: []

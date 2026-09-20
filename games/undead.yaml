@@ -1,0 +1,51 @@
+id: undead
+name: "Undead"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Horror
+  - Vampires
+  - 1 vs Many
+  - Asymmetric
+  - Deduction
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3]
+true_counts: [3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Undead is a 1981 board game published by Steve Jackson Games for 2-3 players, based on Bram Stoker's classic novel Dracula. One player takes the role of Dracula while others play Professor van Helsing and vampire hunters, creating an asymmetric hidden-movement chase through the gothic setting of the novel. Dracula secretly moves across the board while the hunters track him down and attempt to destroy him. The game received positive reviews upon release, earning an 8/10 from White Dwarf magazine.
+
+upgrades: []

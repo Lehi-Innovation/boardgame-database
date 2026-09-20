@@ -1,0 +1,56 @@
+id: windmill-valley
+name: "Windmill Valley"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Resource Management
+  - Rondel
+  - Network Building
+  - Set Collection
+  - Euro
+  - Nature
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dani Garcia
+publisher:
+  - Board and Dice
+artist: []
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Windmill Valley is a strategic Euro game for 1-4 players set among the famous tulip fields and windmills of the Netherlands. Players act as tulip farmers who plant flowers, manage water resources, and upgrade their windmill boards using a clever action wheel (rondel) system. The rotating wheel restricts which actions are available on your turn, encouraging efficient planning and engine-building as you develop your farm into a flourishing floral empire. With dual-layered player boards, 36 custom wooden windmill tokens, and 195 colorful tulip pieces, the game makes a gorgeous table presence.
+
+upgrades: []

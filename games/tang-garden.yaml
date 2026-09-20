@@ -1,0 +1,56 @@
+id: tang-garden
+name: "Tang Garden"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Card Drafting
+  - Variable Player Powers
+  - Euro
+  - Family
+  - Ancient
+
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Agency
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Francesco Testini
+  - Pierluca Zizzi
+publisher:
+  - ThunderGryph Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Tang Garden is a meditative tile-placement and set-collection game for 1–4 players in which players construct a serene Tang Dynasty Chinese garden, balancing elements of water, rock, and greenery. Players take turns placing landscape tiles and optionally placing 3D miniature figures — decorative pagodas, bamboo groves, and stone bridges — to score points based on adjacency, panoramas, and personal character goals. The game's stunning production with detailed 3D miniatures creates a gorgeous table presence, while the underlying mechanics reward careful spatial planning and opportunistic set collection. Tang Garden is equal parts aesthetic experience and tactical puzzle.
+
+upgrades: []

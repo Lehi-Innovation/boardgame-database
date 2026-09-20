@@ -1,0 +1,52 @@
+id: strat-o-matic-football
+name: "Strat-O-Matic Football"
+alternate_names: []
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Economic
+  - Simulation
+
+evokes:
+  - Masterful
+  - Agency
+  - Rivalry
+  - Tension
+  - Progress
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Hal Richman
+publisher:
+  - Strat-O-Matic
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Strat-O-Matic Football is a statistical simulation game first published in 1968 by Hal Richman's Strat-O-Matic company, part of the same acclaimed sports simulation series as Strat-O-Matic Baseball. Players use cards representing real NFL players, each with statistically derived ratings, combined with dice rolls to simulate realistic game outcomes down to the play level. Teams and rosters are updated annually to reflect real-world NFL seasons, giving the game enduring appeal for football fans who want to replay historical seasons or compare eras. The deep statistical foundation has made Strat-O-Matic a beloved institution among sports simulation hobbyists for decades.
+
+upgrades: []

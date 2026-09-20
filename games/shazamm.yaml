@@ -1,0 +1,55 @@
+id: shazamm
+name: "Shazamm!"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Simultaneous Action
+  - Fantasy
+  - Bluffing
+  - Abstract
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Mystery
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - François Bruel
+  - Philippe des Pallières
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Shazamm! is a 2-player fantasy-themed blind-bidding card game designed by François Bruel and Philippe des Pallières, published by Z-Man Games. Two wizards face off on a crumbling bridge, simultaneously selecting cards from their hands to determine whose spell is more powerful and pushes the other back. The first wizard pushed off the end of the bridge loses. The game's combination of hand management and psychological bluffing in its simultaneous reveal mechanic creates tense, fast duels with a satisfying push-and-pull dynamic.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: trap
+name: "Trap"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Masterful
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Trap is a two-player abstract strategy game published by Ideal in 1972, derived from an ancient oriental game concept. Each player controls three pieces on a hexagonal board and a supply of wall segments; on each turn a player may move their pieces, place walls, or combine both. The objective is to immobilize all three of your opponent's pieces by surrounding them with walls, creating a tight positional puzzle with high interactivity.
+
+upgrades: []

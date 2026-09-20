@@ -1,0 +1,55 @@
+id: war-between-the-states
+name: "War Between the States 1861–1865"
+alternate_names:
+  - "War Between the States"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Economic
+
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Irad Hardy
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 600
+min_playtime: 480
+max_playtime: 720
+min_age: 14
+
+description: |
+  War Between the States 1861–1865 is a comprehensive two-player grand strategic wargame from SPI simulating the entire American Civil War. Designed by Irad Hardy, the game covers all theaters of operation from 1861 to 1865, requiring players to manage armies, resources, and politics at a strategic level. The scale and scope of the simulation demand long-term planning and historical knowledge to successfully conduct campaigns. It stands as one of the most ambitious Civil War simulations of the 1970s wargaming era.
+
+upgrades: []

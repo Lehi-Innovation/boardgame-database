@@ -1,0 +1,49 @@
+id: two-player-chess
+name: "two-player chess"
+alternate_names:
+  - "Chess"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 10
+max_playtime: 300
+min_age: 6
+
+description: |
+  Two-player chess refers to the standard game of Chess in its classical two-player form, the most widely played and studied board game in history. Originating in 6th century India as Chaturanga, Chess reached its modern form in Europe in the 15th century. Two players command asymmetric armies of 16 pieces each — King, Queen, Rooks, Bishops, Knights, and Pawns — across an 8x8 board, seeking to checkmate the opponent's King. Chess has generated more recorded theory, competitive tournaments, and dedicated study than any other board game, and remains the defining benchmark for abstract strategy mastery.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: ticket-to-ride-first-journey-europe-2017
+name: "Ticket to Ride: First Journey (Europe)"
+alternate_names: ["Ticket to Ride: My First Journey (Europe)"]
+year: 2017
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Historical
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Complete
+  - Connection
+  - Wonder
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Ticket to Ride: First Journey (Europe) is a 2017 children's standalone entry in the Ticket to Ride series by Alan R. Moon and Days of Wonder, featuring a simplified European map designed for ages 6 and up. Players collect colored train cards to claim routes connecting cities shown on their tickets, with bigger playing pieces, shorter connections, and a quicker playtime of 15-30 minutes that makes it ideal for introducing young players to the Ticket to Ride experience. The game includes a special "Golden Ticket" bonus card for an added layer of excitement. It is the European counterpart to the simultaneously released US First Journey version.
+
+upgrades: []

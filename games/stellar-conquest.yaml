@@ -1,0 +1,52 @@
+id: stellar-conquest
+name: "Stellar Conquest"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Progress
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Howard M. Thompson
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  Stellar Conquest is a 1974 science fiction 4X board game published by Metagaming Concepts, designed by Howard M. Thompson after Avalon Hill rejected his prototype. Players control interstellar empires on a hex grid map, colonizing planets and improving technology (movement speed, offensive power) to defeat opponents within 40 simulated years. Notably, player negotiation and diplomacy are expressly forbidden — all strategy must be expressed through actions alone. A direct ancestor of early computer 4X games like Master of Orion and Reach for the Stars, Stellar Conquest helped define the 4X genre.
+
+upgrades: []

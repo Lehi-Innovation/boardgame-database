@@ -1,0 +1,56 @@
+id: spice-navigator
+name: "Spice Navigator"
+alternate_names: ["La Route des Épices"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Trading
+  - Historical
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Wonder
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - SentoSphere
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Spice Navigator (La Route des Épices) is a strategy board game published by Sentosphere in France in 1999.
+  Players follow the Royal Spice Route in a race for riches, with the game notably including 18 scent flasks
+  representing actual spices — a unique sensory component that immerses players in the fragrant world of the
+  historical spice trade. Designed for ages 8 and up, the game combines movement and trading mechanics with
+  a memorable aromatic theme.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: supremacy
+name: "Supremacy"
+alternate_names: ["Supremacy: The Game of the Superpowers"]
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Negotiation
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Dread
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Robert J. Simpson
+publisher:
+  - Supremacy Games
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  Supremacy: The Game of the Superpowers is a political, economic, and military
+  strategy wargame in which players control one of six global superpowers
+  vying for world domination in a modern Cold War setting. Players develop
+  economies, build conventional and nuclear arsenals, and deploy laser defense
+  satellites, all while managing the constant threat of nuclear war — which
+  results in a nuclear winter and universal defeat if triggered. The game
+  combines economic management, research and development, and direct military
+  conflict in a tense multi-player sandbox that captures the brinksmanship of
+  the Cold War era.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: zoo-vadis
+name: "Zoo Vadis"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Auctions/Bidding
+  - Area Control
+  - Variable Player Powers
+  - Animals
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Persuasion
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Bitewing Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Zoo Vadis is Reiner Knizia's evolution of his classic negotiation game Quo Vadis?, themed around
+  zoo animals competing for placement in the prestigious Star Exhibit. Players negotiate constantly,
+  trading favors and votes to advance their animals through a series of enclosures — but only
+  animals that reach the Star Exhibit score. The 2022 redesign added asymmetric animal powers,
+  neutral peacock figures to bribe for additional support, and a second board for six to seven
+  players, deepening the wheeling-and-dealing experience.
+
+upgrades: []

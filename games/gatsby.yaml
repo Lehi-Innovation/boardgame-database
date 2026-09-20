@@ -1,0 +1,62 @@
+id: gatsby
+name: "Gatsby"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Modular Board
+  - Asymmetric
+  - Variable Player Powers
+  - Historical
+  - Bruno Cathala
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Pandasaurus Games
+artist:
+  - Marie Cardouat
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Gatsby is a two-player area control game set in the glittering world of 1920s New York
+  high society. Players take on asymmetric roles—Dorothy Williams or James Miller—competing
+  at three locations: a cabaret, a finance center, and a racetrack. Through clever card
+  play and tactical positioning, each player pursues different victory conditions while
+  blocking their opponent's ambitions. The modular board and variable setup ensure fresh
+  confrontations in a brisk, tense contest of social climbing.
+
+upgrades: []

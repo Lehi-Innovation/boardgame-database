@@ -1,0 +1,63 @@
+id: the-adventures-of-robin-hood
+name: "The Adventures of Robin Hood"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Modular Board
+  - Variable Setup
+  - Family
+  - Medieval
+  - Historical
+
+evokes:
+  - Discovery
+  - Wonder
+  - Connection
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Menzel
+publisher:
+  - Thames & Kosmos
+artist:
+  - Michael Menzel
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Adventures of Robin Hood is a cooperative storytelling family game designed and illustrated
+  by Michael Menzel, creator of the Legends of Andor series. Players take on the roles of Robin
+  Hood, Little John, Maid Marian, and Will Scarlett as they battle wicked rulers across Sherwood
+  Forest, guided by a 216-page hardcover storybook. An innovative free-movement mechanic lets
+  characters move anywhere on the beautifully illustrated gameboard, which features interactive
+  flip panels that reveal hidden characters and game elements over the course of each scenario.
+  The game was nominated for the Spiel des Jahres 2021 and is celebrated for its stunning art
+  and immersive, evolving narrative.
+
+upgrades: []

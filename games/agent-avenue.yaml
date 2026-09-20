@@ -1,0 +1,55 @@
+id: agent-avenue
+name: "Agent Avenue"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Bluffing
+  - Racing
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Mystery
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Christian Kudahl
+publisher:
+  - Nerdlab Games
+artist:
+  - Fanny Pastor-Berlie
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Agent Avenue is a fast-paced set collection and bluffing game for 2–4 players in which undercover spies race through a quirky anthropomorphic suburb to uncover each other's identity. Each turn, players use a clever "I split, you choose" mechanic—playing one card face-up and one face-down, letting their opponent pick one while both cards influence each player's movement and strategy. Most cards trigger bonuses based on collected sets, rewarding players who manage their growing collections while keeping opponents guessing.
+
+upgrades: []

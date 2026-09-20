@@ -1,0 +1,59 @@
+id: the-fall-of-tobruk
+name: "The Fall of Tobruk"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+publisher:
+  - Conflict Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Fall of Tobruk is a 1975 two-player board wargame by Frank Chadwick (early in his career
+  before founding Game Designers' Workshop), published by Conflict Games. It simulates the Second
+  Battle of Tobruk during the North Africa campaign of World War II, with one player commanding
+  Rommel's Axis attackers and the other controlling British defenders. The large mounted hex map
+  (19" x 25") and over 350 die-cut counters provide a moderately complex game notable for its
+  fluid combat system and emphasis on minefields and engineering operations. Wargame critic Richard
+  Berg called it "Possibly the best of the new Tobruk games" upon release. Compass Games later
+  published a deluxe third edition.
+
+upgrades: []

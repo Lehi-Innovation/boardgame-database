@@ -1,0 +1,57 @@
+id: o-an-quan
+name: "Ô ăn quan"
+alternate_names:
+  - "Vietnamese Mancala"
+  - "Quan Capture Game"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+  - No Math
+  - Historical
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 5
+
+description: |
+  Ô ăn quan (Vietnamese for "mandarin capturing game") is a traditional Vietnamese two-player
+  mancala game played on a rectangular board of ten square "rice field" cells plus two semicircular
+  "mandarin" squares at each end. Players distribute pebbles around the board, capturing the
+  contents of squares they land past, with mandarin squares worth ten points each. The game is
+  part of the broader Mancala family believed to have roots in antiquity, and has been a beloved
+  Vietnamese children's pastime for generations.
+
+upgrades: []

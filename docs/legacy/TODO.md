@@ -2,7 +2,7 @@
 
 ## High Priority
 
-- [ ] Revamp look and feel
+- [x] Revamp look and feel — warm dark theme across all three web pages (2026-08-06)
 - [ ] Build remaining source lists
   - [ ] Dicebreaker Top 100
   - [ ] Shut Up & Sit Down Recommendations
@@ -13,7 +13,7 @@
   - [ ] Stonemaier Games collection
   - [ ] Gateway Games Classics
 - [ ] Complete Golden Geek and Deutscher Spiele Preis — fill in missing years/categories
-- [ ] Continue adding game entries — 3,129 remaining in queue (run `python3 scripts/progress.py`)
+- [x] Continue adding game entries — queue cleared, 0 remaining (96.1% complete, 4,046/4,209)
 - [ ] Obtain box art images (see `images/README.md`)
   - Contact publishers for press kits
   - Download from official websites

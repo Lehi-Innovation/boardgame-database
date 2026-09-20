@@ -1,0 +1,60 @@
+id: the-last-hurrah
+name: "The Last Hurrah"
+alternate_names:
+  - "ASL Module 6: The Last Hurrah"
+year: 1988
+
+# Relationships
+game_family: advanced-squad-leader
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Don Greenwood
+  - Rex A. Martin
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 16
+
+description: |
+  The Last Hurrah is Advanced Squad Leader Module 6, published by Avalon Hill in 1988, and requires
+  ASL Rules, Beyond Valor, and Yanks to play. Eight scenarios focus on the early German blitzkrieg
+  campaigns of World War II, featuring multiple nationalities who opposed the initial German
+  invasions. The module includes one countersheet of Allied Minor infantry and support weapons,
+  and two geomorphic boards — Board 11 with revised artwork and Board 33 featuring open terrain
+  and a large grainfield. As part of the celebrated ASL system, the module delivers the system's
+  trademark operational detail and scenario variety within the constraints of a modular expansion.
+
+upgrades: []

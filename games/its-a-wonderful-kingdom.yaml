@@ -1,0 +1,62 @@
+id: its-a-wonderful-kingdom
+name: "It's a Wonderful Kingdom"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: its-a-wonderful-world
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Drafting
+  - Bluffing
+  - Set Collection
+  - Engine Building
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Frédéric Guérard
+publisher:
+  - La Boîte de Jeu
+artist:
+  - Régis Torres
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  It's a Wonderful Kingdom is a two-player game that adapts the engine-building drafting
+  of its predecessor It's a Wonderful World into a head-to-head duel with bluffing. The
+  signature "Split & Trap" mechanic has one player divide a set of cards into two piles
+  while the other chooses which pile to take, creating a mind-reading tension throughout.
+  Modular rules introduce new mechanics each game, and a solo mode extends replayability.
+  The bluffing layer elevates this beyond a simple two-player drafting game into a
+  genuinely interactive duel.
+
+upgrades: []

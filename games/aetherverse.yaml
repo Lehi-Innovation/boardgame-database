@@ -1,0 +1,59 @@
+id: aetherverse
+name: "Ætherverse"
+alternate_names:
+  - "Aetherverse"
+  - "AEtherVerse"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+
+evokes:
+  - Powerful
+  - Agency
+  - Unique
+  - Discovery
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jason Lauborough
+publisher:
+  - Triskele Game Design Studios
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Ætherverse is a science-fantasy miniature wargame set in a universe where the discovery of
+  multiple parallel universes triggered wars of conquest across the Ætherverse. Its central design
+  goal was a universal rules system allowing players to construct any imaginable army using
+  miniatures from any manufacturer. The core rulebook includes background on over a dozen
+  universes and 17 army lists, plus fifteen battle scenarios. The game was nominated for a 2004
+  Origins Award in the Best Miniature Wargame category.
+
+upgrades: []

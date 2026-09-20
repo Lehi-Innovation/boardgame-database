@@ -1,0 +1,53 @@
+id: the-london-game
+name: "The London Game"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Racing
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Discovery
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Condor Games
+publisher:
+  - Condor
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  The London Game is a 1972 British family board game in which 2-6 players race through the central London Underground network. Each player starts at a mainline terminus (such as Waterloo or Paddington) and must visit six secret tourist locations shown on their Souvenir Cards before returning to their starting station. Movement is determined by a die roll, but players must draw Hazard Cards each time they change tube lines, potentially sending them on detours or forcing them to join other players. The game captures the feel of navigating the London Underground map and is known as a classic piece of British board game nostalgia, with editions published across several decades.
+
+upgrades: []

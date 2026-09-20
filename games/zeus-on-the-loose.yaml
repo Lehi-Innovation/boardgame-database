@@ -1,0 +1,59 @@
+id: zeus-on-the-loose
+name: "Zeus on the Loose"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Mythology
+  - Family
+  - Party
+  - No Math
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jason Schneider
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Zeus on the Loose is a fast card game with a Greek mythology theme in which players take turns
+  playing numbered cards to Mount Olympus, building a running total. Whoever plays a card that
+  makes the total hit a multiple of 10 grabs the Zeus figurine, and winning rounds by holding Zeus
+  when the total reaches or exceeds 100 earns letters spelling "Zeus." Special god cards with
+  powers — like Aphrodite rounding to the nearest ten — add unpredictability to an otherwise
+  accessible math-friendly card game.
+
+upgrades: []

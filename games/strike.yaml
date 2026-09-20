@@ -1,0 +1,53 @@
+id: strike
+name: "Strike"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~15 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Dexterity
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Dieter Nüssle
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Strike is a 2012 dice-throwing game by Dieter Nüssle published by Ravensburger, played inside the box which serves as the arena. Each turn a player rolls one die into the arena, trying to match numbers with dice already present; matching pairs are removed and the player who loses all their dice is out. The press-your-luck decision of whether to throw another die or end your turn adds surprising tension to an otherwise pure-luck game. Fast, raucous, and easy to learn, Strike bridges the gap between party game and dexterity filler.
+
+upgrades: []

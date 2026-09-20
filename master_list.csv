@@ -1817,7 +1817,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 136280,La Boca,,boardgame,,,
 554,La Città,2000,boardgame,,,la-citta
 ,La Fallera Calavera,,boardgame,,,la-fallera-calavera
-367517,La Famiglia: The Great Mafia War,,boardgame,,,
+367517,La Famiglia: The Great Mafia War,,boardgame,,,famiglia
 10013,La Foi et le Glaive,,boardgame,,,la-foi-et-le-glaive
 9077,La Grande Armée,,boardgame,,,la-grande-armee
 146886,La Granja,2014,boardgame,,,
@@ -1866,7 +1866,6 @@ bgg_id,name,year,type,status,notes,yaml_id
 184151,Legend of the Five Rings: The Card Game,2017,boardgame,,,legend-of-the-five-rings-the-card-game
 3794,Legend of Zagor,,boardgame,,,
 129437,Legendary: A Marvel Deck Building Game,,boardgame,,,legendary-a-marvel-deck-building-game
-,Legends of Andor,2013,boardgame,,,
 ,"Legion: Tactical Warfare in the Roman Age, 100BC-700AD",,boardgame,,,legion-tactical-warfare-roman-age
 ,Legions of the Petal Throne,,boardgame,,,legions-of-the-petal-throne
 94732,Lego Heroica,,boardgame,,,lego-heroica
@@ -2253,7 +2252,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 347505,Nouvelles Contrées,,boardgame,failed,No sources found,
 284435,Nova Luna,2019,boardgame,,,
 38678,Novem,,boardgame,,,
-,Nsolo,,boardgame,,,
+,Nsolo,,boardgame,,,isolo
 19907,Nuclear Destruction,,boardgame,,,
 713,Nuclear War,1965,boardgame,,,
 ,Nucleum,2023,boardgame,,,
@@ -2367,14 +2366,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 3041,Panzergruppe Guderian,1976,boardgame,,,
 753,Panzerkrieg: von Manstein & HeeresGruppe Süd,,boardgame,,,panzerkrieg-von-manstein-heeresgruppe-sud
 56692,Parade,,boardgame,,,
-2136,Parcheesi,,boardgame,,,
+2136,Parcheesi,,boardgame,,,ludo
 ,parji,,boardgame,failed,"Too obscure, no sources found",
 4866,Park and Shop,,boardgame,,,
 266524,PARKS,2019,boardgame,,,
 18243,Parthenon: Rise of the Aegean,,boardgame,,,parthenon-rise-of-the-aegean
 ,Pasang,,boardgame,,,
 137,Pass the Bomb,,boardgame,,,
-2593,Pass the Pigs,,boardgame,,,
+2593,Pass the Pigs,,boardgame,,,le-cochon-qui-rit
 ,Patamania,,boardgame,failed,No sources found,
 ,Patchesi,,boardgame,failed,No sources found,
 163412,Patchwork,2014,boardgame,,,
@@ -2694,7 +2693,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7067,Schloss Schlotterstein,2003,boardgame,,,
 217331,Schnapp die Nuss!,2017,boardgame,,,
 92644,Schnappt Hubi!,,boardgame,,,
-57,Schoko & Co.,1987,boardgame,,,
+57,Schoko & Co.,1987,boardgame,,,schoko-and-co
 372,Schotten-Totten,,boardgame,,,
 1063,Schraumen,,boardgame,,,
 3656,score four,,boardgame,,,
@@ -2707,7 +2706,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Sea Hawks,,boardgame,,,
 ,Sea Salt & Paper,2022,boardgame,,,sea-salt-and-paper
 148261,Seafall,,boardgame,,,
-8033,Search & Destroy: Tactical Combat Vietnam 1965-1966,,boardgame,,,
+8033,Search & Destroy: Tactical Combat Vietnam 1965-1966,,boardgame,,,search-and-destroy-vietnam
 ,Seaside,2024,boardgame,,,
 ,Seaside Frolics,,boardgame,,,
 108745,Seasons,,boardgame,,,
@@ -2719,11 +2718,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 102652,Sentinels of the Multiverse,,boardgame,,,
 131457,Septikon: Uranium Wars,2012,boardgame,,,
 2375,Sequence,,boardgame,,,
-1376,Serengeti,,boardgame,,,
+1376,Serengeti,,boardgame,ambiguous,Multiple games share this name; cannot determine which specific game was intended,
 232,Serenissima,,boardgame,,,
-135281,Serenissima (Second Edition),,boardgame,,,
+135281,Serenissima (Second Edition),,boardgame,,,serenissima-second-edition
 13019,Sergeant Preston,,boardgame,,,
-123408,Serpent's Tongue,,boardgame,,,
+123408,Serpent's Tongue,,boardgame,,,serpents-tongue
 34583,Set Cubed,2008,boardgame,,,
 418059,SETI: Search for Extraterrestrial Intelligence,2024,boardgame,,,seti
 67239,Settlers of America: Trails to Rails,,boardgame,,,
@@ -2745,30 +2744,30 @@ bgg_id,name,year,type,status,notes,yaml_id
 63875,Shax,,boardgame,,,
 8935,Shazamm!,,boardgame,,,
 2082,Shell Shock!,1990,boardgame,,,
-3438,Shendao,,boardgame,,,
+3438,Shendao,,boardgame,failed,No sources found,
 ,Shengguan Tu,,boardgame,,,
 157969,Sheriff of Nottingham,,boardgame,,,
 2511,Sherlock Holmes Consulting Detective,1981,boardgame,,,
 ,Sherlock Holmes: Consulting Detective,1985,boardgame,,,
 41019,Sherwood Forest,2009,boardgame,,,
 199611,Shiftago,,boardgame,,,
-11949,Shifting Sands: The Campaign for North Africa 1940-1943,,boardgame,,,
-,Shiloh: The Battle for Tennessee,,boardgame,,,
-41146,Shintai,,boardgame,,,
+11949,Shifting Sands: The Campaign for North Africa 1940-1943,,boardgame,,,shifting-sands
+,Shiloh: The Battle for Tennessee,,boardgame,,,shiloh
+41146,Shintai,,boardgame,failed,No sources found,
 ,Shipka Pass,,boardgame,,,
 ,ShipShape,2019,boardgame,,,
 31383,Sho,,boardgame,,,
 ,Shockforce: Battles in the Remnants of America,,boardgame,,,
-20551,Shogun,2006,boardgame,,,
+20551,Shogun,2006,boardgame,,,shogun-2006
 2720,Shooting Stars,,boardgame,,,
-3089,Shootout at the Saloon,,boardgame,,,
-12856,Shove ha'penny,,boardgame,,,
+3089,Shootout at the Saloon,,boardgame,,,shootout-at-the-saloon
+12856,Shove ha'penny,,boardgame,,,shove-hapenny
 ,shovel board,,boardgame,,,
 1712,Showbiz,1984,boardgame,,,
-7510,Shuttlewars,,boardgame,,,
+7510,Shuttlewars,,boardgame,failed,No sources found,
 20782,Siam,,boardgame,,,
 ,Sidereal Confluence,2017,boardgame,,,
-,"Siege!: The Game of Siege Warfare, 50 AD-1400 AD",,boardgame,,,
+,"Siege!: The Game of Siege Warfare, 50 AD-1400 AD",,boardgame,,,siege
 29421,Siemens Grand Prix Game,2004,boardgame,,,
 18932,Siena,2005,boardgame,,,
 18348,Sigma Omega,,boardgame,,,
@@ -2779,10 +2778,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,simplified mahjong,,boardgame,,,
 24511,Simply Catan,,boardgame,,,
 1566,Simply Cosmic,,boardgame,,,
-,Sinai: The Arab-Israeli Wars,,boardgame,,,
+,Sinai: The Arab-Israeli Wars,,boardgame,,,sinai
 117725,Sinco,,boardgame,,,
 413913,Sinister Institute,2025,boardgame,,,
-76550,Sinnet,,boardgame,,,
+76550,Sinnet,,boardgame,failed,No sources found,
 ,Sirius,,boardgame,,,
 20195,Six,,boardgame,,,
 30527,Sixteen,,boardgame,,,
@@ -2803,22 +2802,22 @@ bgg_id,name,year,type,status,notes,yaml_id
 70767,Smash Monster Rampage!,,boardgame,,,
 122522,Smash up,,boardgame,,,
 ,Smug Owls,2023,boardgame,,,
-2767,Snail's Pace Race,1985,boardgame,,,
+2767,Snail's Pace Race,1985,boardgame,,,snails-pace-race
 5432,snakes and ladders,,boardgame,,,
-,Snakes and Ladders game,,boardgame,,,
+,Snakes and Ladders game,,boardgame,duplicate,Same as Snakes and Ladders,
 ,Snakesss!,2021,boardgame,,,
-3965,Snapshot,1979,boardgame,,,
-75358,SNCF: France & Germany,,boardgame,,,
+3965,Snapshot,1979,boardgame,,,snapshot-1979
+75358,SNCF: France & Germany,,boardgame,,,sncf-france-germany
 70313,Snelrekenspel,,boardgame,,,
 2995,Sniper!,,boardgame,,,
-710,Snit's Revenge,,boardgame,,,
+710,Snit's Revenge,,boardgame,,,snits-revenge
 38054,Snow Tails,2008,boardgame,,,
 ,So Clover,2021,boardgame,,,
 8304,So Long Sucker,,boardgame,,,
 67185,Sobek,2010,boardgame,,,
 10430,Solar Conquest,,boardgame,,,
 1836,Solarquest,,boardgame,,,
-,Soldiers: Tactical Combat in 1914–15,,boardgame,,,
+,Soldiers: Tactical Combat in 1914–15,,boardgame,,,soldiers-tactical-combat-1914-15
 254018,Solenia,,boardgame,,,
 ,Solomons Campaign,,boardgame,,,
 2407,Sorry!,1929,boardgame,,,
@@ -2832,12 +2831,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Space 1889 Adversaries,,boardgame,,,
 ,Space Base,2018,boardgame,,,
 1568,Space Crusade,,boardgame,,,
-1557,Space Empires,,boardgame,,,
+1557,Space Empires,,boardgame,,,space-empires-1981
 84419,Space Empires 4X,,boardgame,,,
 ,Space Future,,boardgame,,,
 5685,Space Hop,,boardgame,,,
 2163,Space Hulk,1989,boardgame,,,deathwing
-71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,
+71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,space-hulk-death-angel
 ,Space Lines,,boardgame,,,
 25750,Space Marine Assault,,boardgame,,,
 17490,Space Marines,,boardgame,,,
@@ -2860,15 +2859,15 @@ bgg_id,name,year,type,status,notes,yaml_id
 259363,Spielesammlung,,boardgame,,,
 1633,Spies!,,boardgame,,,
 171129,Spinderella,,boardgame,,,
-118051,Spinnengift und Krötenschleim,2012,boardgame,,,
-26204,Spion & Spion,1987,boardgame,,,
+118051,Spinnengift und Krötenschleim,2012,boardgame,,,spinnengift-und-krotenschleim
+26204,Spion & Spion,1987,boardgame,,,spion-und-spion
 ,Spirit Island,2017,boardgame,,,
-18764,Spirou et les champignons géants,,boardgame,,,
+18764,Spirou et les champignons géants,,boardgame,,,spirou-et-les-champignons-geants
 148228,Splendor,2014,boardgame,,,
 ,Splendor Duel,2022,boardgame,,,
-26147,Split Personality,,boardgame,,,
+26147,Split Personality,,boardgame,failed,No board game found; only a TV game show and 1986 video game exist under this title,
 65586,Splotch,,boardgame,,,
-10096,Splotch!,1998,boardgame,,,
+10096,Splotch!,1998,boardgame,,,splotch-1998
 12346,Spooky stairs,2003,boardgame,,,
 92465,Sporz Original Outbreak,2011,boardgame,,,
 420876,Spotlight,,boardgame,,,
@@ -2884,7 +2883,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 23692,Stack,,boardgame,,,
 8945,Stadium Checkers,,boardgame,,,
 ,Star,,boardgame,,,
-13415,Star Empires,1977,boardgame,,,
+13415,Star Empires,1977,boardgame,,,star-empires-1977
 6735,Star Explorer,1982,boardgame,,,
 3151,Star Fighter,,boardgame,,,
 1901,Star Fleet Battle Force,,boardgame,,,
@@ -2895,7 +2894,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3467,Star Quest,,boardgame,,,
 1699,Star Smuggler,,boardgame,,,
 3040,Star Trek II: Starship Combat Simulator,,boardgame,,,
-4413,Star Trek III,1985,boardgame,,,
+4413,Star Trek III,1985,boardgame,,,star-trek-iii-1985
 ,Star Trek III Starship Combat Game,,boardgame,,,
 113544,Star Trek Klingon Edition Monopoly,2011,boardgame,,,
 193949,Star Trek: Ascendancy,,boardgame,,,
@@ -2907,22 +2906,22 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Star Trek: Starship Tactical Combat Simulator,,boardgame,,,
 3095,Star Trek: The Adventure Game,,boardgame,,,
 5786,Star Trek: The Enterprise 4 Encounter,,boardgame,,,
-5258,Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge,,boardgame,,,
-12938,Star Trek: The Next Generation: The Board Game,,boardgame,,,
+5258,Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge,,boardgame,,,star-trek-tng-interactive-vcr-board-game
+12938,Star Trek: The Next Generation: The Board Game,,boardgame,,,star-trek-tng-the-board-game
 1792,Star Viking,,boardgame,,,
 1270,Star Wars Customizable Card Game,,boardgame,,,
 3284,Star Wars Epic Duels,,boardgame,,,
 11229,Star Wars Miniatures,,boardgame,,,
-7420,Star Wars Miniatures Battles,1991,boardgame,,,
+7420,Star Wars Miniatures Battles,1991,boardgame,,,star-wars-miniatures-battles-1991
 ,Star Wars Monopoly,,boardgame,,,
 27970,Star Wars PocketModel Trading Card Game,,boardgame,,,
-15045,Star Wars Risk: The Clone Wars Edition,2005,boardgame,,,
-12415,Star Wars: Adventures of R2-D2,1977,boardgame,,,
-6388,Star Wars: Battle at Sarlacc's Pit,1983,boardgame,,,
+15045,Star Wars Risk: The Clone Wars Edition,2005,boardgame,,,star-wars-risk-the-clone-wars-edition
+12415,Star Wars: Adventures of R2-D2,1977,boardgame,,,star-wars-adventures-of-r2d2
+6388,Star Wars: Battle at Sarlacc's Pit,1983,boardgame,,,star-wars-battle-at-sarlaccs-pit
 ,Star Wars: Battle of Hoth,2025,boardgame,,,
 5244,Star Wars: Destroy Death Star,1977,boardgame,,,
 4845,Star Wars: Escape from Death Star,1977,boardgame,,,
-,Star Wars: Escape From The Death Star,,boardgame,,,
+,Star Wars: Escape From The Death Star,,boardgame,duplicate,Same as Star Wars: Escape from Death Star (1977),
 6792,Star Wars: Hoth Ice Planet Adventure,1980,boardgame,,,
 164153,Star Wars: Imperial Assault,2014,boardgame,,,
 187645,Star Wars: Rebellion,2016,boardgame,,,
@@ -2939,11 +2938,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 2891,Starfire,,boardgame,,,
 ,Starfire III: Empires,,boardgame,,,
 2524,Starforce: Alpha Centauri,,boardgame,,,
-1599,StarGate,1979,boardgame,,,
+1599,StarGate,1979,boardgame,,,stargate-1979
 ,Starguard!,,boardgame,,,
 ,Starship Captain,,boardgame,,,
 ,Starship Duel,,boardgame,,,
-670,Starship Troopers,1976,boardgame,,,
+670,Starship Troopers,1976,boardgame,,,starship-troopers-1976
 260,Starship Troopers: Prepare for Battle!,1997,boardgame,,,
 30884,Starship: The Game of Space Contact,,boardgame,,,
 ,StarSoldier,,boardgame,,,
@@ -2956,14 +2955,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 349748,StegegetS,2024,boardgame,,,
 1708,Stellar Conquest,,boardgame,,,
 81250,Stich-Meister,,boardgame,,,
-2988,Sticks & Stones,1978,boardgame,,,
+2988,Sticks & Stones,1978,boardgame,,,sticks-and-stones-1978
 26768,Stixx,,boardgame,,,
 2680,Stock Ticker,,boardgame,,,
-1590,Stocks & Bonds,1964,boardgame,,,
+1590,Stocks & Bonds,1964,boardgame,,,stocks-and-bonds
 367771,Stomp the Plank,,boardgame,,,
-2151,Stomp!,,boardgame,,,
+2151,Stomp!,,boardgame,,,stomp-1978
 34635,Stone Age,2008,boardgame,,,
-,stone kernoi,,boardgame,,,
+,stone kernoi,,boardgame,failed,No sources found,
 20436,Stonehenge,2007,boardgame,,,
 ,Stonewall: The Battle of Kernstown,,boardgame,,,
 1992,Stop Thief,,boardgame,,,
@@ -2975,7 +2974,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 5740,Strat-O-Matic Football,,boardgame,,,
 1917,Stratego,,boardgame,,,
 484,Stratego: Legends,,boardgame,,,
-27126,Strategy on rails,1978,boardgame,,,
+27126,Strategy on rails,1978,boardgame,failed,No sources found,
 1597,Streetcar,,boardgame,,,
 123570,Strike,2012,boardgame,,,
 ,Strike Force One,,boardgame,,,
@@ -2987,8 +2986,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 10084,Stuff Yer Face,,boardgame,,,
 233312,Stuffed Fables,2018,boardgame,,,
 3720,Subbuteo,,boardgame,,,
-3083,Submarine,1976,boardgame,,,
-7537,Subulata,,boardgame,,,
+3083,Submarine,1976,boardgame,,,submarine-1976
+7537,Subulata,,boardgame,failed,No sources found,
 123260,Suburbia,2012,boardgame,,,
 68,Successors,,boardgame,,,
 6657,Such a Thing?,,boardgame,,,
@@ -2998,49 +2997,49 @@ bgg_id,name,year,type,status,notes,yaml_id
 93260,Summoner Wars: Master Set,,boardgame,,,
 65556,Sumo Ham Slam,,boardgame,,,
 18745,Sun Tzu,,boardgame,,,
-41254,Sune och ryska posten,1992,boardgame,,,
+41254,Sune och ryska posten,1992,boardgame,,,sune-och-ryska-posten
 ,sungka,,boardgame,,,congkak
 ,Suomen vapaussota,1918,boardgame,,,
 17597,Suomi Tietopeli,2003,boardgame,,,
-10578,Super 3,,boardgame,,,
+10578,Super 3,,boardgame,failed,No sources found,
 4427,Super Cluedo Challenge,1986,boardgame,,,
 402475,Super Miaou,,boardgame,,,
 11182,Super Scrabble,,boardgame,,,
-20429,"Supercharge: Battle of El Alamein, October 1942",1976,boardgame,,,
+20429,"Supercharge: Battle of El Alamein, October 1942",1976,boardgame,,,supercharge-battle-of-el-alamein
 139443,Superfight,,boardgame,,,
 18794,SuperGang,,boardgame,,,
 3549,Superpower,,boardgame,,,
 27,Supremacy,,boardgame,,,
 13715,Surakarta,,boardgame,,,
-3042,Survival / The Barbarian,,boardgame,,,
+3042,Survival / The Barbarian,,boardgame,,,survival-the-barbarian
 2653,Survive: Escape from Atlantis!,1982,boardgame,,,
 192291,Sushi Go Party!,2016,boardgame,,,
 133473,Sushi Go!,2013,boardgame,,,
 37400,Sushizock im Gockelwok,,boardgame,,,
 ,Sveaborg,,boardgame,,,
-,Svenskt Historiskt Sällskap Spel,,boardgame,,,
-623,Swashbuckler,1980,boardgame,,,
-16807,Swipe,,boardgame,,,
+,Svenskt Historiskt Sällskap Spel,,boardgame,failed,"Likely a Swedish historical society publication, not a commercial board game",
+623,Swashbuckler,1980,boardgame,,,swashbuckler-1980
+16807,Swipe,,boardgame,ambiguous,"Multiple unrelated games share this name (Simon Swipe, SWIPE card game, Swipe Out)",
 99219,Swish,2011,boardgame,,,
 12238,Switch 16,,boardgame,,,
 166031,Sword Girls,,boardgame,,,
 ,Sword Lords,,boardgame,,,
 7480,Sword of Rome,,boardgame,,,
 3039,Swordquest,,boardgame,,,
-2464,Swords & Sorcery,1978,boardgame,,,
+2464,Swords & Sorcery,1978,boardgame,,,swords-and-sorcery-spi
 142299,Swords and Heroes: Starter Set,,boardgame,,,
-18885,Syllabus,,boardgame,,,
-119974,Syzygy,2011,boardgame,,,
-146508,T.I.M.E Stories,2015,boardgame,,,
-117,Ta Yü,1999,boardgame,,,
-218863,Ta-Ke,2017,boardgame,,,
+18885,Syllabus,,boardgame,failed,No board game with this name found,
+119974,Syzygy,2011,boardgame,,,syzygy-2011
+146508,T.I.M.E Stories,2015,boardgame,,,time-stories
+117,Ta Yü,1999,boardgame,,,ta-yu
+218863,Ta-Ke,2017,boardgame,,,ta-ke
 5322,tabletop football,,boardgame,,,
 1111,Taboo,,boardgame,,,
 349369,Tabriz,2024,boardgame,,,
 3457,tabula,,boardgame,,,
 3712,Tac Air,,boardgame,,,
 392491,Taco Kitten Pizza,2023,boardgame,,,
-,Tactical Command,,boardgame,,,
+,Tactical Command,,boardgame,failed,Could not identify specific board game; multiple unrelated games share this title,
 ,Tactics II,,boardgame,,,
 25895,TacTix,,boardgame,,,
 2932,tafl games,,boardgame,,,
@@ -3050,44 +3049,44 @@ bgg_id,name,year,type,status,notes,yaml_id
 475,Taj Mahal,2000,boardgame,,,
 197405,Tak,,boardgame,,,
 128,Take It Easy,,boardgame,,,
-4558,Take Off!,1988,boardgame,,,
-,Take On You,,boardgame,,,
+4558,Take Off!,1988,boardgame,,,take-off-1988
+,Take On You,,boardgame,failed,"This is a French publisher (of Tannhauser), not a game title",
 20847,Take Stock,,boardgame,,,
 ,Take Time,2025,boardgame,,,
 123881,Takemo,,boardgame,,,
 70919,Takenoko,2011,boardgame,,,
 ,Taktillinen partiopeli,1934,boardgame,,,
-130176,Tales & Games: The Hare & the Tortoise,,boardgame,,,
-135649,Tales & Games: The Three Little Pigs,,boardgame,,,
+130176,Tales & Games: The Hare & the Tortoise,,boardgame,,,tales-and-games-the-hare-and-the-tortoise
+135649,Tales & Games: The Three Little Pigs,,boardgame,,,tales-and-games-the-three-little-pigs
 34119,Tales of the Arabian Nights,,boardgame,,,
 9755,Tales of the Crystals,,boardgame,,,
 30686,Taliesin Master Game,,boardgame,,,
-714,Talisman,1983,boardgame,,,
+714,Talisman,1983,boardgame,,,talisman-1983
 ,Talisman City,,boardgame,,,
 ,Talisman The Adventure,,boardgame,,,
 273976,Talisman: Kingdom Hearts,2019,boardgame,,,
-908,Tally Ho!,1973,boardgame,,,
+908,Tally Ho!,1973,boardgame,,,tally-ho
 24508,Taluva,,boardgame,,,
-108,TAMSK,1998,boardgame,,,
+108,TAMSK,1998,boardgame,,,tamsk
 6492,Tanbo,,boardgame,,,
-,Tank Attack,1988,boardgame,,,
-2598,Tank Battle,1975,boardgame,,,
+,Tank Attack,1988,boardgame,,,tank-attack-1988
+2598,Tank Battle,1975,boardgame,,,tank-battle-1975
 ,Tannenberg,,boardgame,,,
 286096,Tapestry,2019,boardgame,,,
 202,Targui,1988,boardgame,,,
 297234,Taskmaster: The Board Game,2018,boardgame,,,
-7191,Tau Ceti 2015 AD,,boardgame,,,
+7191,Tau Ceti 2015 AD,,boardgame,,,tau-ceti-2015-ad
 ,Taule,,boardgame,,,
 2397,Tavli,,boardgame,,,
 62207,Tavreli,,boardgame,,,
 16373,Techno Witches,,boardgame,,,
 9138,Teeko,,boardgame,,,
-9049,Teenage Mutant Ninja Turtles Game,2003,boardgame,,,
-9464,Teenage Mutant Ninja Turtles: Pizza Power Game,1987,boardgame,,,
-19357,Teenage Mutant Ninja Turtles: Tower of Doom,1990,boardgame,,,
+9049,Teenage Mutant Ninja Turtles Game,2003,boardgame,,,teenage-mutant-ninja-turtles-game-2003
+9464,Teenage Mutant Ninja Turtles: Pizza Power Game,1987,boardgame,,,teenage-mutant-ninja-turtles-pizza-power-game
+19357,Teenage Mutant Ninja Turtles: Tower of Doom,1990,boardgame,,,teenage-mutant-ninja-turtles-tower-of-doom
 22392,TEG,1976,boardgame,,,
 46213,Telestrations,,boardgame,,,
-298477,Tellstones: King's Gambit,,boardgame,,,
+298477,Tellstones: King's Gambit,,boardgame,,,tellstones-kings-gambit
 ,Temple of the Beastmen,,boardgame,,,
 17161,Tempus,,boardgame,,,
 ,Teotihuacan: City of Gods,2018,boardgame,,,
@@ -3101,11 +3100,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 97903,Terror in Meeple City,,boardgame,,,
 42420,Terror of the Lichemaster,,boardgame,,,
 371433,Terrorscape,2023,boardgame,,,
-18657,Test Match,1955,boardgame,,,
+18657,Test Match,1955,boardgame,,,test-match-1955
 ,Test of Arms,,boardgame,,,
 26993,Teufelsrad,,boardgame,,,
 85287,Thai checkers,,boardgame,,,
-17240,That's Life!,2005,boardgame,,,
+17240,That's Life!,2005,boardgame,,,thats-life
 38359,The 3 Commandments,,boardgame,,,
 180263,The 7th Continent,,boardgame,,,
 43868,The Adventurers: The Temple of Chac,,boardgame,,,
@@ -3115,10 +3114,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 8803,The American Revolution: 1775–1783,1972,boardgame,,,
 359124,The Animals of Baker Street,2022,boardgame,,,
 162,The Awful Green Things From Outer Space,,boardgame,,,
-4300,The Barbarians: Games of the Fall of Rome and the Mongol Invasion of Europe,1981,boardgame,,,
+4300,The Barbarians: Games of the Fall of Rome and the Mongol Invasion of Europe,1981,boardgame,,,the-barbarians
 32484,The Battle for Hill 218,,boardgame,,,
-7003,The Battle of Britain,1968,boardgame,,,
-8110,"The Battle of Raphia, 217 B.C.",,boardgame,,,
+7003,The Battle of Britain,1968,boardgame,,,the-battle-of-britain-1968
+8110,"The Battle of Raphia, 217 B.C.",,boardgame,,,the-battle-of-raphia-217-bc
 379959,The Battle of Versailles,2024,boardgame,,,
 ,The Battles of Bull Run,,boardgame,,,
 2709,The Beastlord,,boardgame,,,
@@ -3126,32 +3125,32 @@ bgg_id,name,year,type,status,notes,yaml_id
 117908,The Big Fat Tomato Game,2012,boardgame,,,
 37444,The Big Time!,,boardgame,,,
 23890,The Black Pirate,,boardgame,,,
-342921,The British Way: Counterinsurgency at the End of Empire,2023,boardgame,,,
+342921,The British Way: Counterinsurgency at the End of Empire,2023,boardgame,,,the-british-way
 144553,The Builders: Middle Ages,,boardgame,,,
 6826,The Campaigns of Robert E. Lee,,boardgame,,,
-40005,The Caravan,,boardgame,,,
-7389,The Castle (board game),,boardgame,,,
+40005,The Caravan,,boardgame,,,karawane
+7389,The Castle (board game),,boardgame,,,the-castle-carcassonne
 25951,The Castle of the Devil,,boardgame,,,
 84876,The Castles of Burgundy,2011,boardgame,,,
-186095,The Cat's Pajamas,,boardgame,,,
+186095,The Cat's Pajamas,,boardgame,,,the-cats-pajamas
 40244,The Checkered Game of Life,1861,boardgame,,,
 ,The China War,,boardgame,,,
-103649,The City,2011,boardgame,,,
+103649,The City,2011,boardgame,,,the-city-2011
 256980,The Color Monster,,boardgame,,,
 ,The Conquerors,,boardgame,,,
 5446,The Conquest of Oil,1973,boardgame,,,
-68475,The Cottage of Content or the Blessings of Cheerfulness & Good Temper,,boardgame,,,
+68475,The Cottage of Content or the Blessings of Cheerfulness & Good Temper,,boardgame,,,the-cottage-of-content
 ,The Crew,2020,boardgame,,,the-crew-quest-for-planet-nine
 284083,The Crew: The Quest for Planet Nine,2019,boardgame,,,the-crew-quest-for-planet-nine
 31725,The Crocodile-Game,1987,boardgame,,,
 54201,The d6 Shooters,,boardgame,,,
-15369,The Devil's Cauldron: The Battles for Arnhem and Nijmegen,,boardgame,,,
+15369,The Devil's Cauldron: The Battles for Arnhem and Nijmegen,,boardgame,,,the-devils-cauldron
 165401,"The divided Germany, 1945-1989",2014,boardgame,,,
 124548,The Doom That Came To Atlantic City,,boardgame,,,
 ,The Dragonlords,,boardgame,,,
 36235,The Duke,,boardgame,,,
 34639,The Dungeon of D,,boardgame,,,
-,The East is Red: The Sino Soviet War,,boardgame,,,
+,The East is Red: The Sino Soviet War,,boardgame,,,the-east-is-red
 ,The Elder Scrolls: Betrayal of the Second Era,2025,boardgame,,,elder-scrolls-betrayal-of-the-second-era
 ,The Emperor Returns,,boardgame,,,
 130792,The enchanted tower,,boardgame,,,
@@ -3162,20 +3161,20 @@ bgg_id,name,year,type,status,notes,yaml_id
 5195,The Farming Game,,boardgame,,,
 1187,The Fellowship of the Ring,,boardgame,,,
 ,The Final Campaign,,boardgame,,,
-10521,The Final Frontier (board game),1992,boardgame,,,
+10521,The Final Frontier (board game),1992,boardgame,,,the-final-frontier-1992
 5310,The First Galaxy G1,,boardgame,,,
 ,The Flight of the Goeben,,boardgame,,,flight-of-the-goeben
-305,The Flying Dutchman,1992,boardgame,,,
+305,The Flying Dutchman,1992,boardgame,,,the-flying-dutchman-1992
 5043,The Forever War,,boardgame,,,
 ,The Franco-Prussian War,,boardgame,,,
-936,The Fury of Dracula,1987,boardgame,,,
+936,The Fury of Dracula,1987,boardgame,,,the-fury-of-dracula-1987
 5193,The Fury of the Norsemen,,boardgame,,,
 125153,The Gallerist,,boardgame,,,
 159492,The Game of 49,,boardgame,,,
 25988,The game of fortress and siege,,boardgame,,,
 746,"The Game of France, 1940",,boardgame,,,
 ,The Game of Jaws,,boardgame,,,
-2921,The Game of Life,1960,boardgame,,,
+2921,The Game of Life,1960,boardgame,,,jinsei-game
 15731,The Game of Life Card Game,,boardgame,,,
 14245,The Game of the District Messenger Boy,,boardgame,,,
 ,The Gang,2024,boardgame,,,
@@ -3190,28 +3189,28 @@ bgg_id,name,year,type,status,notes,yaml_id
 8636,The Grape Escape,,boardgame,,,
 761,The Great Brain Robbery,,boardgame,,,
 2063,The Great Khan Game,,boardgame,,,
-5724,The Great Patriotic War: Nazi Germany vs. the Soviet Union,,boardgame,,,
+5724,The Great Patriotic War: Nazi Germany vs. the Soviet Union,,boardgame,,,the-great-patriotic-war
 4293,The Great Redoubt,1979,boardgame,,,
 ,The Great Wall Street Fortune Hunt,,boardgame,,,
 173105,The Great War,,boardgame,,,
-382924,The Guerrilla Generation: Cold War Insurgencies,2026,boardgame,,,
+382924,The Guerrilla Generation: Cold War Insurgencies,2026,boardgame,,,the-guerrilla-generation
 350933,The Guild of Merchant Explorers,,boardgame,,,
-,The Hammer of Thor: The Game of Norse Mythology,,boardgame,,,
+,The Hammer of Thor: The Game of Norse Mythology,,boardgame,,,the-hammer-of-thor
 6917,The High Crusade,,boardgame,,,
 2903,The Hunt for Red October,,boardgame,,,
 281259,The Isle of Cats,2019,boardgame,,,
 39373,The Jolly Darkie Target Game,,boardgame,,,
 ,The Keep,,boardgame,,,
 5824,The Kids of Catan,,boardgame,,,
-245655,The King's Dilemma,,boardgame,,,
+245655,The King's Dilemma,,boardgame,,,the-kings-dilemma
 7349,The Korean War,,boardgame,,,
 1217,The Labyrinth of Rings,,boardgame,,,
-4522,The Ladybug's Costume Party,,boardgame,,,
-29316,The Landlord's Game,1903,boardgame,,,
+4522,The Ladybug's Costume Party,,boardgame,,,the-ladybugs-costume-party
+29316,The Landlord's Game,1903,boardgame,,,the-landlords-game
 ,The Last Hurrah,,boardgame,,,
 3881,The Last Starfighter: Tunnel Chase,,boardgame,,,
-1695,The Legend of Robin Hood,1979,boardgame,,,
-127398,The Legends of Andor,2012,boardgame,,,
+1695,The Legend of Robin Hood,1979,boardgame,,,the-legend-of-robin-hood-1979
+127398,The Legends of Andor,2012,boardgame,,,legends-of-andor
 2866,The London Game,,boardgame,,,
 2736,The Lonely Mountain,,boardgame,,,
 5651,The Longest Day,,boardgame,,,
@@ -3225,32 +3224,32 @@ bgg_id,name,year,type,status,notes,yaml_id
 2240,The Mad Magazine Card Game,,boardgame,,,
 1604,The Mad Magazine Game,,boardgame,,,
 41916,The Magic Labyrinth,,boardgame,,,
-14247,The Mansion of Happiness,1800,boardgame,,,
+14247,The Mansion of Happiness,1800,boardgame,,,the-mansion-of-happiness-1800
 ,"The March on India, 1944",,boardgame,,,
 27800,The Market of Alturien,,boardgame,,,
-,The Marne: Home Before the Leaves Fall,,boardgame,,,
+,The Marne: Home Before the Leaves Fall,,boardgame,,,the-marne-home-before-leaves-fall
 14514,The Metric Mile,,boardgame,,,
 180565,The mysterious Dragon Cave,,boardgame,,,
 244528,The mysterious magical lake,,boardgame,,,
-1152,The Mystic Wood,1980,boardgame,,,
-35488,The Name of the Rose,2008,boardgame,,,
-3409,The Napoleonic Wars,2002,boardgame,,,
+1152,The Mystic Wood,1980,boardgame,,,the-mystic-wood-1980
+35488,The Name of the Rose,2008,boardgame,,,the-name-of-the-rose-2008
+3409,The Napoleonic Wars,2002,boardgame,,,the-napoleonic-wars-2002
 8719,The Next War,,boardgame,,,
 357873,The Old King's Crown,2025,boardgame,,,old-kings-crown
 6920,The Omega War,,boardgame,,,
 ,The One World,,boardgame,,,
-129948,The Palaces of Carrara,2012,boardgame,,,
+129948,The Palaces of Carrara,2012,boardgame,,,the-palaces-of-carrara-2012
 ,The Peninsular War 1808-14,,boardgame,,,
-24480,The Pillars of the Earth,2006,boardgame,,,
+24480,The Pillars of the Earth,2006,boardgame,,,the-pillars-of-the-earth-2006
 163122,The President,,boardgame,,,
 555,The Princes of Florence,2000,boardgame,,,princes-of-florence
 244521,The Quacks of Quedlinburg,2018,boardgame,,,
-346101,The Queen's Gambit,2021,boardgame,,,
+346101,The Queen's Gambit,2021,boardgame,,,the-queens-gambit-2021
 217372,The Quest for El Dorado,2017,boardgame,,,quest-for-el-dorado
-,The Quest of the Philosopher's Stone,,boardgame,,,
+,The Quest of the Philosopher's Stone,,boardgame,,,the-quest-of-the-philosophers-stone
 126,The Really Nasty Horse Racing Game,,boardgame,,,
 24310,The Red Dragon Inn,,boardgame,,,
-41114,The Resistance,2009,boardgame,,,
+41114,The Resistance,2009,boardgame,,,the-resistance-2009
 66056,The Rivals for Catan,,boardgame,,,
 206938,The Rolling Witch,,boardgame,,,
 201,The Rose King,,boardgame,,,
@@ -3258,30 +3257,30 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Search for Planet X,2020,boardgame,,,
 4678,The Search for Spock,,boardgame,,,
 3655,The Settlers of Canaan,,boardgame,,,
-13,The Settlers of Catan,1995,boardgame,,,settlers-of-catan
-64159,The Settlers of Catan - Entry level version,,boardgame,,,
+13,The Settlers of Catan,1995,boardgame,,,catan
+64159,The Settlers of Catan - Entry level version,,boardgame,,,the-settlers-of-catan-entry-level
 137594,The Settlers of Catan - Mini,,boardgame,,,
 189,The Settlers of Nuremberg,,boardgame,,,
 4394,The Settlers of the Stone Age,,boardgame,,,
 6778,The Settlers of Zarahemla,,boardgame,,,
 1710,The Siege of Jerusalem,,boardgame,,,
-1202,The Sorcerer's Cave,,boardgame,,,
-1303,The Squirrel Game,1987,boardgame,,,
-2258,The Stock Market Game,1970,boardgame,,,
+1202,The Sorcerer's Cave,,boardgame,,,the-sorcerers-cave
+1303,The Squirrel Game,1987,boardgame,,,the-squirrel-game-1987
+2258,The Stock Market Game,1970,boardgame,,,the-stock-market-game-1970
 3966,The Succession Wars,,boardgame,,,
-38735,The Swarm,2008,boardgame,,,
+38735,The Swarm,2008,boardgame,,,the-swarm-2008
 2121,The Sword and the Stars,,boardgame,,,
 ,The Taverns of Tiefenthal,2019,boardgame,,,taverns-of-tiefenthal
 ,The Tea Dragon Society Card Game,2018,boardgame,,,tea-dragon-society-card-game
-4294,The Thin Red Line,1979,boardgame,,,
-75828,The Thing,,boardgame,,,
-295293,The Thing: The Boardgame,2022,boardgame,,,
+4294,The Thin Red Line,1979,boardgame,,,the-thin-red-line-1979
+75828,The Thing,,boardgame,,,the-thing-1982
+295293,The Thing: The Boardgame,2022,boardgame,,,the-thing-boardgame-2022
 409501,The Twisted Spooky Night,,boardgame,,,
 6283,The Ungame,,boardgame,,,
-385529,The Vale of Eternity,2023,boardgame,,,
+385529,The Vale of Eternity,2023,boardgame,,,the-vale-of-eternity-2023
 279,The Very Clever Pipe Game,,boardgame,,,
 171623,The Voyages of Marco Polo,2015,boardgame,,,voyages-of-marco-polo
-7566,The War of the Worlds,,boardgame,,,
+7566,The War of the Worlds,,boardgame,,,the-war-of-the-worlds-board-game
 ,The War of the Worlds II,,boardgame,,,
 1144,The Warlock of Firetop Mountain,,boardgame,,,
 ,The Watersdown Affair,,boardgame,,,
@@ -3291,18 +3290,18 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Wilderness Campaign,,boardgame,,,
 1833,The Willow Game,,boardgame,,,
 35177,The Winning Touch,,boardgame,,,
-,The Witcher Adventure Game,2014,boardgame,,,
+,The Witcher Adventure Game,2014,boardgame,,,the-witcher-adventure-game-2014
 ,The Witcher RPG,,boardgame,,,
 23604,The World Cup Game,,boardgame,,,
 ,The Worlds of Boris Vallejo,,boardgame,,,
-2376,The Wreck of the B.S.M. Pandora,,boardgame,,,
+2376,The Wreck of the B.S.M. Pandora,,boardgame,,,the-wreck-of-the-bsm-pandora
 ,The X-Files Board Game,,boardgame,,,
 ,The X-Files Trivia Game,,boardgame,,,
-30869,Thebes,2007,boardgame,,,
-4355,Therapy,,boardgame,,,
-2215,They've Invaded Pleasantville,,boardgame,,,
-13208,Thin Ice,1989,boardgame,,,
-379932,Third Crusade,2024,boardgame,,,
+30869,Thebes,2007,boardgame,,,thebes-2007
+4355,Therapy,,boardgame,,,therapy-1986
+2215,They've Invaded Pleasantville,,boardgame,,,theyve-invaded-pleasantville
+13208,Thin Ice,1989,boardgame,,,thin-ice-1989
+379932,Third Crusade,2024,boardgame,,,third-crusade-2024
 2904,Third Reich/Great Pacific War series,,boardgame,,,
 ,Thiruthamizh,,boardgame,,,
 188920,This War of Mine: The Board Game,,boardgame,,,
@@ -3313,14 +3312,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Through the Ages,2006,boardgame,,,through-the-ages-2006
 182028,Through the Ages: A New Story of Civilization,2015,boardgame,,,
 25613,Through the Ages: A Story of Civilization,2006,boardgame,,,through-the-ages-2006
-503,Through the Desert,1998,boardgame,,,
+503,Through the Desert,1998,boardgame,,,through-the-desert-1998
 4532,Thud,,boardgame,,,
 ,"Thunde-Rin Guns, Game of the Wild West",,boardgame,,,
-108906,Thunder Alley,2014,boardgame,,,
+108906,Thunder Alley,2014,boardgame,,,thunder-alley-2014
 12597,Thunder on South Mountain,,boardgame,,,
 804,Thunder Road,,boardgame,,,thunder-road-vendetta
 ,Thunder Road: Vendetta,2023,boardgame,,,
-53953,Thunderstone,2009,boardgame,,,
+53953,Thunderstone,2009,boardgame,,,thunderstone-2009
 116998,Thunderstone Advance: Towers of Ruin,,boardgame,,,
 ,Thunderstone Quest,2018,boardgame,,,
 85897,Thunderstone: Dragonspire,,boardgame,,,
@@ -3328,19 +3327,19 @@ bgg_id,name,year,type,status,notes,yaml_id
 9209,Ticket to Ride,2004,boardgame,,,
 ,Ticket to Ride Europe,2005,boardgame,,,
 390092,Ticket to Ride Legacy: Legends of the West,2023,boardgame,,,
-309113,Ticket to Ride: Amsterdam,2020,boardgame,,,
+309113,Ticket to Ride: Amsterdam,2020,boardgame,,,ticket-to-ride-amsterdam-2020
 14996,Ticket to Ride: Europe,2005,boardgame,,,
-218208,Ticket to Ride: First Journey (Europe),2017,boardgame,,,
-205125,Ticket to Ride: First Journey (U.S.),2016,boardgame,,,
-225244,Ticket to Ride: Germany,2017,boardgame,,,
+218208,Ticket to Ride: First Journey (Europe),2017,boardgame,,,ticket-to-ride-first-journey-europe-2017
+205125,Ticket to Ride: First Journey (U.S.),2016,boardgame,,,ticket-to-ride-first-journey-us-2016
+225244,Ticket to Ride: Germany,2017,boardgame,,,ticket-to-ride-germany-2017
 366488,Ticket to Ride: Ghost Train,2022,boardgame,,,
 276894,Ticket to Ride: London,2019,boardgame,,,
-21348,Ticket to Ride: Märklin,2006,boardgame,,,
+21348,Ticket to Ride: Märklin,2006,boardgame,,,ticket-to-ride-marklin
 253284,Ticket to Ride: New York,2018,boardgame,,,
 31627,Ticket to Ride: Nordic Countries,2007,boardgame,,,
 371140,Ticket to Ride: Northern Lights,2022,boardgame,,,
 403221,Ticket to Ride: Paris,2024,boardgame,,,
-202670,Ticket to Ride: Rails & Sails,2016,boardgame,,,
+202670,Ticket to Ride: Rails & Sails,2016,boardgame,,,ticket-to-ride-rails-and-sails
 362541,Ticket to Ride: San Francisco,2022,boardgame,,,
 34127,Ticket to Ride: The Card Game,2008,boardgame,,,
 18549,Tickle Bee,,boardgame,,,
@@ -3355,30 +3354,30 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Tiletum,2022,boardgame,,,
 38430,Timber Tom,,boardgame,,,
 4957,Timberland,1989,boardgame,,,
-164949,"Time of Crisis: The Roman Empire in Turmoil, 235-284 AD",,boardgame,,,
+164949,"Time of Crisis: The Roman Empire in Turmoil, 235-284 AD",,boardgame,,,time-of-crisis
 5503,Time Tripper,1980,boardgame,,,
 7398,Time Tunnels,,boardgame,,,
-37141,Time's Up! Deluxe,,boardgame,,,
-36553,Time's Up! Title Recall!,,boardgame,,,
-7535,Timelag,,boardgame,,,
-211,Times to Remember,,boardgame,,,
+37141,Time's Up! Deluxe,,boardgame,,,times-up-deluxe
+36553,Time's Up! Title Recall!,,boardgame,,,times-up-title-recall
+7535,Timelag,,boardgame,failed,No sources found,
+211,Times to Remember,,boardgame,failed,No sources found,
 35570,Tinners' Trail,2008,boardgame,,,
 41699,Tintenblut,,boardgame,,,
-254388,Tintin & Tintinors,,boardgame,,,
+254388,Tintin & Tintinors,,boardgame,,,tintin-and-tintinors
 265736,Tiny Towns,2019,boardgame,,,
 10687,Tipsy Tower,,boardgame,,,
 103,Titan,,boardgame,,,
 3174,Titan Strike!,,boardgame,,,
 ,Titanic: The Board Game,,boardgame,,,
-,"Tito and his Partisan Army: Yugoslavia, 1941–45",,boardgame,,,
-262341,TMMC,2016,boardgame,,,
-21414,To the Last Man! The Great War in the West,,boardgame,,,
+,"Tito and his Partisan Army: Yugoslavia, 1941–45",,boardgame,duplicate,"Same as Tito and his Partisan Army: Yugoslavia, 1941-45",
+262341,TMMC,2016,boardgame,failed,No sources found,
+21414,To the Last Man! The Great War in the West,,boardgame,,,to-the-last-man
 42215,Tobago,2009,boardgame,,,
-,Tobit,,boardgame,,,
+,Tobit,,boardgame,failed,No sources found,
 5455,Tobruk,,boardgame,,,
 9388,Toc Toc Toc !,2004,boardgame,,,
 123540,Tokaido,,boardgame,,,
-1681,Tokyo Express: The Guadalcanal Naval Campaign – 1942,1988,boardgame,,,
+1681,Tokyo Express: The Guadalcanal Naval Campaign – 1942,1988,boardgame,duplicate,Same as Tokyo Express: The Guadalcanal Naval Campaign - 1942,
 34599,Toledo,,boardgame,,,
 29581,Tomb,,boardgame,,,
 7625,Tomorrow the World,1989,boardgame,,,
@@ -3386,53 +3385,53 @@ bgg_id,name,year,type,status,notes,yaml_id
 43034,Tonkin,,boardgame,,,
 192135,Too Many Bones,2017,boardgame,,,
 40651,Too Many Monkeys,2009,boardgame,,,
-101804,Top 13,,boardgame,,,
+101804,Top 13,,boardgame,failed,No sources found,
 382,Top Secret Spies,1984,boardgame,,,
 ,Topple,,boardgame,,,
 88,Torres,1999,boardgame,,,
 1701,Toscana,,boardgame,,,
 2607,Totopoly,1938,boardgame,,,
 ,Touch and Go,,boardgame,,,
-5709,Touché,,boardgame,,,
-,Tourne Case,,boardgame,,,
-,Towers,,boardgame,,,
+5709,Touché,,boardgame,,,touche
+,Tourne Case,,boardgame,failed,No sources found,
+,Towers,,boardgame,failed,No sources found,
 ,Toy Battle,2025,boardgame,,,
 ,Traber Derby Spiel,,boardgame,,,
 1337,Traboulet,,boardgame,,,
-6605,Track,,boardgame,,,
+6605,Track,,boardgame,failed,"Name too generic, no specific game identified",
 3598,Tracks to Telluride,1994,boardgame,,,
 5201,Trailblazer,,boardgame,,,
-,Train,,boardgame,,,
+,Train,,boardgame,failed,"Name too generic, no specific game identified",
 56835,Train of Thought,,boardgame,,,
 ,Trains,2013,boardgame,,,
-72,Traitor,,boardgame,,,
+72,Traitor,,boardgame,failed,"Name too generic, no specific game identified",
 102680,Trajan,2011,boardgame,,,
 2842,TransAmerica,2001,boardgame,,,
 28650,Transformers,,boardgame,,,
 4734,Transylvania,,boardgame,,,
 13229,Trap,1972,boardgame,,,
-12245,Trap Surprise,,boardgame,,,
-156056,Traumatosaures,,boardgame,,,
+12245,Trap Surprise,,boardgame,failed,No sources found,
+156056,Traumatosaures,,boardgame,failed,No sources found,
 ,Travel Go,,boardgame,,,
 242639,Treasure Island,,boardgame,,,
 21955,Treehouse,2006,boardgame,,,
-102881,Trench,2008,boardgame,,,
+102881,Trench,2008,boardgame,,,trench-2008
 ,Trench Crusade,2023,boardgame,,,
 7377,Tri-Ba-Lance,,boardgame,,,
 8208,Trial of Strength,,boardgame,,,
 4249,Trias,,boardgame,,,
 1962,TriBond,,boardgame,,,
-3417,Tribulation,1974,boardgame,,,
+3417,Tribulation,1974,boardgame,,,tribulation-1974
 30957,Tribune: Primus Inter Pares,,boardgame,,,
 1500,Tric Trac,,boardgame,,,
-255668,Trickerion: Collector's Edition,2019,boardgame,,,
+255668,Trickerion: Collector's Edition,2019,boardgame,,,trickerion-collectors-edition
 ,Trickerion: Legends of Illusion,2015,boardgame,,,trickerion
 16387,Trimula,,boardgame,,,
 13103,Triolet,,boardgame,,,
 4040,Triominoes,,boardgame,,,
 3758,Triopoly,,boardgame,,,
 3637,Triplanetary,,boardgame,,,
-10073,Triumph,1986,boardgame,,,
+10073,Triumph,1986,boardgame,,,triumph-1986
 2952,Trivial Pursuit,1981,boardgame,,,
 877,Troia,2000,boardgame,,,
 1410,Trouble,1965,boardgame,,,
@@ -3450,12 +3449,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 21207,Tumbling Down,,boardgame,,,
 156878,tummple!,,boardgame,,,
 356123,Turing Machine,,boardgame,,,
-22219,Turm & Wächter,,boardgame,,,
-759,Turning Point: Stalingrad,1989,boardgame,,,
-8363,Turning Point: The Battle of Stalingrad,1972,boardgame,,,
+22219,Turm & Wächter,,boardgame,,,turm-und-wachter
+759,Turning Point: Stalingrad,1989,boardgame,,,turning-point-stalingrad-1989
+8363,Turning Point: The Battle of Stalingrad,1972,boardgame,,,turning-point-battle-of-stalingrad-1972
 300,Tutankhamen,,boardgame,,,
-1998,Tutankhamen's Revenge,,boardgame,,,
-24,Twilight Imperium,1997,boardgame,,,
+1998,Tutankhamen's Revenge,,boardgame,,,tutankhamens-revenge
+24,Twilight Imperium,1997,boardgame,,,twilight-imperium-1997
 12333,Twilight Struggle,,boardgame,,,
 5894,Twister,,boardgame,,,
 ,two-player chess,,boardgame,,,
@@ -3464,12 +3463,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 3230,Tyros,,boardgame,,,
 31999,Tzaar,2007,boardgame,,,
 126163,Tzolk'in: The Mayan Calendar,2013,boardgame,,,tzolkin-the-mayan-calendar
-8727,"U.S.N.: The Game of War in the Pacific, 1941–43",1971,boardgame,,,
+8727,"U.S.N.: The Game of War in the Pacific, 1941–43",1971,boardgame,,,usn-game-of-war-pacific
 16986,Ubongo,2003,boardgame,,,
 46396,Ubongo 3D,,boardgame,,,
 31479,Ubongo Extreme,,boardgame,,,
 34969,Ubongo: Duel,,boardgame,,,
-19967,Uckers,,boardgame,,,
+19967,Uckers,,boardgame,,,ludo
 1706,UFO: Game of Close Encounters,,boardgame,,,
 60131,Ugg-Tect,,boardgame,,,
 11421,Uisge,,boardgame,,,
@@ -3480,13 +3479,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 4627,Ultra-Warrior,,boardgame,,,
 442,Um Reifenbreite,,boardgame,,,
 12157,Unanimo,,boardgame,,,
-66643,Uncle Chestnut's Table Gype,,boardgame,,,
+66643,Uncle Chestnut's Table Gype,,boardgame,,,uncle-chestnuts-table-gype
 3074,Uncle Wiggily,1916,boardgame,,,
 ,Unconscious Mind,2024,boardgame,,,
 ,Undaunted: Normandy,2019,boardgame,,,
-,Undead (board game),,boardgame,,,
+,Undead (board game),,boardgame,,,undead
 306735,Under Falling Skies,2020,boardgame,,,
-273779,Under Falling Skies: A 9-Card Solo Game,2019,boardgame,,,
+273779,Under Falling Skies: A 9-Card Solo Game,2019,boardgame,,,under-falling-skies-9-card
 ,Undersea Warriors,1975,boardgame,,,
 247763,Underwater Cities,,boardgame,,,
 1690,Unexploded Cow,,boardgame,,,
@@ -3518,7 +3517,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 25420,Ur,,boardgame,,,
 2539,Urland,,boardgame,,,
 38797,Uruk,,boardgame,,,
-,Usuthu! The Battle Of Rorke's Drift 1879,,boardgame,,,
+,Usuthu! The Battle Of Rorke's Drift 1879,,boardgame,,,usuthu-the-battle-of-rorkes-drift-1879
 75223,Utopia Engine,,boardgame,,,
 2536,Vabanque,,boardgame,,,
 39620,Vai Lung Thlan,,boardgame,,,
@@ -3535,7 +3534,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 4353,Vector 3,,boardgame,,,
 15364,Vegas Showdown,,boardgame,,,
 1910,Venice Connection,1988,boardgame,,,
-4172,Veracruz: U.S. Invasion of Mexico 1847,1977,boardgame,,,
+4172,Veracruz: U.S. Invasion of Mexico 1847,1977,boardgame,,,veracruz-us-invasion-of-mexico-1847
 5276,Verdun: The Game of Attrition,1972,boardgame,,,
 ,Verquere,,boardgame,,,
 ,Verso Recto,,boardgame,,,
@@ -3575,7 +3574,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 702,Wabbit Wampage,,boardgame,,,
 6253,Wacht am Rhein,1977,boardgame,,,
 1422,Wadjet,,boardgame,,,
-239,"Wagram: The Peace of Vienna, 5-6 July 1809",1975,boardgame,,,
+239,"Wagram: The Peace of Vienna, 5-6 July 1809",1975,boardgame,,,wagram-the-peace-of-vienna
 33701,Wahoo,,boardgame,,,
 198432,"Wait Up, Grandpa!",,boardgame,,,
 118025,Waka Waka,,boardgame,,,
@@ -3583,182 +3582,182 @@ bgg_id,name,year,type,status,notes,yaml_id
 12232,Wall Street Spin,,boardgame,,,
 109125,Wallenstein,2002,boardgame,,,
 355483,Wandering Towers,2022,boardgame,,,
-33112,War,1972,boardgame,,,
+33112,War,1972,boardgame,,,war-1972
 626,War and Peace,1980,boardgame,,,
-1431,War at Sea,,boardgame,,,
-,War Between the States 1861–1865,,boardgame,,,
-2802,War in Europe,,boardgame,,,
-,War in the East,,boardgame,,,
-,War in the Pacific,,boardgame,,,
-1645,War of 1812,1973,boardgame,,,
+1431,War at Sea,,boardgame,,,war-at-sea
+,War Between the States 1861–1865,,boardgame,,,war-between-the-states
+2802,War in Europe,,boardgame,,,war-in-europe
+,War in the East,,boardgame,,,war-in-the-east
+,War in the Pacific,,boardgame,,,war-in-the-pacific
+1645,War of 1812,1973,boardgame,,,war-of-1812
 9609,War of the Ring,2004,boardgame,,,
-60153,War of the Ring Collector's Edition,,boardgame,,,
-362944,War of the Ring: The Card Game,2022,boardgame,,,
-16258,War of the Star Slavers,,boardgame,,,
-6217,War of Wizards,1975,boardgame,,,
-24396,War on Terror,2006,boardgame,,,
-490,Warangel,,boardgame,,,
-7479,Warcraft: The Board Game,,boardgame,,,
-6380,WarCry,,boardgame,,,
-156776,"Warhammer 40,000: Conquest",,boardgame,,,
-207653,Warhammer 40.000: Kill Team,,boardgame,,,
-1634,Warhammer Quest,,boardgame,,,
-4634,Warhammer Warriors Battle Books,,boardgame,,,
-3466,WarpWar,,boardgame,,,
-1143,Warrior Knights,,boardgame,,,
-23679,"Warriors of God: The Wars of England & France, 1135-1453",,boardgame,,,
-34303,Warriors of Mars,1974,boardgame,,,
-,Warriors of the Green Planet Trilogy,,boardgame,,,
-4978,Warzone,,boardgame,,,
-33154,Wasabi!,,boardgame,,,
-38996,Washington's War,,boardgame,,,
-67178,Water Lily,,boardgame,,,
-274364,Watergate,,boardgame,,,
-36887,Waterloo,,boardgame,,,
-29500,watermelon chess,,boardgame,,,
-189626,Waurie,,boardgame,,,
-262543,Wavelength,,boardgame,,,
-30021,Wavre: The Lost Opportunity,1976,boardgame,,,
+60153,War of the Ring Collector's Edition,,boardgame,,,war-of-the-ring-collectors-edition
+362944,War of the Ring: The Card Game,2022,boardgame,,,war-of-the-ring-the-card-game
+16258,War of the Star Slavers,,boardgame,,,war-of-the-star-slavers
+6217,War of Wizards,1975,boardgame,,,war-of-wizards
+24396,War on Terror,2006,boardgame,,,war-on-terror
+490,Warangel,,boardgame,,,warangel
+7479,Warcraft: The Board Game,,boardgame,,,warcraft-the-board-game
+6380,WarCry,,boardgame,,,warcry
+156776,"Warhammer 40,000: Conquest",,boardgame,,,warhammer-40000-conquest
+207653,Warhammer 40.000: Kill Team,,boardgame,,,warhammer-40000-kill-team
+1634,Warhammer Quest,,boardgame,,,warhammer-quest
+4634,Warhammer Warriors Battle Books,,boardgame,,,warhammer-warriors-battle-books
+3466,WarpWar,,boardgame,,,warpwar
+1143,Warrior Knights,,boardgame,,,warrior-knights
+23679,"Warriors of God: The Wars of England & France, 1135-1453",,boardgame,,,warriors-of-god
+34303,Warriors of Mars,1974,boardgame,,,warriors-of-mars
+,Warriors of the Green Planet Trilogy,,boardgame,,,warriors-of-the-green-planet-trilogy
+4978,Warzone,,boardgame,,,warzone
+33154,Wasabi!,,boardgame,,,wasabi
+38996,Washington's War,,boardgame,,,washingtons-war
+67178,Water Lily,,boardgame,,,water-lily
+274364,Watergate,,boardgame,,,watergate
+36887,Waterloo,,boardgame,,,waterloo
+29500,watermelon chess,,boardgame,,,watermelon-chess
+189626,Waurie,,boardgame,,,waurie
+262543,Wavelength,,boardgame,,,wavelength
+30021,Wavre: The Lost Opportunity,1976,boardgame,,,wavre-the-lost-opportunity
 ,Wayfarers of the South Tigris,2022,boardgame,,,
-40352,We play shopping,2008,boardgame,,,
-620,We the People,,boardgame,,,
-2986,Web and Starship,1984,boardgame,,,
-491,Web of Power,2000,boardgame,,,
+40352,We play shopping,2008,boardgame,,,we-play-shopping
+620,We the People,,boardgame,,,we-the-people
+2986,Web and Starship,1984,boardgame,,,web-and-starship
+491,Web of Power,2000,boardgame,,,web-of-power
 339789,Welcome to the Moon,2021,boardgame,,,
 ,Welcome To...,2018,boardgame,,,
-13804,Wellington in the Peninsula,1975,boardgame,,,
-925,Werewolf,,boardgame,,,
-219215,Werewords,,boardgame,,,
-313924,Western Legends,2020,boardgame,,,
-9416,Westminster: The Election Game,,boardgame,,,
-,Westwall: Four Battles to Germany,,boardgame,,,
-2667,What Were You Thinking?,1998,boardgame,,,
-241488,Where's Mr. Wolf?,,boardgame,,,
-1613,Which Witch?,,boardgame,,,
-335275,Whirling Witchcraft,2021,boardgame,,,
-5549,Whiskey Settlers,,boardgame,,,
-10884,White Bear and Red Moon,1975,boardgame,,,
-,Who Can Beat Nixon?,,boardgame,,,
-4580,Who Is Going to Do the Dishes?,,boardgame,,,
-11104,Who's the Ass?,,boardgame,,,
-33643,Whoowasit?,,boardgame,,,
-2487,Why,,boardgame,,,
-28025,Wicked Witches Way,,boardgame,,,
-,Wicketz,,boardgame,,,
-1729,Wide World,,boardgame,,,
-13089,Wie ich die Welt sehe...,,boardgame,,,
-144418,Wien Catan,,boardgame,,,
-12065,Wig Out,,boardgame,,,
-2311,Wild Life,,boardgame,,,
-398,Wildlife Safari,,boardgame,,,
+13804,Wellington in the Peninsula,1975,boardgame,,,wellington-in-the-peninsula
+925,Werewolf,,boardgame,,,werewolf
+219215,Werewords,,boardgame,,,werewords
+313924,Western Legends,2020,boardgame,,,western-legends
+9416,Westminster: The Election Game,,boardgame,,,westminster-the-election-game
+,Westwall: Four Battles to Germany,,boardgame,,,westwall
+2667,What Were You Thinking?,1998,boardgame,,,what-were-you-thinking
+241488,Where's Mr. Wolf?,,boardgame,,,wheres-mr-wolf
+1613,Which Witch?,,boardgame,,,which-witch
+335275,Whirling Witchcraft,2021,boardgame,,,whirling-witchcraft
+5549,Whiskey Settlers,,boardgame,,,whiskey-settlers
+10884,White Bear and Red Moon,1975,boardgame,,,white-bear-and-red-moon
+,Who Can Beat Nixon?,,boardgame,,,who-can-beat-nixon
+4580,Who Is Going to Do the Dishes?,,boardgame,,,who-is-going-to-do-the-dishes
+11104,Who's the Ass?,,boardgame,,,whos-the-ass
+33643,Whoowasit?,,boardgame,,,whoowasit
+2487,Why,,boardgame,,,why
+28025,Wicked Witches Way,,boardgame,,,wicked-witches-way
+,Wicketz,,boardgame,,,wicketz
+1729,Wide World,,boardgame,,,wide-world
+13089,Wie ich die Welt sehe...,,boardgame,,,wie-ich-die-welt-sehe
+144418,Wien Catan,,boardgame,,,wien-catan
+12065,Wig Out,,boardgame,,,wig-out
+2311,Wild Life,,boardgame,,,wild-life
+398,Wildlife Safari,,boardgame,,,wildlife-safari
 266192,Wingspan,2019,boardgame,,,
 ,Wingspan Asia,2022,boardgame,,,
-8798,Winter War: The Russo-Finnish Conflict,1972,boardgame,,,
-17904,Wir füttern die kleinen Nilpferde,,boardgame,,,
+8798,Winter War: The Russo-Finnish Conflict,1972,boardgame,,,winter-war-the-russo-finnish-conflict
+17904,Wir füttern die kleinen Nilpferde,,boardgame,,,wir-futtern-die-kleinen-nilpferde
 ,Wir sind das Volk,2014,boardgame,,,
-2652,Wise and Otherwise,,boardgame,,,
-18840,Wissens-Spektrum,,boardgame,,,
-383499,Witchcraft!,2023,boardgame,,,
-318560,Witchstone,2021,boardgame,,,
-20100,Wits & Wagers,,boardgame,,,
-66588,Wits & Wagers Family,,boardgame,,,
-589,Wiz-War,,boardgame,,,
+2652,Wise and Otherwise,,boardgame,,,wise-and-otherwise
+18840,Wissens-Spektrum,,boardgame,,,wissens-spektrum
+383499,Witchcraft!,2023,boardgame,,,witchcraft
+318560,Witchstone,2021,boardgame,,,witchstone
+20100,Wits & Wagers,,boardgame,,,wits-and-wagers
+66588,Wits & Wagers Family,,boardgame,,,wits-and-wagers-family
+589,Wiz-War,,boardgame,,,wiz-war
 3463,Wizard,,boardgame,,,
-310,Wizard's Quest,,boardgame,,,
-202296,Wizardry to the power of three,,boardgame,,,
-828,Wizards,,boardgame,,,
-,Wolf and Sheep,,boardgame,,,
-293474,Wolfenstein: The Board Game,2022,boardgame,,,
-6946,Wolfpack,1974,boardgame,,,
-340237,Wonder Book,2021,boardgame,,,
+310,Wizard's Quest,,boardgame,,,wizards-quest
+202296,Wizardry to the power of three,,boardgame,,,wizardry-to-the-power-of-three
+828,Wizards,,boardgame,,,wizards
+,Wolf and Sheep,,boardgame,,,wolf-and-sheep
+293474,Wolfenstein: The Board Game,2022,boardgame,,,wolfenstein-the-board-game
+6946,Wolfpack,1974,boardgame,,,wolfpack
+340237,Wonder Book,2021,boardgame,,,wonder-book
 ,Wonderland's War,2022,boardgame,,,wonderlands-war
-355093,Woodcraft,2022,boardgame,,,
-237,Wooden Ships and Iron Men,,boardgame,,,
-3243,Wooly Wars,,boardgame,,,
-,Word chain,,boardgame,,,
-40990,Word on the Street,,boardgame,,,
-63778,Word on the Street Junior,,boardgame,,,
-4598,Word Rummikub,,boardgame,,,
-25729,World at War: Eisenbach Gap,,boardgame,,,
-1499,World in Flames,,boardgame,,,
-19643,World of Warcraft Trading Card Game,,boardgame,,,
-17223,World of Warcraft: The Board Game,,boardgame,,,
-,World War I: 1914–1918,,boardgame,,,
-,World War II: European Theater of Operations,,boardgame,,,
-43528,World Without End,,boardgame,,,
+355093,Woodcraft,2022,boardgame,,,woodcraft
+237,Wooden Ships and Iron Men,,boardgame,,,wooden-ships-and-iron-men
+3243,Wooly Wars,,boardgame,,,wooly-wars
+,Word chain,,boardgame,,,word-chain
+40990,Word on the Street,,boardgame,,,word-on-the-street
+63778,Word on the Street Junior,,boardgame,,,word-on-the-street-junior
+4598,Word Rummikub,,boardgame,,,word-rummikub
+25729,World at War: Eisenbach Gap,,boardgame,,,world-at-war-eisenbach-gap
+1499,World in Flames,,boardgame,,,world-in-flames
+19643,World of Warcraft Trading Card Game,,boardgame,,,world-of-warcraft-trading-card-game
+17223,World of Warcraft: The Board Game,,boardgame,,,world-of-warcraft-the-board-game
+,World War I: 1914–1918,,boardgame,,,world-war-i
+,World War II: European Theater of Operations,,boardgame,,,world-war-ii-european-theater-of-operations
+43528,World Without End,,boardgame,,,world-without-end
 365258,World Wonders,2023,boardgame,,,
-,WorldKiller: The Game of Planetary Assault,,boardgame,,,
-14321,Wortfix,,boardgame,,,
-66356,Wrath of Ashardalon,,boardgame,,,
-252877,Wreck Raiders,2019,boardgame,,,
+,WorldKiller: The Game of Planetary Assault,,boardgame,,,worldkiller-the-game-of-planetary-assault
+14321,Wortfix,,boardgame,,,wortfix
+66356,Wrath of Ashardalon,,boardgame,,,wrath-of-ashardalon
+252877,Wreck Raiders,2019,boardgame,,,wreck-raiders
 ,Wroth,2025,boardgame,,,
-410201,Wyrmspan,,boardgame,,,
-4816,Xactika,,boardgame,,,
-163602,XCOM,,boardgame,,,
-5962,Xeno,,boardgame,,,
-6706,Xerxes,1973,boardgame,,,
-82222,Xia: Legends of a Drift System,2014,boardgame,,,
-2393,xiangqi,,boardgame,,,
-3542,XIII: Le Complot,,boardgame,,,
-6476,"Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951",1977,boardgame,,,
-33767,Yavalath,,boardgame,,,
-,Yeoman,,boardgame,,,
-71671,Yggdrasil,2011,boardgame,,,
-155767,Yin Yang,1998,boardgame,,,
-7854,YINSH,2003,boardgame,,,
-43022,Yomi,,boardgame,,,
-9385,Yota,,boardgame,,,
-20881,You Must Be an Idiot!,,boardgame,,,
-41054,You Robot,,boardgame,,,
-1117,You're Bluffing,,boardgame,,,
-2130,Young Jedi Collectible Card Game,,boardgame,,,
-22345,Yspahan,2006,boardgame,,,
-330510,Yucatan,2023,boardgame,,,
-275817,Yum Yum Island,,boardgame,,,
-40580,YVIO,,boardgame,,,
-1820,Z-G,,boardgame,,,
-988,Zapp Zerapp,2000,boardgame,,,
-2938,Zatre,,boardgame,,,
-37721,Zen the initiate,,boardgame,,,
-6830,Zendo,2001,boardgame,,,
+410201,Wyrmspan,,boardgame,,,wyrmspan
+4816,Xactika,,boardgame,,,xactika
+163602,XCOM,,boardgame,,,xcom-the-board-game
+5962,Xeno,,boardgame,,,xeno
+6706,Xerxes,1973,boardgame,,,xerxes
+82222,Xia: Legends of a Drift System,2014,boardgame,,,xia-legends-of-a-drift-system
+2393,xiangqi,,boardgame,,,xiangqi
+3542,XIII: Le Complot,,boardgame,,,xiii-le-complot
+6476,"Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951",1977,boardgame,,,yalu
+33767,Yavalath,,boardgame,,,yavalath
+,Yeoman,,boardgame,,,yeoman
+71671,Yggdrasil,2011,boardgame,,,yggdrasil
+155767,Yin Yang,1998,boardgame,,,yin-yang
+7854,YINSH,2003,boardgame,,,yinsh
+43022,Yomi,,boardgame,,,yomi
+9385,Yota,,boardgame,,,yota
+20881,You Must Be an Idiot!,,boardgame,,,you-must-be-an-idiot
+41054,You Robot,,boardgame,,,you-robot
+1117,You're Bluffing,,boardgame,,,youre-bluffing
+2130,Young Jedi Collectible Card Game,,boardgame,,,young-jedi-collectible-card-game
+22345,Yspahan,2006,boardgame,,,yspahan
+330510,Yucatan,2023,boardgame,,,yucatan
+275817,Yum Yum Island,,boardgame,,,yum-yum-island
+40580,YVIO,,boardgame,,,yvio
+1820,Z-G,,boardgame,,,z-g
+988,Zapp Zerapp,2000,boardgame,,,zapp-zerapp
+2938,Zatre,,boardgame,,,zatre
+37721,Zen the initiate,,boardgame,,,zen-the-initiate
+6830,Zendo,2001,boardgame,,,zendo
 424219,Zenith,2025,boardgame,,,
-22864,Zeus on the Loose,,boardgame,,,
-22266,Zig-Zag,,boardgame,,,
-12616,Zingo!,,boardgame,,,
-440,Zoff in Buffalo,1998,boardgame,,,
-113924,Zombicide,2012,boardgame,,,
-176189,Zombicide: Black Plague,2015,boardgame,,,
-144826,Zombie 15',,boardgame,,,
+22864,Zeus on the Loose,,boardgame,,,zeus-on-the-loose
+22266,Zig-Zag,,boardgame,,,zig-zag
+12616,Zingo!,,boardgame,,,zingo
+440,Zoff in Buffalo,1998,boardgame,,,zoff-in-buffalo
+113924,Zombicide,2012,boardgame,,,zombicide
+176189,Zombicide: Black Plague,2015,boardgame,,,zombicide-black-plague
+144826,Zombie 15',,boardgame,,,zombie-15
 ,Zombie Dice,2010,boardgame,,,
-29387,Zombie Fluxx,2007,boardgame,,,
-41372,Zombie in My Pocket,2010,boardgame,,,
-256952,Zombie Kidz Evolution,2018,boardgame,,,
-310448,Zombie Teenz Evolution,2020,boardgame,,,
-127418,Zombiepox,,boardgame,,,
-2471,Zombies!!!,,boardgame,,,
+29387,Zombie Fluxx,2007,boardgame,,,zombie-fluxx
+41372,Zombie in My Pocket,2010,boardgame,,,zombie-in-my-pocket
+256952,Zombie Kidz Evolution,2018,boardgame,,,zombie-kidz-evolution
+310448,Zombie Teenz Evolution,2020,boardgame,,,zombie-teenz-evolution
+127418,Zombiepox,,boardgame,,,zombiepox
+2471,Zombies!!!,,boardgame,,,zombies
 27588,Zooloretto,,boardgame,,,
-162039,Zoophoria,,boardgame,,,
-40935,Zoowaboo,,boardgame,,,
-91442,Zwerg Riese,,boardgame,,,
-528,ZÈRTZ,,boardgame,,,
-14040,¡New Amici!,,boardgame,,,
-118535,À vos marques!,,boardgame,,,
-16533,Ætherverse,,boardgame,,,
-157507,Ô ăn quan,,boardgame,,,
+162039,Zoophoria,,boardgame,,,zoophoria
+40935,Zoowaboo,,boardgame,,,zoowaboo
+91442,Zwerg Riese,,boardgame,,,zwerg-riese
+528,ZÈRTZ,,boardgame,,,zertz
+14040,¡New Amici!,,boardgame,,,new-amici
+118535,À vos marques!,,boardgame,,,a-vos-marques
+16533,Ætherverse,,boardgame,,,aetherverse
+157507,Ô ăn quan,,boardgame,,,o-an-quan
 ,Scrabble,1948,boardgame,,,
 ,Boggle,1972,boardgame,,,
-,Yahtzee,1956,boardgame,,,
+,Yahtzee,1956,boardgame,,,yahtzee
 ,Jenga,1983,boardgame,,,
 ,Othello,1977,boardgame,,,
-,Mancala,,boardgame,,,
+,Mancala,,boardgame,,,kalah
 ,Connect 4,1974,boardgame,,,connect-four
 ,Munchkin,2001,boardgame,,,
 ,Exploding Kittens,2015,boardgame,,,exploding-kittens-2015
 ,Cards Against Humanity,2011,boardgame,,,
 ,Unstable Unicorns,2017,boardgame,,,
-,What Do You Meme?,2016,boardgame,,,
+,What Do You Meme?,2016,boardgame,,,what-do-you-meme
 ,Bananagrams,2006,boardgame,,,
-,Throw Throw Burrito,2019,boardgame,,,
+,Throw Throw Burrito,2019,boardgame,,,throw-throw-burrito-2019
 ,Bears vs Babies,2017,boardgame,,,
 ,Joking Hazard,2016,boardgame,,,
 ,Taco Cat Goat Cheese Pizza,2018,boardgame,,,
@@ -3776,7 +3775,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Qawale,2022,boardgame,,,
 ,Faraway,2023,boardgame,,,
 ,Steam Up: A Feast of Dim Sum,2023,boardgame,,,
-,Àgueda: City of Umbrellas,2024,boardgame,,,
+,Àgueda: City of Umbrellas,2024,boardgame,,,agueda-city-of-umbrellas
 ,Catan: New Energies,2024,boardgame,,,
 ,Happy Little Dinosaurs,2021,boardgame,,,
 ,Finest Fish,2024,boardgame,,,
@@ -3823,18 +3822,18 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Crew: Mission Deep Sea,2021,boardgame,,,
 ,Mille Fiori,2021,boardgame,,,mille-fiori
 ,First Rat,2022,boardgame,,,
-,The Red Cathedral,2020,boardgame,,,
+,The Red Cathedral,2020,boardgame,,,the-red-cathedral-2020
 ,Horseless Carriage,2023,boardgame,,,horseless-carriage
 ,Evacuation,2023,boardgame,,,evacuation-2023
 ,Knarr,2023,boardgame,,,
-,Windmill Valley,2024,boardgame,,,
+,Windmill Valley,2024,boardgame,,,windmill-valley
 ,Sail,2023,boardgame,,,
 ,Jump Drive,2017,boardgame,,,
 ,Spots,2022,boardgame,,,
 ,Scholars of the South Tigris,2023,boardgame,,,
 ,Fit to Print,2022,boardgame,,,
-,Zoo Vadis,2022,boardgame,,,
-,War of the Worlds: The New Wave,2019,boardgame,,,
+,Zoo Vadis,2022,boardgame,,,zoo-vadis
+,War of the Worlds: The New Wave,2019,boardgame,,,war-of-the-worlds-the-new-wave
 ,Long Shot: The Dice Game,2022,boardgame,,,long-shot-the-dice-game
 ,Fiction,2024,boardgame,,,
 ,Minos: Dawn of the Bronze Age,2024,boardgame,,,minos-dawn-of-the-bronze-age
@@ -3868,7 +3867,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game,2024,boardgame,,,
 ,Blank Slate,2020,boardgame,,,
 ,Catch Phrase,1994,boardgame,,,
-,The Chameleon,2017,boardgame,,,
+,The Chameleon,2017,boardgame,,,the-chameleon-2017
 ,Hedbanz,1991,boardgame,,,
 ,Herd Mentality,2019,boardgame,,,
 ,Rock Em Sock Em Robots,1964,boardgame,,,rock-em-sock-em-robots
@@ -3878,3 +3877,367 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Tenzi,2011,boardgame,,,
 ,Super Skills,2021,boardgame,,,
 ,Greedy Granny,2018,boardgame,,,
+,Medina (Second Edition),2017,boardgame,,,medina-second-edition
+,Mercado de Lisboa,2021,boardgame,,,mercado-de-lisboa
+,Mini Rogue,2021,boardgame,,,mini-rogue
+,Mythic Battles: Ragnarök,2023,boardgame,,,mythic-battles-ragnarok
+,NEOM,2018,boardgame,,,neom
+,Nanga Parbat,2021,boardgame,,,nanga-parbat
+,New Frontiers,2018,boardgame,,,new-frontiers
+,New York Zoo,2020,boardgame,,,new-york-zoo
+,Nimalia,2023,boardgame,,,nimalia
+,Nippon,2015,boardgame,,,nippon
+,Not Alone,2016,boardgame,,,not-alone
+,Now Boarding,2019,boardgame,,,now-boarding
+,Oh Hell!,1930,boardgame,,,oh-hell
+,On Tour,2019,boardgame,,,on-tour
+,P.I.,2012,boardgame,,,p-i
+,Pacts,2025,boardgame,,,pacts
+,Pagan: Fate of Roanoke,2024,boardgame,,,pagan-fate-of-roanoke
+,Paint the Roses,2022,boardgame,,,paint-the-roses
+,Panda Spin,2026,boardgame,,,panda-spin
+,Paris Connection,2011,boardgame,,,paris-connection
+,Path of Civilization,2023,boardgame,,,path-of-civilization
+,Pax Renaissance: 2nd Edition,2021,boardgame,,,pax-renaissance-2nd-edition
+,Pergola,2025,boardgame,,,pergola
+,Perudo,1992,boardgame,,,perudo
+,Pixies,2024,boardgame,,,pixies
+,Quantum,2013,boardgame,,,quantum
+,Quartermaster General: South Front,2023,boardgame,,,quartermaster-general-south-front
+,Qwinto,2015,boardgame,,,qwinto
+,Railroad Ink: Blazing Red Edition,2018,boardgame,,,railroad-ink-blazing-red-edition
+,Railroad Ink: Deep Blue Edition,2018,boardgame,,,railroad-ink-deep-blue-edition
+,Rallyman: DIRT,2022,boardgame,,,rallyman-dirt
+,Rallyman: GT,2020,boardgame,,,rallyman-gt
+,Rauha,2023,boardgame,,,rauha
+,Red7,2014,boardgame,,,red7
+,Regicide,2020,boardgame,,,regicide
+,Ride the Rails,2020,boardgame,,,ride-the-rails
+,Riichi Mahjong,1924,boardgame,,,riichi-mahjong
+,Roll Through the Ages: The Iron Age,2014,boardgame,,,roll-through-the-ages-the-iron-age
+,Room 25,2013,boardgame,,,room-25
+,Rumble Nation,2017,boardgame,,,rumble-nation
+,Rummy,1900,boardgame,,,rummy
+,Sagani,2021,boardgame,,,sagani
+,Signorie,2016,boardgame,,,signorie
+,Silver,2019,boardgame,,,silver
+,Similo,2019,boardgame,,,similo
+,Skara Brae,2025,boardgame,,,skara-brae
+,Skat,1813,boardgame,,,skat
+,Skull,2011,boardgame,,,skull
+,Solar Storm,2020,boardgame,,,solar-storm
+,Space Station Phoenix,2022,boardgame,,,space-station-phoenix
+,6 nimmt!,1994,boardgame,,,6-nimmt
+,A Gest of Robin Hood,2022,boardgame,,,a-gest-of-robin-hood
+,Age of Civilization,2019,boardgame,,,age-of-civilization
+,Agent Avenue,2024,boardgame,,,agent-avenue
+,Amalfi: Renaissance,2023,boardgame,,,amalfi-renaissance
+,Amyitis,2007,boardgame,,,amyitis
+,Applejack,2022,boardgame,,,applejack
+,Aquatica,2019,boardgame,,,aquatica
+,Arboretum,2015,boardgame,,,arboretum
+,Arctic Scavengers,2013,boardgame,,,arctic-scavengers
+,Assyria,2009,boardgame,,,assyria
+,Astra,2022,boardgame,,,astra
+,Awkward Guests: The Walton Case,2016,boardgame,,,awkward-guests
+,Azul Duel,2025,boardgame,,,azul-duel
+,Azul: Summer Pavilion,2019,boardgame,,,azul-summer-pavilion
+,BANG!,2002,boardgame,,,bang
+,Bandido,2016,boardgame,,,bandido
+,Bayonets & Tomahawks,2021,boardgame,,,bayonets-and-tomahawks
+,Bonsai,2023,boardgame,,,bonsai
+,Boomerang: Australia,2019,boardgame,,,boomerang-australia
+,Botanik,2021,boardgame,,,botanik
+,Break the Code,2020,boardgame,,,break-the-code
+,Burgle Bros.,2015,boardgame,,,burgle-bros
+,Bärenpark,2017,boardgame,,,barenpark
+,Café,2020,boardgame,,,cafe
+,Cairn,2019,boardgame,,,cairn
+,Caper: Europe,2022,boardgame,,,caper-europe
+,Chakra,2019,boardgame,,,chakra
+,Chemical Overload,2023,boardgame,,,chemical-overload
+,Chicago Express,2007,boardgame,,,chicago-express
+,Chimera Station,2017,boardgame,,,chimera-station
+,Chocolate Factory,2019,boardgame,,,chocolate-factory
+,Citadels,2000,boardgame,,,citadels
+,City of the Big Shoulders,2019,boardgame,,,city-of-the-big-shoulders
+,Claim,2017,boardgame,,,claim
+,Cloud City,2020,boardgame,,,cloud-city
+,Coal Baron,2013,boardgame,,,coal-baron
+,Codex Naturalis,2023,boardgame,,,codex-naturalis
+,Conspiracy: Abyss Universe,2020,boardgame,,,conspiracy-abyss-universe
+,Copenhagen,2019,boardgame,,,copenhagen
+,Cosmoctopus,2023,boardgame,,,cosmoctopus
+,Cribbage,1630,boardgame,,,cribbage
+,Crusaders: Thy Will Be Done,2018,boardgame,,,crusaders-thy-will-be-done
+,Crypt,2018,boardgame,,,crypt
+,CuBirds,2018,boardgame,,,cubirds
+,Cóatl,2020,boardgame,,,coatl
+,D.E.I.: Divide et Impera,2021,boardgame,,,dei-divide-et-impera
+,Dale of Merchants,2015,boardgame,,,dale-of-merchants
+,Dice Hospital,2018,boardgame,,,dice-hospital
+,DinoGenics,2019,boardgame,,,dinogenics
+,369 Qi,,boardgame,,,369-qi
+,Agricola: Family Edition,2016,boardgame,,,agricola-family-edition
+,Amul,2020,boardgame,,,amul
+,Ancient Civilizations of the Inner Sea,2019,boardgame,,,ancient-civilizations-of-the-inner-sea
+,Ankh: Gods of Egypt,2021,boardgame,,,ankh-gods-of-egypt
+,Lost Ruins of Arnak: The Missing Expedition,2024,boardgame,,,arnak-the-missing-expedition
+,Atlantis Rising,2019,boardgame,,,atlantis-rising
+,BattleLore (Second Edition),2013,boardgame,,,battlelore-second-edition
+,Bear Raid,2022,boardgame,,,bear-raid
+,Bites,2020,boardgame,,,bites
+,Black Angel,2019,boardgame,,,black-angel
+,Blue Lagoon,2018,boardgame,,,blue-lagoon
+,Bonfire,2020,boardgame,,,bonfire
+,Bristol 1350,2021,boardgame,,,bristol-1350
+,Bushido,1979,boardgame,,,bushido
+,Caravan,2019,boardgame,,,caravan
+,Caverna: Cave vs Cave,2017,boardgame,,,caverna-cave-vs-cave
+,Caylus 1303,2019,boardgame,,,caylus-1303
+,Chai,2019,boardgame,,,chai
+,Clash Royale: The Card Game,2019,boardgame,,,clash-royale-the-card-game
+,Clockwork Wars,2015,boardgame,,,clockwork-wars
+,CloudAge,2020,boardgame,,,cloudage
+,Dice Forge: Rebellion,2018,boardgame,,,dice-forge-rebellion
+,Discordia,2022,boardgame,,,discordia
+,Dog Park,2022,boardgame,,,dog-park
+,Doodletown,2022,boardgame,,,doodletown
+,Downforce,2017,boardgame,,,downforce
+,Dracula vs Van Helsing,2023,boardgame,,,dracula-vs-van-helsing
+,Dragon Castle,2017,boardgame,,,dragon-castle
+,Dragonheart,2012,boardgame,,,dragonheart
+,Dungeon Roll,2013,boardgame,,,dungeon-roll
+,Eight-Minute Empire: Legends,2013,boardgame,,,eight-minute-empire-legends
+,Equinox,2021,boardgame,,,equinox
+,Escape: The Curse of the Temple,2012,boardgame,,,escape-the-curse-of-the-temple
+,Evolution,2014,boardgame,,,evolution
+,Expedition: Northwest Passage,2010,boardgame,,,expedition-northwest-passage
+,Flash Point: Fire Rescue - Tragic Events,2015,boardgame,,,flash-point-fire-rescue-tragic-events
+,Fleet,2012,boardgame,,,fleet
+,For Northwood! A Solo Trick-Taking Game,2021,boardgame,,,for-northwood
+,Forest Shuffle: Dartmoor,2025,boardgame,,,forest-shuffle-dartmoor
+,Forgotten Depths,2022,boardgame,,,forgotten-depths
+,Framework,2022,boardgame,,,framework
+,Gatsby,2025,boardgame,,,gatsby
+,Get on Board: New York & London,2022,boardgame,,,get-on-board-new-york-and-london
+,Ginkgopolis,2012,boardgame,,,ginkgopolis
+,Gizmos,2018,boardgame,,,gizmos
+,Glass Road,2013,boardgame,,,glass-road
+,Glow,2019,boardgame,,,glow
+,Go,548,boardgame,,,go
+,Go Nuts for Donuts,2017,boardgame,,,go-nuts-for-donuts
+,Gold West,2015,boardgame,,,gold-west
+,Good Cop Bad Cop,2014,boardgame,,,good-cop-bad-cop
+,Great Western Trail: El Paso,2025,boardgame,,,great-western-trail-el-paso
+,Great Western Trail: Second Edition,2021,boardgame,,,great-western-trail-second-edition
+,Habitats,2016,boardgame,,,habitats
+,Hadrian's Wall,2021,boardgame,,,hadrians-wall
+,Harbour,2015,boardgame,,,harbour
+,Hearts,1880,boardgame,,,hearts
+,Hidden Leaders,2022,boardgame,,,hidden-leaders
+,High Season: Grand Hotel Roll & Write,2023,boardgame,,,high-season-grand-hotel-roll-and-write
+,Imperial Miners,2023,boardgame,,,imperial-miners
+,Incan Gold,2006,boardgame,,,incan-gold
+,Inside Job,2023,boardgame,,,inside-job
+,Irish Gauge,2014,boardgame,,,irish-gauge
+,It's a Wonderful Kingdom,2021,boardgame,,,its-a-wonderful-kingdom
+,Iwari,2020,boardgame,,,iwari
+,Jekyll vs. Hyde,2021,boardgame,,,jekyll-vs-hyde
+,Kōhaku,2020,boardgame,,,kohaku
+,L.L.A.M.A.,2019,boardgame,,,llama
+,Lords of Xidit,2014,boardgame,,,lords-of-xidit
+,Lorenzo il Magnifico,2016,boardgame,,,lorenzo-il-magnifico
+,Madeira,2013,boardgame,,,madeira
+,Mandala,2019,boardgame,,,mandala
+,Marco Polo II: In the Service of the Khan,2019,boardgame,,,marco-polo-ii
+,Masters of Renaissance: Lorenzo il Magnifico – The Card Game,2020,boardgame,,,masters-of-renaissance
+,MESOS,2024,boardgame,,,mesos
+,MLEM: Space Agency,2024,boardgame,,,mlem-space-agency
+,Spades,1939,boardgame,,,spades
+,SpellBook,2023,boardgame,,,spellbook
+,Spirits of the Forest,2018,boardgame,,,spirits-of-the-forest
+,Spot it!,2009,boardgame,,,spot-it
+,Spyrium,2013,boardgame,,,spyrium
+,Star Fluxx,2011,boardgame,,,star-fluxx
+,Steam Works,2015,boardgame,,,steam-works
+,SteamRollers,2015,boardgame,,,steamrollers
+,Stella: Dixit Universe,2021,boardgame,,,stella-dixit-universe
+,Stockpile,2015,boardgame,,,stockpile
+,Stonespine Architects,2024,boardgame,,,stonespine-architects
+,Streets,2021,boardgame,,,streets
+,Stupor Mundi,2024,boardgame,,,stupor-mundi
+,Super Fantasy Brawl,2020,boardgame,,,super-fantasy-brawl
+,Super Mega Lucky Box,2021,boardgame,,,super-mega-lucky-box
+,Talon,2015,boardgame,,,talon
+,Tash-Kalar: Arena of Legends,2013,boardgame,,,tash-kalar-arena-of-legends
+,The Boss,2015,boardgame,,,the-boss
+,The Builders: Antiquity,2015,boardgame,,,the-builders-antiquity
+,The Fox in the Forest,2017,boardgame,,,the-fox-in-the-forest
+,The Fox in the Forest Duet,2020,boardgame,,,the-fox-in-the-forest-duet
+,The Great Split,2022,boardgame,,,the-great-split
+,The Isle of Cats Duel,2023,boardgame,,,the-isle-of-cats-duel
+,The King's Guild,2018,boardgame,,,the-kings-guild
+,The Werewolves of Miller's Hollow,2001,boardgame,,,the-werewolves-of-millers-hollow
+,The Wolves,2022,boardgame,,,the-wolves
+,Tichu,1991,boardgame,,,tichu
+,Tiny Epic Defenders (Second Edition),2018,boardgame,,,tiny-epic-defenders-second-edition
+,"Tito and his Partisan Army: Yugoslavia, 1941-45",1980,boardgame,,,tito-and-his-partisan-army
+,Tiwanaku,2022,boardgame,,,tiwanaku
+,Tokyo Express: The Guadalcanal Naval Campaign - 1942,1988,boardgame,,,tokyo-express
+,Tortuga 1667,2017,boardgame,,,tortuga-1667
+,Tournay,2012,boardgame,,,tournay
+,Tower Up,2024,boardgame,,,tower-up
+,Tranquility,2020,boardgame,,,tranquility
+,Trek 12: Himalaya,2020,boardgame,,,trek-12-himalaya
+,Trekking the World,2022,boardgame,,,trekking-the-world
+,Trio,2023,boardgame,,,trio
+,Troyes Dice,2020,boardgame,,,troyes-dice
+,Turn the Tide,1997,boardgame,,,turn-the-tide
+,Twilight Imperium: Fourth Edition,2017,boardgame,,,twilight-imperium-fourth-edition
+,Unconditional Surrender! World War 2 in Europe,2014,boardgame,,,unconditional-surrender-world-war-2-in-europe
+,Verdant,2022,boardgame,,,verdant
+,Via Magica,2020,boardgame,,,via-magica
+,Voyages,2022,boardgame,,,voyages
+,Welcome to New Las Vegas,2020,boardgame,,,welcome-to-new-las-vegas
+,Wizards of the Grimoire,2022,boardgame,,,wizards-of-the-grimoire
+,Wondrous Creatures,2024,boardgame,,,wondrous-creatures
+,Yōkai,2020,boardgame,,,yokai
+,Yokohama,2016,boardgame,,,yokohama
+,Between Two Castles of Mad King Ludwig,2018,boardgame,,,between-two-castles-of-mad-king-ludwig
+,Carcassonne: Hunters and Gatherers,2002,boardgame,,,carcassonne-hunters-and-gatherers
+,Detective: A Modern Crime Board Game,2018,boardgame,,,detective-a-modern-crime-board-game
+,Mystic Vale,2016,boardgame,,,mystic-vale
+,Point Salad,2019,boardgame,,,point-salad
+,1846: The Race for the Midwest,2005,boardgame,,,1846-the-race-for-the-midwest
+,1849: The Game of Sicilian Railways,1998,boardgame,,,1849-the-game-of-sicilian-railways
+,1860: Railways on the Isle of Wight,2004,boardgame,,,1860-railways-on-the-isle-of-wight
+,1862: Railway Mania in the Eastern Counties,2020,boardgame,,,1862-railway-mania-in-the-eastern-counties
+,1870: Railroading Across the Trans Mississippi from 1870,1992,boardgame,,,1870-railroading-across-the-trans-mississippi
+,18Chesapeake,2020,boardgame,,,18chesapeake
+,Automobiles,2016,boardgame,,,automobiles
+,Carcassonne: South Seas,2013,boardgame,,,carcassonne-south-seas
+,Charterstone,2017,boardgame,,,charterstone
+,Fantasy Realms,2017,boardgame,,,fantasy-realms
+,Firenze,2010,boardgame,,,firenze
+,First Class: All Aboard the Orient Express!,2016,boardgame,,,first-class-all-aboard-the-orient-express
+,Forum Trajanum,2018,boardgame,,,forum-trajanum
+,Founding Fathers,2010,boardgame,,,founding-fathers
+,Glen More II: Chronicles,2019,boardgame,,,glen-more-ii-chronicles
+,Guildhall,2012,boardgame,,,guildhall
+,Gùgōng,2018,boardgame,,,gugong
+,Helios,2014,boardgame,,,helios
+,Hero Realms,2016,boardgame,,,hero-realms
+,Industrial Waste,2001,boardgame,,,industrial-waste
+,Kanban EV,2020,boardgame,,,kanban-ev
+,Kanban: Driver's Edition,2014,boardgame,,,kanban-drivers-edition
+,Kashgar: Merchants of the Silk Road,2013,boardgame,,,kashgar-merchants-of-the-silk-road
+,Key Harvest,2007,boardgame,,,key-harvest
+,Keyper,2017,boardgame,,,keyper
+,Kraftwagen,2015,boardgame,,,kraftwagen
+,König von Siam,2007,boardgame,,,konig-von-siam
+,La Granja: No Siesta,2016,boardgame,,,la-granja-no-siesta
+,La Isla,2014,boardgame,,,la-isla
+,Lift Off,2018,boardgame,,,lift-off
+,Luna,2010,boardgame,,,luna
+,Messina 1347,2021,boardgame,,,messina-1347
+,Millennium Blades,2016,boardgame,,,millennium-blades
+,Mindbug: First Contact,2022,boardgame,,,mindbug-first-contact
+,Mint Works,2017,boardgame,,,mint-works
+,Mottainai,2015,boardgame,,,mottainai
+,Murano,2014,boardgame,,,murano
+,NMBR 9,2017,boardgame,,,nmbr-9
+,Nations: The Dice Game,2014,boardgame,,,nations-the-dice-game
+,Near and Far,2017,boardgame,,,near-and-far
+,Nemo's War (Second Edition),2017,boardgame,,,nemos-war-second-edition
+,On the Underground: London/Berlin,2019,boardgame,,,on-the-underground-london-berlin
+,One Deck Dungeon,2016,boardgame,,,one-deck-dungeon
+,Paris: La Cité de la Lumière,2019,boardgame,,,paris-la-cite-de-la-lumiere
+,Pax Porfiriana,2012,boardgame,,,pax-porfiriana
+,Pergamon,2011,boardgame,,,pergamon
+,Port Royal,2014,boardgame,,,port-royal
+,Qwixx,2012,boardgame,,,qwixx
+,Rajas of the Ganges: The Dice Charmers,2020,boardgame,,,rajas-of-the-ganges-the-dice-charmers
+,Red Rising,2021,boardgame,,,red-rising
+,Renature,2020,boardgame,,,renature
+,Roam,2019,boardgame,,,roam
+,Roll Player,2016,boardgame,,,roll-player
+,San Juan (Second Edition),2014,boardgame,,,san-juan-second-edition
+,Santa Monica,2020,boardgame,,,santa-monica
+,Santiago de Cuba,2011,boardgame,,,santiago-de-cuba
+,Secret Hitler,2016,boardgame,,,secret-hitler
+,Shikoku 1889,2004,boardgame,,,shikoku-1889
+,Skymines,2022,boardgame,,,skymines
+,Smartphone Inc.,2018,boardgame,,,smartphone-inc
+,Snowdonia,2012,boardgame,,,snowdonia
+,Steampunk Rally,2015,boardgame,,,steampunk-rally
+,Struggle of Empires,2004,boardgame,,,struggle-of-empires
+,Sword & Sorcery,2017,boardgame,,,sword-and-sorcery
+,Tang Garden,2019,boardgame,,,tang-garden
+,Tekhenu: Obelisk of the Sun,2020,boardgame,,,tekhenu-obelisk-of-the-sun
+,That's Pretty Clever!,2018,boardgame,,,thats-pretty-clever
+,The Castles of Burgundy: The Card Game,2016,boardgame,,,the-castles-of-burgundy-the-card-game
+,The Castles of Tuscany,2020,boardgame,,,the-castles-of-tuscany
+,The Downfall of Pompeii,2004,boardgame,,,the-downfall-of-pompeii
+,The Hanging Gardens,2022,boardgame,,,the-hanging-gardens
+,The Mind,2018,boardgame,,,the-mind
+,The Oracle of Delphi,2016,boardgame,,,the-oracle-of-delphi
+,The Shipwreck Arcana,2017,boardgame,,,the-shipwreck-arcana
+,The Speicherstadt,2010,boardgame,,,the-speicherstadt
+,To Court the King,2006,boardgame,,,to-court-the-king
+,Top Ten,2020,boardgame,,,top-ten
+,Transatlantic,2017,boardgame,,,transatlantic
+,Ulm,2016,boardgame,,,ulm
+,Unmatched: Battle of Legends Volume One,2019,boardgame,,,unmatched
+,Valletta,2017,boardgame,,,valletta
+,Vinhos: Deluxe Edition,2016,boardgame,,,vinhos-deluxe-edition
+,Viscounts of the West Kingdom,2020,boardgame,,,viscounts-of-the-west-kingdom
+,Völuspá,2012,boardgame,,,voluspa
+,War Chest,2018,boardgame,,,war-chest
+,Whistle Mountain,2020,boardgame,,,whistle-mountain
+,Yellow & Yangtze,2018,boardgame,,,yellow-and-yangtze
+,War of the Ring (Second Edition),2011,boardgame,,,war-of-the-ring-second-edition
+,Specter Ops,2015,boardgame,,,specter-ops
+,Santa Maria,2017,boardgame,,,santa-maria
+,Sid Meier's Civilization: The Board Game,2010,boardgame,,,sid-meiers-civilization-the-board-game
+,Arcadia Quest,2014,boardgame,,,arcadia-quest
+,Time's Up!,1999,boardgame,,,times-up
+,Arkham Horror (Third Edition),2018,boardgame,,,arkham-horror-third-edition
+,Kitchen Rush,2017,boardgame,,,kitchen-rush
+,The Manhattan Project: Energy Empire,2016,boardgame,,,manhattan-project-energy-empire
+,The Networks,2016,boardgame,,,the-networks
+,Cthulhu Wars,2015,boardgame,,,cthulhu-wars
+,The Pursuit of Happiness,2015,boardgame,,,the-pursuit-of-happiness
+,Dinosaur Island,2017,boardgame,,,dinosaur-island
+,Rising Sun,2018,boardgame,,,rising-sun
+,KLASK,2014,boardgame,,,
+,Babylonia,2019,boardgame,,,
+,Gang of Dice,,boardgame,,,
+,Tatari,,boardgame,,,
+,Viking See-Saw,,boardgame,,,
+,Patterns,,boardgame,,,
+,High Society,1995,boardgame,,,
+,Marabunta,,boardgame,,,
+,Lords of Vegas,2010,boardgame,,,
+,Dogs of War,2014,boardgame,,,
+,Great Plains,,boardgame,,,
+,Tajuto,2011,boardgame,,,
+,Jaipur,2009,boardgame,,,
+,Royal Visit,2020,boardgame,,,
+,Winner's Circle,2001,boardgame,,,winners-circle
+,Whale Riders,,boardgame,,,
+,Lacuna,2020,boardgame,,,
+,Galactic Renaissance,2023,boardgame,,,
+,DroPolter,2022,boardgame,,,
+,Caesar!: Seize Rome in 20 Minutes!,2021,boardgame,,,caesar-seize-rome
+,Chinatown,1997,boardgame,,,
+,Skyrise,2024,boardgame,,,
+,Undaunted: Stalingrad,2022,boardgame,,,
+,Wilmot's Warehouse,2021,boardgame,,,wilmots-warehouse
+,Orongo,2016,boardgame,,,
+,Three Sisters,2021,boardgame,,,
+,Ecosystem,2021,boardgame,,,
+,Coffee Roaster,2017,boardgame,,,
+,Whistle Stop,2017,boardgame,,,
+,Lanterns: The Harvest Festival,2015,boardgame,,,
+,New Bedford,2016,boardgame,,,

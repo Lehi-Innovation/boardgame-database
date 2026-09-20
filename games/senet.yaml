@@ -1,0 +1,50 @@
+id: senet
+name: "Senet"
+alternate_names: ["Senat", "Sen't"]
+year: -3100
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Abstract
+  - Ancient
+  - Mythology
+
+evokes:
+  - Lucky
+  - Tension
+  - Wonder
+  - Mystery
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 6
+
+description: |
+  Senet is one of the oldest known board games, with depictions dating to approximately 3100 BCE in ancient Egypt, where it was played as both a pastime and a symbolic journey through the afterlife. Played on a 3x10 grid of 30 squares, two players race their pawns from start to finish using throwing sticks or knuckle-bones as random generators, with special squares granting benefits or penalties along the path. By the New Kingdom era, the game had acquired deep religious symbolism representing the soul's passage through the Duat, and game boards were frequently buried with the deceased including in Tutankhamun's tomb.
+
+upgrades: []

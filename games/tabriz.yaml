@@ -1,0 +1,61 @@
+id: tabriz
+name: "Tabriz"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Modular Board
+  - Economic
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Discovery
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Randy Flynn
+  - John Brieger
+publisher:
+  - Crafty Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Tabriz is a carpet-weaving strategy game set in the historic Persian city of
+  Tabrīz, published by Crafty Games in 2024. Players move three assistant
+  meeples through the Grand Bazaar, collecting dye, wool, silk, and camel hair
+  to weave contracts for fame and fortune. The modular market and variable setup
+  ensure a different puzzle each game, while a robust solo mode with five AI
+  opponents of varying difficulty makes it accessible for solo players. From the
+  designer of Cascadia, Tabriz offers a rich engine-building experience with
+  beautiful Persian theming in a compact playtime.
+
+upgrades: []

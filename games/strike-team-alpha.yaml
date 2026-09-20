@@ -1,0 +1,50 @@
+id: strike-team-alpha
+name: "Strike Team Alpha"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - M. Scott Kurtick
+publisher:
+  - Gamescience
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Strike Team Alpha is a 1978 Gamescience science fiction wargame designed by M. Scott Kurtick simulating tactical infantry warfare between three enemy factions in the 22nd and 23rd centuries. Eleven scenarios recreate futuristic man-to-alien combat in the depths of space featuring exotic weapons and futuristic equipment. The 16-page rulebook was tested by experienced wargamers and science fiction fans, including Hugo nominee George Alec Effinger, to ensure both accessibility and accuracy of the sci-fi atmosphere.
+
+upgrades: []

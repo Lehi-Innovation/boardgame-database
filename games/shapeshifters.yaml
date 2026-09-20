@@ -1,0 +1,51 @@
+id: shapeshifters
+name: "Shapeshifters"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Variable Player Powers
+  - Asymmetric
+  - Wargame
+
+evokes:
+  - Powerful
+  - Unique
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Fat Messiah Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Shapeshifters is a fantasy combat board game published by Fat Messiah Games in 1991 in which two to four transforming wizards battle in a wilderness setting across six different scenarios. Each player can change their wizard into different creature forms, each with unique combat and movement abilities, and must outmaneuver and defeat their opponents. The game's combination of scenario variety and shapeshifting mechanics creates tactical duels that are quick to learn but offer meaningful mastery over repeated plays.
+
+upgrades: []

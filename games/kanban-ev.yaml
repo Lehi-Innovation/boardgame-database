@@ -1,0 +1,57 @@
+id: kanban-ev
+name: "Kanban EV"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: kanban
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Action Points
+  - Hand Management
+  - Variable Setup
+  - Economic
+  - Euro
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+evokes:
+  - Masterful
+  - Progress
+  - Agency
+  - Clever
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+description: |
+  Kanban EV is a 1-4 player heavy economic game by Vital Lacerda, published by Eagle-Gryphon Games in 2020, thematically set in an electric vehicle factory. Players are rookie employees competing to secure their careers by mastering all aspects of EV production — designing cars, managing supplies, assembling vehicles, and satisfying the demanding factory manager Sandra. The game uses an action-selection system with variable phase order, and players must carefully plan multi-step production chains while monitoring Sandra's movements and reviews, which periodically evaluate each player's factory performance. Widely praised for Ian O'Toole's stunning visual design, Kanban EV is considered a streamlined and more accessible evolution of the original Kanban while retaining Lacerda's signature depth.
+
+upgrades: []

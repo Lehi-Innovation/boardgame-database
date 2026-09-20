@@ -1,0 +1,61 @@
+id: go-nuts-for-donuts
+name: "Go Nuts for Donuts"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool (very simple)
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Simultaneous Action
+  - Family
+  - Food Theme
+  - Filler
+  - Party
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Zachary Eagle
+publisher:
+  - Gamewright
+artist:
+  - Violet Kitchen
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Go Nuts for Donuts is a fast simultaneous card-selection game with a delightful donut
+  theme. Each round, players simultaneously select a numbered card indicating which donut
+  they want—but if two or more players pick the same donut, nobody gets it! The clever
+  collision mechanic forces players to outguess their opponents, creating a fun blend of
+  deduction and press-your-luck. Accessible to all ages and playable in under twenty
+  minutes, it is an ideal filler or family game.
+
+upgrades: []

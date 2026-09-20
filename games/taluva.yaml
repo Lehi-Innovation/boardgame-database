@@ -1,0 +1,59 @@
+id: taluva
+name: "Taluva"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Area Control
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Marcel-André Casasola Merkle
+publisher:
+  - Rio Grande Games
+  - Hans im Glück
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Taluva is an abstract tile-placement and area control game set on a South Sea
+  island slowly emerging from volcanic eruptions. On each turn, players place a
+  new volcano tile — either expanding the island's edges or stacking on existing
+  terrain to build height — then construct one of three building types: huts,
+  temples, or towers. Players win by being the first to place all pieces from any
+  two of the three building types. The layered, three-dimensional board that
+  emerges creates a visually striking game with elegant spatial decisions, making
+  Taluva a respected gem in the abstract game genre.
+
+upgrades: []

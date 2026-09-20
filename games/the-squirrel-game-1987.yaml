@@ -1,0 +1,51 @@
+id: the-squirrel-game-1987
+name: "The Squirrel Game"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  The Squirrel Game is a 1987 children's dice game published by Ravensburger for 2-4 players ages 5-10. Players race to collect 15 pine cones into their squirrel's hoard before opponents do, rolling dice and gathering the wooden or plastic pine cone pieces each turn. The game's simple mechanics and adorable squirrel theme make it an excellent first board game for young children, teaching counting and turn-taking in a brief 15-minute play session. Ravensburger published the game alongside Discovery Toys as a gentle introduction to competitive family gaming.
+
+upgrades: []

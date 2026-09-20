@@ -1,0 +1,52 @@
+id: stonespine-architects
+name: "Stonespine Architects"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Tableau Building
+  - Variable Setup
+  - Fantasy
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Creative
+  - Progress
+  - Complete
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Stonespine Architects is a card-drafting dungeon-design game designed by Jordy Adan (creator of Cartographers) and published by Thunderworks Games in 2024. Players act as rival dungeon architects competing to build the most impressive labyrinth for 1–5 players by drafting room cards and placing them into their dungeon layout. Each room scores based on adjacency and set-collection patterns, encouraging thoughtful spatial planning. The competitive drafting ensures opponents' choices are as important as your own, creating a satisfying back-and-forth tension as architects race to complete the most fearsome dungeon.
+
+upgrades: []

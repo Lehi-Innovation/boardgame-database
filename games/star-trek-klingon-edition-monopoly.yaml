@@ -1,0 +1,58 @@
+id: star-trek-klingon-edition-monopoly
+name: "Star Trek Klingon Edition Monopoly"
+alternate_names: ["Monopoly: Star Trek Klingon Collector's Edition"]
+year: 2011
+
+# Relationships
+game_family: monopoly
+edition: "Klingon"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Negotiation
+  - Economic
+  - Sci-Fi
+  - Family
+
+evokes:
+  - Rivalry
+  - Humor
+  - Lucky
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - USAopoly
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 8
+
+description: |
+  Star Trek Klingon Edition Monopoly is a licensed Monopoly variant published by USAopoly in November 2011,
+  themed around the Klingon Empire of the Star Trek Prime Universe. Properties represent Klingon locations and
+  factions, houses and hotels are replaced by outposts and capitals, currency is renamed "Forces," and Chance
+  and Community Chest become Combat and Honor cards. Six pewter tokens represent Klingon icons including a
+  bat'leth, Bird-of-Prey, d'k tahg, and the High Court gavel. A limited edition of 1,701 numbered copies
+  featured a miniature replica of Chancellor Gorkon's bone cane.
+
+upgrades: []

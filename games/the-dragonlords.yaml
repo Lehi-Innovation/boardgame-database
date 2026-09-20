@@ -1,0 +1,58 @@
+id: the-dragonlords
+name: "The Dragonlords"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Variable Player Powers
+  - Wargame
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Agency
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Fantasy Games Unlimited
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Dragonlords is a 1978 two-player fantasy combat board game from Fantasy Games Unlimited, set
+  on the peninsula of Anador where two wizard-emperor nations compete to control three minor
+  countries caught between them. Before play each player chooses a wizard class — Sorcerer,
+  Enchanter, Illusionist, or Necromancer — which determines which of 33 spells from the rulebook
+  they may use. Infantry, missile troops, cavalry, flying units, leaders, ships, and garrison units
+  populate the hex-and-counter map in a design similar to Avalon Hill's approach but with a rich
+  fantasy magic system layered atop the traditional wargame structure.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: the-rolling-witch
+name: "The Rolling Witch"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Humor
+  - Wonder
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The Rolling Witch is a children's fantasy board game featuring a witch as the central character or obstacle. Players navigate a whimsical game board, encountering the rolling witch in various ways as they race to complete their objectives. Specific publisher, designer, and release year details are limited due to the game's obscurity as a vintage children's title.
+
+upgrades: []

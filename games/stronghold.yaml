@@ -1,0 +1,56 @@
+id: stronghold
+name: "Stronghold"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Asymmetric
+  - Resource Management
+  - Action Points
+  - Variable Player Powers
+  - Portal Games
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - Portal Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Stronghold is a 2009 asymmetric siege game by Ignacy Trzewiczek published by Portal Games. One player defends a castle against the other player's relentless horde of orcs, trolls, and goblins in a deeply asymmetric experience — invader and defender have entirely different rules and win conditions. The game's central innovation uses time as a resource: every action the invader takes generates "hourglass" tokens that the defender spends to prepare countermeasures. If the invader breaches any castle wall within 7 turns, they win; otherwise the defender survives. Winner of the 2010 International Gamers Award for Two-Player.
+
+upgrades: []

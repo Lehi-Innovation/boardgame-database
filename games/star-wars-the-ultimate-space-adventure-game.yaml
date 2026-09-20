@@ -1,0 +1,52 @@
+id: star-wars-the-ultimate-space-adventure-game
+name: "Star Wars: The Ultimate Space Adventure Game"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Star Wars: The Ultimate Space Adventure Game is a 1982 Parker Brothers board game for 2-4 players set during The Empire Strikes Back. Players are Rebel Alliance commanders who must escape Darth Vader's TIE fighter attack on Hoth and pilot their X-wing fighters through hyperspace, past asteroid fields and Imperial pursuit, to reach the planet Dantooine. The game uses a spinner for movement and first-to-arrive wins. A simple race game designed for younger Star Wars fans.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: streetcar
+name: "Streetcar"
+alternate_names: ["Linie 1"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Racing
+  - Network Building
+  - Euro
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Streetcar (originally published as Linie 1 by Goldsieber) is a 1995 tile-laying game designed by Stefan Dorra set in New Orleans. Each player receives a secret set of required stations and a trolley route to complete; players share a common track network being built from tiles of varying complexity — straights, curves, junctions, and crossroads. Once a player connects their terminals and visits all required stations, they race their trolley through the network to win. The game was recommended for the 1995 Spiel des Jahres and placed second in the Deutscher Spiele Preis that year.
+
+upgrades: []

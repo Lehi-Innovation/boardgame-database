@@ -1,0 +1,53 @@
+id: bandido
+name: "Bandido"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Network Building
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Connection
+  - Clever
+  - Complete
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Martin Nedergaard Andersen
+publisher:
+  - Helvetiq
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Bandido is a cooperative tile-laying game for 1–4 players in which players work together to block all the tunnels in a prison so the Bandido cannot escape. On each turn, players play cards from their hand onto open tunnel ends, trying to close off every exit before the deck runs out. The game is quick, pocket-sized, and accessible to young players, yet provides genuine cooperative tension as the tunnels branch and multiply unpredictably. Published by Helvetiq, it is one of the most approachable cooperative games available.
+
+upgrades: []

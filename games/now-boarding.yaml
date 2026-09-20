@@ -1,0 +1,52 @@
+id: now-boarding
+name: "Now Boarding"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Action Points
+  - Variable Player Powers
+  - Family
+  - Aviation
+
+evokes:
+  - Tension
+  - Connection
+  - Clever
+  - Progress
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Tim Fowers
+publisher:
+  - Fowers Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Now Boarding is a real-time cooperative game for 2-5 players where everyone plays simultaneously as pilots scrambling to get passengers to their destinations before frustration boils over. New passengers constantly arrive across the map while a countdown timer drives urgency, demanding constant table communication and clever hand-offs. Each plane has limited capacity and movement, so players must coordinate routes and passenger transfers on the fly — literally. Designer Tim Fowers gives the chaos structure with clear action limits, making Now Boarding a frantic but learnable co-op experience.

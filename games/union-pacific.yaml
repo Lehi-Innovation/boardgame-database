@@ -1,0 +1,55 @@
+id: union-pacific
+name: "Union Pacific"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trains
+  - Route Building
+  - Set Collection
+  - Economic
+  - Area Control
+  - Euro
+  - Alan R. Moon
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Union Pacific is a train route building and stock investment game designed by Alan R. Moon and published by Amigo Spiele and Rio Grande Games in 1999. Players expand a railroad network by building routes across the board while also investing in stock shares of competing railway companies. Points are scored at multiple scoring rounds throughout the game based on stock holdings and railroad control. The game received a Spiel des Jahres nomination and placed third in the Deutscher Spiele Preis, bridging the gap between family games and the strategy-heavy Ticket to Ride series Moon later created.
+
+upgrades: []

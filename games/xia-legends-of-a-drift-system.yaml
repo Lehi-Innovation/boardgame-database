@@ -1,0 +1,56 @@
+id: xia-legends-of-a-drift-system
+name: "Xia: Legends of a Drift System"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Tile Placement
+  - Dice Rolling
+  - Variable Player Powers
+  - Action Points
+  - Trading
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Agency
+  - Lucky
+  - Unique
+  - Wonder
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Cody Miller
+publisher:
+  - Far Off Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Xia: Legends of a Drift System is an open-world sandbox space exploration game in which each player pilots a uniquely customizable starship across a modular galaxy that is revealed tile by tile as ships venture beyond known space. Players choose their own path to fame — trading goods between planets, mining asteroids, completing missions, engaging in piracy, or fighting other ships — with no single prescribed strategy for victory. Ships can be upgraded with outfitted systems purchased at space stations, growing in power over the course of the game. Dice-based combat and movement create moments of press-your-luck thrills, while the emergent sandbox narrative generates different stories each session. The lush miniature starships and dramatic tile reveals give the game a strong sense of wonder and discovery.
+
+upgrades: []

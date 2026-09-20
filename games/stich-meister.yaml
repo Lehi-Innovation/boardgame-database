@@ -1,0 +1,52 @@
+id: stich-meister
+name: "Stich-Meister"
+alternate_names: ["Trick Meister"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Variable Setup
+  - Friedemann Friese
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Unique
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Friedemann Friese
+publisher:
+  - 2F-Spiele
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Stich-Meister is a trick-taking card game by Friedemann Friese for 3-5 players in which the rules themselves change each round based on cards played by the players. The game uses a deck of 60 cards in four suits numbered 1-15, plus a separate deck of 60 rule cards. Each player holds three rule cards and plays one at the start of each round; these determine the trump suit, scoring values of tricks, and special rules for play. The ever-shifting ruleset creates a uniquely unpredictable trick-taking experience where mastering the meta-game of when to play which rule cards is as important as the card play itself.
+
+upgrades: []

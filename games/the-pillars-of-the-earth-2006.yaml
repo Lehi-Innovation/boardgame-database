@@ -1,0 +1,57 @@
+id: the-pillars-of-the-earth-2006
+name: "The Pillars of the Earth"
+alternate_names: ["Die Säulen der Erde"]
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Bag Building
+  - Resource Management
+  - Euro
+  - Historical
+  - Medieval
+  - City Building
+
+evokes:
+  - Progress
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Rieneck
+  - Stefan Stadler
+publisher:
+  - KOSMOS
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Pillars of the Earth is a 2006 worker placement game designed by Michael Rieneck and Stefan Stadler, based on Ken Follett's novel of the same name. Players assume the roles of medieval builders competing to construct a great cathedral, earning victory points through the resources and labor they commit to the project. The game's defining mechanic is its bag-pulling worker placement: each player's three master builder pawns are placed in a bag, drawn randomly one by one, with the cost to place dropping as more pawns are revealed—creating agonizing timing decisions. An expansion released in 2007 adds craftsmen cards, new characters, and support for up to six players.
+
+upgrades: []

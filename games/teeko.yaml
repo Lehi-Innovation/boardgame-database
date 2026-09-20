@@ -1,0 +1,57 @@
+id: teeko
+name: "Teeko"
+alternate_names: []
+year: 1945
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Scarne
+publisher:
+  - John Scarne Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Teeko is a two-player abstract strategy game invented by American game designer
+  and magician John Scarne, first published in 1945 with a refined version in
+  1952. Played on a 5x5 grid, each player controls four pieces and wins by
+  arranging them in a straight line of four (horizontal, vertical, or diagonal)
+  or in a 2x2 square. Play divides into two phases: placement (alternately
+  dropping pieces onto empty squares) and movement (sliding one piece per turn
+  to any adjacent square, including diagonally). The game's name borrows letters
+  from Tic-tac-toe, Chess, Checkers, and Bingo, signaling its aspirations as a
+  synthesis of classic games.
+
+upgrades: []

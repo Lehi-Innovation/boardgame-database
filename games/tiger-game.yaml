@@ -1,0 +1,50 @@
+id: tiger-game
+name: "Tiger game"
+alternate_names:
+  - "Bagh-Chal"
+  - "Tigers and Goats"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Tiger game refers to a family of traditional two-player asymmetric abstract strategy games found throughout South and Southeast Asia, most notably Bagh-Chal from Nepal. One player controls a small number of tigers (usually 4) trying to capture prey by jumping over them, while the other player manages a much larger group of goats (20 in Bagh-Chal) trying to surround and immobilize all the tigers. The predator-versus-prey asymmetry creates distinctly different playing experiences for each side, and the game has been played for centuries across Nepal, India, Thailand, and Malaysia.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: wrath-of-ashardalon
+name: "Dungeons & Dragons: Wrath of Ashardalon Board Game"
+alternate_names:
+  - "Wrath of Ashardalon"
+year: 2011
+
+# Relationships
+game_family: dnd-adventure-system
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - castle-ravenloft
+  - legend-of-drizzt
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Tile Placement
+  - Dice Rolling
+  - Variable Player Powers
+  - Action Points
+  - Campaign Mode
+  - Fantasy
+
+evokes:
+  - Tension
+  - Discovery
+  - Powerful
+  - Dread
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dungeons & Dragons: Wrath of Ashardalon Board Game is a cooperative dungeon-crawling adventure for 1-5 players published by Wizards of the Coast in 2011. Players navigate a monster-infested labyrinth beneath a volcano to confront the fearsome red dragon Ashardalon, revealing dungeon tiles as they explore and fighting monsters drawn from encounter cards. The box includes 42 detailed plastic miniatures, 13 sheets of interlocking dungeon tiles, and 200 encounter and treasure cards across multiple scenarios. It is part of the D&D Adventure System series, fully compatible with Castle Ravenloft and Legend of Drizzt.
+
+upgrades: []

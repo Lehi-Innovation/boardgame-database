@@ -1,0 +1,52 @@
+id: stonewall-the-battle-of-kernstown
+name: "Stonewall: The Battle of Kernstown"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Herman
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Stonewall: The Battle of Kernstown is a 1978 hex-and-counter wargame designed by Mark Herman and published as a pull-out game in SPI's Strategy & Tactics magazine. The game covers the First Battle of Kernstown (March 23, 1862), the only tactical defeat of Stonewall Jackson's Shenandoah Valley Campaign, where Union forces under General Shields repulsed Jackson's attack. Players command Union and Confederate forces across a detailed hex map, managing unit cohesion and terrain as they re-enact this pivotal early Civil War engagement. It represents an early design from Herman, who would go on to create many celebrated wargames.
+
+upgrades: []

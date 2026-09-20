@@ -1,0 +1,51 @@
+id: quartermaster-general-south-front
+name: "Quartermaster General: South Front"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: quartermaster-general
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ian Brody
+publisher:
+  - Ares Games
+artist: []
+playtime_minutes: 100
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+
+description: |
+  Quartermaster General: South Front is a fast-paced 2-player wargame depicting WWII's Mediterranean theater from Summer 1940 to Spring 1944. Each player commands a unique deck of cards reflecting the equipment, manpower, and strategies of their side — the Allies or Axis — as they contest land, air, and sea across Southern Europe, North Africa, and the Mediterranean. Players compete for geographic objectives across 16 seasonal rounds, with Victory Points tallied at four key scoring phases. As the second title in the Quartermaster General Front series, it delivers accessible card-driven wargaming without sacrificing historical depth.

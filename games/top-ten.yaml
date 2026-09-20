@@ -1,0 +1,53 @@
+id: top-ten
+name: "Top Ten"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Party
+  - No Math
+  - Filler
+  - Gateway
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Wonder
+
+possible_counts: [4, 5, 6, 7, 8, 9]
+true_counts: [6, 7, 8]
+
+designer:
+  - Aurélien Picolet
+publisher:
+  - Cocktail Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 14
+
+description: |
+  Top Ten is a cooperative party game for 4–9 players in which the team works together to survive five rounds without accumulating too many failures. Each round, one player draws a bizarre prompt card — "things that could ruin a date" or "sounds that annoy your neighbors" — and each player secretly receives a number from 1 (terrible) to 10 (magnificent). Players must give creative answers matching the intensity of their secret numbers, while the active player tries to correctly guess the number behind each teammate's answer. The game rewards shared humor and creative interpretation, generating laughter-filled moments as players stretch their imagination to justify extreme numbers.
+
+upgrades: []

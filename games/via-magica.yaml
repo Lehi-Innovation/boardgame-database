@@ -1,0 +1,52 @@
+id: via-magica
+name: "Via Magica"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Pattern Building
+  - Set Collection
+  - Card Drafting
+  - Fantasy
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Lucky
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 7
+
+description: |
+  Via Magica is a fantasy-themed pattern completion game designed by Paolo Mori and published by Hurrican in 2020. Players draw cards and place magical tokens on their personal spell boards to complete patterns of three or more connected symbols, scoring points based on the size and complexity of completed formations. Adapted from Rise of Augustus with a new magical aesthetic and more family-friendly rules, Via Magica retains the bingo-like core of drawing and placing while adding more strategic choice in token placement and pattern selection. A light but engaging family game with beautiful production.
+
+upgrades: []

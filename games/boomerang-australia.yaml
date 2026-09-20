@@ -1,0 +1,54 @@
+id: boomerang-australia
+name: "Boomerang: Australia"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: boomerang
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Roll & Write
+  - Drafting
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Scott Almes
+publisher:
+  - Grail Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Boomerang: Australia is a "draft and write" game that blends card drafting (like 7 Wonders) with the mark-and-score approach of roll-and-write games. Players explore the Australian continent by drafting location cards featuring unique landmarks, activities, and wildlife, then recording their selections on personal score sheets to build sets of activities and animal sightings. The simultaneous drafting and writing keeps all players engaged throughout, and the game's short play time and Australian theme make it an accessible, travel-friendly filler. It is the first in a series that also includes Boomerang: USA and Boomerang: Europe.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: wizards
+name: "Wizards"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Cooperative
+  - Area Control
+  - Variable Player Powers
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Coral J. F. Mosbø
+  - Thomas Mosbø
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Wizards is a 1982 Avalon Hill game of high fantasy set in the "Enchanted Isles" for 2-6 players, blending board game and RPG elements. Each player takes the role of a druid, wizard, or sorcerer who must complete quests — called "Tasks" — across 18 randomly placed hexagonal islands while advancing through four levels of power and collecting Sacred Gems. The game is simultaneously cooperative and competitive: if players collectively fail to defeat the Evil Spirit, everyone loses, but the first individual to gather enough gems and complete enough tasks wins alone. The hybrid design creates tense decisions about when to cooperate and when to pursue personal victory.
+
+upgrades: []

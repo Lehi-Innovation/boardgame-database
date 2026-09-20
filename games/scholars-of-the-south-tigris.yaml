@@ -1,0 +1,58 @@
+id: scholars-of-the-south-tigris
+name: "Scholars of the South Tigris"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: south-tigris
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Deck Building
+  - Dice Rolling
+  - Hand Management
+  - Tech Tree
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Renegade Game Studios
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Scholars of the South Tigris is a standalone Euro game set during the Abbasid Caliphate around 830 AD, where players compete to increase their influence in the House of Wisdom and translate foreign scrolls into Arabic. The game uses worker placement with dice-workers, requiring players to match die values or colors to action spaces, while building card engines that generate powerful combos. As the third entry in the South Tigris series by Shem Phillips and S J Macdonald, it emphasizes engine-building and careful resource management through its interconnected action tracks and tech-tree progression.
+
+upgrades: []

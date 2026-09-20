@@ -1,0 +1,54 @@
+id: the-x-files-board-game
+name: "The X-Files Board Game"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hand Management
+  - Cooperative
+  - Mystery
+  - Sci-Fi
+  - Narrative Heavy
+
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Kevin Wilson
+publisher:
+  - IDW Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  The X-Files Board Game is a 2015 asymmetric deduction and conspiracy game designed by Kevin Wilson and published by IDW Games for 2-5 players. One player takes the role of the Cigarette Smoking Man, plotting against the other players who cooperate as FBI agents Mulder, Scully, Skinner, and Krycek. Agents move across the United States solving X-Files cases by collecting evidence and influence, while the Cigarette Smoking Man uses cards to delay, misdirect, and cover up the truth without ever directly attacking. The game's distinctive mechanic—the villain orchestrating events passively rather than through direct control—captures the show's atmosphere of institutional conspiracy and ambiguous threat exceptionally well.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: arcadia-quest
+name: "Arcadia Quest"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Campaign Mode
+  - Modular Board
+  - Variable Player Powers
+  - Teams
+  - Dungeon Crawler
+  - Fantasy
+  - CMON
+  - Eric Lang
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Progress
+  - Unique
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Thiago Aranha
+  - Guilherme Goulart
+  - Eric Lang
+  - Fred Perret
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Arcadia Quest is a campaign-based dungeon-crawling board game that blends PvE and PvP combat, as players guide guilds of heroes through a city overrun by the vampire lord Malachar. Each player controls a guild of three heroes battling monsters across modular board scenarios while simultaneously competing against rival guilds for quest objectives. Heroes are equipped with cards that power their abilities, and fallen heroes can be revived between scenarios, but the campaign tracks wins and losses across a series of linked missions. With no game master required — monsters react automatically to player actions — all players remain fully engaged. The game features high-quality miniatures and a lighthearted fantasy art style.
+
+upgrades: []

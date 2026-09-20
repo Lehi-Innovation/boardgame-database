@@ -1,0 +1,56 @@
+id: to-court-the-king
+name: "To Court the King"
+alternate_names:
+  - "Um Krone und Kragen"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Card Drafting
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Filler
+  - Medieval
+
+evokes:
+  - Lucky
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Tom Lehmann
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 12
+
+description: |
+  To Court the King is a Yahtzee-style dice game for 2–5 players in which players compete to amass the most powerful collection of medieval court characters. On each turn, players roll dice up to three times trying to match the pattern required to claim a character card; claimed characters provide special die-manipulation powers that stack over time. The goal is to roll the highest five-dice combination at the final "King's Roll" to win the game. The satisfying escalation of powers as your court grows, combined with the press-your-luck tension of each roll, makes To Court the King a compelling dice-chaining filler designed by Tom Lehmann.
+
+upgrades: []

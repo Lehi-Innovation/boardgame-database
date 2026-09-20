@@ -1,0 +1,57 @@
+id: codex-naturalis
+name: "Codex Naturalis"
+alternate_names:
+  - "Codis Naturalis"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Drafting
+  - Pattern Building
+  - Tableau Building
+  - Set Collection
+  - Family
+  - Gateway
+  - Nature
+
+evokes:
+  - Clever
+  - Complete
+  - Wonder
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Thomas Dupont
+publisher:
+  - Bombyx
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Codex Naturalis is a card-placement game for 2–4 players in which players continue the illuminated manuscript work of the monk Tybor Kwelein, assembling overlapping pages that depict the flora and fauna of primeval forests. Each turn a player adds a card to their growing tableau, layering it over existing cards to accumulate symbols and fulfill secret and public objectives; the visible symbols around each card's corners are what score, so careful placement creates cascading combinations. Its rapid play time, beautiful nature illustrations, and deceptively deep spatial puzzle made it a 2024 Spiel des Jahres nominee and an instant gateway classic.
+
+upgrades: []

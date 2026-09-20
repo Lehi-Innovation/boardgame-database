@@ -1,0 +1,57 @@
+id: renature
+name: "Renature"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Nature
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Michael Kiesling
+  - Wolfgang Kramer
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Renature is an area-majority game played with dominoes for 2–4 players in which players restore a polluted valley to its natural state. Each turn, players place an animal-themed domino onto the valley board and then plant vegetation cubes matching the numbers on the domino's halves. At the end of each round, each region of the valley is scored for the player who has the most vegetation there. The interplay between domino placement and the area-control scoring creates interesting blocking and efficiency puzzles, while the nature-restoration theme gives the dry mechanics appealing visual warmth. Designed by the acclaimed duo Michael Kiesling and Wolfgang Kramer.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: bayonets-and-tomahawks
+name: "Bayonets & Tomahawks"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Dice Rolling
+  - Area Control
+  - Hex Map
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Marc Rodrigue
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Bayonets & Tomahawks is a two-player card-driven grand strategy game depicting the French & Indian War from 1755 to 1760, as France's North American empire was conquered by Britain. Each in-game year consists of nine Action Rounds and three Logistics Rounds; players use historically based event cards for maneuver, raids, sieges, diplomacy with indigenous nations, and naval operations. Instead of a traditional CRT, the game uses dice rolled per unit, with light units only capable of damaging other light forces and heavy brigades clashing only with brigades, creating a richly layered system in an accessible two-to-three hour package.
+
+upgrades: []

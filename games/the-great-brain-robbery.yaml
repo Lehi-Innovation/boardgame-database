@@ -1,0 +1,59 @@
+id: the-great-brain-robbery
+name: "The Great Brain Robbery"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Racing
+  - Take That
+  - Humor
+  - Zombies
+  - Trains
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  The Great Brain Robbery is a 2000 Cheapass Games design by James Ernest, the wild west-themed
+  sequel to Give Me the Brain and fourth entry in the "Friedey's" zombie series. Players are
+  zombies working fast food who must rob a speeding train full of brains. The game combines racing
+  elements (moving along the train cars) with competitive action management as zombie players
+  jostle to collect the most brains. True to Cheapass Games' signature design philosophy, rules
+  are kept light and absurd humor drives the experience throughout.
+
+upgrades: []

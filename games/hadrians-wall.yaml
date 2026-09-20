@@ -1,0 +1,64 @@
+id: hadrians-wall
+name: "Hadrian's Wall"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Hand Management
+  - Worker Placement
+  - Engine Building
+  - Tech Tree
+  - Historical
+  - Ancient
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1, 2]
+
+designer:
+  - Bobby Hill
+publisher:
+  - Garphill Games
+artist:
+  - The Mico
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+description: |
+  Hadrian's Wall is an immersive flip-and-fill roll-and-write game set during the Roman
+  occupation of Britain. Players fill personal sheets representing their section of the
+  famous wall, managing legionaries, resources, and civilian settlers across interlocking
+  tracks. The layered engine-building on paper is remarkably deep for the format, with
+  tech-tree paths, worker allocation decisions, and dozens of scoring opportunities that
+  create a unique set of priorities each game. Despite its complexity on paper, turns
+  are quick and simultaneous, making it one of the most satisfying solo or competitive
+  roll-and-write experiences available.
+
+upgrades: []

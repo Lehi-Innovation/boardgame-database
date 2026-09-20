@@ -1,0 +1,56 @@
+id: patterns
+name: "Patterns"
+alternate_names:
+  - "Patterns: A Mandala Game"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Abstract
+  - Pattern Building
+  - Tile Placement
+  - Filler
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Wonder
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Trevor Benjamin
+  - Brett J. Gilbert
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+description: |
+  Patterns (subtitled "A Mandala Game") is a 2023 two-player abstract area-control game by Trevor Benjamin and Brett J. Gilbert, published by Lookout Games, played on a large printed tea towel with 54 colorful mandala tiles. Players take turns swapping tiles from the spread on the table, trying to mark contiguous colored areas as their territory; the player who claims the largest connected regions of the most colors scores best. A reimagination of the duo's earlier card game Mandala translated into a physical tile medium, it is simple to explain in under five minutes but rewards careful positional thinking over its short 15-minute playtime.
+
+upgrades: []

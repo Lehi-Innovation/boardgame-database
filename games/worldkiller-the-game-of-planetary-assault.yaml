@@ -1,0 +1,55 @@
+id: worldkiller-the-game-of-planetary-assault
+name: "WorldKiller: The Game of Planetary Assault"
+alternate_names:
+  - "WorldKiller"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simulation
+  - Hex Map
+  - Sci-Fi
+  - Wargame
+  - Space
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Unique
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Redmond A. Simonsen
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  WorldKiller: The Game of Planetary Assault is a science fiction microgame by SPI published in 1980, originally as a free pull-out in the first issue of Ares science-fiction magazine. The game simulates humans defending the planet Greendream against an alien invasion, with one player controlling the attacking aliens and the other the human defenders. The game's most innovative feature is its 3D combat grid: the board is divided into an 8×12 grid in which each square represents a three-dimensional stack of seven vertical levels, with counter placement on specific marks indicating altitude. The compact design packs unusual spatial tactics into a small package.
+
+upgrades: []

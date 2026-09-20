@@ -1,0 +1,50 @@
+id: nanga-parbat
+name: "Nanga Parbat"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Abstract
+  - Nature
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Steve Finn
+publisher:
+  - Dr. Finn's Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 14
+
+description: |
+  Nanga Parbat is a 2-player abstract strategy game set on a mountain. Players alternate placing hikers on the mountain terrain to capture animals and establish base camps, using area movement and set collection to score points. The variable setup ensures each game presents a fresh puzzle, and the short playtime makes it an ideal two-player filler with meaningful decisions packed into every turn.

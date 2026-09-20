@@ -1,0 +1,55 @@
+id: hero-realms
+name: "Hero Realms"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Fantasy
+  - Filler
+  - Gateway
+
+evokes:
+  - Progress
+  - Powerful
+  - Rivalry
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Rob Dougherty
+  - Darwin Kastle
+publisher:
+  - Wise Wizard Games
+artist: []
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 12
+
+description: |
+  Hero Realms is a fantasy-themed deck building game for 2-4 players designed by Rob Dougherty and Darwin Kastle, the creators of Star Realms. Players start with identical small decks and take turns playing cards to gain gold — used to buy more powerful champions and actions from a shared central market row — and combat, used to deal damage to opponents. The game is a direct combat affair: the goal is simply to reduce opponents' health to zero, and the base set supports up to four players with included scorecards. Optional character packs add asymmetric starting abilities for wizard, cleric, thief, ranger, and fighter classes, and cooperative boss packs allow full campaign-style play, making Hero Realms notably versatile.
+
+upgrades: []

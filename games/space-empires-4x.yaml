@@ -1,0 +1,62 @@
+id: space-empires-4x
+name: "Space Empires 4X"
+alternate_names: ["Space Empires: 4X"]
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Area Control
+  - Hex Map
+  - Variable Setup
+  - Modular Board
+  - Resource Management
+  - Wargame
+  - Sci-Fi
+  - Tech Tree
+
+evokes:
+  - Discovery
+  - Progress
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jim Krohn
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+description: |
+  Space Empires 4X is a science fiction board wargame designed by Jim Krohn and published by GMT Games in 2011,
+  following the 4X tradition of eXplore, eXpand, eXploit, and eXterminate. Players build space empires on a
+  randomly revealed modular map featuring 12 terrain types including asteroids, nebulae, and planets that affect
+  both movement and combat. Colony ships, merchant fleets, mining operations, and technology upgrades drive
+  economic development while fog-of-war keeps enemy fleet positions hidden. Nearly 20 years in development,
+  the game balances strategic depth with streamlined combat resolution.
+
+upgrades: []

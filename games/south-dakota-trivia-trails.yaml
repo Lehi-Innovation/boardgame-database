@@ -1,0 +1,55 @@
+id: south-dakota-trivia-trails
+name: "South Dakota Trivia Trails"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Clever
+  - Humor
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - J & P Design
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  South Dakota Trivia Trails is a regional trivia board game published by J & P Design in 1985, designed as
+  a fun way to learn about the state of South Dakota. Players race along a trail board, stopping at trivia spots
+  to answer questions about the state's history, geography, and culture. A niche educational product aimed at
+  South Dakota residents and tourists, it represents the wave of region-specific trivia games that followed the
+  success of Trivial Pursuit in the early 1980s.
+
+upgrades: []

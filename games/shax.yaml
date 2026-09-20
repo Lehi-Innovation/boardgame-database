@@ -1,0 +1,49 @@
+id: shax
+name: "Shax"
+alternate_names: ["Jar"]
+year: -1200
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Shax is a traditional Somali abstract strategy game, a variation of the Morris family of games (similar to Nine Men's Morris), played on a board of three concentric squares with connecting lines forming 24 intersection points. Each player places 12 pieces alternately, aiming to form a "jare" (three in a row) — unlike Nine Men's Morris, in Shax forming a row during placement does not immediately allow removal of an opponent's piece; the two-phase game has unique capture rules. Deeply embedded in Somali culture and oral tradition, it is often played socially with observers actively participating in strategy discussion.
+
+upgrades: []

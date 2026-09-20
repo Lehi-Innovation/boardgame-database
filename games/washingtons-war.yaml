@@ -1,0 +1,53 @@
+id: washingtons-war
+name: "Washington's War"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Herman
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 14
+
+description: |
+  Washington's War is Mark Herman's redesign of his pioneering card-driven wargame We the People, published by GMT Games in 2010 and set during the American Revolutionary War. One player controls American forces while the other commands the British, with each side alternately playing cards from a 64-card deck to spend operations points or trigger special historical events that affect political and military control of colonies. The new CDG discard mechanic allows every card to be played by letting opponents buy discarded events for operations points, maintaining tension throughout. Washington's War won both the 2010 Charles S. Roberts Award for Best Ancient to Napoleonic Era Wargame and the 2010 Golden Geek Award for Best 2-Player Game.
+
+upgrades: []

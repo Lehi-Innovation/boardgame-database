@@ -1,0 +1,50 @@
+id: sevens
+name: "Sevens"
+alternate_names: ["Fan Tan", "Parliament", "Domino"]
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Family
+  - No Math
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Complete
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Sevens (also known as Fan Tan, Parliament, and Domino) is a traditional shedding card game played with a standard deck in which players take turns building a layout of cards in suit order starting from the sevens. Each player must play a card adjacent to an existing card in the layout on their turn or pass; the first player to empty their hand wins. The game's accessibility and the light strategic element of blocking opponents' card plays with your own hand make it a perennial family favorite played worldwide.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: simplified-mahjong
+name: "Simplified Mahjong"
+alternate_names: []
+year: 1920
+
+# Relationships
+game_family: mahjong
+edition: simplified
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Historical
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 8
+
+description: |
+  Simplified Mahjong refers to streamlined rulesets derived from traditional Chinese Mahjong that strip away the most complex scoring categories and special hands, making the game more accessible to new players while retaining the core tile-drawing, set-building, and discarding mechanics. Joseph Park Babcock's 1920 American rules publication was an early formalization of a simplified approach, and numerous simplified variants have since been developed by U3A groups, teaching associations, and game publishers for introductory play. The simplified format retains the satisfying pattern-completion and hand-reading elements that have made Mahjong one of the world's most popular tile games.
+
+upgrades: []

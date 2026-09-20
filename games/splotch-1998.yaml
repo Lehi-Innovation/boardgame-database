@@ -1,0 +1,54 @@
+id: splotch-1998
+name: "Splotch!"
+alternate_names: ["Splotch"]
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: croak
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Take That
+  - Hand Management
+  - Animals
+  - Family
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Igor Polouchine
+  - Mathieu Leyssenne
+publisher:
+  - Darwin Project
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Splotch! (1998) is a standalone expansion for the frog-themed board game Croak!, published by Darwin Project and designed by Igor Polouchine and Mathieu Leyssenne. It follows the same core rules as Croak! — players move frog pieces across a tile board, flipping tiles and trying to land on opposing frogs to eat them — with the addition of a card system where each player draws up to three cards and may play them to manipulate piece positions, cards, or turn mechanics. This card layer adds additional tactical depth and interaction to the base game experience.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: wien-catan
+name: "Wien Catan"
+alternate_names:
+  - "Vienna Meets Catan"
+year: 2004
+
+# Relationships
+game_family: catan
+edition: "Vienna Special Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Resource Management
+  - Trading
+  - Network Building
+  - Negotiation
+  - Euro
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Tension
+  - Discovery
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Brigitte Ditt
+  - Wolfgang Ditt
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Wien Catan is a limited promotional edition of The Settlers of Catan created for the 20th Austrian Gamefest in 2004, with only 10,000 copies produced. The game replaces the standard Catan island with a hexagonal map of Vienna and its surroundings, featuring famous landmarks such as the Ferris Wheel (Riesenrad) and St. Stephen's Cathedral as notable locations. The core Catan rules remain unchanged — players gather resources, build roads and settlements, and trade — but the Vienna map provides a unique regional flavor that makes it a prized collector's item for Catan enthusiasts.
+
+upgrades: []

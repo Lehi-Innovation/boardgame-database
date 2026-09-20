@@ -1,0 +1,51 @@
+id: welcome-to-new-las-vegas
+name: "Welcome to New Las Vegas"
+alternate_names: ["Welcome To...: New Las Vegas"]
+year: 2020
+
+# Relationships
+game_family: welcome-to
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - City Building
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Lucky
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [2, 3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Welcome to New Las Vegas is a city-builder flip-and-write game designed by Alexis Allard and Benoit Turpin, published by Blue Cocker Games in 2020, set in a glamorous Las Vegas theme. Players use the same dice-without-dice card flip mechanism from Welcome To..., combining a number with an action and writing it into their Las Vegas street plan. Players build casinos on streets, hotels in avenues, create golf courses, give performances, and move limousines for VIPs to score points. Playable simultaneously by 1 to 50 players, Welcome to New Las Vegas offers the satisfying puzzle of optimizing a shared card set into a unique personal layout.
+
+upgrades: []

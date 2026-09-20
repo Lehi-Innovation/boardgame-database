@@ -1,0 +1,50 @@
+id: sho
+name: "Sho"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Historical
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Progress
+
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Sho is a traditional Tibetan race game still commonly played today, in which players shake two six-sided dice in a wooden cup, slam it down onto a dice pad, then advance coins around a circular track made of shells. Supporting 2 to 3 players, the game is a straightforward race with the goal of moving all one's pieces around the board before opponents can do the same. As a traditional folk game passed down through generations in Tibet, Sho has no single known designer or publisher and is typically played with handcrafted equipment.
+
+upgrades: []

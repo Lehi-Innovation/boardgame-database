@@ -1,0 +1,55 @@
+id: verso-recto
+name: "Verso Recto"
+alternate_names:
+  - "Recto Verso"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Pattern Building
+  - Puzzle Solving
+  - Abstract
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Connection
+  - Tension
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Verso Recto (also known as Recto Verso) is a cooperative pattern-building game designed by Inka Brand and Markus Brand and published by Super Meeple in 2021. Players sit in shifting pairs across from each other and try to recreate skyline images shown on challenge cards using coloured blocks — but each player can only see the picture from their own side, so constant communication is essential to ensure every block lands in the right location. The game is a re-edition of the earlier title La Boca, updated with new art and an additional two-player cooperative mode. Fast, social, and spatially challenging, it works well for mixed groups.
+
+upgrades: []

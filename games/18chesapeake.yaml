@@ -1,0 +1,55 @@
+id: 18chesapeake
+name: "18Chesapeake"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Auctions/Bidding
+  - Tile Placement
+  - Trains
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Scott Petersen
+publisher:
+  - All-Aboard Games
+artist: []
+playtime_minutes: 180
+min_playtime: 150
+max_playtime: 240
+min_age: 14
+
+description: |
+  18Chesapeake is an 18xx railroad investment game designed by Scott Petersen and set in the Chesapeake Bay region of the United States, published in 2020 by All-Aboard Games. Deliberately designed as a more accessible entry point into the 18xx series, it features a smaller map, a train export mechanic that keeps the game moving, and a structure similar to the acclaimed 1830. Players invest in and manage railroad companies operating across the mid-Atlantic states and Appalachian coalfields, taking turns in alternating stock and operating rounds. Its shorter play time of approximately 2.5 to 3.5 hours makes it particularly welcoming to new 18xx players.
+
+upgrades: []

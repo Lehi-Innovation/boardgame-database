@@ -1,0 +1,55 @@
+id: ticket-to-ride-new-york
+name: "Ticket to Ride: New York"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Family
+  - Gateway
+  - Filler
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Rivalry
+  - Tension
+  - Progress
+  - Complete
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 12
+min_playtime: 10
+max_playtime: 15
+min_age: 8
+
+description: |
+  Ticket to Ride: New York is a fast-paced entry in the Cities line, set amid the bustling streets of New York City where players use taxi pieces instead of trains. Players race to visit iconic Tourist Attractions and complete Destination Tickets, scoring bonus points for each tourist attraction connected to their claimed routes. With most routes being just one or two spaces and a playtime of 10–15 minutes, it distills the Ticket to Ride experience into an accessible, quick-play format.
+
+upgrades: []

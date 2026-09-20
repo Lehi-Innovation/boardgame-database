@@ -1,0 +1,51 @@
+id: vultures
+name: "Vultures"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Vultures is a 1987 card game published by Henry Games in which two to four players take on the roles of vultures competing to claim carcasses scattered across the table. Players are dealt a hand of cards that can be Flight, Fight, Carcass, and Waddle types, using them to outmanoeuvre rivals and secure the most valuable carrion. The game's simple mechanics and darkly humorous animal theme make it an approachable filler for casual game nights. As a small-press game from the late 1980s, it occupies a niche in the history of American card game design.
+
+upgrades: []

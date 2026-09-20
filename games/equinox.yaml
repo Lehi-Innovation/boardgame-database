@@ -1,0 +1,63 @@
+id: equinox
+name: "Equinox"
+alternate_names:
+  - "Colossal Arena"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Bluffing
+  - Fantasy
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Plan B Games
+artist:
+  - Jesper Ejsing
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Equinox is a fantasy betting and bluffing card game, a reimagining of Reiner Knizia's
+  classic Colossal Arena. Players place bets on which mythical creatures they believe will
+  survive an ancient tournament, with the lowest-value creature eliminated each round.
+  By playing cards to influence creature values and secretly wagering on outcomes, players
+  must manage both the tournament and their opponents' expectations. The clever interplay
+  between card play and betting creates constant tension as the field narrows to a final
+  survivor.
+
+upgrades: []

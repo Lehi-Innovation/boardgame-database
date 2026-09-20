@@ -1,0 +1,54 @@
+id: thunder-alley-2014
+name: "Thunder Alley"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Hand Management
+  - Teams
+  - Events
+  - Economic
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jeff Horger
+  - Carla Horger
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Thunder Alley is a 2014 card-driven stock car racing game designed by Jeff and Carla Horger and published by GMT Games for 2-7 players. Each player controls a team of 3-6 cars rather than a single racer, and must maximize the collective performance of their entire team across two distinct race tracks—a tri-oval superspeedway and a tight short track—using cards covering solo movement, drafting, pursuit, and pack leading. The team-management dimension adds a unique strategic layer rare in racing games: sometimes sacrificing one car to boost another scores more points overall. The game was nominated for the 2014 Golden Geek Best Thematic Board Game.
+
+upgrades: []

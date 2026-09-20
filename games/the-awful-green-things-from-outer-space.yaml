@@ -1,0 +1,62 @@
+id: the-awful-green-things-from-outer-space
+name: "The Awful Green Things From Outer Space"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Asymmetric
+  - Variable Player Powers
+  - Sci-Fi
+  - Humor
+  - Wargame
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Dread
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Wham
+publisher:
+  - Steve Jackson Games
+artist:
+  - Tom Wham
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  The Awful Green Things From Outer Space is an asymmetric two-player wargame originally published
+  as an insert in Dragon magazine in 1979 and later produced as a boxed game by TSR and then Steve
+  Jackson Games. One player controls the crew of the spaceship Znutar attempting to kill or escape
+  the alien infestation, while the other controls the rapidly multiplying Awful Green Things. What
+  makes the game notable is that weapon effectiveness is discovered during play — players don't know
+  whether a given weapon will kill, stun, or accidentally help the creatures until they try it.
+  This uncertainty creates a darkly humorous, unpredictable experience that has made it a cult
+  classic of science fiction gaming.
+
+upgrades: []

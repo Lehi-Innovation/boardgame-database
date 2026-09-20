@@ -1,0 +1,59 @@
+id: the-american-civil-war-1861-1865
+name: "The American Civil War: 1861–1865"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Area Control
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  The American Civil War: 1861–1865 is a grand-strategic simulation published by SPI in 1974,
+  originally as a pull-out game in Strategy & Tactics #43 before being released as a boxed set.
+  One player takes the role of Abraham Lincoln commanding Union forces, while the other plays
+  Jefferson Davis and the Confederacy, each managing corps and armies across the entire theater
+  of the war. The game operates at a strategic level that encompasses the full conflict from
+  Fort Sumter to Appomattox, requiring players to balance military operations with the war's
+  political and logistical dimensions. A revision by Joseph Reiser and Bruce Shelley appeared
+  in Strategy & Tactics #93 in 1983.
+
+upgrades: []

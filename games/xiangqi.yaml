@@ -1,0 +1,53 @@
+id: xiangqi
+name: "Xiangqi"
+alternate_names:
+  - "Chinese Chess"
+  - "Elephant Chess"
+  - "象棋"
+year: null
+
+# Relationships
+game_family: "chess-variants"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Deduction
+  - Ancient
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 20
+max_playtime: 120
+min_age: 8
+
+description: |
+  Xiangqi, or Chinese Chess, is a two-player strategy game that has been played in China for over a thousand years and remains the most popular board game in the country. Played on a 9x10 grid of intersections divided by a central river, each side commands 16 pieces including generals, advisors, elephants, horses, chariots, cannons, and soldiers — each with distinct movement rules. The cannon's unique jump-capture mechanic and the river barrier that restricts certain pieces give Xiangqi a strategic flavour distinct from Western chess. Victory is achieved by checkmating the opponent's general, with stalemate counting as a loss for the stalemated player.
+
+upgrades: []

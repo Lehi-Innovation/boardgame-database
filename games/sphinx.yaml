@@ -1,0 +1,55 @@
+id: sphinx
+name: "Sphinx"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Deduction
+  - Family
+  - Ancient
+
+evokes:
+  - Mystery
+  - Clever
+  - Lucky
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Sphinx is an ancient Egypt-themed board game published by Ravensburger. Players navigate a maze-like board by
+  rolling three dice, moving their pawns to collect Sphinx color cards and peek at the hidden colors beneath the
+  six Sphinx figures in the center. To win, a player must reach the center and present the correct colored Sphinx
+  cards in the correct order to claim the treasure. The game combines dice movement with memory and deduction
+  elements, offering an accessible introduction to strategy for children.
+
+upgrades: []

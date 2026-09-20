@@ -1,0 +1,51 @@
+id: valkenburg-castle
+name: "Valkenburg Castle"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Medieval
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen V. Cole
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Valkenburg Castle is a 1980 wargame designed by Stephen V. Cole and published by Task Force Games. The game simulates castle siege warfare using the fictional Valkenburg Castle as its setting, pitting an attacker against a defender in a small-scale tactical conflict. Cole was also the designer behind Star Fleet Battles, and Valkenburg Castle shares the micro-wargame format that Task Force Games popularised in that era. The game features cover art by Alvin Bellflower with interior art by R. Vance Buck and Allen Eldrige.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: the-metric-mile
+name: "The Metric Mile"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  The Metric Mile is a racing board game themed around track and field athletic competition. Players manage their runners around a mile-length track, balancing speed and stamina to outpace opponents across the finish line. The game's title references the 1500 meter race (the "metric mile"), a staple of Olympic and major track competitions. Specific publisher and designer details for this game are limited due to its rarity as a vintage sports-themed title.
+
+upgrades: []

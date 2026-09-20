@@ -1,0 +1,51 @@
+id: star-wars-the-deckbuilding-game
+name: "Star Wars: The Deckbuilding Game"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Fantasy Flight Games
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Caleb Grace
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Star Wars: The Deckbuilding Game is a 2023 two-player head-to-head deckbuilder from Fantasy Flight Games designed by Caleb Grace. Players choose sides as the Empire or the Rebels, starting with basic decks and strengthening them over the course of the game to destroy each other's bases. A Balance of the Force track rewards the player who gains more Force with bonus resources each turn. The first player to destroy three of their opponent's bases wins. The streamlined design makes it fast and accessible while maintaining meaningful tactical decisions.
+
+upgrades: []

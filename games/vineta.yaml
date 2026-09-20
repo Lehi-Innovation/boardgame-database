@@ -1,0 +1,55 @@
+id: vineta
+name: "Vineta"
+alternate_names:
+  - "Vineta, the Sunken City"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Traitor
+  - Hand Management
+  - Take That
+  - Mythology
+  - Maritime
+
+evokes:
+  - Mystery
+  - Tension
+  - Bluffing
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Mauricio V. Gibrin
+  - Mauricio Miyaji
+  - Fabiano Onça
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Vineta is a 2008 board game designed by Mauricio Gibrin, Mauricio Miyaji, and Fabiano Onça, published by Winning Moves Games USA. Players take on the roles of angry Norse Gods competing to sink the legendary city of Vineta beneath ocean waves — but each player is secretly assigned one of the nine city districts to protect. Players must publicly contribute to the city's flooding while covertly shielding their own sector, creating a delicious tension between cooperation-in-appearance and individual self-interest. The hidden objectives and bluffing make each session feel like a different puzzle of social deduction.
+
+upgrades: []

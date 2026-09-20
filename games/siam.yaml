@@ -1,0 +1,51 @@
+id: siam
+name: "Siam"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Animals
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Didier Dhorbait
+publisher:
+  - Ferti
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Siam is a compact 2-player abstract game by Didier Dhorbait in which elephants and rhinoceroses compete to push a heavy rock off the edge of the board. Each animal piece can push a line of rocks or opposing animals, but only if it outnumbers the opposing force pushing in the opposite direction, creating a pushing and counter-pushing struggle. The game is renowned for its elegant simplicity and surprising strategic depth in just 15 minutes, making it a beloved example of minimalist abstract design.
+
+upgrades: []

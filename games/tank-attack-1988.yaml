@@ -1,0 +1,59 @@
+id: tank-attack-1988
+name: "Tank Attack"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Area Control
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stuart P. Middleton
+publisher:
+  - CDS Microsystems
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Tank Attack is a 1988 hybrid board-computer wargame published by CDS
+  Microsystems, designed by Stuart P. Middleton with Ake Anderson, Henrik
+  Anderson, and Rory C. Green. The game uses a fold-out hex map depicting four
+  countries with varied terrain, with players allocated action points each turn
+  to move tanks, attack enemy forces, repair units, or defend their headquarters.
+  The computer component handles rules adjudication and bookkeeping while the
+  physical hex map serves as the game board. Originally released for ZX Spectrum,
+  BBC Micro, Commodore 64, and Amiga, it combines the tactile appeal of board
+  wargaming with digital convenience.
+
+upgrades: []

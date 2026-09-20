@@ -1,0 +1,52 @@
+id: titanic-the-board-game
+name: "Titanic: The Board Game"
+alternate_names:
+  - "Titanic"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+  - Historical
+  - Maritime
+
+evokes:
+  - Tension
+  - Dread
+  - Lucky
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Titanic: The Board Game is a roll-and-move game published by Universal Games in 1998 timed to the blockbuster film release, in which 2–6 players race as passengers aboard the doomed RMS Titanic to collect five key items — passport, life vest, room key, ticket, and valuables — and reach the lifeboats before the ship sinks. Event cards introduce hazards like locked doors and countdowns, while the race to escape adds genuine urgency to the simple movement mechanics. The game sold 300,000 copies in its launch year and became one of the top-five selling games at Toys "R" Us in 1998.
+
+upgrades: []

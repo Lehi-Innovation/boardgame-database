@@ -1,0 +1,57 @@
+id: the-big-time
+name: "The Big Time!"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Economic
+  - Historical
+
+evokes:
+  - Humor
+  - Rivalry
+  - Clever
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Big Time! is a vaudeville-era theater management game set in Chicago during the Golden Age
+  of vaudeville (approximately 1905-1915). Players take the roles of theater owners competing to
+  book the greatest and most diverse roster of acts — comedians, acrobats, singers, and novelty
+  performers — to make their venue the most spectacular in the city. Each of four turns, players
+  bid on the right to select acts first, then place those acts in their theaters and tally scores.
+  The auction mechanic and set collection scoring (diversity of act types rewards players who book
+  varied performers) create interesting bidding decisions as players balance budget constraints
+  against building a well-rounded bill.
+
+upgrades: []

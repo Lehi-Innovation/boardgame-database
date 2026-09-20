@@ -1,0 +1,51 @@
+id: titan-strike
+name: "Titan Strike!"
+alternate_names:
+  - "Titan Strike: Battle for the Moon of Saturn"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Area Control
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Titan Strike! is a science fiction wargame published by SPI in 1979, set on Titan — one of Saturn's moons — where the European Economic Community and the Hegemony of Eastern Asia battle for control of valuable solar fissionables. Designed as a compact "Space Capsule" game, it simulates near-future military conflict in a realistically extrapolated geopolitical context. The game appeared on SPI's Top Ten Bestsellers list for over a year following its 1979 release.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: xactika
+name: "Xactika"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Set Collection
+  - Hand Management
+  - Family
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Lucky
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Marsha J. Falco
+  - R. E. Falco
+publisher:
+  - Set Enterprises
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Xactika is a trick-taking card game played with a dedicated deck of 81 cards, each bearing one
+  to three of four different suits — balls, cubes, cones, and stars — with face values from 4 to 12
+  equal to the sum of shapes present. Players bid the exact number of tricks they expect to win,
+  and points are awarded only for perfect predictions. The shifting card strengths across a round
+  mean a card that looks weak early may become dominant as the hand evolves.
+
+upgrades: []

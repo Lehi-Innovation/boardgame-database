@@ -1,0 +1,53 @@
+id: star-wars-monopoly
+name: "Star Wars Monopoly"
+alternate_names: ["Monopoly: Star Wars Classic Trilogy Edition"]
+year: 1997
+
+# Relationships
+game_family: monopoly
+edition: star-wars
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Economic
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 8
+
+description: |
+  Star Wars Monopoly is a 1997 themed edition of the classic Monopoly board game, published by Parker Brothers. Players buy and trade iconic Star Wars locations from the original trilogy in place of traditional properties, and collect rent as opponents land on them. The game features nine pewter playing tokens of Star Wars characters cast by Rawcliffe, including Han Solo, Princess Leia, C-3PO, and the Emperor. The core Monopoly mechanics of roll-and-move, property acquisition, and rent collection remain unchanged.
+
+upgrades: []

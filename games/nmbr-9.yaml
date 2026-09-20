@@ -1,0 +1,56 @@
+id: nmbr-9
+name: "NMBR 9"
+alternate_names: ["NMBR9"]
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Simultaneous Action
+  - Puzzle Solving
+  - Abstract
+  - Family
+  - Filler
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+designer:
+  - Peter Wichmann
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  NMBR 9 is a 1-4 player simultaneous tile-stacking puzzle game by Peter Wichmann, published by Z-Man Games in 2017. Each turn a card is drawn from a shared deck of numbers 0-9, and every player simultaneously takes that number tile and adds it to their individual display. Tiles may be placed on the ground level for free or stacked on top of other tiles — but a stacked tile must rest completely on two or more tiles below it with no overhang. Tiles score points equal to their face value multiplied by the level they occupy, so higher stacking with big numbers is the path to victory. NMBR 9's elegant scoring system and individual play style make it uniquely tension-free and yet deeply engaging as a spatial puzzle.
+
+upgrades: []

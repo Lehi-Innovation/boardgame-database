@@ -1,0 +1,57 @@
+id: cafe
+name: "Café"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Resource Management
+  - Economic
+  - Euro
+  - Food Theme
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Nuno Costa
+  - Miguel Rôla
+publisher:
+  - PYTHAGORAS
+artist: []
+playtime_minutes: 35
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Café is a small-box Euro game set in early 20th-century Portugal during the booming coffee trade with Brazil, where players simulate the flow of coffee beans through four stages: produce, dry, roast, and deliver to historical cafés across the region. Over eight rounds players draft cards and layer them into a growing tableau, with each card activating coffee production and processing actions based on its position. Winner of the 2020 Portuguese Game of the Year and Best Portuguese Strategy Game, Café packs a surprisingly deep spatial and economic puzzle into a compact, elegant package.
+
+upgrades: []

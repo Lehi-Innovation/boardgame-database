@@ -1,0 +1,64 @@
+id: the-isle-of-cats
+name: "The Isle of Cats"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tile Placement
+  - Set Collection
+  - Card Drafting
+  - Pattern Building
+  - Hand Management
+  - Euro
+  - Family
+  - Animals
+
+evokes:
+  - Complete
+  - Clever
+  - Progress
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Frank West
+publisher:
+  - The City of Games
+artist:
+  - Frank West
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  The Isle of Cats is a card-drafting and polyomino tile-placement game by Frank West in which
+  players are rescuers sailing to the Isle of Cats to save its feline inhabitants from the villain
+  Vesh. Over five rounds, players draft cards and spend fish to catch cat tiles, then arrange them
+  like puzzle pieces on their boat. Keeping families (colors) of cats together scores points, while
+  uncovered rat spaces on the boat subtract points. The balance of planning your boat layout versus
+  reacting to available cats creates satisfying spatial puzzles each game. The game also includes
+  a family mode for younger players and a solo mode.
+
+upgrades: []

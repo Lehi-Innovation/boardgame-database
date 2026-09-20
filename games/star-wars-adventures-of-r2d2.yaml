@@ -1,0 +1,51 @@
+id: star-wars-adventures-of-r2d2
+name: "Star Wars: Adventures of R2-D2"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Discovery
+  - Humor
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Kenner
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Star Wars: Adventures of R2-D2 is a 1977 Kenner board game released alongside the original Star Wars film, following R2-D2 along a brightly colored adventure path. It is a simple roll-and-move children's game with cards providing benefits and penalties, themed around the events of Episode IV: A New Hope. As one of the earliest Star Wars licensed products, it is a collector's piece representing the dawn of Star Wars merchandise.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: rising-sun
+name: "Rising Sun"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Auctions/Bidding
+  - Asymmetric
+  - Variable Player Powers
+  - Card Drafting
+  - Dudes on a Map
+  - Ameritrash
+  - Fantasy
+  - Medieval
+  - CMON
+  - Eric Lang
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Persuasion
+  - Tension
+  - Unique
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Eric Lang
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Rising Sun is a feudal Japan-themed area control game in which players command mythological clans competing for dominance across the islands of ancient Japan, using negotiation, betrayal, and strategic alliances as much as military might. Each of three seasonal rounds begins with a political phase in which players form and renegotiate alliances, then a war phase resolves conflicts through a secret bidding mechanic — players split coins across four slots, forcing mind games and bluffing rather than simple force-of-numbers battles. Clan abilities, powerful monster allies recruited through card drafting, and cultural victory points through ritual seppuku create many paths to victory. The game features breathtaking miniatures and is thematically rich in Japanese mythology, making it a visually spectacular and deeply political experience.
+
+upgrades: []

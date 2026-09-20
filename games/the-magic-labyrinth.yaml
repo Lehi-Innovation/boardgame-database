@@ -1,0 +1,55 @@
+id: the-magic-labyrinth
+name: "The Magic Labyrinth"
+alternate_names: ["Das magische Labyrinth"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Puzzle Solving
+  - Family
+  - Fantasy
+  - Abstract
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dirk Baumann
+publisher:
+  - Drei Magier Spiele
+  - Playroom Entertainment
+artist:
+  - Rolf Vogt
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 6
+
+description: |
+  The Magic Labyrinth is a 2009 children's memory and maze game designed by Dirk Baumann for Drei Magier Spiele. Players move wizard pieces atop a 6x6 board, each connected via magnets to a metal ball rolling beneath—when a wizard hits an invisible wall, the ball drops and the wizard returns to start. The walls change each game using a modular grid of maze pieces below the board, ensuring no two sessions are alike. Players race to collect five magical items by memorizing the hidden wall layout, making it an elegant, tactile memory game that won the Kinderspiel des Jahres award.
+
+upgrades: []

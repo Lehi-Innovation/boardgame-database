@@ -1,0 +1,49 @@
+id: the-mysterious-magical-lake
+name: "The mysterious magical lake"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Wonder
+  - Discovery
+  - Mystery
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The mysterious magical lake is a children's fantasy board game themed around exploring an enchanted lake and its magical surroundings. Designed for young players, the game uses simple dice mechanics to guide players through magical encounters at and around a mysterious lake. Specific publisher, designer, and release year details are limited due to the game's obscurity.
+
+upgrades: []

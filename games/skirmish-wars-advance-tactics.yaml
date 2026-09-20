@@ -1,0 +1,55 @@
+id: skirmish-wars-advance-tactics
+name: "Skirmish Wars: Advance Tactics"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Modular Board
+  - Area Control
+  - Variable Setup
+  - Economic
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Matthew Kloth
+  - Brandon Pennington
+  - Andrew Tullsen
+publisher:
+  - Print & Play Productions
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Skirmish Wars: Advance Tactics is a print-and-play wargame designed by Matthew Kloth, Brandon Pennington, and Andrew Tullsen, published by Print & Play Productions, inspired by Nintendo's Advance Wars video game series. Players start with a headquarters and limited funds, capturing cities to generate income, and spending it to build an army of varied military units across a modular map. The objective is to capture the enemy HQ or destroy all opponent forces — the modular board system creates near-endless scenario variety for a low-cost, highly replayable wargame experience.
+
+upgrades: []

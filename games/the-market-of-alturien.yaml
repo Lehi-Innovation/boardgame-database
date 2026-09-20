@@ -1,0 +1,53 @@
+id: the-market-of-alturien
+name: "The Market of Alturien"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+  - Gateway
+  - Wolfgang Kramer
+
+evokes:
+  - Clever
+  - Rivalry
+  - Lucky
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  The Market of Alturien is a 2007 economy board game designed by Wolfgang Kramer and published by Mayfair Games, a reworking of his 1988 design City. Players own shops in a fantasy marketplace and after rolling dice may move any pawn on the board—not just their own—attempting to land customer pawns (worth copper, silver, or gold) on their shops while directing the thief toward rivals. This clever twist on familiar movement mechanics creates a deceptively strategic game of misdirection and opportunity, with players constantly debating which pawn to move to maximize income while minimizing opponents' gains.
+
+upgrades: []

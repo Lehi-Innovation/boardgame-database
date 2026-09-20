@@ -1,0 +1,50 @@
+id: triplanetary
+name: "Triplanetary"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Hex Map
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Triplanetary is a science fiction spaceship combat and travel game originally published by Game Designers' Workshop in 1973. Set in the Solar System of the early 21st century, the game uses a highly influential vector movement system where players draw and erase spacecraft trajectories on a plastic overlay atop the hex map, accurately simulating Newtonian physics in space. Designed by Marc W. Miller and John Harshman, the game's movement system proved so elegant it was later incorporated into the Traveller RPG and influenced decades of space wargame design. Steve Jackson Games published a modern edition.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: port-royal
+name: "Port Royal"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+  - Pirates
+  - Alexander Pfister
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Alexander Pfister
+publisher:
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 50
+min_age: 8
+
+description: |
+  Port Royal is a push-your-luck card game for 2–5 players set in the raucous Caribbean Sea, where merchant players compete to hire the most valuable crews and rack up points before their luck runs dry. On your turn you flip ship cards one at a time, collecting coins — but two ships of the same color forces you to stop and take nothing. Stop early and use coins to hire crew members with ongoing powers. First player to 12 points ends the game. Port Royal is a brilliant gateway filler from Alexander Pfister that packs genuine tension and player interaction into a tiny box.
+
+upgrades: []

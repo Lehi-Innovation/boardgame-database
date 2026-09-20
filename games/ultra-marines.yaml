@@ -1,0 +1,50 @@
+id: ultra-marines
+name: "Ultra Marines"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - War
+  - Fantasy
+  - Cooperative
+
+evokes:
+  - Tension
+  - Powerful
+  - Dread
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Ultra Marines is one of four "introductory" board games released by Games Workshop in 1991, set in the Warhammer 40,000 universe alongside Space Fleet, Kerrunch, and Mighty Warriors. The game is effectively a scaled-down version of Space Hulk and Tyranid Attack, using plastic Space Marine Scout miniatures from the Ultramarines, Space Wolves, Dark Angels, and Blood Angels chapters. It was designed as an accessible entry point into the Games Workshop hobby for younger players.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: the-castles-of-burgundy-the-card-game
+name: "The Castles of Burgundy: The Card Game"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: castles-of-burgundy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Tableau Building
+  - Euro
+  - Family
+  - Gateway
+  - Stefan Feld
+  - Ravensburger
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Ravensburger
+artist:
+  - Julien Delval
+  - Harald Lieske
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Castles of Burgundy: The Card Game is a streamlined card adaptation of Stefan Feld's acclaimed tile-laying game for 2–4 players. Players draft cards representing settlements, mines, castles, and other domains, playing them into their personal estates to score points from sets and completed regions. The core engine-building and set-completion satisfactions of the original are preserved in a compact card format that plays in under 30 minutes. While it lacks the dice-drafting tension of the board game, the card game offers a fast and accessible entry point to the Burgundy mechanisms and a satisfying filler for fans of the original.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: unlock-timeless-adventures
+name: "Unlock! Timeless Adventures"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: "unlock"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Narrative Heavy
+  - Family
+  - Time Travel
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Unlock! Timeless Adventures is the sixth volume in the Unlock! cooperative escape-room card game series by Space Cowboys. Three standalone one-hour scenarios challenge players across time: foiling Professor Noside's sabotage of the Diosen Circus, racing the legendary thief Arsène Lupin to recover the Great White Diamond in Belle Époque Paris, and repairing Professor Tempus' malfunctioning time machine. As with all Unlock! titles, players use a deck of illustrated cards alongside the free companion app to search scenes, combine objects, and solve puzzles before time expires.
+
+upgrades: []

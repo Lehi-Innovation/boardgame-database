@@ -1,0 +1,55 @@
+id: tokaido
+name: "Tokaido"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Variable Player Powers
+  - Family
+  - Euro
+  - Gateway
+  - Antoine Bauza
+  - Historical
+
+evokes:
+  - Wonder
+  - Complete
+  - Progress
+  - Clever
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Antoine Bauza
+publisher: []
+artist:
+  - Naiade
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Tokaido is a set collection and point-to-point movement game set along the iconic Tokaido road of ancient Japan, where players journey from Kyoto to Edo collecting experiences along the way. The ingenious movement system lets the player who is furthest behind take their turn, meaning slower travel allows more stops but grants fewer choices overall. Beautiful minimalist artwork by Naiade and a peaceful zen atmosphere make it one of the most visually distinctive gateway games, rewarding players who seek the most fulfilling journey rather than the fastest.
+
+upgrades: []

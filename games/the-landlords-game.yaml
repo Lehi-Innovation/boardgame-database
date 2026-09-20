@@ -1,0 +1,62 @@
+id: the-landlords-game
+name: "The Landlord's Game"
+alternate_names: []
+year: 1903
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Negotiation
+  - Roll & Write
+  - Family
+  - Historical
+  - City Building
+
+evokes:
+  - Rivalry
+  - Lucky
+  - Powerful
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Elizabeth Magie
+publisher:
+  - Economic Game Company
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 8
+
+description: |
+  The Landlord's Game is the 1903 board game designed by Elizabeth Magie as a practical demonstration
+  of Georgist economic principles, intended to show how landlords enrich themselves while tenants are
+  impoverished. Players move around a circuit board buying and renting properties, paying taxes, and
+  dealing with a real estate market. Magie designed two rule sets: an anti-monopolist set where wealth
+  creation benefits everyone, and a monopolist set where domination is the goal. The game is the direct
+  predecessor of Monopoly, which was derived from folk variants of Magie's design; it stands as one
+  of the most historically significant board games ever created and a rare early example of a game
+  designed to critique economic systems.
+
+upgrades: []

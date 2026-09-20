@@ -1,0 +1,63 @@
+id: downforce
+name: "Downforce"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Racing
+  - Variable Player Powers
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Rob Daviau
+  - Justin D. Jacobson
+  - Wolfgang Kramer
+publisher:
+  - Restoration Games
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 45
+min_playtime: 20
+max_playtime: 60
+min_age: 10
+
+description: |
+  Downforce is a card-driven racing and betting game for 2-6 players based on Wolfgang
+  Kramer's classic Top Race design. Players first bid in an auction to own one of six
+  racing cars, then play cards from their hand that move multiple cars around the track.
+  A clever betting system allows players to wager on the race's outcome, giving everyone
+  a stake in every car's performance. Variable player powers, beautiful components, and
+  the tension between moving your car and inadvertently helping opponents make Downforce
+  an accessible yet strategically rich racing experience.
+
+upgrades: []

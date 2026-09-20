@@ -1,0 +1,53 @@
+id: sticks-and-stones-1978
+name: "Sticks & Stones"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Abstract
+  - Historical
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Ray
+publisher:
+  - Metagaming Concepts
+artist:
+  - Pat Hidy
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Sticks & Stones is a 1978 Metagaming Concepts microgame designed by David Ray — the first board game featuring a Neolithic setting. Two rival Stone Age tribes clash in a quick, approachable wargame with simple rules accessible even to beginners. While games themselves were fast and enjoyable, reviewers noted that setup could take longer than actual play. Artwork was provided by Pat Hidy. As a Metagaming microgame, the entire game fits in a small envelope with a brief ruleset.
+
+upgrades: []

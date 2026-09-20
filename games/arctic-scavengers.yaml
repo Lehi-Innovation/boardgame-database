@@ -1,0 +1,55 @@
+id: arctic-scavengers
+name: "Arctic Scavengers"
+alternate_names:
+  - "Arctic Scavengers: Base Game+HQ+Recon"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Bag Building
+  - Take That
+  - Post-Apocalyptic
+  - Euro
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Robert K. Gabhart
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  Arctic Scavengers is a deck-building game for 2–5 players set in a post-apocalyptic frozen world where tribes of survivors compete for scarce resources. Unlike most deck builders, the game features high direct player interaction: each round ends with a skirmish in which players bid cards from their hand to claim a central resource pile, creating tense bluffing dynamics. Originally released by Driftwood Games in 2009 and re-published by Rio Grande Games in 2013 with the HQ and Recon expansions included, the game stands out for its confrontational, hand-management-driven take on the genre.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: supergang
+name: "SuperGang"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Negotiation
+  - Economic
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Persuasion
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Gérard Mathieu
+  - Pascal Trigaux
+publisher:
+  - Ludodélire
+artist: []
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 12
+
+description: |
+  SuperGang is a territory control game set in a city divided into five colored
+  districts, each composed of shops and properties. Players control rival gangs
+  competing to become the owner of a full district or the last gang standing.
+  On each turn, gang members move via dice rolls to claim shops, manage
+  resources, and confront rival gangs and police forces. The game combines
+  economic management with direct conflict in a gritty urban setting, designed
+  for 3–4 players with sessions lasting 2–3 hours.
+
+upgrades: []

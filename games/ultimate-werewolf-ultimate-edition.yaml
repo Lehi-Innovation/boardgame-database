@@ -1,0 +1,52 @@
+id: ultimate-werewolf-ultimate-edition
+name: "Ultimate Werewolf: Ultimate Edition"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: ultimate-werewolf
+edition: "Ultimate Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Party
+  - Teams
+  - Bluffing
+
+evokes:
+  - Tension
+  - Persuasion
+  - Mystery
+  - Rivalry
+  - Humor
+
+possible_counts: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [10, 12, 15]
+
+designer:
+  - Ted Alspach
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 13
+
+description: |
+  Ultimate Werewolf: Ultimate Edition is Ted Alspach's expanded take on the classic Werewolf social deduction party game, published by Bezier Games in 2008. Players are secretly assigned roles as either Villagers or Werewolves; each night the Werewolves silently eliminate a villager, and each day the village debates and votes to eliminate a suspect. With dozens of special roles — Seers, Masons, Witch, Drunk, and many more — the Ultimate Edition supports large groups and creates wildly varied experiences from game to game. It is one of the defining titles in modern social deduction gaming.
+
+upgrades: []

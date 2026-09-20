@@ -1,0 +1,55 @@
+id: storytailors
+name: "Storytailors"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Party
+  - Family
+
+evokes:
+  - Creative
+  - Connection
+  - Humor
+  - Wonder
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Marie Fort
+  - Wilfried Fort
+publisher:
+  - Red Cat Games
+artist:
+  - Irina Pechenkina
+  - Eugene Smolenceva
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 5
+
+description: |
+  Storytailors is a 2020 cooperative storytelling game by Marie and Wilfried Fort for 2-6 players in which participants collaboratively build a storybook. Each page of the book reveals a new character description — a brave knight, a lonely musician, a clumsy ninja — and players vote on which animal card best fits, adding the winner to the book. The resulting story is unique to each play session, driven by group consensus and imagination. Winner of the 2020 Children's Game of the Year by the Groupement des Boutiques Ludiques.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: tomb
+name: "Tomb"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Modular Board
+  - Variable Player Powers
+  - Dice Rolling
+  - Ameritrash
+  - Fantasy
+  - Variable Setup
+
+evokes:
+  - Discovery
+  - Powerful
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Tomb is a competitive dungeon crawl game published by Alderac Entertainment Group in which each player builds their own party of adventurers in a tavern before delving into crypts filled with monsters, traps, and treasure. Players secretly populate the tomb with hazards and rewards, then compete to earn the most treasure while hindering rivals through tactical party management and combat. Variable characters, random map layouts, and unpredictable encounters ensure high replayability in this Ameritrash-style dungeon adventure.
+
+upgrades: []

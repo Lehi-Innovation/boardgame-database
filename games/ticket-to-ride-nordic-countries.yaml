@@ -1,0 +1,55 @@
+id: ticket-to-ride-nordic-countries
+name: "Ticket to Ride: Nordic Countries"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Network Building
+  - Family
+  - Euro
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Rivalry
+  - Tension
+  - Complete
+  - Progress
+  - Clever
+
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Ticket to Ride: Nordic Countries is a standalone entry in the series specifically designed for 2–3 players, set across the Scandinavian nations of Denmark, Norway, Sweden, and Finland. Unlike most Ticket to Ride editions, wild cards cannot be used on regular routes — only on tunnels and ferries — which forces more strategic card management and creates a tighter, more competitive experience. The restrictive player count and unique tunnel/ferry mechanics make it one of the most strategically demanding entries in the family.
+
+upgrades: []

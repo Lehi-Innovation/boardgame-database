@@ -1,0 +1,56 @@
+id: war-at-sea
+name: "War at Sea"
+alternate_names:
+  - "The War at Sea"
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Edwards
+  - Don Greenwood
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  War at Sea is a two-player strategic wargame simulating the naval conflict of World War II in the Atlantic and Mediterranean, originally published by Jedko Games in 1975 and revised by Avalon Hill in 1976. One player controls Allied naval forces (Britain and Russia) while the other commands Axis forces (Germany and Italy), with the United States beginning as a neutral power that both sides compete to influence. The Atlantic is divided into six sea areas where fleets maneuver and fight for supremacy. Despite its simplicity compared to later naval wargames, it remains a compelling and accessible introduction to WWII naval strategy.
+
+upgrades: []

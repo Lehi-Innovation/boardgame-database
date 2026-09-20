@@ -1,0 +1,57 @@
+id: carcassonne-hunters-and-gatherers
+name: "Carcassonne: Hunters and Gatherers"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Family
+  - Gateway
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Complete
+  - Discovery
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus-Jürgen Wrede
+publisher:
+  - Z-Man Games
+  - Hans im Glück
+artist:
+  - Doris Matthäus
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Carcassonne: Hunters and Gatherers is a standalone prehistoric reimagining of the classic Carcassonne tile-laying game, transporting the familiar meeple-placement mechanics to the Stone Age. Players build a prehistoric landscape of forests, rivers, and meadows, deploying their tribe members as gatherers in forests, hunters on plains, and fishermen along rivers. The game introduces new wrinkles such as gold nuggets in forests that grant bonus tile draws, and huts placed on rivers that score the entire connected waterway at game end. While mechanically similar to the original, the prehistoric theme and revised scoring make Hunters and Gatherers a fresh and complete standalone experience that many players prefer to the original.
+
+upgrades: []

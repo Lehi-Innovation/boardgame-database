@@ -1,0 +1,49 @@
+id: verquere
+name: "Verquere"
+alternate_names: []
+year: 1700
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Ancient
+
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Verquere is a historical tables game (in the family of backgammon-style race games) whose earliest documented rules appear in early 18th-century French, Swedish, and German publications, with the first English account recorded in 1721. It is played on a standard rectangular tables board with twelve triangular points along each long side. The game became so prevalent in Scandinavia that the word "verquere" became synonymous with the broader category of tables games in Swedish and Icelandic, and it evolved locally into the modern game known as Svenskt Brädspel. As a traditional folk game, it has no modern commercial publisher.
+
+upgrades: []

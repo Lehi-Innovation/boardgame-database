@@ -1,0 +1,56 @@
+id: western-legends
+name: "Western Legends"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Dice Rolling
+  - Variable Player Powers
+  - Hand Management
+  - Take That
+  - Ameritrash
+  - Western
+
+evokes:
+  - Agency
+  - Unique
+  - Rivalry
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Hervé Lemaître
+publisher:
+  - Kolossal Games
+artist:
+  - Roland MacDonald
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Western Legends is an open-world sandbox tabletop adventure for 2–6 players set in the American Wild West, published by Kolossal Games in 2018 and designed by Hervé Lemaître. Players assume the roles of historical figures earning Legendary Points through a wide variety of activities: mining for gold, driving cattle, gambling in saloons, robbing banks, fighting bandits, pursuing story quests, or upholding the law and arresting outlaws. Each turn begins with drawing poker cards and gaining cash, then choosing three actions that leverage the current location on the sprawling map. The game's sandbox freedom and variety of paths to victory make it the definitive western-themed board game experience.
+
+upgrades: []

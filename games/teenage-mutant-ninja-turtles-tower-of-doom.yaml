@@ -1,0 +1,57 @@
+id: teenage-mutant-ninja-turtles-tower-of-doom
+name: "Teenage Mutant Ninja Turtles: Tower of Doom"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Teenage Mutant Ninja Turtles: Tower of Doom is a 1990 dexterity children's
+  game similar in concept to Kerplunk. Players load the tower with 16 swords,
+  drop the six ball-bearing game pieces (the four Turtles, Splinter, and
+  Shredder) into the top, and take turns drawing swords while waiting for
+  pieces to fall. Each player stands in front of the tower with a pizza-shaped
+  scooper, trying to catch falling Turtles as the swords are removed one by one.
+  Collecting specific Turtle pieces earns pizza slices toward winning the game.
+  The game features a uniquely tactile tension as each sword removal risks
+  triggering a cascade of falling pieces.
+
+upgrades: []

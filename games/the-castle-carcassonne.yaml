@@ -1,0 +1,62 @@
+id: the-castle-carcassonne
+name: "The Castle"
+alternate_names:
+  - "Carcassonne: The Castle"
+  - "Die Burg"
+year: 2003
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Euro
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  The Castle (Die Burg / Carcassonne: The Castle) is a two-player tile-placement game designed by Reiner
+  Knizia as a Carcassonne spin-off, published by Hans im Glück in 2003. Players take turns placing tiles
+  to build sections of a medieval castle — towers, streets, and courtyards — and placing knights to claim
+  completed features for points. Unlike base Carcassonne, the board is bounded by castle walls, making
+  every placement feel consequential and interactions more direct. Bonus tokens are awarded for landing on
+  key wall spaces, adding a tactical race element. The focused two-player design and tighter map make it
+  arguably more strategic than the original.
+
+upgrades: []

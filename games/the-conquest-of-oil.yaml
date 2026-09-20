@@ -1,0 +1,53 @@
+id: the-conquest-of-oil
+name: "The Conquest of Oil"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Resource Management
+  - Historical
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Progress
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Conquest of Oil is a 1973 economic board game in which players compete to discover, extract, and
+  sell petroleum resources in a market simulation. Players manage exploration, drilling, and sale of oil
+  across a competitive map, balancing investment risk against the uncertainty of resource discovery.
+  The game reflects the early 1970s energy crisis era and was an early example of resource-extraction
+  economic gameplay. Specific publisher and designer details are not well-documented in available sources.
+
+upgrades: []

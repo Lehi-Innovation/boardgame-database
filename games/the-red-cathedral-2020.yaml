@@ -1,0 +1,56 @@
+id: the-red-cathedral-2020
+name: "The Red Cathedral"
+alternate_names: ["La Catedral Roja"]
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Rondel
+  - Resource Management
+  - Euro
+  - Historical
+  - City Building
+  - Area Control
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Israel Cendrero
+  - Sheila Santos
+publisher:
+  - Devir
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  The Red Cathedral is a 2020 Euro game by Devir designed by Israel Cendrero and Sheila Santos (Llama Dice), in which 1-4 players compete as construction teams racing to complete sections of St. Basil's Cathedral in Moscow under the orders of Ivan the Terrible. The central mechanism is a dice-drafting rondel: players choose a die from a circular track, advance it forward by as many spaces as its face value, and collect the resources at the destination space. Players then assign sections of the cathedral to build, spend resources, or visit the market for additional options. The interplay between dice values, rondel positioning, and section competition creates a tightly elegant engine that belies its accessible rules.
+
+upgrades: []

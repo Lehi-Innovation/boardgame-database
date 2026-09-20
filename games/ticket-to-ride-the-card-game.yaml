@@ -1,0 +1,57 @@
+id: ticket-to-ride-the-card-game
+name: "Ticket to Ride: The Card Game"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Card Drafting
+  - Family
+  - Filler
+  - Gateway
+  - Alan R. Moon
+  - Days of Wonder
+
+evokes:
+  - Complete
+  - Clever
+  - Lucky
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist:
+  - Julien Delval
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Ticket to Ride: The Card Game distills the beloved train-route building experience into a card-only format with no board or train pieces. Players collect sets of train cards to complete destination tickets and build routes to Big Cities, with a memory element replacing the geographical map of the original game. Each card features distinctive steam-era artwork by Julien Delval, and the compact format makes it an accessible filler that retains the risk-taking and set-collection spirit of the original.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: world-at-war-eisenbach-gap
+name: "World at War: Eisenbach Gap"
+alternate_names:
+  - "Eisenbach Gap"
+year: 2007
+
+# Relationships
+game_family: world-at-war
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Simulation
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Lock 'n Load Publishing
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  World at War: Eisenbach Gap is a Cold War platoon-level hex wargame from Lock 'n Load Publishing simulating a hypothetical NATO vs. Warsaw Pact conflict in West Germany. Units represent platoons, each hex covers 150 meters, and activation is handled through a chit-pull system where formations activate in random order. Players manage self-propelled mortars, ATGMs, thin-skinned vehicles, and support weapons, resolving combat with dice in a flurry of fire. As the founding game of the World at War system, learning Eisenbach Gap unlocks access to any follow-on modules in the series.
+
+upgrades: []

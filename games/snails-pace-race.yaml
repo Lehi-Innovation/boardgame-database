@@ -1,0 +1,57 @@
+id: snails-pace-race
+name: "Snail's Pace Race"
+alternate_names: ["Tempo, kleine Schnecke!"]
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Ravensburger
+artist:
+  - Dick Bruna
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Snail's Pace Race, designed by Alex Randolph and published by Ravensburger in 1985, is a non-competitive
+  children's racing game where six colorful wooden snails inch their way across the board. Players bet which
+  two snails will finish first and last, then take turns rolling two colored dice to advance the matching snails.
+  Because everyone cheers for all the snails rather than competing against each other, the game is perfectly
+  suited for young children learning turn-taking, color recognition, and counting.
+
+upgrades: []

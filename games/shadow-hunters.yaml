@@ -1,0 +1,56 @@
+id: shadow-hunters
+name: "Shadow Hunters"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Hidden Movement
+  - Fantasy
+  - Horror
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Unique
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 7, 8]
+
+designer:
+  - Yasutaka Ikeda
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  Shadow Hunters is a hidden role game designed by Yasutaka Ikeda in which players are secretly assigned to one of three factions: Shadows (supernatural monsters), Hunters (humans who must eliminate them), or Neutrals (with individual objectives). Players explore a board of six locations using card and movement effects to deduce each other's identities while trying to eliminate enemies and fulfill their secret win conditions. The game's balance of aggressive deduction and paranoid social play made it a popular choice in the hidden role genre before falling out of print.
+
+upgrades: []

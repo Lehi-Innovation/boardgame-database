@@ -1,0 +1,55 @@
+id: founding-fathers
+name: "Founding Fathers"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Negotiation
+  - Historical
+  - Political
+  - Euro
+
+evokes:
+  - Persuasion
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Jason Matthews
+  - Christian Leonhard
+publisher:
+  - Jolly Roger Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 13
+
+description: |
+  Founding Fathers is a 3-5 player card-driven game by Jason Matthews and Christian Leonhard — the designers of 1960: The Making of the President — set during the Constitutional Convention of 1787. Players represent state delegations, using a hand of three delegate cards whose special abilities reflect the historical personalities attending the convention. Each round an article of the Constitution is debated (Federalist, Anti-Federalist, Big State, or Small State), and players vote to steer history while accumulating influence tokens across four issue types. With only 8 cards per player across the whole game, every card play is weighty, making Founding Fathers a tense game of political dealmaking and hand management.
+
+upgrades: []

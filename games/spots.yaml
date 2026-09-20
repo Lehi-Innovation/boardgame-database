@@ -1,0 +1,62 @@
+id: spots
+name: "Spots"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Racing
+  - Animals
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Complete
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alex Hague
+  - Jon Perry
+  - Justin Vickers
+publisher:
+  - CMYK
+artist:
+  - John Bond
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Spots is a push-your-luck dice game designed by Alex Hague, Jon Perry, and Justin Vickers, published by CMYK
+  in 2022. Players roll dice and place them onto dog cards whose spots match the die pips — complete a dog by
+  filling all its spots to claim it. Dice that cannot be placed are buried in your yard, and burying too many
+  causes a bust that loses your progress; be the first to complete six dogs to win. The charming dog illustrations
+  by John Bond and the elegant push-your-luck tension have made Spots a beloved modern filler.
+
+upgrades: []

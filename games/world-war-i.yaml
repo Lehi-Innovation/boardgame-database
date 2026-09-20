@@ -1,0 +1,55 @@
+id: world-war-i
+name: "World War I: 1914–1918"
+alternate_names:
+  - "World War 1: 1914-1918"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Simulation
+  - Historical
+  - War
+  - Wargame
+  - Resource Management
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  World War I: 1914–1918 is a two-player strategic-level wargame published by SPI in 1975, simulating the First World War with one player controlling the Triple Entente and the other the Central Powers. Originally released as a pull-out game in Strategy & Tactics issue 51, the compact design — just 100 counters and 8 pages of rules — belies its strategic depth, with critics praising its ingenious rules, short playing time, and emphasis on resource management. The game captures the essential tension of the Great War's grinding attrition and coalition management in an unusually accessible format.
+
+upgrades: []

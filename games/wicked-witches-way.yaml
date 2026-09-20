@@ -1,0 +1,55 @@
+id: wicked-witches-way
+name: "Wicked Witches Way"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Card Drafting
+  - Racing
+  - Fantasy
+  - Family
+  - Bruno Cathala
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Bruno Cathala
+  - Serge Laget
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Wicked Witches Way is a dice-and-card racing game for 2-6 players in which witches race to the finish line on broomsticks while performing aerial maneuvers to impress the crowd and score points. Players simultaneously select cards representing flight maneuvers, then roll dice to determine their progress, with daring stunts earning extra points at the risk of a tumble. Designed by Bruno Cathala and Serge Laget, it is a family-friendly game that balances luck and light strategy with a whimsical fantasy theme.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: squatter
+name: "Squatter"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Resource Management
+  - Events
+  - Agriculture
+  - Family
+  - Historical
+
+evokes:
+  - Progress
+  - Lucky
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Robert Crofton Lloyd
+publisher:
+  - John Sands Ltd
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Squatter is an Australian board game designed by Robert Crofton Lloyd and first published in 1962 by John Sands
+  Ltd, launched at the Royal Melbourne Show on the Australian Wool Bureau stand. Players manage sheep stations,
+  improving pastures through irrigation and investment, stocking their land, and navigating the unpredictable
+  challenges of Australian pastoral life — droughts, floods, bushfires, disease, and fluctuating wool prices.
+  Combining luck and strategy, Squatter became the most successful board game ever developed in Australia, selling
+  over 500,000 copies by 2007.
+
+upgrades: []

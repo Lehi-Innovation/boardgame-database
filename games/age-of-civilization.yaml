@@ -1,0 +1,55 @@
+id: age-of-civilization
+name: "Age of Civilization"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Tech Tree
+  - Variable Player Powers
+  - Variable Setup
+  - Civilization
+  - Family
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Wonder
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Jeffrey CCH
+publisher:
+  - ICE Makes
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Age of Civilization is a compact pocket-sized civilization card game for 1–4 players in which each player leads up to three historical civilizations simultaneously, combining their unique abilities to build Wonders, research technology, develop culture, and conquer for glory. Each game plays in roughly 30 minutes by blending action points with a lightweight tech tree, letting players mix and match civilizations for wildly different strategies. Despite its small footprint, the game achieves surprising depth through the combinatorial synergies between civilizations.
+
+upgrades: []

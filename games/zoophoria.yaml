@@ -1,0 +1,59 @@
+id: zoophoria
+name: "Zoophoria"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Set Collection
+  - Resource Management
+  - Animals
+  - Family
+  - Gateway
+
+evokes:
+  - Progress
+  - Complete
+  - Clever
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Jim Billingham
+publisher:
+  - JLS Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Zoophoria is a family strategy game in which players build and manage their own zoo habitat over
+  seven rounds representing one week. Each day a fresh selection of animals, employees, buildings,
+  food supplies, and secret targets becomes available, and players draft three items from the
+  nineteen on offer. Managing the habitat's food production, virus risks, and waste while keeping
+  animals healthy and attracting visitors requires careful planning. The player who draws the most
+  visitors by the end of the week wins the title of Director of Zoophoria.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: zingo
+name: "Zingo!"
+alternate_names:
+  - "Zingo"
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Set Collection
+  - Family
+  - No Math
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Theora Design
+publisher:
+  - ThinkFun
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Zingo! is a pre-reader bingo game in which players use a special Zingo Zinger device that slides
+  to reveal tiles one at a time. Players race to match the revealed tiles to pictures and words on
+  their challenge cards. The first to complete their card shouts "Zingo!" to win. Multiple levels of
+  play accommodate early readers and non-readers alike, and the distinctive Zinger mechanism
+  provides the physical excitement of the reveal. It has won numerous toy awards including the
+  Oppenheim Gold and Parents' Choice Award.
+
+upgrades: []

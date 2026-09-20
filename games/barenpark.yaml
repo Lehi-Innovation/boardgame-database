@@ -1,0 +1,57 @@
+id: barenpark
+name: "Bärenpark"
+alternate_names:
+  - "Barenpark"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Gateway
+  - Animals
+  - Phil Walker-Harding
+
+evokes:
+  - Complete
+  - Clever
+  - Progress
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bärenpark is a tile-placement game for 2–4 players designed by Phil Walker-Harding in which players compete to build the most impressive bear park by filling their individual park boards with polyomino-shaped enclosures and animal buildings. Each player starts with a 4×4 land tile and expands by collecting and placing a sequence of differently shaped tiles that must completely cover specific terrain icons, triggering new land tiles and special building pieces when they do. The satisfying puzzle of fitting tiles snugly into your grid, combined with the race to claim the most valuable bear enclosures, makes Bärenpark an accessible yet strategically rich family game.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: triolet
+name: "Triolet"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Family
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - André Perriolat
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Triolet is a numbers tile-placement game published by Gigamic in which players place numbered tiles crossword-style on a board, scoring points when any three intersecting tiles sum to 15. Players place 1, 2, or 3 tiles per turn, earning bonus points when all three are placed simultaneously to form the winning combination. Designed by André Perriolat, the game blends simple arithmetic with spatial puzzle-solving into a quick, accessible family game.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: star-wars-epic-duels
+name: "Star Wars Epic Duels"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 4]
+
+designer:
+  - Craig Van Ness
+  - Rob Daviau
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Star Wars Epic Duels is a 2002 Milton Bradley card-and-miniatures combat game in which players choose iconic Star Wars characters — each with a unique 31-card deck — and battle to eliminate all opposing major characters. Each character team consists of a major hero or villain paired with one or two minor characters, and card play governs both attack values and special abilities like Force Lightning or Han's trick shots. The game includes 31 painted figures and four grid-based battle maps. Out of print by 2004, it developed a large cult following.
+
+upgrades: []

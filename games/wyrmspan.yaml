@@ -1,0 +1,61 @@
+id: wyrmspan
+name: "Wyrmspan"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: wingspan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Card Drafting
+  - Hand Management
+  - Tableau Building
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Stonemaier Games
+
+evokes:
+  - Progress
+  - Discovery
+  - Wonder
+  - Clever
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Connie Vogelmann
+publisher:
+  - Stonemaier Games
+artist:
+  - Clémentine Campardou
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Wyrmspan is a card-driven engine-building game inspired by Wingspan, replacing birds with 183
+  uniquely illustrated dragons. Players excavate labyrinths and entice dragons into their cave
+  sanctuaries, using an adventurer to explore for resources and victory points. The game introduces
+  hatchlings that activate in three stages for large payoffs, and a Guild Track for resource management.
+  Wyrmspan achieved the largest single-day sales in Stonemaier Games history upon release in 2024.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: tichu
+name: "Tichu"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Teams
+  - Hand Management
+  - Press Your Luck
+  - Family
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Masterful
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Tichu is a beloved partnership card game designed by Urs Hostettler and published in the West by Fata Morgana Spiele and Rio Grande Games. Originally inspired by Chinese shedding card games like Zheng Fen and incorporating elements of Bridge and Poker, Tichu is played by two teams of two. Players bid "Tichu" or "Grand Tichu" to announce they will go out first, with high-risk high-reward scoring at stake. The multi-function special cards (Dragon, Phoenix, Dog, and Mahjong), flexible hand combinations, and deep partnership communication strategies make Tichu one of the most strategically rich and enduringly popular card games in the hobby.
+
+upgrades: []

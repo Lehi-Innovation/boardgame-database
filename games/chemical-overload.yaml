@@ -1,0 +1,55 @@
+id: chemical-overload
+name: "Chemical Overload"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Tableau Building
+  - Engine Building
+  - Resource Management
+  - Fantasy
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Michael Crandall
+  - Katie Crandall
+publisher:
+  - Rebirth Games
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+description: |
+  Chemical Overload is a deck-building and tableau-building game for 1–4 players set in an alchemical laboratory where players compete to brew the most potent and valuable potions before toxic fumes fill the lab. Unlike traditional deck builders, newly gained cards go directly on top of the draw pile, and flasks and table potions can be placed immediately into the player's tableau, creating a faster feedback loop of cause and effect. The layered chemistry of combining chemicals, applying upgrades, and managing the growing tableau gives the game the feel of a true engine-builder wrapped in a deck-builder shell.
+
+upgrades: []

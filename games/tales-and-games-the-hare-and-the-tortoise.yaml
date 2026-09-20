@@ -1,0 +1,60 @@
+id: tales-and-games-the-hare-and-the-tortoise
+name: "Tales & Games: The Hare & the Tortoise"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: tales-and-games
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Gun-Hee Kim
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Tales & Games: The Hare & the Tortoise is a card-based betting and bluffing
+  game loosely based on Aesop's famous fable, published by IELLO. Each player
+  secretly bets on two of four racing animals (turtle, rabbit, sheep, and duck)
+  at the start, then plays hand cards to advance their chosen animals. A hidden
+  card acts as an additional secret bet, adding a layer of deduction. Players
+  take turns placing one to four cards showing the same animal, pushing their
+  bets toward victory while trying to divine opponents' hidden allegiances.
+  The game offers a light, charming betting experience for the whole family.
+
+upgrades: []

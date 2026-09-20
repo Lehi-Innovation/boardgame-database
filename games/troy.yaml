@@ -1,0 +1,52 @@
+id: troy
+name: "Troy"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Ancient
+  - Mythology
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Donald Dupont
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Troy is a two-player board wargame published by Chaosium in 1977 that simulates the legendary siege of Troy. One player defends the city while the other commands the attacking Greek forces, recreating various episodes from the Trojan War saga. Designed and illustrated by Donald Dupont, the game blends historical and mythological themes with tactical wargame mechanics in the tradition of 1970s Chaosium releases.
+
+upgrades: []

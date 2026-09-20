@@ -1,0 +1,55 @@
+id: the-shipwreck-arcana
+name: "The Shipwreck Arcana"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Hand Management
+  - Pattern Building
+  - Puzzle Solving
+  - Fantasy
+  - Filler
+
+evokes:
+  - Mystery
+  - Clever
+  - Connection
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Kevin Bishop
+publisher:
+  - Meromorph Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 13
+
+description: |
+  The Shipwreck Arcana is a compact cooperative deduction game for 2–5 players with a gorgeous tarot-card aesthetic. Players hold secret number tiles and must play them to an ever-changing tableau of Arcana cards according to strict rules, communicating information to teammates about their hidden numbers without speaking. The group must collectively guess each player's numbers to prevent Doom from reaching zero. The deduction puzzle is elegant: cards limit which numbers can be placed on them, and clever players will communicate maximum information with each placement. It packs remarkable strategic depth and cooperative tension into a small box and a 20-minute play time.
+
+upgrades: []

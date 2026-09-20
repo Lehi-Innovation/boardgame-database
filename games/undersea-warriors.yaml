@@ -1,0 +1,50 @@
+id: undersea-warriors
+name: "Undersea Warriors"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Maritime
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Undersea Warriors is a submarine warfare wargame published in 1975, believed to have been published by Taurus Games. Players command submarine forces in tactical naval combat, maneuvering and attacking in an undersea environment. Detailed documentation on the designer and exact mechanics is limited in available English sources; minimal entry.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: gold-west
+name: "Gold West"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Area Control
+  - Network Building
+  - Route Building
+  - Resource Management
+  - Modular Board
+  - Western
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - J. Alex Kevern
+publisher:
+  - Tasty Minstrel Games
+artist:
+  - Raúl Ramos
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Gold West is a resource-management and area-control game set in the American frontier,
+  featuring a unique mancala-based action selection system. Players move resources along
+  supply tracks using the mancala mechanism to collect different mining commodities, then
+  spend those resources to build mining camps and outposts across the frontier map. Claiming
+  territories connects networks for points while competing with opponents for rich veins and
+  trade posts. The mancala mechanic creates a satisfying puzzle that distinguishes Gold West
+  from other area-control games.
+
+upgrades: []

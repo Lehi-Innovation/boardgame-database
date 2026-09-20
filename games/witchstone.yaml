@@ -1,0 +1,56 @@
+id: witchstone
+name: "Witchstone"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Network Building
+  - Card Drafting
+  - Engine Building
+  - Euro
+  - Fantasy
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+  - Martino Chiacchiera
+publisher:
+  - R&R Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Witchstone is a fantasy efficiency game for 2–4 players designed by Reiner Knizia and Martino Chiacchiera, winner of the 2022 Kennerspiel des Jahres. Players are wizards and witches seeking to restore the legendary Witchstone's energy field by placing pentagram tiles on a shared board to build magical networks, drafting spell cards to extend their abilities, and competing to complete scoring objectives. The key tension lies in the interconnected action system: expanding your network unlocks more powerful spell options, creating a deeply satisfying engine that grows in strength as the game progresses. Every decision has consequences across multiple scoring tracks, rewarding holistic strategic thinking.
+
+upgrades: []

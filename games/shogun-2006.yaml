@@ -1,0 +1,56 @@
+id: shogun-2006
+name: "Shogun"
+alternate_names: ["Samurai Swords", "Ikusa"]
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Programmed Movement
+  - Action Points
+  - Wargame
+  - Historical
+  - Medieval
+  - Modular Board
+  - Variable Player Powers
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Dirk Henn
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Shogun (2006) is a strategic area-control game designed by Dirk Henn set in Sengoku-era Japan, where 2–5 players take the roles of powerful Daimyo competing to dominate provinces through agriculture, castle construction, and military conquest. Players secretly program their ten available actions simultaneously each round, then resolve them in a fixed order that creates surprising conflicts and tactical dilemmas. Combat is resolved using a unique tower mechanism that randomizes outcomes, and the player who controls the most provinces and builds the most impressive domain wins over a two-season campaign.
+
+upgrades: []

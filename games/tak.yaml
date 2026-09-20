@@ -1,0 +1,60 @@
+id: tak
+name: "Tak"
+alternate_names: ["Tak: A Beautiful Game"]
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James Ernest
+  - Patrick Rothfuss
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Tak is a two-player abstract strategy game that originated as a fictional
+  game in Patrick Rothfuss's The Kingkiller Chronicle novels before being
+  brought to life by designer James Ernest. Players compete to be the first
+  to build a "road" — a connected line of their flat pieces spanning opposite
+  sides of the square board — using flats, standing stones, and capstones with
+  different placement and stacking rules. The game was famously funded on
+  Kickstarter in 2016, attracting over 12,000 backers and more than $1.35
+  million, and has since developed a dedicated competitive community through
+  the US Tak Association.
+
+upgrades: []

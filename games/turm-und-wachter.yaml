@@ -1,0 +1,50 @@
+id: turm-und-wachter
+name: "Turm & Wächter"
+alternate_names:
+  - "Turm und Wächter"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Christoph Endres
+  - Robert Wirth
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Turm & Wächter (Tower & Guard) is a German abstract positional strategy game created in 1997 by Christoph Endres and Robert Wirth. Praised for its elegant rules and deep tactical play, it has been described as easy to learn but difficult to master, rewarding experienced players who develop positional understanding. The game has been praised by abstract strategy enthusiasts in Germany, though it has not been commercially published by a major publisher.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: sos-dino
+name: "SOS Dino"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Modular Board
+  - Family
+  - Animals
+
+evokes:
+  - Connection
+  - Tension
+  - Dread
+  - Progress
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ludovic Maublanc
+  - Théo Rivière
+publisher:
+  - LOKI
+  - IELLO
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  SOS Dino is a cooperative tile-placement game designed by Ludovic Maublanc and Théo Rivière, published by LOKI
+  (IELLO's children's imprint) in 2018. Players work together to rescue four adorable dinosaur figurines and six
+  eggs from a volcanic eruption, drawing random lava tiles from a bag and racing to guide the dinos to safety in
+  the mountains. Nominated for the 2018 Kinderspiel des Jahres, SOS Dino combines gentle tension with accessible
+  rules, making it an ideal first cooperative game for young children.
+
+upgrades: []

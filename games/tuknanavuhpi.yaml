@@ -1,0 +1,49 @@
+id: tuknanavuhpi
+name: "Tuknanavuhpi"
+alternate_names:
+  - "Tukvnanawopi"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Tuknanavuhpi is a two-player abstract strategy board game played by the Hopi people of Arizona. Traditionally played on etched stone slabs, it resembles draughts and Alquerque in structure. Each player commands 20 pieces placed on a grid with a single vacant center point; pieces are moved and captured by hopping. A distinctive mechanic is "board shrinkage" — as the game progresses and rows are emptied, the playable area contracts, increasing pressure on remaining pieces. The game was documented as early as 1907 in Stewart Culin's landmark ethnographic work on Native American games.
+
+upgrades: []

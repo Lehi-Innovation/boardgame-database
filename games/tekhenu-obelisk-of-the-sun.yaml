@@ -1,0 +1,56 @@
+id: tekhenu-obelisk-of-the-sun
+name: "Tekhenu: Obelisk of the Sun"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Action Points
+  - Drafting
+  - Worker Placement
+  - Pattern Building
+  - Euro
+  - Ancient
+  - Daniele Tascini
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Daniele Tascini
+publisher:
+  - Board&Dice
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Tekhenu: Obelisk of the Sun is a complex Euro game for 1–4 players set in ancient Egypt, centered on an impressive central obelisk that casts its shadow across six divine domains. Each domain corresponds to a different Egyptian god — Horus, Ra, Hathor, Bastet, Thoth, and Osiris — and is divided into sunny, shaded, and dark sections by the shadow. Players draft dice from these sections to perform actions, but dice from the shadow are considered "forbidden" and must be balanced against "pure" dice on a personal scale to avoid penalties. This purity mechanic, combined with the rotating shadow and engine-building across six areas, creates exceptional strategic depth and thematic elegance.
+
+upgrades: []

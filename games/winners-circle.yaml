@@ -1,0 +1,57 @@
+id: winners-circle
+name: "Winner's Circle"
+alternate_names:
+  - "Royal Turf"
+  - "Turf Horse Racing"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Dice Rolling
+  - Bluffing
+  - Racing
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Winner's Circle (also known as Royal Turf) is a 2001 horse racing game by Reiner Knizia in which 2–6 players bet on a field of seven horses and then take turns moving them forward by rolling dice and choosing which horse to advance. Each player secretly backs multiple horses, and the tension comes from deciding when to move a horse you need to win versus helping opponents by moving one they also hold. The Spiel des Jahres Recommended game rewards reading the table and timing bets cleverly, with enough luck and chaos to make each race feel unpredictable. It has been published under several names and editions, most recently by DiceTree Games.
+
+upgrades: []

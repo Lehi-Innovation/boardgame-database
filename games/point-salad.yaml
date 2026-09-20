@@ -1,0 +1,58 @@
+id: point-salad
+name: "Point Salad"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Filler
+  - Food Theme
+
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Molly Johnson
+  - Robert Melvin
+  - Shawn Stankewich
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Dylan Mangini
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Point Salad is a fast and fresh card drafting game for 2-6 players where every card is a vegetable on one side and a scoring condition on the other. On each turn players draft either one scoring card or two vegetable cards from a market, building a hand that scores based on whichever combination of conditions and produce they can assemble. With over 100 possible scoring conditions and six vegetable types, every game offers a wildly different puzzle as players compete to grow the tastiest salad. Its simplicity and quick play time — around 15-30 minutes — make it an ideal warm-up or filler, and it won multiple awards in 2019 including Origins Best Card Game.
+
+upgrades: []

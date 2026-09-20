@@ -1,0 +1,55 @@
+id: warhammer-40000-conquest
+name: "Warhammer 40,000: Conquest"
+alternate_names:
+  - "Warhammer 40k Conquest"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Area Control
+  - Asymmetric
+  - Sci-Fi
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Eric Lang
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Warhammer 40,000: Conquest is a Living Card Game published by Fantasy Flight Games in 2014, designed by Eric Lang and Nate French, set in Games Workshop's grim far-future universe. Two players battle for control of planets in the Traxis sector using one of seven distinct factions—Space Marines, Astra Militarum, Orks, Chaos, Dark Eldar, Eldar, or Tau—each with their own unique card pool. Players deploy warlords, units, and attachments to simultaneously contest multiple worlds each round. The game was discontinued in February 2017 following Games Workshop's decision not to renew Fantasy Flight's licensing agreement.
+
+upgrades: []

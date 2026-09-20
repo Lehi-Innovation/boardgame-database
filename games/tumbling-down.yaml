@@ -1,0 +1,49 @@
+id: tumbling-down
+name: "Tumbling Down"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michael Shuck
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Tumbling Down is a two-player abstract strategy game designed by Michael Shuck in 2000, played on a chess board with stacks of red and white checkers. When a stack is "tumbled," its pieces cascade onto successive squares, changing ownership as friendly pieces cover opponents' pieces. Each player has a "King" — the tallest single-color stack — and the objective is to capture the opponent's King without inadvertently creating a taller one. The game is a relative of Mancala in its sowing mechanics, with a distant kinship to Chess in its strategic depth.
+
+upgrades: []
