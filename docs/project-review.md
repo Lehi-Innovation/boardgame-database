@@ -52,7 +52,9 @@ Preserve filename-based legacy identity during import, review the mapping, and u
 
 ### 3. Duplicate and unresolved identities affect relationships
 
-There are 153 unresolved references. Some are unresearched expansions; others are naming mismatches. Several Catan records point to `catan`, but the existing entry is [settlers-of-catan.yaml](../games/settlers-of-catan.yaml). [andor.yaml](../games/andor.yaml) and [legends-of-andor.yaml](../games/legends-of-andor.yaml) have the same name and year under separate IDs.
+There are 153 unresolved references. Some are unresearched expansions; others are naming mismatches. Several Catan records point to `catan`, but the existing entry is [settlers-of-catan.yaml](https://github.com/Lehi-Innovation/boardgame-database/blob/b8b2d7f/games/settlers-of-catan.yaml). [andor.yaml](https://github.com/Lehi-Innovation/boardgame-database/blob/b8b2d7f/games/andor.yaml) and [legends-of-andor.yaml](https://github.com/Lehi-Innovation/boardgame-database/blob/b8b2d7f/games/legends-of-andor.yaml) have the same name and year under separate IDs.
+
+Follow-up, September 20: integrating current remote `main` brought in the earlier [Catan and Legends of Andor reconciliation](https://github.com/Lehi-Innovation/boardgame-database/commit/2f0f2ec). The links above now pin the reviewed baseline because two of those files were removed by that fix. The broader unresolved-reference count has not been remeasured on the integrated legacy dataset.
 
 The main SQLite game table also omits the external identifiers stored in the discovery CSV. Import needs a durable identity map, explicit duplicate decisions, external-ID retention, and release-wide relationship validation.
 

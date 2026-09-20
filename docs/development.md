@@ -80,7 +80,7 @@ CATALOG_TEST_ADMIN_URL=postgresql://supabase_admin:postgres@127.0.0.1:55322/post
 
 This credential is for disposable local database tests only. Application connections must use the restricted roles described below. See [PostgreSQL role membership](https://www.postgresql.org/docs/17/role-membership.html).
 
-CI provisions PostgreSQL 17 and uses this disposable database path. A separate job starts this project's Supabase stack, runs the Auth/Data API smoke check, and runs disposable-database tests with advisors. On this workstation, both native PostgreSQL 14.24 and local Supabase PostgreSQL 17.6 have passed verification. Record the actual version in validation reports; plain PostgreSQL tests do not replace Supabase Auth/Data API checks. GitHub execution remains unverified until the uncommitted workflow is pushed.
+CI provisions PostgreSQL 17 and uses this disposable database path. A separate job starts this project's Supabase stack, runs the Auth/Data API smoke check, Chromium browser/HTTP tests, and disposable-database tests with advisors. Both jobs passed in [GitHub Actions run 35498636151](https://github.com/Lehi-Innovation/boardgame-database/actions/runs/35498636151) on September 20, 2026: plain PostgreSQL 17.11 and Supabase PostgreSQL 17.6. On this workstation, native PostgreSQL 14.24 and local Supabase PostgreSQL 17.6 also passed. Record the actual version in validation reports; plain PostgreSQL tests do not replace Supabase Auth/Data API checks.
 
 To run the installed Supabase database advisors against the same temporary test database:
 

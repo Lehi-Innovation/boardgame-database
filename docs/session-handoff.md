@@ -1,16 +1,16 @@
-# Session handoff and continuation prompt — September 19, 2026
+# Session handoff and continuation prompt — September 20, 2026
 
 ## Instructions for the next session
 
-When the user supplies this file or its path as the prompt, **resume from the next unfinished task below**. The owner selected continuation toward M2 and approved the game/edition policy. M2's local implementation and verification are now complete; do not restart Auth or contribution implementation. Begin useful work without asking the owner to choose between implementation, review, or loading context again. Follow any newer user instructions that change this direction.
+When the user supplies this file or its path as the prompt, **resume from the next unfinished task below**. The owner selected continuation toward M2 and approved the game/edition policy. M2's implementation, local verification, and remote GitHub Actions verification are complete; do not restart Auth or contribution implementation. The next unfinished task is obtaining the first consuming application and its priority lookup/filter needs before planning M3's real pilot. Follow any newer user instructions that change this direction.
 
-The authorized objective is **M2: contributions and review**, as specified in [architecture.md](architecture.md). Application sign-in, current server-session/membership checks, proposal/review commands, forms, and direct HTTP/browser tests are implemented. The remaining M2 item is remote GitHub Actions verification after the accumulated local work is committed and pushed. Inspect and prepare the existing change set for that step; preserve unrelated artifacts and secrets. No commit or push was made in this session. Before proceeding into M3 real pilot selection, obtain the first consuming application and its priority lookup/filter needs; do not select or import real records speculatively.
+The authorized objective, **M2: contributions and review** in [architecture.md](architecture.md), is complete. Application sign-in, current server-session/membership checks, proposal/review commands, forms, and direct HTTP/browser tests are implemented. The accumulated work is committed and pushed on `codex/catalog-m2`; current remote `main` was integrated while preserving its newer legacy work. Both GitHub Actions jobs passed, as recorded below. The owner has been asked for the first consumer and priority queries; no answer is recorded yet. Do not select or import real pilot records speculatively.
 
 Start by doing the following:
 
-1. Read the active repository instructions, inspect `git status`, and preserve the uncommitted work described below. Check the implementation before assuming the handoff is still current.
+1. Read the active repository instructions, inspect `git status` and the current branch, and preserve the local artifacts described below. Check the implementation before assuming the handoff is still current.
 2. Read the [development guide](development.md), [editorial API guide](editorial-api.md), [approved identity rules](decisions/001-catalog-identity.md), and the architecture's contribution workflow, approval transaction, permissions, and M2 acceptance criteria. Use the Supabase skill for Supabase work when available, and verify relevant current documentation before implementation.
-3. Check that Docker and this project's local Supabase services are available. They passed verification on September 19, 2026, but running processes can change between sessions. Start this project's stack if needed, using the configured `5532x` ports. Preserve the other project's stack on `5432x`.
+3. Check that Docker and this project's local Supabase services are available. They passed verification on September 20, 2026, but running processes can change between sessions. Start this project's stack if needed, using the configured `5532x` ports. Preserve the other project's stack on `5432x`.
 4. Follow the updated queue below. Reuse the existing contracts, domain validators, and SQL migration workflow. Use synthetic data for development and permission tests. The checked-in test scripts remove their synthetic data; never reset the working database as a test shortcut.
 5. Run the checks appropriate to the changes, update this handoff with the actual results and next unfinished task, and report what was implemented and what remains.
 
@@ -20,14 +20,16 @@ Carry these decisions and boundaries forward:
 - The original Docker/WSL blocker is resolved. Investigate any new runtime failure using current evidence; do not repeat the old setup request by default.
 - Existing YAML remains authoritative. Keep M2 focused on contributions and review; bulk import, publication, production cutover, and deployment belong to later milestones.
 - Browser roles have no internal table access. Verify authenticated identity, current session, current maintainer membership, and per-command ownership on the server. Generic updates must not approve or publish.
-- Preserve unrelated local artifacts and existing uncommitted changes. No commit or push has been made. Remote CI remains unverified; this does not prevent local M2 implementation.
-- Ask only for missing information that materially affects the current work. The first consuming app, distribution terms, hosting, and other later decisions below need not block application Auth and review implementation.
+- Preserve unrelated local artifacts and existing uncommitted changes. Work is on `codex/catalog-m2`; do not merge it into `main` or deploy without owner direction. Use the current verification section below rather than the earlier sessions' historical commit/CI status.
+- Ask only for missing information that materially affects the current work. The first consuming app and its priority queries now determine M3 pilot planning. Distribution terms, hosting, and the other open decisions need not block gathering those requirements.
 
 The latest owner-requested change is the simplified contribution intake described below. Preserve it: contributors submit a name or note immediately; structured evidence work belongs to maintainer preparation. The sections below provide the factual project state, prior verification, constraints, and remaining work for this prompt.
 
 ## Where the project stands
 
 M1's contract/storage foundation and M2's local contribution/review workflow are implemented alongside the legacy project. The existing YAML records remain authoritative for detailed game data; `games.db` remains a derived read cache. No real records were imported, approved, or published. Synthetic approvals used for verification were removed afterward. Migration cutover and publication remain unimplemented.
+
+The dated sections below preserve earlier session results. Their statements about uncommitted work and unverified remote CI describe those sessions; September 20's integration and verification section records the current state. The September 18 project review remains a baseline at `b8b2d7f`, not an audit of the newer legacy records incorporated from remote `main`.
 
 Start with the [development guide](development.md), the [M1 identity rules](decisions/001-catalog-identity.md), and the [architecture specification](architecture.md). The [existing-project review](project-review.md) preserves the pre-migration baseline. The [legacy documentation index](legacy/README.md) contains the previous guides and backlog, which describe the original implementation and may be stale.
 
@@ -185,6 +187,39 @@ The dev server is restarted at <http://127.0.0.1:3100/contribute> for the owner 
 continue demoing. Supabase remains running. No commit, push, or deployment was
 made. Remote CI remains the next unfinished verification step as described above.
 
+## M2 commit and CI verification — September 20, 2026
+
+- Reviewed and committed the accumulated catalog implementation, tests, workflow,
+  lockfile, and documentation moves as `134f1b2` on `codex/catalog-m2`.
+- The old `jonnyallred/boardgame-database` remote redirects to
+  `Lehi-Innovation/boardgame-database`. Fetched its newer `main` (`c557ab1`) and
+  integrated it in `0b2eb8f`. Preserved all upstream legacy records, image tooling,
+  web changes, and marketplace drafts. All eight relocated legacy documents match
+  current remote contents exactly. The sole merge conflict was `.gitignore`;
+  both projects' rules were retained.
+- Excluded local environment/demo credentials, `pipeline_cache.db`, and generated
+  files. Added an ignore rule for Next.js-managed `next-env.d.ts`, as instructed
+  by the installed Next.js documentation. Both credential files retain mode 600.
+  The Python bytecode ignore rule arrived from remote `main`.
+- Re-ran `npm run check`: **21 contract/domain tests** and **28 database/workflow
+  tests** passed on disposable native PostgreSQL **14.24**, with type checking
+  and OpenAPI drift verification. The same 28 database tests passed on disposable
+  Supabase PostgreSQL **17.6**; advisors reported no issues.
+- Real Supabase Auth/Data API checks, the Chrome browser/HTTP workflow, and the
+  production build passed. Cleanup verification found zero temporary test accounts,
+  temporary application roles, or disposable databases. The two manual demo
+  accounts and three owner-created raw contributions remain.
+- **Remote CI passed:** [GitHub Actions run 35498636151](https://github.com/Lehi-Innovation/boardgame-database/actions/runs/35498636151)
+  at `0b2eb8f` completed successfully in both jobs. `verify` passed clean dependency
+  installation, type checking, 21 contract/domain tests, contract drift, 28 database
+  tests on PostgreSQL **17.11**, and the production build. `supabase` passed local
+  startup/migrations, Auth/Data API tests, Chromium browser/HTTP tests, and 28
+  database tests on PostgreSQL **17.6** with clean advisors and cleanup.
+- The local demo was restarted and returned HTTP 200 at
+  <http://127.0.0.1:3100/contribute>. Both projects' Supabase stacks remain running.
+- No hosted deployment, publication, main-branch merge, or pilot import was made.
+  The first consumer and priority lookups/filters are still needed before M3.
+
 ## Prior documentation work
 
 1. Reviewed the code and full game dataset, rebuilt SQLite at a temporary location, and reproduced several integration/data-quality failures. Findings are saved in [project-review.md](project-review.md).
@@ -197,14 +232,14 @@ The game records, discovery CSV, schema, scripts, web application, image files, 
 
 ## M2 implementation queue
 
-The local implementation of **M2: contributions and review** is complete within the form scope documented above:
+Implementation and verification of **M2: contributions and review** are complete within the form scope documented above:
 
 1. **Done:** application Auth, live-session verification, server-controlled current membership, ownership, and restricted local credentials.
 2. **Done:** proposal transitions, evidence checks, validation context, review decisions, atomic multi-target approval, conflicts, and idempotency.
 3. **Done:** contribution/review forms, direct-request permission tests, and the browser correction/review scenario with synthetic data.
-4. **Outstanding:** run the expanded GitHub Actions workflow once these local changes are committed and pushed. Inspect the complete existing change set and exclude unrelated artifacts and local credentials when preparing it. Do not describe local checks as a remote CI run.
+4. **Done:** committed and pushed the reviewed change set, integrated newer remote work, and passed both GitHub Actions jobs. See September 20's verification section for the run and exact test results.
 
-Select the first consuming app and its actual lookup/filter needs before choosing the pilot records. The initial end-to-end demonstration is a sourced player-count correction submitted through a form, approved by the owner, published in a release, and adopted by that app while an older pinned release remains unchanged.
+**Next unfinished task:** obtain the first consuming app and its actual lookup/filter needs before choosing pilot records. This clarification was requested September 20 and remains unanswered. The initial end-to-end demonstration is a sourced player-count correction submitted through a form, approved by the owner, published in a release, and adopted by that app while an older pinned release remains unchanged.
 
 These next steps do not require bulk migration. Import, a publication worker, complete public serializers/exports, and deployment follow later milestones.
 
@@ -232,13 +267,13 @@ Public API access, exact cache TTLs, load-test targets, and initial self-review 
 
 ## Working-tree handoff
 
-No commit was created. The working tree contains the M1 workspace, migrations, tests, CI, lockfile, documentation, M2 preparation/implementation, and simplified contribution intake described above. Earlier documentation relocations are also still uncommitted: old paths are marked deleted, and their unchanged contents live under `docs/legacy/`. Keep this work distinct from unrelated local artifacts when staging. `apps/catalog/.env.local` is ignored and contains generated local credentials; do not stage or print it.
+The M1/M2 implementation and documentation moves are committed and pushed on `codex/catalog-m2`, including integration of remote `main` at `c557ab1`. No merge to remote `main` was made. The canonical repository is `Lehi-Innovation/boardgame-database`; `origin` still uses the working redirect from `jonnyallred/boardgame-database`. `apps/catalog/.env.local` and `.local/demo-accounts.json` are ignored and contain retained local credentials; do not stage or print them.
 
 Two untracked local artifacts were already present before the work:
 
 - `pipeline_cache.db` — approximately 230 MB of cached research data.
 - `scripts/__pycache__/html_preprocessor.cpython-310.pyc`.
 
-They are unrelated to the documentation and M1 changes and should not be swept into a commit. Their ignore policy was not changed. Temporary audit files under `/tmp` are optional diagnostics and are not required to resume work.
+They are unrelated to the catalog changes and were not committed. The cache remains untracked; bytecode is now ignored by the preserved upstream rules. Temporary audit files and verification logs under `/tmp` are optional diagnostics and are not required to resume work.
 
 Future sessions should update this handoff when milestones are implemented, decisions change, or a review finding is fixed. Update the continuation instructions and immediate deliverable as well as the factual status so supplying this file remains sufficient to resume the next unfinished task. Record actual verification results and unresolved blockers; do not describe planned work as implemented. Keep the dated review as a baseline and link subsequent fixes rather than silently rewriting historical measurements.
