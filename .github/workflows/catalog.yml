@@ -1,0 +1,59 @@
+name: Catalog verification
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_PASSWORD: local-test-password
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    env:
+      CATALOG_TEST_ADMIN_URL: postgresql://postgres:local-test-password@127.0.0.1:5432/postgres
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm run build
+
+  supabase:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      # Startup output includes local credentials; keep it out of public logs.
+      - run: npm run db:start > "$RUNNER_TEMP/catalog-supabase-start.log" 2>&1
+      - run: npm run db:migrate
+      - run: npm run test:supabase
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:browser
+      - run: npm run test:db -- --advisors
+        env:
+          CATALOG_TEST_ADMIN_URL: postgresql://supabase_admin:postgres@127.0.0.1:55322/postgres
+      - if: always()
+        run: npm run db:stop

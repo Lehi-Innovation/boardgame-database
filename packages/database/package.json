@@ -1,0 +1,13 @@
+{
+  "name": "@catalog/database",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./src/index.ts",
+  "dependencies": {
+    "@catalog/contracts": "0.1.0",
+    "@catalog/domain": "0.1.0",
+    "drizzle-orm": "0.45.2",
+    "postgres": "3.4.9"
+  }
+}
