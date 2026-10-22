@@ -1,15 +1,13 @@
 ---
 name: progress
-description: Show progress and list next N games to add
+description: Report CSV catalog coverage and requested queued, failed, skipped, ambiguous, or duplicate games.
 user_invocable: true
 ---
 
-# /progress
+# Catalog progress
 
-Show progress stats and return the next N games to work on.
+Run `python3 scripts/progress.py N` from the repository root, using the requested nonnegative integer. Default to 20; use 0 for counts only. For a requested status view, use the supported `--failed`, `--skipped`, `--ambiguous`, or `--duplicate` flag.
 
-## Instructions
+Report counts and requested entries with source nominations where available. The catalog comes from `master_list.csv`; source lists enrich prioritization. An empty queue can coexist with excluded/failed entries, and matched CSV entries are not the same count as game files.
 
-1. Run `python3 scripts/progress.py <N>` using Bash. Default N is 20; use any number the user provides (e.g. `/progress 50`).
-2. Display the progress stats (total, remaining, source count, orphans).
-3. Return the list of next games as a structured list the user can act on — each entry includes the name, year, and which source lists nominated it. Games appearing in more sources are listed first.
+Read [the known coverage limitations](../../../docs/status.md). Nomination ordering is a backlog convenience, not a quality ranking. Coverage does not establish factual verification.

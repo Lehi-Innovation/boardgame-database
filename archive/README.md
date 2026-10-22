@@ -1,14 +1,13 @@
 # Archive
 
-Snapshot of the project data before the BGG dependency removal (February 2026).
+Historical material is preserved here for reference. It is excluded from active catalog loaders and is not current policy, a current backlog, or automatically verified source data.
 
-## Contents
+| Location | Contents | Reason retained |
+| --- | --- | --- |
+| [games-v1/](games-v1/) | 389 historical game records | Snapshot before the February 2026 source-policy rebuild |
+| [master-list-v1.yaml](master-list-v1.yaml) | Original ranking-based list | Historical discovery/source reference |
+| [2026-10-22/](2026-10-22/README.md) | Earlier development notes, research memories, BGG sweep prototype/state | Retired during the repository organization cleanup |
 
-- `games-v1/` — Copy of all 389 `games/*.yaml` files at time of archival
-- `master-list-v1.yaml` — The original `master_list.yaml` (BGG Top 1000 with `bgg_rank` field)
+The active CSV catalog, Wikidata importer/state, newer web UI, and image tooling remain in their current locations.
 
-## Why
-
-The project was restructured to remove all BoardGameGeek dependencies and build
-a new master list from alternative public sources (award lists, Wikipedia, publisher
-catalogs). This archive preserves the original data for reference and comparison.
+See [project organization](../docs/organization.md) for active paths and conventions. Check archived games against current schema and sources before reuse. Add original paths, retirement reason, and restoration requirements when creating a new archive group. Git history retains prior versions of maintained files.

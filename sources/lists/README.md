@@ -1,35 +1,28 @@
-# Source Lists
+# Nomination source lists
 
-Each YAML file in this directory represents one source (article, award list, publisher catalog, etc.) from which board game names were collected.
-
-## File Format
+Each YAML file represents an award, reviewer list, article, or other source that nominates games for the catalog.
 
 ```yaml
 source: "Human-readable source name"
-url: "https://..."
-fetched: 2026-02-16
+url: "https://example.com/list"
+fetched: 2026-10-22
 games:
   - id: azul
     name: Azul
     year: 2017
-  - id: wingspan
-    name: Wingspan
-    year: 2019
 ```
 
-## Fields
+Use actual URLs and collection dates. Filenames should be lowercase hyphenated source names. Each game needs an ID, display name, and edition year when known. Check primary/alternate names and editions before choosing a new ID.
 
-- **source**: Short name shown in progress output
-- **url**: Where the list came from
-- **fetched**: Date the list was scraped/added
-- **games[]**: Each entry needs `id` (slug), `name`, and `year`
+[../../master_list.csv](../../master_list.csv) is the canonical catalog universe. Source lists enrich it with nomination counts and evidence; adding a list alone does not put its games into the research queue. Review missing games and add corresponding CSV rows while preserving existing status and `yaml_id` columns.
 
-## Naming Convention
+From the repository root:
 
-Filename should be a slug of the source: `spiel-des-jahres.yaml`, `ars-technica-best-2025.yaml`, etc.
+```bash
+python3 scripts/progress.py 0
+python3 scripts/progress.py 20
+```
 
-## Adding a New List
+The queue prioritizes nominations but supports games with no nominations. Nomination count is not a quality ranking. Python and web matching differ; see [known issues](../../docs/status.md).
 
-1. Create a new YAML file in this directory
-2. Run `python3 scripts/progress.py` to see updated stats
-3. Duplicates across files are handled automatically (union by `id`)
+For facts about a game, record consulted evidence in [the research log](../README.md) and researched metadata in the game file.

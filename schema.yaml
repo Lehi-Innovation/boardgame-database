@@ -315,6 +315,10 @@ template:
   playtime_minutes: null      # Approximate playtime
   min_playtime: null          # Box minimum
   max_playtime: null          # Box maximum
+  min_age: null               # Publisher's minimum age
+
+  # Original summary of the experience and practical demands
+  description: ""
 
   # Upgrades (nested within game file)
   upgrades: []

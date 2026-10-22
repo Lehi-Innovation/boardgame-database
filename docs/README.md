@@ -1,4 +1,10 @@
-# Marketplace Document Suite
+# Documentation
+
+Start with [the current product brief](product-brief.md), which records the owner’s October 2026 direction. Use [organization](organization.md) for file placement, [development](development.md) for setup, [research](research.md) for curation, and [status](status.md) for current issues and priorities.
+
+The June 2026 marketplace suite below is preserved as earlier drafts. Its transactional-marketplace assumptions have not been adopted in the current onboarding decisions; technical descriptions are dated snapshots. Keep these proposals distinct from confirmed product direction.
+
+## Marketplace Document Suite (earlier drafts)
 
 First-draft product and architecture documents for a board game marketplace,
 generated from a full discovery pass of this repository (June 2026).

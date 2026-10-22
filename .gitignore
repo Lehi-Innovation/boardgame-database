@@ -1,6 +1,19 @@
 # Dependencies
 node_modules/
-package-lock.json
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local research cache (canonical evidence lives in sources/)
+/pipeline_cache.db
+/pipeline_cache.db-*
+
+# Legacy importer outputs, if an experiment is run locally
+/scraper_state.json
 
 # IDE
 .vscode/
@@ -32,8 +45,5 @@ temp/
 # Build artifacts
 dist/
 build/
-games.db
-
-# Python bytecode
-__pycache__/
-*.pyc
+/games.db
+/games.db-*
