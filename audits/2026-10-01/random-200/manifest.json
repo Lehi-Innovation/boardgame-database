@@ -1,0 +1,1611 @@
+{
+  "date": "2026-10-01",
+  "population": "games/*.yaml",
+  "population_count": 4013,
+  "sample_size": 200,
+  "seed_hex": "eacf2ae93be67251d5cf0677c801adb3",
+  "selection": "Sort all UTF-8 filenames by SHA-256(seed bytes + NUL + filename UTF-8), breaking ties by filename bytes; select first 200",
+  "population_sha256": "16df21da619ee69cffb59c6b2b748651da025399a5060d368cd814330144d8b0",
+  "items": [
+    {
+      "index": 1,
+      "file": "51st-state-ultimate-edition.yaml",
+      "id": "51st-state-ultimate-edition",
+      "name": "51st State: Ultimate Edition",
+      "sha256": "65f64218a5527d0db5482e983b507158043a14d35ae96ad9cf9dad6848951b08",
+      "batch": "a"
+    },
+    {
+      "index": 2,
+      "file": "age-of-discovery.yaml",
+      "id": "age-of-discovery",
+      "name": "Age of Discovery",
+      "sha256": "e4128207c89600e81efe743a11a6d955b2c446873756652624692c4449ca54ee",
+      "batch": "b"
+    },
+    {
+      "index": 3,
+      "file": "kharbaga.yaml",
+      "id": "kharbaga",
+      "name": "Kharbaga",
+      "sha256": "c2fa186c072e45e3d57d4d8f4fbfa6120f8ba0e3af9986d4d51bf6db4272da39",
+      "batch": "c"
+    },
+    {
+      "index": 4,
+      "file": "flames-of-war.yaml",
+      "id": "flames-of-war",
+      "name": "Flames of War",
+      "sha256": "7156cdaf3b1f8328cbc080417deba63ecc6963b8df1ac0ecb32a916b94d02929",
+      "batch": "root"
+    },
+    {
+      "index": 5,
+      "file": "ascending-empires.yaml",
+      "id": "ascending-empires",
+      "name": "Ascending Empires",
+      "sha256": "4e0b51ed08b63edce6148d6580f7e5e2b0d7c989f2eaddab69777e3dc2a8e1b4",
+      "batch": "a"
+    },
+    {
+      "index": 6,
+      "file": "guesstures.yaml",
+      "id": "guesstures",
+      "name": "Guesstures",
+      "sha256": "53a99fa7c0910795aef33bc3acda70743bf5c20f943bf01471875719ae5c3307",
+      "batch": "b"
+    },
+    {
+      "index": 7,
+      "file": "battlelords.yaml",
+      "id": "battlelords",
+      "name": "Battlelords",
+      "sha256": "ee0a4d1ba09ebc6bdb7bfcf9eef3a176c907e5e12f86042c8869ab5e3f41c627",
+      "batch": "c"
+    },
+    {
+      "index": 8,
+      "file": "burosh.yaml",
+      "id": "burosh",
+      "name": "Burosh",
+      "sha256": "5c5787109ac6e7d8136b7c040606ff6f77e39037447814f79f5f891414220775",
+      "batch": "root"
+    },
+    {
+      "index": 9,
+      "file": "on-the-road-to-abha.yaml",
+      "id": "on-the-road-to-abha",
+      "name": "On the Road to Abha",
+      "sha256": "b3b2e097c5323d6b6b25fa3c0d42e1c5c9a2e2b962c2854b3d4446127ca0123a",
+      "batch": "a"
+    },
+    {
+      "index": 10,
+      "file": "the-hanging-gardens.yaml",
+      "id": "the-hanging-gardens",
+      "name": "The Hanging Gardens",
+      "sha256": "1fb431c978c3f1351e8be115c23128cf1c65b5d4c8949d0cbf046f5a241dd72d",
+      "batch": "b"
+    },
+    {
+      "index": 11,
+      "file": "fortnite-monopoly.yaml",
+      "id": "fortnite-monopoly",
+      "name": "Fortnite Monopoly",
+      "sha256": "a38b0bed14a2e2cc5fd19663c928cee9c94b738c6d12819a1a393d060bfff3f5",
+      "batch": "c"
+    },
+    {
+      "index": 12,
+      "file": "white-bear-and-red-moon.yaml",
+      "id": "white-bear-and-red-moon",
+      "name": "White Bear and Red Moon",
+      "sha256": "3df1cfc2bff5797c0bd2488e1965ecd0565c8afc648f9819450b2f146b2718b2",
+      "batch": "root"
+    },
+    {
+      "index": 13,
+      "file": "kings-of-war.yaml",
+      "id": "kings-of-war",
+      "name": "Kings of War",
+      "sha256": "2ff5cbe20d7a3202ff90c8add5bb2fc31a6f391a1cf1061169a92067e9d5dd55",
+      "batch": "a"
+    },
+    {
+      "index": 14,
+      "file": "the-twisted-spooky-night.yaml",
+      "id": "the-twisted-spooky-night",
+      "name": "The Twisted Spooky Night",
+      "sha256": "f350934dc2e9f58e9927aca8aa16c09996a0fa3d3e3a92c38d91b6e2dd39ee8e",
+      "batch": "b"
+    },
+    {
+      "index": 15,
+      "file": "pallanguzhi.yaml",
+      "id": "pallanguzhi",
+      "name": "Pallanguzhi",
+      "sha256": "ec6a381477ce0c8336573a06d044a467e222426ebcac6d1eb812895f8f04a154",
+      "batch": "c"
+    },
+    {
+      "index": 16,
+      "file": "napoleons-last-battles.yaml",
+      "id": "napoleons-last-battles",
+      "name": "Napoleon's Last Battles",
+      "sha256": "8e4f2e3555ab2392b3013d92e52f944e4d01de2a422b696692a700b93fdad060",
+      "batch": "root"
+    },
+    {
+      "index": 17,
+      "file": "speed-circuit.yaml",
+      "id": "speed-circuit",
+      "name": "Speed Circuit",
+      "sha256": "49cc84a367ac350af671c0b0b048d0fbd05a39de00a567d4c816ff2066b81cb9",
+      "batch": "a"
+    },
+    {
+      "index": 18,
+      "file": "star-fleet-battles.yaml",
+      "id": "star-fleet-battles",
+      "name": "Star Fleet Battles",
+      "sha256": "222fcf88f33c725247c348efbb9c8744dec3b549c2409ecb1c2a920ea12ce857",
+      "batch": "b"
+    },
+    {
+      "index": 19,
+      "file": "speculation.yaml",
+      "id": "speculation",
+      "name": "Speculation",
+      "sha256": "b2e899db9efa152f64d6c1cafa911f75fd1778a2a1ba3ae8da394a4169d8dc51",
+      "batch": "c"
+    },
+    {
+      "index": 20,
+      "file": "architects-of-the-west-kingdom.yaml",
+      "id": "architects-of-the-west-kingdom",
+      "name": "Architects of the West Kingdom",
+      "sha256": "f2f2a1ac26435ab5e6db584f2ab2755e7330f2ec2e2ba5c3e7b75f7d22f1abf3",
+      "batch": "root"
+    },
+    {
+      "index": 21,
+      "file": "the-last-hurrah.yaml",
+      "id": "the-last-hurrah",
+      "name": "The Last Hurrah",
+      "sha256": "22478133faca36bee8ce074ebed1384b73b26083975d8e19b73bba5bffcba976",
+      "batch": "a"
+    },
+    {
+      "index": 22,
+      "file": "fire-and-steel.yaml",
+      "id": "fire-and-steel",
+      "name": "Fire and Steel",
+      "sha256": "27b84b4ceba9b2833336c5a314733d39ef59d02bc155b5e7cbf32e27db56e24f",
+      "batch": "b"
+    },
+    {
+      "index": 23,
+      "file": "konig-von-siam.yaml",
+      "id": "konig-von-siam",
+      "name": "König von Siam",
+      "sha256": "6aa6a90187907e9c93b81c5f9fc5746646c2081df40e398e99813f9a2a7d6275",
+      "batch": "c"
+    },
+    {
+      "index": 24,
+      "file": "mad-gab.yaml",
+      "id": "mad-gab",
+      "name": "Mad Gab",
+      "sha256": "5ff3144c69bff4f7e4ab75524cb30ff20b27dec024808f5f577fe4a44582d73d",
+      "batch": "root"
+    },
+    {
+      "index": 25,
+      "file": "presages.yaml",
+      "id": "presages",
+      "name": "Présages",
+      "sha256": "f9a2d59e5bfdcc72698831561947b1a402a141667a317786ed2d8f077fbc3362",
+      "batch": "a"
+    },
+    {
+      "index": 26,
+      "file": "alaric-the-goth.yaml",
+      "id": "alaric-the-goth",
+      "name": "Alaric the Goth: Fall of the Western Roman Empire",
+      "sha256": "b74ff85d0cbb54ed0afe871f8c7ffb26ea5c1b7bd2657c2fe077f5d4e4039492",
+      "batch": "b"
+    },
+    {
+      "index": 27,
+      "file": "odysseus.yaml",
+      "id": "odysseus",
+      "name": "Odysseus",
+      "sha256": "1afc68dcad5867c5b9bc9b84ace83eec47b30d9ca67446394de2d4d1de51f778",
+      "batch": "c"
+    },
+    {
+      "index": 28,
+      "file": "dune-parker-brothers.yaml",
+      "id": "dune-parker-brothers",
+      "name": "Dune",
+      "sha256": "b30a158f25ee6c4f5de3e328a7ffaad35b020cf8272c7dfa4c638fff1bec64e1",
+      "batch": "root"
+    },
+    {
+      "index": 29,
+      "file": "tsushima.yaml",
+      "id": "tsushima",
+      "name": "Tsushima",
+      "sha256": "a52818b51d574e319823d133935f00d92680762ffeadd84fe62f2ee138274b89",
+      "batch": "a"
+    },
+    {
+      "index": 30,
+      "file": "arnak-the-missing-expedition.yaml",
+      "id": "arnak-the-missing-expedition",
+      "name": "Lost Ruins of Arnak: The Missing Expedition",
+      "sha256": "c55a9b6c167d598af343cd3d374f0acc7d6a4ca67e093545ab2ad26c2aad99b3",
+      "batch": "b"
+    },
+    {
+      "index": 31,
+      "file": "indonesia.yaml",
+      "id": "indonesia",
+      "name": "Indonesia",
+      "sha256": "fa9ebf40188f3416ae4dcdf4be184624f2052888d29a44829cc3c0dad370b706",
+      "batch": "c"
+    },
+    {
+      "index": 32,
+      "file": "ace-of-aces-wingleader.yaml",
+      "id": "ace-of-aces-wingleader",
+      "name": "Ace of Aces: Wingleader",
+      "sha256": "2b686adb3f0aa1ac307a9ae5016b8b5f2f38d40a9dabbacb2c8a440c601eb0d1",
+      "batch": "root"
+    },
+    {
+      "index": 33,
+      "file": "medici-vs-strozzi.yaml",
+      "id": "medici-vs-strozzi",
+      "name": "Medici vs Strozzi",
+      "sha256": "dbf97781f2415a43e873948b3f42aac34a7382b88228813e01ccd3aff2adce58",
+      "batch": "a"
+    },
+    {
+      "index": 34,
+      "file": "helltank-destroyer.yaml",
+      "id": "helltank-destroyer",
+      "name": "Helltank Destroyer",
+      "sha256": "785652fd80cfac32b214b3fc124af80d9dd234521feb3f366aed1d9c7aaaa16a",
+      "batch": "b"
+    },
+    {
+      "index": 35,
+      "file": "troia.yaml",
+      "id": "troia",
+      "name": "Troia",
+      "sha256": "0065fa3b15a4870f27df7568a958cb1111fcdaa356079205e4d0319314b3a617",
+      "batch": "c"
+    },
+    {
+      "index": 36,
+      "file": "gnome-hollow.yaml",
+      "id": "gnome-hollow",
+      "name": "Gnome Hollow",
+      "sha256": "c62c2e46e9e58615fd692e6483fe969b5d6725084be19e8fc711e57331086c80",
+      "batch": "root"
+    },
+    {
+      "index": 37,
+      "file": "railways-of-the-world.yaml",
+      "id": "railways-of-the-world",
+      "name": "Railways of the World",
+      "sha256": "f92cc23a4820a75e7ef4776669bb7ba490222a0068f1f618c4de6f89778f60d1",
+      "batch": "a"
+    },
+    {
+      "index": 38,
+      "file": "dice-hospital.yaml",
+      "id": "dice-hospital",
+      "name": "Dice Hospital",
+      "sha256": "48ffff3335d2784c13c6a326e516eae4284868b79666946a020305089d4da443",
+      "batch": "b"
+    },
+    {
+      "index": 39,
+      "file": "hannibal.yaml",
+      "id": "hannibal",
+      "name": "Hannibal",
+      "sha256": "bf2d8ef145f224c751fdc55f7e3ffe29315171d5fe241deaae0d7675dd3b6e67",
+      "batch": "c"
+    },
+    {
+      "index": 40,
+      "file": "great-western-trail.yaml",
+      "id": "great-western-trail",
+      "name": "Great Western Trail",
+      "sha256": "4d5b30e04baaad2b44cb9ab23de55a2ade85251a977f71a9abb1668035d2b8a9",
+      "batch": "root"
+    },
+    {
+      "index": 41,
+      "file": "objective-atlanta.yaml",
+      "id": "objective-atlanta",
+      "name": "Objective: Atlanta",
+      "sha256": "14fc9a640e5d4cdaa0a7984f8277edb56f7ba09c5d3a891804d9f9e7673eb106",
+      "batch": "a"
+    },
+    {
+      "index": 42,
+      "file": "the-siege-of-jerusalem.yaml",
+      "id": "the-siege-of-jerusalem",
+      "name": "The Siege of Jerusalem",
+      "sha256": "1032488d61140b127f8e4d931a72aabc60771b60dcca69c25c882543ae05cd84",
+      "batch": "b"
+    },
+    {
+      "index": 43,
+      "file": "combined-arms.yaml",
+      "id": "combined-arms",
+      "name": "Combined Arms",
+      "sha256": "66fa42043606b121c05bbc4512bc30ac10207bb7a69902b1867b70a1b57d4d2d",
+      "batch": "c"
+    },
+    {
+      "index": 44,
+      "file": "catan-anniversary-edition.yaml",
+      "id": "catan-anniversary-edition",
+      "name": "Catan - Anniversary Edition",
+      "sha256": "67b32cb008df9b37f71f31528ae26cab52dfb4e51eae67ed88e11f781e4abe62",
+      "batch": "root"
+    },
+    {
+      "index": 45,
+      "file": "de-ontembare-stad.yaml",
+      "id": "de-ontembare-stad",
+      "name": "De Ontembare Stad",
+      "sha256": "d50d472fae8a4328568ad2254ad29681d4dfb1b5cca8aeeda1bfdb4e1f136122",
+      "batch": "a"
+    },
+    {
+      "index": 46,
+      "file": "scrabble.yaml",
+      "id": "scrabble",
+      "name": "Scrabble",
+      "sha256": "fd7d177ffd953d292aacebdc2da904cc42cd8790b005ea8caf8b5aac53d75495",
+      "batch": "b"
+    },
+    {
+      "index": 47,
+      "file": "space-base.yaml",
+      "id": "space-base",
+      "name": "Space Base",
+      "sha256": "aae807f906d0ab96699b540b801c5c5670b2f1943a364b57e547bfb9cad5ed76",
+      "batch": "c"
+    },
+    {
+      "index": 48,
+      "file": "last-frontier-the-vesuvius-incident.yaml",
+      "id": "last-frontier-the-vesuvius-incident",
+      "name": "Last Frontier: The Vesuvius Incident",
+      "sha256": "e28b4677e15fc80321cd77bb5e949ce495e16d656f3a05cc61e6d570f7ff066b",
+      "batch": "root"
+    },
+    {
+      "index": 49,
+      "file": "bermuda-triangle.yaml",
+      "id": "bermuda-triangle",
+      "name": "Bermuda Triangle",
+      "sha256": "f43bb66dc788c1f414e72b9c4abd783f5fd352e6aa36f9a10e4d1208307718e3",
+      "batch": "a"
+    },
+    {
+      "index": 50,
+      "file": "schlaraffen-affen.yaml",
+      "id": "schlaraffen-affen",
+      "name": "Schlaraffen Affen",
+      "sha256": "275ad158af5f4a4a3ab869ae00856069177b0903c284f6de050c08cef6616422",
+      "batch": "b"
+    },
+    {
+      "index": 51,
+      "file": "skript.yaml",
+      "id": "skript",
+      "name": "Skript",
+      "sha256": "f5b203ce729caf6001e59dfbbc261cb94ec56cd17e86b0dd349fd6ba52c7a662",
+      "batch": "c"
+    },
+    {
+      "index": 52,
+      "file": "yggdrasil.yaml",
+      "id": "yggdrasil",
+      "name": "Yggdrasil",
+      "sha256": "3f90952bfe1b27776b1fbde2b989a660dae4b23a5aceb3f759b9a6cc26a4ad74",
+      "batch": "root"
+    },
+    {
+      "index": 53,
+      "file": "gute-freunde.yaml",
+      "id": "gute-freunde",
+      "name": "Gute Freunde",
+      "sha256": "08042f679006eb943f33b74149fd7ce5365ac9c62d626da59d219661745f73cd",
+      "batch": "a"
+    },
+    {
+      "index": 54,
+      "file": "mijnlieff.yaml",
+      "id": "mijnlieff",
+      "name": "Mijnlieff",
+      "sha256": "11b3aea49bfb319a530b956af11d6f423010ecac84ecc584d70e60f6479aeee3",
+      "batch": "b"
+    },
+    {
+      "index": 55,
+      "file": "hexxagon.yaml",
+      "id": "hexxagon",
+      "name": "Hexxagon",
+      "sha256": "a4031c1ea3536ade8eb172c8d635497dc81f7a2091d2a60c9d033c6bfcc546bf",
+      "batch": "c"
+    },
+    {
+      "index": 56,
+      "file": "schatz-rabatz.yaml",
+      "id": "schatz-rabatz",
+      "name": "Schatz-Rabatz",
+      "sha256": "9ede2b20140314009d9471680084bd7a0e8245090cf5f5a856ae045dafb2b0b4",
+      "batch": "root"
+    },
+    {
+      "index": 57,
+      "file": "malefiz.yaml",
+      "id": "malefiz",
+      "name": "Malefiz",
+      "sha256": "a16a2c28ca651b28a641921e5837dee14569de27b3104dd004d048e26b6d2efe",
+      "batch": "a"
+    },
+    {
+      "index": 58,
+      "file": "conspiracy-abyss-universe.yaml",
+      "id": "conspiracy-abyss-universe",
+      "name": "Conspiracy: Abyss Universe",
+      "sha256": "c9c0cca49f0a44ec6ff3b0d3ddfe4d2bcfc71d762b1eb296c7727c58d3d453d5",
+      "batch": "b"
+    },
+    {
+      "index": 59,
+      "file": "cubulus.yaml",
+      "id": "cubulus",
+      "name": "Cubulus",
+      "sha256": "b1240346e5945b66258caa0aa827fa5fbe7ce76f30f16417d74206d01c528d06",
+      "batch": "c"
+    },
+    {
+      "index": 60,
+      "file": "antike.yaml",
+      "id": "antike",
+      "name": "Antike",
+      "sha256": "a2786c43a90816e8fcd5a7177cc31e239ac5123ef26894710a984a12dbdb153a",
+      "batch": "root"
+    },
+    {
+      "index": 61,
+      "file": "rummikub.yaml",
+      "id": "rummikub",
+      "name": "Rummikub",
+      "sha256": "9d90cf8cfccb3186f2f4ea156a5dfa3639b5e58a80f9ebb9b4da4e1acd20f05f",
+      "batch": "a"
+    },
+    {
+      "index": 62,
+      "file": "the-lonely-mountain.yaml",
+      "id": "the-lonely-mountain",
+      "name": "The Lonely Mountain",
+      "sha256": "969e970819ca08eccbb9a709710acef554a5238dafcb70cd9b81a57994001081",
+      "batch": "b"
+    },
+    {
+      "index": 63,
+      "file": "advance-to-boardwalk.yaml",
+      "id": "advance-to-boardwalk",
+      "name": "Advance to Boardwalk",
+      "sha256": "0f9b79613b9f0a3decb50540bde546c438dfc74ce852257e9f472ad65e6cafef",
+      "batch": "c"
+    },
+    {
+      "index": 64,
+      "file": "tiny-towns.yaml",
+      "id": "tiny-towns",
+      "name": "Tiny Towns",
+      "sha256": "de9a9d62576696eff2682a3603c2a96bb501b09f03d0325085a342e7b431d5a4",
+      "batch": "root"
+    },
+    {
+      "index": 65,
+      "file": "dynasty-league-baseball.yaml",
+      "id": "dynasty-league-baseball",
+      "name": "Dynasty League Baseball",
+      "sha256": "a01bb07200d76a35849476792df09ab34890512b5c793ee3ddbe8e302756cbbe",
+      "batch": "a"
+    },
+    {
+      "index": 66,
+      "file": "the-willow-game.yaml",
+      "id": "the-willow-game",
+      "name": "The Willow Game",
+      "sha256": "d56343d88d0ad9d7d5c56aef7fd82be24f594637d89675629b839536f862739c",
+      "batch": "b"
+    },
+    {
+      "index": 67,
+      "file": "crossfire.yaml",
+      "id": "crossfire",
+      "name": "Crossfire",
+      "sha256": "a5c9ce2f1d936e0f61c2558e3d4776a3819bcbad266c5e38118617ba6f5049ca",
+      "batch": "c"
+    },
+    {
+      "index": 68,
+      "file": "jurassic-parts.yaml",
+      "id": "jurassic-parts",
+      "name": "Jurassic Parts",
+      "sha256": "72f0d43c73367306e6968c0235c8bc37f989cd28b8fd15e633e1585de0709b21",
+      "batch": "root"
+    },
+    {
+      "index": 69,
+      "file": "the-game-of-the-district-messenger-boy.yaml",
+      "id": "the-game-of-the-district-messenger-boy",
+      "name": "The Game of the District Messenger Boy",
+      "sha256": "55e08c249e6f9a464682810dd940acdc63ab3e1dce1906ad838e040bf42bab89",
+      "batch": "a"
+    },
+    {
+      "index": 70,
+      "file": "siemens-grand-prix-game.yaml",
+      "id": "siemens-grand-prix-game",
+      "name": "Siemens Grand Prix Game 2004",
+      "sha256": "bd7a516c7f51902a6b83dcbc61702197e0ee71359c5b321a2a4bb76d19b97e32",
+      "batch": "b"
+    },
+    {
+      "index": 71,
+      "file": "quinamid.yaml",
+      "id": "quinamid",
+      "name": "Quinamid",
+      "sha256": "9f0a93f4b7faed532b6446db8a4d1e9ed753181ebd976c2492452279d5107b2e",
+      "batch": "c"
+    },
+    {
+      "index": 72,
+      "file": "dont-give-up-the-ship.yaml",
+      "id": "dont-give-up-the-ship",
+      "name": "Don't Give Up the Ship!",
+      "sha256": "19fd4891fcb2b83b7291b726a3e2f7eb4093a92406fbf9d62494344cea394bba",
+      "batch": "root"
+    },
+    {
+      "index": 73,
+      "file": "outfoxed.yaml",
+      "id": "outfoxed",
+      "name": "Outfoxed!",
+      "sha256": "747ddf0f1fb0ed53ba210bdd122961988c15029a7a20fbb1fdf574549fc826e8",
+      "batch": "a"
+    },
+    {
+      "index": 74,
+      "file": "napoleon-in-europe.yaml",
+      "id": "napoleon-in-europe",
+      "name": "Napoleon in Europe",
+      "sha256": "6c7e2a728f5890775750ae7ca65a9d6f1b96985c31b1cce18afed9bde399c88b",
+      "batch": "b"
+    },
+    {
+      "index": 75,
+      "file": "isla-dorada.yaml",
+      "id": "isla-dorada",
+      "name": "Isla Dorada",
+      "sha256": "f110592826df7012abb151013f8e1ce98abb5d6b7176eb2f1ae755f7d1fa7f15",
+      "batch": "c"
+    },
+    {
+      "index": 76,
+      "file": "kinfire-council.yaml",
+      "id": "kinfire-council",
+      "name": "Kinfire Council",
+      "sha256": "d79703208bf3d08d95a1cea28f63fde711debb865219aa51da18f83c6ed812e5",
+      "batch": "root"
+    },
+    {
+      "index": 77,
+      "file": "diced-veggies.yaml",
+      "id": "diced-veggies",
+      "name": "Diced Veggies",
+      "sha256": "2d375ef874d5fbc9bbe949a43b245d622082ce348ab67085bdfad926ed9b702e",
+      "batch": "a"
+    },
+    {
+      "index": 78,
+      "file": "knight-of-justice.yaml",
+      "id": "knight-of-justice",
+      "name": "Knight of Justice",
+      "sha256": "d73cf23f53d1b1e8c70407c80ae14a1725cc8e2a09129efef39eeaf0e3f6d952",
+      "batch": "b"
+    },
+    {
+      "index": 79,
+      "file": "ringel-rangel.yaml",
+      "id": "ringel-rangel",
+      "name": "Ringel-Rangel",
+      "sha256": "5ab262c70a077e17cfb2902e413fee4004d415ec8a452047a7efd6a16c56d23b",
+      "batch": "c"
+    },
+    {
+      "index": 80,
+      "file": "wizards-of-the-grimoire.yaml",
+      "id": "wizards-of-the-grimoire",
+      "name": "Wizards of the Grimoire",
+      "sha256": "1c207692eb11673b9f6fa931da14cc78bb256e9cc98b81dc44082bf1dd107b96",
+      "batch": "root"
+    },
+    {
+      "index": 81,
+      "file": "save-the-president.yaml",
+      "id": "save-the-president",
+      "name": "Save the President",
+      "sha256": "74cc61d699d56797fa9317780a5754473d1e03fb83fcf331e4c39cf8297fd269",
+      "batch": "a"
+    },
+    {
+      "index": 82,
+      "file": "cytosis.yaml",
+      "id": "cytosis",
+      "name": "Cytosis: A Cell Biology Board Game",
+      "sha256": "1b283997e5dbe14920310515cccbcd7a0ac00db90dab24fb96a48a6d0f00c513",
+      "batch": "b"
+    },
+    {
+      "index": 83,
+      "file": "ra.yaml",
+      "id": "ra",
+      "name": "Ra",
+      "sha256": "97e946bd6a912a0c3d0325e1922f0ff352eaf3204c51872f561ac24be508c8a9",
+      "batch": "c"
+    },
+    {
+      "index": 84,
+      "file": "sky-my-husband.yaml",
+      "id": "sky-my-husband",
+      "name": "Sky My Husband",
+      "sha256": "fc65257b74fbd6ded674c8a35d2c3bb9c3ad5a37e154940dd41025cbbbbc7694",
+      "batch": "root"
+    },
+    {
+      "index": 85,
+      "file": "hacienda.yaml",
+      "id": "hacienda",
+      "name": "Hacienda",
+      "sha256": "4c1cf4c533e3ac1449c1cf5dc262693fc9a00451723c6d9cc63ef2621fa16760",
+      "batch": "a"
+    },
+    {
+      "index": 86,
+      "file": "cups.yaml",
+      "id": "cups",
+      "name": "Cups",
+      "sha256": "91cdeed6679d76e1047a89c3744c7177d8b7337a6fae7087f511e0a352b1253a",
+      "batch": "b"
+    },
+    {
+      "index": 87,
+      "file": "outrage.yaml",
+      "id": "outrage",
+      "name": "Outrage!",
+      "sha256": "fcd0427c450ff7f8e1c3a05dbf3c1e678a60900ea1207fa35f8163bd19dc9b99",
+      "batch": "c"
+    },
+    {
+      "index": 88,
+      "file": "the-mysterious-dragon-cave.yaml",
+      "id": "the-mysterious-dragon-cave",
+      "name": "The mysterious Dragon Cave",
+      "sha256": "175f6bfb475940e29408743f02c96092210f7ef8679373b5a9886f868daf2db7",
+      "batch": "root"
+    },
+    {
+      "index": 89,
+      "file": "bug-opoly.yaml",
+      "id": "bug-opoly",
+      "name": "Bug-opoly",
+      "sha256": "39cdfe2daff45d0c3fa8a7fe909e1d398e975e9587c9e4887a991fc75744f939",
+      "batch": "a"
+    },
+    {
+      "index": 90,
+      "file": "bruxelles-1893.yaml",
+      "id": "bruxelles-1893",
+      "name": "Bruxelles 1893",
+      "sha256": "56f0bbc6e258ebb45dc5fd5fdafe2289297901465f373df4da9de8aa72dc2b69",
+      "batch": "b"
+    },
+    {
+      "index": 91,
+      "file": "snow-tails.yaml",
+      "id": "snow-tails",
+      "name": "Snow Tails",
+      "sha256": "75bbcccb90b4001839829d23db087b1546e977db41cc66e1af212ba79d1f9f1d",
+      "batch": "c"
+    },
+    {
+      "index": 92,
+      "file": "the-generic-gangster-chase-game.yaml",
+      "id": "the-generic-gangster-chase-game",
+      "name": "The Generic Gangster Chase Game",
+      "sha256": "d972490aadb0a105f9ed1cebe4ce230154668d53c5ee5a0fc262e61189180567",
+      "batch": "root"
+    },
+    {
+      "index": 93,
+      "file": "blockade.yaml",
+      "id": "blockade",
+      "name": "Blockade",
+      "sha256": "83b904cf190f7eb78f7b4f78bd76d5c7e641eb8d0c3aef9c2562c49bff8b3cfb",
+      "batch": "a"
+    },
+    {
+      "index": 94,
+      "file": "marco-polo-ii.yaml",
+      "id": "marco-polo-ii",
+      "name": "Marco Polo II: In the Service of the Khan",
+      "sha256": "af054dcd10251f2beb3320e17fe2e526363abeb8453390302e6d3ae76e0adb9b",
+      "batch": "b"
+    },
+    {
+      "index": 95,
+      "file": "bear-raid.yaml",
+      "id": "bear-raid",
+      "name": "Bear Raid",
+      "sha256": "747b081c604c263de0d4cebc45ea5c021488fd16158ec63fa56d0e7bff8646fd",
+      "batch": "c"
+    },
+    {
+      "index": 96,
+      "file": "age-of-empires-iii-the-age-of-discovery.yaml",
+      "id": "age-of-empires-iii-the-age-of-discovery",
+      "name": "Age of Empires III: The Age of Discovery",
+      "sha256": "bd81b1ea6a9c25fd504b6b9c25823a547ce1dda6977405fc1b6a4017c3692261",
+      "batch": "root"
+    },
+    {
+      "index": 97,
+      "file": "jurassic-snack.yaml",
+      "id": "jurassic-snack",
+      "name": "Jurassic Snack",
+      "sha256": "b53c4194caf4befe2feaf99e52d10884100225a1b2f9027f1d5707292b716ad8",
+      "batch": "a"
+    },
+    {
+      "index": 98,
+      "file": "bendomino.yaml",
+      "id": "bendomino",
+      "name": "Bendomino",
+      "sha256": "00e767be23d0e182fd87b19be6eb2e88bd46c4f6dfc6e2319296447483504064",
+      "batch": "b"
+    },
+    {
+      "index": 99,
+      "file": "baden-wurttemberg-catan.yaml",
+      "id": "baden-wurttemberg-catan",
+      "name": "Baden-Württemberg Catan",
+      "sha256": "e34428c038ed7a1e98b387426617725da2d11fabee91e00b6894623082d25098",
+      "batch": "c"
+    },
+    {
+      "index": 100,
+      "file": "mexica.yaml",
+      "id": "mexica",
+      "name": "Mexica",
+      "sha256": "005a0cbb7af261ef4d7e9ba595e00fc24e99b2a76835aa29484c5ef341cbb3b4",
+      "batch": "root"
+    },
+    {
+      "index": 101,
+      "file": "crossbows-and-catapults.yaml",
+      "id": "crossbows-and-catapults",
+      "name": "Crossbows & Catapults: Fortress War",
+      "sha256": "05d901155f2a3db30215f9c6d26853ab90f22873adda07bcd753afe8bf320454",
+      "batch": "a"
+    },
+    {
+      "index": 102,
+      "file": "morris-the-dodo.yaml",
+      "id": "morris-the-dodo",
+      "name": "Morris the Dodo",
+      "sha256": "65c933f80e853d60ffbb06a4a8c006b63642705d2fe9a2336a11618d8b50e8f9",
+      "batch": "b"
+    },
+    {
+      "index": 103,
+      "file": "afrika-korps.yaml",
+      "id": "afrika-korps",
+      "name": "Afrika Korps",
+      "sha256": "b680d883abf62609fea2f073f173d1aaa4cfdd442afa297233ae81bf1a099a3b",
+      "batch": "c"
+    },
+    {
+      "index": 104,
+      "file": "mindtrap.yaml",
+      "id": "mindtrap",
+      "name": "MindTrap",
+      "sha256": "2bd803c6d1c85fbdec1e2fd5fef1b65c3ac0ec942784520dd1f685dd3440813f",
+      "batch": "root"
+    },
+    {
+      "index": 105,
+      "file": "terra-mystica.yaml",
+      "id": "terra-mystica",
+      "name": "Terra Mystica",
+      "sha256": "547714c99e5595a0af1c645bc8ce74356acf9dba64cdb2f11f55fd64eac0a8a9",
+      "batch": "a"
+    },
+    {
+      "index": 106,
+      "file": "tac-air.yaml",
+      "id": "tac-air",
+      "name": "Tac Air",
+      "sha256": "3be8c3d0780979319050e64c4afad8a76100fe792cba50870505a45c394342be",
+      "batch": "b"
+    },
+    {
+      "index": 107,
+      "file": "unspeakable-words.yaml",
+      "id": "unspeakable-words",
+      "name": "Unspeakable Words",
+      "sha256": "b8fd257902cb16fe86178f9a553bb3266a3ca8ae73085d2bbb226a9eeb134a2a",
+      "batch": "c"
+    },
+    {
+      "index": 108,
+      "file": "playing-gods.yaml",
+      "id": "playing-gods",
+      "name": "Playing Gods",
+      "sha256": "d2bb06ebba242af1e4366b706373f11f4b83979fa717aaab64eb5a2a357302af",
+      "batch": "root"
+    },
+    {
+      "index": 109,
+      "file": "star-explorer.yaml",
+      "id": "star-explorer",
+      "name": "Star Explorer",
+      "sha256": "b32b3f1deb650a467a721008176918462a49785503d5edd82a9d9319dc450363",
+      "batch": "a"
+    },
+    {
+      "index": 110,
+      "file": "yavalath.yaml",
+      "id": "yavalath",
+      "name": "Yavalath",
+      "sha256": "3031273064f5bd62485e11068702148c66b544d9c23efe26081cd9d049205e7b",
+      "batch": "b"
+    },
+    {
+      "index": 111,
+      "file": "riviera-quest.yaml",
+      "id": "riviera-quest",
+      "name": "Riviera Quest",
+      "sha256": "6ed59031c8c299cd5355c625f5f2708f0eeef4d55b3b979cc80730c96b04471e",
+      "batch": "c"
+    },
+    {
+      "index": 112,
+      "file": "sncf-france-germany.yaml",
+      "id": "sncf-france-germany",
+      "name": "SNCF: France & Germany",
+      "sha256": "77c2966facddfbeefcec3bfc041f695906d5828b294eb277b5fb906f22281792",
+      "batch": "root"
+    },
+    {
+      "index": 113,
+      "file": "bataclan.yaml",
+      "id": "bataclan",
+      "name": "Bataclan",
+      "sha256": "5eaae0e5f1668a744c9d420af177ddd6d9ae082e08f08df4230b3e6d1a7f1ec0",
+      "batch": "a"
+    },
+    {
+      "index": 114,
+      "file": "wide-world.yaml",
+      "id": "wide-world",
+      "name": "Wide World",
+      "sha256": "ac8f862f35e8ad70402c61279cbf97bd132333d4497287517585cd9068691156",
+      "batch": "b"
+    },
+    {
+      "index": 115,
+      "file": "conquistador-the-age-of-exploration.yaml",
+      "id": "conquistador-the-age-of-exploration",
+      "name": "Conquistador: The Age of Exploration",
+      "sha256": "3cdd457864ef5e7d3b5a3419482b865470f68ed88f5a3e50279bffa09f8ea570",
+      "batch": "c"
+    },
+    {
+      "index": 116,
+      "file": "wabbit-wampage.yaml",
+      "id": "wabbit-wampage",
+      "name": "Wabbit Wampage",
+      "sha256": "807902fe9004cd80f7007925ff45ed49d8737680fae6388edbaae346f963535c",
+      "batch": "root"
+    },
+    {
+      "index": 117,
+      "file": "triplanetary.yaml",
+      "id": "triplanetary",
+      "name": "Triplanetary",
+      "sha256": "3db25c1bd585cc538b70db50175ac22562eeec5d3bb240d6b01dac532e8b1f7a",
+      "batch": "a"
+    },
+    {
+      "index": 118,
+      "file": "bloodbath-at-the-sakarya.yaml",
+      "id": "bloodbath-at-the-sakarya",
+      "name": "Bloodbath at the Sakarya",
+      "sha256": "7da0cafc4f2b28b1d339f6de289a26be5027dcfac5efc80412af6a60a2dd1fc0",
+      "batch": "b"
+    },
+    {
+      "index": 119,
+      "file": "breakaway-rider.yaml",
+      "id": "breakaway-rider",
+      "name": "Breakaway Rider",
+      "sha256": "743878ea1d4097b8145e1d76b3dd391dd5861b182472c68b26c04b05635ff3f7",
+      "batch": "c"
+    },
+    {
+      "index": 120,
+      "file": "formula-d.yaml",
+      "id": "formula-d",
+      "name": "Formula D",
+      "sha256": "5ca19efbba509e58696515f50bfcbf68a50f8c717896d20cef9d9a2d1f99fe27",
+      "batch": "root"
+    },
+    {
+      "index": 121,
+      "file": "strike-of-the-eagle.yaml",
+      "id": "strike-of-the-eagle",
+      "name": "Strike of the Eagle",
+      "sha256": "d487204f928b92d74ebded45fda56ef852b4ce61161bf9ec9b5bd4c0b3562fbd",
+      "batch": "a"
+    },
+    {
+      "index": 122,
+      "file": "mr-jack.yaml",
+      "id": "mr-jack",
+      "name": "Mr. Jack",
+      "sha256": "192d5fb3229d780b51442aa30c36bf74d6bbfe949b4018294e8fcf094d4a630a",
+      "batch": "b"
+    },
+    {
+      "index": 123,
+      "file": "molly-house.yaml",
+      "id": "molly-house",
+      "name": "Molly House",
+      "sha256": "1f035f68f6ff2f7472e04135c190a0bfb95aed3cb8a63e90936cd5a5697bfd1f",
+      "batch": "c"
+    },
+    {
+      "index": 124,
+      "file": "nightfall.yaml",
+      "id": "nightfall",
+      "name": "Nightfall",
+      "sha256": "8350d15cd9418490bb814ce1793497450ee7645e5d47caba63cb72a3efccd6f5",
+      "batch": "root"
+    },
+    {
+      "index": 125,
+      "file": "lost-treasure.yaml",
+      "id": "lost-treasure",
+      "name": "Lost Treasure",
+      "sha256": "23a4aa95525ad0516b149f44d9b0042dca73ca78f0276634ef6297c5bbc0ec3e",
+      "batch": "a"
+    },
+    {
+      "index": 126,
+      "file": "pah-tum.yaml",
+      "id": "pah-tum",
+      "name": "Pah Tum",
+      "sha256": "3cf164f1234259798d2c33474da97bbf598ac26b1d3fc7465a7943f99b87fd7c",
+      "batch": "b"
+    },
+    {
+      "index": 127,
+      "file": "dont-be-annoyed.yaml",
+      "id": "dont-be-annoyed",
+      "name": "Don't Be Annoyed",
+      "sha256": "6d53a67632801aeab50c4e3e41910320b86b4915c69e41c2dab5bf1619b93c07",
+      "batch": "c"
+    },
+    {
+      "index": 128,
+      "file": "unlock-kids-stories-from-the-past.yaml",
+      "id": "unlock-kids-stories-from-the-past",
+      "name": "Unlock! Kids: Stories From the Past",
+      "sha256": "4bdc625a3265e9cafb52a2822c8d5a0299f8eef052f6d658d514381275cdaf8b",
+      "batch": "root"
+    },
+    {
+      "index": 129,
+      "file": "card-football.yaml",
+      "id": "card-football",
+      "name": "Card football",
+      "sha256": "eaac8971e321be6829c628fa44117951f0208b6d351c2dd69467539925a55811",
+      "batch": "a"
+    },
+    {
+      "index": 130,
+      "file": "excalibur.yaml",
+      "id": "excalibur",
+      "name": "Excalibur",
+      "sha256": "0788fa489648e2dbfc17b298d2964fdec6d89737f1a53f343920cd835b83b58c",
+      "batch": "b"
+    },
+    {
+      "index": 131,
+      "file": "forest-shuffle-dartmoor.yaml",
+      "id": "forest-shuffle-dartmoor",
+      "name": "Forest Shuffle: Dartmoor",
+      "sha256": "5bc0d185aa655418a00cdc8a65195a63e0d16280e527898797436b784b9bc2dd",
+      "batch": "c"
+    },
+    {
+      "index": 132,
+      "file": "rat-hot.yaml",
+      "id": "rat-hot",
+      "name": "Rat Hot",
+      "sha256": "641ac66a87b2b289bf104de778d2f33a1be09384535fbfed55c9939ec5c2455f",
+      "batch": "root"
+    },
+    {
+      "index": 133,
+      "file": "revive.yaml",
+      "id": "revive",
+      "name": "Revive",
+      "sha256": "b2a6b0bdbf01981b7ec9e27d2717e9c6d60c9f4d11cc0e14e066ba02e3decbea",
+      "batch": "a"
+    },
+    {
+      "index": 134,
+      "file": "wig-out.yaml",
+      "id": "wig-out",
+      "name": "Wig Out!",
+      "sha256": "1cc73ac657e7db6c3abb7712bfa727711bfcf07728839f6de1f416037b54ce6e",
+      "batch": "b"
+    },
+    {
+      "index": 135,
+      "file": "fame-us.yaml",
+      "id": "fame-us",
+      "name": "Fame Us",
+      "sha256": "d9820b5214c0a39cdb3274e87b07b8ff39cd6bd4fc9d90b507f08c13b51f3a0d",
+      "batch": "c"
+    },
+    {
+      "index": 136,
+      "file": "luther-das-spiel.yaml",
+      "id": "luther-das-spiel",
+      "name": "Luther: Das Spiel",
+      "sha256": "587e4ec06c817c5c08329a3f0f9903ccd6eba93f1a7326305273f38db75df724",
+      "batch": "root"
+    },
+    {
+      "index": 137,
+      "file": "the-very-clever-pipe-game.yaml",
+      "id": "the-very-clever-pipe-game",
+      "name": "The Very Clever Pipe Game",
+      "sha256": "57cd8de586e55ac436334b32517d698ae23ee32160f966712e013f922003d6f3",
+      "batch": "a"
+    },
+    {
+      "index": 138,
+      "file": "doorways-to-horror.yaml",
+      "id": "doorways-to-horror",
+      "name": "Doorways to Horror",
+      "sha256": "076fd7c624a76dcc9746241c6fadaa921da775e42910d3b7c0f4a7326273862f",
+      "batch": "b"
+    },
+    {
+      "index": 139,
+      "file": "drive-on-stalingrad.yaml",
+      "id": "drive-on-stalingrad",
+      "name": "Drive on Stalingrad: Battle for Southern Russia Game",
+      "sha256": "5a3532a6b746cb879d14d7f6c0defcdcf460d164ed54405d56669050c24ded23",
+      "batch": "c"
+    },
+    {
+      "index": 140,
+      "file": "hegemony-lead-your-class-to-victory.yaml",
+      "id": "hegemony-lead-your-class-to-victory",
+      "name": "Hegemony: Lead Your Class to Victory",
+      "sha256": "783ba649ee8de6490ff1129c5492d748ca14a9c7874fd87220502713efeabfc5",
+      "batch": "root"
+    },
+    {
+      "index": 141,
+      "file": "chimera-station.yaml",
+      "id": "chimera-station",
+      "name": "Chimera Station",
+      "sha256": "59016fc8f1a73654b81126b5f60a4ac3429d41a6d45af64a2a4c348045c546d4",
+      "batch": "a"
+    },
+    {
+      "index": 142,
+      "file": "waka-waka.yaml",
+      "id": "waka-waka",
+      "name": "Waka Waka",
+      "sha256": "273f129fa2f595c273a73720053f2945b638022a0cd105721e34f76b25b9203b",
+      "batch": "b"
+    },
+    {
+      "index": 143,
+      "file": "flintloque.yaml",
+      "id": "flintloque",
+      "name": "Flintloque",
+      "sha256": "51d4de20ba2fc8b5002b8b5b593b6bc7436223ef6c96576ce5f7ae08e2c4c141",
+      "batch": "c"
+    },
+    {
+      "index": 144,
+      "file": "el-nuevo-coyote.yaml",
+      "id": "el-nuevo-coyote",
+      "name": "El nuevo coyote",
+      "sha256": "463838ee8b776365c4bb716a17abfdf98b003a29759a253cfb353a7c8a43a301",
+      "batch": "root"
+    },
+    {
+      "index": 145,
+      "file": "santorini.yaml",
+      "id": "santorini",
+      "name": "Santorini",
+      "sha256": "bc8340b4c9cac2cdaa8e290316bf30ca26869dc5b667a77356fca8bd1c770cb5",
+      "batch": "a"
+    },
+    {
+      "index": 146,
+      "file": "spies.yaml",
+      "id": "spies",
+      "name": "Spies!",
+      "sha256": "eee0239c3ed22f00ba10958e7edd73957decadfec8e99936031878eb752c2bcf",
+      "batch": "b"
+    },
+    {
+      "index": 147,
+      "file": "lotus.yaml",
+      "id": "lotus",
+      "name": "Lotus",
+      "sha256": "717c1d3b76dbbd0fea111cee2504dbe093d7fa27bea6c2eef5e0ec38cad605d2",
+      "batch": "c"
+    },
+    {
+      "index": 148,
+      "file": "vii-legio.yaml",
+      "id": "vii-legio",
+      "name": "VII Legio",
+      "sha256": "c985baba5cf4ad2df7f3fc980f56ab0faf37d4dd4dd1d0be5e3ba6770adf1d26",
+      "batch": "root"
+    },
+    {
+      "index": 149,
+      "file": "simpei.yaml",
+      "id": "simpei",
+      "name": "Simpei",
+      "sha256": "ad22d3f97f712801f4f4d31f4cc2414337bb624c568986c1f299abd04b3eae91",
+      "batch": "a"
+    },
+    {
+      "index": 150,
+      "file": "secrets-of-the-sea.yaml",
+      "id": "secrets-of-the-sea",
+      "name": "Secrets of the Sea",
+      "sha256": "22ae70f6fd5381fb854c35f806141dfa0e1945ab09025e72f7b3f4585aed3bde",
+      "batch": "b"
+    },
+    {
+      "index": 151,
+      "file": "dodge-bowl.yaml",
+      "id": "dodge-bowl",
+      "name": "Dodge Bowl",
+      "sha256": "e49fc1156b87b3e2ff728dd6a056d0038ff5e6cc3f3b82759bb04cf3438f725e",
+      "batch": "c"
+    },
+    {
+      "index": 152,
+      "file": "wilmots-warehouse.yaml",
+      "id": "wilmots-warehouse",
+      "name": "Wilmot's Warehouse",
+      "sha256": "538a37059deb52555b8a6935244c6acfd974f99a68bf225c2c6c151f8356632a",
+      "batch": "root"
+    },
+    {
+      "index": 153,
+      "file": "high-season-grand-hotel-roll-and-write.yaml",
+      "id": "high-season-grand-hotel-roll-and-write",
+      "name": "High Season: Grand Hotel Roll & Write",
+      "sha256": "0127323e9adce8eeb70f5572fdf524bba3e0091ca93d7ce3e0796dadd03bc256",
+      "batch": "a"
+    },
+    {
+      "index": 154,
+      "file": "gladiator.yaml",
+      "id": "gladiator",
+      "name": "Gladiator",
+      "sha256": "83cd6eaf96e0abdc0dc74439f803cafcd8a532be9f9b0795112ffd9227bf3f82",
+      "batch": "b"
+    },
+    {
+      "index": 155,
+      "file": "dragon-hordes.yaml",
+      "id": "dragon-hordes",
+      "name": "Dragon Hordes",
+      "sha256": "48dda55beceae0bafd8f943869adf23bf8b476eeabbef002299ec15dbdb9f7f1",
+      "batch": "c"
+    },
+    {
+      "index": 156,
+      "file": "echelon.yaml",
+      "id": "echelon",
+      "name": "Echelon",
+      "sha256": "95aa5dab0cb3645790fab22ad972b3f9b5b042f293b7bc8cfff757ccdacb0fbf",
+      "batch": "root"
+    },
+    {
+      "index": 157,
+      "file": "sniper.yaml",
+      "id": "sniper",
+      "name": "Sniper!",
+      "sha256": "0f6d77b8bfb62e2d710803bf6dc7fd89df0477ba6629f8dec7a0d2eb5f94b5d4",
+      "batch": "a"
+    },
+    {
+      "index": 158,
+      "file": "okiya.yaml",
+      "id": "okiya",
+      "name": "Okiya",
+      "sha256": "3a42f7bd90d1463d6c588732b3d5126f718689f8853cc4bbffb5103cdad8602d",
+      "batch": "b"
+    },
+    {
+      "index": 159,
+      "file": "abandon-all-artichokes.yaml",
+      "id": "abandon-all-artichokes",
+      "name": "Abandon All Artichokes",
+      "sha256": "68e6e694a112719fdce4d9642cabe880a8d754e87483f2c8047fa42e2fddfb49",
+      "batch": "c"
+    },
+    {
+      "index": 160,
+      "file": "alkkagi.yaml",
+      "id": "alkkagi",
+      "name": "Alkkagi",
+      "sha256": "d5a9c36b28ff657e9d27f7f2bac0cdca8888aee6899188b2ccbf769a7e159572",
+      "batch": "root"
+    },
+    {
+      "index": 161,
+      "file": "barcelona.yaml",
+      "id": "barcelona",
+      "name": "Barcelona",
+      "sha256": "0452ec64105b44dde848658616951d1a7653557dfb81e00313f3ea75ea76b0e1",
+      "batch": "a"
+    },
+    {
+      "index": 162,
+      "file": "exit-the-game-the-forbidden-castle.yaml",
+      "id": "exit-the-game-the-forbidden-castle",
+      "name": "Exit: The Game – The Forbidden Castle",
+      "sha256": "9a332718d6e4fdd789aa537e06e77a0718cd0d3fcb5a8c447960a52ba3e314e5",
+      "batch": "b"
+    },
+    {
+      "index": 163,
+      "file": "tower-up.yaml",
+      "id": "tower-up",
+      "name": "Tower Up",
+      "sha256": "cdbb6050b3df75dd3412d352b317cab69cb85ed6df93801d82357743e5aeaf66",
+      "batch": "c"
+    },
+    {
+      "index": 164,
+      "file": "dogs-of-war.yaml",
+      "id": "dogs-of-war",
+      "name": "Dogs of War",
+      "sha256": "14113ee9f5f4a6fa9cddc7417e732529f835477e5c2d9c6e4d0c027b778e3db6",
+      "batch": "root"
+    },
+    {
+      "index": 165,
+      "file": "gambit-7.yaml",
+      "id": "gambit-7",
+      "name": "Gambit 7",
+      "sha256": "67e77a8db7c272ffbedc1ab288bed0efe6cc497eae7620697eb3961e933c4c57",
+      "batch": "a"
+    },
+    {
+      "index": 166,
+      "file": "shiftago.yaml",
+      "id": "shiftago",
+      "name": "Shiftago",
+      "sha256": "6408307359632e598d096eedc8d244237c985c1cc4123cd04ec2706416e3a41f",
+      "batch": "b"
+    },
+    {
+      "index": 167,
+      "file": "sorry-sliders.yaml",
+      "id": "sorry-sliders",
+      "name": "Sorry! Sliders",
+      "sha256": "2ac94587a525715cfb447bc447798dfb9c33bc1ff979aca18ce366ee175480d5",
+      "batch": "c"
+    },
+    {
+      "index": 168,
+      "file": "hippos-and-crocodiles.yaml",
+      "id": "hippos-and-crocodiles",
+      "name": "Hippos & Crocodiles",
+      "sha256": "04ae7d6112cd9ca1521ad88d3b75a9ca7815f45e13ac66cffaa01e180d3a0bb2",
+      "batch": "root"
+    },
+    {
+      "index": 169,
+      "file": "a-world-at-war.yaml",
+      "id": "a-world-at-war",
+      "name": "A World at War",
+      "sha256": "d3da8079a7b4ee0d519ba408d54676b52025e9813a00bb3b3c9127d5fb15da0d",
+      "batch": "a"
+    },
+    {
+      "index": 170,
+      "file": "message-in-a-bottle.yaml",
+      "id": "message-in-a-bottle",
+      "name": "Message in a Bottle",
+      "sha256": "1619e0ffa88275591120fc98e47007ef2b5298eb66f9208e1fe1e06c155159ed",
+      "batch": "b"
+    },
+    {
+      "index": 171,
+      "file": "truc-y-flou.yaml",
+      "id": "truc-y-flou",
+      "name": "Truc y flou",
+      "sha256": "4a9315ae4581db3e48ed35744c7dc136617dd331b2e438a0ec39f18ae7aa4846",
+      "batch": "c"
+    },
+    {
+      "index": 172,
+      "file": "statis-pro-baseball.yaml",
+      "id": "statis-pro-baseball",
+      "name": "Statis Pro Baseball",
+      "sha256": "ffc36b216287feccded51684905f15878f5089cbc291e26dd5ba7c65c75b0b57",
+      "batch": "root"
+    },
+    {
+      "index": 173,
+      "file": "the-next-war.yaml",
+      "id": "the-next-war",
+      "name": "The Next War",
+      "sha256": "9b8f87eee93a3549f31ca978250ee609da252133d098ee2f6dd759ef48adc185",
+      "batch": "a"
+    },
+    {
+      "index": 174,
+      "file": "lanterns-the-harvest-festival.yaml",
+      "id": "lanterns-the-harvest-festival",
+      "name": "Lanterns: The Harvest Festival",
+      "sha256": "49c64d9dc90dbe9b30776971d3f82559fda446b7744eec6e7db46f10428f38c2",
+      "batch": "b"
+    },
+    {
+      "index": 175,
+      "file": "catan-new-energies.yaml",
+      "id": "catan-new-energies",
+      "name": "Catan: New Energies",
+      "sha256": "a18c5f5f486d62414270fd9e25d23e78b413f08655f2ec0f3642e93fd082fa78",
+      "batch": "c"
+    },
+    {
+      "index": 176,
+      "file": "hues-and-cues.yaml",
+      "id": "hues-and-cues",
+      "name": "Hues and Cues",
+      "sha256": "b3ea47e5dd41f9ff52f50390b3b0d0f221cc1774291f2a3a027617ed1da767a3",
+      "batch": "root"
+    },
+    {
+      "index": 177,
+      "file": "1853.yaml",
+      "id": "1853",
+      "name": "1853",
+      "sha256": "e232b0caa7e79d0922442c55c0d8720a4e47bdb9c330feb4d926f7abe30e7e9b",
+      "batch": "a"
+    },
+    {
+      "index": 178,
+      "file": "shove-hapenny.yaml",
+      "id": "shove-hapenny",
+      "name": "Shove Ha'penny",
+      "sha256": "a9c16a5d07840f4d1267caea6e835b0373b869851618f9707f092932b4b9c3de",
+      "batch": "b"
+    },
+    {
+      "index": 179,
+      "file": "superfight.yaml",
+      "id": "superfight",
+      "name": "Superfight",
+      "sha256": "f233485acef22d60c4dfc767d84a9e6b5332ecac8003bafdcd82d8b03a46e6df",
+      "batch": "c"
+    },
+    {
+      "index": 180,
+      "file": "half-and-seek.yaml",
+      "id": "half-and-seek",
+      "name": "Half-and-Seek",
+      "sha256": "de95eb6b128e7b43adc8fcdf91aad3d008934aaf3ae96517adbfd0c7d162eeac",
+      "batch": "root"
+    },
+    {
+      "index": 181,
+      "file": "brilliant-lances.yaml",
+      "id": "brilliant-lances",
+      "name": "Brilliant Lances",
+      "sha256": "13831911354c2143c3849ce6b36fda5b073a7f7d9a86cbae2f444018eee1a185",
+      "batch": "a"
+    },
+    {
+      "index": 182,
+      "file": "water-lily.yaml",
+      "id": "water-lily",
+      "name": "Water Lily",
+      "sha256": "daed129cc56c7495c3ed45c575cefc39a9f7666351cec8f445a9e721d36491cb",
+      "batch": "b"
+    },
+    {
+      "index": 183,
+      "file": "dont-miss-the-boat.yaml",
+      "id": "dont-miss-the-boat",
+      "name": "Don't Miss the Boat!",
+      "sha256": "6ff1ad43651bd323ea2c3de6fb870c85db106b3e40b3c273e49bd05cc8c9b382",
+      "batch": "c"
+    },
+    {
+      "index": 184,
+      "file": "rhino-hero-super-battle.yaml",
+      "id": "rhino-hero-super-battle",
+      "name": "Rhino Hero: Super Battle",
+      "sha256": "ede5ddb4afaf31d38bb48f4134f86c9d806f1cf88f495a7e4df0cd88a0b98977",
+      "batch": "root"
+    },
+    {
+      "index": 185,
+      "file": "uisge.yaml",
+      "id": "uisge",
+      "name": "Uisge",
+      "sha256": "b5763e047b046c815ec144fdc6bb23e877319fc9e70a9d295e7b059deeb9d88f",
+      "batch": "a"
+    },
+    {
+      "index": 186,
+      "file": "boonlake.yaml",
+      "id": "boonlake",
+      "name": "Boonlake",
+      "sha256": "ba773e7a4664c51938b36f46c3a465b15f4c19c37d07cd3e9867df6d60349865",
+      "batch": "b"
+    },
+    {
+      "index": 187,
+      "file": "squander.yaml",
+      "id": "squander",
+      "name": "Squander",
+      "sha256": "4ac1f3634caa6d3de35015b42a3442280b5d7e02b4daddd3792d209281c4c0c7",
+      "batch": "c"
+    },
+    {
+      "index": 188,
+      "file": "de-kolonisten-van-de-lage-landen.yaml",
+      "id": "de-kolonisten-van-de-lage-landen",
+      "name": "De Kolonisten van de Lage Landen",
+      "sha256": "f4e114a8c639a00defa08731a9215b463b50c6567a31499ea375ef7650149b29",
+      "batch": "root"
+    },
+    {
+      "index": 189,
+      "file": "easy-money.yaml",
+      "id": "easy-money",
+      "name": "Easy Money",
+      "sha256": "371acd27af9b8891a56429747469be8b9728a7739fc3a0b260d860eff27a6eed",
+      "batch": "a"
+    },
+    {
+      "index": 190,
+      "file": "resan-genom-sagoland.yaml",
+      "id": "resan-genom-sagoland",
+      "name": "Resan genom Sagoland",
+      "sha256": "dab1395e5e8c5abf040866ce28db6a6f548bc2793d5879076f0f0d0db1d017f5",
+      "batch": "b"
+    },
+    {
+      "index": 191,
+      "file": "fearsome-floors.yaml",
+      "id": "fearsome-floors",
+      "name": "Fearsome Floors",
+      "sha256": "84f70969472b6db3f54d407219c2f5cf9869e04d2052449c9efcb2fe7596e42f",
+      "batch": "c"
+    },
+    {
+      "index": 192,
+      "file": "runebound.yaml",
+      "id": "runebound",
+      "name": "Runebound",
+      "sha256": "beb616bdab1bdd5c8ae0cf46dd2a991c4281a7a54cc18a019a98775e1b6c03a8",
+      "batch": "root"
+    },
+    {
+      "index": 193,
+      "file": "havana.yaml",
+      "id": "havana",
+      "name": "Havana",
+      "sha256": "b2a17b06fd394611a42d09ddadeb9acba5cbf483c78773162a86d97971fc48d1",
+      "batch": "a"
+    },
+    {
+      "index": 194,
+      "file": "tribond.yaml",
+      "id": "tribond",
+      "name": "TriBond",
+      "sha256": "23d1a64dfe88ec4322d4454e11e84441f4ee2bdd6cc89852b2a277e2dfef6dda",
+      "batch": "b"
+    },
+    {
+      "index": 195,
+      "file": "ghoulash.yaml",
+      "id": "ghoulash",
+      "name": "Ghoulash: The Last Game on Earth",
+      "sha256": "68a3ed637acfe51172af9bb8026a27c664bb419613840cf8b1a2981b625f8223",
+      "batch": "c"
+    },
+    {
+      "index": 196,
+      "file": "castle-panic.yaml",
+      "id": "castle-panic",
+      "name": "Castle Panic",
+      "sha256": "5d37c7061a19c92163ee51e6997159db471eff3cb5b3ef63a83cdc9eb472e065",
+      "batch": "root"
+    },
+    {
+      "index": 197,
+      "file": "colour-whist.yaml",
+      "id": "colour-whist",
+      "name": "Colour Whist",
+      "sha256": "ad5f5027d6e7cba407689e1ebc43e9d0f20cf5a062beecde80bb568583c23049",
+      "batch": "a"
+    },
+    {
+      "index": 198,
+      "file": "space-lines.yaml",
+      "id": "space-lines",
+      "name": "Space Lines",
+      "sha256": "5e1f02f03c273a218e072022d6b4c47a387380934ef5bd11300c615ed36c0de9",
+      "batch": "b"
+    },
+    {
+      "index": 199,
+      "file": "nuclear-destruction.yaml",
+      "id": "nuclear-destruction",
+      "name": "Nuclear Destruction",
+      "sha256": "8e1f4acaac48abd3acf1174469d66eadb1159cbe001b0da150acff445411bfc5",
+      "batch": "c"
+    },
+    {
+      "index": 200,
+      "file": "battle-masters.yaml",
+      "id": "battle-masters",
+      "name": "Battle Masters",
+      "sha256": "2237b9d6d2adad1a8b495493c7b7ff1aa6f4ac171cbedafcb5af143318063cc1",
+      "batch": "root"
+    }
+  ]
+}
