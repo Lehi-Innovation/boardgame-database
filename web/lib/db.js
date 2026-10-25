@@ -6,9 +6,12 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const initSqlJs = require('sql.js');
 
-const DB_PATH = path.join(__dirname, '..', '..', 'games.db');
+const ROOT_DIR = path.join(__dirname, '..', '..');
+const DB_PATH = path.join(ROOT_DIR, 'games.db');
+const GAMES_DIR = path.join(ROOT_DIR, 'games');
 const IMAGES_DIR = path.join(__dirname, '..', '..', 'images');
 
 // Cache image filenames (lowercased basename -> actual filename) for quick lookup
@@ -78,32 +81,83 @@ const THEMES = new Set([
 let db = null;
 let SQL = null;
 
+/** Hash exactly the top-level YAML files used by scripts/build_db.py. */
+function sourceSnapshot(gamesDir) {
+  const filenames = fs.readdirSync(gamesDir)
+    .filter(name => name.endsWith('.yaml'))
+    .sort((a, b) => Buffer.compare(Buffer.from(a, 'utf8'), Buffer.from(b, 'utf8')));
+  const digest = crypto.createHash('sha256');
+  for (const filename of filenames) {
+    const bytes = fs.readFileSync(path.join(gamesDir, filename));
+    digest.update(Buffer.from(filename, 'utf8'));
+    digest.update(Buffer.from([0]));
+    digest.update(crypto.createHash('sha256').update(bytes).digest());
+  }
+  return { count: filenames.length, digest: digest.digest('hex') };
+}
+
+function singleRow(conn, sql) {
+  const rows = conn.exec(sql);
+  if (rows.length !== 1 || rows[0].values.length !== 1) return null;
+  return Object.fromEntries(rows[0].columns.map((column, index) => [column, rows[0].values[0][index]]));
+}
+
+function validateDb(conn, gamesDir) {
+  const integrity = singleRow(conn, 'PRAGMA integrity_check');
+  if (!integrity || integrity.integrity_check !== 'ok') {
+    throw new Error(`SQLite integrity check failed: ${integrity ? JSON.stringify(integrity) : 'unexpected result'}`);
+  }
+  if (conn.exec('PRAGMA foreign_key_check').length !== 0) {
+    throw new Error('SQLite foreign key check failed');
+  }
+  const metadata = singleRow(conn, 'SELECT id, source_file_count, digest_format_version, source_digest FROM build_metadata');
+  if (!metadata || metadata.id !== 1) throw new Error('build metadata is missing or invalid');
+  if (metadata.digest_format_version !== 1) {
+    throw new Error(`unknown source digest format version: ${metadata.digest_format_version}`);
+  }
+  if (!Number.isSafeInteger(metadata.source_file_count) || metadata.source_file_count < 0 ||
+      typeof metadata.source_digest !== 'string' || !/^[a-f0-9]{64}$/.test(metadata.source_digest)) {
+    throw new Error('build metadata contains an invalid source count or digest');
+  }
+  const games = singleRow(conn, 'SELECT COUNT(*) AS count FROM games');
+  if (!games || games.count !== metadata.source_file_count) {
+    throw new Error('SQLite game row count does not match build metadata');
+  }
+  const source = sourceSnapshot(gamesDir);
+  if (metadata.source_file_count !== source.count) {
+    throw new Error(`source file count changed: cache has ${metadata.source_file_count}, games/ has ${source.count}`);
+  }
+  if (metadata.source_digest !== source.digest) {
+    throw new Error('source YAML digest changed since the cache was built');
+  }
+}
+
 /**
  * Initialize sql.js and load the database.
  */
-async function init() {
+async function init({ dbPath = process.env.BOARDGAME_DB_PATH || DB_PATH,
+                      gamesDir = process.env.BOARDGAME_GAMES_DIR || GAMES_DIR } = {}) {
   if (db) return db;
+  let candidate = null;
   try {
     if (!SQL) SQL = await initSqlJs();
-    if (!fs.existsSync(DB_PATH)) {
-      console.warn('games.db not found — run python3 scripts/build_db.py first');
-      return null;
-    }
-    const buffer = fs.readFileSync(DB_PATH);
-    db = new SQL.Database(buffer);
+    const buffer = fs.readFileSync(dbPath);
+    candidate = new SQL.Database(buffer);
+    validateDb(candidate, gamesDir);
+    db = candidate;
     return db;
   } catch (err) {
-    console.error('Failed to open games.db:', err.message);
-    return null;
+    if (candidate) candidate.close();
+    throw new Error(`Cannot use ${dbPath}: ${err.message}. Rebuild with python3 scripts/build_db.py and restart the legacy server.`, { cause: err });
   }
 }
 
 /**
  * Reload the database (e.g. after rebuild).
  */
-async function reopenDb() {
+async function reopenDb(options) {
   if (db) { try { db.close(); } catch (_) {} db = null; }
-  return init();
+  return init(options);
 }
 
 function getDb() { return db; }

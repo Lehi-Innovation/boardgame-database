@@ -1,6 +1,5 @@
 # Dependencies
 node_modules/
-/web/package-lock.json
 
 # IDE
 .vscode/
@@ -33,6 +32,10 @@ temp/
 dist/
 build/
 games.db
+/pipeline_cache.db
+/pipeline_cache.db-journal
+/pipeline_cache.db-wal
+/pipeline_cache.db-shm
 
 # Catalog development
 .next/
