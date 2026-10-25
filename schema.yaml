@@ -275,7 +275,7 @@ player_counts:
 # =============================================================================
 
 template:
-  id: ""                      # lowercase slug, e.g., "dominion"
+  id: ""                      # string slug; quote numeric IDs, e.g., '007'
   name: ""                    # Full display name
   alternate_names: []         # Other titles (translations, regional names)
   year: null                  # Publication year

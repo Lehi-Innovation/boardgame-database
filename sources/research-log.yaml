@@ -5028,23 +5028,23 @@ entries:
     url: "https://www.gamenerdz.com/butterfly-garden-preorder"
     description: "Game Nerdz listing — confirmed designer Reiner Knizia, artist SALEIGN, publisher Korea Boardgames, 2-4 players, age 8+, $39.95 MSRP, mechanics: Hexagon Grid, Network and Route Building, Point to Point Movement, Tile Placement"
 
-- game_id: calico
-  date: "2026-02-20"
-  urls:
-    - url: "https://www.alderac.com/calico/"
-      note: "AEG publisher page — confirmed designer Kevin Russ, artist Beth Sobel, publisher Flatout Games + AEG, 1-4 players, 30-45 min, ages 8+"
-    - url: "https://alderacstore.com/calico/"
-      note: "AEG store listing — confirmed 1-4 players, 30-45 min, $39.99 MSRP, ages 8+"
-    - url: "https://www.gamenerdz.com/calico"
-      note: "GameNerdz listing — confirmed mechanics: Enclosure, End Game Bonuses, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Tile Placement; designer Kevin Russ; Flatout Games publisher"
-    - url: "https://americantabletopawards.com/calico/"
-      note: "American Tabletop Awards — confirmed winner 2020-2021 award cycle; designer Kevin Russ; publisher Flatout Games"
-    - url: "https://opinionatedgamers.com/2021/01/07/calico-game-review-by-brandon-kempf/"
-      note: "Opinionated Gamers review — confirmed mechanics, complexity, tile drafting system, puzzle nature of gameplay, replayability"
-    - url: "https://frontlinegaming.org/2023/06/15/board-game-review-calico/"
-      note: "Frontline Gaming review — confirmed 30-45 min playtime, accessible complexity with strategic depth, hexagonal tile mechanics"
-    - url: "https://www.miniaturemarket.com/aeg6210.html"
-      note: "Miniature Market listing — confirmed AEG publisher, 1-4 players, 30-45 min, $39.99 MSRP"
+  - game_id: calico
+    date: "2026-02-20"
+    urls:
+      - url: "https://www.alderac.com/calico/"
+        note: "AEG publisher page — confirmed designer Kevin Russ, artist Beth Sobel, publisher Flatout Games + AEG, 1-4 players, 30-45 min, ages 8+"
+      - url: "https://alderacstore.com/calico/"
+        note: "AEG store listing — confirmed 1-4 players, 30-45 min, $39.99 MSRP, ages 8+"
+      - url: "https://www.gamenerdz.com/calico"
+        note: "GameNerdz listing — confirmed mechanics: Enclosure, End Game Bonuses, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Tile Placement; designer Kevin Russ; Flatout Games publisher"
+      - url: "https://americantabletopawards.com/calico/"
+        note: "American Tabletop Awards — confirmed winner 2020-2021 award cycle; designer Kevin Russ; publisher Flatout Games"
+      - url: "https://opinionatedgamers.com/2021/01/07/calico-game-review-by-brandon-kempf/"
+        note: "Opinionated Gamers review — confirmed mechanics, complexity, tile drafting system, puzzle nature of gameplay, replayability"
+      - url: "https://frontlinegaming.org/2023/06/15/board-game-review-calico/"
+        note: "Frontline Gaming review — confirmed 30-45 min playtime, accessible complexity with strategic depth, hexagonal tile mechanics"
+      - url: "https://www.miniaturemarket.com/aeg6210.html"
+        note: "Miniature Market listing — confirmed AEG publisher, 1-4 players, 30-45 min, $39.99 MSRP"
   - timestamp: "2026-02-20T00:00:00Z"
     game_id: cafe-baras
     url: "https://www.meeplemountain.com/reviews/cafe-baras/"
@@ -5066,29 +5066,29 @@ entries:
     url: "https://www.boardgames.ca/cafe-baras.html"
     description: "Boardgames.ca listing — confirmed KTBG publisher, $27.95 CAD retail price, SKU 210000047468"
 
-- game_id: campaign-manager-2008
-  date: "2026-02-20"
-  sources:
-  - timestamp: "2026-02-20T00:00:00Z"
-    game_id: campaign-manager-2008
-    url: "https://www.nobleknight.com/P/2147424095/Campaign-Manager-2008"
-    description: "Noble Knight Games listing — confirmed 2 players, 50 min, age 10+, designer Leonhard/Matthews, publisher Z-Man Games, year 2009"
-  - timestamp: "2026-02-20T00:00:00Z"
-    game_id: campaign-manager-2008
-    url: "https://dicetower.com/board-game/46255"
-    description: "Dice Tower listing — confirmed 2 players, 30-45 min, age 13, year 2009, publishers Gen-X Games and Z-Man Games, card-driven gameplay with negative campaign dice"
-  - timestamp: "2026-02-20T00:00:00Z"
-    game_id: campaign-manager-2008
-    url: "https://dailyworkerplacement.com/2020/10/30/you-should-really-play-digital-edition-campaign-manager-2008/"
-    description: "Daily Worker Placement review — confirmed artist Josh Cappel, 2 players, <1 hr, 20 swing states/4 active at once, 45-card pool with 15-card draft, 270 electoral votes to win"
-  - timestamp: "2026-02-20T00:00:00Z"
-    game_id: campaign-manager-2008
-    url: "https://www.boardgamereviewsbyjosh.com/2012/10/campaign-manager-2008-review.html"
-    description: "Board Game Reviews by Josh — confirmed Christian Leonhard and Jason Matthews designers, Z-Man Games publisher, deck drafting mechanic, negative campaigning with dice, rated 8/10"
-  - timestamp: "2026-02-20T00:00:00Z"
-    game_id: campaign-manager-2008
-    url: "https://www.coolstuffinc.com/p/139316"
-    description: "Cool Stuff Inc listing — confirmed 2 players, 30-48 min, age 13+, Z-Man Games, components: 90 campaign strategy cards, 20 breaking news cards, 20 battleground state tiles, Going Negative die"
+  - game_id: campaign-manager-2008
+    date: "2026-02-20"
+    sources:
+      - timestamp: "2026-02-20T00:00:00Z"
+        game_id: campaign-manager-2008
+        url: "https://www.nobleknight.com/P/2147424095/Campaign-Manager-2008"
+        description: "Noble Knight Games listing — confirmed 2 players, 50 min, age 10+, designer Leonhard/Matthews, publisher Z-Man Games, year 2009"
+      - timestamp: "2026-02-20T00:00:00Z"
+        game_id: campaign-manager-2008
+        url: "https://dicetower.com/board-game/46255"
+        description: "Dice Tower listing — confirmed 2 players, 30-45 min, age 13, year 2009, publishers Gen-X Games and Z-Man Games, card-driven gameplay with negative campaign dice"
+      - timestamp: "2026-02-20T00:00:00Z"
+        game_id: campaign-manager-2008
+        url: "https://dailyworkerplacement.com/2020/10/30/you-should-really-play-digital-edition-campaign-manager-2008/"
+        description: "Daily Worker Placement review — confirmed artist Josh Cappel, 2 players, <1 hr, 20 swing states/4 active at once, 45-card pool with 15-card draft, 270 electoral votes to win"
+      - timestamp: "2026-02-20T00:00:00Z"
+        game_id: campaign-manager-2008
+        url: "https://www.boardgamereviewsbyjosh.com/2012/10/campaign-manager-2008-review.html"
+        description: "Board Game Reviews by Josh — confirmed Christian Leonhard and Jason Matthews designers, Z-Man Games publisher, deck drafting mechanic, negative campaigning with dice, rated 8/10"
+      - timestamp: "2026-02-20T00:00:00Z"
+        game_id: campaign-manager-2008
+        url: "https://www.coolstuffinc.com/p/139316"
+        description: "Cool Stuff Inc listing — confirmed 2 players, 30-48 min, age 13+, Z-Man Games, components: 90 campaign strategy cards, 20 breaking news cards, 20 battleground state tiles, Going Negative die"
 
   - timestamp: "2026-02-20T00:00:00Z"
     game_id: captain-flip

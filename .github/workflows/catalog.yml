@@ -17,8 +17,13 @@ jobs:
           node-version-file: .nvmrc
           cache: npm
           cache-dependency-path: web/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - run: npm ci --prefix web
+      - run: pip install -r tests/requirements.txt
       - run: npm test --prefix web
+      - run: python -m unittest discover -s tests -p 'test_*.py' -v
       - run: npm audit --prefix web --audit-level=high
 
   name-compatibility:

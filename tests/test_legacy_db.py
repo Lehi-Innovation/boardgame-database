@@ -63,7 +63,7 @@ class LegacyDatabaseTests(unittest.TestCase):
 
     def write_game(self, filename, game_id, name, evoke):
         (self.source / filename).write_text(
-            f"id: {game_id}\n"
+            f"id: {json.dumps(game_id)}\n"
             f"name: {name}\n"
             "year: 2020\n"
             "designer: [Ada]\n"
@@ -136,6 +136,8 @@ class LegacyDatabaseTests(unittest.TestCase):
             "missing-id.yaml": "name: Missing ID\n",
             "missing-name.yaml": "id: missing-name\n",
             "zz-duplicate.yaml": "id: alpha\nname: Duplicate\n",
+            "unquoted-id.yaml": "id: 007\nname: Unquoted ID\n",
+            "boolean-id.yaml": "id: true\nname: Boolean ID\n",
         }
         for filename, contents in cases.items():
             with self.subTest(filename=filename):
@@ -146,6 +148,42 @@ class LegacyDatabaseTests(unittest.TestCase):
                         self.build(), previous_hash, filename)
                 finally:
                     path.unlink()
+
+    def test_yaml_loader_rejects_non_string_ids_without_coercion(self):
+        (self.source / "unquoted.yaml").write_text(
+            "id: 007\nname: Unquoted\n", encoding="utf-8")
+        script = (
+            "require('./web/lib/yaml-handler.js').loadAllGames()"
+            ".then(games => console.log(JSON.stringify(games.map(game => game.id))));"
+        )
+        env = {**os.environ, "BOARDGAME_GAMES_DIR": str(self.source)}
+        result = subprocess.run(["node", "-e", script], cwd=ROOT,
+                                env=env, capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(set(json.loads(result.stdout)), {"alpha", "beta"})
+        self.assertIn("unquoted.yaml", result.stderr)
+
+    def test_quoted_numeric_ids_survive_sqlite_and_real_http_reads(self):
+        numeric_ids = ["007", "7", "0", "1829", "9007199254740993123"]
+        for game_id in numeric_ids:
+            self.write_game(f"{game_id}.yaml", game_id, f"Numeric {game_id}", "Mystery")
+        self.good_cache_hash()
+        expected = {"alpha", "beta", *numeric_ids}
+        with sqlite3.connect(self.db_path) as conn:
+            rows = conn.execute("SELECT id, typeof(id) FROM games").fetchall()
+            self.assertEqual({row[0] for row in rows}, expected)
+            self.assertTrue(all(row[1] == "text" for row in rows))
+        process, port = self.start_server()
+        self.assertIsNone(process.poll())
+        for endpoint in ["/api/games", "/api/games/query"]:
+            result = self.get_json(port, endpoint)
+            games = result if isinstance(result, list) else result["games"]
+            self.assertEqual({game["id"] for game in games}, expected)
+            self.assertTrue(all(type(game["id"]) is str for game in games))
+        for game_id in numeric_ids:
+            game = self.get_json(port, f"/api/games/{game_id}")
+            self.assertEqual(game["id"], game_id)
+            self.assertEqual(game["name"], f"Numeric {game_id}")
 
     def test_source_change_during_build_keeps_previous_database(self):
         previous_hash = self.good_cache_hash()

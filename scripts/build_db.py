@@ -162,12 +162,10 @@ def source_digest(source_dir):
 
 
 def sqlite_id(value):
-    """Match SQLite's TEXT affinity for supported YAML identifiers."""
+    """Keep lexical identity intact instead of accepting YAML number coercion."""
     if isinstance(value, str) and value.strip():
         return value
-    if isinstance(value, int) and not isinstance(value, bool):
-        return str(value)
-    raise ValueError('id must be a nonempty string or integer')
+    raise ValueError('id must be a nonempty string; quote numeric IDs')
 
 
 def load_yaml_files(source_dir):

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
 
-const GAMES_DIR = path.join(__dirname, '../../games');
+const GAMES_DIR = process.env.BOARDGAME_GAMES_DIR || path.join(__dirname, '../../games');
 const IMAGES_DIR = path.join(__dirname, '../../images');
 const SOURCES_LISTS_DIR = path.join(__dirname, '../../sources/lists');
 const MASTER_LIST_CSV = path.join(__dirname, '../../master_list.csv');
@@ -37,36 +37,38 @@ async function loadAllGames() {
         const content = fs.readFileSync(filePath, 'utf8');
         const gameData = yaml.load(content);
 
-        if (gameData && gameData.id) {
-          // Resolve this game's image file (exact basename, any extension)
-          const imageFile = (gameData.name && gameData.year != null)
-            ? imageMap.get(`${gameData.name} (${gameData.year})`.toLowerCase()) || null
-            : null;
-
-          games.push({
-            id: gameData.id,
-            name: gameData.name,
-            year: gameData.year,
-            designer: gameData.designer || [],
-            publisher: gameData.publisher || [],
-            categories: gameData.categories || [],
-            evokes: gameData.evokes || [],
-            description: gameData.description,
-            has_image: imageFile != null,
-            image_url: imageFile ? `/api/images/${encodeURIComponent(imageFile)}` : null,
-            playtime_minutes: gameData.playtime_minutes,
-            min_age: gameData.min_age,
-            possible_counts: gameData.possible_counts || [],
-            true_counts: gameData.true_counts || [],
-            rules_complexity: gameData.rules_complexity,
-            strategic_depth: gameData.strategic_depth,
-            feel: gameData.feel,
-            length: gameData.length,
-            value: gameData.value,
-            affinity: gameData.affinity,
-            hotness: gameData.hotness
-          });
+        if (!gameData || typeof gameData.id !== 'string' || !gameData.id.trim()) {
+          throw new Error('id must be a nonempty string; quote numeric IDs');
         }
+
+        // Resolve this game's image file (exact basename, any extension)
+        const imageFile = (gameData.name && gameData.year != null)
+          ? imageMap.get(`${gameData.name} (${gameData.year})`.toLowerCase()) || null
+          : null;
+
+        games.push({
+          id: gameData.id,
+          name: gameData.name,
+          year: gameData.year,
+          designer: gameData.designer || [],
+          publisher: gameData.publisher || [],
+          categories: gameData.categories || [],
+          evokes: gameData.evokes || [],
+          description: gameData.description,
+          has_image: imageFile != null,
+          image_url: imageFile ? `/api/images/${encodeURIComponent(imageFile)}` : null,
+          playtime_minutes: gameData.playtime_minutes,
+          min_age: gameData.min_age,
+          possible_counts: gameData.possible_counts || [],
+          true_counts: gameData.true_counts || [],
+          rules_complexity: gameData.rules_complexity,
+          strategic_depth: gameData.strategic_depth,
+          feel: gameData.feel,
+          length: gameData.length,
+          value: gameData.value,
+          affinity: gameData.affinity,
+          hotness: gameData.hotness
+        });
       } catch (err) {
         console.error(`Error loading game file ${file}:`, err.message);
       }

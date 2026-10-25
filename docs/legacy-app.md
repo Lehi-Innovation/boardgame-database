@@ -10,6 +10,13 @@ in-memory YAML cache. Editing YAML does not refresh either running cache.
 See [schema.yaml](../schema.yaml) for legacy field definitions;
 [master_list.csv](../master_list.csv) tracks discovery and research progress.
 
+IDs must be nonempty YAML strings. Quote numeric-looking IDs, for example
+`id: '007'`, to preserve their exact text. The SQLite builder rejects numeric
+IDs; the YAML browser logs and skips records with non-string IDs. Both read
+paths return string IDs, and detail URLs use the same text, including leading
+zeros. `BOARDGAME_GAMES_DIR` selects an alternate local source directory for
+both readers; its SQLite cache must be built from that same directory.
+
 ## Build and run
 
 From the repository root, with Python 3 and PyYAML installed:
@@ -62,12 +69,28 @@ working `games.db` as a test fixture. From the repository root, run the
 regression suite, which uses temporary directories:
 
 ```sh
-python3 -m unittest discover -s tests -p test_legacy_db.py -v
+python3 -m unittest discover -s tests -p 'test_*.py' -v
 ```
+
+The Python test dependency is pinned in `tests/requirements.txt`. CI runs these
+tests alongside the legacy HTTP/security tests. Coverage includes distinct
+`007`/`7` IDs, zero and large string IDs, rejection of unquoted IDs, and real
+HTTP reads through both YAML and SQLite.
 
 The September 26 rebuild and endpoint results are in the
 [archived quality handoff](archive/2026-09/legacy-database-quality-handoff.md).
-That review also records a separate numeric-YAML-ID detail-route issue; the
-cache repair did not change legacy identity conversion. The old
+The numeric-YAML-ID issue recorded there was repaired on October 24 by quoting
+all six affected IDs and rejecting future numeric coercion. The old
 [legacy guides](legacy/README.md) describe earlier workflows and may contain
 historical counts or superseded instructions.
+
+## Research citations
+
+`sources/research-log.yaml` is one mapping with an `entries` list. Most entries
+contain `timestamp`, `game_id`, `url`, and `description`. Two historical groups
+retain their original shape: Calico has a date and a `urls` list of URL/note
+pairs; Campaign Manager 2008 has a date and five `sources` entries. Readers must
+traverse those lists too. All 2,510 original citations retain their game IDs,
+URLs, exact descriptions/notes, dates, and order after the indentation repair.
+The log records research history; its descriptions do not establish reviewed
+field-level evidence or factual approval.
