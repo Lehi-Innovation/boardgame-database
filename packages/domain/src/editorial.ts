@@ -1,7 +1,7 @@
 import { CatalogRecord, ProposalContent, type z } from '@catalog/contracts';
 import { canonicalJson, validateProposal, type Finding } from './index.ts';
 
-export const VALIDATOR_VERSION = 'm2.1';
+export const VALIDATOR_VERSION = 'm2.2';
 export class CommandError extends Error {
   constructor(public status: number, public code: string, message: string, public fields?: unknown) { super(message); }
 }
@@ -32,6 +32,11 @@ export function checkSubmission(content: z.infer<typeof ProposalContent>, approv
   for (const target of content.targets) {
     const old = before.get(target.entity_id);
     const current = target.payload;
+    if (old?.state === 'active' && old.entity_type === 'asset' && current.state === 'active' && current.entity_type === 'asset') {
+      for (const field of ['edition_id', 'original', 'renditions'] as const) {
+        if (canonicalJson(old[field]) !== canonicalJson(current[field])) errors.push({ entity_id: current.id, path: `/${field}`, code: 'immutable_asset', message: 'Changed artwork or edition requires a new asset ID. Rights, attribution and withdrawal can be revised.' });
+      }
+    }
     const diff = changesBetween(old, current).map(change => ({ ...change, entity_id: target.entity_id }));
     changes.push(...diff);
     const evidenceKeys = target.evidence.map(item => `${item.path}:${item.source_id}`);
@@ -41,6 +46,8 @@ export function checkSubmission(content: z.infer<typeof ProposalContent>, approv
       // on its tombstone and cannot carry new field citations; dependent edits still can.
       if (current.state === 'merged') continue;
       const field = change.path.split('/')[1]!;
+      // These are computed from decoded bytes; review still checks the image itself.
+      if (current.entity_type === 'asset' && ['original', 'renditions'].includes(field)) continue;
       if (nonFactual.has(field) || current.entity_type === 'assessment' || current.entity_type === 'taxonomy') continue;
       // Missing optional assertions are allowed on new records; removing an existing fact needs explanation.
       if (!old && (change.after === null || (Array.isArray(change.after) && !change.after.length))) continue;

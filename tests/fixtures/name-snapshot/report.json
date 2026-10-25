@@ -1,0 +1,79 @@
+{
+  "dataset_version": "sha256:f40a2f91553e39a4e56fcc96a29bc2cf04750935c5c88a7351e3493b34637a5b",
+  "counts": {
+    "source_files": 7,
+    "records": 5,
+    "aliases": 4,
+    "deferred_records": 2,
+    "omitted_aliases": 3
+  },
+  "omissions": [
+    {
+      "source_id": "legacy_yaml:malformed-alias",
+      "index": 1,
+      "reason": "alias is not a nonempty plain name string"
+    },
+    {
+      "source_id": "legacy_yaml:malformed-alias",
+      "index": 2,
+      "reason": "alias is not a nonempty plain name string"
+    },
+    {
+      "source_id": "legacy_yaml:malformed-alias",
+      "index": 3,
+      "reason": "alias is not a nonempty plain name string"
+    }
+  ],
+  "collisions": [
+    {
+      "normalized_title": "synthetic unresolved",
+      "source_ids": [
+        "legacy_yaml:ambiguous-a",
+        "legacy_yaml:ambiguous-b"
+      ],
+      "resolution": "deferred"
+    },
+    {
+      "normalized_title": "synthetic twin",
+      "source_ids": [
+        "legacy_yaml:twin-a",
+        "legacy_yaml:twin-b"
+      ],
+      "resolution": "legacy_year"
+    }
+  ],
+  "deferred_source_ids": [
+    "legacy_yaml:ambiguous-a",
+    "legacy_yaml:ambiguous-b"
+  ],
+  "source_files": [
+    [
+      "games/007.yaml",
+      "2264792e498852193d6eb31fed075c2e5580c8d956b01302c5dc3dec979d8a68"
+    ],
+    [
+      "games/ambiguous-a.yaml",
+      "2a547b974414cd155c23263fa6e7e703a09040f3a3dd48d78dd9d404c1cec55f"
+    ],
+    [
+      "games/ambiguous-b.yaml",
+      "2a547b974414cd155c23263fa6e7e703a09040f3a3dd48d78dd9d404c1cec55f"
+    ],
+    [
+      "games/malformed-alias.yaml",
+      "fb70f5a238598ff987ec310ae3717e41a02a3ed9394374756381e6b1c4cad9b2"
+    ],
+    [
+      "games/twin-a.yaml",
+      "78e667d87797a08ff50b62d66ee250b22785cb6e8cfe8653c369056fb65287d1"
+    ],
+    [
+      "games/twin-b.yaml",
+      "3a128b3899f01fbe8a3772c9e9f87e27f1ee218e35382447019d7600619e89ac"
+    ],
+    [
+      "games/unicode.yaml",
+      "c4e83963d2e2ab95bc3827e9ed3bd8adf5c400d3eddb0f2f07ca93bee011abe7"
+    ]
+  ]
+}

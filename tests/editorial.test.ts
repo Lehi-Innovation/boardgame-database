@@ -5,7 +5,9 @@ import { sql } from 'drizzle-orm';
 import { connectDatabase, EditorialService, type CatalogDatabase } from '@catalog/database';
 import { CommandError, contentHash, type Actor } from '@catalog/domain';
 import { ProposalContent, type CatalogRecord } from '@catalog/contracts';
-import { game, sourceFixture } from './fixtures/catalog.js';
+import { game, edition, sourceFixture } from './fixtures/catalog.js';
+import { assetFixture } from './fixtures/images.ts';
+import { compileEntry, ImportManifest, importProposal, sourceHash, type ImportCommands } from '../scripts/lib/legacy-import.ts';
 
 const connection = connectDatabase(process.env.CATALOG_TEST_DATABASE_URL!);
 const db = connection.db;
@@ -40,6 +42,83 @@ before(async () => {
   await db.execute(sql`insert into editorial.maintainers(user_id,reason) values (${maintainer.userId},'Synthetic tests')`);
 });
 after(() => connection.close());
+
+test('covers pass through human review with edition references and immutable approved history', async () => {
+  const gameId = randomUUID(), editionId = randomUUID(), assetId = randomUUID(), sourceId = randomUUID();
+  const records = [
+    { ...game(1), id: gameId, default_edition_id: editionId },
+    { ...edition(101, 1), id: editionId, game_id: gameId, cover_asset_id: assetId },
+    { ...assetFixture(), id: assetId, edition_id: editionId },
+  ];
+  const proposed = ProposalContent.parse({ title: 'Synthetic game and cover', origin: 'import', rationale: 'Check edition match and downstream permissions.',
+    sources: [{ ...sourceFixture, id: sourceId }], targets: records.map(payload => ({ entity_id: payload.id, base_revision_id: null, payload,
+      evidence: Object.keys(payload).map(field => ({ path: `/${field}`, source_id: sourceId, note: 'Synthetic evidence for workflow verification.' })) })) });
+  const item = await submit(proposed);
+  assert.ok(!(await service.records(author)).some(record => record.entity_id === assetId));
+  const decision = await reviewInput(item);
+  await assert.rejects(service.review(author, decision), expect(403));
+  await service.review(maintainer, decision);
+  const approved = (await service.records(author)).find(record => record.entity_id === assetId)!;
+  assert.deepEqual(approved.payload, records[2]);
+  const refs = await db.execute(sql`select target_id,target_type from editorial.revision_references where revision_id=${approved.revision_id}`);
+  assert.ok(refs.some(ref => ref.target_id === editionId && ref.target_type === 'edition'));
+  const changed = structuredClone(records[2]!);
+  if (changed.entity_type !== 'asset') throw new Error('Expected asset fixture');
+  changed.original.sha256 = 'e'.repeat(64);
+  const altered = ProposalContent.parse({ ...proposed, targets: [{ ...proposed.targets[2], base_revision_id: approved.revision_id, payload: changed }] });
+  const draft = await service.save(author, { proposal_id: randomUUID(), expected_version: 0, content: altered });
+  await assert.rejects(service.submit(author, { proposal_id: draft.id, expected_version: draft.version }), expect(422));
+  assert.deepEqual((await service.records(author)).find(record => record.entity_id === assetId), approved);
+});
+
+test('repeatable importer uses editorial versions, permissions, immutable review, and stale-base checks', async () => {
+  const bytes = Buffer.from('id: 007\nname: Synthetic imported game\n');
+  const input = content('Synthetic imported game');
+  const manifest = ImportManifest.parse({ format_version: 1, dataset: 'synthetic', legacy_commit: 'a'.repeat(40),
+    consumer: { name: 'Synthetic', commit: 'b'.repeat(40), path: 'seeds', source_hash: sourceHash('seeds') },
+    entries: [{ legacy_id: '007', source_hash: sourceHash(bytes), candidate: { name: '007', identifiers: [] },
+      game_id: input.targets[0]!.entity_id, edition_id: null, proposal_id: randomUUID(),
+      identity: { status: 'prepared', rationale: 'Synthetic mapping only.' },
+      prepared: { expected_version: 0, expected_content_hash: null, content: input } }],
+  });
+  const entry = manifest.entries[0]!;
+  const commands = (who: Actor): ImportCommands => ({
+    async detail(id) {
+      try { return await service.detail(who, id); }
+      catch (error) { if (error instanceof CommandError && error.status === 404) return null; throw error; }
+    },
+    save: input => service.save(who, input), submit: input => service.submit(who, input),
+  });
+  const plan = compileEntry(manifest, entry, bytes);
+  const [first, retry] = await Promise.all([
+    importProposal(entry, plan, commands(author), true), importProposal(entry, plan, commands(author), true),
+  ]);
+  assert.equal(first.version, 1); assert.equal(retry.version, 1);
+  await assert.rejects(importProposal(entry, plan, commands(stranger)), expect(409));
+  await assert.rejects(importProposal(entry, plan, commands(maintainer)), expect(409));
+  assert.ok(!(await service.records(author)).some(row => row.entity_id === entry.game_id));
+  const changed = Buffer.concat([bytes, Buffer.from('# New source bytes\n')]);
+  entry.source_hash = sourceHash(changed);
+  entry.prepared!.expected_version = 1; entry.prepared!.expected_content_hash = plan.content_hash;
+  const next = compileEntry(manifest, entry, changed);
+  assert.equal((await importProposal(entry, next, commands(author), true)).version, 2);
+  const detail = await service.detail(author, entry.proposal_id);
+  assert.equal(detail.versions.length, 2);
+  assert.ok(detail.events.some(row => row.event === 'version_withdrawn'));
+  const validation = await service.validate(maintainer, { proposal_id: entry.proposal_id, expected_version: 2 });
+  await service.review(maintainer, { proposal_id: entry.proposal_id, expected_version: 2, submitted_hash: validation.submitted_hash,
+    validation_id: validation.id, decision: 'approve', reason: 'Synthetic human evidence review.', idempotency_key: randomUUID() });
+  assert.equal((await importProposal(entry, next, commands(author), true)).state, 'approved');
+  const original = (await service.records(author)).find(row => row.entity_id === entry.game_id)!;
+  entry.prepared!.content.title = 'A later import';
+  await assert.rejects(importProposal(entry, compileEntry(manifest, entry, changed), commands(author)), /terminal/);
+  // An explicit successor preserves IDs; the normal server rejects a stale base.
+  entry.proposal_id = randomUUID(); entry.prepared!.expected_version = 0; entry.prepared!.expected_content_hash = null;
+  const successor = compileEntry(manifest, entry, changed, (await service.records(author)).map(row => row.payload));
+  await assert.rejects(importProposal(entry, successor, commands(author), true), expect(409));
+  assert.deepEqual((await service.records(author)).find(row => row.entity_id === entry.game_id), original);
+  await assert.rejects(importProposal(entry, next, commands({ ...author, expiresAt: 0 })), expect(401));
+});
 
 test('quick intake accepts minimal and messy input without changing the catalog; retries and triage are authorized', async () => {
   const before = await service.records(author);

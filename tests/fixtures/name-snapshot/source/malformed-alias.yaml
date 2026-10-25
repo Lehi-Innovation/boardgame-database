@@ -1,0 +1,6 @@
+name: "Synthetic Alias"
+alternate_names:
+  - Good Alias
+  - Broken: Mapping
+  - [nested]
+  - " "

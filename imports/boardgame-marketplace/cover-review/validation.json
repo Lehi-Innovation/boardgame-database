@@ -1,0 +1,33 @@
+{
+  "status": "passed-offline-research-checks",
+  "research_date_local": "2026-09-20",
+  "checked_at_utc": "2026-09-21T06:28:48.151Z",
+  "prepared_manifest_sha256": "4c5a8dddd551e9ade46cdcc4cea8fbdda9db1d92daed1abff1b63dcf8c485d58",
+  "research_sha256": "353d562e776a119d1814ae242da8441f18d4524b3443739cea3c82ccc1f33450",
+  "checks": {
+    "identity_drafts": 20,
+    "proposed_editions": 18,
+    "unresolved_editions": 2,
+    "import_preparation_blockers": 0,
+    "graph_or_evidence_errors": 0,
+    "warning_counts": {
+      "human_review_required": 20
+    },
+    "original_ids_source_hashes_and_candidate_clues_preserved": true,
+    "original_manifest_unchanged": true,
+    "verified_original_images": 20,
+    "technical_pass": 19,
+    "visual_holds": 3,
+    "source_snapshot_hash_checks": 41,
+    "unit_tests_passed": 44,
+    "unit_tests_failed": 0,
+    "approved_assets": 0,
+    "cover_proposals": 0
+  },
+  "limitations": [
+    "Offline editorial validation used an empty approved-record context; current server records and proposal versions must be checked before save/submit.",
+    "Technical validation and preparer visual inspection are not maintainer approval or permission evidence.",
+    "Source captures and original image bytes are local ignored research files; the checked-in packet retains metadata and URLs.",
+    "No database, release, host, consumer, or remote CI verification was performed in this research task."
+  ]
+}

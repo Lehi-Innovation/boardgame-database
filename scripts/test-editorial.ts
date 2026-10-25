@@ -8,6 +8,7 @@ import postgres from 'postgres';
 import { chromium, expect, type Browser, type Page } from '@playwright/test';
 import { localSupabase } from './lib/local-supabase.js';
 import { game, sourceFixture } from '../tests/fixtures/catalog.js';
+import { compileEntry, editorialClient, ImportManifest, importProposal, sourceHash } from './lib/legacy-import.ts';
 
 // Real HTTP through Next.js and real Supabase Auth. Only generated accounts/IDs are written.
 // Cleanup uses a local admin connection, disables immutable triggers in its transaction only,
@@ -69,6 +70,30 @@ async function main() {
     await call('proposals/save',403,author,{}, {Origin:'https://unrelated.example'});
     await call('proposals/save',401,undefined,{}, {Cookie:`access_token=${author.token}`});
     console.log('PASS Next.js sign-in identity, invalid/anonymous/cookie-only rejection, metadata isolation, origin checks, private caching');
+    const importBytes=Buffer.from('id: 007\nname: HTTP synthetic import\n');
+    const importId=randomUUID(),importEntity=randomUUID(),importSource=randomUUID();
+    proposals.push(importId);entities.push(importEntity);sources.push(importSource);
+    const importManifest=ImportManifest.parse({format_version:1,dataset:'synthetic-http',legacy_commit:'a'.repeat(40),
+      consumer:{name:'Synthetic',commit:'b'.repeat(40),path:'seeds',source_hash:sourceHash('seeds')},
+      entries:[{legacy_id:'007',source_hash:sourceHash(importBytes),candidate:{name:'007',identifiers:[]},
+        game_id:importEntity,edition_id:null,proposal_id:importId,identity:{status:'prepared',rationale:'Synthetic HTTP identity.'},
+        prepared:{expected_version:0,expected_content_hash:null,content:{title:'HTTP synthetic import',rationale:'Synthetic source supports the name.',origin:'import',
+          sources:[{...sourceFixture,id:importSource}],targets:[{entity_id:importEntity,base_revision_id:null,payload:{...game(918),id:importEntity,name:'HTTP synthetic import'},evidence:[{path:'/name',source_id:importSource,note:null}]}]}}}],
+    });
+    const importEntry=importManifest.entries[0]!,importPlan=compileEntry(importManifest,importEntry,importBytes);
+    let lostImportResponse=false;
+    const importer=editorialClient(origin,author.token,async(input,init)=>{
+      const response=await fetch(input,init);
+      if(!lostImportResponse && String(input).endsWith('/proposals/save') && response.ok){lostImportResponse=true;await response.arrayBuffer();throw new Error('Simulated lost importer save response');}
+      return response;
+    });
+    assert.equal((await importProposal(importEntry,importPlan,importer,true)).version,1);
+    assert.equal((await importProposal(importEntry,importPlan,importer,true)).version,1);
+    assert.equal(lostImportResponse,true);
+    await assert.rejects(importProposal(importEntry,importPlan,editorialClient(origin,other.token)));
+    assert.equal((await importer.detail(importId))!.state,'submitted');
+    assert.ok(!(await importer.records()).some(row=>row.entity_id===importEntity));
+    console.log('PASS authenticated importer: lost-response recovery, repeated submission, ownership, no automatic approval');
     const content={title:'HTTP synthetic game',rationale:'Synthetic rulebook supports the name.',origin:'human',sources:[{...sourceFixture,id:sourceId}],targets:[{entity_id:entityId,base_revision_id:null,payload:{...game(919),id:entityId,name:'HTTP synthetic game'},evidence:[{path:'/name',source_id:sourceId,note:'Page 2'}]}]};
     const save={proposal_id:proposalId,expected_version:0,content};
     await call('proposals/save',400,author,{...save,state:'approved'});

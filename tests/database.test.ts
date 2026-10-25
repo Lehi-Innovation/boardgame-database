@@ -3,9 +3,11 @@ import { after, test } from 'node:test';
 import postgres from 'postgres';
 import { drizzle } from 'drizzle-orm/postgres-js';
 import { sql as query } from 'drizzle-orm';
-import { insertApprovedRevision, readPublishedDocument, schema } from '@catalog/database';
+import { insertApprovedRevision, readPublishedDocument, readPublishedRecords, schema } from '@catalog/database';
 import { contentHash, referencesOf } from '@catalog/domain';
 import { catalogFixture, game, id, sourceFixture } from './fixtures/catalog.js';
+import { assetFixture, coverOptions } from './fixtures/images.ts';
+import { buildCoverSnapshot } from '../packages/domain/src/images.ts';
 
 if (!process.env.CATALOG_TEST_DATABASE_URL) throw new Error('Use npm run test:db; this file requires a disposable migrated database');
 const sql = postgres(process.env.CATALOG_TEST_DATABASE_URL, { max: 1, prepare: false, onnotice: () => {} });
@@ -13,7 +15,7 @@ after(() => sql.end());
 const db = drizzle(sql, { schema });
 type Transaction = Parameters<Parameters<typeof db.transaction>[0]>[0];
 const rollback = new Error('Roll back test fixture');
-const records = catalogFixture();
+const records = [...catalogFixture().map(record => record.id === id(101) ? { ...record, cover_asset_id: id(200) } : record), assetFixture()];
 const revisionId = (entityId: string) => id(Number(entityId.slice(-12)) + 1000);
 const proposalId = id(800);
 const approvalId = id(801);
@@ -120,6 +122,17 @@ test('reader sees ready snapshots only; editorial and publisher privileges are s
   await tx.execute(query`reset role`);
   await tx.execute(query`set local role catalog_publisher`);
   await rejects(tx, '42501', t => t.execute(query`insert into editorial.entities(id,entity_type) values (${id(99999)}, 'game')`));
+}));
+test('cover exporter reads only a complete frozen release using the reader role', () => isolated(async tx => {
+  await release(tx, 'r000001', true);
+  await release(tx, 'r000002');
+  await tx.execute(query`set local role catalog_reader`);
+  await assert.rejects(readPublishedRecords(tx, 'r000002'), /not ready/);
+  await assert.rejects(readPublishedRecords(tx, 'r999999'), /not ready/);
+  const snapshot = buildCoverSnapshot(await readPublishedRecords(tx, 'r000001'), coverOptions);
+  assert.equal(snapshot.counts.available, 1);
+  assert.equal(snapshot.records.find(row => row.game_id === id(1))?.cover?.asset_id, id(200));
+  assert.equal(snapshot.records.find(row => row.game_id === id(1))?.cover?.edition_id, id(101));
 }));
 test('ready release contents and membership remain immutable', () => isolated(async tx => {
   await release(tx, 'r000001', true);

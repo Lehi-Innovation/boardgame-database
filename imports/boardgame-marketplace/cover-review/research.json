@@ -1,0 +1,1303 @@
+{
+  "format_version": 1,
+  "research_date_local": "2026-09-20",
+  "timezone": "America/Phoenix",
+  "accessed_on_utc": "2026-09-21",
+  "status": "unapproved_research",
+  "source_manifest": "imports/boardgame-marketplace/manifest.json",
+  "source_manifest_sha256": "cd411bb30baa0f1fe285a17db6ca96225fa34f160311b481f7fc593265693894",
+  "counts": {
+    "games": 20,
+    "identity_drafts": 20,
+    "proposed_editions": 18,
+    "unresolved_editions": 2,
+    "downloaded_candidates": 20,
+    "technically_valid_candidates": 19,
+    "visually_held_candidates": 3,
+    "approved_assets": 0,
+    "cover_proposals": 0
+  },
+  "entries": [
+    {
+      "legacy_id": "wingspan",
+      "game_id": "506babbd-94e8-4695-ae38-e43b8f78325e",
+      "proposal_id": "ebf2976c-71d5-4054-8f18-e3c7c1aad532",
+      "candidate_name": "Wingspan",
+      "proposed_game_name": "Wingspan",
+      "proposed_edition_id": "6cc34f72-1140-5b1e-83cc-bddae2d2ad4d",
+      "proposed_edition_name": "Wingspan — Stonemaier English base game",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns.",
+      "publisher_group": "stonemaier",
+      "source_page": "https://store.stonemaiergames.com/products/wingspan",
+      "sources": [
+        {
+          "url": "https://store.stonemaiergames.com/products/wingspan",
+          "final_url": "https://store.stonemaiergames.com/products/wingspan",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/wingspan.html",
+          "sha256": "3c51b76925ef6addbf949138fecc9ed5c441cc619184b79a092fafdd74541a75"
+        },
+        {
+          "url": "https://stonemaiergames.com/about/retailer-information/",
+          "final_url": "https://stonemaiergames.com/about/retailer-information/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/stonemaier-retailer-information.html",
+          "sha256": "0c01df0b5f227416219ac7e35c747c9c4ed84e137ce993467f1a1e43c9a25ece"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.stonemaiergames.com/cdn/shop/products/3d-wingspan_1024x1024.png?v=1569132201",
+        "acquired_at": "2026-09-21T06:17:12.805331+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/wingspan",
+        "sha256": "b8235e745415fd0c4a1b92a9092220684f6965cb9c283c40f69fb3d0b85e950b",
+        "bytes": 1141445,
+        "width": 811,
+        "height": 1024,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single English Wingspan box, complete front visible in a perspective rendering.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.stonemaiergames.com/products/wingspan",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://stonemaiergames.com/about/retailer-information/",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "terraforming-mars",
+      "game_id": "81f2248a-27d2-4e5d-9be9-2397e0cb9f84",
+      "proposal_id": "dfdf7956-a168-4a61-9b7e-dc7bff1ca89f",
+      "candidate_name": "Terraforming Mars",
+      "proposed_game_name": "Terraforming Mars",
+      "proposed_edition_id": "9eb3453c-a2b3-577d-8324-d54817d6233f",
+      "proposed_edition_name": "Terraforming Mars — English base game, Stronghold/FryxGames box",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game.",
+      "publisher_group": "fryxgames",
+      "source_page": "https://fryxgames.se/product/terraforming-mars/",
+      "sources": [
+        {
+          "url": "https://fryxgames.se/product/terraforming-mars/",
+          "final_url": "https://fryxgames.se/product/terraforming-mars/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/terraforming-mars.html",
+          "sha256": "d5324e14d7554935862923ce8f2821b682b65c2fcc06e115c8c60a9a7a7ac96c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://fryxgames.se/wp-content/uploads/2023/08/TM.png",
+        "acquired_at": "2026-09-21T06:17:14.449112+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/terraforming-mars",
+        "sha256": "f0afd4d5db2898225d6a8fef0aa0d292d36d0b081e50b0f9da05a4477abadd1f",
+        "bytes": 1387469,
+        "width": 988,
+        "height": 988,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single orange English base-game box; title and publisher marks visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://fryxgames.se/product/terraforming-mars/",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": null,
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "gloomhaven",
+      "game_id": "65eccf26-21ae-4f96-86e6-419438b70a21",
+      "proposal_id": "b3e643ce-83ec-4a59-9666-e071f6d6fb45",
+      "candidate_name": "Gloomhaven",
+      "proposed_game_name": "Gloomhaven",
+      "proposed_edition_id": null,
+      "proposed_edition_name": null,
+      "identity_status": "game_draft_only_edition_unresolved",
+      "identity_rationale": "Retain the reserved identity for the original Gloomhaven candidate. The historical publisher explanation distinguishes original printings from a new edition. The current product and announcement describe redesigned classes, scenarios and a new reputation system. Do not assign its artwork to the original without a maintainer decision under the substantial-redesign rule. No edition is proposed in this batch.",
+      "publisher_group": "cephalofair",
+      "source_page": "https://cephalofair.com/blogs/chronicle/new-printing-not-new-edition",
+      "sources": [
+        {
+          "url": "https://cephalofair.com/blogs/chronicle/new-printing-not-new-edition",
+          "final_url": "https://cephalofair.com/blogs/chronicle/new-printing-not-new-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/gloomhaven-printing.html",
+          "sha256": "d3dbf550808d0b1edb691d99b6b3fccdfeaaebcf9c0349797a1e923d721855ce"
+        },
+        {
+          "url": "https://cephalofair.com/blogs/chronicle/cephalofair-games-announces-gloomhaven-second-edition",
+          "final_url": "https://cephalofair.com/blogs/chronicle/cephalofair-games-announces-gloomhaven-second-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/gloomhaven-announcement-confirmed.html",
+          "sha256": "766508b8716f7599b76e94decd369b03ebf0e731ca4261a5593aa4780bc0d4a6"
+        },
+        {
+          "url": "https://cephalofair.com/products/gloomhaven-2nd-edition-preorder",
+          "final_url": "https://cephalofair.com/products/gloomhaven-board-game-2nd-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/gloomhaven-second.html",
+          "sha256": "2465a98727a2719b485ca48ae44cd786b9d59b781f8162e9f08a8969af8a84a3"
+        },
+        {
+          "url": "https://cephalofair.com/policies/terms-of-service",
+          "final_url": "https://cephalofair.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/cephalofair-terms.html",
+          "sha256": "37d3d7a3e1ae60d1ba0cb416b5a99271f3469cfbf3a8f5b266cc9f9e6d5569e1"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://cephalofair.com/cdn/shop/files/Gloomhaven_GRY_2048.jpg?v=1780958549&width=2048",
+        "acquired_at": "2026-09-21T06:17:12.791812+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/gloomhaven",
+        "sha256": "37b13539fd173d580b977af38626530ba68be922a456749ec1c327259eb2a92d",
+        "bytes": 638194,
+        "width": 2048,
+        "height": 2048,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "New Gloomhaven box from the current second-edition product; rejected for association to the original candidate.",
+        "visual_status": "held",
+        "source_page": "https://cephalofair.com/products/gloomhaven-board-game-2nd-edition",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://cephalofair.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Obtain an official original-edition front cover and establish its printing/language, or separately review the new design identity.",
+        "Canonical edition remains unresolved.",
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "azul",
+      "game_id": "7ada73dd-9aa9-4292-a59a-fd25256708f2",
+      "proposal_id": "88135f80-22e3-4948-afc0-5a241a9840ee",
+      "candidate_name": "Azul",
+      "proposed_game_name": "Azul",
+      "proposed_edition_id": "a10d29ca-eb6a-5498-b4ab-e5868af6a0dd",
+      "proposed_edition_name": "Azul — Next Move base game NM6010",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The distributor identifies the standard base game by SKU NM6010. Keep language and printing unknown pending packaging/rulebook confirmation. Do not use Azul Mini, Duel or Summer Pavilion artwork.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/azul",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/azul",
+          "final_url": "https://store.asmodee.com/products/azul",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/azul.html",
+          "sha256": "94e612c619eae0a98afa2e00f72f7a231e9eb1114852ef2df6adddfc1793c7b5"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/products/NM6010-1.jpg?v=1690217148",
+        "acquired_at": "2026-09-21T06:17:12.824441+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/azul",
+        "sha256": "93f0c99f74ebdd20e1f2171093c3a3c8050928c67e026a87e972eac20bfc8dea",
+        "bytes": 374819,
+        "width": 1024,
+        "height": 1024,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single standard Azul mosaic box, front visible in perspective.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/azul",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "scythe",
+      "game_id": "2b222331-6108-4215-8458-f3696e1aa26b",
+      "proposal_id": "417ca816-142a-4284-b1ad-9bb58392a087",
+      "candidate_name": "Scythe",
+      "proposed_game_name": "Scythe",
+      "proposed_edition_id": "fd331b63-baa8-560d-aabb-ebfd74317edf",
+      "proposed_edition_name": "Scythe — Stonemaier English base game",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown.",
+      "publisher_group": "stonemaier",
+      "source_page": "https://store.stonemaiergames.com/products/scythe",
+      "sources": [
+        {
+          "url": "https://store.stonemaiergames.com/products/scythe",
+          "final_url": "https://store.stonemaiergames.com/products/scythe",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/scythe.html",
+          "sha256": "d53a1daa101c32e07dc019b192321383d5d07310986ecc5180eb178cd731a7c1"
+        },
+        {
+          "url": "https://stonemaiergames.com/about/retailer-information/",
+          "final_url": "https://stonemaiergames.com/about/retailer-information/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/stonemaier-retailer-information.html",
+          "sha256": "0c01df0b5f227416219ac7e35c747c9c4ed84e137ce993467f1a1e43c9a25ece"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.stonemaiergames.com/cdn/shop/products/3d-scythe_1024x1024.png?v=1551977466",
+        "acquired_at": "2026-09-21T06:17:13.448564+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/scythe",
+        "sha256": "1a6e005a7fd1b29cddc75c1fccc7939b63b1e2b3b660559caf66ee27a4a5efd6",
+        "bytes": 1610243,
+        "width": 1024,
+        "height": 1023,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single standard Scythe box with complete front and left side.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.stonemaiergames.com/products/scythe",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://stonemaiergames.com/about/retailer-information/",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "brass-birmingham",
+      "game_id": "9d96a662-7e4b-4899-b7d8-9310e882b377",
+      "proposal_id": "a2a1f275-9be9-4cfb-a4cb-1acd1e085434",
+      "candidate_name": "Brass: Birmingham",
+      "proposed_game_name": "Brass: Birmingham",
+      "proposed_edition_id": "7b7bd8ed-2f4e-5a09-b06b-db19365886f3",
+      "proposed_edition_name": "Brass: Birmingham — retail edition",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "Roxley explicitly distinguishes retail (standard box/cardboard money) from deluxe (gold-embossed box/Iron Clays). Propose retail; verify the supplied rendering belongs to that option during artwork review. Do not substitute Lancashire or the upcoming Collector's Edition. Printing/language remains unasserted.",
+      "publisher_group": "roxley",
+      "source_page": "https://roxley.com/products/brass-birmingham",
+      "sources": [
+        {
+          "url": "https://roxley.com/products/brass-birmingham",
+          "final_url": "https://roxley.com/products/brass-birmingham",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/brass-birmingham.html",
+          "sha256": "d3d3120657c33d346f67eb10f3af32004f2ba895a471beb1e4c35d81d4536be3"
+        },
+        {
+          "url": "https://roxley.com/pages/media-assets",
+          "final_url": "https://roxley.com/pages/media-assets",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/roxley-media.html",
+          "sha256": "a08f1428276e08ca3d720fdcbfd584438e9d438663c6696c56e525b81c30db53"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://cdn.shopify.com/s/files/1/0246/2190/8043/products/top-section-product-image-alt.png?v=1581282813",
+        "acquired_at": "2026-09-21T06:17:13.393674+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/brass-birmingham",
+        "sha256": "d0bfc9dee65c9325041df90366ebaba82316d5b3923f5f2beeeb8c75afbabab8",
+        "bytes": 1622692,
+        "width": 1000,
+        "height": 1000,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single Brass: Birmingham box; foil finish cannot be established from the rendering.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://roxley.com/products/brass-birmingham",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://roxley.com/pages/media-assets",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "spirit-island",
+      "game_id": "bd65e613-5a00-48e0-9527-bd16bba505da",
+      "proposal_id": "ee2e42b2-675c-4a49-bf64-1a8527fc6e39",
+      "candidate_name": "Spirit Island",
+      "proposed_game_name": "Spirit Island",
+      "proposed_edition_id": "7104b2c1-9cbe-511d-b64d-4b0d9d8ac32e",
+      "proposed_edition_name": "Spirit Island — Greater Than Games base game",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The publisher's base-game product is distinct from Horizons, Nature Incarnate and other expansions. Use the standard base-game box, with precise printing and language pending packaging confirmation.",
+      "publisher_group": "greater-than-games",
+      "source_page": "https://shop.greaterthangames.com/products/spirit-island",
+      "sources": [
+        {
+          "url": "https://shop.greaterthangames.com/products/spirit-island",
+          "final_url": "https://shop.greaterthangames.com/products/spirit-island",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/spirit-island.html",
+          "sha256": "827367a057f60368657a947b272dcf978adc38ee5d71ed641a3ab2a78ee6cb53"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://shop.greaterthangames.com/cdn/shop/files/SISL-CORE-1.jpg?v=1764774526",
+        "acquired_at": "2026-09-21T06:17:13.614690+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/spirit-island",
+        "sha256": "a55e2ebeff8863a19ccfe3630ecbc9fd6c52e01aeed62d373e461b6333798814",
+        "bytes": 400206,
+        "width": 2000,
+        "height": 2000,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single Spirit Island core-game box; full front is visible with white margin.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://shop.greaterthangames.com/products/spirit-island",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": null,
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "everdell",
+      "game_id": "8a80f5ea-1aee-4d12-a694-a5eb02c1e88c",
+      "proposal_id": "4520b903-90c1-4f7b-985d-30e0b18a26e0",
+      "candidate_name": "Everdell",
+      "proposed_game_name": "Everdell",
+      "proposed_edition_id": "e24990f7-ebb2-53ec-a88f-6b6d4687c05e",
+      "proposed_edition_name": "Everdell — Standard Edition STG2668EN",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The older third-edition URL redirects to Tycoon Games, whose current page names Standard Edition and supplies STG2668EN. Use that product identity; do not infer a third-edition printing solely from the URL. Keep Collector's, Complete Collection, Farshore and Silverfrost separate.",
+      "publisher_group": "tycoon",
+      "source_page": "https://www.tabletoptycoon.com/products/everdell-standard-edition-3rd-edition",
+      "sources": [
+        {
+          "url": "https://www.tabletoptycoon.com/products/everdell-standard-edition-3rd-edition",
+          "final_url": "https://tycoongames.com/products/everdell-standard-edition-3rd-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/everdell.html",
+          "sha256": "056fca02dab57bab64f710afe873315e920b38aeadd3bcf9a7f31d9dc8367b70"
+        },
+        {
+          "url": "https://tycoongames.com/pages/media",
+          "final_url": "https://tycoongames.com/pages/media-application",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/tycoon-media.html",
+          "sha256": "0cd4c71a5f4eb172a0a136aeef950546f8471e27980af331a3cd42a5416d0917"
+        },
+        {
+          "url": "https://tycoongames.com/pages/terms-of-service",
+          "final_url": "https://tycoongames.com/pages/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/tycoon-terms.html",
+          "sha256": "317ba2680dc5c9d7295f8e17e2fd2188ba04f038fb6bc26d7ca46ad6edb3d6c5"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://tycoongames.com/cdn/shop/files/Everdell-Standard-Edition-FlatCover-_01.webp?v=1772549363",
+        "acquired_at": "2026-09-21T06:17:13.919973+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/everdell",
+        "sha256": "9903332eec33558b4eb994395d384fad5afe5438e9534df85124ab8f8e37ff89",
+        "bytes": 685398,
+        "width": 2832,
+        "height": 2832,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Flat square Everdell front cover with Starling Games mark; no crop or perspective conversion needed.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://www.tabletoptycoon.com/products/everdell-standard-edition-3rd-edition",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://tycoongames.com/pages/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "viticulture-essential-edition",
+      "game_id": "7d0cb483-e063-4bf4-bdcc-704c99e5c62b",
+      "proposal_id": "5f306031-0991-4246-a379-443c2e2d19d6",
+      "candidate_name": "Viticulture Essential Edition",
+      "proposed_game_name": "Viticulture",
+      "proposed_edition_id": "d7734c86-b2b8-5670-8533-feeede70ca9a",
+      "proposed_edition_name": "Viticulture — Essential Edition, English",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml.",
+      "publisher_group": "stonemaier",
+      "source_page": "https://store.stonemaiergames.com/products/viticulture-essential-edition",
+      "sources": [
+        {
+          "url": "https://store.stonemaiergames.com/products/viticulture-essential-edition",
+          "final_url": "https://store.stonemaiergames.com/products/viticulture-essential-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/viticulture-essential-edition.html",
+          "sha256": "ea353e90cdcd3cb15a29ead89f462a35d7f27b2e13b9d9951dad67d08428456c"
+        },
+        {
+          "url": "https://stonemaiergames.com/games/viticulture/essential-edition/",
+          "final_url": "https://stonemaiergames.com/games/viticulture/essential-edition/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/viticulture-identity-confirmed.html",
+          "sha256": "baa5c2e8608df8c8e75c8a6302f56bf2b681a745cc6ad948cddbff50ea017fe6"
+        },
+        {
+          "url": "https://stonemaiergames.com/about/retailer-information/",
+          "final_url": "https://stonemaiergames.com/about/retailer-information/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/stonemaier-retailer-information.html",
+          "sha256": "0c01df0b5f227416219ac7e35c747c9c4ed84e137ce993467f1a1e43c9a25ece"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.stonemaiergames.com/cdn/shop/files/ViticultureBoardGame_1024x1024.png?v=1706204516",
+        "acquired_at": "2026-09-21T06:17:14.510814+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/viticulture-essential-edition",
+        "sha256": "b6e1410d3bf9c047af539bf527b6e97c61997bb4fb3e643f36270f31802ed758",
+        "bytes": 1551322,
+        "width": 1022,
+        "height": 1024,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single English Viticulture Essential Edition box; edition wording is visible on the front.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.stonemaiergames.com/products/viticulture-essential-edition",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://stonemaiergames.com/about/retailer-information/",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "7-wonders",
+      "game_id": "8dc0a117-2726-4f1a-acee-d70020170e10",
+      "proposal_id": "9ff083ca-0c79-4d65-8a73-7fcb7634e7a2",
+      "candidate_name": "7 Wonders",
+      "proposed_game_name": "7 Wonders",
+      "proposed_edition_id": "79f87157-0fbd-5827-bfab-4876a43d18dd",
+      "proposed_edition_name": "7 Wonders — New Edition SV01EN",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "Propose New Edition SV01EN within the existing design. Repos distinguishes it from the older edition by balancing, ergonomics and metallic title treatment, and advises against mixing their expansions. No compatibility relationship or legacy-file merge is asserted; the edition choice needs maintainer review.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/7-wonders-new-edition",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/7-wonders-new-edition",
+          "final_url": "https://store.asmodee.com/products/7-wonders-new-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/7-wonders-english.html",
+          "sha256": "dd9cd9e2de32a3cf9951eb6268e218240b65ffd79671701799c2a356a28bdaf5"
+        },
+        {
+          "url": "https://www.rprod.com/en/7-wonders/faq",
+          "final_url": "https://www.rprod.com/en/7-wonders/faq",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/7-wonders-faq.html",
+          "sha256": "f59571195e58668fd8f18239b5194f36dea60717978f0c50818d9688ba45b3f8"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/files/SV01-image1_2000.jpg?v=1690406357",
+        "acquired_at": "2026-09-21T06:17:14.474908+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/7-wonders",
+        "sha256": "57110b9ea932f9a45e7a3f4d3f55a347fc2275bb191413e3561655231d508942",
+        "bytes": 442385,
+        "width": 2000,
+        "height": 2000,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single New Edition box with gold title; product SKU comes from the source page.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/7-wonders-new-edition",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "dominion",
+      "game_id": "61a60472-7ba2-4180-9d92-2e6bbc3838e2",
+      "proposal_id": "591c99c7-155f-45b7-a6a3-b59fc879e5e3",
+      "candidate_name": "Dominion",
+      "proposed_game_name": "Dominion",
+      "proposed_edition_id": "b802d9e1-57fa-5e6a-b795-04e093c27f1d",
+      "proposed_edition_name": "Dominion — Second Edition",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The publisher explicitly identifies Second Edition and describes six replaced cards, one added card and presentation changes. Propose another edition of the same design under the modest-update policy. No merge of dominion-second-edition.yaml is performed.",
+      "publisher_group": "rio-grande",
+      "source_page": "https://www.riograndegames.com/games/dominion/",
+      "sources": [
+        {
+          "url": "https://www.riograndegames.com/games/dominion/",
+          "final_url": "https://www.riograndegames.com/games/dominion/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/dominion.html",
+          "sha256": "3e50eef4f95f1d9f528472dcf8ff56ff0721192c43d1e08e9b720588b6109a47"
+        },
+        {
+          "url": "https://www.riograndegames.com/terms-of-use/",
+          "final_url": "https://www.riograndegames.com/terms-of-use/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/rio-terms.html",
+          "sha256": "86e00c65298eb53981ab31e2f9102cc06b7cd5e3c1977ded5b079c87d99002c3"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://www.riograndegames.com/wp-content/uploads/2016/09/Dominion_2ndE_box_3d.png",
+        "acquired_at": "2026-09-21T06:17:14.424979+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/dominion",
+        "sha256": "005e04b07339e4bbd4536da33444684ac2100b5685f7ace41d6048167fda501f",
+        "bytes": 355242,
+        "width": 920,
+        "height": 946,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single Dominion box with SECOND EDITION printed on the front.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://www.riograndegames.com/games/dominion/",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://www.riograndegames.com/terms-of-use/",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "splendor",
+      "game_id": "254a0b1c-d50d-4c8b-a5dc-72825d0fd565",
+      "proposal_id": "1659e2eb-8c3b-4ee4-b7f4-5436c8dfc5d0",
+      "candidate_name": "Splendor",
+      "proposed_game_name": "Splendor",
+      "proposed_edition_id": "e70f295a-cd9d-5e0a-9dea-ca88314285e7",
+      "proposed_edition_name": "Splendor — Space Cowboys SPL01",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "Use the specific distributor SKU SPL01 and pictured base-game packaging. Do not infer the original publication year for this packaging revision, and do not substitute Duel or Marvel.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/splendor",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/splendor",
+          "final_url": "https://store.asmodee.com/products/splendor",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/splendor.html",
+          "sha256": "5b813fdf5397c60ebc1021041e4f629dc84cccb20fe7f93b8635cff297de65c1"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/files/SPL01-image0_2000.jpg?v=1720014566",
+        "acquired_at": "2026-09-21T06:17:14.909093+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/splendor",
+        "sha256": "abc9fcda7d74b21f49d26b1bd072787836342751655973b26458c0ed17c55d87",
+        "bytes": 325436,
+        "width": 2000,
+        "height": 2000,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single yellow-bordered Splendor box; full front visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/splendor",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "codenames",
+      "game_id": "9edeaa3a-038d-4875-a5e5-cc825b0ac4df",
+      "proposal_id": "f7125555-1f0e-4faa-ab8c-c72deabab3ff",
+      "candidate_name": "Codenames",
+      "proposed_game_name": "Codenames",
+      "proposed_edition_id": "fcd3fc77-7b59-5632-a8ed-60aa316ce594",
+      "proposed_edition_name": "Codenames — refreshed English edition CGE00125",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link.",
+      "publisher_group": "cge",
+      "source_page": "https://www.czechgames.com/for-press-games/codenames",
+      "sources": [
+        {
+          "url": "https://www.czechgames.com/for-press-games/codenames",
+          "final_url": "https://www.czechgames.com/for-press-games/codenames",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/codenames.html",
+          "sha256": "8d2f2caf317f1999515d938b4d996d9f49ab2cbbb8424e9c9f49b116a6794d0e"
+        },
+        {
+          "url": "https://www.czechgames.com/for-press-games",
+          "final_url": "https://www.czechgames.com/for-press-games",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/cge-press.html",
+          "sha256": "19822c2247905eea7ccc709ee232f3d3ae3fe58baac76d66fdd33c673cf2719e"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/683628f1faacab84950b1961_CN%203D%20box%20ENwebp.webp",
+        "acquired_at": "2026-09-21T06:17:14.932256+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/codenames",
+        "sha256": "d7a292d425f983c1430abab12ace36e6d890e284b4bd1ae81232f51ffe441246",
+        "bytes": 211460,
+        "width": 1352,
+        "height": 2000,
+        "format": "webp",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single red/blue refreshed English Codenames box, complete front visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://www.czechgames.com/for-press-games/codenames",
+        "approval_status": "unapproved",
+        "media_type": "image/webp"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://www.czechgames.com/for-press-games",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "the-castles-of-burgundy",
+      "game_id": "60433ca5-c2ab-45b6-a6ca-6de9047ba81e",
+      "proposal_id": "e4d2d79a-ae6d-4370-9228-c32a8758a541",
+      "candidate_name": "The Castles of Burgundy",
+      "proposed_game_name": "The Castles of Burgundy",
+      "proposed_edition_id": null,
+      "proposed_edition_name": null,
+      "identity_status": "game_draft_only_edition_unresolved",
+      "identity_rationale": "The US publisher page lists reissue article 26925 and EAN 4005556269259. Its linked cover visibly has a German title, and the downloaded file is below minimum dimensions. Do not assert an English edition or associate this image to one. Keep the edition unresolved until language/product correspondence is confirmed.",
+      "publisher_group": "ravensburger",
+      "source_page": "https://www.ravensburger.us/en-US/products/games/family-games/the-castles-of-burgundy-26925",
+      "sources": [
+        {
+          "url": "https://www.ravensburger.us/en-US/products/games/family-games/the-castles-of-burgundy-26925",
+          "final_url": "https://www.ravensburger.us/en-US/products/games/family-games/the-castles-of-burgundy-26925",
+          "retrieval": "web-tool-only",
+          "http_status": 403,
+          "local_html": null,
+          "sha256": null
+        }
+      ],
+      "image_candidate": {
+        "url": "https://ravensburger.cloud/images/product-cover/310x250/Strategy-Game-The-Castles-of-Burgundy-Game-for-kids-12-years-up-26925.webp",
+        "acquired_at": "2026-09-21T06:17:15.877461+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/the-castles-of-burgundy",
+        "sha256": "554b510a29ed0427e852e8e7f7ccb3fa8921bf343f506ca34d9b3437b09f0bbb",
+        "bytes": 3972,
+        "width": 171,
+        "height": 250,
+        "format": "webp",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": false,
+        "visual_inspection": "German-titled Die Burgen von Burgund box, only 171 by 250 pixels. Fails long-edge and short-edge thresholds; do not upscale.",
+        "visual_status": "held",
+        "source_page": "https://www.ravensburger.us/en-US/products/games/family-games/the-castles-of-burgundy-26925",
+        "approval_status": "unapproved",
+        "media_type": "image/webp"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": null,
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Obtain a correctly language-matched front cover at least 500 pixels long and 200 pixels short, and confirm the precise reissue.",
+        "Canonical edition remains unresolved.",
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "ticket-to-ride",
+      "game_id": "a6b66495-fa9e-40f5-8244-7d3dd24bc1ae",
+      "proposal_id": "5f45a7dd-c6cf-4de7-b3e2-ac9227dfec1f",
+      "candidate_name": "Ticket to Ride",
+      "proposed_game_name": "Ticket to Ride",
+      "proposed_edition_id": "4a186758-09a5-5a10-8a6a-4937381d0841",
+      "proposed_edition_name": "Ticket to Ride — Refresh DOW7201N",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The distributor now identifies the North America base game as Refresh DOW7201N. Use that packaging-specific edition, not legacy DOW7201, Europe or another map game. Unknown publication year and language remain unasserted.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/ticket-to-ride-refresh",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/ticket-to-ride-refresh",
+          "final_url": "https://store.asmodee.com/products/ticket-to-ride-refresh",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/ticket-to-ride-refresh.html",
+          "sha256": "a6b8dc5b8b07a3a4e5dfe7971cf6d557ff0efb58a795d86d7e9297fcb4450941"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/files/DOW7201N-image0_2000.jpg?v=1749737534",
+        "acquired_at": "2026-09-21T06:17:14.955206+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/ticket-to-ride",
+        "sha256": "0f4da36b973e82fa93ea1bc80ce7fe778c1f4a6754dc89c5abe938a0789e8344",
+        "bytes": 501721,
+        "width": 2000,
+        "height": 2000,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single refreshed Ticket to Ride base-game box with white upper border.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/ticket-to-ride-refresh",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "pandemic",
+      "game_id": "f624bcd1-c084-4c06-b90d-3b9e6775f2de",
+      "proposal_id": "149d9015-56d7-449b-a7da-94610da8eb6d",
+      "candidate_name": "Pandemic",
+      "proposed_game_name": "Pandemic",
+      "proposed_edition_id": "30a0ecf6-9a3a-5ef7-a760-bc74b0aa03e4",
+      "proposed_edition_name": "Pandemic — Z-Man base game ZM7101",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The official distributor distinguishes standard Pandemic SKU ZM7101 from the Legacy games. Use this package identity; do not copy the legacy first-release year onto the edition.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/pandemic",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/pandemic",
+          "final_url": "https://store.asmodee.com/products/pandemic",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/pandemic.html",
+          "sha256": "99d010160f4054c2ee185306f54db0aadb26b96dc295f1784c80a76106b0cc46"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/products/ZM7101-1.jpg?v=1690222944",
+        "acquired_at": "2026-09-21T06:17:14.972395+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/pandemic",
+        "sha256": "4a716b39b4a8db95f27da467a479bc87a1bf3faed7aacc6aee72b326b41ea5a9",
+        "bytes": 200492,
+        "width": 1024,
+        "height": 1024,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single Pandemic base-game box with full front visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/pandemic",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "catan",
+      "game_id": "18b3637a-9b38-4055-bf7b-5c3dc25c2e23",
+      "proposal_id": "5c9b4b16-be64-4a7d-a66a-a36a5b7443dc",
+      "candidate_name": "Catan",
+      "proposed_game_name": "Catan",
+      "proposed_edition_id": "c456fed6-012f-5259-a247-23191cc1e97a",
+      "proposed_edition_name": "CATAN — The Game, sixth edition",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The official page labels the pictured box as sixth edition. The compatibility page describes changed artwork, box sizes and components across English editions. Propose an edition of the existing design; preserve Catan's legacy source key and do not treat every older Settlers box as this edition.",
+      "publisher_group": "catan",
+      "source_page": "https://www.catan.com/catan",
+      "sources": [
+        {
+          "url": "https://www.catan.com/catan",
+          "final_url": "https://www.catan.com/catan",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/catan.html",
+          "sha256": "53dfa4e2d7e235c8dff2a3bb2f4290569d365b343f91279161956ab088735b63"
+        },
+        {
+          "url": "https://www.catan.com/compatibility",
+          "final_url": "https://www.catan.com/compatibility",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/catan-compatibility.html",
+          "sha256": "6310a92f93d38826bb4b7ad01c2ff23c08afcde7542015ac479a544498f2bcbd"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://www.catan.com/sites/default/files/2025-04/3DBox_CATAN_BaseGame_NE.png",
+        "acquired_at": "2026-09-21T06:17:16.590348+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/catan",
+        "sha256": "8d163e0d16322b258f5f6ee6500f8126a9532a1a17079f9a3a9382abaf356f9b",
+        "bytes": 740025,
+        "width": 800,
+        "height": 800,
+        "format": "png",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single sixth-edition red CATAN The Game box, complete front visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://www.catan.com/catan",
+        "approval_status": "unapproved",
+        "media_type": "image/png"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": null,
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "carcassonne",
+      "game_id": "f4fe327d-626c-48ce-ba98-94dfa2072e01",
+      "proposal_id": "56d971b1-c123-46dc-ac78-35f2a2b55ea2",
+      "candidate_name": "Carcassonne",
+      "proposed_game_name": "Carcassonne",
+      "proposed_edition_id": "b79f220f-70d9-587b-87ca-be542c325e56",
+      "proposed_edition_name": "Carcassonne — base game with River and Abbot ZM7810",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The distributor identifies ZM7810 and states that River and Abbot are included. Select this base-game edition, not Big Box or a standalone expansion; no game-level expansion relationship is inferred from bundled modules.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/carcassonne",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/carcassonne",
+          "final_url": "https://store.asmodee.com/products/carcassonne",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/carcassonne.html",
+          "sha256": "5d417a5f5776bd3b7b8787e63bcbb9c116a0a3e6e33f1039a6819766a0982463"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/products/ZM7810-1.jpg?v=1690217588",
+        "acquired_at": "2026-09-21T06:17:15.354149+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/carcassonne",
+        "sha256": "bbfee6e4f80f5033ddfb0bc2351498c9559f78059dec9057a702a8ed161ad8b4",
+        "bytes": 213349,
+        "width": 1024,
+        "height": 1024,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single blue Carcassonne base-game box, complete front visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/carcassonne",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "pandemic-legacy-season-1",
+      "game_id": "385a3718-efb5-4d6a-bd70-bbf83ca7d8ed",
+      "proposal_id": "9e3c1e35-e604-49a8-87a3-f24c2656cfd4",
+      "candidate_name": "Pandemic Legacy: Season 1",
+      "proposed_game_name": "Pandemic Legacy: Season 1",
+      "proposed_edition_id": "4398c86a-4691-513b-b2a8-d59d5f940699",
+      "proposed_edition_name": "Pandemic Legacy: Season 1 — Blue Edition ZM7170",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The distributor describes a standalone campaign and says red/blue boxes have identical contents with different covers. Keep Season 1 as a separate design from Pandemic; propose Blue Edition ZM7170 specifically. Do not substitute red artwork or assert compatibility/expansion edges.",
+      "publisher_group": "asmodee",
+      "source_page": "https://store.asmodee.com/products/pandemic-legacy-season-1-blue-edition",
+      "sources": [
+        {
+          "url": "https://store.asmodee.com/products/pandemic-legacy-season-1-blue-edition",
+          "final_url": "https://store.asmodee.com/products/pandemic-legacy-season-1-blue-edition",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/pandemic-legacy-season-1.html",
+          "sha256": "80489b0a49816a70607261520c21fad6efa82d0a38447c4e2984bf1ee59a0582"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://store.asmodee.com/cdn/shop/products/ZM7170-image0_2000.jpg?v=1691433532",
+        "acquired_at": "2026-09-21T06:17:15.443002+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/pandemic-legacy-season-1",
+        "sha256": "112076764f85fec779cc196887995bb3f5df7401a3f72de7e9a8a72ee1ae4f29",
+        "bytes": 804701,
+        "width": 2000,
+        "height": 2000,
+        "format": "jpeg",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Single blue Season 1 box; subtitle and blue treatment visible.",
+        "visual_status": "candidate_for_human_review",
+        "source_page": "https://store.asmodee.com/products/pandemic-legacy-season-1-blue-edition",
+        "approval_status": "unapproved",
+        "media_type": "image/jpeg"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    },
+    {
+      "legacy_id": "pandemic-legacy-season-2",
+      "game_id": "3d5ce0f6-0b8f-473c-ae14-351912f014b0",
+      "proposal_id": "cc148956-3b3b-4536-9761-93ab7dbc1947",
+      "candidate_name": "Pandemic Legacy: Season 2",
+      "proposed_game_name": "Pandemic Legacy: Season 2",
+      "proposed_edition_id": "ea1c9072-3e61-5be2-9e91-e0d6146bdcb7",
+      "proposed_edition_name": "Pandemic Legacy: Season 2 — Black Edition",
+      "identity_status": "draft_prepared",
+      "identity_rationale": "The publisher calls Season 2 a standalone follow-up and states black/yellow boxes have identical contents and different covers. Preserve its separate design UUID and propose Black Edition specifically. The composite is useful comparison evidence but not an edition-specific cover.",
+      "publisher_group": "asmodee",
+      "source_page": "https://www.zmangames.com/game/pandemic-legacy-season-2/",
+      "sources": [
+        {
+          "url": "https://www.zmangames.com/game/pandemic-legacy-season-2/",
+          "final_url": "https://www.zmangames.com/game/pandemic-legacy-season-2/",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/pandemic-legacy-season-2-official.html",
+          "sha256": "f34c8a5030fb0532a366a49f3c47e883bd277da87b843067b702fcced4c516cf"
+        },
+        {
+          "url": "https://store.asmodee.com/policies/terms-of-service",
+          "final_url": "https://store.asmodee.com/policies/terms-of-service",
+          "retrieval": "local-http",
+          "http_status": 200,
+          "local_html": ".local/cover-research/2026-09-20/asmodee-terms.html",
+          "sha256": "4040d5c3cf2449fcd46a9001ffdc30b798ad13500792b5b81ba448087705f10c"
+        }
+      ],
+      "image_candidate": {
+        "url": "https://cdn.svc.asmodee.net/production-zman/uploads/image-converter/2024/08/zm7172_box_front-combined.webp",
+        "acquired_at": "2026-09-21T06:17:15.720477+00:00",
+        "local_path": ".local/cover-research/2026-09-20/originals/pandemic-legacy-season-2",
+        "sha256": "2974c50da6fdd962dd941dcf76b4bf682e22b91c565964585e5174531228565d",
+        "bytes": 92858,
+        "width": 520,
+        "height": 520,
+        "format": "webp",
+        "frames": 1,
+        "decode_verified": true,
+        "passes_technical_limits": true,
+        "visual_inspection": "Composite of yellow and black Season 2 boxes; unsuitable as one edition's selected cover.",
+        "visual_status": "held",
+        "source_page": "https://www.zmangames.com/game/pandemic-legacy-season-2/",
+        "approval_status": "unapproved",
+        "media_type": "image/webp"
+      },
+      "rights_review": {
+        "status": "unresolved",
+        "terms_url": "https://store.asmodee.com/policies/terms-of-service",
+        "commercial_display": null,
+        "redistribution_allowed": null,
+        "approved_rights": null
+      },
+      "asset_record": null,
+      "cover_proposal": null,
+      "blockers": [
+        "Obtain the complete single Black Edition front-cover file from the publisher; do not crop the combined promotional image.",
+        "Human review of the proposed identity and exact artwork association.",
+        "Commercial catalog/marketplace display and catalog-hosted delivery permission has not been established for this project.",
+        "Separate permission for downstream caching/binary redistribution has not been established."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^1\\.[0-9]+$"
+    },
+    "dataset_version": {
+      "type": "string",
+      "pattern": "^sha256:[0-9a-f]{64}$"
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "kind": {
+          "type": "string",
+          "const": "legacy_yaml"
+        },
+        "commit": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        },
+        "files_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "required": [
+        "kind",
+        "commit",
+        "files_sha256"
+      ],
+      "additionalProperties": {}
+    },
+    "counts": {
+      "type": "object",
+      "properties": {
+        "source_files": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000
+        },
+        "records": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000
+        },
+        "aliases": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000
+        },
+        "deferred_records": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000
+        },
+        "omitted_aliases": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000
+        }
+      },
+      "required": [
+        "source_files",
+        "records",
+        "aliases",
+        "deferred_records",
+        "omitted_aliases"
+      ],
+      "additionalProperties": {}
+    },
+    "records": {
+      "maxItems": 1000000,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "maxLength": 1000,
+            "pattern": "^legacy_yaml:(?:[a-z0-9-]|%[0-9A-F]{2})+$"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000,
+            "pattern": "\\S"
+          },
+          "aliases": {
+            "maxItems": 1000,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 1000,
+              "pattern": "\\S"
+            }
+          },
+          "disambiguation": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000,
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "source_file": {
+            "type": "string",
+            "maxLength": 311,
+            "pattern": "^games\\/[^/\\\\\\r\\n]+\\.yaml$"
+          },
+          "source_sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          }
+        },
+        "required": [
+          "source_id",
+          "title",
+          "aliases",
+          "disambiguation",
+          "source_file",
+          "source_sha256"
+        ],
+        "additionalProperties": {}
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "dataset_version",
+    "source",
+    "counts",
+    "records"
+  ],
+  "additionalProperties": {}
+}

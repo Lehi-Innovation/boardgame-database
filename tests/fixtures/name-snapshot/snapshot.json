@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "dataset_version": "sha256:f40a2f91553e39a4e56fcc96a29bc2cf04750935c5c88a7351e3493b34637a5b",
+  "source": {
+    "kind": "legacy_yaml",
+    "commit": "0000000000000000000000000000000000000000",
+    "files_sha256": "307a8d970ca3aa7db970eb340c8d48da3c69b6b5e56555513dcd046f7397d32c"
+  },
+  "counts": {
+    "source_files": 7,
+    "records": 5,
+    "aliases": 4,
+    "deferred_records": 2,
+    "omitted_aliases": 3
+  },
+  "records": [
+    {
+      "source_id": "legacy_yaml:007",
+      "title": "007",
+      "aliases": [
+        "Double Seven"
+      ],
+      "disambiguation": null,
+      "source_file": "games/007.yaml",
+      "source_sha256": "2264792e498852193d6eb31fed075c2e5580c8d956b01302c5dc3dec979d8a68"
+    },
+    {
+      "source_id": "legacy_yaml:malformed-alias",
+      "title": "Synthetic Alias",
+      "aliases": [
+        "Good Alias"
+      ],
+      "disambiguation": null,
+      "source_file": "games/malformed-alias.yaml",
+      "source_sha256": "fb70f5a238598ff987ec310ae3717e41a02a3ed9394374756381e6b1c4cad9b2"
+    },
+    {
+      "source_id": "legacy_yaml:twin-a",
+      "title": "Synthetic Twin",
+      "aliases": [],
+      "disambiguation": "1990 (legacy year)",
+      "source_file": "games/twin-a.yaml",
+      "source_sha256": "78e667d87797a08ff50b62d66ee250b22785cb6e8cfe8653c369056fb65287d1"
+    },
+    {
+      "source_id": "legacy_yaml:twin-b",
+      "title": "Synthetic Twin",
+      "aliases": [],
+      "disambiguation": "2020 (legacy year)",
+      "source_file": "games/twin-b.yaml",
+      "source_sha256": "3a128b3899f01fbe8a3772c9e9f87e27f1ee218e35382447019d7600619e89ac"
+    },
+    {
+      "source_id": "legacy_yaml:unicode",
+      "title": "Étoiles 星 \"Seven\"",
+      "aliases": [
+        "Étoiles & étoiles",
+        "星のゲーム"
+      ],
+      "disambiguation": null,
+      "source_file": "games/unicode.yaml",
+      "source_sha256": "c4e83963d2e2ab95bc3827e9ed3bd8adf5c400d3eddb0f2f07ca93bee011abe7"
+    }
+  ]
+}

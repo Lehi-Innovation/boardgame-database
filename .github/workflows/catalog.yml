@@ -8,6 +8,39 @@ permissions:
   contents: read
 
 jobs:
+  legacy-security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci --prefix web
+      - run: npm test --prefix web
+      - run: npm audit --prefix web --audit-level=high
+
+  name-compatibility:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      - run: npm ci
+      - run: pip install -r examples/name-snapshot/python/requirements.txt
+      - run: gem install json_schemer -v 2.5.0 --no-document
+      - run: npm run names:schema:check
+      - run: npm run test:names:compat
+
   verify:
     runs-on: ubuntu-latest
     services:

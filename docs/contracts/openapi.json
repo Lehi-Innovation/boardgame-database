@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Boardgame Catalog contracts",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "Catalog schemas and M2 editorial endpoints. Cross-field, reference, and workflow invariants also require the shared Zod/domain validators. No public release API is implemented yet."
   },
   "paths": {
@@ -6577,6 +6577,24 @@
                         }
                       ]
                     }
+                  },
+                  "cover_asset_id": {
+                    "anyOf": [
+                      {
+                        "type": "string",
+                        "allOf": [
+                          {
+                            "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                          },
+                          {
+                            "pattern": "^[0-9a-f-]+$"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
                   }
                 },
                 "required": [
@@ -7202,6 +7220,309 @@
                   "rationale"
                 ],
                 "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "schema_version": {
+                    "type": "number",
+                    "const": 1
+                  },
+                  "id": {
+                    "type": "string",
+                    "allOf": [
+                      {
+                        "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                      },
+                      {
+                        "pattern": "^[0-9a-f-]+$"
+                      }
+                    ]
+                  },
+                  "state": {
+                    "type": "string",
+                    "const": "active"
+                  },
+                  "field_notes": {
+                    "maxItems": 100,
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "path": {
+                          "type": "string",
+                          "maxLength": 500,
+                          "pattern": "^(\\/(?:[^~\\/]|~0|~1)+)+$"
+                        },
+                        "kind": {
+                          "type": "string",
+                          "enum": [
+                            "unknown",
+                            "disputed",
+                            "not_applicable"
+                          ]
+                        },
+                        "note": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 10000
+                        }
+                      },
+                      "required": [
+                        "path",
+                        "kind",
+                        "note"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "edition_id": {
+                    "type": "string",
+                    "allOf": [
+                      {
+                        "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                      },
+                      {
+                        "pattern": "^[0-9a-f-]+$"
+                      }
+                    ]
+                  },
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "available",
+                      "withdrawn"
+                    ]
+                  },
+                  "alt_text": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 500
+                  },
+                  "source_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "acquired_on": {
+                    "type": "string",
+                    "format": "date",
+                    "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+                  },
+                  "rights": {
+                    "type": "object",
+                    "properties": {
+                      "basis": {
+                        "type": "string",
+                        "enum": [
+                          "publisher-permission",
+                          "publisher-press-kit",
+                          "cc-by",
+                          "cc-by-sa",
+                          "cc0",
+                          "public-domain",
+                          "fair-use"
+                        ]
+                      },
+                      "terms_url": {
+                        "type": "string",
+                        "format": "uri"
+                      },
+                      "attribution": {
+                        "anyOf": [
+                          {
+                            "type": "string",
+                            "minLength": 1,
+                            "maxLength": 10000
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "allowed_uses": {
+                        "minItems": 1,
+                        "maxItems": 2,
+                        "type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": [
+                            "noncommercial",
+                            "commercial"
+                          ]
+                        }
+                      },
+                      "redistribution_allowed": {
+                        "type": "boolean"
+                      },
+                      "note": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 10000
+                      }
+                    },
+                    "required": [
+                      "basis",
+                      "terms_url",
+                      "attribution",
+                      "allowed_uses",
+                      "redistribution_allowed",
+                      "note"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "original": {
+                    "type": "object",
+                    "properties": {
+                      "sha256": {
+                        "type": "string",
+                        "pattern": "^[a-f0-9]{64}$"
+                      },
+                      "media_type": {
+                        "type": "string",
+                        "enum": [
+                          "image/jpeg",
+                          "image/png",
+                          "image/webp"
+                        ]
+                      },
+                      "width": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 40000
+                      },
+                      "height": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 40000
+                      },
+                      "bytes": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 20000000
+                      }
+                    },
+                    "required": [
+                      "sha256",
+                      "media_type",
+                      "width",
+                      "height",
+                      "bytes"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "renditions": {
+                    "type": "object",
+                    "properties": {
+                      "thumbnail": {
+                        "type": "object",
+                        "properties": {
+                          "sha256": {
+                            "type": "string",
+                            "pattern": "^[a-f0-9]{64}$"
+                          },
+                          "object_key": {
+                            "type": "string",
+                            "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                          },
+                          "media_type": {
+                            "type": "string",
+                            "const": "image/webp"
+                          },
+                          "width": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 1200
+                          },
+                          "height": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 1200
+                          },
+                          "bytes": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 20000000
+                          }
+                        },
+                        "required": [
+                          "sha256",
+                          "object_key",
+                          "media_type",
+                          "width",
+                          "height",
+                          "bytes"
+                        ],
+                        "additionalProperties": false
+                      },
+                      "detail": {
+                        "type": "object",
+                        "properties": {
+                          "sha256": {
+                            "type": "string",
+                            "pattern": "^[a-f0-9]{64}$"
+                          },
+                          "object_key": {
+                            "type": "string",
+                            "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                          },
+                          "media_type": {
+                            "type": "string",
+                            "const": "image/webp"
+                          },
+                          "width": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 1200
+                          },
+                          "height": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 1200
+                          },
+                          "bytes": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 20000000
+                          }
+                        },
+                        "required": [
+                          "sha256",
+                          "object_key",
+                          "media_type",
+                          "width",
+                          "height",
+                          "bytes"
+                        ],
+                        "additionalProperties": false
+                      }
+                    },
+                    "required": [
+                      "thumbnail",
+                      "detail"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "entity_type": {
+                    "type": "string",
+                    "const": "asset"
+                  }
+                },
+                "required": [
+                  "schema_version",
+                  "id",
+                  "state",
+                  "field_notes",
+                  "edition_id",
+                  "status",
+                  "alt_text",
+                  "source_url",
+                  "acquired_on",
+                  "rights",
+                  "original",
+                  "renditions",
+                  "entity_type"
+                ],
+                "additionalProperties": false
               }
             ]
           },
@@ -7232,7 +7553,8 @@
                   "organization",
                   "taxonomy",
                   "family",
-                  "assessment"
+                  "assessment",
+                  "asset"
                 ]
               },
               "state": {
@@ -7916,6 +8238,24 @@
                 }
               ]
             }
+          },
+          "cover_asset_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "allOf": [
+                  {
+                    "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                  },
+                  {
+                    "pattern": "^[0-9a-f-]+$"
+                  }
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ]
           }
         },
         "required": [
@@ -8714,6 +9054,24 @@
                                   }
                                 ]
                               }
+                            },
+                            "cover_asset_id": {
+                              "anyOf": [
+                                {
+                                  "type": "string",
+                                  "allOf": [
+                                    {
+                                      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                                    },
+                                    {
+                                      "pattern": "^[0-9a-f-]+$"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "null"
+                                }
+                              ]
                             }
                           },
                           "required": [
@@ -9339,6 +9697,309 @@
                             "rationale"
                           ],
                           "additionalProperties": false
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "schema_version": {
+                              "type": "number",
+                              "const": 1
+                            },
+                            "id": {
+                              "type": "string",
+                              "allOf": [
+                                {
+                                  "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                                },
+                                {
+                                  "pattern": "^[0-9a-f-]+$"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "string",
+                              "const": "active"
+                            },
+                            "field_notes": {
+                              "maxItems": 100,
+                              "type": "array",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "path": {
+                                    "type": "string",
+                                    "maxLength": 500,
+                                    "pattern": "^(\\/(?:[^~\\/]|~0|~1)+)+$"
+                                  },
+                                  "kind": {
+                                    "type": "string",
+                                    "enum": [
+                                      "unknown",
+                                      "disputed",
+                                      "not_applicable"
+                                    ]
+                                  },
+                                  "note": {
+                                    "type": "string",
+                                    "minLength": 1,
+                                    "maxLength": 10000
+                                  }
+                                },
+                                "required": [
+                                  "path",
+                                  "kind",
+                                  "note"
+                                ],
+                                "additionalProperties": false
+                              }
+                            },
+                            "edition_id": {
+                              "type": "string",
+                              "allOf": [
+                                {
+                                  "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                                },
+                                {
+                                  "pattern": "^[0-9a-f-]+$"
+                                }
+                              ]
+                            },
+                            "status": {
+                              "type": "string",
+                              "enum": [
+                                "available",
+                                "withdrawn"
+                              ]
+                            },
+                            "alt_text": {
+                              "type": "string",
+                              "minLength": 1,
+                              "maxLength": 500
+                            },
+                            "source_url": {
+                              "type": "string",
+                              "format": "uri"
+                            },
+                            "acquired_on": {
+                              "type": "string",
+                              "format": "date",
+                              "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+                            },
+                            "rights": {
+                              "type": "object",
+                              "properties": {
+                                "basis": {
+                                  "type": "string",
+                                  "enum": [
+                                    "publisher-permission",
+                                    "publisher-press-kit",
+                                    "cc-by",
+                                    "cc-by-sa",
+                                    "cc0",
+                                    "public-domain",
+                                    "fair-use"
+                                  ]
+                                },
+                                "terms_url": {
+                                  "type": "string",
+                                  "format": "uri"
+                                },
+                                "attribution": {
+                                  "anyOf": [
+                                    {
+                                      "type": "string",
+                                      "minLength": 1,
+                                      "maxLength": 10000
+                                    },
+                                    {
+                                      "type": "null"
+                                    }
+                                  ]
+                                },
+                                "allowed_uses": {
+                                  "minItems": 1,
+                                  "maxItems": 2,
+                                  "type": "array",
+                                  "items": {
+                                    "type": "string",
+                                    "enum": [
+                                      "noncommercial",
+                                      "commercial"
+                                    ]
+                                  }
+                                },
+                                "redistribution_allowed": {
+                                  "type": "boolean"
+                                },
+                                "note": {
+                                  "type": "string",
+                                  "minLength": 1,
+                                  "maxLength": 10000
+                                }
+                              },
+                              "required": [
+                                "basis",
+                                "terms_url",
+                                "attribution",
+                                "allowed_uses",
+                                "redistribution_allowed",
+                                "note"
+                              ],
+                              "additionalProperties": false
+                            },
+                            "original": {
+                              "type": "object",
+                              "properties": {
+                                "sha256": {
+                                  "type": "string",
+                                  "pattern": "^[a-f0-9]{64}$"
+                                },
+                                "media_type": {
+                                  "type": "string",
+                                  "enum": [
+                                    "image/jpeg",
+                                    "image/png",
+                                    "image/webp"
+                                  ]
+                                },
+                                "width": {
+                                  "type": "integer",
+                                  "exclusiveMinimum": 0,
+                                  "maximum": 40000
+                                },
+                                "height": {
+                                  "type": "integer",
+                                  "exclusiveMinimum": 0,
+                                  "maximum": 40000
+                                },
+                                "bytes": {
+                                  "type": "integer",
+                                  "exclusiveMinimum": 0,
+                                  "maximum": 20000000
+                                }
+                              },
+                              "required": [
+                                "sha256",
+                                "media_type",
+                                "width",
+                                "height",
+                                "bytes"
+                              ],
+                              "additionalProperties": false
+                            },
+                            "renditions": {
+                              "type": "object",
+                              "properties": {
+                                "thumbnail": {
+                                  "type": "object",
+                                  "properties": {
+                                    "sha256": {
+                                      "type": "string",
+                                      "pattern": "^[a-f0-9]{64}$"
+                                    },
+                                    "object_key": {
+                                      "type": "string",
+                                      "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                                    },
+                                    "media_type": {
+                                      "type": "string",
+                                      "const": "image/webp"
+                                    },
+                                    "width": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 1200
+                                    },
+                                    "height": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 1200
+                                    },
+                                    "bytes": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 20000000
+                                    }
+                                  },
+                                  "required": [
+                                    "sha256",
+                                    "object_key",
+                                    "media_type",
+                                    "width",
+                                    "height",
+                                    "bytes"
+                                  ],
+                                  "additionalProperties": false
+                                },
+                                "detail": {
+                                  "type": "object",
+                                  "properties": {
+                                    "sha256": {
+                                      "type": "string",
+                                      "pattern": "^[a-f0-9]{64}$"
+                                    },
+                                    "object_key": {
+                                      "type": "string",
+                                      "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                                    },
+                                    "media_type": {
+                                      "type": "string",
+                                      "const": "image/webp"
+                                    },
+                                    "width": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 1200
+                                    },
+                                    "height": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 1200
+                                    },
+                                    "bytes": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 20000000
+                                    }
+                                  },
+                                  "required": [
+                                    "sha256",
+                                    "object_key",
+                                    "media_type",
+                                    "width",
+                                    "height",
+                                    "bytes"
+                                  ],
+                                  "additionalProperties": false
+                                }
+                              },
+                              "required": [
+                                "thumbnail",
+                                "detail"
+                              ],
+                              "additionalProperties": false
+                            },
+                            "entity_type": {
+                              "type": "string",
+                              "const": "asset"
+                            }
+                          },
+                          "required": [
+                            "schema_version",
+                            "id",
+                            "state",
+                            "field_notes",
+                            "edition_id",
+                            "status",
+                            "alt_text",
+                            "source_url",
+                            "acquired_on",
+                            "rights",
+                            "original",
+                            "renditions",
+                            "entity_type"
+                          ],
+                          "additionalProperties": false
                         }
                       ]
                     },
@@ -9369,7 +10030,8 @@
                             "organization",
                             "taxonomy",
                             "family",
-                            "assessment"
+                            "assessment",
+                            "asset"
                           ]
                         },
                         "state": {
@@ -10267,6 +10929,24 @@
                                       }
                                     ]
                                   }
+                                },
+                                "cover_asset_id": {
+                                  "anyOf": [
+                                    {
+                                      "type": "string",
+                                      "allOf": [
+                                        {
+                                          "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                                        },
+                                        {
+                                          "pattern": "^[0-9a-f-]+$"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "null"
+                                    }
+                                  ]
                                 }
                               },
                               "required": [
@@ -10892,6 +11572,309 @@
                                 "rationale"
                               ],
                               "additionalProperties": false
+                            },
+                            {
+                              "type": "object",
+                              "properties": {
+                                "schema_version": {
+                                  "type": "number",
+                                  "const": 1
+                                },
+                                "id": {
+                                  "type": "string",
+                                  "allOf": [
+                                    {
+                                      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                                    },
+                                    {
+                                      "pattern": "^[0-9a-f-]+$"
+                                    }
+                                  ]
+                                },
+                                "state": {
+                                  "type": "string",
+                                  "const": "active"
+                                },
+                                "field_notes": {
+                                  "maxItems": 100,
+                                  "type": "array",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "path": {
+                                        "type": "string",
+                                        "maxLength": 500,
+                                        "pattern": "^(\\/(?:[^~\\/]|~0|~1)+)+$"
+                                      },
+                                      "kind": {
+                                        "type": "string",
+                                        "enum": [
+                                          "unknown",
+                                          "disputed",
+                                          "not_applicable"
+                                        ]
+                                      },
+                                      "note": {
+                                        "type": "string",
+                                        "minLength": 1,
+                                        "maxLength": 10000
+                                      }
+                                    },
+                                    "required": [
+                                      "path",
+                                      "kind",
+                                      "note"
+                                    ],
+                                    "additionalProperties": false
+                                  }
+                                },
+                                "edition_id": {
+                                  "type": "string",
+                                  "allOf": [
+                                    {
+                                      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                                    },
+                                    {
+                                      "pattern": "^[0-9a-f-]+$"
+                                    }
+                                  ]
+                                },
+                                "status": {
+                                  "type": "string",
+                                  "enum": [
+                                    "available",
+                                    "withdrawn"
+                                  ]
+                                },
+                                "alt_text": {
+                                  "type": "string",
+                                  "minLength": 1,
+                                  "maxLength": 500
+                                },
+                                "source_url": {
+                                  "type": "string",
+                                  "format": "uri"
+                                },
+                                "acquired_on": {
+                                  "type": "string",
+                                  "format": "date",
+                                  "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+                                },
+                                "rights": {
+                                  "type": "object",
+                                  "properties": {
+                                    "basis": {
+                                      "type": "string",
+                                      "enum": [
+                                        "publisher-permission",
+                                        "publisher-press-kit",
+                                        "cc-by",
+                                        "cc-by-sa",
+                                        "cc0",
+                                        "public-domain",
+                                        "fair-use"
+                                      ]
+                                    },
+                                    "terms_url": {
+                                      "type": "string",
+                                      "format": "uri"
+                                    },
+                                    "attribution": {
+                                      "anyOf": [
+                                        {
+                                          "type": "string",
+                                          "minLength": 1,
+                                          "maxLength": 10000
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ]
+                                    },
+                                    "allowed_uses": {
+                                      "minItems": 1,
+                                      "maxItems": 2,
+                                      "type": "array",
+                                      "items": {
+                                        "type": "string",
+                                        "enum": [
+                                          "noncommercial",
+                                          "commercial"
+                                        ]
+                                      }
+                                    },
+                                    "redistribution_allowed": {
+                                      "type": "boolean"
+                                    },
+                                    "note": {
+                                      "type": "string",
+                                      "minLength": 1,
+                                      "maxLength": 10000
+                                    }
+                                  },
+                                  "required": [
+                                    "basis",
+                                    "terms_url",
+                                    "attribution",
+                                    "allowed_uses",
+                                    "redistribution_allowed",
+                                    "note"
+                                  ],
+                                  "additionalProperties": false
+                                },
+                                "original": {
+                                  "type": "object",
+                                  "properties": {
+                                    "sha256": {
+                                      "type": "string",
+                                      "pattern": "^[a-f0-9]{64}$"
+                                    },
+                                    "media_type": {
+                                      "type": "string",
+                                      "enum": [
+                                        "image/jpeg",
+                                        "image/png",
+                                        "image/webp"
+                                      ]
+                                    },
+                                    "width": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 40000
+                                    },
+                                    "height": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 40000
+                                    },
+                                    "bytes": {
+                                      "type": "integer",
+                                      "exclusiveMinimum": 0,
+                                      "maximum": 20000000
+                                    }
+                                  },
+                                  "required": [
+                                    "sha256",
+                                    "media_type",
+                                    "width",
+                                    "height",
+                                    "bytes"
+                                  ],
+                                  "additionalProperties": false
+                                },
+                                "renditions": {
+                                  "type": "object",
+                                  "properties": {
+                                    "thumbnail": {
+                                      "type": "object",
+                                      "properties": {
+                                        "sha256": {
+                                          "type": "string",
+                                          "pattern": "^[a-f0-9]{64}$"
+                                        },
+                                        "object_key": {
+                                          "type": "string",
+                                          "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                                        },
+                                        "media_type": {
+                                          "type": "string",
+                                          "const": "image/webp"
+                                        },
+                                        "width": {
+                                          "type": "integer",
+                                          "exclusiveMinimum": 0,
+                                          "maximum": 1200
+                                        },
+                                        "height": {
+                                          "type": "integer",
+                                          "exclusiveMinimum": 0,
+                                          "maximum": 1200
+                                        },
+                                        "bytes": {
+                                          "type": "integer",
+                                          "exclusiveMinimum": 0,
+                                          "maximum": 20000000
+                                        }
+                                      },
+                                      "required": [
+                                        "sha256",
+                                        "object_key",
+                                        "media_type",
+                                        "width",
+                                        "height",
+                                        "bytes"
+                                      ],
+                                      "additionalProperties": false
+                                    },
+                                    "detail": {
+                                      "type": "object",
+                                      "properties": {
+                                        "sha256": {
+                                          "type": "string",
+                                          "pattern": "^[a-f0-9]{64}$"
+                                        },
+                                        "object_key": {
+                                          "type": "string",
+                                          "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                                        },
+                                        "media_type": {
+                                          "type": "string",
+                                          "const": "image/webp"
+                                        },
+                                        "width": {
+                                          "type": "integer",
+                                          "exclusiveMinimum": 0,
+                                          "maximum": 1200
+                                        },
+                                        "height": {
+                                          "type": "integer",
+                                          "exclusiveMinimum": 0,
+                                          "maximum": 1200
+                                        },
+                                        "bytes": {
+                                          "type": "integer",
+                                          "exclusiveMinimum": 0,
+                                          "maximum": 20000000
+                                        }
+                                      },
+                                      "required": [
+                                        "sha256",
+                                        "object_key",
+                                        "media_type",
+                                        "width",
+                                        "height",
+                                        "bytes"
+                                      ],
+                                      "additionalProperties": false
+                                    }
+                                  },
+                                  "required": [
+                                    "thumbnail",
+                                    "detail"
+                                  ],
+                                  "additionalProperties": false
+                                },
+                                "entity_type": {
+                                  "type": "string",
+                                  "const": "asset"
+                                }
+                              },
+                              "required": [
+                                "schema_version",
+                                "id",
+                                "state",
+                                "field_notes",
+                                "edition_id",
+                                "status",
+                                "alt_text",
+                                "source_url",
+                                "acquired_on",
+                                "rights",
+                                "original",
+                                "renditions",
+                                "entity_type"
+                              ],
+                              "additionalProperties": false
                             }
                           ]
                         },
@@ -10922,7 +11905,8 @@
                                 "organization",
                                 "taxonomy",
                                 "family",
-                                "assessment"
+                                "assessment",
+                                "asset"
                               ]
                             },
                             "state": {
@@ -11901,6 +12885,213 @@
                 "type": "null"
               }
             ]
+          },
+          "cover": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "asset_id": {
+                    "type": "string",
+                    "allOf": [
+                      {
+                        "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                      },
+                      {
+                        "pattern": "^[0-9a-f-]+$"
+                      }
+                    ]
+                  },
+                  "edition_id": {
+                    "type": "string",
+                    "allOf": [
+                      {
+                        "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                      },
+                      {
+                        "pattern": "^[0-9a-f-]+$"
+                      }
+                    ]
+                  },
+                  "alt_text": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 500
+                  },
+                  "source_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "rights": {
+                    "type": "object",
+                    "properties": {
+                      "basis": {
+                        "type": "string",
+                        "enum": [
+                          "publisher-permission",
+                          "publisher-press-kit",
+                          "cc-by",
+                          "cc-by-sa",
+                          "cc0",
+                          "public-domain",
+                          "fair-use"
+                        ]
+                      },
+                      "terms_url": {
+                        "type": "string",
+                        "format": "uri"
+                      },
+                      "attribution": {
+                        "anyOf": [
+                          {
+                            "type": "string",
+                            "minLength": 1,
+                            "maxLength": 10000
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "allowed_uses": {
+                        "minItems": 1,
+                        "maxItems": 2,
+                        "type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": [
+                            "noncommercial",
+                            "commercial"
+                          ]
+                        }
+                      },
+                      "redistribution_allowed": {
+                        "type": "boolean"
+                      },
+                      "note": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 10000
+                      }
+                    },
+                    "required": [
+                      "basis",
+                      "terms_url",
+                      "attribution",
+                      "allowed_uses",
+                      "redistribution_allowed",
+                      "note"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "thumbnail": {
+                    "type": "object",
+                    "properties": {
+                      "sha256": {
+                        "type": "string",
+                        "pattern": "^[a-f0-9]{64}$"
+                      },
+                      "object_key": {
+                        "type": "string",
+                        "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                      },
+                      "media_type": {
+                        "type": "string",
+                        "const": "image/webp"
+                      },
+                      "width": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "height": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "bytes": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 20000000
+                      },
+                      "url": {
+                        "type": "string",
+                        "format": "uri"
+                      }
+                    },
+                    "required": [
+                      "sha256",
+                      "object_key",
+                      "media_type",
+                      "width",
+                      "height",
+                      "bytes",
+                      "url"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "detail": {
+                    "type": "object",
+                    "properties": {
+                      "sha256": {
+                        "type": "string",
+                        "pattern": "^[a-f0-9]{64}$"
+                      },
+                      "object_key": {
+                        "type": "string",
+                        "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                      },
+                      "media_type": {
+                        "type": "string",
+                        "const": "image/webp"
+                      },
+                      "width": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "height": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "bytes": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 20000000
+                      },
+                      "url": {
+                        "type": "string",
+                        "format": "uri"
+                      }
+                    },
+                    "required": [
+                      "sha256",
+                      "object_key",
+                      "media_type",
+                      "width",
+                      "height",
+                      "bytes",
+                      "url"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "required": [
+                  "asset_id",
+                  "edition_id",
+                  "alt_text",
+                  "source_url",
+                  "rights",
+                  "thumbnail",
+                  "detail"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
           }
         },
         "required": [
@@ -12222,6 +13413,213 @@
                       "type": "null"
                     }
                   ]
+                },
+                "cover": {
+                  "anyOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "asset_id": {
+                          "type": "string",
+                          "allOf": [
+                            {
+                              "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                            },
+                            {
+                              "pattern": "^[0-9a-f-]+$"
+                            }
+                          ]
+                        },
+                        "edition_id": {
+                          "type": "string",
+                          "allOf": [
+                            {
+                              "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                            },
+                            {
+                              "pattern": "^[0-9a-f-]+$"
+                            }
+                          ]
+                        },
+                        "alt_text": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 500
+                        },
+                        "source_url": {
+                          "type": "string",
+                          "format": "uri"
+                        },
+                        "rights": {
+                          "type": "object",
+                          "properties": {
+                            "basis": {
+                              "type": "string",
+                              "enum": [
+                                "publisher-permission",
+                                "publisher-press-kit",
+                                "cc-by",
+                                "cc-by-sa",
+                                "cc0",
+                                "public-domain",
+                                "fair-use"
+                              ]
+                            },
+                            "terms_url": {
+                              "type": "string",
+                              "format": "uri"
+                            },
+                            "attribution": {
+                              "anyOf": [
+                                {
+                                  "type": "string",
+                                  "minLength": 1,
+                                  "maxLength": 10000
+                                },
+                                {
+                                  "type": "null"
+                                }
+                              ]
+                            },
+                            "allowed_uses": {
+                              "minItems": 1,
+                              "maxItems": 2,
+                              "type": "array",
+                              "items": {
+                                "type": "string",
+                                "enum": [
+                                  "noncommercial",
+                                  "commercial"
+                                ]
+                              }
+                            },
+                            "redistribution_allowed": {
+                              "type": "boolean"
+                            },
+                            "note": {
+                              "type": "string",
+                              "minLength": 1,
+                              "maxLength": 10000
+                            }
+                          },
+                          "required": [
+                            "basis",
+                            "terms_url",
+                            "attribution",
+                            "allowed_uses",
+                            "redistribution_allowed",
+                            "note"
+                          ],
+                          "additionalProperties": false
+                        },
+                        "thumbnail": {
+                          "type": "object",
+                          "properties": {
+                            "sha256": {
+                              "type": "string",
+                              "pattern": "^[a-f0-9]{64}$"
+                            },
+                            "object_key": {
+                              "type": "string",
+                              "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                            },
+                            "media_type": {
+                              "type": "string",
+                              "const": "image/webp"
+                            },
+                            "width": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "height": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "bytes": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 20000000
+                            },
+                            "url": {
+                              "type": "string",
+                              "format": "uri"
+                            }
+                          },
+                          "required": [
+                            "sha256",
+                            "object_key",
+                            "media_type",
+                            "width",
+                            "height",
+                            "bytes",
+                            "url"
+                          ],
+                          "additionalProperties": false
+                        },
+                        "detail": {
+                          "type": "object",
+                          "properties": {
+                            "sha256": {
+                              "type": "string",
+                              "pattern": "^[a-f0-9]{64}$"
+                            },
+                            "object_key": {
+                              "type": "string",
+                              "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                            },
+                            "media_type": {
+                              "type": "string",
+                              "const": "image/webp"
+                            },
+                            "width": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "height": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "bytes": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 20000000
+                            },
+                            "url": {
+                              "type": "string",
+                              "format": "uri"
+                            }
+                          },
+                          "required": [
+                            "sha256",
+                            "object_key",
+                            "media_type",
+                            "width",
+                            "height",
+                            "bytes",
+                            "url"
+                          ],
+                          "additionalProperties": false
+                        }
+                      },
+                      "required": [
+                        "asset_id",
+                        "edition_id",
+                        "alt_text",
+                        "source_url",
+                        "rights",
+                        "thumbnail",
+                        "detail"
+                      ],
+                      "additionalProperties": false
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
                 }
               },
               "required": [
@@ -12255,6 +13653,947 @@
           "schema_version",
           "data",
           "next_cursor"
+        ],
+        "additionalProperties": false
+      },
+      "AssetRecord": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "type": "number",
+            "const": 1
+          },
+          "id": {
+            "type": "string",
+            "allOf": [
+              {
+                "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+              },
+              {
+                "pattern": "^[0-9a-f-]+$"
+              }
+            ]
+          },
+          "state": {
+            "type": "string",
+            "const": "active"
+          },
+          "field_notes": {
+            "maxItems": 100,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "maxLength": 500,
+                  "pattern": "^(\\/(?:[^~\\/]|~0|~1)+)+$"
+                },
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "unknown",
+                    "disputed",
+                    "not_applicable"
+                  ]
+                },
+                "note": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 10000
+                }
+              },
+              "required": [
+                "path",
+                "kind",
+                "note"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "edition_id": {
+            "type": "string",
+            "allOf": [
+              {
+                "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+              },
+              {
+                "pattern": "^[0-9a-f-]+$"
+              }
+            ]
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "available",
+              "withdrawn"
+            ]
+          },
+          "alt_text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "acquired_on": {
+            "type": "string",
+            "format": "date",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+          },
+          "rights": {
+            "type": "object",
+            "properties": {
+              "basis": {
+                "type": "string",
+                "enum": [
+                  "publisher-permission",
+                  "publisher-press-kit",
+                  "cc-by",
+                  "cc-by-sa",
+                  "cc0",
+                  "public-domain",
+                  "fair-use"
+                ]
+              },
+              "terms_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "attribution": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 10000
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "allowed_uses": {
+                "minItems": 1,
+                "maxItems": 2,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "noncommercial",
+                    "commercial"
+                  ]
+                }
+              },
+              "redistribution_allowed": {
+                "type": "boolean"
+              },
+              "note": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 10000
+              }
+            },
+            "required": [
+              "basis",
+              "terms_url",
+              "attribution",
+              "allowed_uses",
+              "redistribution_allowed",
+              "note"
+            ],
+            "additionalProperties": false
+          },
+          "original": {
+            "type": "object",
+            "properties": {
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "media_type": {
+                "type": "string",
+                "enum": [
+                  "image/jpeg",
+                  "image/png",
+                  "image/webp"
+                ]
+              },
+              "width": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 40000
+              },
+              "height": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 40000
+              },
+              "bytes": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 20000000
+              }
+            },
+            "required": [
+              "sha256",
+              "media_type",
+              "width",
+              "height",
+              "bytes"
+            ],
+            "additionalProperties": false
+          },
+          "renditions": {
+            "type": "object",
+            "properties": {
+              "thumbnail": {
+                "type": "object",
+                "properties": {
+                  "sha256": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$"
+                  },
+                  "object_key": {
+                    "type": "string",
+                    "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                  },
+                  "media_type": {
+                    "type": "string",
+                    "const": "image/webp"
+                  },
+                  "width": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0,
+                    "maximum": 1200
+                  },
+                  "height": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0,
+                    "maximum": 1200
+                  },
+                  "bytes": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0,
+                    "maximum": 20000000
+                  }
+                },
+                "required": [
+                  "sha256",
+                  "object_key",
+                  "media_type",
+                  "width",
+                  "height",
+                  "bytes"
+                ],
+                "additionalProperties": false
+              },
+              "detail": {
+                "type": "object",
+                "properties": {
+                  "sha256": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$"
+                  },
+                  "object_key": {
+                    "type": "string",
+                    "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                  },
+                  "media_type": {
+                    "type": "string",
+                    "const": "image/webp"
+                  },
+                  "width": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0,
+                    "maximum": 1200
+                  },
+                  "height": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0,
+                    "maximum": 1200
+                  },
+                  "bytes": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0,
+                    "maximum": 20000000
+                  }
+                },
+                "required": [
+                  "sha256",
+                  "object_key",
+                  "media_type",
+                  "width",
+                  "height",
+                  "bytes"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "thumbnail",
+              "detail"
+            ],
+            "additionalProperties": false
+          },
+          "entity_type": {
+            "type": "string",
+            "const": "asset"
+          }
+        },
+        "required": [
+          "schema_version",
+          "id",
+          "state",
+          "field_notes",
+          "edition_id",
+          "status",
+          "alt_text",
+          "source_url",
+          "acquired_on",
+          "rights",
+          "original",
+          "renditions",
+          "entity_type"
+        ],
+        "additionalProperties": false
+      },
+      "CoverImage": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "asset_id": {
+            "type": "string",
+            "allOf": [
+              {
+                "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+              },
+              {
+                "pattern": "^[0-9a-f-]+$"
+              }
+            ]
+          },
+          "edition_id": {
+            "type": "string",
+            "allOf": [
+              {
+                "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+              },
+              {
+                "pattern": "^[0-9a-f-]+$"
+              }
+            ]
+          },
+          "alt_text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "rights": {
+            "type": "object",
+            "properties": {
+              "basis": {
+                "type": "string",
+                "enum": [
+                  "publisher-permission",
+                  "publisher-press-kit",
+                  "cc-by",
+                  "cc-by-sa",
+                  "cc0",
+                  "public-domain",
+                  "fair-use"
+                ]
+              },
+              "terms_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "attribution": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 10000
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "allowed_uses": {
+                "minItems": 1,
+                "maxItems": 2,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "noncommercial",
+                    "commercial"
+                  ]
+                }
+              },
+              "redistribution_allowed": {
+                "type": "boolean"
+              },
+              "note": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 10000
+              }
+            },
+            "required": [
+              "basis",
+              "terms_url",
+              "attribution",
+              "allowed_uses",
+              "redistribution_allowed",
+              "note"
+            ],
+            "additionalProperties": false
+          },
+          "thumbnail": {
+            "type": "object",
+            "properties": {
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "object_key": {
+                "type": "string",
+                "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+              },
+              "media_type": {
+                "type": "string",
+                "const": "image/webp"
+              },
+              "width": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 1200
+              },
+              "height": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 1200
+              },
+              "bytes": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 20000000
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": [
+              "sha256",
+              "object_key",
+              "media_type",
+              "width",
+              "height",
+              "bytes",
+              "url"
+            ],
+            "additionalProperties": false
+          },
+          "detail": {
+            "type": "object",
+            "properties": {
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "object_key": {
+                "type": "string",
+                "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+              },
+              "media_type": {
+                "type": "string",
+                "const": "image/webp"
+              },
+              "width": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 1200
+              },
+              "height": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 1200
+              },
+              "bytes": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 20000000
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": [
+              "sha256",
+              "object_key",
+              "media_type",
+              "width",
+              "height",
+              "bytes",
+              "url"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "asset_id",
+          "edition_id",
+          "alt_text",
+          "source_url",
+          "rights",
+          "thumbnail",
+          "detail"
+        ],
+        "additionalProperties": false
+      },
+      "CoverSnapshot": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "type": "string",
+            "const": "1.0"
+          },
+          "release_id": {
+            "type": "string",
+            "pattern": "^r[0-9]{6,}$"
+          },
+          "use_context": {
+            "type": "string",
+            "enum": [
+              "noncommercial",
+              "commercial"
+            ]
+          },
+          "delivery": {
+            "type": "string",
+            "enum": [
+              "urls",
+              "bundled"
+            ]
+          },
+          "counts": {
+            "type": "object",
+            "properties": {
+              "games": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "available": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "missing": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              }
+            },
+            "required": [
+              "games",
+              "available",
+              "missing"
+            ],
+            "additionalProperties": false
+          },
+          "records": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "game_id": {
+                  "type": "string",
+                  "allOf": [
+                    {
+                      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                    },
+                    {
+                      "pattern": "^[0-9a-f-]+$"
+                    }
+                  ]
+                },
+                "edition_id": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "allOf": [
+                        {
+                          "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                        },
+                        {
+                          "pattern": "^[0-9a-f-]+$"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "cover": {
+                  "anyOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "asset_id": {
+                          "type": "string",
+                          "allOf": [
+                            {
+                              "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                            },
+                            {
+                              "pattern": "^[0-9a-f-]+$"
+                            }
+                          ]
+                        },
+                        "edition_id": {
+                          "type": "string",
+                          "allOf": [
+                            {
+                              "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                            },
+                            {
+                              "pattern": "^[0-9a-f-]+$"
+                            }
+                          ]
+                        },
+                        "alt_text": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 500
+                        },
+                        "source_url": {
+                          "type": "string",
+                          "format": "uri"
+                        },
+                        "rights": {
+                          "type": "object",
+                          "properties": {
+                            "basis": {
+                              "type": "string",
+                              "enum": [
+                                "publisher-permission",
+                                "publisher-press-kit",
+                                "cc-by",
+                                "cc-by-sa",
+                                "cc0",
+                                "public-domain",
+                                "fair-use"
+                              ]
+                            },
+                            "terms_url": {
+                              "type": "string",
+                              "format": "uri"
+                            },
+                            "attribution": {
+                              "anyOf": [
+                                {
+                                  "type": "string",
+                                  "minLength": 1,
+                                  "maxLength": 10000
+                                },
+                                {
+                                  "type": "null"
+                                }
+                              ]
+                            },
+                            "allowed_uses": {
+                              "minItems": 1,
+                              "maxItems": 2,
+                              "type": "array",
+                              "items": {
+                                "type": "string",
+                                "enum": [
+                                  "noncommercial",
+                                  "commercial"
+                                ]
+                              }
+                            },
+                            "redistribution_allowed": {
+                              "type": "boolean"
+                            },
+                            "note": {
+                              "type": "string",
+                              "minLength": 1,
+                              "maxLength": 10000
+                            }
+                          },
+                          "required": [
+                            "basis",
+                            "terms_url",
+                            "attribution",
+                            "allowed_uses",
+                            "redistribution_allowed",
+                            "note"
+                          ],
+                          "additionalProperties": false
+                        },
+                        "thumbnail": {
+                          "type": "object",
+                          "properties": {
+                            "sha256": {
+                              "type": "string",
+                              "pattern": "^[a-f0-9]{64}$"
+                            },
+                            "object_key": {
+                              "type": "string",
+                              "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                            },
+                            "media_type": {
+                              "type": "string",
+                              "const": "image/webp"
+                            },
+                            "width": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "height": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "bytes": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 20000000
+                            },
+                            "url": {
+                              "type": "string",
+                              "format": "uri"
+                            }
+                          },
+                          "required": [
+                            "sha256",
+                            "object_key",
+                            "media_type",
+                            "width",
+                            "height",
+                            "bytes",
+                            "url"
+                          ],
+                          "additionalProperties": false
+                        },
+                        "detail": {
+                          "type": "object",
+                          "properties": {
+                            "sha256": {
+                              "type": "string",
+                              "pattern": "^[a-f0-9]{64}$"
+                            },
+                            "object_key": {
+                              "type": "string",
+                              "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                            },
+                            "media_type": {
+                              "type": "string",
+                              "const": "image/webp"
+                            },
+                            "width": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "height": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 1200
+                            },
+                            "bytes": {
+                              "type": "integer",
+                              "exclusiveMinimum": 0,
+                              "maximum": 20000000
+                            },
+                            "url": {
+                              "type": "string",
+                              "format": "uri"
+                            }
+                          },
+                          "required": [
+                            "sha256",
+                            "object_key",
+                            "media_type",
+                            "width",
+                            "height",
+                            "bytes",
+                            "url"
+                          ],
+                          "additionalProperties": false
+                        }
+                      },
+                      "required": [
+                        "asset_id",
+                        "edition_id",
+                        "alt_text",
+                        "source_url",
+                        "rights",
+                        "thumbnail",
+                        "detail"
+                      ],
+                      "additionalProperties": false
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "unavailable_reason": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "enum": [
+                        "missing_edition",
+                        "missing_cover",
+                        "withdrawn",
+                        "use_not_permitted",
+                        "redistribution_not_permitted"
+                      ]
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "game_id",
+                "edition_id",
+                "cover",
+                "unavailable_reason"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "schema_version",
+          "release_id",
+          "use_context",
+          "delivery",
+          "counts",
+          "records"
+        ],
+        "additionalProperties": false
+      },
+      "ImageRights": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "basis": {
+            "type": "string",
+            "enum": [
+              "publisher-permission",
+              "publisher-press-kit",
+              "cc-by",
+              "cc-by-sa",
+              "cc0",
+              "public-domain",
+              "fair-use"
+            ]
+          },
+          "terms_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "attribution": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 10000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "allowed_uses": {
+            "minItems": 1,
+            "maxItems": 2,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "noncommercial",
+                "commercial"
+              ]
+            }
+          },
+          "redistribution_allowed": {
+            "type": "boolean"
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 10000
+          }
+        },
+        "required": [
+          "basis",
+          "terms_url",
+          "attribution",
+          "allowed_uses",
+          "redistribution_allowed",
+          "note"
+        ],
+        "additionalProperties": false
+      },
+      "ImageRendition": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "object_key": {
+            "type": "string",
+            "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+          },
+          "media_type": {
+            "type": "string",
+            "const": "image/webp"
+          },
+          "width": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 1200
+          },
+          "height": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 1200
+          },
+          "bytes": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 20000000
+          }
+        },
+        "required": [
+          "sha256",
+          "object_key",
+          "media_type",
+          "width",
+          "height",
+          "bytes"
         ],
         "additionalProperties": false
       }

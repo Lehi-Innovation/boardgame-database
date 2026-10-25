@@ -1,0 +1,331 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "release_id": {
+      "type": "string",
+      "pattern": "^r[0-9]{6,}$"
+    },
+    "use_context": {
+      "type": "string",
+      "enum": [
+        "noncommercial",
+        "commercial"
+      ]
+    },
+    "delivery": {
+      "type": "string",
+      "enum": [
+        "urls",
+        "bundled"
+      ]
+    },
+    "counts": {
+      "type": "object",
+      "properties": {
+        "games": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "available": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "missing": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "games",
+        "available",
+        "missing"
+      ],
+      "additionalProperties": false
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "game_id": {
+            "type": "string",
+            "allOf": [
+              {
+                "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+              },
+              {
+                "pattern": "^[0-9a-f-]+$"
+              }
+            ]
+          },
+          "edition_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "allOf": [
+                  {
+                    "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                  },
+                  {
+                    "pattern": "^[0-9a-f-]+$"
+                  }
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "cover": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "asset_id": {
+                    "type": "string",
+                    "allOf": [
+                      {
+                        "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                      },
+                      {
+                        "pattern": "^[0-9a-f-]+$"
+                      }
+                    ]
+                  },
+                  "edition_id": {
+                    "type": "string",
+                    "allOf": [
+                      {
+                        "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+                      },
+                      {
+                        "pattern": "^[0-9a-f-]+$"
+                      }
+                    ]
+                  },
+                  "alt_text": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 500
+                  },
+                  "source_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "rights": {
+                    "type": "object",
+                    "properties": {
+                      "basis": {
+                        "type": "string",
+                        "enum": [
+                          "publisher-permission",
+                          "publisher-press-kit",
+                          "cc-by",
+                          "cc-by-sa",
+                          "cc0",
+                          "public-domain",
+                          "fair-use"
+                        ]
+                      },
+                      "terms_url": {
+                        "type": "string",
+                        "format": "uri"
+                      },
+                      "attribution": {
+                        "anyOf": [
+                          {
+                            "type": "string",
+                            "minLength": 1,
+                            "maxLength": 10000
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "allowed_uses": {
+                        "minItems": 1,
+                        "maxItems": 2,
+                        "type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": [
+                            "noncommercial",
+                            "commercial"
+                          ]
+                        }
+                      },
+                      "redistribution_allowed": {
+                        "type": "boolean"
+                      },
+                      "note": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 10000
+                      }
+                    },
+                    "required": [
+                      "basis",
+                      "terms_url",
+                      "attribution",
+                      "allowed_uses",
+                      "redistribution_allowed",
+                      "note"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "thumbnail": {
+                    "type": "object",
+                    "properties": {
+                      "sha256": {
+                        "type": "string",
+                        "pattern": "^[a-f0-9]{64}$"
+                      },
+                      "object_key": {
+                        "type": "string",
+                        "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                      },
+                      "media_type": {
+                        "type": "string",
+                        "const": "image/webp"
+                      },
+                      "width": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "height": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "bytes": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 20000000
+                      },
+                      "url": {
+                        "type": "string",
+                        "format": "uri"
+                      }
+                    },
+                    "required": [
+                      "sha256",
+                      "object_key",
+                      "media_type",
+                      "width",
+                      "height",
+                      "bytes",
+                      "url"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "detail": {
+                    "type": "object",
+                    "properties": {
+                      "sha256": {
+                        "type": "string",
+                        "pattern": "^[a-f0-9]{64}$"
+                      },
+                      "object_key": {
+                        "type": "string",
+                        "pattern": "^covers\\/[a-f0-9]{64}\\.webp$"
+                      },
+                      "media_type": {
+                        "type": "string",
+                        "const": "image/webp"
+                      },
+                      "width": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "height": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 1200
+                      },
+                      "bytes": {
+                        "type": "integer",
+                        "exclusiveMinimum": 0,
+                        "maximum": 20000000
+                      },
+                      "url": {
+                        "type": "string",
+                        "format": "uri"
+                      }
+                    },
+                    "required": [
+                      "sha256",
+                      "object_key",
+                      "media_type",
+                      "width",
+                      "height",
+                      "bytes",
+                      "url"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "required": [
+                  "asset_id",
+                  "edition_id",
+                  "alt_text",
+                  "source_url",
+                  "rights",
+                  "thumbnail",
+                  "detail"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "unavailable_reason": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "missing_edition",
+                  "missing_cover",
+                  "withdrawn",
+                  "use_not_permitted",
+                  "redistribution_not_permitted"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "game_id",
+          "edition_id",
+          "cover",
+          "unavailable_reason"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "release_id",
+    "use_context",
+    "delivery",
+    "counts",
+    "records"
+  ],
+  "additionalProperties": false
+}

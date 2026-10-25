@@ -1,0 +1,2436 @@
+{
+  "format_version": 1,
+  "dataset": "boardgame-marketplace-pilot",
+  "legacy_commit": "f7fb5a9e0ede90d402c5facce735886385d952df",
+  "consumer": {
+    "name": "boardgame-marketplace",
+    "commit": "82bca51dfa131b73cdc0097177bce73d9a28330d",
+    "path": "db/seeds.rb",
+    "source_hash": "fa021c0a002721e4ba48cfd5ed235084d62e8d900dccaf358d6c37053a15a2d1"
+  },
+  "entries": [
+    {
+      "legacy_id": "wingspan",
+      "source_hash": "09cb400db84f053055ce55f662dd53292bfce917a6b0dd88e209c78e0fc4d3be",
+      "candidate": {
+        "name": "Wingspan",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "266192"
+          }
+        ]
+      },
+      "game_id": "506babbd-94e8-4695-ae38-e43b8f78325e",
+      "edition_id": "6cc34f72-1140-5b1e-83cc-bddae2d2ad4d",
+      "proposal_id": "ebf2976c-71d5-4054-8f18-e3c7c1aad532",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Wingspan",
+          "rationale": "Unapproved identity-only preparation for cover research. The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "506babbd-94e8-4695-ae38-e43b8f78325e",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "506babbd-94e8-4695-ae38-e43b8f78325e",
+                "entity_type": "game",
+                "name": "Wingspan",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "6cc34f72-1140-5b1e-83cc-bddae2d2ad4d",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "ff500b87-6a8e-586d-b3be-e71bc5265d74",
+                  "note": "Publisher names this game. The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns."
+                }
+              ]
+            },
+            {
+              "entity_id": "6cc34f72-1140-5b1e-83cc-bddae2d2ad4d",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  }
+                ],
+                "id": "6cc34f72-1140-5b1e-83cc-bddae2d2ad4d",
+                "entity_type": "edition",
+                "name": "Wingspan — Stonemaier English base game",
+                "aliases": [],
+                "game_id": "506babbd-94e8-4695-ae38-e43b8f78325e",
+                "publication_year": null,
+                "languages": [
+                  "en"
+                ],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "ff500b87-6a8e-586d-b3be-e71bc5265d74",
+                  "note": "The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "ff500b87-6a8e-586d-b3be-e71bc5265d74",
+                  "note": "The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns."
+                },
+                {
+                  "path": "/languages",
+                  "source_id": "ff500b87-6a8e-586d-b3be-e71bc5265d74",
+                  "note": "The publisher identifies an English base game. Propose this representative edition; keep printing and publication year unknown. The current product includes Swift-Start, but the older box rendering does not establish which printing a seller owns."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "ff500b87-6a8e-586d-b3be-e71bc5265d74",
+              "url": "https://store.stonemaiergames.com/products/wingspan",
+              "title": "Wingspan",
+              "publisher": "Stonemaier Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "terraforming-mars",
+      "source_hash": "6220df7dfbe2223a76c01cc65251216b9d0ea0e343efd2d58fb2cb950a783efb",
+      "candidate": {
+        "name": "Terraforming Mars",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "167791"
+          }
+        ]
+      },
+      "game_id": "81f2248a-27d2-4e5d-9be9-2397e0cb9f84",
+      "edition_id": "9eb3453c-a2b3-577d-8324-d54817d6233f",
+      "proposal_id": "dfdf7956-a168-4a61-9b7e-dc7bff1ca89f",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Terraforming Mars",
+          "rationale": "Unapproved identity-only preparation for cover research. The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "81f2248a-27d2-4e5d-9be9-2397e0cb9f84",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "81f2248a-27d2-4e5d-9be9-2397e0cb9f84",
+                "entity_type": "game",
+                "name": "Terraforming Mars",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "9eb3453c-a2b3-577d-8324-d54817d6233f",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "e2534703-5398-5e7a-826b-f7923d2aaf6e",
+                  "note": "Publisher names this game. The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game."
+                }
+              ]
+            },
+            {
+              "entity_id": "9eb3453c-a2b3-577d-8324-d54817d6233f",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  }
+                ],
+                "id": "9eb3453c-a2b3-577d-8324-d54817d6233f",
+                "entity_type": "edition",
+                "name": "Terraforming Mars — English base game, Stronghold/FryxGames box",
+                "aliases": [],
+                "game_id": "81f2248a-27d2-4e5d-9be9-2397e0cb9f84",
+                "publication_year": null,
+                "languages": [
+                  "en"
+                ],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "e2534703-5398-5e7a-826b-f7923d2aaf6e",
+                  "note": "The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "e2534703-5398-5e7a-826b-f7923d2aaf6e",
+                  "note": "The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game."
+                },
+                {
+                  "path": "/languages",
+                  "source_id": "e2534703-5398-5e7a-826b-f7923d2aaf6e",
+                  "note": "The creator's product page identifies the base game and links English rules. The downloaded box has English text and Stronghold/FryxGames branding. Keep the precise printing and edition publication year unknown; do not substitute Ares Expedition or The Dice Game."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "e2534703-5398-5e7a-826b-f7923d2aaf6e",
+              "url": "https://fryxgames.se/product/terraforming-mars/",
+              "title": "Terraforming Mars - FryxGames",
+              "publisher": "FryxGames",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "gloomhaven",
+      "source_hash": "3c78bcc9b8652aebe64361c5f8a7c05b0dad6cadf299fc0d959da2b51574edeb",
+      "candidate": {
+        "name": "Gloomhaven",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "174430"
+          }
+        ]
+      },
+      "game_id": "65eccf26-21ae-4f96-86e6-419438b70a21",
+      "edition_id": null,
+      "proposal_id": "b3e643ce-83ec-4a59-9666-e071f6d6fb45",
+      "identity": {
+        "status": "prepared",
+        "rationale": "Retain the reserved identity for the original Gloomhaven candidate. The historical publisher explanation distinguishes original printings from a new edition. The current product and announcement describe redesigned classes, scenarios and a new reputation system. Do not assign its artwork to the original without a maintainer decision under the substantial-redesign rule. No edition is proposed in this batch."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Gloomhaven",
+          "rationale": "Unapproved identity-only preparation for cover research. Retain the reserved identity for the original Gloomhaven candidate. The historical publisher explanation distinguishes original printings from a new edition. The current product and announcement describe redesigned classes, scenarios and a new reputation system. Do not assign its artwork to the original without a maintainer decision under the substantial-redesign rule. No edition is proposed in this batch. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "65eccf26-21ae-4f96-86e6-419438b70a21",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/default_edition_id",
+                    "kind": "unknown",
+                    "note": "Retain the reserved identity for the original Gloomhaven candidate. The historical publisher explanation distinguishes original printings from a new edition. The current product and announcement describe redesigned classes, scenarios and a new reputation system. Do not assign its artwork to the original without a maintainer decision under the substantial-redesign rule. No edition is proposed in this batch."
+                  }
+                ],
+                "id": "65eccf26-21ae-4f96-86e6-419438b70a21",
+                "entity_type": "game",
+                "name": "Gloomhaven",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": null,
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "dbc2db0b-5fb2-5902-9d21-9e63becb52c3",
+                  "note": "Publisher names this game. Retain the reserved identity for the original Gloomhaven candidate. The historical publisher explanation distinguishes original printings from a new edition. The current product and announcement describe redesigned classes, scenarios and a new reputation system. Do not assign its artwork to the original without a maintainer decision under the substantial-redesign rule. No edition is proposed in this batch."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "dbc2db0b-5fb2-5902-9d21-9e63becb52c3",
+              "url": "https://cephalofair.com/blogs/chronicle/new-printing-not-new-edition",
+              "title": "So it's a new printing, not a new edition",
+              "publisher": "Cephalofair Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            },
+            {
+              "id": "81180359-53d7-5470-a472-fe4fa64a7786",
+              "url": "https://cephalofair.com/blogs/chronicle/cephalofair-games-announces-gloomhaven-second-edition",
+              "title": "Cephalofair Games announces Gloomhaven: Second Edition",
+              "publisher": "Cephalofair Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            },
+            {
+              "id": "6b28777f-c0ce-589e-aea3-813c1d0aa814",
+              "url": "https://cephalofair.com/products/gloomhaven-2nd-edition-preorder",
+              "title": "Gloomhaven",
+              "publisher": "Cephalofair Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "azul",
+      "source_hash": "29fa42fa36ae2376b7149523a845c98233914d8dd4e9f7182059ad05f0b850d5",
+      "candidate": {
+        "name": "Azul",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "230802"
+          }
+        ]
+      },
+      "game_id": "7ada73dd-9aa9-4292-a59a-fd25256708f2",
+      "edition_id": "a10d29ca-eb6a-5498-b4ab-e5868af6a0dd",
+      "proposal_id": "88135f80-22e3-4948-afc0-5a241a9840ee",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The distributor identifies the standard base game by SKU NM6010. Keep language and printing unknown pending packaging/rulebook confirmation. Do not use Azul Mini, Duel or Summer Pavilion artwork."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Azul",
+          "rationale": "Unapproved identity-only preparation for cover research. The distributor identifies the standard base game by SKU NM6010. Keep language and printing unknown pending packaging/rulebook confirmation. Do not use Azul Mini, Duel or Summer Pavilion artwork. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "7ada73dd-9aa9-4292-a59a-fd25256708f2",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "7ada73dd-9aa9-4292-a59a-fd25256708f2",
+                "entity_type": "game",
+                "name": "Azul",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "a10d29ca-eb6a-5498-b4ab-e5868af6a0dd",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "bbbe8c64-1bf5-564d-846f-5d1fa85df0be",
+                  "note": "Publisher names this game. The distributor identifies the standard base game by SKU NM6010. Keep language and printing unknown pending packaging/rulebook confirmation. Do not use Azul Mini, Duel or Summer Pavilion artwork."
+                }
+              ]
+            },
+            {
+              "entity_id": "a10d29ca-eb6a-5498-b4ab-e5868af6a0dd",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "a10d29ca-eb6a-5498-b4ab-e5868af6a0dd",
+                "entity_type": "edition",
+                "name": "Azul — Next Move base game NM6010",
+                "aliases": [],
+                "game_id": "7ada73dd-9aa9-4292-a59a-fd25256708f2",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "bbbe8c64-1bf5-564d-846f-5d1fa85df0be",
+                  "note": "The distributor identifies the standard base game by SKU NM6010. Keep language and printing unknown pending packaging/rulebook confirmation. Do not use Azul Mini, Duel or Summer Pavilion artwork."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "bbbe8c64-1bf5-564d-846f-5d1fa85df0be",
+                  "note": "The distributor identifies the standard base game by SKU NM6010. Keep language and printing unknown pending packaging/rulebook confirmation. Do not use Azul Mini, Duel or Summer Pavilion artwork."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "bbbe8c64-1bf5-564d-846f-5d1fa85df0be",
+              "url": "https://store.asmodee.com/products/azul",
+              "title": "Azul Board Game - A Tile-Laying Strategy Game for Family Fun",
+              "publisher": "Asmodee / Next Move Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "scythe",
+      "source_hash": "436d004819f01eec5198a9fe9174e411985fbbe24c7875bc13768af28fd81f0f",
+      "candidate": {
+        "name": "Scythe",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "169786"
+          }
+        ]
+      },
+      "game_id": "2b222331-6108-4215-8458-f3696e1aa26b",
+      "edition_id": "fd331b63-baa8-560d-aabb-ebfd74317edf",
+      "proposal_id": "417ca816-142a-4284-b1ad-9bb58392a087",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Scythe",
+          "rationale": "Unapproved identity-only preparation for cover research. The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "2b222331-6108-4215-8458-f3696e1aa26b",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "2b222331-6108-4215-8458-f3696e1aa26b",
+                "entity_type": "game",
+                "name": "Scythe",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "fd331b63-baa8-560d-aabb-ebfd74317edf",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "5c1c8d74-638a-5862-ab68-10872ec6c2af",
+                  "note": "Publisher names this game. The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown."
+                }
+              ]
+            },
+            {
+              "entity_id": "fd331b63-baa8-560d-aabb-ebfd74317edf",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  }
+                ],
+                "id": "fd331b63-baa8-560d-aabb-ebfd74317edf",
+                "entity_type": "edition",
+                "name": "Scythe — Stonemaier English base game",
+                "aliases": [],
+                "game_id": "2b222331-6108-4215-8458-f3696e1aa26b",
+                "publication_year": null,
+                "languages": [
+                  "en"
+                ],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "5c1c8d74-638a-5862-ab68-10872ec6c2af",
+                  "note": "The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "5c1c8d74-638a-5862-ab68-10872ec6c2af",
+                  "note": "The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown."
+                },
+                {
+                  "path": "/languages",
+                  "source_id": "5c1c8d74-638a-5862-ab68-10872ec6c2af",
+                  "note": "The official storefront identifies an English base game. Select the standard box, not the Legendary storage box, an expansion or Expeditions. Exact printing/year remains unknown."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "5c1c8d74-638a-5862-ab68-10872ec6c2af",
+              "url": "https://store.stonemaiergames.com/products/scythe",
+              "title": "Scythe",
+              "publisher": "Stonemaier Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "brass-birmingham",
+      "source_hash": "7da4569cb83f6d388bcb6b26dddc077515bf81ee0146a6b29c0535fded1b3ca9",
+      "candidate": {
+        "name": "Brass: Birmingham",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "224517"
+          }
+        ]
+      },
+      "game_id": "9d96a662-7e4b-4899-b7d8-9310e882b377",
+      "edition_id": "7b7bd8ed-2f4e-5a09-b06b-db19365886f3",
+      "proposal_id": "a2a1f275-9be9-4cfb-a4cb-1acd1e085434",
+      "identity": {
+        "status": "prepared",
+        "rationale": "Roxley explicitly distinguishes retail (standard box/cardboard money) from deluxe (gold-embossed box/Iron Clays). Propose retail; verify the supplied rendering belongs to that option during artwork review. Do not substitute Lancashire or the upcoming Collector's Edition. Printing/language remains unasserted."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Brass: Birmingham",
+          "rationale": "Unapproved identity-only preparation for cover research. Roxley explicitly distinguishes retail (standard box/cardboard money) from deluxe (gold-embossed box/Iron Clays). Propose retail; verify the supplied rendering belongs to that option during artwork review. Do not substitute Lancashire or the upcoming Collector's Edition. Printing/language remains unasserted. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "9d96a662-7e4b-4899-b7d8-9310e882b377",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "9d96a662-7e4b-4899-b7d8-9310e882b377",
+                "entity_type": "game",
+                "name": "Brass: Birmingham",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "7b7bd8ed-2f4e-5a09-b06b-db19365886f3",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "75c2cf00-f4d6-5822-9854-ac075aabd85d",
+                  "note": "Publisher names this game. Roxley explicitly distinguishes retail (standard box/cardboard money) from deluxe (gold-embossed box/Iron Clays). Propose retail; verify the supplied rendering belongs to that option during artwork review. Do not substitute Lancashire or the upcoming Collector's Edition. Printing/language remains unasserted."
+                }
+              ]
+            },
+            {
+              "entity_id": "7b7bd8ed-2f4e-5a09-b06b-db19365886f3",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "7b7bd8ed-2f4e-5a09-b06b-db19365886f3",
+                "entity_type": "edition",
+                "name": "Brass: Birmingham — retail edition",
+                "aliases": [],
+                "game_id": "9d96a662-7e4b-4899-b7d8-9310e882b377",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "75c2cf00-f4d6-5822-9854-ac075aabd85d",
+                  "note": "Roxley explicitly distinguishes retail (standard box/cardboard money) from deluxe (gold-embossed box/Iron Clays). Propose retail; verify the supplied rendering belongs to that option during artwork review. Do not substitute Lancashire or the upcoming Collector's Edition. Printing/language remains unasserted."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "75c2cf00-f4d6-5822-9854-ac075aabd85d",
+                  "note": "Roxley explicitly distinguishes retail (standard box/cardboard money) from deluxe (gold-embossed box/Iron Clays). Propose retail; verify the supplied rendering belongs to that option during artwork review. Do not substitute Lancashire or the upcoming Collector's Edition. Printing/language remains unasserted."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "75c2cf00-f4d6-5822-9854-ac075aabd85d",
+              "url": "https://roxley.com/products/brass-birmingham",
+              "title": "brass-birmingham",
+              "publisher": "Roxley Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "spirit-island",
+      "source_hash": "7b6fa48f62a6a6800d50ed5269877c6dbd462d5c5c6cf66b104ee9fd286da594",
+      "candidate": {
+        "name": "Spirit Island",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "162886"
+          }
+        ]
+      },
+      "game_id": "bd65e613-5a00-48e0-9527-bd16bba505da",
+      "edition_id": "7104b2c1-9cbe-511d-b64d-4b0d9d8ac32e",
+      "proposal_id": "ee2e42b2-675c-4a49-bf64-1a8527fc6e39",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The publisher's base-game product is distinct from Horizons, Nature Incarnate and other expansions. Use the standard base-game box, with precise printing and language pending packaging confirmation."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Spirit Island",
+          "rationale": "Unapproved identity-only preparation for cover research. The publisher's base-game product is distinct from Horizons, Nature Incarnate and other expansions. Use the standard base-game box, with precise printing and language pending packaging confirmation. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "bd65e613-5a00-48e0-9527-bd16bba505da",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "bd65e613-5a00-48e0-9527-bd16bba505da",
+                "entity_type": "game",
+                "name": "Spirit Island",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "7104b2c1-9cbe-511d-b64d-4b0d9d8ac32e",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "198eb8dd-815c-55d0-814e-0bb19e06a728",
+                  "note": "Publisher names this game. The publisher's base-game product is distinct from Horizons, Nature Incarnate and other expansions. Use the standard base-game box, with precise printing and language pending packaging confirmation."
+                }
+              ]
+            },
+            {
+              "entity_id": "7104b2c1-9cbe-511d-b64d-4b0d9d8ac32e",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "7104b2c1-9cbe-511d-b64d-4b0d9d8ac32e",
+                "entity_type": "edition",
+                "name": "Spirit Island — Greater Than Games base game",
+                "aliases": [],
+                "game_id": "bd65e613-5a00-48e0-9527-bd16bba505da",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "198eb8dd-815c-55d0-814e-0bb19e06a728",
+                  "note": "The publisher's base-game product is distinct from Horizons, Nature Incarnate and other expansions. Use the standard base-game box, with precise printing and language pending packaging confirmation."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "198eb8dd-815c-55d0-814e-0bb19e06a728",
+                  "note": "The publisher's base-game product is distinct from Horizons, Nature Incarnate and other expansions. Use the standard base-game box, with precise printing and language pending packaging confirmation."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "198eb8dd-815c-55d0-814e-0bb19e06a728",
+              "url": "https://shop.greaterthangames.com/products/spirit-island",
+              "title": "Spirit Island",
+              "publisher": "Greater Than Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "everdell",
+      "source_hash": "95df8dbc6564ba62c1f43e60680eeaf332cd093ffce7718ec9580ba21bb7967e",
+      "candidate": {
+        "name": "Everdell",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "199792"
+          }
+        ]
+      },
+      "game_id": "8a80f5ea-1aee-4d12-a694-a5eb02c1e88c",
+      "edition_id": "e24990f7-ebb2-53ec-a88f-6b6d4687c05e",
+      "proposal_id": "4520b903-90c1-4f7b-985d-30e0b18a26e0",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The older third-edition URL redirects to Tycoon Games, whose current page names Standard Edition and supplies STG2668EN. Use that product identity; do not infer a third-edition printing solely from the URL. Keep Collector's, Complete Collection, Farshore and Silverfrost separate."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Everdell",
+          "rationale": "Unapproved identity-only preparation for cover research. The older third-edition URL redirects to Tycoon Games, whose current page names Standard Edition and supplies STG2668EN. Use that product identity; do not infer a third-edition printing solely from the URL. Keep Collector's, Complete Collection, Farshore and Silverfrost separate. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "8a80f5ea-1aee-4d12-a694-a5eb02c1e88c",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "8a80f5ea-1aee-4d12-a694-a5eb02c1e88c",
+                "entity_type": "game",
+                "name": "Everdell",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "e24990f7-ebb2-53ec-a88f-6b6d4687c05e",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "20675315-e07e-503f-a832-2ca811ab60f1",
+                  "note": "Publisher names this game. The older third-edition URL redirects to Tycoon Games, whose current page names Standard Edition and supplies STG2668EN. Use that product identity; do not infer a third-edition printing solely from the URL. Keep Collector's, Complete Collection, Farshore and Silverfrost separate."
+                }
+              ]
+            },
+            {
+              "entity_id": "e24990f7-ebb2-53ec-a88f-6b6d4687c05e",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "e24990f7-ebb2-53ec-a88f-6b6d4687c05e",
+                "entity_type": "edition",
+                "name": "Everdell — Standard Edition STG2668EN",
+                "aliases": [],
+                "game_id": "8a80f5ea-1aee-4d12-a694-a5eb02c1e88c",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "20675315-e07e-503f-a832-2ca811ab60f1",
+                  "note": "The older third-edition URL redirects to Tycoon Games, whose current page names Standard Edition and supplies STG2668EN. Use that product identity; do not infer a third-edition printing solely from the URL. Keep Collector's, Complete Collection, Farshore and Silverfrost separate."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "20675315-e07e-503f-a832-2ca811ab60f1",
+                  "note": "The older third-edition URL redirects to Tycoon Games, whose current page names Standard Edition and supplies STG2668EN. Use that product identity; do not infer a third-edition printing solely from the URL. Keep Collector's, Complete Collection, Farshore and Silverfrost separate."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "20675315-e07e-503f-a832-2ca811ab60f1",
+              "url": "https://www.tabletoptycoon.com/products/everdell-standard-edition-3rd-edition",
+              "title": "Everdell | Board Game",
+              "publisher": "Tycoon Games / Starling Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            },
+            {
+              "id": "21547b7c-0b04-55b7-913c-5cba91e8aab2",
+              "url": "https://tycoongames.com/pages/media",
+              "title": "Media",
+              "publisher": "Tycoon Games / Starling Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "viticulture-essential-edition",
+      "source_hash": "e3dfc6b6cff3cff6aa3e5e007f44f483357e5a18b11ec3818567371a8512d1d8",
+      "candidate": {
+        "name": "Viticulture Essential Edition",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "183394"
+          }
+        ]
+      },
+      "game_id": "7d0cb483-e063-4bf4-bdcc-704c99e5c62b",
+      "edition_id": "d7734c86-b2b8-5670-8533-feeede70ca9a",
+      "proposal_id": "5f306031-0991-4246-a379-443c2e2d19d6",
+      "identity": {
+        "status": "prepared",
+        "rationale": "Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Viticulture Essential Edition",
+          "rationale": "Unapproved identity-only preparation for cover research. Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "7d0cb483-e063-4bf4-bdcc-704c99e5c62b",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "7d0cb483-e063-4bf4-bdcc-704c99e5c62b",
+                "entity_type": "game",
+                "name": "Viticulture",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "d7734c86-b2b8-5670-8533-feeede70ca9a",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "6fd19d34-f093-5f4c-9095-209f0f49d24f",
+                  "note": "Publisher names this game. Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml."
+                },
+                {
+                  "path": "/name",
+                  "source_id": "579b3bf0-7597-53e3-a317-a1e6a734c176",
+                  "note": "Publisher describes the original design and Essential upgrade; review the proposed design-level name."
+                }
+              ]
+            },
+            {
+              "entity_id": "d7734c86-b2b8-5670-8533-feeede70ca9a",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  }
+                ],
+                "id": "d7734c86-b2b8-5670-8533-feeede70ca9a",
+                "entity_type": "edition",
+                "name": "Viticulture — Essential Edition, English",
+                "aliases": [],
+                "game_id": "7d0cb483-e063-4bf4-bdcc-704c99e5c62b",
+                "publication_year": null,
+                "languages": [
+                  "en"
+                ],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "6fd19d34-f093-5f4c-9095-209f0f49d24f",
+                  "note": "Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "6fd19d34-f093-5f4c-9095-209f0f49d24f",
+                  "note": "Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml."
+                },
+                {
+                  "path": "/languages",
+                  "source_id": "6fd19d34-f093-5f4c-9095-209f0f49d24f",
+                  "note": "Propose Viticulture as the design name under the reserved candidate UUID, with Essential Edition as its edition. The publisher describes an upgrade pack converting second-edition Viticulture and lists the limited rules/component changes. This is a proposed application of the modest-update policy, subject to human review; it does not merge or remap viticulture.yaml."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "6fd19d34-f093-5f4c-9095-209f0f49d24f",
+              "url": "https://store.stonemaiergames.com/products/viticulture-essential-edition",
+              "title": "Viticulture Essential Edition",
+              "publisher": "Stonemaier Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            },
+            {
+              "id": "579b3bf0-7597-53e3-a317-a1e6a734c176",
+              "url": "https://stonemaiergames.com/games/viticulture/essential-edition/",
+              "title": "Essential Edition",
+              "publisher": "Stonemaier Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "7-wonders",
+      "source_hash": "27edf12f2a1b29ab29ea4ade3be0a28d0f38340a5c96be1285ea5371da65c727",
+      "candidate": {
+        "name": "7 Wonders",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "68448"
+          }
+        ]
+      },
+      "game_id": "8dc0a117-2726-4f1a-acee-d70020170e10",
+      "edition_id": "79f87157-0fbd-5827-bfab-4876a43d18dd",
+      "proposal_id": "9ff083ca-0c79-4d65-8a73-7fcb7634e7a2",
+      "identity": {
+        "status": "prepared",
+        "rationale": "Propose New Edition SV01EN within the existing design. Repos distinguishes it from the older edition by balancing, ergonomics and metallic title treatment, and advises against mixing their expansions. No compatibility relationship or legacy-file merge is asserted; the edition choice needs maintainer review."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: 7 Wonders",
+          "rationale": "Unapproved identity-only preparation for cover research. Propose New Edition SV01EN within the existing design. Repos distinguishes it from the older edition by balancing, ergonomics and metallic title treatment, and advises against mixing their expansions. No compatibility relationship or legacy-file merge is asserted; the edition choice needs maintainer review. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "8dc0a117-2726-4f1a-acee-d70020170e10",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "8dc0a117-2726-4f1a-acee-d70020170e10",
+                "entity_type": "game",
+                "name": "7 Wonders",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "79f87157-0fbd-5827-bfab-4876a43d18dd",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "5f650c96-74c7-50a5-ad8b-59497a6e91d8",
+                  "note": "Publisher names this game. Propose New Edition SV01EN within the existing design. Repos distinguishes it from the older edition by balancing, ergonomics and metallic title treatment, and advises against mixing their expansions. No compatibility relationship or legacy-file merge is asserted; the edition choice needs maintainer review."
+                }
+              ]
+            },
+            {
+              "entity_id": "79f87157-0fbd-5827-bfab-4876a43d18dd",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "79f87157-0fbd-5827-bfab-4876a43d18dd",
+                "entity_type": "edition",
+                "name": "7 Wonders — New Edition SV01EN",
+                "aliases": [],
+                "game_id": "8dc0a117-2726-4f1a-acee-d70020170e10",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "5f650c96-74c7-50a5-ad8b-59497a6e91d8",
+                  "note": "Propose New Edition SV01EN within the existing design. Repos distinguishes it from the older edition by balancing, ergonomics and metallic title treatment, and advises against mixing their expansions. No compatibility relationship or legacy-file merge is asserted; the edition choice needs maintainer review."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "5f650c96-74c7-50a5-ad8b-59497a6e91d8",
+                  "note": "Propose New Edition SV01EN within the existing design. Repos distinguishes it from the older edition by balancing, ergonomics and metallic title treatment, and advises against mixing their expansions. No compatibility relationship or legacy-file merge is asserted; the edition choice needs maintainer review."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "5f650c96-74c7-50a5-ad8b-59497a6e91d8",
+              "url": "https://store.asmodee.com/products/7-wonders-new-edition",
+              "title": "7 Wonders New Edition Board Game",
+              "publisher": "Asmodee / Repos Production",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            },
+            {
+              "id": "02963315-8f48-5cc2-a030-154ef9db624a",
+              "url": "https://www.rprod.com/en/7-wonders/faq",
+              "title": "FAQ  7 Wonders",
+              "publisher": "Asmodee / Repos Production",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "dominion",
+      "source_hash": "0c81431cec1d7232ef2c9c0d2ba205edced6030a68e1670eac9f179a99753871",
+      "candidate": {
+        "name": "Dominion",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "36218"
+          }
+        ]
+      },
+      "game_id": "61a60472-7ba2-4180-9d92-2e6bbc3838e2",
+      "edition_id": "b802d9e1-57fa-5e6a-b795-04e093c27f1d",
+      "proposal_id": "591c99c7-155f-45b7-a6a3-b59fc879e5e3",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The publisher explicitly identifies Second Edition and describes six replaced cards, one added card and presentation changes. Propose another edition of the same design under the modest-update policy. No merge of dominion-second-edition.yaml is performed."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Dominion",
+          "rationale": "Unapproved identity-only preparation for cover research. The publisher explicitly identifies Second Edition and describes six replaced cards, one added card and presentation changes. Propose another edition of the same design under the modest-update policy. No merge of dominion-second-edition.yaml is performed. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "61a60472-7ba2-4180-9d92-2e6bbc3838e2",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "61a60472-7ba2-4180-9d92-2e6bbc3838e2",
+                "entity_type": "game",
+                "name": "Dominion",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "b802d9e1-57fa-5e6a-b795-04e093c27f1d",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "093093d5-e75e-5a03-8aea-d943fd93c5b2",
+                  "note": "Publisher names this game. The publisher explicitly identifies Second Edition and describes six replaced cards, one added card and presentation changes. Propose another edition of the same design under the modest-update policy. No merge of dominion-second-edition.yaml is performed."
+                }
+              ]
+            },
+            {
+              "entity_id": "b802d9e1-57fa-5e6a-b795-04e093c27f1d",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "b802d9e1-57fa-5e6a-b795-04e093c27f1d",
+                "entity_type": "edition",
+                "name": "Dominion — Second Edition",
+                "aliases": [],
+                "game_id": "61a60472-7ba2-4180-9d92-2e6bbc3838e2",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "093093d5-e75e-5a03-8aea-d943fd93c5b2",
+                  "note": "The publisher explicitly identifies Second Edition and describes six replaced cards, one added card and presentation changes. Propose another edition of the same design under the modest-update policy. No merge of dominion-second-edition.yaml is performed."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "093093d5-e75e-5a03-8aea-d943fd93c5b2",
+                  "note": "The publisher explicitly identifies Second Edition and describes six replaced cards, one added card and presentation changes. Propose another edition of the same design under the modest-update policy. No merge of dominion-second-edition.yaml is performed."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "093093d5-e75e-5a03-8aea-d943fd93c5b2",
+              "url": "https://www.riograndegames.com/games/dominion/",
+              "title": "Dominion® - Rio Grande Games",
+              "publisher": "Rio Grande Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "splendor",
+      "source_hash": "b51f12488ca62f4ec6f6f33e3169fc981272e1492a9669495e9db9ab85689595",
+      "candidate": {
+        "name": "Splendor",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "148228"
+          }
+        ]
+      },
+      "game_id": "254a0b1c-d50d-4c8b-a5dc-72825d0fd565",
+      "edition_id": "e70f295a-cd9d-5e0a-9dea-ca88314285e7",
+      "proposal_id": "1659e2eb-8c3b-4ee4-b7f4-5436c8dfc5d0",
+      "identity": {
+        "status": "prepared",
+        "rationale": "Use the specific distributor SKU SPL01 and pictured base-game packaging. Do not infer the original publication year for this packaging revision, and do not substitute Duel or Marvel."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Splendor",
+          "rationale": "Unapproved identity-only preparation for cover research. Use the specific distributor SKU SPL01 and pictured base-game packaging. Do not infer the original publication year for this packaging revision, and do not substitute Duel or Marvel. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "254a0b1c-d50d-4c8b-a5dc-72825d0fd565",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "254a0b1c-d50d-4c8b-a5dc-72825d0fd565",
+                "entity_type": "game",
+                "name": "Splendor",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "e70f295a-cd9d-5e0a-9dea-ca88314285e7",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "3a0439e7-6aa5-5a80-8258-d0674b74072e",
+                  "note": "Publisher names this game. Use the specific distributor SKU SPL01 and pictured base-game packaging. Do not infer the original publication year for this packaging revision, and do not substitute Duel or Marvel."
+                }
+              ]
+            },
+            {
+              "entity_id": "e70f295a-cd9d-5e0a-9dea-ca88314285e7",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "e70f295a-cd9d-5e0a-9dea-ca88314285e7",
+                "entity_type": "edition",
+                "name": "Splendor — Space Cowboys SPL01",
+                "aliases": [],
+                "game_id": "254a0b1c-d50d-4c8b-a5dc-72825d0fd565",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "3a0439e7-6aa5-5a80-8258-d0674b74072e",
+                  "note": "Use the specific distributor SKU SPL01 and pictured base-game packaging. Do not infer the original publication year for this packaging revision, and do not substitute Duel or Marvel."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "3a0439e7-6aa5-5a80-8258-d0674b74072e",
+                  "note": "Use the specific distributor SKU SPL01 and pictured base-game packaging. Do not infer the original publication year for this packaging revision, and do not substitute Duel or Marvel."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "3a0439e7-6aa5-5a80-8258-d0674b74072e",
+              "url": "https://store.asmodee.com/products/splendor",
+              "title": "Splendor Board Game - Strategy Game for Prestigious Gems",
+              "publisher": "Asmodee / Space Cowboys",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "codenames",
+      "source_hash": "d66a4078fa406692809cb1120b8be81a4b16a524d280928bce7b3e923806391c",
+      "candidate": {
+        "name": "Codenames",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "178900"
+          }
+        ]
+      },
+      "game_id": "9edeaa3a-038d-4875-a5e5-cc825b0ac4df",
+      "edition_id": "fcd3fc77-7b59-5632-a8ed-60aa316ce594",
+      "proposal_id": "f7125555-1f0e-4faa-ab8c-c72deabab3ff",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Codenames",
+          "rationale": "Unapproved identity-only preparation for cover research. The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "9edeaa3a-038d-4875-a5e5-cc825b0ac4df",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "9edeaa3a-038d-4875-a5e5-cc825b0ac4df",
+                "entity_type": "game",
+                "name": "Codenames",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "fcd3fc77-7b59-5632-a8ed-60aa316ce594",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "6577fa59-4b2c-5b1a-87a6-e75da33d98d8",
+                  "note": "Publisher names this game. The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link."
+                }
+              ]
+            },
+            {
+              "entity_id": "fcd3fc77-7b59-5632-a8ed-60aa316ce594",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  }
+                ],
+                "id": "fcd3fc77-7b59-5632-a8ed-60aa316ce594",
+                "entity_type": "edition",
+                "name": "Codenames — refreshed English edition CGE00125",
+                "aliases": [],
+                "game_id": "9edeaa3a-038d-4875-a5e5-cc825b0ac4df",
+                "publication_year": null,
+                "languages": [
+                  "en"
+                ],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "6577fa59-4b2c-5b1a-87a6-e75da33d98d8",
+                  "note": "The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "6577fa59-4b2c-5b1a-87a6-e75da33d98d8",
+                  "note": "The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link."
+                },
+                {
+                  "path": "/languages",
+                  "source_id": "6577fa59-4b2c-5b1a-87a6-e75da33d98d8",
+                  "note": "The publisher press sheet identifies CGE00125, EAN 8594156311254 and a refresh of the existing game; its image is specifically labeled EN in the publisher's asset URL. Propose a new edition of the same design. Do not reuse the older edition cover; preserve the already approved Rails names-only identity link."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "6577fa59-4b2c-5b1a-87a6-e75da33d98d8",
+              "url": "https://www.czechgames.com/for-press-games/codenames",
+              "title": "CGE | CODENAMES",
+              "publisher": "Czech Games Edition",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "the-castles-of-burgundy",
+      "source_hash": "89b4a8104ca407ab4333fe5f081a121c68ad570123c4075d026f7c5c399a45aa",
+      "candidate": {
+        "name": "The Castles of Burgundy",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "84876"
+          }
+        ]
+      },
+      "game_id": "60433ca5-c2ab-45b6-a6ca-6de9047ba81e",
+      "edition_id": null,
+      "proposal_id": "e4d2d79a-ae6d-4370-9228-c32a8758a541",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The US publisher page lists reissue article 26925 and EAN 4005556269259. Its linked cover visibly has a German title, and the downloaded file is below minimum dimensions. Do not assert an English edition or associate this image to one. Keep the edition unresolved until language/product correspondence is confirmed."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: The Castles of Burgundy",
+          "rationale": "Unapproved identity-only preparation for cover research. The US publisher page lists reissue article 26925 and EAN 4005556269259. Its linked cover visibly has a German title, and the downloaded file is below minimum dimensions. Do not assert an English edition or associate this image to one. Keep the edition unresolved until language/product correspondence is confirmed. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "60433ca5-c2ab-45b6-a6ca-6de9047ba81e",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/default_edition_id",
+                    "kind": "unknown",
+                    "note": "The US publisher page lists reissue article 26925 and EAN 4005556269259. Its linked cover visibly has a German title, and the downloaded file is below minimum dimensions. Do not assert an English edition or associate this image to one. Keep the edition unresolved until language/product correspondence is confirmed."
+                  }
+                ],
+                "id": "60433ca5-c2ab-45b6-a6ca-6de9047ba81e",
+                "entity_type": "game",
+                "name": "The Castles of Burgundy",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": null,
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "1fba4750-00e3-5ae9-a01b-a874cfb0a8e3",
+                  "note": "Publisher names this game. The US publisher page lists reissue article 26925 and EAN 4005556269259. Its linked cover visibly has a German title, and the downloaded file is below minimum dimensions. Do not assert an English edition or associate this image to one. Keep the edition unresolved until language/product correspondence is confirmed."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "1fba4750-00e3-5ae9-a01b-a874cfb0a8e3",
+              "url": "https://www.ravensburger.us/en-US/products/games/family-games/the-castles-of-burgundy-26925",
+              "title": "The Castles of Burgundy — article 26925",
+              "publisher": "Ravensburger",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Official US page, Details (article 26925/EAN 4005556269259) and first linked image. Read via web browser tool; local HTTP fetch returned 403."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "ticket-to-ride",
+      "source_hash": "6a933449bca2a382142d851e9c09cad14a7f6b385237991cea5f21eef660f0af",
+      "candidate": {
+        "name": "Ticket to Ride",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "9209"
+          }
+        ]
+      },
+      "game_id": "a6b66495-fa9e-40f5-8244-7d3dd24bc1ae",
+      "edition_id": "4a186758-09a5-5a10-8a6a-4937381d0841",
+      "proposal_id": "5f45a7dd-c6cf-4de7-b3e2-ac9227dfec1f",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The distributor now identifies the North America base game as Refresh DOW7201N. Use that packaging-specific edition, not legacy DOW7201, Europe or another map game. Unknown publication year and language remain unasserted."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Ticket to Ride",
+          "rationale": "Unapproved identity-only preparation for cover research. The distributor now identifies the North America base game as Refresh DOW7201N. Use that packaging-specific edition, not legacy DOW7201, Europe or another map game. Unknown publication year and language remain unasserted. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "a6b66495-fa9e-40f5-8244-7d3dd24bc1ae",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "a6b66495-fa9e-40f5-8244-7d3dd24bc1ae",
+                "entity_type": "game",
+                "name": "Ticket to Ride",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "4a186758-09a5-5a10-8a6a-4937381d0841",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "0ff4b852-061e-56c8-815e-dbbaf7e28821",
+                  "note": "Publisher names this game. The distributor now identifies the North America base game as Refresh DOW7201N. Use that packaging-specific edition, not legacy DOW7201, Europe or another map game. Unknown publication year and language remain unasserted."
+                }
+              ]
+            },
+            {
+              "entity_id": "4a186758-09a5-5a10-8a6a-4937381d0841",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "4a186758-09a5-5a10-8a6a-4937381d0841",
+                "entity_type": "edition",
+                "name": "Ticket to Ride — Refresh DOW7201N",
+                "aliases": [],
+                "game_id": "a6b66495-fa9e-40f5-8244-7d3dd24bc1ae",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "0ff4b852-061e-56c8-815e-dbbaf7e28821",
+                  "note": "The distributor now identifies the North America base game as Refresh DOW7201N. Use that packaging-specific edition, not legacy DOW7201, Europe or another map game. Unknown publication year and language remain unasserted."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "0ff4b852-061e-56c8-815e-dbbaf7e28821",
+                  "note": "The distributor now identifies the North America base game as Refresh DOW7201N. Use that packaging-specific edition, not legacy DOW7201, Europe or another map game. Unknown publication year and language remain unasserted."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "0ff4b852-061e-56c8-815e-dbbaf7e28821",
+              "url": "https://store.asmodee.com/products/ticket-to-ride-refresh",
+              "title": "Ticket to Ride Refresh",
+              "publisher": "Asmodee / Days of Wonder",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "pandemic",
+      "source_hash": "295345cd8c38ffe24b80d2c6dcfba42aff7a937bb04e09976bb97235d532cfb9",
+      "candidate": {
+        "name": "Pandemic",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "30549"
+          }
+        ]
+      },
+      "game_id": "f624bcd1-c084-4c06-b90d-3b9e6775f2de",
+      "edition_id": "30a0ecf6-9a3a-5ef7-a760-bc74b0aa03e4",
+      "proposal_id": "149d9015-56d7-449b-a7da-94610da8eb6d",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The official distributor distinguishes standard Pandemic SKU ZM7101 from the Legacy games. Use this package identity; do not copy the legacy first-release year onto the edition."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Pandemic",
+          "rationale": "Unapproved identity-only preparation for cover research. The official distributor distinguishes standard Pandemic SKU ZM7101 from the Legacy games. Use this package identity; do not copy the legacy first-release year onto the edition. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "f624bcd1-c084-4c06-b90d-3b9e6775f2de",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "f624bcd1-c084-4c06-b90d-3b9e6775f2de",
+                "entity_type": "game",
+                "name": "Pandemic",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "30a0ecf6-9a3a-5ef7-a760-bc74b0aa03e4",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "da14b939-5f49-55de-bc07-33e958f9e319",
+                  "note": "Publisher names this game. The official distributor distinguishes standard Pandemic SKU ZM7101 from the Legacy games. Use this package identity; do not copy the legacy first-release year onto the edition."
+                }
+              ]
+            },
+            {
+              "entity_id": "30a0ecf6-9a3a-5ef7-a760-bc74b0aa03e4",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "30a0ecf6-9a3a-5ef7-a760-bc74b0aa03e4",
+                "entity_type": "edition",
+                "name": "Pandemic — Z-Man base game ZM7101",
+                "aliases": [],
+                "game_id": "f624bcd1-c084-4c06-b90d-3b9e6775f2de",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "da14b939-5f49-55de-bc07-33e958f9e319",
+                  "note": "The official distributor distinguishes standard Pandemic SKU ZM7101 from the Legacy games. Use this package identity; do not copy the legacy first-release year onto the edition."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "da14b939-5f49-55de-bc07-33e958f9e319",
+                  "note": "The official distributor distinguishes standard Pandemic SKU ZM7101 from the Legacy games. Use this package identity; do not copy the legacy first-release year onto the edition."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "da14b939-5f49-55de-bc07-33e958f9e319",
+              "url": "https://store.asmodee.com/products/pandemic",
+              "title": "Pandemic Board Game (Base Game) Cooperative Strategy Game for Family",
+              "publisher": "Asmodee / Z-Man Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "catan",
+      "source_hash": "2ffb1653877e30859262b218ae495d4d0ce7f55c6a5f85ce6123f04e4ffa27a1",
+      "candidate": {
+        "name": "Catan",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "13"
+          }
+        ]
+      },
+      "game_id": "18b3637a-9b38-4055-bf7b-5c3dc25c2e23",
+      "edition_id": "c456fed6-012f-5259-a247-23191cc1e97a",
+      "proposal_id": "5c9b4b16-be64-4a7d-a66a-a36a5b7443dc",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The official page labels the pictured box as sixth edition. The compatibility page describes changed artwork, box sizes and components across English editions. Propose an edition of the existing design; preserve Catan's legacy source key and do not treat every older Settlers box as this edition."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Catan",
+          "rationale": "Unapproved identity-only preparation for cover research. The official page labels the pictured box as sixth edition. The compatibility page describes changed artwork, box sizes and components across English editions. Propose an edition of the existing design; preserve Catan's legacy source key and do not treat every older Settlers box as this edition. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "18b3637a-9b38-4055-bf7b-5c3dc25c2e23",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "18b3637a-9b38-4055-bf7b-5c3dc25c2e23",
+                "entity_type": "game",
+                "name": "Catan",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "c456fed6-012f-5259-a247-23191cc1e97a",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "db78d0a8-b98d-5dea-9f7a-5957dc39aebe",
+                  "note": "Publisher names this game. The official page labels the pictured box as sixth edition. The compatibility page describes changed artwork, box sizes and components across English editions. Propose an edition of the existing design; preserve Catan's legacy source key and do not treat every older Settlers box as this edition."
+                }
+              ]
+            },
+            {
+              "entity_id": "c456fed6-012f-5259-a247-23191cc1e97a",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "c456fed6-012f-5259-a247-23191cc1e97a",
+                "entity_type": "edition",
+                "name": "CATAN — The Game, sixth edition",
+                "aliases": [],
+                "game_id": "18b3637a-9b38-4055-bf7b-5c3dc25c2e23",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "db78d0a8-b98d-5dea-9f7a-5957dc39aebe",
+                  "note": "The official page labels the pictured box as sixth edition. The compatibility page describes changed artwork, box sizes and components across English editions. Propose an edition of the existing design; preserve Catan's legacy source key and do not treat every older Settlers box as this edition."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "db78d0a8-b98d-5dea-9f7a-5957dc39aebe",
+                  "note": "The official page labels the pictured box as sixth edition. The compatibility page describes changed artwork, box sizes and components across English editions. Propose an edition of the existing design; preserve Catan's legacy source key and do not treat every older Settlers box as this edition."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "db78d0a8-b98d-5dea-9f7a-5957dc39aebe",
+              "url": "https://www.catan.com/catan",
+              "title": "CATAN",
+              "publisher": "CATAN",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            },
+            {
+              "id": "17eccea8-4ee8-5680-a5cf-71143ea2e04b",
+              "url": "https://www.catan.com/compatibility",
+              "title": "Compatibility between the different English CATAN editions",
+              "publisher": "CATAN",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "carcassonne",
+      "source_hash": "25f21dd4bc9267ce967899475e6dd38891cf6dd4c945fcf2a602a01d456bd1de",
+      "candidate": {
+        "name": "Carcassonne",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "822"
+          }
+        ]
+      },
+      "game_id": "f4fe327d-626c-48ce-ba98-94dfa2072e01",
+      "edition_id": "b79f220f-70d9-587b-87ca-be542c325e56",
+      "proposal_id": "56d971b1-c123-46dc-ac78-35f2a2b55ea2",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The distributor identifies ZM7810 and states that River and Abbot are included. Select this base-game edition, not Big Box or a standalone expansion; no game-level expansion relationship is inferred from bundled modules."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Carcassonne",
+          "rationale": "Unapproved identity-only preparation for cover research. The distributor identifies ZM7810 and states that River and Abbot are included. Select this base-game edition, not Big Box or a standalone expansion; no game-level expansion relationship is inferred from bundled modules. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "f4fe327d-626c-48ce-ba98-94dfa2072e01",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "f4fe327d-626c-48ce-ba98-94dfa2072e01",
+                "entity_type": "game",
+                "name": "Carcassonne",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "b79f220f-70d9-587b-87ca-be542c325e56",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "2ef2b953-c49e-5ff7-b6ae-23c157f6abe9",
+                  "note": "Publisher names this game. The distributor identifies ZM7810 and states that River and Abbot are included. Select this base-game edition, not Big Box or a standalone expansion; no game-level expansion relationship is inferred from bundled modules."
+                }
+              ]
+            },
+            {
+              "entity_id": "b79f220f-70d9-587b-87ca-be542c325e56",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "b79f220f-70d9-587b-87ca-be542c325e56",
+                "entity_type": "edition",
+                "name": "Carcassonne — base game with River and Abbot ZM7810",
+                "aliases": [],
+                "game_id": "f4fe327d-626c-48ce-ba98-94dfa2072e01",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "2ef2b953-c49e-5ff7-b6ae-23c157f6abe9",
+                  "note": "The distributor identifies ZM7810 and states that River and Abbot are included. Select this base-game edition, not Big Box or a standalone expansion; no game-level expansion relationship is inferred from bundled modules."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "2ef2b953-c49e-5ff7-b6ae-23c157f6abe9",
+                  "note": "The distributor identifies ZM7810 and states that River and Abbot are included. Select this base-game edition, not Big Box or a standalone expansion; no game-level expansion relationship is inferred from bundled modules."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "2ef2b953-c49e-5ff7-b6ae-23c157f6abe9",
+              "url": "https://store.asmodee.com/products/carcassonne",
+              "title": "Carcassonne Board Game (Base Game) Strategy Game for Kids and Adults",
+              "publisher": "Asmodee / Hans im Glück",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "pandemic-legacy-season-1",
+      "source_hash": "38139352fbd1aab0519e476056cb76c510330d6357669fd2d2fd67bb85610975",
+      "candidate": {
+        "name": "Pandemic Legacy: Season 1",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "167355"
+          }
+        ]
+      },
+      "game_id": "385a3718-efb5-4d6a-bd70-bbf83ca7d8ed",
+      "edition_id": "4398c86a-4691-513b-b2a8-d59d5f940699",
+      "proposal_id": "9e3c1e35-e604-49a8-87a3-f24c2656cfd4",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The distributor describes a standalone campaign and says red/blue boxes have identical contents with different covers. Keep Season 1 as a separate design from Pandemic; propose Blue Edition ZM7170 specifically. Do not substitute red artwork or assert compatibility/expansion edges."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Pandemic Legacy: Season 1",
+          "rationale": "Unapproved identity-only preparation for cover research. The distributor describes a standalone campaign and says red/blue boxes have identical contents with different covers. Keep Season 1 as a separate design from Pandemic; propose Blue Edition ZM7170 specifically. Do not substitute red artwork or assert compatibility/expansion edges. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "385a3718-efb5-4d6a-bd70-bbf83ca7d8ed",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "385a3718-efb5-4d6a-bd70-bbf83ca7d8ed",
+                "entity_type": "game",
+                "name": "Pandemic Legacy: Season 1",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "4398c86a-4691-513b-b2a8-d59d5f940699",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "3df8850d-096b-5a27-a638-9694712489c6",
+                  "note": "Publisher names this game. The distributor describes a standalone campaign and says red/blue boxes have identical contents with different covers. Keep Season 1 as a separate design from Pandemic; propose Blue Edition ZM7170 specifically. Do not substitute red artwork or assert compatibility/expansion edges."
+                }
+              ]
+            },
+            {
+              "entity_id": "4398c86a-4691-513b-b2a8-d59d5f940699",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "4398c86a-4691-513b-b2a8-d59d5f940699",
+                "entity_type": "edition",
+                "name": "Pandemic Legacy: Season 1 — Blue Edition ZM7170",
+                "aliases": [],
+                "game_id": "385a3718-efb5-4d6a-bd70-bbf83ca7d8ed",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "3df8850d-096b-5a27-a638-9694712489c6",
+                  "note": "The distributor describes a standalone campaign and says red/blue boxes have identical contents with different covers. Keep Season 1 as a separate design from Pandemic; propose Blue Edition ZM7170 specifically. Do not substitute red artwork or assert compatibility/expansion edges."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "3df8850d-096b-5a27-a638-9694712489c6",
+                  "note": "The distributor describes a standalone campaign and says red/blue boxes have identical contents with different covers. Keep Season 1 as a separate design from Pandemic; propose Blue Edition ZM7170 specifically. Do not substitute red artwork or assert compatibility/expansion edges."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "3df8850d-096b-5a27-a638-9694712489c6",
+              "url": "https://store.asmodee.com/products/pandemic-legacy-season-1-blue-edition",
+              "title": "Pandemic Legacy Season 1 Blue Edition Cooperative Strategy Board Game",
+              "publisher": "Asmodee / Z-Man Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "legacy_id": "pandemic-legacy-season-2",
+      "source_hash": "4261f92f66439348351646a939647b5a0cdda7156fed5ddb389c4fe74c0e205b",
+      "candidate": {
+        "name": "Pandemic Legacy: Season 2",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "161936"
+          }
+        ]
+      },
+      "game_id": "3d5ce0f6-0b8f-473c-ae14-351912f014b0",
+      "edition_id": "ea1c9072-3e61-5be2-9e91-e0d6146bdcb7",
+      "proposal_id": "cc148956-3b3b-4536-9761-93ab7dbc1947",
+      "identity": {
+        "status": "prepared",
+        "rationale": "The publisher calls Season 2 a standalone follow-up and states black/yellow boxes have identical contents and different covers. Preserve its separate design UUID and propose Black Edition specifically. The composite is useful comparison evidence but not an edition-specific cover."
+      },
+      "prepared": {
+        "expected_version": 0,
+        "expected_content_hash": null,
+        "content": {
+          "title": "Identity review: Pandemic Legacy: Season 2",
+          "rationale": "Unapproved identity-only preparation for cover research. The publisher calls Season 2 a standalone follow-up and states black/yellow boxes have identical contents and different covers. Preserve its separate design UUID and propose Black Edition specifically. The composite is useful comparison evidence but not an edition-specific cover. Existing legacy name links remain unchanged. No cover, usage permission, release, canonical-to-consumer mapping, or legacy-file merge is approved by this draft.",
+          "origin": "import",
+          "targets": [
+            {
+              "entity_id": "3d5ce0f6-0b8f-473c-ae14-351912f014b0",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [],
+                "id": "3d5ce0f6-0b8f-473c-ae14-351912f014b0",
+                "entity_type": "game",
+                "name": "Pandemic Legacy: Season 2",
+                "aliases": [],
+                "description": null,
+                "kind": "base_game",
+                "first_published_year": null,
+                "designers": [],
+                "mechanics": [],
+                "themes": [],
+                "styles": [],
+                "families": [],
+                "default_edition_id": "ea1c9072-3e61-5be2-9e91-e0d6146bdcb7",
+                "identifiers": [],
+                "relationships": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "999ba02d-561e-5136-a12f-302de69431c0",
+                  "note": "Publisher names this game. The publisher calls Season 2 a standalone follow-up and states black/yellow boxes have identical contents and different covers. Preserve its separate design UUID and propose Black Edition specifically. The composite is useful comparison evidence but not an edition-specific cover."
+                }
+              ]
+            },
+            {
+              "entity_id": "ea1c9072-3e61-5be2-9e91-e0d6146bdcb7",
+              "base_revision_id": null,
+              "payload": {
+                "schema_version": 1,
+                "state": "active",
+                "field_notes": [
+                  {
+                    "path": "/publication_year",
+                    "kind": "unknown",
+                    "note": "The exact selected printing publication year has not been established; no legacy year was copied."
+                  },
+                  {
+                    "path": "/publishers",
+                    "kind": "unknown",
+                    "note": "Publisher brand is described in the cited source; canonical organization records have not been prepared in this identity-only batch."
+                  },
+                  {
+                    "path": "/languages",
+                    "kind": "unknown",
+                    "note": "Confirm the language of the exact selected product; an English website or SKU suffix alone is not sufficient."
+                  }
+                ],
+                "id": "ea1c9072-3e61-5be2-9e91-e0d6146bdcb7",
+                "entity_type": "edition",
+                "name": "Pandemic Legacy: Season 2 — Black Edition",
+                "aliases": [],
+                "game_id": "3d5ce0f6-0b8f-473c-ae14-351912f014b0",
+                "publication_year": null,
+                "languages": [],
+                "publishers": [],
+                "artists": [],
+                "identifiers": [],
+                "play_specifications": [],
+                "compatible_with": []
+              },
+              "evidence": [
+                {
+                  "path": "/name",
+                  "source_id": "999ba02d-561e-5136-a12f-302de69431c0",
+                  "note": "The publisher calls Season 2 a standalone follow-up and states black/yellow boxes have identical contents and different covers. Preserve its separate design UUID and propose Black Edition specifically. The composite is useful comparison evidence but not an edition-specific cover."
+                },
+                {
+                  "path": "/game_id",
+                  "source_id": "999ba02d-561e-5136-a12f-302de69431c0",
+                  "note": "The publisher calls Season 2 a standalone follow-up and states black/yellow boxes have identical contents and different covers. Preserve its separate design UUID and propose Black Edition specifically. The composite is useful comparison evidence but not an edition-specific cover."
+                }
+              ]
+            }
+          ],
+          "sources": [
+            {
+              "id": "999ba02d-561e-5136-a12f-302de69431c0",
+              "url": "https://www.zmangames.com/game/pandemic-legacy-season-2/",
+              "title": "Pandemic Legacy: Season 2",
+              "publisher": "Z-Man Games",
+              "source_type": "publisher",
+              "accessed_on": "2026-09-21",
+              "locator": "Product identification and publisher description; artwork gallery where present."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

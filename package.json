@@ -14,18 +14,30 @@
     "dev": "npm run dev --workspace=@catalog/app",
     "build": "npm run build --workspace=@catalog/app",
     "typecheck": "tsc --noEmit && npm run typecheck --workspace=@catalog/app",
-    "test": "node --import tsx --test --test-isolation=none tests/contracts.test.ts tests/domain.test.ts",
+    "test": "node --import tsx --test --test-isolation=none tests/contracts.test.ts tests/domain.test.ts tests/import-legacy.test.ts tests/name-snapshot.test.ts tests/images.test.ts",
     "test:db": "node --import tsx scripts/test-database.ts",
+    "test:legacy": "npm test --prefix web",
     "test:supabase": "node --import tsx scripts/test-supabase.ts",
     "test:editorial": "node --import tsx scripts/test-editorial.ts",
     "test:browser": "node --import tsx scripts/test-editorial.ts --browser",
     "setup:local": "node --import tsx scripts/setup-catalog-local.ts",
-    "contracts:generate": "node --import tsx scripts/generate-contracts.ts",
-    "contracts:check": "node --import tsx scripts/generate-contracts.ts --check",
+    "import:legacy": "node --import tsx scripts/import-legacy.ts",
+    "contracts:generate": "node --import tsx scripts/generate-contracts.ts && npm run names:schema && npm run covers:schema",
+    "contracts:check": "node --import tsx scripts/generate-contracts.ts --check && npm run names:schema:check && npm run covers:schema:check",
     "check": "npm run typecheck && npm test && npm run contracts:check && npm run test:db",
     "db:start": "supabase start",
     "db:stop": "supabase stop",
-    "db:migrate": "supabase migration up --local"
+    "db:migrate": "supabase migration up --local",
+    "export:names": "node --import tsx scripts/export-names.ts",
+    "names:schema": "node --import tsx scripts/generate-name-schema.ts",
+    "names:schema:check": "node --import tsx scripts/generate-name-schema.ts --check",
+    "test:names:compat": "node --import tsx scripts/test-name-compat.ts",
+    "prepare:cover": "node --import tsx scripts/prepare-cover.ts",
+    "prepare:cover-proposal": "node --import tsx scripts/prepare-cover-proposal.ts",
+    "export:covers": "node --import tsx scripts/export-covers.ts",
+    "audit:covers": "node --import tsx scripts/audit-covers.ts",
+    "covers:schema": "node --import tsx scripts/generate-cover-schema.ts",
+    "covers:schema:check": "node --import tsx scripts/generate-cover-schema.ts --check"
   },
   "devDependencies": {
     "@playwright/test": "1.63.0",
@@ -35,6 +47,8 @@
     "@types/react-dom": "19.3.0",
     "supabase": "2.117.0",
     "tsx": "4.23.13",
-    "typescript": "7.0.2"
+    "typescript": "7.0.2",
+    "sharp": "0.35.4",
+    "yaml": "2.9.1"
   }
 }

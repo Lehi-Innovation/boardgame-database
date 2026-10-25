@@ -1,12 +1,14 @@
 import { z } from 'zod';
+import { CoverMetadata, CoverImage, CoverSnapshot, ImageRights, ImageRendition } from './images.ts';
+export * from './images.ts';
 
-export const CONTRACT_VERSION = '0.3.0';
+export const CONTRACT_VERSION = '0.4.0';
 export const SCHEMA_VERSION = 1;
 export const Id = z.uuid().regex(/^[0-9a-f-]+$/, 'Use canonical lowercase UUIDs');
 export const Text = z.string().trim().min(1).max(10_000);
 export const Name = z.string().trim().min(1).max(300);
 export const Hash = z.string().regex(/^[a-f0-9]{64}$/);
-export const EntityType = z.enum(['game', 'edition', 'person', 'organization', 'taxonomy', 'family', 'assessment']);
+export const EntityType = z.enum(['game', 'edition', 'person', 'organization', 'taxonomy', 'family', 'assessment', 'asset']);
 export const FieldPath = z.string().max(500).regex(/^(\/(?:[^~\/]|~0|~1)+)+$/);
 // Signed historical years: -1 means 1 BCE; there is no year zero.
 export const Year = z.int().min(-9999).max(9999).refine(year => year !== 0).nullable();
@@ -80,6 +82,8 @@ export const EditionRecord = z.strictObject({
   identifiers: z.array(Identifier),
   play_specifications: z.array(PlaySpecification).max(100),
   compatible_with: z.array(Id),
+  // Omission preserves historical revision bytes/hashes; readers treat it as null.
+  cover_asset_id: Id.nullable().optional(),
 }).refine(record => {
   const contexts = record.play_specifications.map(spec => spec.context.kind === 'standalone' ? 'standalone' : spec.context.base_game_id);
   return new Set(contexts).size === contexts.length;
@@ -107,8 +111,19 @@ export const AssessmentRecord = z.strictObject({
   value: z.union([z.number(), Text, z.array(z.union([z.number(), Text])).min(1)]),
   rationale: Text,
 });
+export const AssetRecord = z.strictObject({
+  ...base, ...CoverMetadata.shape,
+  entity_type: z.literal('asset'),
+}).superRefine((asset, ctx) => {
+  if (Math.max(asset.renditions.thumbnail.width, asset.renditions.thumbnail.height) > 320)
+    ctx.addIssue({ code: 'custom', path: ['renditions', 'thumbnail'], message: 'Thumbnail must fit within 320 × 320' });
+  for (const [name, rendition] of Object.entries(asset.renditions)) {
+    if (rendition.width > Math.max(asset.original.width, asset.original.height) || rendition.height > Math.max(asset.original.width, asset.original.height))
+      ctx.addIssue({ code: 'custom', path: ['renditions', name], message: 'Do not upscale cover art' });
+  }
+});
 export const ActiveRecord = z.discriminatedUnion('entity_type', [
-  GameRecord, EditionRecord, PersonRecord, OrganizationRecord, TaxonomyRecord, FamilyRecord, AssessmentRecord,
+  GameRecord, EditionRecord, PersonRecord, OrganizationRecord, TaxonomyRecord, FamilyRecord, AssessmentRecord, AssetRecord,
 ]);
 export const MergeRecord = z.strictObject({
   schema_version: z.literal(SCHEMA_VERSION),
@@ -223,7 +238,9 @@ export const GameSummary = z.strictObject({
     playtime_minutes: Duration.nullable(),
     min_age: positive.nullable(),
   }).nullable(),
-});
+  cover: CoverImage.nullable().optional(),
+}).refine(summary => !summary.cover || summary.cover.edition_id === summary.default_edition?.id,
+  'Summary cover must belong to the selected default edition');
 export const GameListResponse = z.strictObject({
   release_id: z.string().regex(/^r[0-9]{6,}$/),
   schema_version: z.literal(SCHEMA_VERSION),
@@ -235,6 +252,6 @@ export const contractSchemas = {
   CatalogRecord, GameRecord, EditionRecord, Source, ProposalContent, SaveProposalCommand,
   SubmitProposalCommand, ReviewProposalCommand, WithdrawProposalCommand, ValidateProposalCommand,
   CommentCommand, ReportCommand, ContributionContent, SendContributionCommand, TriageContributionCommand,
-  LegacyMapping, GameSummary, GameListResponse,
+  LegacyMapping, GameSummary, GameListResponse, AssetRecord, CoverImage, CoverSnapshot, ImageRights, ImageRendition,
 };
 export { z };

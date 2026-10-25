@@ -1,0 +1,433 @@
+{
+  "format_version": 1,
+  "dataset": "boardgame-marketplace-pilot",
+  "legacy_commit": "f7fb5a9e0ede90d402c5facce735886385d952df",
+  "consumer": {
+    "name": "boardgame-marketplace",
+    "commit": "82bca51dfa131b73cdc0097177bce73d9a28330d",
+    "path": "db/seeds.rb",
+    "source_hash": "fa021c0a002721e4ba48cfd5ed235084d62e8d900dccaf358d6c37053a15a2d1"
+  },
+  "entries": [
+    {
+      "legacy_id": "wingspan",
+      "source_hash": "09cb400db84f053055ce55f662dd53292bfce917a6b0dd88e209c78e0fc4d3be",
+      "candidate": {
+        "name": "Wingspan",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "266192"
+          }
+        ]
+      },
+      "game_id": "506babbd-94e8-4695-ae38-e43b8f78325e",
+      "edition_id": null,
+      "proposal_id": "ebf2976c-71d5-4054-8f18-e3c7c1aad532",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "terraforming-mars",
+      "source_hash": "6220df7dfbe2223a76c01cc65251216b9d0ea0e343efd2d58fb2cb950a783efb",
+      "candidate": {
+        "name": "Terraforming Mars",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "167791"
+          }
+        ]
+      },
+      "game_id": "81f2248a-27d2-4e5d-9be9-2397e0cb9f84",
+      "edition_id": null,
+      "proposal_id": "dfdf7956-a168-4a61-9b7e-dc7bff1ca89f",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "gloomhaven",
+      "source_hash": "3c78bcc9b8652aebe64361c5f8a7c05b0dad6cadf299fc0d959da2b51574edeb",
+      "candidate": {
+        "name": "Gloomhaven",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "174430"
+          }
+        ]
+      },
+      "game_id": "65eccf26-21ae-4f96-86e6-419438b70a21",
+      "edition_id": null,
+      "proposal_id": "b3e643ce-83ec-4a59-9666-e071f6d6fb45",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "azul",
+      "source_hash": "29fa42fa36ae2376b7149523a845c98233914d8dd4e9f7182059ad05f0b850d5",
+      "candidate": {
+        "name": "Azul",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "230802"
+          }
+        ]
+      },
+      "game_id": "7ada73dd-9aa9-4292-a59a-fd25256708f2",
+      "edition_id": null,
+      "proposal_id": "88135f80-22e3-4948-afc0-5a241a9840ee",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "scythe",
+      "source_hash": "436d004819f01eec5198a9fe9174e411985fbbe24c7875bc13768af28fd81f0f",
+      "candidate": {
+        "name": "Scythe",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "169786"
+          }
+        ]
+      },
+      "game_id": "2b222331-6108-4215-8458-f3696e1aa26b",
+      "edition_id": null,
+      "proposal_id": "417ca816-142a-4284-b1ad-9bb58392a087",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "brass-birmingham",
+      "source_hash": "7da4569cb83f6d388bcb6b26dddc077515bf81ee0146a6b29c0535fded1b3ca9",
+      "candidate": {
+        "name": "Brass: Birmingham",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "224517"
+          }
+        ]
+      },
+      "game_id": "9d96a662-7e4b-4899-b7d8-9310e882b377",
+      "edition_id": null,
+      "proposal_id": "a2a1f275-9be9-4cfb-a4cb-1acd1e085434",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "spirit-island",
+      "source_hash": "7b6fa48f62a6a6800d50ed5269877c6dbd462d5c5c6cf66b104ee9fd286da594",
+      "candidate": {
+        "name": "Spirit Island",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "162886"
+          }
+        ]
+      },
+      "game_id": "bd65e613-5a00-48e0-9527-bd16bba505da",
+      "edition_id": null,
+      "proposal_id": "ee2e42b2-675c-4a49-bf64-1a8527fc6e39",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "everdell",
+      "source_hash": "95df8dbc6564ba62c1f43e60680eeaf332cd093ffce7718ec9580ba21bb7967e",
+      "candidate": {
+        "name": "Everdell",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "199792"
+          }
+        ]
+      },
+      "game_id": "8a80f5ea-1aee-4d12-a694-a5eb02c1e88c",
+      "edition_id": null,
+      "proposal_id": "4520b903-90c1-4f7b-985d-30e0b18a26e0",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "viticulture-essential-edition",
+      "source_hash": "e3dfc6b6cff3cff6aa3e5e007f44f483357e5a18b11ec3818567371a8512d1d8",
+      "candidate": {
+        "name": "Viticulture Essential Edition",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "183394"
+          }
+        ]
+      },
+      "game_id": "7d0cb483-e063-4bf4-bdcc-704c99e5c62b",
+      "edition_id": null,
+      "proposal_id": "5f306031-0991-4246-a379-443c2e2d19d6",
+      "identity": {
+        "status": "pending",
+        "rationale": "Compare with viticulture.yaml under the approved modest-update versus substantial-redesign rule; the edition label alone does not decide game identity."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "7-wonders",
+      "source_hash": "27edf12f2a1b29ab29ea4ade3be0a28d0f38340a5c96be1285ea5371da65c727",
+      "candidate": {
+        "name": "7 Wonders",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "68448"
+          }
+        ]
+      },
+      "game_id": "8dc0a117-2726-4f1a-acee-d70020170e10",
+      "edition_id": null,
+      "proposal_id": "9ff083ca-0c79-4d65-8a73-7fcb7634e7a2",
+      "identity": {
+        "status": "pending",
+        "rationale": "Compare with 7-wonders-second-edition.yaml. Establish whether the consumer seed identifies the design or a particular edition; do not assign printing facts from the title."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "dominion",
+      "source_hash": "0c81431cec1d7232ef2c9c0d2ba205edced6030a68e1670eac9f179a99753871",
+      "candidate": {
+        "name": "Dominion",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "36218"
+          }
+        ]
+      },
+      "game_id": "61a60472-7ba2-4180-9d92-2e6bbc3838e2",
+      "edition_id": null,
+      "proposal_id": "591c99c7-155f-45b7-a6a3-b59fc879e5e3",
+      "identity": {
+        "status": "pending",
+        "rationale": "Compare with dominion-second-edition.yaml; distinguish design identity from first/second edition card sets before selecting summary facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "splendor",
+      "source_hash": "b51f12488ca62f4ec6f6f33e3169fc981272e1492a9669495e9db9ab85689595",
+      "candidate": {
+        "name": "Splendor",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "148228"
+          }
+        ]
+      },
+      "game_id": "254a0b1c-d50d-4c8b-a5dc-72825d0fd565",
+      "edition_id": null,
+      "proposal_id": "1659e2eb-8c3b-4ee4-b7f4-5436c8dfc5d0",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "codenames",
+      "source_hash": "d66a4078fa406692809cb1120b8be81a4b16a524d280928bce7b3e923806391c",
+      "candidate": {
+        "name": "Codenames",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "178900"
+          }
+        ]
+      },
+      "game_id": "9edeaa3a-038d-4875-a5e5-cc825b0ac4df",
+      "edition_id": null,
+      "proposal_id": "f7125555-1f0e-4faa-ab8c-c72deabab3ff",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "the-castles-of-burgundy",
+      "source_hash": "89b4a8104ca407ab4333fe5f081a121c68ad570123c4075d026f7c5c399a45aa",
+      "candidate": {
+        "name": "The Castles of Burgundy",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "84876"
+          }
+        ]
+      },
+      "game_id": "60433ca5-c2ab-45b6-a6ca-6de9047ba81e",
+      "edition_id": null,
+      "proposal_id": "e4d2d79a-ae6d-4370-9228-c32a8758a541",
+      "identity": {
+        "status": "pending",
+        "rationale": "Resolve the publication/edition used for basic details before selecting an edition; a matching title is only a candidate link."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "ticket-to-ride",
+      "source_hash": "6a933449bca2a382142d851e9c09cad14a7f6b385237991cea5f21eef660f0af",
+      "candidate": {
+        "name": "Ticket to Ride",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "9209"
+          }
+        ]
+      },
+      "game_id": "a6b66495-fa9e-40f5-8244-7d3dd24bc1ae",
+      "edition_id": null,
+      "proposal_id": "5f45a7dd-c6cf-4de7-b3e2-ac9227dfec1f",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "pandemic",
+      "source_hash": "295345cd8c38ffe24b80d2c6dcfba42aff7a937bb04e09976bb97235d532cfb9",
+      "candidate": {
+        "name": "Pandemic",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "30549"
+          }
+        ]
+      },
+      "game_id": "f624bcd1-c084-4c06-b90d-3b9e6775f2de",
+      "edition_id": null,
+      "proposal_id": "149d9015-56d7-449b-a7da-94610da8eb6d",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "catan",
+      "source_hash": "2ffb1653877e30859262b218ae495d4d0ce7f55c6a5f85ce6123f04e4ffa27a1",
+      "candidate": {
+        "name": "Catan",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "13"
+          }
+        ]
+      },
+      "game_id": "18b3637a-9b38-4055-bf7b-5c3dc25c2e23",
+      "edition_id": null,
+      "proposal_id": "5c9b4b16-be64-4a7d-a66a-a36a5b7443dc",
+      "identity": {
+        "status": "pending",
+        "rationale": "Review the alternate names and publisher/printing context. Keep the edition unknown until supported; aliases do not establish physical editions."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "carcassonne",
+      "source_hash": "25f21dd4bc9267ce967899475e6dd38891cf6dd4c945fcf2a602a01d456bd1de",
+      "candidate": {
+        "name": "Carcassonne",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "822"
+          }
+        ]
+      },
+      "game_id": "f4fe327d-626c-48ce-ba98-94dfa2072e01",
+      "edition_id": null,
+      "proposal_id": "56d971b1-c123-46dc-ac78-35f2a2b55ea2",
+      "identity": {
+        "status": "pending",
+        "rationale": "Matching seed title and legacy filename identify a candidate only. Verify design identity and edition context against allowed sources before preparing facts."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "pandemic-legacy-season-1",
+      "source_hash": "38139352fbd1aab0519e476056cb76c510330d6357669fd2d2fd67bb85610975",
+      "candidate": {
+        "name": "Pandemic Legacy: Season 1",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "167355"
+          }
+        ]
+      },
+      "game_id": "385a3718-efb5-4d6a-bd70-bbf83ca7d8ed",
+      "edition_id": null,
+      "proposal_id": "9e3c1e35-e604-49a8-87a3-f24c2656cfd4",
+      "identity": {
+        "status": "pending",
+        "rationale": "Compare Pandemic, Season 1, and Season 2 using allowed publisher/rulebook evidence. Do not infer expansion or reimplementation links from the shared name."
+      },
+      "prepared": null
+    },
+    {
+      "legacy_id": "pandemic-legacy-season-2",
+      "source_hash": "4261f92f66439348351646a939647b5a0cdda7156fed5ddb389c4fe74c0e205b",
+      "candidate": {
+        "name": "Pandemic Legacy: Season 2",
+        "identifiers": [
+          {
+            "namespace": "bgg",
+            "value": "161936"
+          }
+        ]
+      },
+      "game_id": "3d5ce0f6-0b8f-473c-ae14-351912f014b0",
+      "edition_id": null,
+      "proposal_id": "cc148956-3b3b-4536-9761-93ab7dbc1947",
+      "identity": {
+        "status": "pending",
+        "rationale": "Compare Pandemic, Season 1, and Season 2 using allowed publisher/rulebook evidence. Do not infer expansion or reimplementation links from the shared name."
+      },
+      "prepared": null
+    }
+  ]
+}

@@ -47,12 +47,16 @@ export function referencesOf(record: CatalogRecord): Reference[] {
       break;
     case 'edition':
       add('/game_id', record.game_id, 'game', 'edition_of');
+      add('/cover_asset_id', record.cover_asset_id ?? null, 'asset', 'cover');
       many('publishers', record.publishers, 'organization');
       many('artists', record.artists, 'person');
       many('compatible_with', record.compatible_with, 'edition');
       record.play_specifications.forEach((spec, index) => {
         if (spec.context.kind === 'with_base_game') add(`/play_specifications/${index}/context/base_game_id`, spec.context.base_game_id, 'game', 'play_context');
       });
+      break;
+    case 'asset':
+      add('/edition_id', record.edition_id, 'edition', 'artwork_for');
       break;
     case 'taxonomy':
       add('/replacement_id', record.replacement_id, 'taxonomy', 'replacement');
@@ -133,6 +137,9 @@ export function validateCatalog(input: readonly unknown[]): Finding[] {
       if (edition?.state === 'active' && edition.entity_type === 'edition' && edition.game_id !== record.id) fail(record, '/default_edition_id', 'edition_owner', 'Default edition belongs to a different game');
     }
     if (record.entity_type === 'edition') {
+      const cover = record.cover_asset_id ? byId.get(record.cover_asset_id) : null;
+      if (cover?.state === 'active' && cover.entity_type === 'asset' && cover.edition_id !== record.id)
+        fail(record, '/cover_asset_id', 'cover_edition', 'Cover art belongs to a different edition');
       const game = byId.get(record.game_id);
       if (game?.state === 'active' && game.entity_type === 'game') for (const spec of record.play_specifications) {
         if (spec.context.kind === 'standalone' && game.kind === 'expansion') fail(record, '/play_specifications', 'expansion_standalone', 'A non-standalone expansion cannot claim standalone play');

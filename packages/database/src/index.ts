@@ -52,3 +52,13 @@ export async function readPublishedDocument(db: CatalogDatabase, releaseId: stri
     .where(and(eq(schema.releases.state, 'ready'), eq(schema.documents.releaseId, releaseId), eq(schema.documents.entityId, entityId)));
   return rows[0]?.document ?? null;
 }
+
+/** A single statement sees a frozen release; draft/approved heads are never exported. */
+export async function readPublishedRecords(db: CatalogDatabase, releaseId: string) {
+  const rows = await db.select({ document: schema.documents.document })
+    .from(schema.releases)
+    .leftJoin(schema.documents, eq(schema.documents.releaseId, schema.releases.id))
+    .where(and(eq(schema.releases.state, 'ready'), eq(schema.releases.id, releaseId)));
+  if (!rows.length) throw new Error('Release is absent or not ready');
+  return rows.filter(row => row.document !== null).map(row => CatalogRecord.parse(row.document));
+}
