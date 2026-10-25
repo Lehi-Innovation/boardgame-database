@@ -1,5 +1,8 @@
 # Domain Model & ERD Description
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > **Status:** First draft. Part A describes entities **as implemented** (YAML
 > files + the SQLite schema in `scripts/build_db.py`). Part B lists entities
 > that are implied but not modeled. Part C is the textual ERD.

@@ -1,5 +1,16 @@
 # Image Acquisition — Scoping & Plan
 
+> Archived June 2026 scoping. Estimates and phases below are historical;
+> use the current [cover specification](../../cover-images.md) for new work.
+
+**Current priority (September 20, 2026):** Follow the
+[cover-image specification](../../cover-images.md). Start with complete eligible
+coverage of the twenty marketplace seed candidates. `npm run audit:covers`
+currently reports four matching legacy files, zero complete provenance entries
+and twenty unresolved edition mappings. Preparation, review contracts, and a
+separate optional image feed are implemented; acquisition/review and delivery
+remain. The June estimates below are historical, not current launch acceptance.
+
 _Scoping snapshot as of 2026-06-09. Run `python3 scripts/image_manager.py` for live numbers._
 
 ## 1. Where we are

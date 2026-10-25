@@ -1,5 +1,8 @@
 # PRD-02 — Listings & Inventory
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > **Status:** First draft — **almost entirely greenfield.** A repo-wide sweep
 > found no listing, seller, inventory, condition, or pricing code. This PRD
 > records what the existing catalog provides as anchor points, and marks every

@@ -1,6 +1,10 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+> Archived instructions from the original project. Use the current
+> [documentation map](../README.md) and [legacy app guide](../legacy-app.md)
+> for active workflows; counts and commands below may be outdated.
+
+This file originally provided guidance to Claude Code when working with this repository.
 
 ## Project Overview
 
@@ -166,7 +170,7 @@ The main agent then calls `python3 scripts/update_master_status.py --from-result
 ```bash
 python3 scripts/build_db.py
 ```
-Drops and recreates `games.db` from all `games/*.yaml` files. Run after adding or editing game entries. The DB is a derived artifact (gitignored) — YAML remains the source of truth.
+Stages and validates a complete `games.db` from all `games/*.yaml` files, then atomically replaces the previous cache. Run after adding or editing game entries, and restart the legacy server afterward. The DB is a derived artifact (gitignored) — YAML remains the source of truth.
 
 **Query examples** (via `python3 -c "import sqlite3; ..."` since `sqlite3` CLI may not be installed):
 ```sql

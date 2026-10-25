@@ -1,5 +1,8 @@
 # PRD-03 — Search & Discovery
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > **Status:** First draft. Catalog search is **implemented and running**
 > (`web/server.js`, `web/lib/db.js`, `web/public/js/filter-bar.js`); listing
 > search is greenfield. Endpoint and parameter names below are verbatim.

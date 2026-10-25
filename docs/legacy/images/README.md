@@ -1,5 +1,9 @@
 # Board Game Images
 
+> Archived legacy image workflow. For new shared covers, use the
+> [current specification](../../cover-images.md); the old license labels alone
+> do not establish publication or redistribution rights.
+
 Store box art images here with the naming convention: `Game Name (Year).jpg`
 
 ## Naming Examples
@@ -10,7 +14,7 @@ Store box art images here with the naming convention: `Game Name (Year).jpg`
 
 ## Image Sources
 
-See **[FAIR_USE.md](FAIR_USE.md)** for the full image-use policy. In short, take the most
+See the archived **[image-use policy](../../archive/2026-06-images/FAIR_USE.md)** for the policy used at the time. In short, take the most
 clearly-licensed source available, in this order:
 
 1. Official press / media kit → `license: publisher-press-kit`
@@ -49,7 +53,7 @@ python3 scripts/image_manager.py check         # validate image files
 python3 scripts/fetch_image.py SLUG --url URL --license LIC  # fetch + validate + record
 ```
 
-See **[ACQUISITION_PLAN.md](ACQUISITION_PLAN.md)** for the overall strategy, channel
+See the archived **[acquisition plan](../../archive/2026-06-images/ACQUISITION_PLAN.md)** for the overall strategy, channel
 analysis, and phasing.
 
 ### Publishers with Self-Service Press Kits
@@ -75,7 +79,7 @@ Every image must have an entry in `sources.yaml` recording:
 - `source_url`: Where the image was obtained (the exact page)
 - `publisher`: Who provided it
 - `license`: One of `publisher-press-kit`, `publisher-permission`, `cc-by`, `cc-by-sa`,
-  `cc0`, `public-domain`, or `fair-use` (see [FAIR_USE.md](FAIR_USE.md))
+  `cc0`, `public-domain`, or `fair-use` (see the [historical policy](../../archive/2026-06-images/FAIR_USE.md))
 - `date`: When it was downloaded
 
 This is mandatory — images without provenance are treated as unverified and may be removed.

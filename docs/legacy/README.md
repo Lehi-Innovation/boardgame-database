@@ -1,18 +1,22 @@
-# Legacy documentation
+# Original project documentation (archive)
 
-These documents describe the original YAML/SQLite catalog and Express application. They are retained for historical reference and may contain outdated counts, plans, or instructions. See the [architecture specification](../architecture.md) for the proposed next version.
+These files preserve the YAML/SQLite/Express project's earlier guides, plans,
+and logs. They contain historical counts and sometimes superseded commands.
+For current operation, use the [legacy app guide](../legacy-app.md); for the
+reviewed catalog, use the [documentation map](../README.md).
 
-The directory structure preserves each document's former repository location. Document contents are unchanged; paths and commands inside them refer to the original project layout, including references to files in a document's original directory.
-
-| Document | Former location |
+| Historical file | What it records |
 | --- | --- |
-| [Catalog structure and workflows](CLAUDE.md) | `CLAUDE.md` |
-| [Development log](DEV_LOG.md) | `DEV_LOG.md` |
-| [Session notes](SESSION_NOTES.md) | `SESSION_NOTES.md` |
-| [Previous backlog](TODO.md) | `TODO.md` |
-| [Archived data guide](archive/README.md) | `archive/README.md` |
-| [Image guidelines](images/README.md) | `images/README.md` |
-| [Source-list guide](sources/lists/README.md) | `sources/lists/README.md` |
-| [Existing web application guide](web/README.md) | `web/README.md` |
+| [Catalog structure and workflows](CLAUDE.md) | Original record format, research scripts, and editing conventions |
+| [Development log](DEV_LOG.md) | Early Express UI implementation |
+| [Session notes](SESSION_NOTES.md) | Chronological legacy catalog work and counts |
+| [Previous backlog](TODO.md) | Earlier priorities and unresolved ideas |
+| [Archived data guide](archive/README.md) | Pre-removal BGG data snapshot context |
+| [Image guidelines](images/README.md) | Previous image-acquisition workflow; see the current [cover specification](../cover-images.md) |
+| [Source-list guide](sources/lists/README.md) | Original source-list file conventions |
+| [Web application guide](web/README.md) | Early Express UI documentation; current startup/cache behavior is in the [legacy app guide](../legacy-app.md) |
 
-The data files, application code, and `.claude/` automation definitions remain in their existing locations.
+The files were moved from their former repository locations. Relative paths
+inside old prose may describe that former layout; Markdown links have been
+repaired where possible. Do not infer current implementation status from their
+old checklists.

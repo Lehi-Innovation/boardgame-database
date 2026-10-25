@@ -1,5 +1,17 @@
 # Image Use Policy
 
+> Archived policy. It describes earlier noncommercial image handling and does
+> not establish rights for new shared assets. Use the current
+> [cover specification](../../cover-images.md).
+
+**September 20, 2026 update:** The [cover-image specification](../../cover-images.md)
+governs new shared assets and downstream commercial/non-commercial use. The
+historical policy below is acquisition context, not a blanket permission to
+publish or redistribute an image. Each asset needs edition matching, source and
+usage evidence, explicit consumer-use/redistribution fields, and maintainer review.
+The new catalog supports multiple editions with one selected front cover per
+edition. Consumer image bundles are only for permitted in-context catalog use.
+
 This database is a **non-commercial cataloging and identification project**. Box-art
 images are used to help identify games, the same way a library catalog or store listing
 shows a cover. This document defines what images may be added and how.

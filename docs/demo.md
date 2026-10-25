@@ -4,13 +4,16 @@ Allow about 5 minutes for quick contributions, or 15–20 minutes including main
 public catalog releases, exports, and consuming-app updates are later milestones.
 The legacy YAML catalog stays unchanged.
 
-Open <http://127.0.0.1:3100/contribute>. If needed, start the app with `npm run dev`.
+Follow the [local setup guide](development.md), then open
+<http://127.0.0.1:3100/contribute> with `npm run dev` running.
 Use a normal browser window for the contributor and a private window or separate
 browser profile for the maintainer. Two ordinary tabs share the same sign-in.
 
-Local demo credentials and account IDs are saved in `.local/demo-accounts.json`.
-That file is ignored by Git. These accounts are for this local Supabase stack only;
-no email is sent. For account administration, see [development.md](development.md).
+If this checkout has `.local/demo-accounts.json` from an earlier local demo, it
+contains ignored local account details. Otherwise, create contributor and
+maintainer accounts through local Supabase Studio and grant maintainer
+membership as described in [development.md](development.md). No account is
+created by merely opening this guide.
 
 ## 1. Send a game with just its name
 

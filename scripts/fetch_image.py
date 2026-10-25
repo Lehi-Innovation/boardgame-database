@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Fetch a box-art image for a game, validate it, and record provenance.
+"""Fetch a legacy box-art candidate, validate it, and record provenance.
+
+This helper does not prepare or approve an edition-linked shared cover. See
+docs/cover-images.md for the current review and distribution workflow.
 
 Handles the bookkeeping that the manual workflow keeps getting wrong: it saves
 the file under the exact `Game Name (Year).<ext>` form image_manager.py expects
@@ -14,11 +17,11 @@ Examples:
         --url https://example.com/ark-nova-box.jpg \\
         --license publisher-press-kit --publisher "Capstone Games"
 
-License values (see images/README.md):
+Legacy provenance labels written to images/sources.yaml:
     publisher-press-kit   official press/media kit
     publisher-permission  emailed/written permission from the publisher
     cc-by | cc-by-sa | cc0 | public-domain   Creative Commons / public domain
-    fair-use              documented fair use (see images/FAIR_USE.md)
+    fair-use              legacy policy label (see docs/archive/2026-06-images/FAIR_USE.md)
 """
 
 import argparse

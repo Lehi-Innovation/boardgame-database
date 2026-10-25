@@ -1,5 +1,8 @@
 # Product Vision — Board Game Marketplace
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > **Status:** First draft, generated from codebase discovery (June 2026).
 > The repository today is a curated board game **catalog**, not a marketplace.
 > This document describes the marketplace product that the catalog foundation

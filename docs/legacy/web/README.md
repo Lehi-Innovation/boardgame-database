@@ -1,5 +1,9 @@
 # Board Game Database - Web Interface
 
+> Archived early UI guide. Use the current [legacy app guide](../../legacy-app.md)
+> for startup and cache behavior. Counts and troubleshooting commands below
+> describe the earlier implementation.
+
 A simple web interface for managing board game records with **drag-and-drop image uploads**.
 
 ## Quick Start

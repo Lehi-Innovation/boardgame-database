@@ -1,14 +1,26 @@
 # Boardgame catalog architecture
 
-Status: implementation specification; M1 foundation and M2 local contribution workflow implemented September 19, 2026. Remote CI remains unverified. Written September 18, 2026.
-
-This document describes the next version of the project. The current YAML catalog, SQLite builder, and Express application remain the authoritative production path. Shared contracts, storage migrations, authentication, contribution forms, and transactional review now exist alongside it; this work does not migrate or publish real catalog data. See the [development guide](development.md), [editorial API](editorial-api.md), and [session handoff](session-handoff.md) for implemented scope and verification limits. M3 and later milestones remain planned.
+This is the detailed design specification for a reviewed catalog and its future
+published releases. It includes implemented M1/M2 behavior and proposed later
+work. Read the [short status page](status.md) for the current implementation
+boundary, the [development guide](development.md) for local operation, and the
+[September handoff](archive/2026-09/session-handoff.md) only for dated history.
+The existing YAML catalog remains authoritative for detailed legacy records
+until an explicit migration cutover.
 
 ## 1. Purpose and first release
 
 Create a dependable boardgame catalog that several applications can consume, and that boardgame users can improve through simple web forms. Corrections and additions require human review before publication. Read traffic is currently unknown, and approved data is expected to change relatively infrequently.
 
-The first milestone is approximately **50 reviewed game records**, their associated editions and references, a working contribution/review workflow, a versioned read API, and SQLite/JSON downloads. One consuming application must demonstrate a real query and adopt a corrected release.
+The completed local [legacy-name snapshot](name-snapshot.md) gives Rails and
+Django consumers a separate names-only feed while this reviewed catalog is
+built. Its filename identities are not reviewed game identities. Edition-linked
+images have their own [cover specification](cover-images.md) and optional feed.
+
+The first **reviewed catalog release**, later, still targets approximately
+**50 reviewed game records**, their associated editions and references, the
+existing contribution/review workflow, a versioned read API, and SQLite/JSON
+downloads. One consuming application must then adopt a corrected release.
 
 ### Decisions
 
@@ -86,6 +98,7 @@ Use opaque UUID strings for entities, revisions, and proposals. Human-readable s
 | Family | A named grouping of related games; membership does not establish edition identity or compatibility |
 | Source | An immutable citation: URL, title, publisher/site, source type, access date, and optional page/section locator |
 | Assessment | An attributed editorial judgment about a game or edition, including method/rubric version, author, date, and evidence where applicable |
+| Cover asset | Stable asset ID, edition ID, source and usage evidence, attribution, withdrawal status, original hash, and thumbnail/detail renditions with content-addressed keys |
 
 The owner approved this boundary September 19, 2026: translations, reprints, and modest rules updates share a game ID with separate edition IDs. Substantial independently playable redesigns receive a separate game ID connected by `reimplementation_of`. Maintainers resolve ambiguous boundaries using documented reasons. See the [identity decision](decisions/001-catalog-identity.md) for synthetic examples. Never merge entities solely because normalized names match.
 
@@ -96,6 +109,13 @@ Compatibility belongs to the editions involved when it is edition-specific. The 
 The selected default edition is a reviewed choice stored on a game revision. Search results expose its ID alongside any derived player counts, age, or duration. A default edition must belong to the game and exist in the same release. It may be `null` for a reviewed identity with insufficient edition evidence. Consumers can request a different edition explicitly.
 
 ### Field semantics
+
+An edition selects an optional `cover_asset_id`; a game's default edition supplies
+its representative cover. Typed references enforce edition ownership. Artwork or
+edition changes require a new asset identity; title/year changes do not affect
+selection. Assets use the existing proposal, immutable revision, evidence and
+release-membership tables. `GameSummary.cover` and the optional cover feed share
+one contract. See [cover images](cover-images.md) for implementation boundaries.
 
 - IDs and external identifiers are strings. Numeric-looking identifiers must remain strings through import, PostgreSQL, JSON, and SQLite.
 - External identifiers include namespace, value, and entity scope. Uniqueness is enforced for `(namespace, value)` against an active entity; identity merges retain a resolution path. Existing external IDs do not authorize fetching from a restricted source.
@@ -321,6 +341,11 @@ An application can poll the current manifest, download a changed snapshot, verif
 
 ## 7. Caching, deployment, and operations
 
+Cover-asset withdrawal overrides the proposed immutable image-cache policy:
+delivery must suppress withdrawn hashes, purge cached copies and propagate the
+removal to consumers. The current exporter applies the checked-in withdrawal
+list at build time; deployed cache enforcement remains required production work.
+
 | Response | Initial policy |
 | --- | --- |
 | Current release | `public, max-age=0, s-maxage=60, must-revalidate`; ETag and explicit invalidation on activation/rollback |
@@ -346,6 +371,8 @@ Before calling the pilot ready, run a reproducible load test at proposed initial
 
 Treat existing records as candidate data. A clean parse or the presence of an existing YAML file does not establish factual approval.
 
+The owner selected **boardgame-marketplace** as the first consumer on September 20, 2026, primarily for names and basic details. The [consumer brief](consumers/boardgame-marketplace.md) grounds the working scope in its existing name lookup and game cards: year, publisher, player counts, and play time, with player/time filters secondary. Start candidate coverage from its existing seed titles and add the identity cases below. Its broader rating and marketplace filters do not expand the shared catalog's initial requirements.
+
 1. Preserve the existing catalog and its source history. Build a repeatable importer that produces proposals and a mapping from legacy filename slug to proposed entity IDs. Fix ID coercion using filenames plus explicit review, not an assumed numeric value.
 2. Select approximately 50 game-level entries and the editions/references needed to describe them. Include numeric titles, localized aliases, multiple editions, ordinary and standalone expansions, a duplicate merge, and unknown/disputed metadata. Include games from the intended consuming application's actual use case.
 3. Split old category strings into taxonomy and credits. Map publisher/designer names to reviewed identities. Keep unmapped terms in import reports until classified.
@@ -353,22 +380,38 @@ Treat existing records as candidate data. A clean parse or the presence of an ex
 5. Map expansion/family links through the reviewed legacy mapping. Related entities must be included in the pilot or the proposed relationship must remain unpublished; a dangling reference cannot enter a release.
 6. Recover usable source citations from the existing malformed research log/cache without treating those records as complete evidence. Review pilot facts against allowed sources. Preserve the existing restriction on researching BoardGameGeek; legacy external IDs can be retained without fetching that site.
 7. Keep personal ratings/history out of public imports. Existing editorial assessments require attribution and a documented rubric before publication.
-8. Publish only assets with recorded source and distribution permission metadata. Games without approved images use a placeholder; image availability does not block the catalog pilot. The current image directory is not automatically a publishable asset collection.
+8. Publish only reviewed, edition-matched assets with recorded source and downstream usage metadata. Consumers can opt out of images. For image-enabled consumers, missing/failed images use placeholders but do not satisfy launch acceptance: require eligible covers for every game in the working twenty-game launch set. The cover exporter provides this gate through `--require-pilot`. The existing image directory is an unverified candidate collection; see [cover images](cover-images.md).
 9. Import into a local/staging database, manually approve the pilot, publish a staging release, and compare it with the legacy data. Import idempotency uses source file/hash plus the preserved mapping; changed input creates a new proposal version, never an overwrite of approved data.
+
+M3 preparation implements a [local proposal importer](pilot-import.md) and a
+pinned twenty-candidate identity map for the marketplace. It inspects legacy
+YAML, requires explicitly prepared content, and reuses authenticated proposal
+save/submit commands with version/hash conflict checks. All real mappings remain
+pending; research, human approvals, the larger pilot, and publication are still
+unfinished.
 
 After the pilot succeeds, cut over one consuming application and explicitly make PostgreSQL authoritative. Retire direct-write research scripts for the new catalog; future imports submit proposals. Keep the legacy application/data available during the transition, with an explicit last-imported commit/hash rather than ongoing bidirectional synchronization.
 
 ## 9. Implementation sequence and acceptance
 
+The M1–M5 table is the reviewed-catalog roadmap. The completed local names-only
+MVP has a separate [historical plan](archive/2026-09/marketplace-search-mvp.md).
+Use the [status page](status.md) to determine which rows have working code.
+
 | Milestone | Deliverable | Exit condition |
 | --- | --- | --- |
 | M1: contracts and local storage | Shared schemas, identity/edition rules, SQL migrations, local Supabase setup, fixtures | Numeric IDs survive; references and unknown values have unambiguous behavior; migration and contract checks pass |
 | M2: contributions and review | Auth, forms, reports, proposal versions, maintainer queue, transactional approval | Contributor cannot publish; stale proposals conflict; new versions invalidate prior checks; multi-entity approval is atomic |
+| Covers | Reviewed edition-linked assets, preparation, optional feed, hosting and consumer display | All twenty launch games have eligible covers; both consumers display them; missing-file and withdrawal behavior works; names-only use stays independent. Contracts/preparation/export are implemented; acquisition, publication, hosting and consumer adoption remain. |
 | M3: pilot import | About 50 reviewed games with editions, evidence, aliases, and relationships | Re-running import makes no duplicate identities; no unresolved published links; facts have evidence or remain unknown |
 | M4: publishing and consumption | Durable worker, release projections, manifest, API, SQLite/JSON exports, basic caching | One application pins a release and uses both API and snapshot; artifact membership and values agree |
 | M5: correction and recovery | Complete feedback loop, monitoring, load and recovery checks | A sourced correction is reviewed and published; old pins remain stable; failed builds and rollback behave as specified |
 
-The first working demonstration changes a supported player count through a sourced proposal, then shows the correction reaching an app after it selects the new release. Also demonstrate rejection, conflicting edits, an interrupted publication, and pointer rollback. A fixed older release must return the original values throughout.
+The reviewed-catalog demonstration changes a supported player count through
+a sourced proposal, then shows the correction reaching an app after it selects
+the new release. Also demonstrate rejection, conflicting edits, an interrupted
+publication, and pointer rollback. A fixed older release must return the original
+values throughout that later demonstration.
 
 Meaningful automated coverage includes:
 
@@ -401,11 +444,12 @@ These are boundaries within one repository and deployment build. A route handler
 
 ## 10. Decisions to close during implementation
 
-The defaults above are sufficient to begin M1. Record any changes to them as short architecture decisions in this directory.
+The items below still need explicit decisions before their relevant release or
+deployment work. Proposed defaults are not owner approvals. Record confirmed
+policy in [decision records](decisions/README.md).
 
 | Decision | Proposed default / when needed |
 | --- | --- |
-| First consuming application and priority queries | Select before finalizing the pilot records and M4 integration |
 | Dataset license and contributor terms | Specify before public redistribution; keep the pilot private if unresolved |
 | Public read access | Public, identical approved data with no per-user personalization; validate this default before deployment |
 | Application host, domain, and budget | Choose for Node.js + worker support and proximity to Supabase before deployment |

@@ -1,6 +1,10 @@
 # Catalog development
 
-The catalog code lives alongside the legacy YAML/SQLite application. The root npm workspace uses `apps/catalog`, `packages/contracts`, `packages/domain`, `packages/database`, and `packages/server`. The legacy `web/` application remains independent. Nothing imports or modifies the production YAML catalog automatically.
+Use this guide for the Next.js reviewed-catalog workspace. For current feature
+scope, read the [status page](status.md). The offline [name snapshot](name-snapshot.md)
+and the legacy [YAML/Express application](legacy-app.md) have separate workflows.
+
+The catalog code lives alongside the legacy YAML/SQLite application. The root npm workspace uses `apps/catalog`, `packages/contracts`, `packages/domain`, `packages/database`, and `packages/server`. The legacy `web/` application remains independent. Nothing imports or modifies the authoritative YAML records automatically.
 
 ## Install and run
 
@@ -11,9 +15,23 @@ npm ci
 npm run dev
 ```
 
-The application runs at <http://127.0.0.1:3100>. Its [contribution workspace](http://127.0.0.1:3100/contribute) provides sign-in, quick name/note submissions, optional plain-text details, a maintainer inbox, and structured catalog preparation/review. The public catalog/release API remains unimplemented. The legacy UI retains its existing commands under `web/`.
+The application runs at <http://127.0.0.1:3100>. Start the local Supabase stack
+below before using its [contribution workspace](http://127.0.0.1:3100/contribute),
+which provides sign-in, quick name/note submissions, optional plain-text details,
+a maintainer inbox, and structured catalog preparation/review. The public
+catalog/release API remains unimplemented. The legacy UI has separate commands
+in the [legacy app guide](legacy-app.md).
+
+For M3 preparation, `npm run import:legacy -- plan` produces an offline review
+report from the pinned marketplace candidate map and legacy YAML. The
+[pilot importer guide](pilot-import.md) explains explicit identity/fact preparation,
+authenticated draft/submission commands, and safe repeat runs. No real pilot
+records have been imported or approved by this preparation work.
 
 ## Local Supabase
+
+Cover preparation and export commands are documented in
+[cover images](cover-images.md). They do not deploy assets.
 
 Install a working Docker-compatible runtime, then run:
 
@@ -39,7 +57,9 @@ Membership changes take effect on the next command even with an existing JWT. No
 
 Use `npm run db:stop` when finished. New migrations start with `npx supabase migration new <name>`. Keep SQL migrations authoritative; Drizzle declarations map queries and must not independently generate another migration history. Inspect the installed CLI's help before changing its commands or configuration.
 
-On Windows/WSL, Docker Desktop must be running with integration enabled for the working distribution (`pine` on this workstation). Enable it under **Settings → Resources → WSL Integration**, apply, and confirm `docker version` reports both client and server. See [Docker's WSL setup guide](https://docs.docker.com/desktop/features/wsl/).
+On Windows/WSL, Docker Desktop must be running with integration enabled for
+the working distribution. Confirm `docker version` reports both client and
+server. See [Docker's WSL setup guide](https://docs.docker.com/desktop/features/wsl/).
 
 The catalog uses its own ports so it can coexist with the inventory application's local Supabase stack:
 
@@ -80,7 +100,11 @@ CATALOG_TEST_ADMIN_URL=postgresql://supabase_admin:postgres@127.0.0.1:55322/post
 
 This credential is for disposable local database tests only. Application connections must use the restricted roles described below. See [PostgreSQL role membership](https://www.postgresql.org/docs/17/role-membership.html).
 
-CI provisions PostgreSQL 17 and uses this disposable database path. A separate job starts this project's Supabase stack, runs the Auth/Data API smoke check, Chromium browser/HTTP tests, and disposable-database tests with advisors. Both jobs passed in [GitHub Actions run 35498636151](https://github.com/Lehi-Innovation/boardgame-database/actions/runs/35498636151) on September 20, 2026: plain PostgreSQL 17.11 and Supabase PostgreSQL 17.6. On this workstation, native PostgreSQL 14.24 and local Supabase PostgreSQL 17.6 also passed. Record the actual version in validation reports; plain PostgreSQL tests do not replace Supabase Auth/Data API checks.
+CI has separate PostgreSQL and local Supabase jobs. The latter exercises
+Auth/Data API behavior, browser/HTTP flows, and database advisors. Record the
+actual versions and results when verifying a change; plain PostgreSQL tests do
+not replace Supabase Auth/Data API checks. The [September handoff](archive/2026-09/session-handoff.md)
+preserves an earlier CI result.
 
 To run the installed Supabase database advisors against the same temporary test database:
 

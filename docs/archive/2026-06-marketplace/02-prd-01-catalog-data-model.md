@@ -1,5 +1,8 @@
 # PRD-01 — Catalog & Data Model
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > **Status:** First draft. This is the best-supported document in the suite —
 > the catalog is fully implemented in this repository. Field names, file paths,
 > and table names below are taken verbatim from the code.

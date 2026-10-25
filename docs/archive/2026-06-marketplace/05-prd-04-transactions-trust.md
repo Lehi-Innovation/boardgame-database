@@ -1,5 +1,8 @@
 # PRD-04 — Transactions & Trust
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > **Status:** First draft — **entirely greenfield.** The repo contains no
 > transaction, payment, shipping, rating, review, dispute, or fraud code, and
 > no user entity for any of it to hang off. This PRD therefore (a) inventories

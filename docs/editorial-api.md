@@ -1,5 +1,11 @@
 # Editorial commands (M2)
 
+Contract 0.4.0 adds reviewed cover assets and optional edition cover selection.
+Assets use the same save/submit/validate/review commands and permissions; there
+is no bypass through a file upload. See [cover images](cover-images.md) for
+candidate/proposal preparation. Image bytes are staged separately, and exporting
+covers requires a frozen ready release rather than this private approved lookup.
+
 The Next.js application serves `/api/editorial/v1`. Every endpoint requires a Supabase access token in `Authorization: Bearer <token>` and returns `Cache-Control: private, no-store`. Cookies do not authenticate these endpoints. Browser origins must match `CATALOG_APP_ORIGIN`; no cross-origin mutation access is provided. Credentials and email addresses are not returned in editorial results.
 
 The server verifies the exact token with Supabase `getUser`, checks its subject, expiry and session ID, then checks the live session through a private view of `auth.sessions`. Every database command repeats the live-session check. Maintainer membership comes from `editorial.maintainers`, never JWT metadata. The application login can read membership but cannot grant or revoke it. See [Supabase session revocation](https://supabase.com/docs/guides/auth/sessions#how-to-ensure-an-access-token-jwt-cannot-be-used-after-a-user-signs-out) and [getUser](https://supabase.com/docs/reference/javascript/auth-getuser).

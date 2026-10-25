@@ -1,5 +1,8 @@
 # TODO
 
+> Archived backlog from the original application. These checkboxes are not the
+> current project queue; use [project status](../status.md) for current scope.
+
 ## High Priority
 
 - [x] Revamp look and feel — warm dark theme across all three web pages (2026-08-06)

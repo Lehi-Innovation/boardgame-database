@@ -1,5 +1,8 @@
 # Discovery Summary
 
+> Archived first draft from June 2026. See [project status](../../status.md)
+> and the [documentation map](../../README.md) for current guidance.
+
 > Produced from a full read of this repository (June 2026) prior to drafting the
 > marketplace document suite in `docs/`. Every claim below is grounded in a file
 > in this repo; inferences are marked [INFERRED].
