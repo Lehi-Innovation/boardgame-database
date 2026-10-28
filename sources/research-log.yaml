@@ -1,6 +1,6 @@
 # Research Source Log
 # All external URLs consulted during game research
-# Appended to by /add-game sub-agents
+# Append through scripts.research_log or the pipeline's --log option
 
 entries:
   - timestamp: "2026-02-21T00:00:00Z"
@@ -5028,23 +5028,43 @@ entries:
     url: "https://www.gamenerdz.com/butterfly-garden-preorder"
     description: "Game Nerdz listing — confirmed designer Reiner Knizia, artist SALEIGN, publisher Korea Boardgames, 2-4 players, age 8+, $39.95 MSRP, mechanics: Hexagon Grid, Network and Route Building, Point to Point Movement, Tile Placement"
 
-- game_id: calico
-  date: "2026-02-20"
-  urls:
-    - url: "https://www.alderac.com/calico/"
-      note: "AEG publisher page — confirmed designer Kevin Russ, artist Beth Sobel, publisher Flatout Games + AEG, 1-4 players, 30-45 min, ages 8+"
-    - url: "https://alderacstore.com/calico/"
-      note: "AEG store listing — confirmed 1-4 players, 30-45 min, $39.99 MSRP, ages 8+"
-    - url: "https://www.gamenerdz.com/calico"
-      note: "GameNerdz listing — confirmed mechanics: Enclosure, End Game Bonuses, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Tile Placement; designer Kevin Russ; Flatout Games publisher"
-    - url: "https://americantabletopawards.com/calico/"
-      note: "American Tabletop Awards — confirmed winner 2020-2021 award cycle; designer Kevin Russ; publisher Flatout Games"
-    - url: "https://opinionatedgamers.com/2021/01/07/calico-game-review-by-brandon-kempf/"
-      note: "Opinionated Gamers review — confirmed mechanics, complexity, tile drafting system, puzzle nature of gameplay, replayability"
-    - url: "https://frontlinegaming.org/2023/06/15/board-game-review-calico/"
-      note: "Frontline Gaming review — confirmed 30-45 min playtime, accessible complexity with strategic depth, hexagonal tile mechanics"
-    - url: "https://www.miniaturemarket.com/aeg6210.html"
-      note: "Miniature Market listing — confirmed AEG publisher, 1-4 players, 30-45 min, $39.99 MSRP"
+  # Calico was recorded with a date only; midnight remains a placeholder.
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://www.alderac.com/calico/
+    description: AEG publisher page — confirmed designer Kevin Russ, artist Beth Sobel,
+      publisher Flatout Games + AEG, 1-4 players, 30-45 min, ages 8+
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://alderacstore.com/calico/
+    description: AEG store listing — confirmed 1-4 players, 30-45 min, $39.99 MSRP,
+      ages 8+
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://www.gamenerdz.com/calico
+    description: 'GameNerdz listing — confirmed mechanics: Enclosure, End Game Bonuses,
+      Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Tile Placement;
+      designer Kevin Russ; Flatout Games publisher'
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://americantabletopawards.com/calico/
+    description: American Tabletop Awards — confirmed winner 2020-2021 award cycle;
+      designer Kevin Russ; publisher Flatout Games
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://opinionatedgamers.com/2021/01/07/calico-game-review-by-brandon-kempf/
+    description: Opinionated Gamers review — confirmed mechanics, complexity, tile drafting
+      system, puzzle nature of gameplay, replayability
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://frontlinegaming.org/2023/06/15/board-game-review-calico/
+    description: Frontline Gaming review — confirmed 30-45 min playtime, accessible
+      complexity with strategic depth, hexagonal tile mechanics
+  - timestamp: '2026-02-20T00:00:00Z'
+    game_id: calico
+    url: https://www.miniaturemarket.com/aeg6210.html
+    description: Miniature Market listing — confirmed AEG publisher, 1-4 players, 30-45
+      min, $39.99 MSRP
   - timestamp: "2026-02-20T00:00:00Z"
     game_id: cafe-baras
     url: "https://www.meeplemountain.com/reviews/cafe-baras/"
@@ -5066,9 +5086,7 @@ entries:
     url: "https://www.boardgames.ca/cafe-baras.html"
     description: "Boardgames.ca listing — confirmed KTBG publisher, $27.95 CAD retail price, SKU 210000047468"
 
-- game_id: campaign-manager-2008
-  date: "2026-02-20"
-  sources:
+  # Historical group: campaign-manager-2008, date 2026-02-20.
   - timestamp: "2026-02-20T00:00:00Z"
     game_id: campaign-manager-2008
     url: "https://www.nobleknight.com/P/2147424095/Campaign-Manager-2008"

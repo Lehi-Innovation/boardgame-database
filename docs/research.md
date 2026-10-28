@@ -54,15 +54,22 @@ After catalog changes, rebuild with `python scripts/build_db.py` and inspect its
 
 See [../sources/README.md](../sources/README.md) for the canonical log-entry format and distinctions between nominations, research, and images.
 
-**Current limitation:** `sources/research-log.yaml` has a known malformed section. Correct and validate that structure before the next shared-log update. See [status.md](status.md). Do not silently discard existing evidence or report an append as a successful validation.
+The historical format errors are repaired. All new entries must go through the validated writer, either using the pipeline's optional `--log SLUG` flag or merging a JSON list of canonical entries:
 
-After that repair, the pipeline's optional `--log SLUG` flag can append records for the sources returned by the pipeline. Inspect what it actually logged: it does not cover every source independently consulted, and its date is a day-level placeholder at midnight. Add missing consulted evidence in the canonical format without duplicating entries.
+```bash
+python -m scripts.research_log --from-json /path/to/consulted-sources.json
+python scripts/validate_catalog.py --only log
+```
 
-Avoid whole-file read/overwrite operations that can lose another worker's changes. If multiple research workers are authorized, collect provenance separately and let one coordinator merge and validate the shared log. The existing append helper has no concurrency protection.
+Inspect what the pipeline actually logged: it records only the sources it returned, which may include cached text. Its timestamp is the UTC logging time, not a verified page-retrieval time. Older midnight timestamps remain day-level placeholders. Log independently consulted evidence separately, describe what it supports, and inspect for duplicates. The helper preserves repeated evidence rather than deciding whether two research events are equivalent.
+
+The shared writer uses safe YAML serialization, whole-document validation, a stable sidecar lock, and atomic replacement. It refuses malformed existing logs and duplicate mapping keys; failures leave the log unchanged. The pipeline still prints its source JSON when logging fails, but exits unsuccessfully so the failure is visible. Avoid manual read/overwrite operations that bypass the lock. If multiple research workers are authorized, collect provenance separately and let one coordinator merge and validate the shared log. Historical slugs without current game files are warnings requiring identity review, not instructions to guess a replacement.
 
 ## Verify and report
 
 Read back the saved record and parse it. Verify filename/ID, valid categories and evokes, rating ranges, player-count consistency, and that the description agrees with the evidence. Use [the development checks](development.md#checks) as a starting point.
+
+Run `python scripts/validate_catalog.py --games games/SLUG.yaml` for structural and vocabulary checks on a changed record. This does not establish factual accuracy or permission to reuse a source. Run the full audit when reviewing catalog-wide consistency; it currently reports known data issues listed in [status.md](status.md).
 
 Report the created or updated game, actual source coverage, and material uncertainty or incomplete work. Do not call a game fully verified solely because the file exists.
 

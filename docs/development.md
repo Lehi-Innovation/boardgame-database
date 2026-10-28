@@ -29,7 +29,7 @@ Stop your server with Ctrl+C. Identify an occupied port's process before stoppin
 - Source lists enrich the CSV queue with nominations. They do not define its total universe.
 - The research pipeline caches downloaded HTML in ignored `pipeline_cache.db` and returns extracted text for a researcher to interpret.
 
-The frontend consists of three static HTML pages with shared CSS/JavaScript. There is no frontend build, hosted database service, test suite, linter, or CI workflow. See [the web reference](../web/README.md) for routes.
+The frontend consists of three static HTML pages with shared CSS/JavaScript. There is no frontend build, hosted database service, or linter. Focused Python regression tests and GitHub Actions cover provenance tooling and validation; see the checks below. See [the web reference](../web/README.md) for routes.
 
 ## Tools
 
@@ -42,6 +42,8 @@ The frontend consists of three static HTML pages with shared CSS/JavaScript. The
 | `fetch_image.py` | Download, validate, and record provenance for an image; see [image guidance](../images/README.md) |
 | `normalize_publishers.py` | Normalize publisher names; preview with `--dry-run` |
 | `game_pipeline.py`, `html_preprocessor.py` | Fetch/cache/extract source text |
+| `research_log.py` | Validate and atomically append a JSON list of consulted evidence; invoke as `python -m scripts.research_log --from-json FILE` |
+| `validate_catalog.py` | Read-only checks of schema vocabulary, record IDs/types/counts, explicit CSV mappings, and research-log structure |
 | `compare_bga.py`, `compare_sources.py`, `retailer_check.py` | Compare embedded platform/retailer snapshots with catalog coverage |
 | `scrape_wikidata.py` | Existing discovery importer; see the CSV compatibility issue in [status](status.md) before fetching |
 
@@ -52,6 +54,10 @@ Comparison scripts contain dated source snapshots; their output is not a current
 From the root, with dependencies installed:
 
 ```bash
+python -m unittest discover -s tests -v
+python scripts/validate_catalog.py --only log
+python scripts/validate_catalog.py --games games/azul.yaml
+python scripts/validate_catalog.py --json
 python scripts/progress.py 0
 python scripts/image_manager.py check
 python scripts/game_pipeline.py --help
@@ -61,7 +67,13 @@ node --check web/lib/yaml-handler.js
 git diff --check
 ```
 
-Check edited YAML for syntax, IDs, rating ranges, and vocabulary against `schema.yaml`. Current data has known numeric-ID and unknown-tag issues; report those separately instead of claiming the entire catalog conforms. The research log also currently fails parsing. Details are in [status.md](status.md).
+The regression suite uses temporary files and spawned processes to exercise quoted/multiline text, duplicate keys, failed replacements, locking, concurrent writes, pipeline error reporting, and schema-driven record checks. It does not fetch sources or modify the real log, catalog, or caches.
+
+`validate_catalog.py` reads `schema.yaml` for rating/tag/player-count vocabulary. The full audit checks all game files, explicit CSV mappings, and the research log. Use `--games FILE...` to check selected records, `--only log` for provenance, or `--json` for a complete machine-readable report. Paths passed to `--games` are relative to your current directory; default repository paths are resolved from the script. `--root PATH` supports audits of fixture repositories. Exit status is 1 for errors and 0 when only warnings remain.
+
+The full catalog audit currently fails on existing data issues; see [status.md](status.md) for the dated baseline. Historical research-log IDs without current files are warnings and are not rewritten. Missing optional legacy fields are accepted. The audit checks structure and explicit references; it does not infer equivalent editions, reconcile Python/web name matching, certify facts, or check image permissions.
+
+[GitHub Actions](../.github/workflows/checks.yml) runs the regression suite and research-log audit on pushes and pull requests. The full catalog audit is deliberately not a passing CI claim while known data debt remains. CI has been configured locally; a hosted run is confirmed only by its actual results.
 
 After data changes, rebuild `games.db` and inspect builder output for skipped/error records. Test both the SQLite query routes and legacy YAML routes when relevant: a healthy YAML endpoint alone does not verify the browser's query store.
 

@@ -18,7 +18,7 @@ import json
 import re
 import sqlite3
 import sys
-from datetime import date
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -28,8 +28,10 @@ if _root not in sys.path:
     sys.path.insert(0, _root)
 
 import requests
+import yaml
 
 from scripts.html_preprocessor import html_to_main_text, truncate_text
+from scripts.research_log import append_entries
 
 # ── Constants ──────────────────────────────────────────────────────────────────
 
@@ -246,22 +248,22 @@ SOURCE_TYPE_DESCRIPTIONS = {
 
 
 def append_research_log(game_slug: str, sources: list[dict]) -> None:
-    """Append source entries to sources/research-log.yaml."""
-    today = date.today().isoformat() + "T00:00:00Z"
+    """Record sources returned by the pipeline, including cached source text."""
+    timestamp = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
 
-    lines = []
+    entries = []
     for source in sources:
         desc = SOURCE_TYPE_DESCRIPTIONS.get(source["source_type"], "Game information page")
         domain = urlparse(source["url"]).netloc.replace("www.", "")
-        lines.append(f'  - timestamp: "{today}"')
-        lines.append(f"    game_id: {game_slug}")
-        lines.append(f'    url: "{source["url"]}"')
-        lines.append(f'    description: "{desc} — {domain}"')
+        entries.append({
+            "timestamp": timestamp,
+            "game_id": game_slug,
+            "url": source["url"],
+            "description": f"{desc} — {domain} (pipeline text; may be cached)",
+        })
 
-    with open(LOG_PATH, "a") as f:
-        f.write("\n".join(lines) + "\n")
-
-    print(f"[pipeline] Appended {len(sources)} entries to research-log.yaml", file=sys.stderr)
+    count = append_entries(entries, path=LOG_PATH)
+    print(f"[pipeline] Appended {count} validated entries to research-log.yaml", file=sys.stderr)
 
 
 # ── Public API ─────────────────────────────────────────────────────────────────
@@ -312,11 +314,19 @@ def main():
     else:
         result = process_game(args.game_name, args.urls)
 
+    log_failed = False
     if args.log and result["sources"]:
-        append_research_log(args.log, result["sources"])
+        try:
+            append_research_log(args.log, result["sources"])
+        except (OSError, ValueError, yaml.YAMLError) as exc:
+            print(f"[pipeline] Research log unchanged: {exc}", file=sys.stderr)
+            log_failed = True
 
     print(json.dumps(result, indent=2, ensure_ascii=False))
+    if log_failed:
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

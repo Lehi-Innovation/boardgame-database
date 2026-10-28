@@ -35,6 +35,8 @@ Open [the game browser](http://localhost:3000/) or [the catalog backlog](http://
 
 The web app is currently a local administration tool with unauthenticated image uploads. Public hosting needs a separate implementation and access-control review.
 
+Run focused checks with `python -m unittest discover -s tests -v` and `python scripts/validate_catalog.py --only log`. The full read-only audit, `python scripts/validate_catalog.py --json`, reports existing catalog issues described in [project status](docs/status.md).
+
 ## Working data
 
 - [games/](games/): current game records, one YAML file per game or edition.

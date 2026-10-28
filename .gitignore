@@ -12,6 +12,10 @@ __pycache__/
 /pipeline_cache.db
 /pipeline_cache.db-*
 
+# Stable coordination lock for atomic research-log writes
+/sources/research-log.yaml.lock
+/sources/.research-log.yaml.*.tmp
+
 # Legacy importer outputs, if an experiment is run locally
 /scraper_state.json
 

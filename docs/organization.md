@@ -35,6 +35,8 @@ This is the maintained repository map. Update it when file locations or canonica
 │   ├── sources.yaml           Image provenance
 │   └── ...                    Box art
 ├── scripts/                    Research, catalog, database, and asset tools
+├── tests/                      Focused Python regression tests using temporary data
+├── .github/workflows/          Automated tooling and provenance checks
 ├── web/
 │   ├── README.md               UI/API reference
 │   ├── package*.json          Dependency manifest and lockfile
@@ -64,7 +66,7 @@ The locally generated `games.db` and `pipeline_cache.db` live at the root and ar
 
 The web “Master List” reads the CSV. Source-list nominations enrich it; they do not override researched records. SQLite is a derived read cache, not an additional editable authority.
 
-The schema is descriptive YAML, not executable validation. Genre proposals do not silently change current definitions. The earlier marketplace suite is preserved as drafts, not an adopted expansion of the current product scope.
+The schema is descriptive YAML. `scripts/validate_catalog.py` enforces selected structural rules and reads its vocabulary; it is not a complete generated schema contract. `scripts/yaml_utils.py` supplies duplicate-key detection and `scripts/research_log.py` owns coordinated evidence writes. Genre proposals do not silently change current definitions. The earlier marketplace suite is preserved as drafts, not an adopted expansion of the current product scope.
 
 ## Placement and maintenance
 
