@@ -10777,3 +10777,108 @@ entries:
       on helper-sheet release is not the game’s publication date. Publisher rules landing
       page located; linked living-rulebook PDF failed web retrieval and was not claimed
       as a successfully read source.
+  - timestamp: '2026-11-02T16:52:47Z'
+    game_id: chess
+    url: https://handbook.fide.com/chapter/E012023
+    description: Direct HTTP fetch of FIDE laws succeeded after web-tool timeout. Articles
+      1/2 explicitly standard chess has two opponents, an 8×8 board and sixteen starting
+      pieces per side. Both local chess records described these same standard rules,
+      not distinct editions. Consolidated under chess and archived duplicate bytes;
+      no invented first-publication or universal age. Experience ratings and nominal
+      duration remain provisional.
+  - timestamp: '2026-11-02T16:52:47Z'
+    game_id: carcassonne-the-castle
+    url: https://cundco.de/media/6d/ba/56/1781176443/The_Castle_rules.pdf?ts=1781176443
+    description: Publisher-associated CundCo English rules explicitly for two players
+      by Reiner Knizia based on Wrede’s Carcassonne system. Wall confines tile placement;
+      scoring track, followers and bonus tiles match both local duplicate records. Consolidated
+      old the-castle-carcassonne into current full-title record; distinguished designer
+      from underlying-system credit. Reviewed rules give no duration/age; time estimate
+      and existing age are not newly certified.
+  - timestamp: '2026-11-02T16:52:47Z'
+    game_id: carcassonne-the-castle
+    url: https://www.kjwrede.de/spiele/carcassonne-familie/
+    description: Original Carcassonne creator’s chronology explicitly lists 2003 Carcassonne
+      – Die Burg (von Reiner Knizia), for two players. Supports original-game identity/date
+      for the duplicate consolidation; not the Mayfair or Faidutti/Laget same-title
+      games.
+  - timestamp: '2026-11-02T16:52:47Z'
+    game_id: carcassonne-the-castle
+    url: https://en.wikipedia.org/wiki/The_Castle_(board_game)
+    description: 'Separate discovery article identifies 1981 Mayfair game about rescuing
+      a princess from monsters and cites The Space Gamer #46 review, December 1981.
+      Used only to reject false mapping of that CSV row to Carcassonne 2003. The cited
+      magazine itself was not read; no speculative Mayfair rules/specifications were
+      added.'
+  - timestamp: '2026-11-02T16:52:47Z'
+    game_id: carcassonne-the-castle
+    url: https://www.museumofplay.org/app/uploads/2022/08/03.-Mayfair-Games-Inc.-records_paper-finding-aid_072922.pdf
+    description: 'Museum of Play Mayfair finding-aid indexed text lists Box 192 Folder
+      5: The Castle development papers, 1981. Independent contextual support for distinct
+      Mayfair title, not evidence for publication day, player counts or designer. Old
+      discovery row returned to pending without transferring Carcassonne facts.'
+  - timestamp: '2026-11-02T16:52:47Z'
+    game_id: castle-2000
+    url: https://faidutti.com/blog/blog/2012/05/01/castel-castle/
+    description: 'Designer’s own bilingual page: Castel/Castle by Bruno Faidutti and
+      Serge Laget, art Emmanuel Roudier, Jeux Descartes 2000, two to five, nominal sixty
+      minutes. Almost all characters have individual abilities and can eject rivals.
+      Corrected generic unsupported tile-placement placeholder and unknown designer;
+      age left unknown; preferred counts and experience remain provisional.'
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: dont-be-annoyed
+    url: https://www.museen.nuernberg.de/fileadmin/mdsn/pdf/Spielzeugmuseum/Presseinfos/2004/spm_presse04_maedn.pdf
+    description: Nürnberg Toy Museum exhibition history prepared with Schmidt cooperation
+      explicitly dates commercial production to 1914, after private workshop copies.
+      Corrected original commercial publication scope; no claim that no earlier copies
+      existed. Retained existing supported counts as not newly verified; timing/preferred
+      counts and experience are provisional. Original age label unknown.
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: diplomacy
+    url: https://diplom.org/~diparch/resources/rulebooks/1959.pdf
+    description: 'Original rulebook scan locally inspected: page 1 copyright 1959 Allan
+      B. Calhamer, seven recommended and as few as three permitted, named European powers,
+      nonbinding negotiations, supply centers and agreed session limit; page 2 armies/fleets
+      and orders. Created original game rather than overwriting distinct ancient-world
+      Classical Diplomacy. Original age/time label unknown; nominal duration and experience
+      provisional.'
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: diplomacy
+    url: https://www.diplomacyworld.net/pdf/dw121.pdf
+    description: Search-indexed page 23 collector account by Stephen Agar identifies
+      first edition 1959, self-marketed by Allan Calhamer before Games Research, and
+      a copy originally bought April 1960. Full PDF retrieval failed; used only the
+      indexed first-edition account corroborating physical original publication/publisher,
+      not unread issue contents. Original rules independently inspected as local scans.
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: mag-blast-third-edition
+    url: https://star-ranger.com/MagBlast.htm
+    description: Contemporary September 18, 2006 entry explicitly reports third edition
+      now available; July announcement alone would not establish release. Preserves
+      publisher description specifying 2–8 and Kovalic art. Corrected 2007 record. Existing
+      nominal time and preferred counts are provisional.
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: mag-blast-third-edition
+    url: https://images-cdn.fantasyflightgames.com/filer_public/6b/8a/6b8a9492-f27c-423b-b568-2032d4c3c300/mb_rules.pdf
+    description: 'Publisher-hosted third-edition rules: original design Anders M. Petersen
+      and Christian T. Petersen, third-edition development Robert Vaughn, cover/card
+      art John Kovalic. Five-phase turns pass clockwise, with specific ANY TURN card
+      interrupts and elimination when command ship destroyed. Removed false simultaneous-action
+      category; age/timing bounds not established. Old ffg_content URL now fails; current
+      CDN text successfully read with web tool.'
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: ligny-incomplete-victory
+    url: https://www.spigames.net/PDFv11/SPI_WithCompanyID_updated.pdf
+    description: Historical SPI product bibliography page 2 lists Ligny The Incomplete
+      Victory, folio 1446, 1976, Kevin Zucker, alongside original Napoleon’s Last Battles
+      quad. Corrected 1987/GMT placeholder to SPI 1976. The table’s WWII era classification
+      is erroneous and was not copied; screenshot retrieval failed, row text read and
+      independently corroborated for quad history.
+  - timestamp: '2026-11-02T17:06:04Z'
+    game_id: ligny-incomplete-victory
+    url: https://www.nobleknight.com/P/2147360832/Napoleons-Last-Battles
+    description: Retailer’s own SPI boxed-set inventory identifies Kevin Zucker, 1976,
+      and four battles including Ligny with linked campaign. Corroborates original group
+      identity. Its 2–4, age 12 and 180-minute specifications describe the whole quad
+      and are not standalone Ligny facts. Original standalone rules not yet reviewed;
+      retained two-player/time estimates as provisional, age unknown.

@@ -60,8 +60,8 @@ Keep both distinct editions. Backfill previews use these same conservative rules
 
 ## Historical research IDs
 
-[../sources/game-aliases.yaml](../sources/game-aliases.yaml) records nineteen deliberate
-links from historical IDs to current records, each with an explanation grounded in
+[../sources/game-aliases.yaml](../sources/game-aliases.yaml) records the initial nineteen deliberate
+links from historical IDs to current records, plus two retired duplicate-record IDs, each with an explanation grounded in
 the stored evidence and represented edition. Historical log bytes remain intact.
 The previously missing original 878 Vikings record was independently researched and
 added using its historical slug; it is not an alias to the second edition.
@@ -69,3 +69,19 @@ added using its historical slug; it is not an alias to the second edition.
 Aliases do not establish that every logged source supports every field in its target
 record. The audit validates targets and explanations and reports unresolved historical
 IDs; it never rewrites evidence IDs automatically.
+
+## Reviewed duplicate records
+
+On 2026-11-02, standard `two-player-chess` was consolidated into `chess`, and
+`the-castle-carcassonne` into `carcassonne-the-castle`. Both original YAML files are
+[archived unchanged](../archive/2026-11-02/README.md), with hashes and restoration
+requirements. Their protected owner fields were empty; no plays or personal
+ratings were merged or discarded. Differing provisional ratings remain historical
+in the archive. The retained records preserve the useful alternate titles.
+
+The same-title CSV row **The Castle (board game)** identifies a separate 1981
+Mayfair game. Its wrong Carcassonne mapping was cleared rather than counted as a
+duplicate. Faidutti and Laget’s 2000 **Castle** also remains separate and now has
+creator-sourced identity and credits. These decisions demonstrate why comparing
+only the duplicate YAML titles is insufficient: inspect the original CSV identity
+and underlying evidence before assigning its target.

@@ -95,6 +95,11 @@ The active CSV and existing Wikidata state are tracked. Inspect importer compati
 
 ## Archive conventions
 
+Dated duplicate-record retirements live in `archive/YYYY-MM-DD/duplicate-records/`,
+with original paths, retained IDs and hashes in that date’s README. Evidence aliases
+and CSV mappings point to the retained active record; unrelated same-title games
+remain separate.
+
 Use [the archive index](../archive/README.md). Group retired material by retirement date or named migration, list original paths, explain why it is inactive, and state restoration requirements. Preserve historical content unchanged. Disposable bytecode does not require archival copies.
 
 Old TODOs and agent memories are reference material, not current policy. Retired scripts need path, dependency, and source-permission review before reuse.

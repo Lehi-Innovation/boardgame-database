@@ -3,7 +3,7 @@ name: "Mag·Blast: Third Edition"
 alternate_names:
   - "Mag Blast"
   - "MagBlast"
-year: 2007
+year: 2006  # Contemporary September 18 availability report, not a later reprint.
 
 # Relationships
 game_family: "mag-blast"
@@ -12,11 +12,11 @@ base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 0  # Snack
-rules_complexity: 0  # Preschool
+rules_complexity: 2  # Five turn phases and ship/card interactions.
 strategic_depth: 1  # Light
-feel: 3  # Competitive
+feel: 4  # Direct attacks and player elimination.
 value: 1  # Budget
 
 affinity: null
@@ -25,7 +25,6 @@ hotness: null
 categories:
   - Hand Management
   - Take That
-  - Simultaneous Action
   - Sci-Fi
   - Space
   - Party
@@ -43,16 +42,18 @@ true_counts: [4, 5, 6]
 
 designer:
   - Anders M. Petersen
+  - Christian T. Petersen
+# Rulebook separately credits Robert Vaughn for third-edition development.
 publisher:
   - Fantasy Flight Games
 artist:
   - John Kovalic
-playtime_minutes: 15
-min_playtime: 10
-max_playtime: 20
-min_age: 10
+playtime_minutes: 15  # Existing provisional estimate, not a rulebook guarantee.
+min_playtime: null
+max_playtime: null
+min_age: null  # Age label not established in the reviewed rules/news.
 
 description: |
-  Mag-Blast: Third Edition is a fast and chaotic space-fleet card game designed by Anders M. Petersen and published by Fantasy Flight Games in 2007, featuring art by cartoonist John Kovalic. Players command fleets of sci-fi ships — Scouts, Gunships, Dreadnoughts, Destroyers — and fire blast cards at opponents, with the infamous "Make a Silly Noise or Miss" Blast Targeting System requiring players to accompany their shots with matching sound effects. Games explode to conclusion in 10-15 minutes of pure mayhem across up to eight players. The third edition refreshed the game with ten new alien races, streamlined rules, and new flagship mechanics.
+  Build a fleet around your command ship, move defenders into place and spend cards to attack rival ships or reinforce your own. Turns pass clockwise through five phases; some cards can interrupt another player's turn. Losing your command ship eliminates you, so a large group can leave someone watching before the battle ends. Comic space combat and John Kovalic's illustrations set a playful tone despite the direct attacks. This is the 2006 third edition; duration and preferred counts are provisional estimates.
 
 upgrades: []

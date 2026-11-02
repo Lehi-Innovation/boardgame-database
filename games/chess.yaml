@@ -1,11 +1,12 @@
 id: chess
 name: "Chess"
-alternate_names: []
+alternate_names:
+  - two-player chess
 year: null  # Traditional game; no single publication year.
 
 # Relationships
 game_family: null
-edition: null
+edition: Standard two-player chess; traditional game, not a distinct manufactured edition
 base_game: null
 expansions: []
 compatible_with: []
@@ -44,6 +45,15 @@ max_playtime: null
 min_age: null  # No universal publisher minimum for traditional chess.
 
 description: |
-  Chess is the world's most renowned abstract strategy game, descended from the ancient Indian game chaturanga through Persian shatranj, reaching its modern form in 15th-century Europe. Two players command 16 pieces each — representing different military roles with unique movement rules — on an 8x8 board, seeking to checkmate the opponent's king. With essentially infinite strategic depth and a vast body of theory, openings, and endgame study accumulated over centuries, chess stands unmatched as a game of pure intellectual competition and is played competitively at every level from local clubs to world championship level.
+  Two opponents move pieces on an eight-by-eight board, trying to checkmate
+  the other king. Each starts with sixteen pieces whose different movements
+  create threats, exchanges and opportunities to protect or attack important
+  squares. Both players can see the whole position.
+
+  Expect sustained planning and direct competition; those experience ratings
+  remain provisional. Playing time depends on the agreed time controls, so the
+  nominal hour here is an illustrative session estimate. This record covers
+  standard two-player chess, including the retired duplicate named that way;
+  it does not treat multiplayer variants as the same game.
 
 upgrades: []

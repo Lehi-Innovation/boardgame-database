@@ -506,3 +506,113 @@ decisions:
     Generic CSV row has no later-edition qualifier; selects original base game. Removed
     unsupported universal quality claim; base-game timing 60–90 minutes is distinct
     from expansion content.
+- name: Chess / two-player chess
+  yaml_id: chess
+  retired_yaml_id: two-player-chess
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://handbook.fide.com/chapter/E012023
+  reason: 'Reviewed duplicate-record consolidation: standard Chess and two-player
+    chess described the same two-opponent game under FIDE rules. Retired two-player-chess
+    YAML unchanged to dated archive; retained canonical chess and its unknown publication/age
+    facts. No owner ratings or play history existed in the retired record.'
+- name: 'Carcassonne: The Castle / Die Burg'
+  year: 2003
+  yaml_id: carcassonne-the-castle
+  retired_yaml_id: the-castle-carcassonne
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cundco.de/media/6d/ba/56/1781176443/The_Castle_rules.pdf?ts=1781176443
+  - https://www.kjwrede.de/spiele/carcassonne-familie/
+  reason: Consolidated duplicate The Castle/Die Burg YAML into carcassonne-the-castle.
+    Original English rules identify Knizia using Wrede’s Carcassonne system; Wrede’s
+    own chronology gives 2003. Separate from Mayfair’s 1981 The Castle and Faidutti/Laget’s
+    2000 Castle card game.
+- name: The Castle (board game)
+  bgg_id: '7389'
+  previous_yaml_id: the-castle-carcassonne
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: https://en.wikipedia.org/wiki/The_Castle_(board_game)
+  reason: Original discovery article The Castle (board game) identifies a 1981 Mayfair
+    game; independent museum finding aid preserves The Castle development papers from
+    1981. Cleared false link to the 2003 Knizia Carcassonne spinoff. Separate Mayfair
+    record remains pending suitable rules/specification research; no player-count
+    or designer facts guessed.
+- name: Castle
+  year: 2000
+  yaml_id: castle-2000
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://faidutti.com/blog/blog/2012/05/01/castel-castle/
+  reason: Designer’s own game page identifies two designers, 2000 Jeux Descartes publication,
+    Emmanuel Roudier art, 2–5 and nominal sixty minutes. Replaced unsupported tile-placement/unknown-credit
+    placeholder; retained owner fields and provisional experience estimates.
+- name: Mensch ärgere dich nicht
+  bgg_id: '2136'
+  previous_catalog_year: 1907
+  year: 1914
+  yaml_id: dont-be-annoyed
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.museen.nuernberg.de/fileadmin/mdsn/pdf/Spielzeugmuseum/Presseinfos/2004/spm_presse04_maedn.pdf
+  reason: Museum exhibition history explicitly distinguishes early private workshop
+    copies from commercial production beginning in 1914. Scoped record to original
+    commercial Schmidt game and corrected unsupported 1999 edition claim. CSV 1907
+    is an early development date, not the represented commercial publication. Original
+    age and timing bounds remain unknown.
+- name: Diplomacy
+  bgg_id: '483'
+  year: 1959
+  previous_yaml_id: classical-diplomacy
+  yaml_id: diplomacy
+  status: created
+  reviewed_on: '2026-11-02'
+  basis: https://diplom.org/~diparch/resources/rulebooks/1959.pdf
+  reason: 'Original 1959 rules inspected as scans: Allan B. Calhamer copyright, Europe
+    powers, three to seven with seven recommended. Added original game and remapped
+    original CSV row; retained the distinct five-player ancient-world Classical Diplomacy
+    record and its own discovery row. No later-edition two-player or age labels transferred.'
+- name: 'Mag·Blast: Third Edition'
+  bgg_id: '23142'
+  year: 2006
+  yaml_id: mag-blast-third-edition
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://star-ranger.com/MagBlast.htm
+  - https://images-cdn.fantasyflightgames.com/filer_public/6b/8a/6b8a9492-f27c-423b-b568-2032d4c3c300/mb_rules.pdf
+  reason: Contemporary September 18, 2006 availability news establishes released third
+    edition, not only an announced date. Corrected record 2007 and added co-designer
+    Christian T. Petersen from original publisher rulebook; Robert Vaughn credited
+    separately as third-edition developer. Removed simultaneous-action category because
+    rules explicitly pass five-phase turns clockwise; interrupts do not make all turns
+    simultaneous.
+- name: 'Ligny: Incomplete Victory'
+  bgg_id: '30023'
+  year: 1976
+  yaml_id: ligny-incomplete-victory
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.spigames.net/PDFv11/SPI_WithCompanyID_updated.pdf
+  reason: SPI historical product bibliography explicitly lists Ligny folio 1446, 1976,
+    Kevin Zucker, alongside Napoleon’s Last Battles quad. Corrected unsupported 1987/GMT
+    claim to original SPI scope. Bibliography’s WWII era typo not adopted. Retailer
+    confirms quad identity/year/designer; its four-player campaign, age and duration
+    specifications were not transferred to standalone folio. Standalone counts/time
+    remain provisional pending original rules.
+- name: Don't Be Annoyed
+  bgg_id: '7116'
+  year: 1999
+  previous_yaml_id: dont-be-annoyed
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: https://www.museen.nuernberg.de/fileadmin/mdsn/pdf/Spielzeugmuseum/Presseinfos/2004/spm_presse04_maedn.pdf
+  reason: Existing mapping pointed to a generic Schmidt-race description with an unsupported
+    1999-edition claim. Reviewed museum evidence now scopes dont-be-annoyed to the
+    original commercial 1914 game. The separate 1999 English-title catalog row has
+    no established printing/rules evidence; cleared mapping and retained its year
+    pending edition research rather than treating translation alone as equivalence.

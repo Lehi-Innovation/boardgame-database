@@ -1,30 +1,31 @@
 id: castle-2000
 name: "Castle"
-alternate_names: []
+alternate_names:
+  - Castel
 year: 2000
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Jeux Descartes card game (2000)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
+length: 2  # Provisional vibe for the designer's nominal sixty-minute session
+rules_complexity: 2  # Provisional: individual character abilities interact
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4  # Provisional: opponents can eject each other's characters
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
-  - Tile Placement
+  - Hand Management
+  - Take That
   - Medieval
   - Family
-  - Abstract
 
 evokes:
   - Agency
@@ -33,19 +34,30 @@ evokes:
   - Progress
   - Wonder
 
-possible_counts: [2, 3, 4]
-true_counts: [2, 3, 4]
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]  # Provisional preferred group sizes, not a designer recommendation
 
 designer:
-  - Unknown
-publisher: []
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 8
+  - Bruno Faidutti
+  - Serge Laget
+publisher:
+  - Jeux Descartes
+artist:
+  - Emmanuel Roudier
+playtime_minutes: 60  # Designer's own game page; other edition timings may differ
+min_playtime: null
+max_playtime: null
+min_age: null  # Designer page gives no minimum age
 
 description: |
-  Castle is a 2000 board game with a medieval castle theme, in which players build or compete within a castle environment using tile placement or movement mechanics. Limited publisher and designer information is available for this title, which may refer to one of several games sharing the name.
+  Try to place the characters in your hand into a crowded castle. Almost every
+  character has a different ability, letting cards create opportunities, combine
+  with others or eject an opponent's people. Characters can move between the
+  castle and players' hands, changing which combinations are useful.
+
+  This is Bruno Faidutti and Serge Laget's 2000 card game, also called Castel,
+  illustrated by Emmanuel Roudier. Expect tactical combinations and direct
+  interference; that experience assessment and the preferred counts are provisional.
+  It is separate from the Carcassonne spinoff and Mayfair's earlier The Castle.
 
 upgrades: []

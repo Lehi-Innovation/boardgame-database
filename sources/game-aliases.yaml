@@ -59,3 +59,17 @@ aliases:
   the-crew-the-quest-for-planet-nine:
     game_id: the-crew-quest-for-planet-nine
     reason: Stored review titles identify Planet Nine, distinguishing it from Mission Deep Sea.
+
+# Retired duplicate record IDs reviewed on 2026-11-02.
+  two-player-chess:
+    game_id: chess
+    reason: '2026-11-02 duplicate-record review: retired YAML explicitly describes the
+      same game as chess. Original file is preserved unchanged at archive/2026-11-02/duplicate-records/two-player-chess.yaml;
+      protected owner fields were empty. Canonical identity is supported by the logged
+      primary rules/creator evidence.'
+  the-castle-carcassonne:
+    game_id: carcassonne-the-castle
+    reason: '2026-11-02 duplicate-record review: retired YAML explicitly describes the
+      same game as carcassonne-the-castle. Original file is preserved unchanged at archive/2026-11-02/duplicate-records/the-castle-carcassonne.yaml;
+      protected owner fields were empty. Canonical identity is supported by the logged
+      primary rules/creator evidence.'

@@ -1,11 +1,13 @@
 id: carcassonne-the-castle
 name: "Carcassonne: The Castle"
-alternate_names: []
+alternate_names:
+  - The Castle
+  - Die Burg
 year: 2003
 
 # Relationships
 game_family: carcassonne
-edition: null
+edition: Original Carcassonne spinoff (2003); English rules titled The Castle
 base_game: null
 expansions: []
 compatible_with: []
@@ -39,16 +41,26 @@ true_counts: [2]
 
 designer:
   - Reiner Knizia
-  - Klaus-Jurgen Wrede
 publisher:
+  - Hans im Glück
   - Rio Grande Games
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 8
+playtime_minutes: 45  # Provisional existing session estimate; rules reviewed here give no time range
+min_playtime: null
+max_playtime: null
+min_age: 8  # Existing edition metadata; this identity review did not reverify the age label
 
 description: |
-  Carcassonne: The Castle is a two-player tile-placement game co-designed by Reiner Knizia and Carcassonne creator Klaus-Jürgen Wrede, published in 2003. Unlike the original game's open landscape, players here build entirely within the fixed walls of a medieval castle, placing tiles to complete paths, towers, houses, and courts, and scoring follower majorities in each. The castle's perimeter doubles as a scoring track where landing on bonus spaces grants extra points, creating tight, head-to-head tactical drama in a compact 60-minute experience.
+  Two players place tiles and followers inside a fixed castle wall, building
+  paths, houses, towers and courts. Completing features earns points, while
+  landing on special spaces on the wall's scoring track can award useful
+  bonus tiles. The confined playing area makes nearby placements matter to
+  both players.
+
+  Reiner Knizia designed this standalone game using Klaus-Jürgen Wrede's
+  Carcassonne system. It is also called Die Burg or The Castle. Expect a spatial
+  contest over completing features and choosing when to score; that experience
+  assessment remains provisional. It is separate from Mayfair's 1981 The Castle
+  and Faidutti and Laget's 2000 card game Castle.
 
 upgrades: []

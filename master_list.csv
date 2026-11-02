@@ -571,7 +571,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 150,Carabande,,boardgame,,,
 963,Carat,,boardgame,,,
 ,Carcassonne,2000,boardgame,,,
-7717,Carcassonne: The Castle,,boardgame,,,
+7717,Carcassonne: The Castle,2003,boardgame,,2026-11-02: Consolidated duplicate The Castle/Die Burg YAML into carcassonne-the-castle. Original English rules identify Knizia using Wrede’s Carcassonne system; Wrede’s own chronology gives 2003. Separate from Mayfair’s 1981 The Castle and Faidutti/Laget’s 2000 Castle card game.,carcassonne-the-castle
 12902,Carcassonne: The City,,boardgame,,,
 45748,Carcassonne: Wheel of Fortune,,boardgame,,,
 22924,Card football,,boardgame,,,
@@ -594,7 +594,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Cash 'n Guns,2014,boardgame,,,
 19237,Cash'n Guns,,boardgame,,,
 98189,Casse-toi pov' con,2011,boardgame,,,
-655,Castle,2000,boardgame,,,castle-2000
+655,Castle,2000,boardgame,,"2026-11-02: Designer Bruno Faidutti identifies this as his and Serge Laget’s 2000 Jeux Descartes card game Castel/Castle, art Emmanuel Roudier, 2–5. Replaced unsupported generic placeholder and unknown-designer claim; distinct from Carcassonne and Mayfair games.",castle-2000
 ,Castle Combo,2024,boardgame,,,
 191065,Castle Flutterstone,,boardgame,,,
 29411,Castle Knights,,boardgame,,,
@@ -659,7 +659,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 29773,Cheeky Monkey,,boardgame,,,
 40819,Cheese Chasers,,boardgame,,,
 7644,Cherry Ames' Nursing Game,,boardgame,,,
-171,chess,,boardgame,,,
+171,chess,,boardgame,,2026-11-02: Reviewed duplicate-record consolidation: standard Chess and two-player chess described the same two-opponent game under FIDE rules. Retired two-player-chess YAML unchanged to dated archive; retained canonical chess and its unknown publication/age facts. No owner ratings or play history existed in the retired record.,chess
 19685,Chess Mutation,,boardgame,,,
 ,"Chessboard and chess pieces used by Napoleon and his entourage at Longwood, Saint Helena",,boardgame,skip,"Museum artifact, not a board game",
 13036,Cheyenne,,boardgame,,,
@@ -970,7 +970,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3768,Dingbats,,boardgame,,,
 235927,Dino World,2017,boardgame,,,
 23541,Dinosaurus,2006,boardgame,,,
-483,Diplomacy,1959,boardgame,,,classical-diplomacy
+483,Diplomacy,1959,boardgame,,"2026-11-02: Original 1959 rules inspected as scans: Allan B. Calhamer copyright, Europe powers, three to seven with seven recommended. Added original game and remapped original CSV row; retained the distinct five-player ancient-world Classical Diplomacy record and its own discovery row. No later-edition two-player or age labels transferred.",diplomacy
 29491,Dipole,,boardgame,,,
 22065,Direct Conflict in Dimension Six,,boardgame,,,
 5687,Dirtside II,,boardgame,,,
@@ -1001,7 +1001,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Dominion,2008,boardgame,,Identity review 2026-11-02: Publisher explicitly identifies original first edition as first published in 2008; 2009 is the award year.,dominion
 ,Dominion (Second Edition),2016,boardgame,,,
 210,Don Pepe,,boardgame,,,
-7116,Don't Be Annoyed,1999,boardgame,,,dont-be-annoyed
+7116,Don't Be Annoyed,1999,boardgame,,2026-11-02: Existing mapping pointed to a generic Schmidt-race description with an unsupported 1999-edition claim. Reviewed museum evidence now scopes dont-be-annoyed to the original commercial 1914 game. The separate 1999 English-title catalog row has no established printing/rules evidence; cleared mapping and retained its year pending edition research rather than treating translation alone as equivalence.,
 4888,Don't Break the Ice,,boardgame,,,dont-break-the-ice
 32687,Don't Drop the Soap,,boardgame,,,dont-drop-the-soap
 7791,Don't Give Up the Ship!,,boardgame,,,dont-give-up-the-ship
@@ -1892,7 +1892,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 2853,Liftoff!,1989,boardgame,,,
 8382,Light Division,1989,boardgame,,,
 ,Light Speed Arena,2025,boardgame,,,
-30023,Ligny: Incomplete Victory,1976,boardgame,,,ligny-incomplete-victory
+30023,Ligny: Incomplete Victory,1976,boardgame,,"2026-11-02: SPI historical product bibliography explicitly lists Ligny folio 1446, 1976, Kevin Zucker, alongside Napoleon’s Last Battles quad. Corrected unsupported 1987/GMT claim to original SPI scope. Bibliography’s WWII era typo not adopted. Retailer confirms quad identity/year/designer; its four-player campaign, age and duration specifications were not transferred to standalone folio. Standalone counts/time remain provisional pending original rules.",ligny-incomplete-victory
 ,Limes,2014,boardgame,,,
 ,Lincoln,2018,boardgame,,,
 5174,Lingua,1969,boardgame,,,
@@ -1978,7 +1978,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 85245,Magician's Kitchen,,boardgame,failed,No English sources found,
 20935,Magikon,1984,boardgame,failed,No English sources found,
 16778,Magneton,,boardgame,failed,No English sources found,
-23142,Mag·Blast: Third Edition,2006,boardgame,,,mag-blast-third-edition
+23142,Mag·Blast: Third Edition,2006,boardgame,,"2026-11-02: Contemporary September 18, 2006 availability news establishes released third edition, not only an announced date. Corrected record 2007 and added co-designer Christian T. Petersen from original publisher rulebook; Robert Vaughn credited separately as third-edition developer. Removed simultaneous-action category because rules explicitly pass five-phase turns clockwise; interrupts do not make all turns simultaneous.",mag-blast-third-edition
 1713,Maharaja,,boardgame,,,maharaja-the-game-of-palace-building-in-india
 9440,Maharaja: The Game of Palace Building in India,2004,boardgame,,,maharaja-the-game-of-palace-building-in-india
 2093,mahjong,,boardgame,,,
@@ -2054,7 +2054,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 10630,Memoir '44,,boardgame,,,
 244608,Menara,2018,boardgame,,,
 19846,Menhir,,boardgame,failed,No specific board game found,
-2136,Mensch ärgere dich nicht,1907,boardgame,,,dont-be-annoyed
+2136,Mensch ärgere dich nicht,1914,boardgame,,"2026-11-02: Museum exhibition history explicitly distinguishes early private workshop copies from commercial production beginning in 1914. Scoped record to original commercial Schmidt game and corrected unsupported 1999 edition claim. CSV 1907 is an early development date, not the represented commercial publication. Original age and timing bounds remain unknown.",dont-be-annoyed
 230,Merchant of Venus,,boardgame,,,
 32114,Merchants,,boardgame,ambiguous,"Too generic, no specific game identified",
 25292,Merchants & Marauders,2010,boardgame,,,merchants-and-marauders
@@ -3129,7 +3129,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 144553,The Builders: Middle Ages,,boardgame,,,
 6826,The Campaigns of Robert E. Lee,,boardgame,,,
 40005,The Caravan,,boardgame,,,karawane
-7389,The Castle (board game),,boardgame,,,the-castle-carcassonne
+7389,The Castle (board game),,boardgame,,2026-11-02: Original discovery article The Castle (board game) identifies a 1981 Mayfair game; independent museum finding aid preserves The Castle development papers from 1981. Cleared false link to the 2003 Knizia Carcassonne spinoff. Separate Mayfair record remains pending suitable rules/specification research; no player-count or designer facts guessed.,
 25951,The Castle of the Devil,,boardgame,,,
 84876,The Castles of Burgundy,2011,boardgame,,,
 186095,The Cat's Pajamas,,boardgame,,,the-cats-pajamas
@@ -3457,7 +3457,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 24,Twilight Imperium,1997,boardgame,,,twilight-imperium-1997
 12333,Twilight Struggle,,boardgame,,,
 5894,Twister,,boardgame,,,
-,two-player chess,,boardgame,,,
+,two-player chess,,boardgame,duplicate,2026-11-02: Duplicate of standard Chess (chess); old two-player-chess YAML archived unchanged. Reviewed duplicate-record consolidation: standard Chess and two-player chess described the same two-opponent game under FIDE rules. Retired two-player-chess YAML unchanged to dated archive; retained canonical chess and its unknown publication/age facts. No owner ratings or play history existed in the retired record.,
 2161,Tyranid Attack,,boardgame,,,
 719,Tyranno Ex,1990,boardgame,,,
 3230,Tyros,,boardgame,,,
