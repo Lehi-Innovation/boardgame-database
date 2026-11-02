@@ -1,11 +1,16 @@
+# The 2023 demo/early rules are not proof of physical publication. Retail inventory
+# and independent played-copy review identify 2024. Inspected ©2024 English rules
+# confirm two DIFFERENT actions from six, blocking/spore control and automated solo.
+# The 69 cards are not proof of over 69 unique species. Retail recommendations are
+# 1–4/10+/40–90; preferred counts and experience ratings remain provisional.
 id: mycelia
 name: "Mycelia"
 alternate_names: []
-year: 2023
+year: 2024
 
 # Relationships
 game_family: null
-edition: null
+edition: Split Stone Games original English release (2024)
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +19,7 @@ compatible_with: []
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4
 value: 3  # Premium
 
 affinity: null
@@ -23,17 +28,18 @@ hotness: null
 categories:
   - Tile Placement
   - Action Points
-  - Variable Player Powers
+  - Area Control
+  - Network Building
+  - Dice Rolling
   - Euro
   - Nature
-  - Animals
 
 evokes:
   - Wonder
   - Clever
   - Progress
-  - Discovery
-  - Complete
+  - Tension
+  - Rivalry
 
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]
@@ -50,6 +56,6 @@ max_playtime: 90
 min_age: 10
 
 description: |
-  Mycelia is a tactical tile-placement game designed and illustrated by J.J. Neville, published by Split Stone Games in 2023. Players guide the lifecycle of fungi through six possible actions per turn — move, spore, explore, fruit, discover, and decay — placing mushroom tiles to grow their mycelial network across a shared board. The artwork features botanically accurate depictions of over 69 real mushroom species, creating an educational dimension alongside the gameplay. Scoring rewards players for fruiting mushrooms, expanding their network, and using decay actions to unlock powerful special effects, resulting in a medium-weight game with strong thematic integration.
+  Spread a fungal network across an expanding landscape of triangular tiles. On each turn, take two different actions from moving, exploring, sporing, growing a mushroom, drawing a card or letting a mushroom decay. The wind die changes where spores spread, while larger mushrooms can block rivals and take control of their spores. After a mushroom has spored twice, decay can unlock useful powers; filling all five decay slots ends the game immediately, with the highest score winning. Botanical artwork accompanies a competitive contest for space and resources. Solo play uses an automated opponent. This is Neville’s Split Stone game, separate from Ravensburger’s same-title deck-building game.
 
 upgrades: []

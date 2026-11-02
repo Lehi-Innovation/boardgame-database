@@ -1942,3 +1942,135 @@ decisions:
   - https://www.zatrolene-hry.cz/spolecenska-hra/london-1604/k-stazeni/pravidla-sk-1958/
   reason: Added explicit2010TreefrogoriginalLondon row. Originalcredits/dated2010reference,boroughmapand12+/about90
     scopedseparatelyfromOsprey2017cardboroughrevision;preferredcountsandexperienceprovisional.
+- name: Macroscope
+  year: 2016
+  yaml_id: macroscope-2016
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyjapan.games/macroscope/
+  - https://www.angespielt.de/kritiken/macroscope
+  - https://world-of-board-games.com.sg/docs/Macroscope.pdf
+  reason: Original Lifestyle2016 game now separate from Mayday2017 English issue. Official
+    Japanese release and independent German played bibliography establish2016 availability;
+    exact first language/printing unverified. Corrected reversed remaining-window score; added
+    explicit Mayday2017 row.
+- name: Maple Valley
+  year: 2024
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://images.salsify.com/image/upload/s--9T9aWNVq--/fpcejaawqmf3ggvydmp6.pdf
+  - https://zatu.com/blogs/reviews/maple-valley-kickstarter-review
+  - https://www.ozziecollectables.com/collections/ktbg/products/maple-valley-base-game-1
+  reason: Final English rules and actual December2023 Kickstarter-copy review establish represented
+    original2023, but generic2024 row gives no language/printing and later localized editions
+    exist. Kept pending instead of forcing original-English mapping; added explicit2023 row.
+    Corrected cooperative feel, route/card rules and Tenney art.
+- name: Marvel Heroes
+  year: 2006
+  yaml_id: marvel-heroes-2006
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.scribd.com/document/987220008/Marvel-Heroes-Rulebook-EN
+  - https://www.orderofgamers.com/games/marvel-heroes/
+  - https://www.criticalgamers.com/archives/2006/12/
+  reason: Added Nexus/FFG2006 hero-team/competing-mastermind strategy game, separate from
+    the older MiltonBradley record. Primary rule transcript distinguishes design/additional
+    design, board art and sculpture; contemporary shipping article confirms2006. Older record
+    remains for separate source review.
+- name: Mastermind
+  year: 1971
+  yaml_id: mastermind
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.buch-holm.com/content/files/content/om%20os/buch-og-holm-historie.pdf
+  - https://www.americanhistory.si.edu/pt/collections/object/nmah_1305800
+  reason: Original distributor history identifies commercial launch1971;1970 is invention
+    chronology. Corrected catalog1970→1971, scoped Invicta original without laterHasbro blend.
+    Museum corroborates1971rights acquisition; original age/duration bounds unverified.
+  previous_catalog_year: 1970
+- name: Mississippi
+  year: 1987
+  yaml_id: mississippi
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiele4us.de/wp-content/uploads/2022/10/mississippi-gebraucht-g002700080.pdf
+  - https://www.spiel-des-jahres.de/spiele/mississippi/
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/343
+  reason: Inspected originalMattel1987 folded rules confirm Siegers/3–6/10+ and fuel/numbered-boat
+    chain movement. Replaced unsupported1992speedboat identity. Die sets starting orientation
+    only; jury12+ differs from original10+, selected original. Independent30–60duration estimate
+    scoped.
+  previous_record_year: 1992
+- name: Muffin Time
+  year: 2020
+  yaml_id: muffin-time
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://pressreleases.responsesource.com/newsroom/BigPotatoGames/release/98235/muffin-time-kickstarter-hits-10k-target-in-under-an-hour/
+  - https://www.gamesmen.com.au/muffin-time-card-game
+  - https://www.ehgaming.com/wp-content/uploads/2020/10/Muffin-Time-card-game-rules.pdf
+  - https://bigpotato.com/products/muffin-time
+  reason: 2019 was Kickstarter campaign; represented English physical retail UPC5060579760915
+    released2020,2–6/12+/20–40. Corrected catalog2019→2020; current publisher2021expanded2–8/13+
+    kept separate. Original rules require ten-card announcement before surviving to next-turn
+    win.
+  previous_catalog_year: 2019
+- name: Mycelia
+  year: 2024
+  yaml_id: mycelia
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://bghub.org/r/mycelia.pdf
+  - https://www.nobleknight.com/P/2148210496/Mycelia
+  - https://alwaysplayblue.com/reviews-h-n/mycelia-2024/
+  reason: Original SplitStone2024 finished release follows2023demo/crowdfunding; actual inventory/review
+    and©2024rules corroborate. Clarified two DIFFERENT actions chosen from six. Direct interference/automata
+    solo clarified; no over69species claim from69cards. Ravensburger same-title deckbuilder
+    separate.
+  previous_record_year: 2023
+- name: Lord of the Rings
+  year: 2000
+  yaml_id: lord-of-the-rings-2000
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.knizia.de/wp-content/uploads/List-Games-Website-2312.pdf
+  - https://edt210gamestechsociety.wordpress.com/wp-content/uploads/2013/08/knizia-2004-the-design-and-testing-of-the-board-game.pdf
+  - https://www.nobleknight.com/P/11856/Lord-of-the-Rings-1st-Printing
+  - https://www.panix.com/~sos/bc/lotr.html
+  reason: Added original cooperative Knizia/JohnHowe Hasbro/Wizards2000 game,2–5/12+/60–90
+    from specific first-print inventory. Creator publication list/design essay and contemporary
+    played review establish identity. Confrontation/2003children game/laterFFG revision remain
+    separate; no base solo inferred.
+- name: Macroscope
+  year: 2017
+  yaml_id: macroscope
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.sahmreviews.com/2017/06/origins-game-fair-game-debuts-pt-2.html
+  - https://http8574nerdlingmum.wordpress.com/2018/06/15/my-thoughts-on-the-uk-games-expo-2018/
+  - https://world-of-board-games.com.sg/docs/Macroscope.pdf
+  reason: Added explicit Mayday2017 English edition from contemporary Origins debut; original
+    Lifestyle2016 has separate record.2–6/6+/about30 supported; original illustration credits
+    unverified.
+- name: Maple Valley
+  year: 2023
+  yaml_id: maple-valley
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://images.salsify.com/image/upload/s--9T9aWNVq--/fpcejaawqmf3ggvydmp6.pdf
+  - https://zatu.com/blogs/reviews/maple-valley-kickstarter-review
+  - https://www.ozziecollectables.com/collections/ktbg/products/maple-valley-base-game-1
+  reason: Added explicit original KTBG English2023 base-game row from final rules and actualDecember2023review.
+    Generic2024 reference remains pending; upgrades/localized printing details not automatically
+    transferred.

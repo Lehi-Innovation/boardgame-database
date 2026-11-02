@@ -150,3 +150,21 @@ The already separate 2018 `lift-off` record remains distinct from Task Force's
 current answer-service availability and Liftoff!'s original duration remain
 unverified. Museum evidence identifies Luftwaffe as Avalon Hill/Lou Zocchi (1971),
 correcting its CSV date and false designer credit.
+
+**Marvel Heroes (2006)** now separately represents Nexus's superhero-team game
+distributed by Fantasy Flight, rather than the older Milton Bradley title.
+Original rule credits distinguish design, additional design/development, board
+art and sculpture. **Lord of the Rings (2000)** is Knizia's original cooperative
+Hasbro/Wizards game, with its own record; The Confrontation and the children's
+game remain distinct. The consulted FFG rulebook explicitly belongs to the 2010
+revision, while creator history and a contemporary played review establish the
+original game.
+
+Original Lifestyle **Macroscope (2016)** and Mayday's **English 2017** issue also
+have separate records/dated rows. The original's first language and printing
+remain unverified. **Maple Valley** illustrates why availability evidence is
+not enough to identify every later reference: final English rules and a finished
+Kickstarter-copy review establish 2023, but the generic 2024 row supplies no
+language or printing. It stays pending, with an explicit 2023 row for the
+represented game. Its shared celebration is competitively scored; the earlier
+cooperative `feel` value was incorrect.

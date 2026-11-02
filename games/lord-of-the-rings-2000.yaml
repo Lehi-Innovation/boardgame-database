@@ -1,0 +1,62 @@
+# Creator’s publication list and own design essay establish October 2000 release.
+# Actual first-print WOC55850 inventory supplies 2–5/12+/60–90; contemporaneous
+# 2000 played review establishes original cards/cooperative tracks/corruption.
+# Downloaded FFG rules are explicitly ©2010 revision, not original 2000 manual;
+# revised physical tokens and wording not assigned to original. Preferred counts
+# unknown; experience ratings provisional. No base-box solo support inferred.
+id: lord-of-the-rings-2000
+name: Lord of the Rings
+alternate_names:
+  - The Lord of the Rings
+  - Der Herr der Ringe
+year: 2000
+game_family: null
+edition: Original Hasbro/Wizards English game, WOC55850 (2000)
+base_game: null
+expansions: []
+compatible_with: []
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 1
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Cooperative
+  - Hand Management
+  - Resource Management
+  - Events
+  - Family
+  - Fantasy
+  - Lord of the Rings
+  - Reiner Knizia
+evokes:
+  - Connection
+  - Tension
+  - Clever
+  - Dread
+  - Progress
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+true_counts: []
+designer:
+  - Reiner Knizia
+publisher:
+  - Hasbro
+  - Wizards of the Coast
+artist:
+  - John Howe
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+description: |
+  Work together as hobbits carrying the One Ring toward its destruction. Across four dangerous regions, spend cards to advance activity tracks, gather resources and cope with events before Sauron and corruption overtake the fellowship. Progress on one track can leave another threat neglected, making careful discussion and shared resource planning more useful than a single player racing ahead. Gandalf can help, while using the Ring brings its own risks. Everyone faces the game’s threats together. This record represents Knizia’s original 2000 cooperative board game, separate from The Confrontation, later revised editions and the children’s game.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

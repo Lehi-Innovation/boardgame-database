@@ -1,20 +1,25 @@
+# Original folded German rules were visually read: 3–6, 10+, Mattel ©1987.
+# The die sets initial orientation only, then is no longer used. Jury recommendation
+# 12+ differs from the inspected rules’ 10+; the latter is selected. Duration 30–60
+# comes from independent edition bibliography; artist remains unknown. Preferred
+# counts and experience ratings are provisional.
 id: mississippi
 name: "Mississippi"
-alternate_names: ["Mississippi: The Speed Boat Race"]
-year: 1992
+alternate_names: []
+year: 1987
 
 # Relationships
 game_family: null
-edition: null
+edition: Mattel original German edition (1987)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
 value: 1  # Budget
 
 affinity: null
@@ -22,28 +27,38 @@ hotness: null
 
 categories:
   - Racing
+  - Resource Management
+  - Abstract
   - Family
-  - Dice Rolling
+  - Maritime
 
 evokes:
+  - Clever
   - Tension
-  - Lucky
   - Rivalry
-  - Humor
-  - Complete
+  - Agency
+  - Progress
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts:
+  - 3
+  - 4
 
-designer: []
-publisher: []
+designer:
+  - Roland Siegers
+publisher:
+  - Mattel
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
-min_age: 8
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
 
 description: |
-  Mississippi is a river-themed racing board game in which players race speedboats along the Mississippi River to be the first to cross the finish line. Players roll dice and navigate the modular river board, contending with obstacles and other racers in a light, family-friendly competition. The game is notable for its thematic flavor and accessible racing mechanics suitable for younger audiences. Specific publisher and designer details are limited in available sources.
+  Race hexagonal paddle steamers across the Mississippi with too little firewood to pay for the whole journey. Spend wood to move ahead or retreat to recover it, and position the numbered sides of your steamer against other boats to gain extra movement. Those contacts can set off chains that move rivals as well as you, making timing and orientation central to the race. A die sets starting orientations, then is put away; ordinary movement is chosen rather than rolled. The first steamer to reach or pass the finish wins. Expect arithmetic and close attention to everyone’s position.
 
 upgrades: []
