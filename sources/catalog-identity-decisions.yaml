@@ -999,3 +999,66 @@ decisions:
     Games row links the actual represented edition. Teaching guide requires a locked
     line, not plain three-in-a-row; no unverified original designer/date transferred
     from aggregators.
+- name: Lords of Waterdeep
+  previous_catalog_year: 2013
+  year: 2012
+  yaml_id: lords-of-waterdeep
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://media.wizards.com/downloads/dnd/DnD_LOW_Rulebook_EN.pdf
+  - https://www.blackgate.com/2012/03/19/lordsofwaterdeep/
+  reason: Contemporary March 2012 release/play review and original publisher rules
+    corroborate represented original Wizards base game. Corrected generic CSV 2013
+    to 2012 and linked existing record; retained two-to-five counts and age 12, added
+    cover/board credit roles, replaced unsupported 90-minute nominal with contemporary
+    approximate 60. No sixth-player expansion specifications transferred.
+- name: Chinatown
+  previous_catalog_year: 1997
+  year: 1999
+  yaml_id: chinatown
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/chinatown/
+  - https://www.spieletest.at/gesellschaftsspiel/2057/chinatown
+  - https://regle.escaleajeux.fr/china_rg.pdf
+  reason: Independent play review explicitly original Alea 1999 and distinguishes
+    later revision; original-edition translated rules and official award jury corroborate
+    identity. Corrected unsupported CSV 1997. Record now expressly original Alea/Ravensburger
+    with Franz Vohwinkel, New York 1930s and economic-condition cards; removed blended
+    later publisher and false San Francisco 1960s–1980s setting. Published 60/75/90-minute
+    estimates remain distinguishable rather than certified bounds.
+- name: Orongo
+  previous_catalog_year: 2016
+  year: 2014
+  yaml_id: orongo
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://brettspielbox.de/neu-in-2014-essen-ravensburger-verlag/
+  - https://www.hall9000.de/rubriken/spiele/kurzspielregeln/orongo.pdf
+  - https://www.hall9000.de/html/spiel/9587
+  reason: Contemporary August 2014 Essen announcement and author-dated October 2014
+    teaching summary resolve original Ravensburger release rather than unsupported
+    2016 catalog year. Original reviewer text explains varying personal-statue counts
+    and shared final statue; corrected false universal seventh statue and Party social-mode
+    estimate. HALL9000 generic metadata was not used because its footer discloses
+    some BGG-derived data; independent authored articles/summary supply evidence.
+- name: Battle Cry
+  previous_catalog_year: 1999
+  year: 1999
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.panix.com/~sos/bc/battlecry.html
+  - https://fgbradleys.com/wp-content/uploads/rules/Battle%20Cry.pdf
+  - https://www.uspto.gov/web/trademarks/tmog/20010821_OG.pdf
+  reason: June 2000 first-hand review explicitly calls Borg/Avalon Hill publication
+    2000, but Hasbro trademark application 76-185,662 reports first commercial use
+    August 13, 1999. Retained 1999 discovery row pending rather than forcing equivalence
+    or treating a filing as a box-publication record. Detailed record explicitly scopes
+    reviewed 2000 version, separates older Milton Bradley and later anniversary game,
+    and corrects false age 8 to indexed original rules 12+. Full mirrored rulebook
+    returned 403; exact earliest printing remains unresolved.

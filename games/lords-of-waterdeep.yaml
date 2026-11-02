@@ -4,14 +4,14 @@ year: 2012
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original Wizards of the Coast edition (2012), rules 300-38851000-001-EN"
 base_game: null
 expansions:
   - lords-of-waterdeep-scoundrels-of-skullport
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 2  # Main Course (~90 min)
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Main Course (roughly an hour)
 rules_complexity: 2  # Junior High - approachable worker placement
 strategic_depth: 3  # Strategy - quest optimization and agent placement
 feel: 3  # Polite - competitive with card-based interference
@@ -50,20 +50,17 @@ designer:
   - Rodney Thompson
 publisher:
   - Wizards of the Coast
-playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
+artist:
+  - Ralph Horsley  # Cover; the rulebook separately credits many card illustrators.
+  - Mike Schley  # Game board.
+playtime_minutes: 60  # Contemporary release review's approximate time, not a guaranteed duration.
+min_playtime: null
+max_playtime: null
 min_age: 12
 
 # Description
 description: |
-  A worker placement game set in the Dungeons & Dragons city of Waterdeep.
-  Players take the roles of masked Lords secretly vying for control of the city
-  by deploying agents to gather adventurers, collect gold, draw Intrigue cards,
-  and complete Quests worth victory points. Each Lord has a hidden identity with
-  bonus scoring conditions that reward specific quest types. Intrigue cards let
-  you meddle with opponents, adding a layer of take-that to an otherwise
-  approachable euro framework. An excellent gateway into heavier worker placement.
+  Send agents to claim useful buildings, recruit adventurers and complete quests in the fantasy city of Waterdeep. Buildings offer limited spaces, so a rival can take the action you wanted. Buying new buildings creates opportunities for everyone while rewarding their owner, and Intrigue cards can help you or interfere with other players. After eight rounds, your secret Lord adds points for particular achievements. This is a competitive planning game rather than a role-playing campaign; familiarity with Dungeons & Dragons is unnecessary. The record represents the original 2012 base game for two to five players. Preferred counts and experience assessments remain provisional.
 
 # Upgrades
 upgrades: []

@@ -11300,3 +11300,109 @@ entries:
       7+, sixteen two-sided tiles. Supports represented edition age/counts; no release
       year inferred from dynamic page-build dates. Original 1981 catalog reference remains
       pending, with separate undated row for known University Games version.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: lords-of-waterdeep
+    url: https://media.wizards.com/downloads/dnd/DnD_LOW_Rulebook_EN.pdf
+    description: 'Direct publisher PDF downloaded and text-read: original rules 300-38851000-001-EN,
+      2012 copyright, 12+, two-to-five setup, eight rounds, agent/quest/building rules
+      and cover Ralph Horsley/board Mike Schley. Added those explicitly scoped art roles,
+      not a purported complete card-art list. Copyright alone was not used as publication
+      proof.'
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: lords-of-waterdeep
+    url: https://www.blackgate.com/2012/03/19/lordsofwaterdeep/
+    description: Contemporary March 19, 2012 first-hand publisher-supplied-copy review
+      explicitly March 2012 release, Wizards, two-to-five, 12+, approximately one hour
+      and eight-round agent placement. Corroborates original release before conflicting
+      generic CSV 2013. Reviewer speculation about future expansion was not adopted;
+      preferred counts and experience estimates remain provisional.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: chinatown
+    url: https://www.spiel-des-jahres.de/spiele/chinatown/
+    description: Official jury description explicitly original Alea/Ravensburger, Hartwig,
+      New York 1930s, three-to-five, 12+ and approximately 90 minutes. Supports original
+      setting/publisher rather than prior San Francisco/later Z-Man blend. The award
+      alone was not treated as first-release proof; independent original-edition review
+      provides 1999.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: chinatown
+    url: https://www.spieletest.at/gesellschaftsspiel/2057/chinatown
+    description: Original-edition play review explicitly 1999 Alea, Hartwig, Franz Vohwinkel,
+      New York 1930s, economic-condition cards and 75-minute estimate; contrasts later
+      revision without those cards. Corrected edition/publisher/art/setting and generic
+      CSV 1997. Did not import reviewer demographic stereotypes or treat its duration
+      as universal.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: chinatown
+    url: https://regle.escaleajeux.fr/china_rg.pdf
+    description: Downloaded and text-read collector-hosted Camille Parisel French translation
+      of original Alea rules, explicitly translated from Rio Grande English text. Six
+      rounds, open property/tile/cash trades, income and economic-condition cards; three-to-five
+      and approximate 60 minutes. This is a translation, not an inspected original German
+      box; competing 75/90-minute published estimates remain explicit.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: orongo
+    url: https://brettspielbox.de/neu-in-2014-essen-ravensburger-verlag/
+    description: Read independent August 14, 2014 Essen-new-games announcement, identifying
+      Orongo as upcoming Ravensburger title with Franz Vohwinkel, two-to-four, 10+,
+      about 40 minutes. Together with October 2014 authored teaching summary supports
+      original 2014 release and corrects generic CSV 2016. Did not use dynamic page
+      header or misspelled author name as publication/credit authority.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: orongo
+    url: https://www.hall9000.de/rubriken/spiele/kurzspielregeln/orongo.pdf
+    description: 'Read search-indexed original Roland Winner teaching summary dated
+      October 26, 2014: hidden shell bids, top bidder pays, zero bidders recover shells,
+      connected resources/coastal placement, personal statues then shared final statue;
+      resource-exhaustion ending and tiebreak. Direct PDF fetch failed, so no claim
+      of inspecting original publisher rulebook or unseen pages.'
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: orongo
+    url: https://www.hall9000.de/html/spiel/9587
+    description: 'Direct HTTP read of Franky Bayer’s original play-review prose after
+      web cache miss: personal-statue count varies with player count, followed by shared
+      final statue; tactical effects of bids/resource access. Removed false universal
+      seventh-statue claim. Generic metadata/rankings were not imported because site
+      footer discloses some BGG-derived data.'
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: battle-cry
+    url: https://www.panix.com/~sos/bc/battlecry.html
+    description: Read Steffan O’Sullivan’s June 28, 2000 original play review explicitly
+      Borg, Avalon Hill/Hasbro and publication 2000, fifteen scenarios, two-player command-card/terrain/dice
+      combat and six captured flags. Establishes represented version and separates old
+      Milton Bradley title; conflicting 1999 evidence remains unresolved rather than
+      silently overwritten.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: battle-cry
+    url: https://fgbradleys.com/wp-content/uploads/rules/Battle%20Cry.pdf
+    description: Read indexed original BATTLE CRY rulebook text explicitly AGES 12 and
+      up and Richard Borg; direct PDF fetch and HTTP fallback returned 403. Corrected
+      unsupported age 8 without claiming full rulebook inspection or inferring original
+      release from search-engine timestamps. Scenario time remains provisional.
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: battle-cry
+    url: https://www.uspto.gov/web/trademarks/tmog/20010821_OG.pdf
+    description: 'Read original USPTO August 21, 2001 Gazette entry on PDF page 393
+      (printed TM 394): Hasbro application 76-185,662 filed December 26, 2000 reports
+      first use and commercial use August 13, 1999 for BATTLE CRY. This conflicts with
+      contemporary review’s 2000 publication label but does not identify a physical
+      printing; retained original 1999 CSV reference pending further edition research.
+      No legal/rights conclusion drawn.'
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: hanabi
+    url: https://www.antoinebauza.fr/?m=201011
+    description: 'Preliminary date/edition investigation only; no YAML or CSV change
+      applied. Read indexed creator’s November 2010 history: original Hanabi & Ikebana
+      sold in 2010 by XII Singes after earlier Caravelle plan did not publish. Original
+      includes cooperative Hanabi and distinct competitive Ikebana. Existing generic
+      record blends later publishers; next review must choose represented edition before
+      changing catalog’s 2013 reference.'
+  - timestamp: '2026-11-02T18:24:31Z'
+    game_id: hanabi
+    url: https://www.antoinebauza.fr/?m=201102
+    description: 'Preliminary date/edition investigation only; no YAML or CSV change
+      applied. Read indexed creator’s February 2011 announcement: original spring 2010
+      XII Singes bundle, then upcoming standalone Cocktail Games/XII Singes summer 2011
+      revision with new look and color-accessibility work. Establishes why original-game
+      date cannot silently stand in for later standalone packaging; no uncertain final
+      release date or artist name inferred.'

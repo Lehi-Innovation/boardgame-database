@@ -346,7 +346,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3706,Batik,,boardgame,,,
 ,Battle Cattle,,boardgame,,,
 2458,Battle Cattle: The Card Game,,boardgame,,,
-551,Battle Cry,1999,boardgame,,,
+551,Battle Cry,1999,boardgame,,"2026-11-02: June 2000 first-hand review explicitly calls Borg/Avalon Hill publication 2000, but Hasbro trademark application 76-185,662 reports first commercial use August 13, 1999. Retained 1999 discovery row pending rather than forcing equivalence or treating a filing as a box-publication record. Detailed record explicitly scopes reviewed 2000 version, separates older Milton Bradley and later anniversary game, and corrects false age 8 to indexed original rules 12+. Full mirrored rulebook returned 403; exact earliest printing remains unresolved.",
 ,Battle Damage: Code Red,,boardgame,,,
 6112,Battle Dome,,boardgame,,,
 3177,Battle for Armageddon,,boardgame,,,
@@ -1920,7 +1920,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 18833,Lord of the Rings: The Confrontation,,boardgame,,,
 ,Lords & Wizards,,boardgame,,,lords-and-wizards
 6687,Lords of the Middle Sea,,boardgame,,,
-110327,Lords of Waterdeep,2013,boardgame,,,
+110327,Lords of Waterdeep,2012,boardgame,,"2026-11-02: Contemporary March 2012 release/play review and original publisher rules corroborate represented original Wizards base game. Corrected generic CSV 2013 to 2012 and linked existing record; retained two-to-five counts and age 12, added cover/board credit roles, replaced unsupported 90-minute nominal with contemporary approximate 60. No sixth-player expansion specifications transferred.",lords-of-waterdeep
 21854,Los Mampfos,,boardgame,,,
 2277,Lose Your Shirt,,boardgame,,,
 185221,Lost & Found,2015,boardgame,,"2026-11-02: Publisher’s own 2019 catalog and Russian product identify Andersen’s competitive visual-memory card game, 2–6, not the unsupported solo/cooperative Brand/Zoch labyrinth placeholder. Independent H@LL9000 bibliography explicitly dates original design to 2015 and corroborates 5+, 10–15, designer and artists. Corrected year, identity, counts, credits and mode; preferred counts remain provisional.",lost-and-found
@@ -4230,11 +4230,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Galactic Renaissance,2023,boardgame,,,
 ,DroPolter,2023,boardgame,,Identity review 2026-11-02: Publisher release field gives 2023 and Japanese/English availability; original CSV 2022 is unsupported.,dropolter
 ,Caesar!: Seize Rome in 20 Minutes!,2021,boardgame,,,caesar-seize-rome
-,Chinatown,1997,boardgame,,,
+,Chinatown,1999,boardgame,,"2026-11-02: Independent play review explicitly original Alea 1999 and distinguishes later revision; original-edition translated rules and official award jury corroborate identity. Corrected unsupported CSV 1997. Record now expressly original Alea/Ravensburger with Franz Vohwinkel, New York 1930s and economic-condition cards; removed blended later publisher and false San Francisco 1960s–1980s setting. Published 60/75/90-minute estimates remain distinguishable rather than certified bounds.",chinatown
 ,Skyrise,2024,boardgame,,,
 ,Undaunted: Stalingrad,2022,boardgame,,,
 ,Wilmot's Warehouse,2024,boardgame,,Source review 2026-11-02: Publisher’s own game chronology explicitly lists Wilmot’s Warehouse in 2024 with the three current designers. Corrected CSV 2021; the videogame and announcement dates are separate.,wilmots-warehouse
-,Orongo,2016,boardgame,,,
+,Orongo,2014,boardgame,,2026-11-02: Contemporary August 2014 Essen announcement and author-dated October 2014 teaching summary resolve original Ravensburger release rather than unsupported 2016 catalog year. Original reviewer text explains varying personal-statue counts and shared final statue; corrected false universal seventh statue and Party social-mode estimate. HALL9000 generic metadata was not used because its footer discloses some BGG-derived data; independent authored articles/summary supply evidence.,orongo
 ,Three Sisters,2021,boardgame,,,
 ,Ecosystem,2021,boardgame,,,
 ,Coffee Roaster,2017,boardgame,,,

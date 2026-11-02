@@ -5,16 +5,16 @@ year: 1999
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original Alea / Ravensburger edition (1999), including economic-condition cards"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 2  # Medium
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Direct negotiation over contested property and money.
 value: 2  # Standard
 
 affinity: null
@@ -42,14 +42,16 @@ true_counts: [4, 5]
 designer:
   - Karsten Hartwig
 publisher:
-  - Z-Man Games
-artist: []
-playtime_minutes: 60
-min_playtime: 45
-max_playtime: 75
+  - Alea
+  - Ravensburger
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 90  # Jury's approximate time; archived translation says 60 and play review 75.
+min_playtime: 60  # Published estimates differ; these are not measured bounds.
+max_playtime: 90
 min_age: 12
 
 description: |
-  Chinatown is a 1999 negotiation and trading game by Karsten Hartwig, originally published by Alea and later reprinted by Z-Man Games, set in the bustling streets of San Francisco's Chinatown from the 1960s to the 1980s. Players randomly receive shop tiles and building lots each round, then engage in an open negotiation phase where anything can be traded — lots, tiles, and cash — to assemble matching sets of shops on contiguous lots and earn escalating income. Because tile and lot distributions are often mismatched, almost every turn demands deal-making and horse-trading with other players. Widely praised for its pure negotiation experience, it earned a Spiel des Jahres Recommended nod in 1999 and has become a beloved classic of the genre.
+  Negotiate over building lots, shop tiles and money in New York's Chinatown. Assemble neighboring shops into larger businesses, collect income and finish six rounds with the most cash. The lots and shops you receive may suit someone else better, making conversation and bargaining central to play. This record follows the original 1999 Alea edition, set in the 1930s and including economic-condition cards that can change income. Later editions change the period, presentation and some rules; their publisher and specifications are not automatically those of this edition. Published duration estimates range from about an hour to ninety minutes. Preferred counts and experience ratings remain provisional.
 
 upgrades: []
