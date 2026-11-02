@@ -18,8 +18,9 @@ and precise limitations are recorded in `sources/research-log.yaml`.
 Follow-up identity research also corrected Das Bohnenspiel to a traditional two-player mancala, separated the 1990 Adel Verpflichtet and 2004 Hoity Toity editions, and distinguished several publication dates from award dates. These consulted sources and their limits are recorded separately in the evidence log and identity decisions.
 
 Two additional researched records close concrete gaps: original 878 Vikings resolves
-the missing historical evidence ID, and original Clank! Legacy links the pre-existing
-cover to its represented game. Experience ratings, evokes, and suggested counts
+the missing historical evidence ID, and original Clank! Legacy adds a sourced campaign
+game. Subsequent pixel inspection found that its apparent cover actually represented
+the sequel; the misnamed asset is quarantined. Experience ratings, evokes, and suggested counts
 remain provisional estimates. Unknown first-edition facts remain unknown.
 
 ## Experience vocabulary

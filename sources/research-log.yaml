@@ -10288,3 +10288,82 @@ entries:
       duplicate of existing full-title 2015 row; removed explicit mapping from duplicate
       so it does not inflate researched counts. Corrected nominal duration/length estimate;
       no box min/max range established.
+  - timestamp: '2026-11-02T14:41:50.095980Z'
+    game_id: alchemists
+    url: https://www.czechgames.com/games/alchemists
+    description: Publisher gives Q4 2014, Matúš Kotry, 2–4, 12+, 120 minutes; app/web
+      or game-master alternative. Corrected false designer, age and code-wheel claim;
+      unsupported time bounds removed.
+  - timestamp: '2026-11-02T14:41:50.095980Z'
+    game_id: qwirkle
+    url: https://icv2.com/articles/games/view/20433/qwirkle-wins-2011-spiel-des-jahres
+    description: Contemporaneous June 2011 reporting explicitly distinguishes US publication
+      2006, German publication 2010 and 2011 award. CSV now selects represented MindWare
+      original; removed unsupported sales-count claim.
+  - timestamp: '2026-11-02T14:41:50.095980Z'
+    game_id: tajuto
+    url: https://www.nobleknight.com/P/2147796035/Tajuto
+    description: Retailer product specifications explicitly identify Super Meeple, 2019,
+      2–4 and 45–60 minutes. Publisher rules search-indexed credits also carry 2019;
+      direct publisher PDF fetch timed out.
+  - timestamp: '2026-11-02T14:41:50.095980Z'
+    game_id: lacuna
+    url: https://www.whatboardgame.com/post/lacuna-board-game-review
+    description: Original play review explicitly states availability July 2023. CMYK
+      product page independently matches two-player flower-collection identity; removed
+      unsupported homemade-design date.
+  - timestamp: '2026-11-02T14:41:50.095980Z'
+    game_id: tajuto
+    url: https://www.supermeeple.com/wp-content/uploads/2015/02/TAJUTO-FR-Rules.pdf
+    description: Search-indexed original publisher rulebook credits carry 2019 and Reiner
+      Knizia. Direct fetch timed out; not treated as a successful PDF download or complete
+      fact review.
+  - timestamp: '2026-11-02T14:41:50.095980Z'
+    game_id: lacuna
+    url: https://www.cmyk.games/products/lacuna
+    description: Publisher product page independently confirms the two-player flower-collection
+      game. No publication year inferred from site footer; release date comes from the
+      independent original review.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: monopoly
+    url: https://corp.hasbro.com/news-releases/news-release-details/hasbros-iconic-monopoly-brand-celebrates-80-years-pop-culture
+    description: Publisher anniversary history explicitly identifies 1935 debut; generic
+      CSV row has no regional edition qualifier. Represents Parker Brothers original,
+      not a claim that every later edition has the same date.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: wilmots-warehouse
+    url: https://www.cmyk.games/pages/about-cmyk
+    description: Publisher’s own game chronology explicitly lists Wilmot’s Warehouse
+      in 2024 with the three current designers. Corrected CSV 2021; the videogame and
+      announcement dates are separate.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: horseless-carriage
+    url: https://www.lautapeliopas.fi/peliarvostelut/horseless-carriage/
+    description: Independent original play review explicitly gives Splotter publication
+      2023. Corrected detailed-record 2022 to 2023 and labeled original edition. Current
+      publisher storefront is explicitly a second edition and does not establish original
+      release date.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: long-shot-the-dice-game
+    url: https://geekdad.com/2022/05/reaping-the-rewards-long-shot-the-dice-game-is-a-sure-bet/
+    description: May 2022 original finished-product review distinguishes April 2021
+      crowdfunding/prototype from shipment and availability in 2022. Corrected detailed-record
+      year to 2022; publisher independently confirms 1–8, 25 minutes, 14+. Unsupported
+      time bounds removed.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: horseless-carriage
+    url: https://www.splottershop.com/products/horseless-carriage
+    description: Publisher current page explicitly represents second edition, with corrected
+      misprint and rules clarifications. Identifies same underlying game but does not
+      establish first-edition date; no second-edition date inferred from footer.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: long-shot-the-dice-game
+    url: https://www.perplext.com/long-shot-the-dice-game
+    description: Publisher confirms 1–8 players, 25 minutes and age 14+. Does not give
+      original publication year; date supported by original finished-copy review.
+  - timestamp: '2026-11-02T14:51:38.883410Z'
+    game_id: lacuna
+    url: https://www.cmyk.games/pages/about-cmyk
+    description: 'Additional primary corroboration: publisher game chronology explicitly
+      lists Lacuna 2023 with Mark Gerrits. Confirms date previously corrected from independent
+      release review.'

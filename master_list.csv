@@ -153,7 +153,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6740,Alaric the Goth: Fall of the Western Roman Empire,,boardgame,,,alaric-the-goth
 1387,Alaska,1979,boardgame,,,
 45319,Alcazar,2009,boardgame,,,
-161970,Alchemists,2015,boardgame,,,
+161970,Alchemists,2014,boardgame,,"Source review 2026-11-02: Publisher gives Q4 2014, Matúš Kotry, 2–4, 12+, 120 minutes; app/web or game-master alternative. Corrected false designer, age and code-wheel claim; unsupported time bounds removed.",alchemists
 187517,Alemungula,,boardgame,,,
 1726,Alexander the Great,,boardgame,,,
 6249,Alhambra,2003,boardgame,,,
@@ -2114,7 +2114,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 172386,Mombasa,2015,boardgame,,,
 73091,Momentum,2010,boardgame,,,
 91523,Mondo,2011,boardgame,,,
-1406,Monopoly,1937,boardgame,,,monopoly
+1406,Monopoly,1935,boardgame,,"Source review 2026-11-02: Publisher anniversary history explicitly identifies 1935 debut; generic CSV row has no regional edition qualifier. Represents Parker Brothers original, not a claim that every later edition has the same date.",monopoly
 ,Monopoly - Paris,1948,boardgame,,,monopoly-paris
 230408,Monopoly Gamer,,boardgame,,,
 5339,Monopoly Junior,1990,boardgame,,,
@@ -2523,7 +2523,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 33628,Quizimaze,1986,boardgame,,,
 31113,Quod,,boardgame,,,
 624,Quoridor,,boardgame,,,
-,Qwirkle,2011,boardgame,,,
+,Qwirkle,2006,boardgame,,"Source review 2026-11-02: Contemporaneous June 2011 reporting explicitly distinguishes US publication 2006, German publication 2010 and 2011 award. CSV now selects represented MindWare original; removed unsupported sales-count claim.",qwirkle
 39813,Qwirkle Cubes,,boardgame,,,
 12,Ra,1999,boardgame,,,
 5986,Ra: Strategy Among Hexagons,1981,boardgame,failed,No sources found,
@@ -3823,7 +3823,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Mille Fiori,2021,boardgame,,,mille-fiori
 ,First Rat,2022,boardgame,,,
 ,The Red Cathedral,2020,boardgame,,,the-red-cathedral-2020
-,Horseless Carriage,2023,boardgame,,,horseless-carriage
+,Horseless Carriage,2023,boardgame,,Source review 2026-11-02: Independent original play review explicitly gives Splotter publication 2023. Corrected detailed-record 2022 to 2023 and labeled original edition. Current publisher storefront is explicitly a second edition and does not establish original release date.,horseless-carriage
 ,Evacuation,2023,boardgame,,,evacuation-2023
 ,Knarr,2023,boardgame,,,
 ,Windmill Valley,2024,boardgame,,,windmill-valley
@@ -3834,7 +3834,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Fit to Print,2022,boardgame,,,
 ,Zoo Vadis,2022,boardgame,,,zoo-vadis
 ,War of the Worlds: The New Wave,2019,boardgame,,,war-of-the-worlds-the-new-wave
-,Long Shot: The Dice Game,2022,boardgame,,,long-shot-the-dice-game
+,Long Shot: The Dice Game,2022,boardgame,,"Source review 2026-11-02: May 2022 original finished-product review distinguishes April 2021 crowdfunding/prototype from shipment and availability in 2022. Corrected detailed-record year to 2022; publisher independently confirms 1–8, 25 minutes, 14+. Unsupported time bounds removed.",long-shot-the-dice-game
 ,Fiction,2024,boardgame,,,
 ,Minos: Dawn of the Bronze Age,2024,boardgame,,,minos-dawn-of-the-bronze-age
 ,Foundations of Metropolis,2024,boardgame,,,
@@ -4221,19 +4221,19 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Lords of Vegas,2010,boardgame,,,
 ,Dogs of War,2014,boardgame,,,
 ,Great Plains,,boardgame,,,
-,Tajuto,2011,boardgame,,,
+,Tajuto,2019,boardgame,,"Source review 2026-11-02: Retailer product specifications explicitly identify Super Meeple, 2019, 2–4 and 45–60 minutes. Publisher rules search-indexed credits also carry 2019; direct publisher PDF fetch timed out.",tajuto
 ,Jaipur,2009,boardgame,,,
 ,Royal Visit,2020,boardgame,,,
 ,Winner's Circle,2001,boardgame,,,winners-circle
 ,Whale Riders,,boardgame,,,
-,Lacuna,2020,boardgame,,,
+,Lacuna,2023,boardgame,,Source review 2026-11-02: Original play review explicitly states availability July 2023. CMYK product page independently matches two-player flower-collection identity; removed unsupported homemade-design date.,lacuna
 ,Galactic Renaissance,2023,boardgame,,,
 ,DroPolter,2023,boardgame,,Identity review 2026-11-02: Publisher release field gives 2023 and Japanese/English availability; original CSV 2022 is unsupported.,dropolter
 ,Caesar!: Seize Rome in 20 Minutes!,2021,boardgame,,,caesar-seize-rome
 ,Chinatown,1997,boardgame,,,
 ,Skyrise,2024,boardgame,,,
 ,Undaunted: Stalingrad,2022,boardgame,,,
-,Wilmot's Warehouse,2021,boardgame,,,wilmots-warehouse
+,Wilmot's Warehouse,2024,boardgame,,Source review 2026-11-02: Publisher’s own game chronology explicitly lists Wilmot’s Warehouse in 2024 with the three current designers. Corrected CSV 2021; the videogame and announcement dates are separate.,wilmots-warehouse
 ,Orongo,2016,boardgame,,,
 ,Three Sisters,2021,boardgame,,,
 ,Ecosystem,2021,boardgame,,,

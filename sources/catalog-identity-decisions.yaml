@@ -181,3 +181,85 @@ decisions:
   basis: https://www.lookout-spiele.de/en/games/isleofskye.html
   reason: Publisher gives 2015 release and 2016 award; the full-title 2015 row with
     existing cross-reference 176494 already represents this same original game.
+- name: Alchemists
+  previous_year: 2015
+  year: 2014
+  yaml_id: alchemists
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.czechgames.com/games/alchemists
+  reason: Publisher gives Q4 2014, Matúš Kotry, 2–4, 12+, 120 minutes; app/web or
+    game-master alternative. Corrected false designer, age and code-wheel claim; unsupported
+    time bounds removed.
+- name: Qwirkle
+  previous_year: 2011
+  year: 2006
+  yaml_id: qwirkle
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://icv2.com/articles/games/view/20433/qwirkle-wins-2011-spiel-des-jahres
+  reason: Contemporaneous June 2011 reporting explicitly distinguishes US publication
+    2006, German publication 2010 and 2011 award. CSV now selects represented MindWare
+    original; removed unsupported sales-count claim.
+- name: Tajuto
+  previous_year: 2011
+  year: 2019
+  yaml_id: tajuto
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.nobleknight.com/P/2147796035/Tajuto
+  reason: Retailer product specifications explicitly identify Super Meeple, 2019,
+    2–4 and 45–60 minutes. Publisher rules search-indexed credits also carry 2019;
+    direct publisher PDF fetch timed out.
+- name: Lacuna
+  previous_year: 2020
+  year: 2023
+  yaml_id: lacuna
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.whatboardgame.com/post/lacuna-board-game-review
+  reason: Original play review explicitly states availability July 2023. CMYK product
+    page independently matches two-player flower-collection identity; removed unsupported
+    homemade-design date.
+- name: Monopoly
+  previous_catalog_year: 1937
+  year: 1935
+  yaml_id: monopoly
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://corp.hasbro.com/news-releases/news-release-details/hasbros-iconic-monopoly-brand-celebrates-80-years-pop-culture
+  reason: Publisher anniversary history explicitly identifies 1935 debut; generic
+    CSV row has no regional edition qualifier. Represents Parker Brothers original,
+    not a claim that every later edition has the same date.
+- name: Wilmot's Warehouse
+  previous_catalog_year: 2021
+  year: 2024
+  yaml_id: wilmots-warehouse
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.cmyk.games/pages/about-cmyk
+  reason: Publisher’s own game chronology explicitly lists Wilmot’s Warehouse in 2024
+    with the three current designers. Corrected CSV 2021; the videogame and announcement
+    dates are separate.
+- name: Horseless Carriage
+  previous_catalog_year: 2023
+  year: 2023
+  yaml_id: horseless-carriage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.lautapeliopas.fi/peliarvostelut/horseless-carriage/
+  reason: Independent original play review explicitly gives Splotter publication 2023.
+    Corrected detailed-record 2022 to 2023 and labeled original edition. Current publisher
+    storefront is explicitly a second edition and does not establish original release
+    date.
+- name: 'Long Shot: The Dice Game'
+  previous_catalog_year: 2022
+  year: 2022
+  yaml_id: long-shot-the-dice-game
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://geekdad.com/2022/05/reaping-the-rewards-long-shot-the-dice-game-is-a-sure-bet/
+  reason: May 2022 original finished-product review distinguishes April 2021 crowdfunding/prototype
+    from shipment and availability in 2022. Corrected detailed-record year to 2022;
+    publisher independently confirms 1–8, 25 minutes, 14+. Unsupported time bounds
+    removed.

@@ -1,14 +1,24 @@
 lost-ruins-of-arnak:
-  file: Lost Ruins of Arnak (2020).png
-  source_url: null
+  file: Lost Ruins of Arnak (2020).webp
+  source_url: https://www.czechgames.com/for-press-games/lost-ruins-of-arnak
+  image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8ca0_Box%20image.webp
+  sha256: b1a26fd5df78a47d73d3decdfcc069281b8b4ef4276ea68c727c58413d763377
+  review_status: publisher_source_and_title_checked
   publisher: Czech Games Edition
-  license: null
-  date: null
-  resolution: 1500x1500
-  notes: Pre-existing image, provenance unknown
-  sha256: acbcd1155f465b1dadc7664fef3d20e0bfc481fe8371268435173571bfb26150
-  review_status: unverified
-  inventory_reviewed_on: '2026-11-01'
+  license: publisher-press-kit
+  date: '2026-11-02'
+  resolution: 1000x882
+  notes: Reacquired from the exact box-image link on the official game press factsheet.
+    CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+    promotion in portfolios/articles by reviewers, PR partners, distributors and retailers.
+    Used in this catalog’s editorial identification context; no blanket or standalone-art
+    license claimed. Visually inspected title/English box; exact manufacturing printing
+    unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Lost
+    Ruins of Arnak (2020).png.
+  visual_reviewed_on: '2026-11-02'
+  permission_evidence_url: https://www.czechgames.com/for-press-games
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Lost Ruins of Arnak
+    (2020).png
   history:
   - file: Lost Ruins of Arnak (2020).png
     source_url: null
@@ -17,6 +27,32 @@ lost-ruins-of-arnak:
     date: null
     resolution: null
     notes: Pre-existing image, provenance unknown
+  - file: Lost Ruins of Arnak (2020).png
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: 1500x1500
+    notes: Pre-existing image, provenance unknown
+    sha256: acbcd1155f465b1dadc7664fef3d20e0bfc481fe8371268435173571bfb26150
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+  - file: Lost Ruins of Arnak (2020).webp
+    source_url: https://www.czechgames.com/for-press-games/lost-ruins-of-arnak
+    image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8ca0_Box%20image.webp
+    sha256: b1a26fd5df78a47d73d3decdfcc069281b8b4ef4276ea68c727c58413d763377
+    review_status: source_recorded_identity_unverified
+    publisher: Czech Games Edition
+    license: publisher-press-kit
+    date: '2026-11-02'
+    resolution: 1000x882
+    notes: Reacquired from the exact box-image link on the official game press factsheet.
+      CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+      promotion in portfolios/articles by reviewers, PR partners, distributors and
+      retailers. Used in this catalog’s editorial identification context; no blanket
+      or standalone-art license claimed. Visually inspected title/English box; exact
+      manufacturing printing unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Lost
+      Ruins of Arnak (2020).png.
 7-wonders-duel:
   file: '7 Wonders: Duel (2015).png'
   source_url: null
@@ -61,25 +97,47 @@ clank-legacy-acquisitions-incorporated:
   date: null
   resolution: 894x726
   sha256: 805f47211b85c6ebd31ed1cfa1e70e059863a4924169d20c1f1ed3ec769fbee9
-  review_status: unverified
+  review_status: quarantined_wrong_game
   inventory_reviewed_on: '2026-11-01'
-  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
-    are unknown. Filename association is not a visual identity or rights certification.
+  notes: 'Pixels show Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic,
+    not the 2019 original. No corresponding sequel record has yet been researched.
+    Original acquisition and permissions remain unknown. Bytes preserved in archive;
+    not served as this game’s cover.'
+  visual_reviewed_on: '2026-11-02'
+  archived_file: archive/2026-11-02/image-audit/Clank_ Legacy_ Acquisitions Incorporated
+    (2019).jpg
+  history:
+  - file: Clank_ Legacy_ Acquisitions Incorporated (2019).jpg
+    source_url: null
+    publisher: Dire Wolf Digital
+    license: null
+    date: null
+    resolution: 894x726
+    sha256: 805f47211b85c6ebd31ed1cfa1e70e059863a4924169d20c1f1ed3ec769fbee9
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
 codenames:
-  file: Codenames (2016).webp
-  source_url: null
+  file: Codenames (2015).webp
+  source_url: https://www.czechgames.com/for-press-games/codenames-2015
+  image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8cb4_Box%20image%20%281%29.webp
+  sha256: 22dadb68febddd0fae4e967c9a7f24fead610ccd299377fee384ebd8496e5928
+  review_status: publisher_source_and_title_checked
   publisher: Czech Games Edition
-  license: null
-  date: null
-  resolution: 439x630
-  sha256: c7d4a93721eff6d65709099689f9b232a2af0f46c4583a8d14b200d9d5b4b5c0
-  review_status: unverified
-  inventory_reviewed_on: '2026-11-01'
-  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
-    are unknown. Filename association is not a visual identity or rights certification.
-    Original-game publication corrected to 2015 from publisher evidence on 2026-11-02;
-    the existing 2016 filename is retained. Exact image edition and origin remain
-    unverified.
+  license: publisher-press-kit
+  date: '2026-11-02'
+  resolution: 970x1500
+  notes: Reacquired from the exact box-image link on the official game press factsheet.
+    CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+    promotion in portfolios/articles by reviewers, PR partners, distributors and retailers.
+    Used in this catalog’s editorial identification context; no blanket or standalone-art
+    license claimed. Visually inspected title/English box; exact manufacturing printing
+    unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Codenames
+    (2016).webp.
+  visual_reviewed_on: '2026-11-02'
+  permission_evidence_url: https://www.czechgames.com/for-press-games
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Codenames (2016).webp
   history:
   - file: Codenames (2016).webp
     source_url: null
@@ -92,6 +150,36 @@ codenames:
     inventory_reviewed_on: '2026-11-01'
     notes: Pre-existing repository asset; source, acquisition date, and reuse permission
       are unknown. Filename association is not a visual identity or rights certification.
+  - file: Codenames (2016).webp
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: 439x630
+    sha256: c7d4a93721eff6d65709099689f9b232a2af0f46c4583a8d14b200d9d5b4b5c0
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+      Original-game publication corrected to 2015 from publisher evidence on 2026-11-02;
+      the existing 2016 filename is retained. Exact image edition and origin remain
+      unverified.
+  - file: Codenames (2015).webp
+    source_url: https://www.czechgames.com/for-press-games/codenames-2015
+    image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8cb4_Box%20image%20%281%29.webp
+    sha256: 22dadb68febddd0fae4e967c9a7f24fead610ccd299377fee384ebd8496e5928
+    review_status: source_recorded_identity_unverified
+    publisher: Czech Games Edition
+    license: publisher-press-kit
+    date: '2026-11-02'
+    resolution: 970x1500
+    notes: Reacquired from the exact box-image link on the official game press factsheet.
+      CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+      promotion in portfolios/articles by reviewers, PR partners, distributors and
+      retailers. Used in this catalog’s editorial identification context; no blanket
+      or standalone-art license claimed. Visually inspected title/English box; exact
+      manufacturing printing unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Codenames
+      (2016).webp.
 dixit:
   file: Dixit (2008).jpg
   source_url: null
@@ -124,10 +212,26 @@ pandemic-legacy-season-1:
   date: null
   resolution: 937x846
   sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
-  review_status: unverified
+  review_status: quarantined_wrong_game
   inventory_reviewed_on: '2026-11-01'
-  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
-    are unknown. Filename association is not a visual identity or rights certification.
+  notes: 'Pixels show original Clank! Legacy: Acquisitions Incorporated with miniatures,
+    not Pandemic Legacy. The composite also fails the box-art-only project policy.
+    Original acquisition and permissions remain unknown. Bytes preserved in archive;
+    not served as this game’s cover.'
+  visual_reviewed_on: '2026-11-02'
+  archived_file: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season 1 (2015).webp'
+  history:
+  - file: 'Pandemic Legacy: Season 1 (2015).webp'
+    source_url: null
+    publisher: Z-Man Games
+    license: null
+    date: null
+    resolution: 937x846
+    sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
 ready-set-bet:
   file: Ready Set Bet (2022).jpg
   source_url: null

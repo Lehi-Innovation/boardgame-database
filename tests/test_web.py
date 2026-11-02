@@ -120,6 +120,22 @@ class WebIntegrationTests(unittest.TestCase):
         self.assertIsNone(entry["license"])
         self.assertIsNone(entry["source_url"])
 
+    def test_quarantined_cover_stays_hidden_in_both_detail_paths(self):
+        import yaml
+        source = self.root / 'images/sources.yaml'
+        original = source.read_bytes()
+        image = self.root / 'images/Azul (2017).png'
+        image.write_bytes(b'fixture-image-membership')
+        try:
+            for status, expected in [('quarantined_wrong_game', False), ('unverified', True)]:
+                source.write_text(yaml.safe_dump({'azul': {'file': image.name, 'review_status': status}}))
+                detail = self.get('/api/games/azul')
+                self.assertEqual(detail['has_image'], expected)
+                self.assertEqual(self.get('/api/games/query?q=Azul')['games'], [detail])
+        finally:
+            source.write_bytes(original)
+            image.unlink()
+
     def test_image_route_cannot_serve_provenance_or_traverse_to_other_files(self):
         for route in ("/api/images/sources.yaml", "/api/images/..%2Fschema.yaml"):
             with self.assertRaises(urllib.error.HTTPError) as caught:

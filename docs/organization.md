@@ -38,6 +38,7 @@ This is the maintained repository map. Update it when file locations or canonica
 │   ├── ACQUISITION_PLAN.md     Dated acquisition strategy and decisions
 │   ├── FAIR_USE.md             Existing project image-use policy
 │   ├── sources.yaml           Image provenance
+│   ├── identity-review.yaml    Dated visual findings for existing assets
 │   └── ...                    Box art
 ├── scripts/                    Research, catalog, database, and asset tools
 ├── tests/                      Focused Python regression tests using temporary data

@@ -37,7 +37,10 @@ def find_image(game, files, sources_path=ROOT / "images" / "sources.yaml"):
     if game.get('id') and sources_path.exists():
         stat = sources_path.stat()
         sources = _image_provenance(str(sources_path), (stat.st_ino, stat.st_size, stat.st_mtime_ns))
-        recorded = sources.get(game['id'], {}).get('file')
+        entry = sources.get(game['id'], {})
+        if str(entry.get('review_status', '')).startswith('quarantined'):
+            return None
+        recorded = entry.get('file')
         if recorded and Path(recorded).name == recorded and Path(recorded).suffix.lower() in EXTENSIONS and recorded in files:
             return recorded
     images = {Path(f).stem.lower(): f for f in sorted(files)

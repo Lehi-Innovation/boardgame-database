@@ -48,6 +48,6 @@ max_playtime: 20
 min_age: 8
 
 description: |
-  Lacuna is a minimalist two-player abstract game by Mark Gerrits, published by CMYK in 2023 (developed from a homemade design dating to 2018), in which players collect flowers on a serene nighttime pond. The game unfolds in two phases: first, players alternate placing their six pawns on the pond by drawing an imaginary line between two same-colored flowers, claiming both; then, once all pawns are placed, each remaining flower token is awarded to the player whose pawn is closest to it. The player who collects the most flowers in the most colors wins. With its simple rules, beautiful production, and elegant area-denial tension, Lacuna offers a thoughtful filler that can be learned in minutes.
+  Lacuna is a minimalist two-player abstract game by Mark Gerrits, published by CMYK in 2023, in which players collect flowers on a serene nighttime pond. The game unfolds in two phases: first, players alternate placing their six pawns on the pond by drawing an imaginary line between two same-colored flowers, claiming both; then, once all pawns are placed, each remaining flower token is awarded to the player whose pawn is closest to it. The player who collects the most flowers in the most colors wins. With its simple rules, beautiful production, and elegant area-denial tension, Lacuna offers a thoughtful filler that can be learned in minutes.
 
 upgrades: []

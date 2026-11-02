@@ -24,7 +24,9 @@ function basename(game) {
 }
 
 function findImage(game, files = fs.readdirSync(IMAGES_DIR)) {
-  const recorded = imageProvenance()[game.id]?.file;
+  const entry = imageProvenance()[game.id];
+  if (entry?.review_status?.startsWith('quarantined')) return null;
+  const recorded = entry?.file;
   if (recorded && path.basename(recorded) === recorded && extensions.has(path.extname(recorded).toLowerCase()) && files.includes(recorded)) {
     return recorded;
   }
