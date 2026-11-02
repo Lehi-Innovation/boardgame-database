@@ -1354,3 +1354,137 @@ decisions:
     could reflect award/localization/reprint context; retained pending rather than forcing
     an original-English mapping or inventing its edition. German Criminal-Cabinet award evidence
     does not itself establish this row’s English printing.'
+- name: Cosmic Encounter
+  year: 1977
+  yaml_id: cosmic-encounter-1977
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://sf-encyclopedia.com/entry/cosmic_encounter
+  - https://daveola.com/CosmicEncounter/Versions/
+  - https://daveola.com/CosmicEncounter/Components/Eon.html
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/3057
+  - https://daveola.com/CosmicEncounter/Rules/Eon.Rules.pdf
+  reason: Original Eon1977 now has separate fifteen-power/four-color base record, not false
+    mapping to FFG2008. Collector original inventory and independent edition bibliography
+    support 2–4; expanded1983 rule compilation not treated as original box.
+- name: Catan Junior
+  year: 2007
+  yaml_id: catan-junior-2007
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brettspiele-report.de/wp-content/plugins/download-monitor/download.php?id=201
+  - https://www.brettspiele-report.de/die-siedler-von-catan-junior/
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/20553
+  reason: Original KOSMOS German card-based3–4 edition independently reviewed2007/08 with
+    original rules; separate new record preserves original date. Existing catan-junior now
+    explicitly represents the distinct Mayfair English2012 tile-based2–4 game.
+- name: 'Catan: Junior'
+  year: 2012
+  yaml_id: catan-junior
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://opinionatedgamers.com/2012/08/03/review-of-catan-junior/
+  - https://www.rpg.net/reviews/archive/15/15627.phtml
+  - https://www.catan.com/sites/default/files/2026-03/catan_junior_rules_1stEd_260316s.pdf
+  reason: Contemporary original Mayfair2012 play reviews establish English MFG3025, 2–4/6+/about30;
+    corrected blended detailed2007/CATAN Studio identity. Current official first-edition PDF
+    is a2016 reprint, used with that limitation, not claimed original2012 physical manual.
+  previous_record_year: 2007
+- name: Catan Junior Madagascar
+  year: 2012
+  yaml_id: catan-junior-madagascar
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.catan.com/node/1827
+  - https://www.spiele4us.de/wp-content/uploads/2022/10/madagascar-catan-junior-gebraucht-g002404220.pdf
+  reason: Original German KOSMOS2012 standalone, confirmed official dated ludography and original
+    DreamWorks/KOSMOS rules. Corrected publisher,6+ and25–35; base_game cleared because no
+    other Junior box required. Kept actual circus theme and scoped art credits.
+- name: Coffee Roaster
+  year: 2017
+  yaml_id: coffee-roaster-2017
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamemarket.jp/game/54097
+  - https://www.suruga-ya.jp/product/detail/607524098
+  - https://note.com/saashiandsaashi/n/ne5a30890b1ca
+  - https://note.com/saashiandsaashi/n/n96d9c4b4503a
+  - https://saashiandsaashi.com/en/about/member
+  reason: Creator’s contemporary Game Market entry explicitly release spring2017; retailer
+    dates this second-edition issue May14 2017. Original2015 retained separately. Later creator
+    retrospectives say second edition2016; disagreement recorded, not silently overwritten.
+    Larger cup board/easier reverse and improved storage distinguish issue.
+- name: Comic Hunters
+  year: 2024
+  yaml_id: comic-hunters
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://comicbook.com/gaming/news/new-marvel-game-announced-comic-book-hunters/
+  - https://www.boardgamequest.com/gen-con-2024-recap-the-games-news-and-staff-picks/
+  - https://www.entertainmentearth.com/product/comic-hunters-card-game/sm6070364
+  - https://www.nobleknight.com/P/2148182933/Comic-Hunters
+  - https://board-game-rules.com/wp-content/uploads/2025/01/comic-hunters_Official-Rules.pdf
+  - https://coopgestalt.com/2024/03/21/cooperative-rules-for-comic-hunters/
+  reason: Contemporary announcement plus actual Gen Con2024 finished-copy report establish
+    Arcane Wonders/Spin Master English6070364, not unsupported detailed2022. English SKU inventory1–4/14+/60;
+    retailer generic2020 year not transferred. Original translated rules and fan cooperative
+    variant are distinct evidence.
+  previous_record_year: 2022
+- name: 'Next Station: London'
+  year: 2023
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blueorangegames.eu/en/games/next-station-london/
+  - https://blueorangegames.eu/wp-content/uploads/2021/12/NextStationLondon-Rules-EN.pdf
+  - https://boardgamereview.co.uk/game-reviews/next-station-london-review/
+  - https://fractaljuegos.com/en/juegos/next-station-london/
+  reason: Original Blue Orange English2022 established by actual May2022 review and rules.
+    Fractal explicitly dates first Spanish edition2023, but generic CSV2023 gives no language/edition.
+    Retained pending rather than guessing Spanish or treating award/localization date as original
+    English publication; separate original-English2022 row added.
+- name: Cosmic Encounter
+  year: 2008
+  yaml_id: cosmic-encounter
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://images-cdn.fantasyflightgames.com/ffg_content/Cosmic%20Encounter/cosmic-encounter-rulebook.pdf
+  - https://greg-olotka.squarespace.com/cosmic-encounter-board-game/
+  - https://www.orderofgamers.com/games/cosmic-encounter/
+  - https://www.asmodeena.com/ausa_active-04012026.pdf
+  reason: Added explicit FFG2008 English CE01 row while original1977 maps separate Eon base.
+    Creator history/primary rules support50powers,3–5 and1–2hours; credits separate original
+    designers from Wilson development/new aliens.
+- name: Coffee Roaster
+  year: 2015
+  yaml_id: coffee-roaster
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://saashiandsaashi.com/en/about/history
+  - https://saashiandsaashi.com/ja/products/coffee_roaster
+  - https://saashiandsaashi.tumblr.com/coffeeroaster
+  - https://saashiandsaashi.com/en/contact/faq
+  reason: Added explicit original Japanese/English2015 row. Creator history dates November22
+    and product distinguishes10-minute practice from30-minute full menu; separate2017 second
+    issue retained.
+- name: 'Next Station: London'
+  year: 2022
+  yaml_id: next-station-london
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blueorangegames.eu/en/games/next-station-london/
+  - https://blueorangegames.eu/wp-content/uploads/2021/12/NextStationLondon-Rules-EN.pdf
+  - https://boardgamereview.co.uk/game-reviews/next-station-london-review/
+  - https://fractaljuegos.com/en/juegos/next-station-london/
+  reason: Added explicit original Blue Orange English2022 row, with publisher/rules and actual
+    May2022 review. Generic2023 reference stays pending; no source identifier invented.

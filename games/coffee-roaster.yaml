@@ -4,13 +4,13 @@ alternate_names: []
 year: 2015
 
 # Relationships
-game_family: null
-edition: null
+game_family: coffee-roaster
+edition: Original Saashi & Saashi Japanese/English edition (2015)
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Short
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
@@ -43,11 +43,20 @@ publisher:
   - Saashi & Saashi
 artist: []
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
-min_age: 14
+min_playtime: 10  # One-bean practice course; three-bean full menu is about 30 minutes.
+max_playtime: 30
+min_age: 12
 
 description: |
-  Coffee Roaster is a 2015 solo bag-building game by designer Saashi (Saashi & Saashi) in which the player simulates the art of roasting coffee beans to brew the perfect cup. On each turn, tokens are drawn from a cloth bag representing the roasting process — the key mechanic is managing the bag's contents by removing undesirable tokens and adding beneficial ones, controlling roast level without overshooting it. After roasting, the player brews a cup and scores based on how well the coffee profile matches the target recipe. With multiple coffee varieties to master and a satisfying push-your-luck tension in every draw, it is one of the most celebrated solo board games in the hobby.
+  Draw beans from a bag and manage their rising roast level before they burn.
+  Flavor effects alter the bag and unlock useful actions. Choose when to stop,
+  then draw a cup test that scores roast, flavor and consistency. You can practice
+  on one bean variety or play a three-bean menu whose combined score sets your rank.
+
+  This record represents Saashi & Saashi's original Japanese/English release of
+  November 2015. The original cup board was smaller than the revised 2017 set's.
+  The later dlp international edition changes artwork and some effects; those
+  changes are not assumed here. The publisher describes a ten-minute practice
+  course and a roughly thirty-minute full menu, rather than one uniform duration.
 
 upgrades: []

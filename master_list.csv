@@ -614,13 +614,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 103091,Catan Histories: Merchants of Europe,,boardgame,,,
 244144,Catan Histories: Rise of the Inka,2018,boardgame,,,
 ,Catan Histories: Settlers of America – Trails to Rails,2010,boardgame,,,
-,Catan Junior,2007,boardgame,,,
-140743,Catan Junior Madagascar,2012,boardgame,,,
+,Catan Junior,2007,boardgame,,Original KOSMOS German card-based3–4 edition independently reviewed2007/08 with original rules; separate new record preserves original date. Existing catan-junior now explicitly represents the distinct Mayfair English2012 tile-based2–4 game.,catan-junior-2007
+140743,Catan Junior Madagascar,2012,boardgame,,"Original German KOSMOS2012 standalone, confirmed official dated ludography and original DreamWorks/KOSMOS rules. Corrected publisher,6+ and25–35; base_game cleared because no other Junior box required. Kept actual circus theme and scoped art credits.",catan-junior-madagascar
 259397,Catan Scenario: Crop Trust,2018,boardgame,,,
 131958,Catan Scenarios: Frenemies,,boardgame,,,
 161527,Catan: Ancient Egypt,,boardgame,,,
 20038,Catan: Event Cards,,boardgame,,,
-125921,Catan: Junior,2012,boardgame,,,
+125921,Catan: Junior,2012,boardgame,,"Contemporary original Mayfair2012 play reviews establish English MFG3025, 2–4/6+/about30; corrected blended detailed2007/CATAN Studio identity. Current official first-edition PDF is a2016 reprint, used with that limitation, not claimed original2012 physical manual.",catan-junior
 3972,Catan: Portable Edition,,boardgame,,,
 310789,Catapult Feud,2021,boardgame,,,
 ,Catch the Moon,2017,boardgame,,,
@@ -809,7 +809,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 5136,Corsaro,1991,boardgame,,,
 212300,Cosmail,,boardgame,,,
 1771,Cosmic Coasters,,boardgame,,,
-15,Cosmic Encounter,1977,boardgame,,,
+15,Cosmic Encounter,1977,boardgame,,"Original Eon1977 now has separate fifteen-power/four-color base record, not false mapping to FFG2008. Collector original inventory and independent edition bibliography support 2–4; expanded1983 rule compilation not treated as original box.",cosmic-encounter-1977
 33494,Cosmic Journey,,boardgame,,,
 1302,Cosmic Wimpout,,boardgame,,,
 204027,Cottage Garden,,boardgame,,,
@@ -2219,7 +2219,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 34615,New World: A Carcassonne Game,2008,boardgame,,,new-world-a-carcassonne-game
 856,"New York, New York",,boardgame,ambiguous,Multiple games with this name,
 244711,Newton,,boardgame,,,
-353545,Next Station: London,2023,boardgame,,,
+353545,Next Station: London,2023,boardgame,,"Original Blue Orange English2022 established by actual May2022 review and rules. Fractal explicitly dates first Spanish edition2023, but generic CSV2023 gives no language/edition. Retained pending rather than guessing Spanish or treating award/localization date as original English publication; separate original-English2022 row added.",
 15363,Nexus Ops,,boardgame,,,
 4255,Ney vs. Wellington: The Battle of Quatre Bras,1979,boardgame,failed,"Very obscure wargame, no sources",
 12601,NFL Showdown,,boardgame,failed,"Sports card game, no sources",
@@ -3784,7 +3784,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Floristry,2024,boardgame,,,
 ,Heroes of Barcadia,2022,boardgame,,,
 ,Brick Like This,2024,boardgame,,,
-,Comic Hunters,2024,boardgame,,,
+,Comic Hunters,2024,boardgame,,"Contemporary announcement plus actual Gen Con2024 finished-copy report establish Arcane Wonders/Spin Master English6070364, not unsupported detailed2022. English SKU inventory1–4/14+/60; retailer generic2020 year not transferred. Original translated rules and fan cooperative variant are distinct evidence.",comic-hunters
 ,Monopoly Deal,2008,boardgame,,,
 ,Red Flags,2015,boardgame,,,
 ,Heroscape Age of Annihilation,2024,boardgame,,,
@@ -4237,7 +4237,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Orongo,2014,boardgame,,2026-11-02: Contemporary August 2014 Essen announcement and author-dated October 2014 teaching summary resolve original Ravensburger release rather than unsupported 2016 catalog year. Original reviewer text explains varying personal-statue counts and shared final statue; corrected false universal seventh statue and Party social-mode estimate. HALL9000 generic metadata was not used because its footer discloses some BGG-derived data; independent authored articles/summary supply evidence.,orongo
 ,Three Sisters,2021,boardgame,,,
 ,Ecosystem,2021,boardgame,,,
-,Coffee Roaster,2017,boardgame,,,
+,Coffee Roaster,2017,boardgame,,"Creator’s contemporary Game Market entry explicitly release spring2017; retailer dates this second-edition issue May14 2017. Original2015 retained separately. Later creator retrospectives say second edition2016; disagreement recorded, not silently overwritten. Larger cup board/easier reverse and improved storage distinguish issue.",coffee-roaster-2017
 ,Whistle Stop,2017,boardgame,,,
 ,Lanterns: The Harvest Festival,2015,boardgame,,,
 ,New Bedford,2016,boardgame,,,
@@ -4251,3 +4251,6 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Hanabi,2010,boardgame,,"2026-11-02: Retained historical hanabi slug and 2010 date for the original French cooperative game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes rules and independent edition catalog identify that scope. Removed blended later publishers, used original printed Sengissen credit, and corrected third-error/final-round rules. Added separate original-year catalog row without inventing an external ID; not a record of the distinct competitive Ikebana rules.",hanabi
 ,Doom: The Boardgame,2004,boardgame,,Original English Fantasy Flight edition: 2004 retailer release plus original rules. Separate from unresolved generic 2005 catalog row and redesigned 2016 game.,doom-the-boardgame
 ,San Juan,2004,boardgame,,"Explicit original 110-card edition, independently reviewed April 2004 and documented by publisher rules. Distinct from 2014 second edition and unresolved undated generic discovery row; no external ID invented.",san-juan
+,Cosmic Encounter,2008,boardgame,,"Added explicit FFG2008 English CE01 row while original1977 maps separate Eon base. Creator history/primary rules support50powers,3–5 and1–2hours; credits separate original designers from Wilson development/new aliens.",cosmic-encounter
+,Coffee Roaster,2015,boardgame,,Added explicit original Japanese/English2015 row. Creator history dates November22 and product distinguishes10-minute practice from30-minute full menu; separate2017 second issue retained.,coffee-roaster
+,Next Station: London,2022,boardgame,,"Added explicit original Blue Orange English2022 row, with publisher/rules and actual May2022 review. Generic2023 reference stays pending; no source identifier invented.",next-station-london

@@ -1,20 +1,20 @@
 id: comic-hunters
 name: "Comic Hunters"
 alternate_names: []
-year: 2022
+year: 2024
 
 # Relationships
-game_family: null
-edition: null
+game_family: comic-hunters
+edition: Arcane Wonders / Spin Master English edition (2024), 6070364
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+# Ratings (0-4 scale): provisional experience estimates.
+length: 2  # Main Course
+rules_complexity: 2  # Structured acquisition and scoring phases.
+strategic_depth: 2  # Tactics: collection choices and competing acquisitions.
+feel: 4  # Fierce: competing for the same comics through drafts and bids.
 value: 2  # Standard
 
 affinity: null
@@ -23,6 +23,7 @@ hotness: null
 categories:
   - Card Drafting
   - Set Collection
+  - Auctions/Bidding
   - Family
   - Superheroes
   - Marvel
@@ -42,13 +43,23 @@ designer:
 publisher:
   - Arcane Wonders
   - Spin Master
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 10
+artist: []  # Original Brazilian graphic credits are not assumed for this English printing.
+playtime_minutes: 60  # Edition-specific Spin Master retailer listing.
+min_playtime: null
+max_playtime: null
+min_age: 14
 
 description: |
-  Comic Hunters is a set-collection card game in which players compete to build the most impressive comic book collection featuring classic Marvel characters and covers. Over three rounds, players visit store locations to purchase comic book cards, then add them to their growing collections organized by hero. Cards advance markers on five spotlight tracks — first appearances, special editions, memorable clashes, and more — generating points for progress on each. Each collection also scores based on size. Originally designed in Brazil by Robert Coelho and featuring authentic Marvel comic cover art, it is an accessible game for comics fans of all ages with an optional cooperative mode.
+  Compete to assemble valuable Marvel comic collections across three rounds.
+  Different locations use different ways to acquire cards, including drafts and
+  bids. Balance heroes, collection size and noteworthy issues such as first
+  appearances, then commit selected cards to score your collection.
+
+  This is the 2024 English Arcane Wonders/Spin Master edition, independently
+  documented in finished-copy Gen Con coverage. Earlier Brazilian editions and
+  translated original rules are distinct publication evidence. The standard
+  game is competitive, with solo opposition; a separately published fan-made
+  cooperative variant is not an included official mode. Knowing the covers is
+  thematic enjoyment rather than a trivia requirement.
 
 upgrades: []

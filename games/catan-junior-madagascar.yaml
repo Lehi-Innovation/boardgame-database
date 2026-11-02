@@ -5,16 +5,16 @@ year: 2012
 
 # Relationships
 game_family: catan
-edition: madagascar
-base_game: catan-junior
+edition: Original German Madagascar Catan Junior (2012), KOSMOS
+base_game: null  # Standalone licensed game; does not require another Junior box.
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
+# Ratings (0-4 scale): provisional experience estimates.
+length: 1  # Appetizer
+rules_complexity: 1  # Elementary
 strategic_depth: 1  # Light
-feel: 2  # Moderate
+feel: 3  # Polite: resource-building race with limited interference.
 value: 1  # Budget
 
 affinity: null
@@ -24,6 +24,8 @@ categories:
   - Family
   - Resource Management
   - Network Building
+  - Dice Rolling
+  - Trading
 
 evokes:
   - Connection
@@ -38,14 +40,25 @@ true_counts: [3, 4]
 designer:
   - Klaus Teuber
 publisher:
-  - Catan Studio
-artist: []
+  - KOSMOS
+artist:
+  - Madagascar 3  # Primary rules' collective illustration credit.
+  - Andreas Resch
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 5
+min_playtime: 25
+max_playtime: 35
+min_age: 6
 
 description: |
-  Catan Junior Madagascar is a licensed themed edition of Catan Junior published in 2012 in partnership with DreamWorks' Madagascar 3. The core mechanics of the standard Catan Junior game — collecting resources, building circus tents and wagons along the Madagascar island board, and trading with the Penguins — are preserved, while the pirate theme is replaced with beloved characters from the animated film including Alex, Gloria, Marty, and Melman. It serves as an accessible introduction to the Settlers of Catan family of games for young children.
+  Lead Alex, Gloria, Marty or Melman on a travelling circus tour. Resource rolls
+  supply wood, wool, sand, cocktails and popcorn to build wagons and tents. Start
+  with two tents and build the remaining five before your rivals. Penguin cards
+  offer immediate help, while the animal-control officer can block production.
+
+  This is the standalone 2012 German KOSMOS game, with its own board and pieces;
+  another Catan Junior box is not required. The original rules credit Teuber's
+  design, Madagascar 3/Resch illustrations and Kienle/Fine Tuning graphic design.
+  Direct player trading is an optional advanced rule. The publisher recommends
+  two to four, age six and approximately 25–35 minutes.
 
 upgrades: []

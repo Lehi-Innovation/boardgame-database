@@ -1,0 +1,66 @@
+id: coffee-roaster-2017
+name: "Coffee Roaster"
+alternate_names:
+  - "Coffee Roaster (Second Edition)"
+year: 2017  # Contemporary creator Game Market entry / dated retailer issue; see chronology note.
+
+# Relationships
+game_family: coffee-roaster
+edition: Saashi & Saashi Japanese/English second edition, spring 2017 issue
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates, not owner ratings.
+length: 1
+rules_complexity: 2
+strategic_depth: 2
+feel: 0
+value: 2
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Press Your Luck
+  - Puzzle Solving
+  - Solo
+  - Food Theme
+evokes:
+  - Clever
+  - Tension
+  - Progress
+  - Agency
+  - Complete
+
+possible_counts: [1]
+true_counts: [1]
+designer:
+  - Saashi
+publisher:
+  - Saashi & Saashi
+artist:
+  - Takako Takarai  # 宝井貴子 in creator's exhibition entry; publisher supplies romanization.
+playtime_minutes: 30
+min_playtime: 10  # One-bean trial, rather than a faster three-bean full menu.
+max_playtime: 30
+min_age: 12
+
+description: |
+  Roast beans by drawing and changing tokens in a bag, balancing the target roast
+  against useful flavors and the danger of burning. Decide when to stop and test
+  the cup. A single-bean trial takes about ten minutes; a full three-bean menu
+  takes about thirty and measures your combined performance.
+
+  This record represents the Japanese/English second-edition issue advertised by
+  the creator for spring 2017 and dated by a retailer to that May's Game Market.
+  It adds a larger cup board, embossed boards, plastic storage and an easier
+  reverse-side layout. The creator describes the core rules as unchanged. Later
+  creator retrospectives instead call the second edition 2016; that chronology
+  disagreement remains explicit. This is distinct from both the 2015 original
+  and the redesigned international artwork/effects of 2019.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

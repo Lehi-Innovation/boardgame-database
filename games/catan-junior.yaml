@@ -2,16 +2,16 @@ id: catan-junior
 name: "Catan Junior"
 alternate_names:
   - "Die Siedler von Catan: Junior"
-year: 2007
+year: 2012
 
 # Relationships
 game_family: catan
-edition: null
+edition: Original Mayfair English edition (2012), MFG3025
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Appetizer (30 min)
 rules_complexity: 1  # Elementary
 strategic_depth: 1  # Basic
@@ -49,17 +49,28 @@ true_counts: [3, 4]
 designer:
   - Klaus Teuber
 publisher:
-  - Catan Studio
+  - Mayfair Games
 artist:
-  - Patricia Raubo
+  - Patricia Raubo  # Later first-edition rules reprint spells this "Patrica Raubo".
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
+min_playtime: null  # Contemporary original review gives about 30, not a box range.
+max_playtime: null
 min_age: 6
 
 # Description
 description: |
-  Catan Junior is a simplified, pirate-themed introduction to the Catan universe designed for children aged 6 and up. Players take on the roles of rival pirate captains exploring a ring of tropical islands, collecting five types of resources — wood, goats, molasses, gold, and cutlasses — to build ships and pirate lairs. The first player to construct seven pirate lairs wins the game. A single die drives resource production, and a special Ghost Captain mechanic (triggered on a roll of 6) blocks one island and rewards the active player with free resources. Special Coco tiles act as a simplified card system, granting powerful one-time bonuses that add a touch of strategic decision-making to an otherwise accessible family experience.
+  Collect resources from numbered islands and spend them on ships, pirate lairs
+  or Coco's immediate bonuses. Ships and lairs alternate along the coast; the
+  first player with seven lairs wins. A single die produces resources, while a
+  six moves the Ghost Captain to block an island and gives the active player two
+  resources from the supply rather than stealing from a rival.
+
+  This is the 2012 Mayfair English MFG3025 edition for two to four. Its resource
+  tiles and general two-for-one supply trade differ from the original 2007 German
+  card-based game. Standard play uses the marketplace and supply; direct trades
+  with other players are an optional advanced rule. Later CATAN Studio printings
+  and Madagascar's separate circus game are not the original printing represented
+  here.
 
 # Upgrades
 upgrades: []

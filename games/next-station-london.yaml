@@ -5,16 +5,16 @@ year: 2022
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Blue Orange English edition (2022)
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
-strategic_depth: 1  # Light
-feel: 1  # Light
+# Ratings (0-4 scale): provisional experience estimates.
+length: 1  # Appetizer
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics: route constraints and scoring combinations.
+feel: 3  # Polite: separate competing maps; solo mode also included.
 value: 2  # Standard
 
 affinity: null
@@ -23,6 +23,7 @@ hotness: null
 categories:
   - Roll & Write
   - Network Building
+  - Route Building
   - Pattern Building
   - Simultaneous Action
   - Family
@@ -43,13 +44,22 @@ designer:
 publisher:
   - Blue Orange Games
 artist:
-  - Evan Lapic
+  - Maxime Morin
 playtime_minutes: 25
-min_playtime: 20
-max_playtime: 30
+min_playtime: null  # Rules give approximately 25 minutes, not a range.
+max_playtime: null
 min_age: 8
 
 description: |
-  Next Station: London is a flip-and-write route-building game by Matthew Dunstan, published by Blue Orange Games in 2022. Players redesign London's Underground network across four colored lines, flipping cards to determine which station symbol they must connect to next on their personal map. Tracks cannot cross except through stations, creating satisfying spatial puzzles as players try to serve the most boroughs, connect tourist sites, and share stations across multiple lines. With a 25-minute play time, colorful pencil-drawing gameplay, and intuitive rules, it became a hit family game praised for its balance of accessibility and replayability.
+  Draw four Underground lines on your own London map using shared station cards.
+  Each round uses a different colored pencil and starting station. Connect the
+  revealed shapes while respecting crossing and route restrictions, balancing
+  districts, river crossings, tourist sites and interchanges for points.
+
+  This is the original Blue Orange English edition, independently reviewed with
+  a finished copy in May 2022. Its rules support solo or one to four competing
+  planners, age eight and about twenty-five minutes. Players share card draws
+  but do not build a joint network. Fractal's first Spanish edition dates to
+  2023; that localized release is not this original English printing.
 
 upgrades: []
