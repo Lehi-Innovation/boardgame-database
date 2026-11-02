@@ -6,21 +6,9 @@
 (function () {
   'use strict';
 
-  // Schema cross-reference (duplicated from server for client-side chip coloring)
-  const MECHANICS = new Set([
-    'Worker Placement','Deck Building','Engine Building','Area Control','Tile Placement',
-    'Dice Rolling','Set Collection','Trick-taking','Auctions/Bidding','Cooperative',
-    '1 vs Many','Teams','Real-time','Traitor','Social Deduction','Drafting',
-    'Press Your Luck','Roll & Write','Hex Map','Campaign Mode','Legacy','Bag Building',
-    'Hand Management','Modular Board','Variable Setup','Take That','Narrative Heavy',
-    'Puzzle Solving','No Math','Word Play','Deduction','Racing','Economic','Action Points',
-    'Route Building','Network Building','Pattern Building','Resource Management','Trading',
-    'Negotiation','Bluffing','Hidden Movement','Programmed Movement','Simultaneous Action',
-    'Card Drafting','Tableau Building','Tech Tree','Rondel','Mancala','Dexterity',
-    'Asymmetric','Variable Player Powers','Events'
-  ]);
-  const STYLES = new Set(['Euro','Ameritrash','Abstract','Party','Family','Wargame','Filler','Gateway','Cult Classic','Dungeon Crawler','4X','Dudes on a Map','Role Playing']);
-  const THEMES = new Set(['Fantasy','Sci-Fi','Horror','Historical','Western','Pirates','Zombies','Vampires','Cthulhu','Aliens','Post-Apocalyptic','Superheroes','Marvel','Disney','Lord of the Rings','Animals','Food Theme','Time Travel','Space','Medieval','Ancient','Mythology','Nature','City Building','Civilization','War','Survival','Mystery','Espionage','Steampunk','Cyberpunk','Aviation','Maritime','Trains','Agriculture']);
+  const MECHANICS = new Set(CatalogSchema.categories.mechanics);
+  const STYLES = new Set(CatalogSchema.categories.styles);
+  const THEMES = new Set(CatalogSchema.categories.themes);
 
   function chipClass(cat) {
     if (MECHANICS.has(cat)) return 'chip chip-mechanic';
@@ -55,6 +43,12 @@
     for (const game of games) {
       const card = document.createElement('div');
       card.className = 'card game-card-item';
+      card.tabIndex = 0;
+      card.setAttribute('role', 'button');
+      card.setAttribute('aria-label', `Details for ${game.name}`);
+      card.addEventListener('keydown', event => {
+        if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); onGameClick(game); }
+      });
       card.addEventListener('click', () => onGameClick(game));
 
       // Image / placeholder

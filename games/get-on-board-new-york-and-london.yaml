@@ -35,7 +35,7 @@ evokes:
   - Complete
   - Agency
   - Tension
-  - Puzzle Solving
+  - "Progress"
 
 possible_counts: [2, 3, 4, 5]
 true_counts: [3, 4, 5]

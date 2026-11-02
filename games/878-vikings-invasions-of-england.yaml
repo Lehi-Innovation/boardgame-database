@@ -1,0 +1,60 @@
+# Research: 2026-11-01; see sources/research-log.yaml.
+# Experience ratings, evokes, and true_counts are provisional estimates, not consensus.
+# Unconfirmed duration/age fields remain null.
+id: 878-vikings-invasions-of-england
+name: '878 Vikings: Invasions of England'
+alternate_names: []
+year: 2017
+game_family: 878-vikings
+edition: Original 2017 game
+base_game: null
+expansions: []
+compatible_with: []
+length: 2
+rules_complexity: 2
+strategic_depth: 3
+feel: 4
+value: 3
+affinity: null
+hotness: null
+categories:
+- Area Control
+- Teams
+- Dice Rolling
+- Hand Management
+- Historical
+- Wargame
+evokes:
+- Rivalry
+- Connection
+- Tension
+- Agency
+- Lucky
+possible_counts:
+- 2
+- 3
+- 4
+true_counts:
+- 4
+designer:
+- David Kimmel
+- Beau Beckett
+- Jeph Stahl
+publisher:
+- Academy Games
+artist:
+- Jarek Nocoń
+- Stephen Paschal
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
+description: Two sides contest England, coordinating separate factions while dice make battles
+  uncertain. Cards limit movement and let teams time a treaty that ends the fighting. It suits
+  players who enjoy planning with a partner and reacting to sudden reversals. With fewer than
+  four people, someone controls both factions on a side. This record represents the original game;
+  the publisher now also advertises a second edition.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

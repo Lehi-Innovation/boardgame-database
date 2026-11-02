@@ -1,10 +1,10 @@
 id: codenames
 name: "Codenames"
-year: 2016
+year: 2015
 
 # Relationships
 game_family: codenames
-edition: null
+edition: "Original 2015 game"
 base_game: null
 expansions: []
 compatible_with: []
@@ -41,7 +41,7 @@ evokes:
   - Humor
 
 # Player counts
-possible_counts: [4, 5, 6, 7, 8, "12+"]
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, "12+"]
 true_counts: [6, 8]
 
 # Metadata
@@ -68,3 +68,6 @@ upgrades: []
 plays_tracked:
   total_plays: 0
   configs: []
+
+# Publisher review 2026-11-02: original release Q4 2015; 2016 is the award year.
+# Rules include two- and three-player variants; larger teams use the open-ended box count.

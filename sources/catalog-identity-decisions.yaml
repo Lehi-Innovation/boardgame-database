@@ -1,0 +1,183 @@
+decisions:
+- name: Axis & Allies
+  year: 1981
+  bgg_id: '98'
+  previous_yaml_id: axis-and-allies-battle-of-the-bulge
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The mapped record represents the distinct 2006 Battle of the Bulge standalone,
+    not original Axis & Allies.
+- name: Endeavor
+  year: 2009
+  bgg_id: '33160'
+  previous_yaml_id: endeavor-deep-sea
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The mapped record is Endeavor Deep Sea, a distinct later game.
+- name: Imperium
+  year: 1977
+  bgg_id: '3661'
+  previous_yaml_id: imperium-horizons
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The mapped record is the modern Imperium Horizons deck-building game, not
+    the 1977 game.
+- name: Kemet
+  year: 2012
+  bgg_id: '127023'
+  previous_yaml_id: kemet-blood-and-sand
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Blood and Sand is a distinct later edition; original Kemet needs its own
+    record or explicit edition evidence.
+- name: Lord of the Rings
+  year: 2000
+  bgg_id: '823'
+  previous_yaml_id: lord-of-the-rings-the-confrontation
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The Confrontation is a separate two-player game, not the 2000 cooperative
+    Lord of the Rings.
+- name: Machiavelli
+  year: 1977
+  bgg_id: '286'
+  previous_yaml_id: citadel
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Machiavelli is also a localized title for Citadels, but that 2000 game is
+    not the 1977 game.
+- name: Marco Polo
+  year: 1983
+  bgg_id: '2280'
+  previous_yaml_id: voyages-of-marco-polo
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The Voyages of Marco Polo is a separate later game, not the 1983 title.
+- name: Space Hulk
+  year: 1989
+  bgg_id: '2163'
+  previous_yaml_id: deathwing
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Deathwing is an expansion, not the 1989 base game.
+- name: The Game of Life
+  year: 1960
+  bgg_id: '2921'
+  previous_yaml_id: jinsei-game
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Jinsei Game represents the 1968 Japanese adaptation, not the original 1960
+    US game.
+- name: 'Dune: The Board Game'
+  year: 2019
+  bgg_id: null
+  previous_yaml_id: dune-1979
+  yaml_id: dune
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The CSV year selects the 2019 Gale Force Nine record, not the 1979 Avalon
+    Hill edition.
+- name: Cascadia
+  previous_year: 2022
+  year: 2021
+  bgg_id: '295947'
+  yaml_id: cascadia
+  reviewed_on: '2026-11-02'
+  basis: https://www.flatout.games/whoweare
+  reason: Publisher lists Cascadia among 2021 publications; 2022 is the award year.
+- name: Bomb Busters
+  year: 2024
+  bgg_id: null
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://news.pegasus.de/en/co-operation-not-detonation/
+  reason: Same title/year as the existing row with bgg_id 413246; preserve this source
+    row as a documented duplicate.
+- name: Adel Verpflichtet / Hoity Toity
+  reviewed_on: '2026-11-02'
+  original: adel-verpflichtet
+  original_year: 1990
+  later_edition: hoity-toity
+  later_year: 2004
+  basis: https://opinionatedgamers.com/2015/07/01/sdj-re-reviews-12-adel-verpflichtet-a-k-a-hoity-toity/
+  reason: The review distinguishes F.X. Schmid original, 1991 Avalon Hill printing,
+    2000 Alea and 2004 Uberplay, first named Hoity Toity. Kept two records as explicit
+    editions; marked the duplicate 1990 alias CSV row and added a 2004 edition row.
+- name: Moon Colony Bloodbath
+  previous_year: 2023
+  year: 2025
+  yaml_id: moon-colony-bloodbath
+  reviewed_on: '2026-11-02'
+  basis: https://boardgameviews.wordpress.com/2026/09/24/moon-colony-bloodbath-incl-solo-mode/
+  reason: Original play review explicitly identifies a 2025 release; publisher product
+    identity/specs independently match the current record. No 2023 publication evidence
+    was found.
+- name: Das Bohnenspiel / Bohnanza
+  reviewed_on: '2026-11-02'
+  basis: https://ludii.games/details.php?keyword=Das+Bohnenspiel
+  reason: Research archive identifies traditional two-row mancala, not Rosenberg’s
+    bean-trading card game. Corrected the misidentified record and false alternate
+    name; mapped both catalog rows to separate games.
+- name: Challengers
+  previous_year: 2023
+  year: 2022
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://1moretimegames.com/en_us/about/
+  reason: Publisher explicitly gives October 2022 release and 2023 awards. Existing
+    Challengers! 2022 row already represents the original game.
+- name: Dominion
+  previous_year: 2009
+  year: 2008
+  yaml_id: dominion
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.riograndegames.com/games/dominion1stedition/
+  reason: Publisher explicitly identifies original first edition as first published
+    in 2008; 2009 is the award year.
+- name: DroPolter
+  previous_year: 2022
+  year: 2023
+  yaml_id: dropolter
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://oinkgames.com/en/games/analog/dropolter/
+  reason: Publisher release field gives 2023 and Japanese/English availability; original
+    CSV 2022 is unsupported.
+- name: 'Tzolk''in: The Mayan Calendar'
+  previous_year: 2013
+  year: 2012
+  yaml_id: tzolkin-the-mayan-calendar
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.czechgames.com/for-press-games/tzolkin-the-mayan-calendar
+  reason: Publisher base-game factsheet explicitly gives Q4 2012; the 2013 Tribes
+    & Prophecies expansion is separate.
+- name: Isle of Skye
+  previous_year: 2016
+  year: 2015
+  yaml_id: isle-of-skye-from-chieftain-to-king
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://www.lookout-spiele.de/en/games/isleofskye.html
+  reason: Publisher gives 2015 release and 2016 award; the full-title 2015 row with
+    existing cross-reference 176494 already represents this same original game.

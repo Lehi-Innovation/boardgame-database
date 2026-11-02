@@ -164,6 +164,7 @@
       </div>
       <nav class="site-nav">
         <a href="/" class="active">Games</a>
+        <a href="/contribute">Suggest a game</a>
         <a href="/images">Images</a>
         <a href="/master-list">Master List</a>
       </nav>
@@ -171,6 +172,9 @@
   </header>
 
   <div class="container">
+    <h1 style="font-size:24px;margin-bottom:8px">Find a game for your table</h1>
+    <p style="margin-bottom:12px;color:var(--text-muted)">Start with an experience, then choose the people and time you have. Experience tags are provisional guides.</p>
+    <div id="discovery-presets" class="evokes-section" aria-label="Start with an experience"></div>
     <!-- Toolbar -->
     <div class="toolbar">
       <div id="filter-bar"></div>
@@ -229,6 +233,7 @@
   <!-- Detail Modal (rendered dynamically) -->
   <div id="modal-root"></div>
 
+  <script src="/api/schema.js"></script>
   <script src="/js/filter-bar.js"></script>
   <script src="/js/game-views.js"></script>
   <script>
@@ -257,6 +262,18 @@
 
     // ============ Filter Bar ============
     const fb = new FilterBar(document.getElementById('filter-bar'));
+    for (const preset of CatalogSchema.discovery_presets) {
+      const button = document.createElement('button');
+      button.className = 'btn btn-ghost';
+      button.textContent = preset.label;
+      button.title = preset.description;
+      button.addEventListener('click', () => {
+        fb.filters.evokes = preset.evokes.slice();
+        fb._renderChips();
+        fb._emit();
+      });
+      document.getElementById('discovery-presets').appendChild(button);
+    }
     let currentAPIFilters = {};
 
     fb.on('change', (filters) => {
@@ -328,6 +345,7 @@
       if (currentAPIFilters.categories) currentAPIFilters.categories.forEach(c => params.append('categories', c));
       if (currentAPIFilters.evokes) currentAPIFilters.evokes.forEach(e => params.append('evokes', e));
       if (currentAPIFilters.true_counts) currentAPIFilters.true_counts.forEach(c => params.append('true_counts', c));
+      if (currentAPIFilters.possible_counts) currentAPIFilters.possible_counts.forEach(c => params.append('possible_counts', c));
       for (const key of ['year_min','year_max','playtime_min','playtime_max',
         'length_min','length_max','rules_complexity_min','rules_complexity_max',
         'strategic_depth_min','strategic_depth_max','feel_min','feel_max','value_min','value_max']) {
@@ -398,24 +416,16 @@
     }
 
     // ============ Detail Modal ============
-    const RATING_LABELS = {
-      length: { 0: 'Snack', 1: 'Appetizer', 2: 'Main Course', 3: 'Feast', 4: 'Marathon' },
-      rules_complexity: { 0: 'Preschool', 1: 'Elementary', 2: 'Junior High/HS', 3: 'College', 4: 'PhD' },
-      strategic_depth: { 0: 'Reflex', 1: 'Basic', 2: 'Tactics', 3: 'Strategy', 4: 'Master Plan' },
-      feel: { 0: 'Solitary', 1: 'Cooperative', 2: 'Party', 3: 'Polite', 4: 'Fierce' },
-      value: { 0: 'Impulse', 1: 'Bargain', 2: 'Fair Deal', 3: 'Splurge', 4: 'Heirloom' },
-      affinity: { 0: 'Loathe', 1: 'Yawn', 2: 'Enjoyable', 3: 'Delight', 4: 'Mind-blowing' },
-      hotness: { 0: 'Never', 1: 'If forced', 2: 'Sure', 3: 'Love to', 4: 'Yearning' }
-    };
+    const RATING_LABELS = Object.fromEntries(Object.entries(CatalogSchema.ratings).map(([field, def]) => [field, def.values]));
 
     const RATING_NAMES = {
       length: 'Length', rules_complexity: 'Rules Complexity', strategic_depth: 'Strategic Depth',
       feel: 'Feel', value: 'Value', affinity: 'Affinity', hotness: 'Hotness'
     };
 
-    const MECHANICS_SET = new Set(['Worker Placement','Deck Building','Engine Building','Area Control','Tile Placement','Dice Rolling','Set Collection','Trick-taking','Auctions/Bidding','Cooperative','1 vs Many','Teams','Real-time','Traitor','Social Deduction','Drafting','Press Your Luck','Roll & Write','Hex Map','Campaign Mode','Legacy','Bag Building','Hand Management','Modular Board','Variable Setup','Take That','Narrative Heavy','Puzzle Solving','No Math','Word Play','Deduction','Racing','Economic','Action Points','Route Building','Network Building','Pattern Building','Resource Management','Trading','Negotiation','Bluffing','Hidden Movement','Programmed Movement','Simultaneous Action','Card Drafting','Tableau Building','Tech Tree','Rondel','Mancala','Dexterity','Asymmetric','Variable Player Powers','Events']);
-    const STYLES_SET = new Set(['Euro','Ameritrash','Abstract','Party','Family','Wargame','Filler','Gateway','Cult Classic','Dungeon Crawler','4X','Dudes on a Map','Role Playing']);
-    const THEMES_SET = new Set(['Fantasy','Sci-Fi','Horror','Historical','Western','Pirates','Zombies','Vampires','Cthulhu','Aliens','Post-Apocalyptic','Superheroes','Marvel','Disney','Lord of the Rings','Animals','Food Theme','Time Travel','Space','Medieval','Ancient','Mythology','Nature','City Building','Civilization','War','Survival','Mystery','Espionage','Steampunk','Cyberpunk','Aviation','Maritime','Trains','Agriculture']);
+    const MECHANICS_SET = new Set(CatalogSchema.categories.mechanics);
+    const STYLES_SET = new Set(CatalogSchema.categories.styles);
+    const THEMES_SET = new Set(CatalogSchema.categories.themes);
 
     function catChipClass(cat) {
       if (MECHANICS_SET.has(cat)) return 'chip chip-mechanic';
@@ -460,6 +470,11 @@
 
       const body = document.createElement('div');
       body.className = 'modal-body';
+      const correction = document.createElement('a');
+      correction.className = 'btn btn-ghost';
+      correction.href = '/contribute?' + new URLSearchParams({ 'game-id': game.id, name: game.name });
+      correction.textContent = 'Suggest a correction';
+      body.appendChild(correction);
 
       // Image + Info
       const sec1 = document.createElement('div');

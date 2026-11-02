@@ -52,6 +52,12 @@ class CatalogValidationTests(unittest.TestCase):
         game = self.game() | {"possible_counts": [True, "2"], "true_counts": [4]}
         self.assertEqual(self.codes(game), {"player_count", "recommended_count"})
 
+    def test_exact_large_group_counts_survive_without_an_upper_cap(self):
+        game = self.game() | {"possible_counts": [2, 16, 30, "12+"], "true_counts": [16, 30]}
+        self.assertEqual(self.codes(game), set())
+        game["possible_counts"] = [0, -1, True, "16"]
+        self.assertIn("player_count", self.codes(game))
+
     def test_invalid_lists_numbers_and_playtime_range(self):
         game = self.game() | {"designer": "A designer", "categories": [{}], "min_age": False,
                               "min_playtime": 60, "max_playtime": 30}

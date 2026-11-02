@@ -51,10 +51,12 @@ designer:
   - Daniele Tascini
 publisher:
   - Czech Games Edition
-playtime_minutes: 75
+artist:
+  - Milan Vavroň
+playtime_minutes: 75  # Midpoint of publisher’s 60–90 minute range.
 min_playtime: 60
 max_playtime: 90
-min_age: 13
+min_age: 12
 
 # Description
 description: |

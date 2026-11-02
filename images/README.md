@@ -12,9 +12,11 @@ Wingspan (2019).png
 Root (2018).webp
 ```
 
-The backend recognizes names case-insensitively; the Python checker uses exact case. JPEG, PNG, and WebP are accepted by uploads. Prefer a clear front-of-box image, at least 500 × 500 pixels and ideally 1,000 × 1,000 or larger. The upload path warns about small dimensions but does not reject them.
+The backend and Python checker recognize names case-insensitively. Punctuation and Unicode are preserved; path separators and control characters become underscores. Both also recognize the old upload underscore convention, preserving existing assets. JPEG, PNG, and WebP are accepted by uploads. Prefer a clear front-of-box image, at least 500 × 500 pixels and ideally 1,000 × 1,000 or larger. The upload path warns about small dimensions but does not reject them.
 
-**Known mismatch:** the uploader replaces punctuation with underscores, while lookup expects the original name. Avoid bulk renaming or reacquiring images to work around this; align the implementation first. Existing assets are preserved. See [status](../docs/status.md).
+All 13 pre-existing assets were inventoried on 2026-11-01 with dimensions and hashes. Their original sources, acquisition dates, and permissions remain unknown. An inventory entry is not evidence of reuse rights or a visual identity certification.
+
+An explicit game-ID/filename link in `sources.yaml` takes precedence over inferred naming. This preserves an existing cover when sourced title/year metadata is corrected, such as Codenames' original publication changing from the old 2016 value to 2015. The old filename and all art bytes remain intact; an association does not establish the cover's exact printing or origin. Lookup validates that the recorded filename stays within the image directory and uses a supported format.
 
 ## Asset workflow
 
@@ -43,7 +45,7 @@ example-game:
   notes: "Illustrative entry only; replace with actual evidence."
 ```
 
-Unknown information remains explicit. Uploading through the web interface does not create a provenance entry, and existing files are not proof that permission has been established.
+Unknown information remains explicit. Web uploads create an explicitly unverified provenance entry with measured dimensions and upload date. Source/permission fields remain null until evidence is supplied. Replacement retains earlier metadata in `history`; both the uploader and fetch tool use the same locked atomic writer. Existing files are not proof of permission.
 
 ## Tools
 
@@ -60,4 +62,4 @@ python scripts/fetch_image.py --help
 
 These report coverage and filename issues. They do not verify licensing or complete the asset workflow.
 
-The dedicated `fetch_image.py SLUG --url IMAGE_URL --license LICENSE` tool downloads and validates art, saves the canonical game name/year filename, and records provenance. Use actual source evidence and the policy’s license labels; it does not establish permission by itself. Read its options before using `--force`, which can replace existing assets/provenance. The web uploader still uses a different filename/provenance path.
+The dedicated `fetch_image.py SLUG --url IMAGE_URL --license LICENSE` tool downloads and validates art, saves the canonical game name/year filename, and records provenance. Use actual source evidence and the policy’s license labels; it does not establish permission by itself. Read its options before using `--force`, which can replace existing assets/provenance. The web uploader uses the same naming and provenance path; upload responses and both API paths reflect the image immediately.

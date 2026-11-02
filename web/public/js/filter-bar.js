@@ -12,11 +12,16 @@
 (function () {
   'use strict';
 
+  const escapeHTML = value => String(value).replace(/[&<>"']/g, character => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[character]));
+
   // ============ Filter Type Definitions ============
 
   const FILTER_TYPES = {
     q:                { label: 'Text Search',      group: 0, kind: 'text',       color: 'var(--text-muted)' },
-    true_counts:      { label: 'Player Count',     group: 1, kind: 'toggles',    color: 'var(--accent)' },
+    possible_counts:  { label: 'Supports Your Group', group: 1, kind: 'toggles', color: 'var(--accent)' },
+    true_counts:      { label: 'Suggested Group Sizes', group: 1, kind: 'toggles', color: 'var(--accent)' },
     year:             { label: 'Year Range',        group: 1, kind: 'range',      color: 'var(--accent)' },
     playtime:         { label: 'Playtime Range',    group: 1, kind: 'range',      color: 'var(--accent)', suffix: 'min' },
     mechanics:        { label: 'Mechanics',         group: 2, kind: 'multiselect',color: 'var(--chip-mechanic-text)' },
@@ -80,7 +85,7 @@
       for (const [key, val] of Object.entries(this.filters)) {
         if (val === null || val === undefined) continue;
         if (key === 'q') { if (val) f.q = val; }
-        else if (key === 'true_counts') { if (val.length) f.true_counts = val; }
+        else if (key === 'true_counts' || key === 'possible_counts') { if (val.length) f[key] = val; }
         else if (key === 'year') { if (val.min != null) f.year_min = val.min; if (val.max != null) f.year_max = val.max; }
         else if (key === 'playtime') { if (val.min != null) f.playtime_min = val.min; if (val.max != null) f.playtime_max = val.max; }
         else if (key === 'mechanics' || key === 'styles' || key === 'themes') {
@@ -101,7 +106,7 @@
       for (const [key, val] of Object.entries(this.filters)) {
         if (val === null || val === undefined) continue;
         if (key === 'q' && val) params.set('q', val);
-        else if (key === 'true_counts' && val.length) params.set('true_counts', val.join(','));
+        else if ((key === 'true_counts' || key === 'possible_counts') && val.length) params.set(key, val.join(','));
         else if ((key === 'year' || key === 'playtime') && (val.min != null || val.max != null)) {
           if (val.min != null) params.set(`${key}_min`, val.min);
           if (val.max != null) params.set(`${key}_max`, val.max);
@@ -128,6 +133,7 @@
       const params = new URLSearchParams(window.location.search);
       if (params.has('q')) this.filters.q = params.get('q');
       if (params.has('true_counts')) this.filters.true_counts = params.get('true_counts').split(',');
+      if (params.has('possible_counts')) this.filters.possible_counts = params.get('possible_counts').split(',');
       for (const key of ['year', 'playtime']) {
         const min = params.get(`${key}_min`);
         const max = params.get(`${key}_max`);
@@ -197,7 +203,7 @@
         chip.innerHTML = `
           <span class="filter-chip-color" style="background:${def.color}"></span>
           <span class="filter-chip-label">${def.label}:</span>
-          <span class="filter-chip-value">${summary}</span>
+          <span class="filter-chip-value">${escapeHTML(summary)}</span>
           <button class="filter-chip-remove" data-key="${key}">&times;</button>
         `;
 
@@ -401,13 +407,13 @@
       div.className = 'fb-dropdown fb-editor';
       const label = document.createElement('div');
       label.className = 'fb-editor-label';
-      label.textContent = 'Best at player count';
+      label.textContent = key === 'possible_counts' ? 'Supported player counts' : 'Suggested counts (estimates)';
       div.appendChild(label);
 
       const row = document.createElement('div');
       row.className = 'fb-toggle-row';
 
-      const counts = this.options ? this.options.player_counts : ['1','2','3','4','5','6','7','8'];
+      const counts = this.options ? (key === 'possible_counts' ? this.options.supported_player_counts : this.options.player_counts) : [];
       const selected = new Set(this.filters[key] || []);
 
       for (const c of counts) {
@@ -498,10 +504,13 @@
 
         const btns = document.createElement('div');
         btns.className = 'fb-toggle-row';
-        for (let i = 0; i <= 4; i++) {
+        for (const [raw, description] of Object.entries(this.options?.schema?.ratings?.[key]?.values || CatalogSchema.ratings[key].values)) {
+          const i = Number(raw);
           const btn = document.createElement('button');
           btn.className = 'fb-toggle-btn' + (current === i ? ' active' : '');
           btn.textContent = i;
+          btn.title = description;
+          btn.setAttribute('aria-label', `${i}: ${description}`);
           btn.addEventListener('click', () => {
             // Toggle off if same value
             const newVal = current === i ? null : i;

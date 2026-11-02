@@ -31,6 +31,9 @@ import urllib.request
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+from scripts.image_assets import image_basename, record_provenance
 GAMES_DIR = os.path.join(ROOT, "games")
 IMAGES_DIR = os.path.join(ROOT, "images")
 SOURCES_FILE = os.path.join(IMAGES_DIR, "sources.yaml")
@@ -49,7 +52,6 @@ CONTENT_TYPE_EXT = {
     "image/jpeg": ".jpg",
     "image/png": ".png",
     "image/webp": ".webp",
-    "image/gif": ".gif",
 }
 
 
@@ -111,7 +113,7 @@ def download(url):
 def ext_for(content_type, url):
     if content_type in CONTENT_TYPE_EXT:
         return CONTENT_TYPE_EXT[content_type]
-    for ext in (".jpg", ".jpeg", ".png", ".webp", ".gif"):
+    for ext in (".jpg", ".jpeg", ".png", ".webp"):
         if url.lower().split("?")[0].endswith(ext):
             return ".jpg" if ext == ".jpeg" else ext
     return None
@@ -126,17 +128,6 @@ def slug_in_sources(slug):
                 return True
     return False
 
-
-def append_provenance(slug, entry):
-    block = [f"\n{slug}:"]
-    for k in ("file", "source_url", "publisher", "license", "date", "resolution", "notes"):
-        v = entry.get(k)
-        if v is None:
-            block.append(f"  {k}: null")
-        else:
-            block.append(f'  {k}: "{v}"')
-    with open(SOURCES_FILE, "a") as f:
-        f.write("\n".join(block) + "\n")
 
 
 def main():
@@ -156,7 +147,9 @@ def main():
 
     game = load_game(args.slug)
     name, year = game.get("name", ""), game.get("year", "")
-    base = f"{name} ({year})"
+    base = image_basename(game)
+    if base is None:
+        sys.exit("error: game needs a known title and publication year")
 
     if not args.force and slug_in_sources(args.slug):
         sys.exit(f"error: {args.slug} already in sources.yaml (use --force)")
@@ -180,6 +173,10 @@ def main():
     out_path = os.path.join(IMAGES_DIR, f"{base}{ext}")
     if os.path.exists(out_path) and not args.force:
         sys.exit(f"error: {out_path} exists (use --force)")
+    previous = None
+    if os.path.exists(out_path):
+        with open(out_path, "rb") as f:
+            previous = f.read()
     with open(out_path, "wb") as f:
         f.write(data)
 
@@ -188,15 +185,23 @@ def main():
         pubs = game.get("publisher") or []
         pub = pubs[0] if pubs else None
 
-    append_provenance(args.slug, {
-        "file": f"{base}{ext}",
-        "source_url": args.source_page or args.url,
-        "publisher": pub,
-        "license": args.license,
-        "date": datetime.date.today().isoformat(),
-        "resolution": res,
-        "notes": args.notes,
-    })
+    try:
+        record_provenance(args.slug, {
+            "file": f"{base}{ext}",
+            "source_url": args.source_page or args.url,
+            "publisher": pub,
+            "license": args.license,
+            "date": datetime.date.today().isoformat(),
+            "resolution": res,
+            "notes": args.notes,
+        }, replace=args.force)
+    except Exception:
+        if previous is None:
+            os.unlink(out_path)
+        else:
+            with open(out_path, "wb") as f:
+                f.write(previous)
+        raise
     print(f"saved {out_path} ({res or 'size unknown'}) and recorded provenance")
 
 

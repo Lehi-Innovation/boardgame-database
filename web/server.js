@@ -2,18 +2,37 @@ const express = require('express');
 const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
-const cors = require('cors');
 const sharp = require('sharp');
 const yamlHandler = require('./lib/yaml-handler');
 const db = require('./lib/db');
+const schema = require('./lib/schema');
+const images = require('./lib/images');
+const { spawnSync } = require('child_process');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(cors());
-app.use(express.json());
-app.use(express.static('public'));
+app.use(express.json({ limit: '64kb' }));
+app.use((req, res, next) => {
+  if (!['GET', 'HEAD', 'OPTIONS'].includes(req.method) && req.headers.origin) {
+    try {
+      if (new URL(req.headers.origin).host !== req.headers.host) {
+        return res.status(403).json({ error: true, message: 'Cross-origin writes are not allowed' });
+      }
+    } catch (_) { return res.status(403).json({ error: true, message: 'Invalid origin' }); }
+  }
+  next();
+});
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Synchronous script loading lets every page use the same schema vocabulary.
+app.get('/api/schema.js', (req, res) => {
+  const ratings = Object.fromEntries(Object.entries(schema)
+    .filter(([, value]) => value?.values && !Array.isArray(value.values)));
+  const presentation = { categories: schema.categories, ratings, evokes: schema.evokes, discovery_presets: schema.discovery_presets };
+  res.type('application/javascript').send(`window.CatalogSchema = ${JSON.stringify(presentation).replace(/</g, '\\u003c')};`);
+});
 
 // Configure multer for file uploads (store in memory)
 const upload = multer({
@@ -38,6 +57,23 @@ const upload = multer({
 
 // ============ API Endpoints ============
 
+app.post('/api/contributions', (req, res) => {
+  if (!req.is('application/json')) return res.status(415).json({ message: 'Use a JSON submission' });
+  const result = spawnSync(process.env.PYTHON || 'python3', ['scripts/contributions.py', 'submit'],
+    { cwd: path.join(__dirname, '..'), input: JSON.stringify(req.body), encoding: 'utf8' });
+  if (result.status !== 0) {
+    let message = 'Submission could not be saved';
+    let status = 500;
+    try {
+      const error = JSON.parse(result.stderr).error;
+      if (error) { message = error; status = 400; }
+    } catch (_) {}
+    return res.status(status).json({ message });
+  }
+  const submission = JSON.parse(result.stdout);
+  res.status(201).json({ id: submission.id, status: submission.status, version: submission.version });
+});
+
 /**
  * GET /api/games/query
  * Filtered, sorted, paginated game query powered by SQLite.
@@ -45,12 +81,14 @@ const upload = multer({
  */
 app.get('/api/games/query', (req, res) => {
   try {
+    if (!db.getStats()) return res.status(503).json({ error: true, message: 'Build games.db to browse the catalog', code: 'DB_UNAVAILABLE' });
     const filters = {};
 
     if (req.query.q) filters.q = req.query.q;
     if (req.query.categories) filters.categories = [].concat(req.query.categories);
     if (req.query.evokes) filters.evokes = [].concat(req.query.evokes);
     if (req.query.true_counts) filters.true_counts = [].concat(req.query.true_counts);
+    if (req.query.possible_counts) filters.possible_counts = [].concat(req.query.possible_counts);
 
     const intParam = (name) => {
       const v = req.query[name];
@@ -190,8 +228,10 @@ app.post('/api/games/:id/upload', upload.single('image'), async (req, res) => {
     }
 
     // Validate image with sharp
+    let metadata;
     try {
-      const metadata = await sharp(req.file.buffer).metadata();
+      metadata = await sharp(req.file.buffer).metadata();
+      if (!['jpeg', 'png', 'webp'].includes(metadata.format)) throw new Error('Unsupported image encoding');
 
       // Warn if dimensions are small
       if (metadata.width < 500 || metadata.height < 500) {
@@ -208,23 +248,37 @@ app.post('/api/games/:id/upload', upload.single('image'), async (req, res) => {
     }
 
     // Generate filename from game metadata
-    const ext = path.extname(req.file.originalname).toLowerCase();
-    const filename = `${game.name} (${game.year})${ext}`;
-
-    // Sanitize filename (prevent path traversal)
-    const sanitized = filename.replace(/[^a-zA-Z0-9\s().-]/g, '_');
-    const filepath = path.join(yamlHandler.IMAGES_DIR, sanitized);
+    const base = images.basename(game);
+    if (!base) return res.status(400).json({ error: true, message: 'Game needs a known name and year' });
+    const ext = { jpeg: '.jpg', png: '.png', webp: '.webp' }[metadata.format];
+    const filename = `${base}${ext}`;
+    const filepath = path.join(yamlHandler.IMAGES_DIR, filename);
 
     // Write file to disk
+    const previous = fs.existsSync(filepath) ? fs.readFileSync(filepath) : null;
     fs.writeFileSync(filepath, req.file.buffer);
+    const provenance = {
+      file: filename, source_url: null, publisher: game.publisher?.[0] || null,
+      license: null, date: new Date().toISOString().slice(0, 10),
+      resolution: `${metadata.width}x${metadata.height}`, review_status: 'unverified',
+      notes: 'Uploaded through the local image manager; origin and permission evidence were not supplied.'
+    };
+    const recorded = spawnSync(process.env.PYTHON || 'python3',
+      ['-m', 'scripts.image_assets', '--record', String(game.id), '--replace'],
+      { cwd: path.join(__dirname, '..'), input: JSON.stringify(provenance), encoding: 'utf8' });
+    if (recorded.status !== 0) {
+      if (previous) fs.writeFileSync(filepath, previous);
+      else fs.unlinkSync(filepath);
+      throw new Error(`Provenance could not be recorded: ${recorded.stderr || recorded.error}`);
+    }
 
     // Clear cache so next request reflects new image
     yamlHandler.clearCache();
 
     res.json({
       success: true,
-      filename: sanitized,
-      path: `/api/images/${encodeURIComponent(sanitized)}`,
+      filename,
+      path: `/api/images/${encodeURIComponent(filename)}`,
       message: 'Image uploaded successfully'
     });
   } catch (err) {
@@ -244,12 +298,12 @@ app.post('/api/games/:id/upload', upload.single('image'), async (req, res) => {
  */
 app.get('/api/images/:filename', (req, res) => {
   try {
-    const filename = decodeURIComponent(req.params.filename);
+    const filename = req.params.filename;
     const filepath = path.join(yamlHandler.IMAGES_DIR, filename);
 
     // Prevent path traversal
     const normalized = path.normalize(filepath);
-    if (!normalized.startsWith(yamlHandler.IMAGES_DIR)) {
+    if (path.basename(filename) !== filename || !images.extensions.has(path.extname(filename).toLowerCase()) || path.dirname(normalized) !== yamlHandler.IMAGES_DIR) {
       return res.status(403).json({
         error: true,
         message: 'Access denied',
@@ -303,9 +357,11 @@ app.get('/api/master-list', async (req, res) => {
 app.get('/api/health', async (req, res) => {
   try {
     const games = await yamlHandler.loadAllGames();
-    res.json({
-      status: 'healthy',
+    const stats = db.getStats();
+    res.status(stats ? 200 : 503).json({
+      status: stats ? 'healthy' : 'database_unavailable',
       games_loaded: games.length,
+      database_games: stats?.total_games ?? null,
       images_directory: yamlHandler.IMAGES_DIR
     });
   } catch (err) {
@@ -338,6 +394,10 @@ app.get('/images', (req, res) => {
  */
 app.get('/master-list', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'master-list.html'));
+});
+
+app.get('/contribute', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'contribute.html'));
 });
 
 // ============ Error Handling ============
@@ -373,8 +433,8 @@ app.use((err, req, res, next) => {
 // ============ Server Start ============
 
 // Initialize SQLite DB then start server
-db.init().then(() => {
-  app.listen(PORT, () => {
+if (require.main === module) db.init().then(() => {
+  app.listen(PORT, '127.0.0.1', () => {
     console.log(`
 ╔════════════════════════════════════════════════════════════╗
 ║  Board Game Database - Web Interface                       ║
@@ -403,3 +463,5 @@ Press Ctrl+C to stop the server
   console.error('Failed to initialize database:', err);
   process.exit(1);
 });
+
+module.exports = app;

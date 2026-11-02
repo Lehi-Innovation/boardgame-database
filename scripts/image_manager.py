@@ -15,6 +15,9 @@ import sys
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+from scripts.image_assets import find_image, image_basename
 GAMES_DIR = os.path.join(ROOT, "games")
 IMAGES_DIR = os.path.join(ROOT, "images")
 PUBLISHERS_FILE = os.path.join(ROOT, "publishers.yaml")
@@ -52,19 +55,7 @@ def get_existing_images():
 
 
 def expected_filename(game):
-    """Generate expected image filename for a game."""
-    name = game.get("name", "")
-    year = game.get("year", "")
-    return f"{name} ({year})"
-
-
-def find_image(game, existing_images):
-    """Check if an image exists for a game (any extension)."""
-    base = expected_filename(game)
-    for ext in (".jpg", ".jpeg", ".png", ".webp"):
-        if f"{base}{ext}" in existing_images:
-            return f"{base}{ext}"
-    return None
+    return image_basename(game)
 
 
 def cmd_progress(games, existing_images):
@@ -204,23 +195,16 @@ def cmd_check(games, existing_images):
     issues = []
 
     # Check for images that don't match any game
-    expected_bases = set()
-    for g in games:
-        expected_bases.add(expected_filename(g))
+    matched_files = {img for img in existing_images if any(find_image(g, [img]) for g in games)}
 
     for img in sorted(existing_images):
-        base = os.path.splitext(img)[0]
-        if base not in expected_bases:
+        if img not in matched_files:
             issues.append(f"  Unmatched image: {img}")
 
     # Check for duplicate images (same game, different extensions)
     seen = {}
     for g in games:
-        base = expected_filename(g)
-        matches = []
-        for ext in (".jpg", ".jpeg", ".png", ".webp"):
-            if f"{base}{ext}" in existing_images:
-                matches.append(f"{base}{ext}")
+        matches = sorted(img for img in existing_images if find_image(g, [img]))
         if len(matches) > 1:
             issues.append(f"  Duplicate images for {g['name']}: {', '.join(matches)}")
 
@@ -229,7 +213,14 @@ def cmd_check(games, existing_images):
         for issue in issues:
             print(issue)
     else:
-        print("All images valid.")
+        print("All image filenames match current game records.")
+    with open(SOURCES_FILE) as handle:
+        sources = yaml.safe_load(handle) or {}
+    tracked = {entry.get("file") for entry in sources.values() if isinstance(entry, dict)}
+    for img in sorted(existing_images - tracked):
+        print(f"Missing provenance inventory: {img}")
+    unverified = sum(not entry.get("source_url") or not entry.get("license") for entry in sources.values())
+    print(f"Image origin/permission evidence incomplete: {unverified} entries. Filename checks do not verify identity or reuse rights.")
 
 
 def main():

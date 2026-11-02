@@ -22,7 +22,6 @@ hotness: null
 
 categories:
   - Abstract
-  - Strategy
 
 evokes:
   - Clever

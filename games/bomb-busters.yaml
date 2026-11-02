@@ -1,6 +1,6 @@
 id: bomb-busters
 name: "Bomb Busters"
-year: 2025
+year: 2024
 
 # Relationships
 game_family: null
@@ -58,7 +58,13 @@ min_age: 10
 
 # Description
 description: |
-  Winner of the prestigious 2025 Spiel des Jahres, Bomb Busters is a cooperative deduction game where players work together as bomb disposal experts facing 66 escalating explosive challenges. At its core are 48 numbered tiles representing wires in a bomb, with values from 1 to 12, four of each number. Players must defuse the bomb by matching pairs of identical wires—one from their own hand and one from a teammate's hand. The catch is that each player's wires must be kept in ascending order, forcing players to deduce wire values through careful questioning and logic. Each incorrect guess advances a detonation timer, and cutting a red wire causes an immediate explosion. The game features a campaign-like structure with five secret surprise boxes that introduce new rules, equipment cards, and game materials as missions progress. This updated edition of Hayashi's 2020 design Bomb Squad marks the first Spiel des Jahres win for an Asian designer in the award's 46-year history.
+  Work as a team to match hidden numbered wires while a wrong cut moves the bomb
+  closer to exploding. You know your own wires but must infer where matching values
+  sit on teammates’ racks. Missions gradually add equipment and complications; the
+  66 missions are replayable and components are not destroyed. It suits a group
+  that enjoys joint deduction and learning through short challenges. Red wires
+  create risk, and later missions need more coordination. First released in 2024,
+  Bomb Busters won the Spiel des Jahres in 2025.
 
 # Upgrades
 upgrades: []

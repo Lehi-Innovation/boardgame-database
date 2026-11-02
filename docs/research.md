@@ -44,11 +44,11 @@ For newly created records, initialize `plays_tracked` using the schema. Some old
 
 Preserve the CSV columns `bgg_id`, `name`, `year`, `type`, `status`, `notes`, and `yaml_id`. Add genuinely new catalog games with at least a name and known edition information; do not invent BGG IDs. Use `yaml_id` to link an existing catalog row to a differently named game file.
 
-Use `scripts/update_master_status.py` for status/mapping updates. Supported exclusions are `skip`, `failed`, `ambiguous`, and `duplicate`; document the reason in `notes`. Inspect `--backfill --dry-run` before accepting inferred mappings. A completed game has a record/mapping, not a permanent `done` status value.
+Use `scripts/update_master_status.py` for status/mapping updates. When titles repeat, select the intended edition with `--year` and/or `--bgg-id`; ambiguous updates fail instead of choosing the first row. Supported exclusions are `skip`, `failed`, `ambiguous`, and `duplicate`; document the reason in `notes`. Inspect `--backfill --dry-run` before accepting inferred mappings. A completed game has a record/mapping, not a permanent `done` status value.
 
 For authorized batches, the researcher can process up to 50 assigned games sequentially. Report each input as created, existing, failed, ambiguous, duplicate, or not attempted, including actual YAML slugs and reasons. A coordinator can merge results through `--from-results results.json`; the script translates `status: done` to an empty status. Do not let multiple workers overwrite the CSV or shared provenance log. Stop a batch early if evidence quality or context capacity becomes insufficient.
 
-After catalog changes, rebuild with `python scripts/build_db.py` and inspect its output. Restart the web server to load the new query database.
+After catalog changes, rebuild with `python scripts/build_db.py` and inspect its output. The server detects the rebuilt query database automatically.
 
 ## Record provenance
 
@@ -69,7 +69,7 @@ The shared writer uses safe YAML serialization, whole-document validation, a sta
 
 Read back the saved record and parse it. Verify filename/ID, valid categories and evokes, rating ranges, player-count consistency, and that the description agrees with the evidence. Use [the development checks](development.md#checks) as a starting point.
 
-Run `python scripts/validate_catalog.py --games games/SLUG.yaml` for structural and vocabulary checks on a changed record. This does not establish factual accuracy or permission to reuse a source. Run the full audit when reviewing catalog-wide consistency; it currently reports known data issues listed in [status.md](status.md).
+Run `python scripts/validate_catalog.py --games games/SLUG.yaml` for structural and vocabulary checks on a changed record. This does not establish factual accuracy or permission to reuse a source. Run the full audit when reviewing catalog-wide consistency; its structural checks now pass, with remaining identity/factual-quality work listed in [status.md](status.md).
 
 Report the created or updated game, actual source coverage, and material uncertainty or incomplete work. Do not call a game fully verified solely because the file exists.
 

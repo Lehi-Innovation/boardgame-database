@@ -10056,3 +10056,235 @@ entries:
     game_id: klask
     url: "https://www.klaskgame.com"
     description: "Game information page — klaskgame.com"
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: 878-vikings-invasions-of-england
+    url: https://www.academygames.com/pages/878-vikings-2nd-edition
+    description: 'Publisher page: 2–4 players and team area control. This page now advertises
+      the second edition; not evidence for its publication year or original-edition
+      component differences.'
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: 878-vikings-invasions-of-england
+    url: https://cdn.shopify.com/s/files/1/1699/1705/files/Viking_Rules_v44.pdf?944781841974437186=
+    description: 'Publisher-hosted original rules: copyright 2017, faction control at
+      fewer than four players, game design David Kimmel, system Beau Beckett/Jeph Stahl,
+      art Jarek Nocoń/Stephen Paschal. Duration and age unconfirmed. Experience attributes
+      and recommended counts are estimates.'
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: clank-legacy-acquisitions-incorporated
+    url: https://www.direwolfdigital.com/clank-legacy-acquisitions-incorporated/
+    description: 'Publisher product page: at least ten campaign games, permanent changes,
+      post-campaign play. The 30–60 minute snippets concern character packs, not this
+      base game.'
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: clank-legacy-acquisitions-incorporated
+    url: https://www.direwolfdigital.com/clank-legacy-acquisitions-incorporated/faq/
+    description: 'Publisher FAQ: 2–4 players, no solo support; competitive play can
+      involve cooperation. Original Clank! compatibility is conditional and recommended
+      after the campaign.'
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: clank-legacy-acquisitions-incorporated
+    url: https://www.direwolfdigital.com/news/clank-legacy-acquisitions-incorporated/
+    description: Publisher announcement and related-news listing establish the 2019
+      release.
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: clank-legacy-acquisitions-incorporated
+    url: https://www.alliance-games.com/Downloads/GTM237_Games.pdf
+    description: 'Distributor-hosted Renegade product listing: original RGS02037, ages
+      13+, 2–4 players, 90–120 minutes. Nominal midpoint duration is an estimate.'
+  - timestamp: '2026-11-02T06:34:12Z'
+    game_id: clank-legacy-acquisitions-incorporated
+    url: https://cs.uwaterloo.ca/~dtompkin/archive/dtlib/base/Clank!%20Legacy%20-%20Acquisitions%20Incorporated.pdf
+    description: 'Original publisher rulebook hosted by university library: game design
+      Andy Clautice, direction/additional design Paul Dennen, publishers and art credits;
+      campaign structure and conditional crossover. Experience attributes and recommended
+      counts are estimates.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: outfoxed
+    url: https://www.gamewright.com/product/Outfoxed
+    description: 'Representative children’s-game review: publisher confirms 2–4 players,
+      age 5+, 20 minutes, cooperative deduction and scanner. Corrected min_age from
+      4 to 5; no claim that every credit, publication date, or award was verified.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: outfoxed
+    url: https://gamewright.com/pdfs/Rules/OutFoxed-Rules-English.pdf
+    description: Publisher rules confirm ages 5+, 2–4 players, clue decoder and suspect
+      elimination; credit illustrations to Mélaine Grandgirard. Copyright 2015 alone
+      does not prove first publication, so legacy 2014 was not changed.
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: root
+    url: https://ledergames.com/products/root-a-game-of-woodland-might-and-right
+    description: 'Representative demanding-game review: publisher confirms 2–4 players,
+      age 14+, 60–90 minutes, Cole Wehrle/Kyle Ferrin credits and different faction
+      systems. Corrected min_age from 10 to 14. Experience and preferred counts remain
+      estimates.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: just-one
+    url: https://www.rprod.com/en/games/just-one
+    description: 'Representative party-game review: publisher confirms 3–7 players,
+      age 8+, 20 minutes. Current page advertises a refreshed word set; not treated
+      as evidence of the original publication year.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: just-one
+    url: https://cdn.svc.asmodee.net/production-rprod/storage/games/justone/NEW/jo-en02-rules-mkt-1749635213L3H57.pdf
+    description: 'Publisher rules: cooperative clues, duplicate cancellation, 13-card
+      game and Roudy/Sautter credits. The current 2025 rules include a 3–4 player variant;
+      do not assume that variant was in the original edition.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: chess
+    url: https://handbook.fide.com/chapter/e012023
+    description: 'Representative traditional-game review: FIDE laws confirm two opponents,
+      8×8 board, 16 pieces each, checkmate and agreed time controls. Removed a spuriously
+      exact publication year and universal minimum age; nominal 60-minute duration remains
+      explicitly illustrative.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: monopoly
+    url: https://instructions.hasbro.com/fr-ca/instruction/monopoly-game
+    description: 'Representative familiar-game review: Hasbro C1009 lists 2–8 players
+      and age 8+, property trading, building and bankruptcy. Current product specifications
+      are not proof of the original 1935 edition or the conflicting CSV 1937 date; those
+      dates remain unverified in this review.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: cluedo
+    url: https://instructions.hasbro.com/en-us/instruction/clue-game
+    description: 'Representative familiar mystery review: Hasbro 00045 confirms 3–6
+      players and deduction of suspect, weapon and room. Does not establish original
+      UK edition history or all international player-count variants.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: cluedo
+    url: https://www.hasbro.com/common/instruct/clueins.pdf
+    description: 'Hasbro classic US rules copyright 1986: 3–6 players, age 8+, private
+      card evidence, suggestions and accusations. Not used to collapse the original
+      UK game and later editions.'
+  - timestamp: '2026-11-02T06:52:17.778844Z'
+    game_id: cascadia
+    url: https://www.alderac.com/cascadia/
+    description: 'Representative family/puzzle review: AEG confirms base 1–4 players,
+      45 minutes, age 10+, Randy Flynn/Beth Sobel and habitat/wildlife spatial puzzle.
+      Landmarks supports up to six; those expansion counts do not replace base-game
+      counts. CSV 2022 versus record 2021 still needs publication evidence.'
+  - timestamp: '2026-11-02T13:46:08.663893Z'
+    game_id: cascadia
+    url: https://www.flatout.games/whoweare
+    description: Publisher’s own publication history explicitly lists Cascadia (2021).
+      Corrected CSV 2022 award-year confusion to original publication 2021 and mapped
+      the existing base-game record.
+  - timestamp: '2026-11-02T13:46:08.663893Z'
+    game_id: codenames
+    url: https://www.czechgames.com/games/codenames-2015
+    description: Publisher identifies the original game as Codenames (2015), release
+      Q4 2015, 2–8+ players, age 10+, 15 minutes. Corrected record year 2016 to 2015,
+      identified original game, and retained pre-existing art through its explicit inventory
+      file link; exact image edition remains unknown.
+  - timestamp: '2026-11-02T13:46:08.663893Z'
+    game_id: codenames
+    url: https://czechgames.com/files/rules/codenames-rules-en.pdf
+    description: Publisher rules indexed text confirms July 2015 copyright and two-/three-player
+      variants. Added those supported counts and represented larger teams using exact
+      counts through twelve plus the existing open-ended label. Suggested counts and
+      owner data were preserved.
+  - timestamp: '2026-11-02T13:46:08.663893Z'
+    game_id: bomb-busters
+    url: https://news.pegasus.de/en/co-operation-not-detonation/
+    description: Publisher release announcement dated October 10, 2024 confirms first
+      SPIEL Essen 2024 release, 2–5 players, age 10+, 66 replayable missions and undamaged
+      components. Corrected game year from award year 2025 to 2024; removed unsupported
+      earlier-design claim from the summary.
+  - timestamp: '2026-11-02T13:46:08.663893Z'
+    game_id: bomb-busters
+    url: https://news.pegasus.de/bomb-busters-ist-das-spiel-des-jahres-2025/
+    description: Publisher award announcement identifies the 2025 Spiel des Jahres award;
+      distinguished award year from the independently documented 2024 publication.
+  - timestamp: '2026-11-02T13:48:02.038068Z'
+    game_id: codenames
+    url: https://czechgames.com/files/rules/codenames-rules-en.pdf
+    description: 'Follow-up retrieval check: the old English PDF URL now redirects to
+      the 2025 relaunch page, whose main mode lists 4–8+. The earlier entry described
+      search-indexed legacy text, not a currently downloadable PDF. Original-game 2–8+
+      counts are independently confirmed on the publisher’s dedicated codenames-2015
+      page; keep those editions distinct.'
+  - timestamp: '2026-11-02T13:53:10.539072Z'
+    game_id: adel-verpflichtet
+    url: https://www.spiel-des-jahres.de/spiele/adel-verpflichtet/
+    description: 'Official jury description identifies Klaus Teuber/F.X. Schmid original:
+      2–5 players, age 12+, approximately 60 minutes; says interaction works best from
+      four people. Corrected original-edition counts/age/duration and made 4–5 provisional
+      preferred counts. Later editions can differ.'
+  - timestamp: '2026-11-02T13:53:10.539072Z'
+    game_id: hoity-toity
+    url: https://opinionatedgamers.com/2015/07/01/sdj-re-reviews-12-adel-verpflichtet-a-k-a-hoity-toity/
+    description: Edition history explicitly identifies the 2004 Uberplay edition as
+      first named Hoity Toity, distinct from the original 1990 F.X. Schmid game and
+      1991 Avalon Hill printing. Review uses Uberplay rules and covers 2–6 players;
+      review age/duration header spans editions, so publisher minimum age and box time
+      range remain unknown.
+  - timestamp: '2026-11-02T13:53:10.539072Z'
+    game_id: moon-colony-bloodbath
+    url: https://www.riograndegames.com/games/moon-colony-bloodbath/
+    description: Publisher search-indexed product text confirms title, Donald X. Vaccarino,
+      Franz Vohwinkel, 1–5 players and 45–90 minutes. Direct fetch returned 403. It
+      does not give a publication year; ignored dynamic sidebar mentions on older newsletter
+      pages as date evidence.
+  - timestamp: '2026-11-02T13:53:10.539072Z'
+    game_id: moon-colony-bloodbath
+    url: https://boardgameviews.wordpress.com/2026/09/24/moon-colony-bloodbath-incl-solo-mode/
+    description: Original play review explicitly identifies a 2025 release and describes
+      a provided review copy and multiple solo plays. Supports correcting CSV 2023 to
+      2025 alongside publisher identity/specs; reviewer’s shorter solo playtime is not
+      a replacement for the publisher box range.
+  - timestamp: '2026-11-02T13:57:27.330302Z'
+    game_id: das-bohnenspiel
+    url: https://ludii.games/details.php?keyword=Das+Bohnenspiel
+    description: Digital Ludeme Project research archive identifies Das Bohnenspiel
+      as a traditional two-row mancala with a 2×6 board, described by Fritz Jahn. Corrected
+      false Bohnanza identity, invented Rosenberg credit/year, and unsupported multiplayer
+      specifications. No single publication year established.
+  - timestamp: '2026-11-02T13:57:27.330302Z'
+    game_id: das-bohnenspiel
+    url: https://www.jungschar-echt-stark.de/wp-content/uploads/2018/12/Anschreiben-zum-Projektstart-2015.pdf
+    description: 'Independent 2015 teaching packet, section 7.6: two players, 2×6 pits,
+      72 beans, counterclockwise sowing and captures at 2/4/6 seeds. Notes that Bohnenspiel
+      can be a generic name for different mancala variants. Ratings/evokes/nominal duration
+      remain estimates, not publisher specifications.'
+  - timestamp: '2026-11-02T13:57:27.330302Z'
+    game_id: bohnanza
+    url: https://blog.amigo-spiele.de/bohnanza-reihe/
+    description: Publisher history explicitly identifies Uwe Rosenberg’s Bohnanza, AMIGO,
+      first publication 1997, and Björn Pertoft’s bean illustrations. Established canonical
+      identity separate from traditional mancala; included expansion/player-count differences
+      still need edition-specific review.
+  - timestamp: '2026-11-02T13:57:27.330302Z'
+    game_id: challengers
+    url: https://1moretimegames.com/en_us/about/
+    description: Publisher history explicitly states October 2022 release with Z-Man,
+      March 2023 As d’Or and July 2023 Kennerspiel awards. Corrected duplicate catalog
+      row’s award-year confusion and retained it as an explained duplicate of existing
+      Challengers! 2022.
+  - timestamp: '2026-11-02T14:33:58.084871Z'
+    game_id: dominion
+    url: https://www.riograndegames.com/games/dominion1stedition/
+    description: Publisher search-indexed first-edition listing explicitly states first
+      published in 2008 and replacement by a different second edition with changed cards.
+      Direct page fetch returned 403. Corrected CSV 2009 to 2008 and mapped existing
+      first-edition record; second edition remains separate.
+  - timestamp: '2026-11-02T14:33:58.084871Z'
+    game_id: dropolter
+    url: https://oinkgames.com/en/games/analog/dropolter/
+    description: Publisher page confirms release 2023, Japanese/English languages, 2–5
+      players, age 6+, 15 minutes, designer Paul Schulz and artwork Jun Sasaki/Rie Komatsuzaki.
+      Corrected CSV year 2022 to 2023 and added art credits/box duration; removed unsupported
+      minimum/maximum time estimates.
+  - timestamp: '2026-11-02T14:33:58.084871Z'
+    game_id: tzolkin-the-mayan-calendar
+    url: https://www.czechgames.com/for-press-games/tzolkin-the-mayan-calendar
+    description: Publisher factsheet explicitly confirms base-game Q4 2012, 2–4 players,
+      age 12+, 60–90 minutes, Tascini/Luciani and Milan Vavroň. Corrected CSV 2013 to
+      2012, minimum age 13 to 12, added artist; nominal 75 minutes is a midpoint estimate.
+      2013 expansion is distinct.
+  - timestamp: '2026-11-02T14:33:58.084871Z'
+    game_id: isle-of-skye-from-chieftain-to-king
+    url: https://www.lookout-spiele.de/en/games/isleofskye.html
+    description: Publisher confirms original release 2015, 2016 Kennerspiel award, 2–5
+      players, age 8+ and approximately 60 minutes. Short 2016 CSV alias is now a documented
+      duplicate of existing full-title 2015 row; removed explicit mapping from duplicate
+      so it does not inflate researched counts. Corrected nominal duration/length estimate;
+      no box min/max range established.

@@ -12,7 +12,7 @@ expansions:
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short (30-50 min)
+length: 2  # Main Course (publisher estimates approximately one hour)
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
 feel: 3  # Competitive
@@ -54,9 +54,9 @@ publisher:
   - Lookout Games
 artist:
   - Klemens Franz
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 50
+playtime_minutes: 60  # Publisher approximate duration.
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 # Description

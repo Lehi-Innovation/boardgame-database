@@ -51,3 +51,8 @@ dist/
 build/
 /games.db
 /games.db-*
+/.games-*.db
+/images/sources.yaml.lock
+/images/.sources-*.tmp
+/.local/
+/.master-list-*.csv

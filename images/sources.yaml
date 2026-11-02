@@ -1,20 +1,178 @@
-# Image Provenance Tracker
-# Records the source, license, and status of each game image
-#
-# Fields:
-#   file:        Filename in images/ folder
-#   source_url:  URL where image was obtained
-#   publisher:   Publisher who provided the image
-#   license:     License type or permission reference
-#   date:        Date image was downloaded (YYYY-MM-DD)
-#   resolution:  Image dimensions (e.g., "1000x1000")
-#   notes:       Any additional context
-
 lost-ruins-of-arnak:
-  file: "Lost Ruins of Arnak (2020).png"
+  file: Lost Ruins of Arnak (2020).png
   source_url: null
   publisher: Czech Games Edition
   license: null
   date: null
-  resolution: null
-  notes: "Pre-existing image, provenance unknown"
+  resolution: 1500x1500
+  notes: Pre-existing image, provenance unknown
+  sha256: acbcd1155f465b1dadc7664fef3d20e0bfc481fe8371268435173571bfb26150
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  history:
+  - file: Lost Ruins of Arnak (2020).png
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: null
+    notes: Pre-existing image, provenance unknown
+7-wonders-duel:
+  file: '7 Wonders: Duel (2015).png'
+  source_url: null
+  publisher: Repos Production
+  license: null
+  date: null
+  resolution: 800x945
+  sha256: 3411f81702a2da8ebff3b94483315443447245753451644276dc10fe68292628
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+7-wonders:
+  file: 7 Wonders (2010).png
+  source_url: null
+  publisher: Repos Production
+  license: null
+  date: null
+  resolution: 300x332
+  sha256: 9a98bb93da346003423ea499eb77092d0a7b00664a96dfea63047fdf23797dbd
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+a-feast-for-odin:
+  file: A Feast for Odin (2016).webp
+  source_url: null
+  publisher: Feuerland Spiele
+  license: null
+  date: null
+  resolution: 1500x1500
+  sha256: db368608b60fdd504ed245f39aba9be68fac89c1dfc37c2649f8158fd8b35c07
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+clank-legacy-acquisitions-incorporated:
+  file: Clank_ Legacy_ Acquisitions Incorporated (2019).jpg
+  source_url: null
+  publisher: Dire Wolf Digital
+  license: null
+  date: null
+  resolution: 894x726
+  sha256: 805f47211b85c6ebd31ed1cfa1e70e059863a4924169d20c1f1ed3ec769fbee9
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+codenames:
+  file: Codenames (2016).webp
+  source_url: null
+  publisher: Czech Games Edition
+  license: null
+  date: null
+  resolution: 439x630
+  sha256: c7d4a93721eff6d65709099689f9b232a2af0f46c4583a8d14b200d9d5b4b5c0
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+    Original-game publication corrected to 2015 from publisher evidence on 2026-11-02;
+    the existing 2016 filename is retained. Exact image edition and origin remain
+    unverified.
+  history:
+  - file: Codenames (2016).webp
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: 439x630
+    sha256: c7d4a93721eff6d65709099689f9b232a2af0f46c4583a8d14b200d9d5b4b5c0
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+dixit:
+  file: Dixit (2008).jpg
+  source_url: null
+  publisher: Libellud
+  license: null
+  date: null
+  resolution: 1500x1500
+  sha256: 7501500b1a3950a65b3edd4b8d0b89013e5120fb342ace3ee7784d887da04bf3
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+heat-pedal-to-the-metal:
+  file: 'Heat: Pedal to the Metal (2022).webp'
+  source_url: null
+  publisher: Days of Wonder
+  license: null
+  date: null
+  resolution: 1498x1500
+  sha256: 9fc66a9744bc50b9ac679df042a6e5775f039ecfc00a93c0bbaeba18cc1bbd15
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+pandemic-legacy-season-1:
+  file: 'Pandemic Legacy: Season 1 (2015).webp'
+  source_url: null
+  publisher: Z-Man Games
+  license: null
+  date: null
+  resolution: 937x846
+  sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+ready-set-bet:
+  file: Ready Set Bet (2022).jpg
+  source_url: null
+  publisher: Alderac Entertainment Group
+  license: null
+  date: null
+  resolution: 600x600
+  sha256: fc46f99d09e90373a7390a471766e65a50b2faaa880eeed17f9ac60b8eba1582
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+root:
+  file: Root (2018).webp
+  source_url: null
+  publisher: Leder Games
+  license: null
+  date: null
+  resolution: 766x600
+  sha256: 719c93d5f26659d43a69dd798949d72ed2869daab17ca5e91ab3c5d5fee37f3e
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+star-wars-rebellion:
+  file: 'Star Wars: Rebellion (2016).png'
+  source_url: null
+  publisher: Fantasy Flight Games
+  license: null
+  date: null
+  resolution: 300x302
+  sha256: 845ba693dd2982259db59c21b6df9e82aa00508a09d43611eb2c4bbfe9eae31d
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.
+wingspan:
+  file: Wingspan (2019).png
+  source_url: null
+  publisher: Stonemaier Games
+  license: null
+  date: null
+  resolution: 1216x1536
+  sha256: d5140b45c3cad24702e9838ec68044d269fadcf17a202db0ef4d9e95d5496d22
+  review_status: unverified
+  inventory_reviewed_on: '2026-11-01'
+  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+    are unknown. Filename association is not a visual identity or rights certification.

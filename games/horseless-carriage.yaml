@@ -34,7 +34,7 @@ evokes:
   - Progress
   - Agency
   - Masterful
-  - Puzzle Solving
+  - "Complete"
 
 possible_counts: [3, 4, 5]
 true_counts: [3, 4]

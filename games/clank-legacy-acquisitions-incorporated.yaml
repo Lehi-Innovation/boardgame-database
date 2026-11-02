@@ -1,0 +1,68 @@
+# Research: 2026-11-01; see sources/research-log.yaml.
+# Experience ratings, evokes, and true_counts are provisional estimates, not consensus.
+# Unconfirmed duration/age fields remain null.
+id: clank-legacy-acquisitions-incorporated
+name: 'Clank! Legacy: Acquisitions Incorporated'
+alternate_names: []
+year: 2019
+game_family: clank
+edition: Original 2019 campaign
+base_game: null
+expansions: []
+compatible_with:
+- clank
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
+value: 3
+affinity: null
+hotness: null
+categories:
+- Deck Building
+- Press Your Luck
+- Legacy
+- Campaign Mode
+- Narrative Heavy
+- Fantasy
+- Humor
+evokes:
+- Discovery
+- Humor
+- Tension
+- Progress
+- Connection
+possible_counts:
+- 2
+- 3
+- 4
+true_counts:
+- 3
+- 4
+designer:
+- Andy Clautice
+- Paul Dennen
+publisher:
+- Dire Wolf Digital
+- Renegade Game Studios
+artist:
+- Mike Krahulik
+- Clay Brooks
+- Anika Burrell
+- Derek Herring
+- Raul Ramos
+- Nate Storm
+- Alain Viesca
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+description: Build a deck and explore for treasure while running a comic fantasy adventuring business.
+  Individual scores encourage competition, but shared decisions shape a campaign of at least ten
+  sessions. Stickers, writing, and removed components permanently change your copy. The finished
+  board remains playable afterward. Allow time for story passages and campaign upkeep, and finish
+  the campaign before mixing cards with original Clank!; some terms need adjustment.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

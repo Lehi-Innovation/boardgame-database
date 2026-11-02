@@ -1,0 +1,61 @@
+# Deliberate links for historical research IDs. The evidence log stays unchanged.
+# Reviewed 2026-11-01 against stored evidence URLs/notes and current records;
+# this is identity reconciliation, not a fresh factual verification of sources.
+aliases:
+  adel-verpflichtet-1990:
+    game_id: adel-verpflichtet
+    reason: The historical notes identify Hoity Toity, Klaus Teuber, and the 1990 award; current record matches.
+  andor:
+    game_id: legends-of-andor
+    reason: Historical Dice Tower reference 127398 and KOSMOS Andor page identify the original adventure, not the family spinoff.
+  auf-achse-1987:
+    game_id: auf-achse
+    reason: Notes name Wolfgang Kramer, F.X. Schmid, and the 1987 award; current record represents that original edition.
+  barbarossa-1988:
+    game_id: barbarossa
+    reason: Notes name Klaus Teuber and the 1988 award, distinguishing it from the Russo-German wargame.
+  ca-tactical-naval-warfare:
+    game_id: ca-tactical-naval-warfare-in-the-pacific
+    reason: Stored reference title is CA Tactical Naval Warfare in the Pacific 1941-43, matching the current record.
+  call-my-bluff-1993:
+    game_id: call-my-bluff
+    reason: Notes explicitly identify Richard Borg and the 1993 F.X. Schmid game.
+  caverna-the-cave-farmers:
+    game_id: caverna
+    reason: Historical publisher/review URLs name The Cave Farmers, which is the current record's full title.
+  clank-a-deck-building-adventure:
+    game_id: clank
+    reason: Historical Dire Wolf Clank page and retailer listing identify the original deck-building adventure.
+  dragonlord-wee-warriors:
+    game_id: dragonlord
+    reason: Wee Warriors distinguishes the 1976 Bradley Schenck game represented by the current record.
+  dune-2019:
+    game_id: dune
+    reason: Year explicitly selects the current 2019 Gale Force Nine edition.
+  dune-the-board-game:
+    game_id: dune-1979
+    reason: Stored Avalon Hill 1979 review identifies the original edition; it is not the 2019 record.
+  falling-sky:
+    game_id: falling-sky-the-gallic-revolt-against-caesar
+    reason: Stored GMT URL names the full title represented by the current record.
+  faraway-2023:
+    game_id: faraway
+    reason: Historical year and retailer/review URLs identify the 2023 game in the current record.
+  legendary-marvel:
+    game_id: legendary-a-marvel-deck-building-game
+    reason: Stored Upper Deck product URL names the full Marvel deck-building game.
+  missa-lahjat:
+    game_id: missa-lahjat-herra-hakkarainen
+    reason: Historical Wikidata Q11883025 names the Finnish title represented by the current record.
+  panzerkrieg-von-manstein:
+    game_id: panzerkrieg-von-manstein-heeresgruppe-sud
+    reason: Stored references name Panzerkrieg and Von Manstein Battles for the Ukraine, both identified in the current record.
+  seti-search-for-extraterrestrial-intelligence:
+    game_id: seti
+    reason: Historical full title matches the current record; expansion URLs remain expansion evidence only.
+  settlers-of-catan:
+    game_id: catan
+    reason: Stored Catan publisher URL and historical title match the base-game record.
+  the-crew-the-quest-for-planet-nine:
+    game_id: the-crew-quest-for-planet-nine
+    reason: Stored review titles identify Planet Nine, distinguishing it from Mission Deep Sea.

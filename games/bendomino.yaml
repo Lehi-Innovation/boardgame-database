@@ -32,7 +32,7 @@ evokes:
   - Tension
   - Rivalry
   - Agency
-  - Puzzle Solving
+  - "Complete"
 
 possible_counts: [2, 3, 4]
 true_counts: [2, 3]

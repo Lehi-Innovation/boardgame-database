@@ -20,6 +20,9 @@ This is the maintained repository map. Update it when file locations or canonica
 │   ├── product-brief.md        Confirmed owner direction and hypotheses
 │   ├── organization.md         This map and maintenance conventions
 │   ├── development.md          Setup, architecture, commands, verification
+│   ├── catalog-maintenance.md  Identity rules and reviewed repair decisions
+│   ├── discovery-review.md     Representative source and mobile checks
+│   ├── contributions.md        Local suggestion/review procedure
 │   ├── research.md             Curation and provenance workflow
 │   ├── status.md               Dated baseline, known issues, proposed work
 │   └── 00-*.md … 06-*.md       Earlier marketplace/architecture drafts
@@ -27,6 +30,8 @@ This is the maintained repository map. Update it when file locations or canonica
 ├── sources/
 │   ├── README.md               Evidence conventions
 │   ├── lists/                  Award/reviewer nomination enrichment
+│   ├── catalog-identity-decisions.yaml  Reviewed CSV mapping corrections
+│   ├── game-aliases.yaml       Deliberate historical evidence-ID links
 │   └── research-log.yaml       Consulted research evidence
 ├── images/
 │   ├── README.md               Asset workflow
@@ -42,9 +47,10 @@ This is the maintained repository map. Update it when file locations or canonica
 │   ├── package*.json          Dependency manifest and lockfile
 │   ├── server.js              Express application
 │   ├── lib/db.js              SQLite query reader
-│   ├── lib/yaml-handler.js    YAML/CSV reader and legacy endpoints
-│   └── public/                Three HTML pages and shared CSS/JS
+│   ├── lib/yaml-handler.js    YAML reader/cache and snapshot adapter
+│   └── public/                Four HTML pages and shared CSS/JS
 ├── .claude/                    Tool-specific skills, agent, and settings
+├── .local/                    Ignored original suggestion/review SQLite store
 └── archive/                    Inactive records, notes, and experiments
 ```
 
@@ -60,11 +66,12 @@ The locally generated `games.db` and `pipeline_cache.db` live at the root and ar
 | Detailed game metadata | [../games/](../games/) |
 | Nomination provenance | [../sources/lists/](../sources/lists/) |
 | Consulted research evidence | [../sources/research-log.yaml](../sources/research-log.yaml) |
+| Historical evidence-ID mappings | [../sources/game-aliases.yaml](../sources/game-aliases.yaml) |
 | Image origins and permission evidence | [../images/sources.yaml](../images/sources.yaml) |
 | Procedures | [development.md](development.md), [research.md](research.md) |
 | Known issues and proposed priorities | [status.md](status.md) |
 
-The web “Master List” reads the CSV. Source-list nominations enrich it; they do not override researched records. SQLite is a derived read cache, not an additional editable authority.
+The web “Master List” reads a derived catalog snapshot built from the CSV with `scripts/catalog.py`, the same resolver used by Python progress. Source-list nominations enrich it; they do not override researched records. SQLite is a derived read cache, not an additional editable authority.
 
 The schema is descriptive YAML. `scripts/validate_catalog.py` enforces selected structural rules and reads its vocabulary; it is not a complete generated schema contract. `scripts/yaml_utils.py` supplies duplicate-key detection and `scripts/research_log.py` owns coordinated evidence writes. Genre proposals do not silently change current definitions. The earlier marketplace suite is preserved as drafts, not an adopted expansion of the current product scope.
 
@@ -81,9 +88,9 @@ The schema is descriptive YAML. `scripts/validate_catalog.py` enforces selected 
 
 ## Generated files
 
-Ignore `node_modules/`, `.venv/`, Python bytecode, local environment files, logs, temporary output, `games.db`, `pipeline_cache.db`, and SQLite sidecars. Commit dependency manifests and the Node lockfile.
+Ignore `node_modules/`, `.venv/`, Python bytecode, local environment files, logs, temporary output, `.local/`, `games.db`, `pipeline_cache.db`, and SQLite sidecars. Commit dependency manifests and the Node lockfile.
 
-The active CSV and existing Wikidata state are tracked. Inspect importer compatibility and preserve status/mapping columns before updating them. Caches can be rebuilt; they are not provenance records. Preserve existing local caches unless a specific task needs to replace them.
+The active CSV and existing Wikidata state are tracked. Inspect importer compatibility and preserve status/mapping columns before updating them. Caches can be rebuilt; they are not provenance records. `.local/contributions.sqlite` is original user work with review history and needs backups; it is not a cache. Preserve existing local caches unless a specific task needs to replace them.
 
 ## Archive conventions
 

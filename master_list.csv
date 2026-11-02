@@ -95,7 +95,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 38343,Ad Astra,2009,boardgame,,,
 ,Ada's Dream,2025,boardgame,,,adas-dream
 51195,Adaptoid,,boardgame,,,
-,Adel Verpflichtet,1990,boardgame,,,
+120,Adel Verpflichtet,1990,boardgame,,Identity review 2026-11-02: original F.X. Schmid 1990 edition; copied existing cross-reference 120 from the duplicate original-game alias row.,adel-verpflichtet
 39647,Adji-boto,,boardgame,,,
 2942,Admirals,,boardgame,,,
 ,Adugo,,boardgame,,,
@@ -295,7 +295,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 34481,Awithlaknakwe,,boardgame,,,
 ,Awithlaknannai Mosona,,boardgame,,,
 820,Axiom,1988,boardgame,,,
-98,Axis & Allies,1981,boardgame,,,axis-and-allies-battle-of-the-bulge
+98,Axis & Allies,1981,boardgame,,"Identity review 2026-11-01: The mapped record represents the distinct 2006 Battle of the Bulge standalone, not original Axis & Allies.",
 35052,Axis & Allies Anniversary Edition,,boardgame,,,axis-and-allies-anniversary-edition
 22457,Axis & Allies: Battle of the Bulge,2006,boardgame,,,axis-and-allies-battle-of-the-bulge
 10081,Axis & Allies: D-Day,,boardgame,,,axis-and-allies-d-day
@@ -465,7 +465,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 4247,Boarding Party,,boardgame,,,
 32048,Bobbin' Bumblebee,,boardgame,,,
 ,Boekenspel,1957,boardgame,,,
-,Bohnanza,1997,boardgame,,,
+,Bohnanza,1997,boardgame,,Identity review 2026-11-02: AMIGO confirms Rosenberg’s Bohnanza first published in 1997; separate from traditional Das Bohnenspiel.,bohnanza
 413246,Bomb Busters,2024,boardgame,,,
 4646,Bommerz over da Sulphur River,,boardgame,,,
 15839,Bonaparte at Marengo,,boardgame,,,
@@ -590,7 +590,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 826,Cartagena,2000,boardgame,,,
 327076,Cartaventura: Lhasa,2021,boardgame,,,
 263918,Cartographers: A Roll Player Tale,2019,boardgame,,,cartographers
-295947,Cascadia,2022,boardgame,,,
+295947,Cascadia,2021,boardgame,,Identity review 2026-11-02: original publication is 2021 per Flatout Games; 2022 is the Spiel des Jahres year.,cascadia
 ,Cash 'n Guns,2014,boardgame,,,
 19237,Cash'n Guns,,boardgame,,,
 98189,Casse-toi pov' con,2011,boardgame,,,
@@ -640,7 +640,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Chaco,,boardgame,,,
 1827,Chainsaw Warrior,,boardgame,,,
 7654,Challenge The Yankees,,boardgame,,,
-,Challengers,2023,boardgame,,,
+,Challengers,2022,boardgame,duplicate,Identity review 2026-11-02: same original game as existing Challengers! (2022) row; publisher confirms October 2022 release and 2023 awards.,
 ,Challengers!,2022,boardgame,,,
 3104,Chameleon,1990,boardgame,,,chameleon-1990
 ,Chamelequin,,boardgame,,,
@@ -890,7 +890,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 205596,Darwin's Dice,,boardgame,,,
 322289,Darwin's Journey,,boardgame,,,darwins-journey
 1350,Das Amulett,,boardgame,,,
-39271,Das Bohnenspiel,,boardgame,,,
+39271,Das Bohnenspiel,,boardgame,,Identity review 2026-11-02: traditional two-player mancala documented by Ludii and independent teaching rules; previous detailed record incorrectly described Bohnanza.,das-bohnenspiel
 9079,Das kaufmännische Talent,,boardgame,,,das-kaufmannische-talent
 16369,Das Kleine Gespenst,,boardgame,,,
 1773,Dawn of the Dead,,boardgame,,,
@@ -998,7 +998,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 16620,Domination,,boardgame,,,
 ,Dominations: Road to Civilization,2019,boardgame,,,
 7450,Domineering,,boardgame,,,
-,Dominion,2009,boardgame,,,
+,Dominion,2008,boardgame,,Identity review 2026-11-02: Publisher explicitly identifies original first edition as first published in 2008; 2009 is the award year.,dominion
 ,Dominion (Second Edition),2016,boardgame,,,
 210,Don Pepe,,boardgame,,,
 7116,Don't Be Annoyed,1999,boardgame,,,dont-be-annoyed
@@ -1148,7 +1148,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 173442,Empires: Age of Discovery,,boardgame,,,
 938,Enchanted Forest,,boardgame,,,
 2879,Encore,,boardgame,,,
-33160,Endeavor,2009,boardgame,,,endeavor-deep-sea
+33160,Endeavor,2009,boardgame,,"Identity review 2026-11-01: The mapped record is Endeavor Deep Sea, a distinct later game.",
 367966,Endeavor: Deep Sea,2024,boardgame,,,
 ,Endless Winter: Paleoamericans,2022,boardgame,,,
 ,Endodoi,,boardgame,,,
@@ -1561,7 +1561,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 2168,Hitler's War,,boardgame,,,hitlers-war
 90732,Hitstory,,boardgame,,,
 ,Hive,2001,boardgame,,,
-120,Hoity Toity,1990,boardgame,,,
+120,Hoity Toity,1990,boardgame,duplicate,"Identity review 2026-11-02: alias of original Adel Verpflichtet (1990), already represented by that catalog row. The edition first named Hoity Toity is separately cataloged as 2004 Uberplay.",
 3160,Holy War,,boardgame,,,
 26566,Homesteaders,,boardgame,,,
 ,Hong Kong Monopoly,,boardgame,,,hong-kong-monopoly
@@ -1613,7 +1613,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 255674,Imhotep: The Duel,2018,boardgame,,,
 24181,Imperial,,boardgame,,,
 54138,Imperial 2030,2009,boardgame,,,
-3661,Imperium,1977,boardgame,,,imperium-horizons
+3661,Imperium,1977,boardgame,,"Identity review 2026-11-01: The mapped record is the modern Imperium Horizons deck-building game, not the 1977 game.",
 ,Imperium: Horizons,2024,boardgame,,,
 376683,In the Footsteps of Darwin,,boardgame,,,in-the-footsteps-of-darwin
 9022,In the Kingdom of the Polar Bear,1991,boardgame,,,in-the-kingdom-of-the-polar-bear
@@ -1657,7 +1657,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 68182,Isla Dorada,,boardgame,,,
 33812,Island Trader,,boardgame,failed,No identifiable board game by this name,
 ,Island War: Four Pacific Battles,,boardgame,,,island-war-four-pacific-battles
-,Isle of Skye,2016,boardgame,,,isle-of-skye-from-chieftain-to-king
+,Isle of Skye,2015,boardgame,duplicate,Identity review 2026-11-02: Publisher gives 2015 release and 2016 award; the full-title 2015 row with existing cross-reference 176494 already represents this same original game.,
 176494,Isle of Skye: From Chieftain to King,2015,boardgame,,,
 185589,Islebound,2016,boardgame,,,
 1875,Isolation,1972,boardgame,,,
@@ -1730,7 +1730,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 14698,Keep Cool,2004,boardgame,,,
 ,Kelp: Shark vs Octopus,2023,boardgame,,,
 209872,Keltis,,boardgame,,,
-127023,Kemet,2012,boardgame,,,kemet-blood-and-sand
+127023,Kemet,2012,boardgame,,Identity review 2026-11-01: Blood and Sand is a distinct later edition; original Kemet needs its own record or explicit edition evidence.,
 297562,Kemet: Blood and Sand,2021,boardgame,,,
 2197,Kensington,1979,boardgame,,,
 191055,Kerala: The Way of the Elephant,,boardgame,,,kerala-the-way-of-the-elephant
@@ -1914,7 +1914,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 410991,Looot,2024,boardgame,,,
 327,Looping Louie,1992,boardgame,,,loopin-louie
 1536,Lord of the Fries,,boardgame,,,
-823,Lord of the Rings,2000,boardgame,,,lord-of-the-rings-the-confrontation
+823,Lord of the Rings,2000,boardgame,,"Identity review 2026-11-01: The Confrontation is a separate two-player game, not the 2000 cooperative Lord of the Rings.",
 ,Lord of the Rings - The Confrontation,2002,boardgame,,,
 102275,Lord of the Rings: The Adventure Deck Game,,boardgame,,,lord-of-the-rings-the-adventure-deck-game
 18833,Lord of the Rings: The Confrontation,,boardgame,,,
@@ -1957,7 +1957,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,MAATAC,,boardgame,,,
 55670,Macao,,boardgame,,,
 143884,Machi Koro,2012,boardgame,,,
-286,Machiavelli,1977,boardgame,,,citadel
+286,Machiavelli,1977,boardgame,,"Identity review 2026-11-01: Machiavelli is also a localized title for Citadels, but that 2000 game is not the 1977 game.",
 193164,Macroscope,2016,boardgame,,,
 764,Mad Gab,,boardgame,,,
 569,Maestro,1989,boardgame,,,
@@ -2006,7 +2006,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 361958,Maple Valley,2024,boardgame,,,
 ,Maracaibo,2019,boardgame,,,
 3063,March Madness,1991,boardgame,,,
-2280,Marco Polo,1983,boardgame,,,voyages-of-marco-polo
+2280,Marco Polo,1983,boardgame,,"Identity review 2026-11-01: The Voyages of Marco Polo is a separate later game, not the 1983 title.",
 99479,Mare Balticum,,boardgame,,,
 3931,Mare Nostrum,,boardgame,,,
 13881,"Marengo: Napoleon in Italy, 14 June 1800",1975,boardgame,,,marengo-napoleon-in-italy
@@ -2835,7 +2835,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 84419,Space Empires 4X,,boardgame,,,
 ,Space Future,,boardgame,,,
 5685,Space Hop,,boardgame,,,
-2163,Space Hulk,1989,boardgame,,,deathwing
+2163,Space Hulk,1989,boardgame,,"Identity review 2026-11-01: Deathwing is an expansion, not the 1989 base game.",
 71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,space-hulk-death-angel
 ,Space Lines,,boardgame,,,
 25750,Space Marine Assault,,boardgame,,,
@@ -3174,7 +3174,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 25988,The game of fortress and siege,,boardgame,,,
 746,"The Game of France, 1940",,boardgame,,,
 ,The Game of Jaws,,boardgame,,,
-2921,The Game of Life,1960,boardgame,,,jinsei-game
+2921,The Game of Life,1960,boardgame,,"Identity review 2026-11-01: Jinsei Game represents the 1968 Japanese adaptation, not the original 1960 US game.",
 15731,The Game of Life Card Game,,boardgame,,,
 14245,The Game of the District Messenger Boy,,boardgame,,,
 ,The Gang,2024,boardgame,,,
@@ -3462,7 +3462,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 719,Tyranno Ex,1990,boardgame,,,
 3230,Tyros,,boardgame,,,
 31999,Tzaar,2007,boardgame,,,
-126163,Tzolk'in: The Mayan Calendar,2013,boardgame,,,tzolkin-the-mayan-calendar
+126163,Tzolk'in: The Mayan Calendar,2012,boardgame,,Identity review 2026-11-02: Publisher base-game factsheet explicitly gives Q4 2012; the 2013 Tribes & Prophecies expansion is separate.,tzolkin-the-mayan-calendar
 8727,"U.S.N.: The Game of War in the Pacific, 1941–43",1971,boardgame,,,usn-game-of-war-pacific
 16986,Ubongo,2003,boardgame,,,
 46396,Ubongo 3D,,boardgame,,,
@@ -3856,12 +3856,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,EOS: Island of Angels,2024,boardgame,,,
 ,Lure,2024,boardgame,,,
 ,Ahoy,2022,boardgame,,,
-,Bomb Busters,2024,boardgame,,,
-,Dune: The Board Game,2019,boardgame,,,dune-1979
+,Bomb Busters,2024,boardgame,duplicate,Identity review 2026-11-02: duplicate of the Bomb Busters 2024 catalog row with bgg_id 413246; the publisher confirms a 2024 release.,
+,Dune: The Board Game,2019,boardgame,,"Identity review 2026-11-01: The CSV year selects the 2019 Gale Force Nine record, not the 1979 Avalon Hill edition.",dune
 ,Bus,1999,boardgame,,,
 ,Circus Flohcati,1998,boardgame,,,
 ,Unconscious Mind,2024,boardgame,,,
-,Moon Colony Bloodbath,2023,boardgame,,,
+,Moon Colony Bloodbath,2025,boardgame,,"Identity review 2026-11-02: original review identifies a 2025 release; publisher confirms Rio Grande game identity, 1–5 players and 45–90 minutes. Earlier CSV 2023 was not a documented publication.",moon-colony-bloodbath
 ,That Time You Killed Me,2022,boardgame,,,
 ,Planet,2018,boardgame,,,
 ,The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game,2024,boardgame,,,
@@ -4228,7 +4228,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Whale Riders,,boardgame,,,
 ,Lacuna,2020,boardgame,,,
 ,Galactic Renaissance,2023,boardgame,,,
-,DroPolter,2022,boardgame,,,
+,DroPolter,2023,boardgame,,Identity review 2026-11-02: Publisher release field gives 2023 and Japanese/English availability; original CSV 2022 is unsupported.,dropolter
 ,Caesar!: Seize Rome in 20 Minutes!,2021,boardgame,,,caesar-seize-rome
 ,Chinatown,1997,boardgame,,,
 ,Skyrise,2024,boardgame,,,
@@ -4241,3 +4241,6 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Whistle Stop,2017,boardgame,,,
 ,Lanterns: The Harvest Festival,2015,boardgame,,,
 ,New Bedford,2016,boardgame,,,
+,878 Vikings: Invasions of England,2017,boardgame,,Added from independent publisher/rules research on 2026-11-01.,878-vikings-invasions-of-england
+,Clank! Legacy: Acquisitions Incorporated,2019,boardgame,,Added from independent publisher/rules research on 2026-11-01.,clank-legacy-acquisitions-incorporated
+,Hoity Toity,2004,boardgame,,"Identity review 2026-11-02: distinct Uberplay English edition, first to use this title; preserve original 1990 game separately.",hoity-toity

@@ -1,7 +1,7 @@
 id: chess
 name: "Chess"
 alternate_names: []
-year: 1475
+year: null  # Traditional game; no single publication year.
 
 # Relationships
 game_family: null
@@ -22,6 +22,7 @@ hotness: null
 
 categories:
   - Abstract
+  - Traditional
   - Historical
 
 evokes:
@@ -37,10 +38,10 @@ true_counts: [2]
 designer: []
 publisher: []
 artist: []
-playtime_minutes: 60
-min_playtime: 10
-max_playtime: 360
-min_age: 6
+playtime_minutes: 60  # Illustrative estimate; depends on agreed time controls.
+min_playtime: null
+max_playtime: null
+min_age: null  # No universal publisher minimum for traditional chess.
 
 description: |
   Chess is the world's most renowned abstract strategy game, descended from the ancient Indian game chaturanga through Persian shatranj, reaching its modern form in 15th-century Europe. Two players command 16 pieces each — representing different military roles with unique movement rules — on an 8x8 board, seeking to checkmate the opponent's king. With essentially infinite strategic depth and a vast body of theory, openings, and endgame study accumulated over centuries, chess stands unmatched as a game of pure intellectual competition and is played competitively at every level from local clubs to world championship level.
