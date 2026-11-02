@@ -1,11 +1,11 @@
 reviewed_on: '2026-11-02'
 recorded_at: '2026-11-02T14:46:35.502128Z'
 scope: All 13 pre-existing repository images; actual pixels inspected individually
-  with the image viewer. No image bytes edited. Not a rights clearance or exact-printing
-  certification.
+  with the image viewer. Original bytes preserved. Four source-documented publisher
+  replacements were also inspected. Source classification records project policy,
+  not a legal permission grant or exact-printing certification.
 original_assets: 13
-active_assets: 11
-quarantined_assets: 2
+active_assets: 12
 assets:
 - game_id: lost-ruins-of-arnak
   original_file: Lost Ruins of Arnak (2020).png
@@ -95,6 +95,7 @@ assets:
     foreground miniatures and review-award badge. Wrong game and not box-only; quarantined
     unchanged.'
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_publisher
 - game_id: ready-set-bet
   original_file: Ready Set Bet (2022).jpg
   current_path: images/Ready Set Bet (2022).jpg
@@ -115,13 +116,14 @@ assets:
   source_and_permission: unknown
 - game_id: star-wars-rebellion
   original_file: 'Star Wars: Rebellion (2016).png'
-  current_path: 'images/Star Wars: Rebellion (2016).png'
+  current_path: 'archive/2026-11-02/image-audit/Star Wars: Rebellion (2016).png'
   sha256: 845ba693dd2982259db59c21b6df9e82aa00508a09d43611eb2c4bbfe9eae31d
   resolution: 300x302
   decision: title_matches_printing_unresolved
   observations: English Star Wars Rebellion box, Fantasy Flight logo visible. 300×302;
     title readable, fine print limited. Exact printing not established.
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_publisher
 - game_id: wingspan
   original_file: Wingspan (2019).png
   current_path: images/Wingspan (2019).png
@@ -137,8 +139,8 @@ reacquisition_leads:
   page: https://ledergames.com/pages/resources
   finding: Publisher lists Root Base Game & Riverfolk Expansion media kit. This link
     alone does not establish the existing file’s source or unrestricted reuse.
-source_documented_active_assets: 2
-source_unknown_active_assets: 9
+source_documented_active_assets: 4
+source_unknown_active_assets: 8
 replacement_assets:
 - file: Lost Ruins of Arnak (2020).webp
   source_url: https://www.czechgames.com/for-press-games/lost-ruins-of-arnak
@@ -147,6 +149,8 @@ replacement_assets:
   resolution: 1000x882
   permission_evidence_url: https://www.czechgames.com/for-press-games
   review_status: publisher_source_and_title_checked
+  game_id: lost-ruins-of-arnak
+  license: publisher-press-kit
 - file: Codenames (2015).webp
   source_url: https://www.czechgames.com/for-press-games/codenames-2015
   image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8cb4_Box%20image%20%281%29.webp
@@ -154,3 +158,23 @@ replacement_assets:
   resolution: 970x1500
   permission_evidence_url: https://www.czechgames.com/for-press-games
   review_status: publisher_source_and_title_checked
+  game_id: codenames
+  license: publisher-press-kit
+- game_id: star-wars-rebellion
+  file: 'Star Wars: Rebellion (2016).webp'
+  source_url: https://www.fantasyflightgames.com/product/star-wars-rebellion/
+  image_url: https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/image-converter/2026/09/FFG_SW03_Product-Image.webp
+  sha256: 6e119762e647c53d5f9953593bd76b4929c04a6fe4cb06b2cf1b394de8fe686a
+  resolution: 1000x1000
+  license: fair-use
+  review_status: publisher_source_and_title_checked
+- game_id: pandemic-legacy-season-1
+  file: 'Pandemic Legacy: Season 1 (2015).png'
+  source_url: https://www.zmangames.com/game/pandemic-legacy-season-1/
+  image_url: https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/zm7170_box_front_520px.png
+  sha256: 54a404ffd174b90d8d35fd1a6d9b52d4a0e99a6bad2b10771b7be8914bd47b35
+  resolution: 520x520
+  license: fair-use
+  review_status: publisher_source_and_title_checked
+quarantined_original_assets: 2
+quarantined_games_still_without_matching_cover: 1

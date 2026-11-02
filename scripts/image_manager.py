@@ -219,8 +219,11 @@ def cmd_check(games, existing_images):
     tracked = {entry.get("file") for entry in sources.values() if isinstance(entry, dict)}
     for img in sorted(existing_images - tracked):
         print(f"Missing provenance inventory: {img}")
-    unverified = sum(not entry.get("source_url") or not entry.get("license") for entry in sources.values())
-    print(f"Image origin/permission evidence incomplete: {unverified} entries. Filename checks do not verify identity or reuse rights.")
+    active_entries = [entry for entry in sources.values() if entry.get("file") in existing_images
+                      and not str(entry.get("review_status", "")).startswith("quarantined")]
+    unverified = sum(not entry.get("source_url") or not entry.get("license") for entry in active_entries)
+    quarantined = sum(str(entry.get("review_status", "")).startswith("quarantined") for entry in sources.values())
+    print(f"Active assets without source/use-basis evidence: {unverified}; quarantined entries: {quarantined}. Evidence labels do not establish reuse permission.")
 
 
 def main():

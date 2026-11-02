@@ -205,21 +205,28 @@ heat-pedal-to-the-metal:
   notes: Pre-existing repository asset; source, acquisition date, and reuse permission
     are unknown. Filename association is not a visual identity or rights certification.
 pandemic-legacy-season-1:
-  file: 'Pandemic Legacy: Season 1 (2015).webp'
-  source_url: null
+  file: 'Pandemic Legacy: Season 1 (2015).png'
+  source_url: https://www.zmangames.com/game/pandemic-legacy-season-1/
+  image_url: https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/zm7170_box_front_520px.png
+  sha256: 54a404ffd174b90d8d35fd1a6d9b52d4a0e99a6bad2b10771b7be8914bd47b35
+  review_status: publisher_source_and_title_checked
   publisher: Z-Man Games
-  license: null
-  date: null
-  resolution: 937x846
-  sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
-  review_status: quarantined_wrong_game
-  inventory_reviewed_on: '2026-11-01'
-  notes: 'Pixels show original Clank! Legacy: Acquisitions Incorporated with miniatures,
-    not Pandemic Legacy. The composite also fails the box-art-only project policy.
-    Original acquisition and permissions remain unknown. Bytes preserved in archive;
-    not served as this game’s cover.'
+  license: fair-use
+  date: '2026-11-02'
+  resolution: 520x520
+  notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+    page; visually checked English title/base-game identity. Documented fair-use source
+    category under images/FAIR_USE.md: one web-resolution box image for catalog identification,
+    no component gallery or standalone-art distribution. No reuse permission granted
+    or inferred. Publisher directory/Asmodee downloadable-assets page did not provide
+    a readable specific press kit; targeted Wikimedia Commons box-image searches returned
+    no results. Direct permission/outreach not attempted. Original preserved at archive/2026-11-02/image-audit/Pandemic
+    Legacy: Season 1 (2015).webp.'
   visual_reviewed_on: '2026-11-02'
-  archived_file: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season 1 (2015).webp'
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  previous_asset_archived_file: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season
+    1 (2015).webp'
   history:
   - file: 'Pandemic Legacy: Season 1 (2015).webp'
     source_url: null
@@ -232,6 +239,39 @@ pandemic-legacy-season-1:
     inventory_reviewed_on: '2026-11-01'
     notes: Pre-existing repository asset; source, acquisition date, and reuse permission
       are unknown. Filename association is not a visual identity or rights certification.
+  - file: 'Pandemic Legacy: Season 1 (2015).webp'
+    source_url: null
+    publisher: Z-Man Games
+    license: null
+    date: null
+    resolution: 937x846
+    sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
+    review_status: quarantined_wrong_game
+    inventory_reviewed_on: '2026-11-01'
+    notes: 'Pixels show original Clank! Legacy: Acquisitions Incorporated with miniatures,
+      not Pandemic Legacy. The composite also fails the box-art-only project policy.
+      Original acquisition and permissions remain unknown. Bytes preserved in archive;
+      not served as this game’s cover.'
+    visual_reviewed_on: '2026-11-02'
+    archived_file: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season 1 (2015).webp'
+  - file: 'Pandemic Legacy: Season 1 (2015).png'
+    source_url: https://www.zmangames.com/game/pandemic-legacy-season-1/
+    image_url: https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/zm7170_box_front_520px.png
+    sha256: 54a404ffd174b90d8d35fd1a6d9b52d4a0e99a6bad2b10771b7be8914bd47b35
+    review_status: source_recorded_identity_unverified
+    publisher: Z-Man Games
+    license: fair-use
+    date: '2026-11-02'
+    resolution: 520x520
+    notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+      page; visually checked English title/base-game identity. Documented fair-use
+      source category under images/FAIR_USE.md: one web-resolution box image for catalog
+      identification, no component gallery or standalone-art distribution. No reuse
+      permission granted or inferred. Publisher directory/Asmodee downloadable-assets
+      page did not provide a readable specific press kit; targeted Wikimedia Commons
+      box-image searches returned no results. Direct permission/outreach not attempted.
+      Original preserved at archive/2026-11-02/image-audit/Pandemic Legacy: Season
+      1 (2015).webp.'
 ready-set-bet:
   file: Ready Set Bet (2022).jpg
   source_url: null
@@ -257,17 +297,57 @@ root:
   notes: Pre-existing repository asset; source, acquisition date, and reuse permission
     are unknown. Filename association is not a visual identity or rights certification.
 star-wars-rebellion:
-  file: 'Star Wars: Rebellion (2016).png'
-  source_url: null
+  file: 'Star Wars: Rebellion (2016).webp'
+  source_url: https://www.fantasyflightgames.com/product/star-wars-rebellion/
+  image_url: https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/image-converter/2026/09/FFG_SW03_Product-Image.webp
+  sha256: 6e119762e647c53d5f9953593bd76b4929c04a6fe4cb06b2cf1b394de8fe686a
+  review_status: publisher_source_and_title_checked
   publisher: Fantasy Flight Games
-  license: null
-  date: null
-  resolution: 300x302
-  sha256: 845ba693dd2982259db59c21b6df9e82aa00508a09d43611eb2c4bbfe9eae31d
-  review_status: unverified
-  inventory_reviewed_on: '2026-11-01'
-  notes: Pre-existing repository asset; source, acquisition date, and reuse permission
-    are unknown. Filename association is not a visual identity or rights certification.
+  license: fair-use
+  date: '2026-11-02'
+  resolution: 1000x1000
+  notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+    page; visually checked English title/base-game identity. Documented fair-use source
+    category under images/FAIR_USE.md: one web-resolution box image for catalog identification,
+    no component gallery or standalone-art distribution. No reuse permission granted
+    or inferred. Publisher directory/Asmodee downloadable-assets page did not provide
+    a readable specific press kit; targeted Wikimedia Commons box-image searches returned
+    no results. Direct permission/outreach not attempted. Original preserved at archive/2026-11-02/image-audit/Star
+    Wars: Rebellion (2016).png.'
+  visual_reviewed_on: '2026-11-02'
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  previous_asset_archived_file: 'archive/2026-11-02/image-audit/Star Wars: Rebellion
+    (2016).png'
+  history:
+  - file: 'Star Wars: Rebellion (2016).png'
+    source_url: null
+    publisher: Fantasy Flight Games
+    license: null
+    date: null
+    resolution: 300x302
+    sha256: 845ba693dd2982259db59c21b6df9e82aa00508a09d43611eb2c4bbfe9eae31d
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+  - file: 'Star Wars: Rebellion (2016).webp'
+    source_url: https://www.fantasyflightgames.com/product/star-wars-rebellion/
+    image_url: https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/image-converter/2026/09/FFG_SW03_Product-Image.webp
+    sha256: 6e119762e647c53d5f9953593bd76b4929c04a6fe4cb06b2cf1b394de8fe686a
+    review_status: source_recorded_identity_unverified
+    publisher: Fantasy Flight Games
+    license: fair-use
+    date: '2026-11-02'
+    resolution: 1000x1000
+    notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+      page; visually checked English title/base-game identity. Documented fair-use
+      source category under images/FAIR_USE.md: one web-resolution box image for catalog
+      identification, no component gallery or standalone-art distribution. No reuse
+      permission granted or inferred. Publisher directory/Asmodee downloadable-assets
+      page did not provide a readable specific press kit; targeted Wikimedia Commons
+      box-image searches returned no results. Direct permission/outreach not attempted.
+      Original preserved at archive/2026-11-02/image-audit/Star Wars: Rebellion (2016).png.'
 wingspan:
   file: Wingspan (2019).png
   source_url: null
