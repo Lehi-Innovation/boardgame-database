@@ -1616,3 +1616,186 @@ decisions:
   reason: Added explicit Parker German1980 row based on independent edition history and official
     prior-year nomination/1981 award account. Undated Focus row remains pending because MB1982
     Domination is also legitimately Focus.
+- name: Jumbulaya
+  year: 2007
+  yaml_id: jumbulaya
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.toydirectory.com/Monthly/article.asp?id=3600
+  - https://images1.vat19.com/manuals/jumbulaya.pdf
+  - https://www.dadsgamingaddiction.com/jumbulaya/
+  reason: Contemporary trade launchDecember2007, not2008 award year. Inspected scanned rules
+    distinguish ending triggers from point victory and TILE counts from letter counts; review
+    age/time recommendations scoped.
+  previous_record_year: 2008
+- name: Jurassic Parts
+  year: 2020
+  yaml_id: jurassic-parts
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/2147839977/Jurassic-Parts
+  - https://www.purplephoenixgames.com/jurassic-parts-review/
+  - https://gamers-hq.de/media/pdf/97/4d/d3/Jurassic_Parts_Rules_New-5.pdf
+  - https://steamcommunity.com/sharedfiles/filedetails/?id=2168602707
+  reason: Physical25CGG10 inventory and independent retail-copy review identify2020;2021 was
+    later review year. Original English rules confirm2–5/sharedslab and actual illustration
+    versus graphics roles. Age10 is review recommendation, original box label uninspected.
+  previous_record_year: 2021
+- name: Just 4 Fun
+  year: 2006
+  yaml_id: just-4-fun
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.hall9000.de/php/messe_nuernberg_text.php?jahrgang=2006&messe=1&verlag=KOSMOS
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/19556
+  - https://devel.spieletest.at/gesellschaftsspiel/1316/just-4-fun
+  - https://www.yucata.de/en/Rules/Just4Fun2
+  - https://www.spiel-des-jahres.de/spiele/just-4-fun/
+  reason: Represented KOSMOS691523 specifically Nürnberg2006 in contemporary fair press and
+    independent bibliography/reviews. Corrected catalog2005→2006; later references2005 conflict,
+    while contemporary review distinguishes2005 magazineMach4 predecessor. Majority ownership/secure
+    fields,10+ and actual illustration credits clarified.
+  previous_catalog_year: 2005
+- name: Just4Fun Colours
+  year: 2010
+  yaml_id: just4fun-colours
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spieletest.at/gesellschaftsspiel/2753/Just-4-Fun-Colours
+  - https://www.yucata.de/en/Rules/Just4FunColours2
+  - https://www.yumpu.com/de/document/view/23934996/just-4-fun-colours-kosmos
+  reason: Actual June2010 review and licensed rules identify standalone691028 two-to-four-player8+
+    game; corrected2007/9+/false expansion. Separate699291 pockettwo-player rules not transferred;
+    topstone ownership differs from numbered predecessor.
+  previous_record_year: 2007
+- name: K2
+  year: 2010
+  yaml_id: k2
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rulespal.com/k2/rulebook
+  - https://www.orderofgamers.com/games/k2/
+  - https://board-game-rules.com/wp-content/uploads/2025/01/k2_Official-Rules.pdf
+  reason: OriginalREBEL2010 rules transcription and independent bibliography establish2010,Kałuża/Nocoń,1–5/8+/about60.
+    Corrected false2011/artcredits and captain-weather selection. LaterBigBox/expansion facts
+    remain separate.
+  previous_record_year: 2011
+- name: Karuba
+  year: 2015
+  yaml_id: karuba
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://garesys.com/media/rules/haba-karuba-instructions.pdf
+  - https://www.land-oberoesterreich.gv.at/files/publikationen/bi_spielmit.pdf
+  - https://www.spiel-des-jahres.de/spiele/karuba/
+  reason: OriginalHABA300932 English rules©2015 and contemporary teaching catalog explicitly
+    publication2015, distinct2016nomination; corrected catalog2016→2015. Earlier temple arrival
+    earns more valuable treasure, not fewer points.
+  previous_catalog_year: 2016
+- name: Kingdoms
+  year: 1994
+  yaml_id: auf-heller-und-pfennig-1994
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/1375
+  - https://www.spiele4us.de/spiel/auf-heller-und-pfennig/
+  - https://www.dienstac.de/adi/spiele/aufhellerundpfennig.pdf
+  reason: Original1994 HansimGlück AufHellerundPfennig now separate record; not false date
+    match to English fantasyKingdoms2002. Bibliography/physicalinventory establish1994; inspected
+    German rules copy is©1995 reprint, explicitly scoped. Added distinct2002KN03 catalog row.
+- name: Korsar
+  year: 1992
+  yaml_id: pirat-1992
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ggnf.de/spielanleitungen/pirat/pirat.pdf
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/832
+  reason: Award-title alias at1992 selects originalAMIGO Pirat, now separate66card2–5record.
+    ExistingKorsar explicitly revised to Heidelberger2002/Vohwinkel with documented4/6/8teamvariant;
+    added separate2002row, no mixed-version player/deck claims.
+- name: Kamon
+  year: 2007
+  yaml_id: kamon-2007
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brunocathala.com/kamon/
+  - https://regle.escaleajeux.fr/kamon_rg.pdf
+  reason: Creator’s February2007 release and mirroredJactalea rules establish original symbol/quantity
+    game, soleCathala,2/8+/about30. ExistingCosmoludo2020 colors version retained separately,
+    false Remy co-credit removed, explicit2020row added.
+- name: Kula Kula
+  year: 1991
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/kula-kula/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1061
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/884
+  - https://www.luding.org/reviews/bpk/KulaKula.html
+  reason: SeparatePerlhuhn1991 bibliography exists, but consulted detailed rules/review identify
+    laterBlatz1993. Retained original row pending original-edition curation rather than copying
+    later specifications. Added explicitBlatz1993row for corrected canoe/shell/oracle record.
+- name: Tiger game
+  year: null
+  yaml_id: null
+  status: skip
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamescrafters.berkeley.edu/games.php?game=baghchal
+  - ../archive/2026-11-02/family-overviews/tiger-game.yaml
+  reason: Family-level Tiger game overview was archived unchanged in prior checkpoint. This
+    remaining generic CSV row describes no single playable ruleset; markskip rather than leave
+    unmatched or map arbitrarily to NepaliBaghChal. Specific traditional games remain in scope;
+    source ID/row preserved.
+- name: Kingdoms
+  year: 2002
+  yaml_id: kingdoms
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://luding.org/cgi-bin/GameData.py/ENgameid/13833
+  - https://www.boardgame.de/reviews/kingdoms.htm
+  reason: Added explicit originalFFGKN03 English2002 fantasy retheme. Original1994German market
+    game has own record; later2012Kingdoms not silently combined.
+- name: Korsar
+  year: 2002
+  yaml_id: korsar
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/13672
+  - https://www.reich-der-spiele.de/kritiken/Korsar
+  reason: Added explicit Heidelberger2002edition with independent playedreview/bibliography.
+    OriginalAMIGO1992Pirat and later editions remain distinct.
+- name: Kamon
+  year: 2020
+  yaml_id: kamon
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brunocathala.com/kamon-2/
+  - https://www.marches.didacto.com/jeux-de-strategie/6749-kamon-3770015431034.html
+  reason: Added explicitCosmoludo November2020 revision from creator’s datedrelease; color/symbol
+    constraints andDelahayeart separate from originalJactalea2007.
+- name: Kula Kula
+  year: 1993
+  yaml_id: kula-kula
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/kula-kula/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1061
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/884
+  - https://www.luding.org/reviews/bpk/KulaKula.html
+  reason: Added explicitBlatz1993massmarket edition, jury/independentplayedreview. EarlierPerlhuhn1991reference
+    remains pending; no arbitrary edition merge.

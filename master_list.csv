@@ -1693,19 +1693,19 @@ bgg_id,name,year,type,status,notes,yaml_id
 2484,Journey through Europe,,boardgame,,,
 1098,Judge Dredd,,boardgame,,,
 ,jul-gonu,,boardgame,,,
-35548,Jumbulaya,2007,boardgame,,,
+35548,Jumbulaya,2007,boardgame,,"Contemporary trade launchDecember2007, not2008 award year. Inspected scanned rules distinguish ending triggers from point victory and TILE counts from letter counts; review age/time recommendations scoped.",jumbulaya
 4031,Jungle,,boardgame,,,
 191687,Jungle Party,,boardgame,,,
 242,Junta,,boardgame,,,
 84159,Junta: Viva el Presidente!,,boardgame,,,junta-viva-el-presidente
-259857,Jurassic Parts,2020,boardgame,,,
+259857,Jurassic Parts,2020,boardgame,,"Physical25CGG10 inventory and independent retail-copy review identify2020;2021 was later review year. Original English rules confirm2–5/sharedslab and actual illustration versus graphics roles. Age10 is review recommendation, original box label uninspected.",jurassic-parts
 241164,Jurassic Snack,,boardgame,,,
 352567,Jurassic World: The Legacy of Isla Nublar,,boardgame,,,jurassic-world-the-legacy-of-isla-nublar
-17534,Just 4 Fun,2005,boardgame,,,
+17534,Just 4 Fun,2006,boardgame,,"Represented KOSMOS691523 specifically Nürnberg2006 in contemporary fair press and independent bibliography/reviews. Corrected catalog2005→2006; later references2005 conflict, while contemporary review distinguishes2005 magazineMach4 predecessor. Majority ownership/secure fields,10+ and actual illustration credits clarified.",just-4-fun
 ,Just One,2018,boardgame,,,
-66590,Just4Fun Colours,2010,boardgame,,,
+66590,Just4Fun Colours,2010,boardgame,,Actual June2010 review and licensed rules identify standalone691028 two-to-four-player8+ game; corrected2007/9+/false expansion. Separate699291 pockettwo-player rules not transferred; topstone ownership differs from numbered predecessor.,just4fun-colours
 22221,K'dor,,boardgame,failed,No sources found,
-73761,K2,2010,boardgame,,,
+73761,K2,2010,boardgame,,"OriginalREBEL2010 rules transcription and independent bibliography establish2010,Kałuża/Nocoń,1–5/8+/about60. Corrected false2011/artcredits and captain-weather selection. LaterBigBox/expansion facts remain separate.",k2
 ,Ka-Bala,,boardgame,,,
 394,Kahuna,1998,boardgame,,,
 ,Kakelorum,,boardgame,,,
@@ -1714,7 +1714,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 4813,Kamakura,1982,boardgame,,,
 ,Kami,,boardgame,,,
 38545,Kamisado,,boardgame,,,
-28738,Kamon,2007,boardgame,,,
+28738,Kamon,2007,boardgame,,"Creator’s February2007 release and mirroredJactalea rules establish original symbol/quantity game, soleCathala,2/8+/about30. ExistingCosmoludo2020 colors version retained separately, false Remy co-credit removed, explicit2020row added.",kamon-2007
 21918,Kampen om Rai,,boardgame,,,kampen-om-rai
 ,"KampfPanzer: Armored Combat, 1937–40",,boardgame,,,kampfpanzer
 200147,Kanagawa,,boardgame,,,
@@ -1723,7 +1723,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Kaplansky's game,,boardgame,,,kaplansky-s-game
 940,Karawane,,boardgame,,,
 ,Karma,,boardgame,,,
-183251,Karuba,2016,boardgame,,,
+183251,Karuba,2015,boardgame,,"OriginalHABA300932 English rules©2015 and contemporary teaching catalog explicitly publication2015, distinct2016nomination; corrected catalog2016→2015. Earlier temple arrival earns more valuable treasure, not fewer points.",karuba
 8736,Kasserine Pass,,boardgame,,,
 233502,katarenga,,boardgame,,,
 39481,Katro,,boardgame,,,
@@ -1762,7 +1762,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 107529,Kingdom Builder,2011,boardgame,,,
 ,Kingdom Death: Monster,2015,boardgame,,,
 ,Kingdomino,2017,boardgame,,,
-119,Kingdoms,1994,boardgame,,,
+119,Kingdoms,1994,boardgame,,"Original1994 HansimGlück AufHellerundPfennig now separate record; not false date match to English fantasyKingdoms2002. Bibliography/physicalinventory establish1994; inspected German rules copy is©1995 reprint, explicitly scoped. Added distinct2002KN03 catalog row.",auf-heller-und-pfennig-1994
 987,Kingmaker,1974,boardgame,,,
 25693,Kings & Castles,1980,boardgame,,,kings-and-castles
 58,Kings & Things,,boardgame,,,kings-and-things
@@ -1781,7 +1781,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 8122,Konane,,boardgame,,,
 135,Kontor,,boardgame,,,
 6005,Korea: The Mobile War,,boardgame,,,korea-the-mobile-war
-,Korsar,1992,boardgame,,,
+,Korsar,1992,boardgame,,"Award-title alias at1992 selects originalAMIGO Pirat, now separate66card2–5record. ExistingKorsar explicitly revised to Heidelberger2002/Vohwinkel with documented4/6/8teamvariant; added separate2002row, no mixed-version player/deck claims.",pirat-1992
 13182,Korsun Pocket: Little Stalingrad on the Dnepr,,boardgame,,,korsun-pocket
 140535,Koryŏ,,boardgame,,,koryo
 ,Kotra,,boardgame,,,
@@ -1799,7 +1799,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 26873,Kruzno,,boardgame,,,
 7694,Krypto,,boardgame,,,
 164354,Kryptos,,boardgame,,,
-1703,Kula Kula,1991,boardgame,,,
+1703,Kula Kula,1991,boardgame,,"SeparatePerlhuhn1991 bibliography exists, but consulted detailed rules/review identify laterBlatz1993. Retained original row pending original-edition curation rather than copying later specifications. Added explicitBlatz1993row for corrected canoe/shell/oracle record.",
 108831,Kulami,,boardgame,,,
 3036,Kung Fu 2100,1980,boardgame,,,kung-fu-2100
 ,Kunglig ludo,,boardgame,,,
@@ -3347,7 +3347,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 232444,Tief im Riff,2017,boardgame,,,
 39210,Tier auf Tier: Das Duell,,boardgame,,"Original HABA multilingual 4340, 2008: primary rules name Peise/Miltenberger, Bayer, two/5+/about ten minutes and simultaneous race to three coins. Contemporary January 2009 play review explicitly labels Jahrgang 2008. Removed false alias from unrelated Kuhhandel/You’re Bluffing!.",tier-auf-tier-das-duell
 22206,Tieto & Taito & Temppu,2002,boardgame,,,
-,Tiger game,,boardgame,,,
+,Tiger game,,boardgame,skip,Family-level Tiger game overview was archived unchanged in prior checkpoint. This remaining generic CSV row describes no single playable ruleset; markskip rather than leave unmatched or map arbitrarily to NepaliBaghChal. Specific traditional games remain in scope; source ID/row preserved.,
 42,Tigris and Euphrates,1997,boardgame,,,
 54,Tikal,,boardgame,,,
 34373,Tiki Topple,2008,boardgame,,,
@@ -4256,3 +4256,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Next Station: London,2022,boardgame,,"Added explicit original Blue Orange English2022 row, with publisher/rules and actual May2022 review. Generic2023 reference stays pending; no source identifier invented.",next-station-london
 ,Call My Bluff,1997,boardgame,,"Added explicit F.X.Schmid U.S.A. English1997 row, independently dated in creator-interview/played-copy review and bibliography. Separate GermanBluff1993 retained; no discovery ID invented.",call-my-bluff
 ,Focus,1980,boardgame,,Added explicit Parker German1980 row based on independent edition history and official prior-year nomination/1981 award account. Undated Focus row remains pending because MB1982 Domination is also legitimately Focus.,focus
+,Kingdoms,2002,boardgame,,Added explicit originalFFGKN03 English2002 fantasy retheme. Original1994German market game has own record; later2012Kingdoms not silently combined.,kingdoms
+,Korsar,2002,boardgame,,Added explicit Heidelberger2002edition with independent playedreview/bibliography. OriginalAMIGO1992Pirat and later editions remain distinct.,korsar
+,Kamon,2020,boardgame,,Added explicitCosmoludo November2020 revision from creator’s datedrelease; color/symbol constraints andDelahayeart separate from originalJactalea2007.,kamon
+,Kula Kula,1993,boardgame,,"Added explicitBlatz1993massmarket edition, jury/independentplayedreview. EarlierPerlhuhn1991reference remains pending; no arbitrary edition merge.",kula-kula

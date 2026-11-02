@@ -1,11 +1,11 @@
 id: k2
 name: "K2"
 alternate_names: []
-year: 2011
+year: 2010
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original REBEL.pl base game (2010), English rules"
 base_game: null
 expansions: []
 compatible_with: []
@@ -41,16 +41,30 @@ true_counts: [2, 3, 4]
 designer:
   - Adam Kałuża
 publisher:
-  - Rebel Studio
+  - REBEL.pl
 artist:
-  - Piotr Foksowicz
-  - Zbigniew Umgelter
+  - Jarek Nocoń
 playtime_minutes: 60
-min_playtime: 45
-max_playtime: 75
+min_playtime: 60
+max_playtime: 60
 min_age: 8
 
 description: |
-  K2 is a hand management game where players control two mountaineers racing to summit the world's second-highest and most deadly peak. Each player has an identical deck of movement and acclimatization cards; the captain each round picks a weather tile affecting conditions for all climbers. Players must balance climbing speed against acclimatization — move too fast without adjusting and your climbers risk dying. The double-sided board and variable weather create four combinations of difficulty. Notable as the first Polish game ever nominated for the Spiel des Jahres, K2 offers a gripping survival tension rarely matched in its weight class.
+  In K2, guide two mountaineers upward and keep them alive through an eighteen-day
+  expedition. Everyone chooses three cards from a hand of six simultaneously,
+  then resolves movement and acclimatization in turn. Limited room on the route
+  can block a climber, and playing the most movement may require taking a risk
+  penalty. Tents offer protection but must be placed where they will be useful.
+
+  Weather follows shuffled tiles with a visible forecast; the starting player
+  does not choose a new weather condition each round. Higher camps and bad
+  weather drain acclimatization, so a summit push can sacrifice a climber's
+  accumulated score if survival is neglected. Score the heights reached by
+  surviving climbers. Easier/harder routes and summer/winter weather adjust the
+  challenge, and the original rules also support solo play.
+
+# Original2010 rules credit Nocoń, confirm1–5/8+/about60, and describe advancing
+# forecast tiles. Later BigBox illustration/expansion credits are separate.
+# Time label is approximate; preferred counts and experience estimates provisional.
 
 upgrades: []

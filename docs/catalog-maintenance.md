@@ -118,7 +118,16 @@ Two category-level YAMLs, `tiger-game` and
 `third-reich-great-pacific-war-series`, are now [archived unchanged](../archive/2026-11-02/README.md)
 as family overviews. Their dates, player counts and ratings did not identify
 one playable game. The latter also blended separate publishers' game lines;
-its discovery row is an explained `skip`. Neither retired ID had historical
+both family discovery rows are explained `skip` entries. Neither retired ID had historical
 evidence entries or owner history, and neither redirects to an arbitrary member.
 Specific Bagh-Chal and Advanced Third Reich remain active. This is an entity-scope
 correction, not evidence that every game within either family has been researched.
+
+Other reviewed rethemes remain separate as well: original Jactalea **Kamon (2007)**
+uses symbol quantities while Cosmoludo's **2020** revision uses colors; original
+AMIGO **Pirat (1992)** has its own 66-card/two-to-five-player rules, separate from
+Heidelberger **Korsar (2002)** and its extra partnership seats. **Auf Heller und
+Pfennig (1994)** represents the German marketplace, while **Kingdoms (2002)**
+represents FFG's fantasy retheme. The consulted German market-game rules are a
+©1995 reprint; they do not establish an original 1995 release. Dated rows identify
+the appropriate record without inventing external discovery IDs.

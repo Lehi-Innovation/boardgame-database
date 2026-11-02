@@ -4,8 +4,8 @@ alternate_names: []
 year: 2020
 
 # Relationships
-game_family: null
-edition: null
+game_family: kamon
+edition: "Cosmoludo revision (November 2020)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 0  # Snack
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from forced moves and direct blocking
 
 value: 1  # Budget
 
@@ -38,16 +38,31 @@ true_counts: [2]
 
 designer:
   - Bruno Cathala
-  - Remy Cathala
 publisher:
   - Cosmoludo
-artist: []
-playtime_minutes: 10
-min_playtime: 10
+artist:
+  - Tom Delahaye
+playtime_minutes: 20
+min_playtime: 20
 max_playtime: 20
-min_age: 8
+min_age: 7
 
 description: |
-  Kamon is a two-player abstract strategy game played on a hexagonal grid of 37 tokens, each showing one of six colors and one of six symbols. On each turn, a player places a pawn, but the color or symbol of that token dictates which tokens their opponent may choose next — creating cascading constraints. Victory comes through one of three paths: connecting opposite board edges, forming a loop with your pawns, or locking out your opponent. Designed by Bruno Cathala, Kamon is an elegantly simple game that conceals surprising strategic depth.
+  This is Cosmoludo's 2020 revision of Bruno Cathala's two-player connection
+  game. Tokens with colors and symbols are arranged on a hexagonal board.
+  Your placement determines the opponent's next choices: they must use an
+  available space matching either that color or that symbol. The options narrow
+  as the board fills, rewarding attention to the reply you are forcing.
+
+  Win by connecting opposite matching board edges, surrounding at least one
+  space you do not control, or leaving the opponent without a legal move. One
+  blank space remains blocked. It is a short contest over both connections and
+  movement constraints. The original Jactalea edition is separate and matches
+  symbol counts instead of this edition's colors.
+
+# Creator's contemporaneous November2020 entry supplies7+/20 minutes; later
+# retailer labels8+/10–15 differ and are not treated as the original label.
+# Sole design credit Cathala; Delahaye illustration from licensed teaching/product
+# evidence. Physical first-printing label uninspected; experience estimates provisional.
 
 upgrades: []

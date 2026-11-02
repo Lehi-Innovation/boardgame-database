@@ -2,20 +2,20 @@ id: just4fun-colours
 name: "Just4Fun Colours"
 alternate_names:
   - Just 4 Fun Colours
-year: 2007
+year: 2010
 
 # Relationships
-game_family: null
-edition: null
-base_game: just-4-fun
+game_family: just-4-fun
+edition: "KOSMOS German 691028, standalone 2–4-player edition (2010)"
+base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
+length: 1  # Appetizer; provisional estimate
+rules_complexity: 1  # Elementary; provisional estimate
 strategic_depth: 1  # Light
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from directly taking occupied spaces
 
 value: 1  # Budget
 
@@ -43,13 +43,30 @@ designer:
   - Jürgen P. Grunau
 publisher:
   - KOSMOS
-artist: []
+artist:
+  - Mirko Suzuki
 playtime_minutes: 25
 min_playtime: 20
 max_playtime: 30
-min_age: 9
+min_age: 8
 
 description: |
-  Just4Fun Colours is a color-based variant of Just 4 Fun by Jürgen Grunau and KOSMOS. Players play color cards from their hand to place stackable stones on matching colored spaces on the game board, aiming to form a line of four in a row. When a space is already occupied, the active player must play additional color cards to build on top — making contested spaces increasingly costly. The color-based version is slightly more accessible than the number-based original, while preserving the same quick, engaging four-in-a-row competitive tension.
+  Just4Fun Colours is a standalone color-based relative of Just 4 Fun. Play
+  matching color cards to place a stone on an empty space or on top of a stack.
+  An occupied space costs one more card than the stack's height, and whoever
+  has the top stone controls it. Unlike the numbered game, control does not
+  depend on having the most stones of your color in that space.
+
+  Make a horizontal, vertical or diagonal line of four controlled spaces to
+  win. If nobody does so after twenty turns each, compare the largest connected
+  areas, using horizontal and vertical connections. Rising costs make taking
+  a useful space easier early than late. This record represents the larger
+  two-to-four-player KOSMOS set; the separate two-player travel package has
+  different component quantities. No copy of the numbered game is required.
+
+# Contemporary2010 played review and licensed Yucata rules establish standalone
+# 2–4/8+,80stones. Mirrored699291 rules describe the separate two-player package
+# and advertise691028; those30stone counts were not assigned to this record.
+# Duration, preferred counts and experience ratings remain provisional.
 
 upgrades: []

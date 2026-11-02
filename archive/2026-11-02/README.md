@@ -47,6 +47,8 @@ identify the four-tiger/twenty-goat game, not the entire hunt-game family.
 [Avalanche Press's rules introduction](https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf)
 distinguishes Third Reich, Great Pacific War and their combined Second World War
 rules. Those are not alternative names for Avalon Hill's Advanced Third Reich.
+Both generic family discovery rows are explained `skip` entries; the Tiger game
+row was found and reconciled in the subsequent source-review batch.
 The active records' consulted evidence explains the distinctions; the archived
 descriptions remain historical errors, not approved replacement text.
 

@@ -1,0 +1,65 @@
+id: pirat-1992
+name: "Pirat"
+alternate_names:
+  - "Korsar"
+year: 1992
+game_family: pirat
+edition: "Original AMIGO German 66-card edition (1992)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience/duration estimates; personal ratings unset.
+length: 1
+rules_complexity: 1
+strategic_depth: 1
+feel: 4
+value: 1
+affinity: null
+hotness: null
+categories:
+  - Hand Management
+  - Take That
+  - Bluffing
+  - Family
+  - Pirates
+  - Reiner Knizia
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Humor
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+designer:
+  - Reiner Knizia
+publisher:
+  - AMIGO Spiel + Freizeit GmbH
+artist: []
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  Pirat is Reiner Knizia's original AMIGO pirate card game, published in 1992.
+  Send a merchant ship to sea and hope it survives a trip around the table,
+  or attack another exposed ship with a colored pirate fleet. At the beginning
+  of your turn, collect ships you have successfully protected or held with the
+  strongest attack. Ties keep a prize contested until someone changes the balance.
+
+  The original set has twenty-one merchant ships, forty pirate ships, four
+  pirates and an admiral. Draw a card or play one, balancing the lure of a richer
+  fleet against the danger of handing a rival an easy prize. Merchant ships
+  still in your hand subtract from the gold you have collected. Most net gold
+  wins. This two-to-five-player original is separate from later Korsar editions
+  and their additional partnership options.
+
+# Visually read mirrored original rules:2–5,10+,66cards, AMIGO MCMXCII copyright;
+# independent bibliography establishes publication1992 and Knizia design.
+# Times/preferences/ratings are estimates, not original-box label claims.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []
