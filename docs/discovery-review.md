@@ -20,7 +20,7 @@ Follow-up identity research also corrected Das Bohnenspiel to a traditional two-
 Additional researched records close concrete gaps: original 878 Vikings resolves
 the missing historical evidence ID, and original Clank! Legacy adds a sourced campaign
 game. Subsequent pixel inspection found that its apparent cover actually represented
-the sequel; the misnamed asset is quarantined. Experience ratings, evokes, and suggested counts
+the sequel; the misnamed asset is quarantined and a separately sourced original-game cover is active. Experience ratings, evokes, and suggested counts
 remain provisional estimates. Unknown first-edition facts remain unknown.
 
 The exclusion review added Mū Tōrere and Nine Men's Morris on 2026-11-02 from
@@ -51,6 +51,14 @@ Chromium at 390, 768, and 1280 pixels. It visits all four pages, checks horizont
 overflow and browser errors, uses an experience shortcut, checks its URL filter,
 opens a game and submits a correction. A navigation overflow at 390 pixels was
 found and fixed. The check prints full-page screenshot paths for inspection.
+
+On 2026-11-02, a read-only browser check against the real catalog loaded all 13
+active covers in cards and details at the same three widths (39 cases). It found
+that cropped images hid the title and publisher mark on tall boxes such as
+Codenames. Cards and both detail views now fit the whole box. All 39 cases passed
+image decoding, whole-cover styling and horizontal-overflow checks without page
+errors. The image manager also retains search text entered while its catalog is
+loading, so early input is applied when the results arrive.
 
 The isolated HTTP suite additionally checks a supported group of sixteen separately
 from estimated preferred counts, complete YAML/SQLite payload equality, immediate

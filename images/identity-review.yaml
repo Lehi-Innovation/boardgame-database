@@ -1,11 +1,11 @@
 reviewed_on: '2026-11-02'
 recorded_at: '2026-11-02T14:46:35.502128Z'
-scope: All 13 pre-existing repository images; actual pixels inspected individually
-  with the image viewer. Original bytes preserved. Four source-documented publisher
-  replacements were also inspected. Source classification records project policy,
-  not a legal permission grant or exact-printing certification.
+scope: All 13 pre-existing assets individually pixel-inspected. Documented replacements
+  and exact-byte reacquisitions below were also inspected. All original bytes preserved.
+  Source classification follows project policy, not a legal permission grant or exact-printing
+  certification.
 original_assets: 13
-active_assets: 12
+active_assets: 13
 assets:
 - game_id: lost-ruins-of-arnak
   original_file: Lost Ruins of Arnak (2020).png
@@ -26,18 +26,21 @@ assets:
   observations: English 7 Wonders Duel box; Bauza/Cathala credits and two-player icon
     visible. Clear package; exact printing not established.
   source_and_permission: unknown
+  disposition: byte_identical_publisher_reacquisition
 - game_id: 7-wonders
   original_file: 7 Wonders (2010).png
-  current_path: images/7 Wonders (2010).png
+  current_path: archive/2026-11-02/image-audit/7 Wonders (2010).png
   sha256: 9a98bb93da346003423ea499eb77092d0a7b00664a96dfea63047fdf23797dbd
   resolution: 300x332
-  decision: title_matches_printing_unresolved
-  observations: English 7 Wonders front cover with Repos logo and Bauza credit. At
-    300×332, title readable but smaller details limited; exact printing not established.
+  decision: replaced_wrong_edition
+  observations: Original 300×332 cover uses later blue-border/title artwork also shown
+    by Repos current page. Replaced for the explicitly original-edition record with
+    the retailer’s first-edition gold-plaque-title box; original preserved unchanged.
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_documented_source
 - game_id: a-feast-for-odin
   original_file: A Feast for Odin (2016).webp
-  current_path: images/A Feast for Odin (2016).webp
+  current_path: archive/2026-11-02/image-audit/A Feast for Odin (2016).webp
   sha256: db368608b60fdd504ed245f39aba9be68fac89c1dfc37c2649f8158fd8b35c07
   resolution: 1500x1500
   decision: title_matches_printing_unresolved
@@ -45,6 +48,7 @@ assets:
     logo. English publisher differs from the inventory’s original-publisher label;
     not evidence of a different game. Exact printing not established.
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_documented_source
 - game_id: clank-legacy-acquisitions-incorporated
   original_file: Clank_ Legacy_ Acquisitions Incorporated (2019).jpg
   current_path: archive/2026-11-02/image-audit/Clank_ Legacy_ Acquisitions Incorporated
@@ -55,6 +59,7 @@ assets:
   observations: Box title explicitly includes Legacy 2 and Darkest Magic. Wrong game
     for 2019 original; quarantined unchanged.
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_documented_source
 - game_id: codenames
   original_file: Codenames (2016).webp
   current_path: archive/2026-11-02/image-audit/Codenames (2016).webp
@@ -68,7 +73,7 @@ assets:
   disposition: preserved_predecessor_replaced_from_publisher
 - game_id: dixit
   original_file: Dixit (2008).jpg
-  current_path: images/Dixit (2008).jpg
+  current_path: archive/2026-11-02/image-audit/Dixit (2008).jpg
   sha256: 7501500b1a3950a65b3edd4b8d0b89013e5120fb342ace3ee7784d887da04bf3
   resolution: 1500x1500
   decision: title_matches_printing_unresolved
@@ -76,6 +81,7 @@ assets:
     credits, Libellud logo; clear artwork. Refreshed packaging may differ from original
     2008 printing; exact edition requires further evidence.
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_documented_source
 - game_id: heat-pedal-to-the-metal
   original_file: 'Heat: Pedal to the Metal (2022).webp'
   current_path: 'images/Heat: Pedal to the Metal (2022).webp'
@@ -85,6 +91,7 @@ assets:
   observations: 'Heat: Pedal to the Metal box with Days of Wonder, Granerud and Pedersen
     credits. Clear title and full package; exact printing not established.'
   source_and_permission: unknown
+  disposition: byte_identical_publisher_reacquisition
 - game_id: pandemic-legacy-season-1
   original_file: 'Pandemic Legacy: Season 1 (2015).webp'
   current_path: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season 1 (2015).webp'
@@ -98,22 +105,24 @@ assets:
   disposition: preserved_predecessor_replaced_from_publisher
 - game_id: ready-set-bet
   original_file: Ready Set Bet (2022).jpg
-  current_path: images/Ready Set Bet (2022).jpg
+  current_path: archive/2026-11-02/image-audit/Ready Set Bet (2022).jpg
   sha256: fc46f99d09e90373a7390a471766e65a50b2faaa880eeed17f9ac60b8eba1582
   resolution: 600x600
   decision: title_matches_printing_unresolved
   observations: Ready Set Bet front, John D Clair and AEG visible; 600×600, legible
     title. Exact printing not established.
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_documented_source
 - game_id: root
   original_file: Root (2018).webp
-  current_path: images/Root (2018).webp
+  current_path: archive/2026-11-02/image-audit/Root (2018).webp
   sha256: 719c93d5f26659d43a69dd798949d72ed2869daab17ca5e91ab3c5d5fee37f3e
   resolution: 766x600
   decision: title_matches_printing_unresolved
   observations: 'English Root: A Game of Woodland Might and Right front, woodland
     animals and logo clear. Rectangular 766×600; exact printing not established.'
   source_and_permission: unknown
+  disposition: preserved_predecessor_replaced_from_publisher
 - game_id: star-wars-rebellion
   original_file: 'Star Wars: Rebellion (2016).png'
   current_path: 'archive/2026-11-02/image-audit/Star Wars: Rebellion (2016).png'
@@ -126,7 +135,7 @@ assets:
   disposition: preserved_predecessor_replaced_from_publisher
 - game_id: wingspan
   original_file: Wingspan (2019).png
-  current_path: images/Wingspan (2019).png
+  current_path: archive/2026-11-02/image-audit/Wingspan (2019).png
   sha256: d5140b45c3cad24702e9838ec68044d269fadcf17a202db0ef4d9e95d5496d22
   resolution: 1216x1536
   decision: title_matches_printing_unresolved
@@ -134,13 +143,10 @@ assets:
     and illustrator credits. Clear full package; front art alone does not establish
     original versus later printing.
   source_and_permission: unknown
-reacquisition_leads:
-- game_id: root
-  page: https://ledergames.com/pages/resources
-  finding: Publisher lists Root Base Game & Riverfolk Expansion media kit. This link
-    alone does not establish the existing file’s source or unrestricted reuse.
-source_documented_active_assets: 4
-source_unknown_active_assets: 8
+  disposition: preserved_predecessor_replaced_from_documented_source
+reacquisition_leads: []
+source_documented_active_assets: 13
+source_unknown_active_assets: 0
 replacement_assets:
 - file: Lost Ruins of Arnak (2020).webp
   source_url: https://www.czechgames.com/for-press-games/lost-ruins-of-arnak
@@ -176,5 +182,90 @@ replacement_assets:
   resolution: 520x520
   license: fair-use
   review_status: publisher_source_and_title_checked
-quarantined_original_assets: 2
-quarantined_games_still_without_matching_cover: 1
+- game_id: root
+  file: Root (2018).png
+  source_url: https://ledergames.com/pages/resources
+  image_url: https://drive.google.com/file/d/1LmE9lYe2EaU6XCo4BdFH16Zj5ehBor4q/view
+  sha256: c6fea9b9f0fc21e6206221ea92da6213e690be356e2bdaea94e7ae68d0e428f4
+  resolution: 1500x1174
+  license: publisher-press-kit
+  review_status: publisher_source_and_title_checked
+- game_id: ready-set-bet
+  file: Ready Set Bet (2022).webp
+  source_url: https://alderacstore.com/ready-set-bet/
+  image_url: https://cdn11.bigcommerce.com/s-86h53ibcga/images/stencil/1280x1280/products/639/2442/RSB_3D__66577.1725910564.png?c=2
+  sha256: c4e8e2cb78513bf0f77a84cf2a422c729226d1f10a5f5c29830f23310f9cd10f
+  resolution: 1280x1280
+  license: fair-use
+  review_status: source_and_title_checked
+- game_id: wingspan
+  file: Wingspan (2019).png
+  source_url: https://store.stonemaiergames.com/products/wingspan
+  image_url: https://store.stonemaiergames.com/cdn/shop/products/3d-wingspan_1200x1200.png?v=1569132201
+  sha256: 2297b70bb62097ed3f043e50da1cd548ba8ab2ca048b3d896e510725b63b6f3e
+  resolution: 950x1200
+  license: fair-use
+  review_status: source_and_title_checked
+- game_id: clank-legacy-acquisitions-incorporated
+  file: 'Clank! Legacy: Acquisitions Incorporated (2019).png'
+  source_url: https://www.thegamesteward.com/products/clank-legacy-acquisitions-incorporated-board-game
+  image_url: https://www.thegamesteward.com/cdn/shop/products/clank-legacy-acquisitions-incorporated-retail-edition-retail-board-game-dire-wolf-digital-34732938461336_1200x.png?v=1634382044
+  sha256: b626a9bf31d30c2c238dafd2f41c07c53946acf388a93e0910211ca245646540
+  resolution: 1200x883
+  license: fair-use
+  review_status: source_and_title_checked
+- game_id: 7-wonders
+  file: 7 Wonders (2010).jpg
+  source_url: https://www.nobleknight.com/P/2147440562/7-Wonders
+  image_url: https://image.nobleknight.com/a/jpg1500/asmsev-en01.jpg
+  sha256: f7376f62b6e1067452c0371bcb573786de0ffcef1069f9ad6988c8bd06253ffc
+  resolution: 1500x1500
+  license: fair-use
+  review_status: source_and_title_checked
+- game_id: a-feast-for-odin
+  file: A Feast for Odin (2016).jpg
+  source_url: https://www.nobleknight.com/P/2147673765/Feast-for-Odin-A
+  image_url: https://image.nobleknight.com/z/jpg1500/zmgzm7690.jpg
+  sha256: 5ea6ed534dc10248eafc5dd3ce8503243f4645ebe8f2bba15c576473069483c0
+  resolution: 1500x1500
+  license: fair-use
+  review_status: source_and_title_checked
+- game_id: dixit
+  file: Dixit (2008).jpg
+  source_url: https://chess.co.uk/products/dixit-board-game
+  image_url: https://chess.co.uk/cdn/shop/products/dixit-board-game.jpg?v=1617713287
+  sha256: 2bc48acd60c57a35bf1904aa91a95fb27a07aa36e4911ff661267a6081d405d5
+  resolution: 911x1000
+  license: fair-use
+  review_status: source_and_title_checked
+quarantined_games_still_without_matching_cover: 0
+byte_identical_reacquisitions:
+- game_id: 7-wonders-duel
+  file: '7 Wonders: Duel (2015).png'
+  source_url: https://www.rprod.com/en/games/7-wonders-duel
+  image_url: https://cdn.svc.asmodee.net/production-rprod/storage/games/7-wonders-duel/57du-3dmockup-1597826159KUURt-large.png
+  sha256: 3411f81702a2da8ebff3b94483315443447245753451644276dc10fe68292628
+  resolution: 800x945
+  license: fair-use
+  review_status: publisher_source_and_title_checked
+- game_id: heat-pedal-to-the-metal
+  file: 'Heat: Pedal to the Metal (2022).webp'
+  source_url: https://www.daysofwonder.com/game/heat/
+  image_url: https://cdn.svc.asmodee.net/production-daysofwonder/uploads/image-converter/2024/07/9101-HT-elevation-left-EN-1.webp
+  sha256: 9fc66a9744bc50b9ac679df042a6e5775f039ecfc00a93c0bbaeba18cc1bbd15
+  resolution: 1498x1500
+  license: fair-use
+  review_status: publisher_source_and_title_checked
+last_updated_at: '2026-11-02T15:40:56.203100Z'
+original_wrong_game_assets: 2
+original_wrong_edition_assets: 1
+archived_original_assets: 11
+byte_identical_originals_retained: 2
+remaining_asset_limitations:
+- Source/use-basis classification is not an unrestricted permission grant. Three assets
+  are publisher media resources; ten use the documented fair-use category of existing
+  project policy.
+- Retailer first-edition 7 Wonders image is soft despite its 1500px dimensions. A
+  sharper correctly identified source would improve it.
+- Physical manufacturing printing/date is not inferred from a box image or the game’s
+  first-publication year.

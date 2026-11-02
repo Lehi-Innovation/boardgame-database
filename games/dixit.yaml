@@ -5,7 +5,7 @@ year: 2008
 
 # Relationships
 game_family: null
-edition: null
+edition: Earlier six-player game; not the refreshed 3–8 player edition
 base_game: null
 expansions: []
 compatible_with: []
@@ -40,7 +40,7 @@ evokes:
 
 # Player counts
 possible_counts: [3, 4, 5, 6]
-true_counts: [5, 6]
+true_counts: [5, 6]  # Provisional fit estimate, not verified community consensus
 
 # Metadata
 designer:
@@ -56,7 +56,7 @@ min_age: 8
 
 # Description
 description: |
-  Dixit is an imaginative storytelling card game featuring 84 dreamlike illustrations by Marie Cardouat. Each turn, one player becomes the storyteller and selects a card from their hand, providing a cryptic clue in the form of a word, phrase, or sound. The other players examine their own cards and select one that matches the clue, then all selected cards are shuffled, revealed, and players vote to identify the storyteller's original card. The unique scoring mechanism rewards storytellers who craft clues that are neither too obvious nor too vague—points are earned only when some, but not all, players correctly guess the storyteller's card. This elegant balance encourages creative interpretation and lateral thinking, as storytellers must calibrate their clues to connect with part of the group without being transparent. Winner of the 2010 Spiel des Jahres, Dixit works best with five or six players where the tension and challenge of crafting the perfect clue reaches its peak. The surreal, evocative artwork invites multiple interpretations and sparks unique player associations, making each game session a fresh experience of imagination and discovery.
+  Dixit is an imaginative storytelling card game featuring 84 dreamlike illustrations by Marie Cardouat. Each turn, one player becomes the storyteller and selects a card from their hand, providing a cryptic clue in the form of a word, phrase, or sound. The other players examine their own cards and select one that matches the clue, then all selected cards are shuffled, revealed, and players vote to identify the storyteller's original card. The unique scoring mechanism rewards storytellers who craft clues that are neither too obvious nor too vague—points are earned only when some, but not all, players correctly guess the storyteller's card. This elegant balance encourages creative interpretation and lateral thinking, as storytellers must calibrate their clues to connect with part of the group without being transparent. Winner of the 2010 Spiel des Jahres, The suggested five- or six-player fit is provisional; how people interpret the same pictures depends on the group. The surreal, evocative artwork invites multiple interpretations and sparks unique player associations, making each game session a fresh experience of imagination and discovery.
 
 # Upgrades
 upgrades: []

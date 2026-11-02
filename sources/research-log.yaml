@@ -10402,3 +10402,56 @@ entries:
     description: Original game implementation manual explains placement, adjacent movement
       and flying, and explicitly documents versions omitting flying. Record distinguishes
       that optional rule rather than silently merging all variants.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: ready-set-bet
+    url: https://alderacstore.com/ready-set-bet/
+    description: Publisher storefront and its actual standard English box both specify
+      14+, 2–9, 45–60 minutes. Corrected the record to this explicit English box and
+      age; nominal 50 minutes and length 2 are estimates. Current generic AEG game page
+      differs at 10+; not silently combined.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: ready-set-bet
+    url: https://www.alderac.com/ready-set-bet/
+    description: Publisher general game page confirms Clair, Cagle/Buckendorf, 2–9 and
+      45–60 minutes, but says age 10+. Retained this discrepancy in the English-box
+      record’s comment; actual English box/storefront 14+ controls its selected edition.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: a-feast-for-odin
+    url: https://www.asmodee.co.uk/products/zmg71690-a-feast-for-odin
+    description: Official distributor SKU ZMG71690 / 681706716909 explicitly gives publisher
+      release 13 October 2016 and age 14+. Scoped record to original Z-Man English edition
+      and corrected its age accordingly. Does not describe every Feuerland printing.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: a-feast-for-odin
+    url: https://www.feuerland-spiele.de/en/
+    description: Current publisher English landing page lists 1–4, 12+ and 30 minutes
+      per person. Different age labeling from original English Z-Man distributor SKU
+      is explicit; no date inferred from footer. Original Z-Man record now retains its
+      specific 14+ label.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: 7-wonders
+    url: https://www.nobleknight.com/P/2147440562/7-Wonders
+    description: Retailer explicitly labels first edition and 2010 publication. Scoped
+      existing record to original edition and acquired visually checked first-edition
+      box; Repos current box and earlier repository thumbnail show later packaging.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: dixit
+    url: https://shop.asmodee.ca/en/libdix01fren
+    description: Distributor textual metadata says 3–6 and English/French, but actual
+      downloaded box says 3–8 and gallery shows refreshed components. Rejected these
+      as cover candidates for earlier six-player record. Text alone did not certify
+      edition identity.
+  - timestamp: '2026-11-02T15:30:02.439220Z'
+    game_id: dixit
+    url: https://www.libellud.com/game/dixit/
+    description: Publisher current page and redirected old English page represent refreshed
+      3–8 version; English press-kit link is available but its image bank has refreshed
+      French packaging. Did not overwrite earlier six-player counts from current material;
+      marked represented rules edition and provisional preferred-count claim explicitly.
+  - timestamp: '2026-11-02T15:34:58.098890Z'
+    game_id: dixit
+    url: https://chess.co.uk/products/dixit-board-game
+    description: Retailer’s downloaded English FAMILY box visibly prints 3–6, 8+ and
+      30 minutes, supporting the represented earlier rules version. Cover source recorded
+      separately in images/sources.yaml. No exact printing date inferred; replaced unsupported
+      universal preferred-count wording with explicit provisional estimate.

@@ -213,10 +213,10 @@
         position: absolute;
         top: 0; left: 0;
         width: 100%; height: 100%;
-        object-fit: cover;
-        transition: transform 0.35s ease;
+        object-fit: contain;
+        padding: 8px;
+        box-sizing: border-box;
       }
-      .game-card-item:hover .gc-image img { transform: scale(1.04); }
       .gc-placeholder {
         position: absolute;
         top: 0; left: 0;

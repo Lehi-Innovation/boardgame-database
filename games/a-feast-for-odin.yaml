@@ -5,7 +5,7 @@ year: 2016
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Z-Man English edition (2016)
 base_game: null
 expansions: []
 compatible_with: []
@@ -61,7 +61,7 @@ artist:
 playtime_minutes: 120
 min_playtime: 30
 max_playtime: 120
-min_age: 12
+min_age: 14  # Z-Man English distributor SKU; current Feuerland listing says 12+
 
 # Description
 description: |

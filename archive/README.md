@@ -7,7 +7,7 @@ Historical material is preserved here for reference. It is excluded from active 
 | [games-v1/](games-v1/) | 389 historical game records | Snapshot before the February 2026 source-policy rebuild |
 | [master-list-v1.yaml](master-list-v1.yaml) | Original ranking-based list | Historical discovery/source reference |
 | [2026-10-22/](2026-10-22/README.md) | Earlier development notes, research memories, BGG sweep prototype/state | Retired during the repository organization cleanup |
-| [2026-11-02/](2026-11-02/README.md) | Two wrong-game images and two untraceable predecessors | Visual quarantine or documented publisher replacement; original bytes and history preserved |
+| [2026-11-02/](2026-11-02/README.md) | Eleven original covers | Wrong-game/edition quarantine or documented source replacement; original bytes and history preserved |
 
 The active CSV catalog, Wikidata importer/state, newer web UI, and image tooling remain in their current locations.
 
