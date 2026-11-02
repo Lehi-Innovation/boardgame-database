@@ -1,20 +1,28 @@
+# Bought-and-played copy reported December 5, 2014 establishes finished availability,
+# not merely copyright or crowdfunding. July 2014 creator post was still finalizing
+# design. Downloaded official eight-page English rules carry copyright 2014, but
+# printing date is unverified. Main rules 2–4/10+/roughly ten minutes per player;
+# counts include one only for explicitly printed solo variants, not a solo opponent.
+# No fixed session bounds certified. Red primes above ten earn at most one card
+# after moves/bumping if newly occupied; 101 does not. Original art credit unknown.
+# Preferred counts and experience ratings provisional, including confrontational feel.
 id: prime-climb
 name: "Prime Climb"
 alternate_names: []
-year: 2012
+year: 2014
 
 # Relationships
 game_family: null
-edition: null
+edition: Math for Love base game released in 2014; official copyright-2014 English rules consulted, printing unverified
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 3  # Competitive
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
 value: 2  # Standard
 
 affinity: null
@@ -27,6 +35,7 @@ categories:
   - Family
   - Gateway
   - Educational
+  - Solo
 
 evokes:
   - Lucky
@@ -35,7 +44,11 @@ evokes:
   - Tension
   - Progress
 
-possible_counts: [2, 3, 4]
+possible_counts:
+  - 1
+  - 2
+  - 3
+  - 4
 true_counts: [2, 3, 4]
 
 designer:
@@ -45,11 +58,11 @@ publisher:
   - Math for Love
 artist: []
 playtime_minutes: 40
-min_playtime: 30
-max_playtime: 60
+min_playtime: null
+max_playtime: null
 min_age: 10
 
 description: |
-  Prime Climb is a colorful mathematical racing game in which players roll two 10-sided dice and apply arithmetic operations — addition, subtraction, multiplication, and division — to move their two pawns toward the center of the board numbered 0 to 101. Landing on a prime number earns a special bonus, while landing on another player's pawn sends them back to start. Designed by mathematicians Dan Finkel and Katherine Cook of Math for Love, the game makes number theory engaging through competitive play and strategic decision-making.
+  Roll two ten-sided dice, then add, subtract, multiply or divide to move your two pawns through a spiral of numbers. Try to bring both pawns exactly to 101. Color patterns help with arithmetic, while landing on another pawn after your moves sends it back to the start—even if it is your own. Moving onto a qualifying red prime space earns one card after movement and bumping; smaller primes and the final 101 space do not. Cards can help you move or disrupt opponents. The standard game is for two to four, with official solo challenges that count rolls instead of racing rivals. Expect roughly ten minutes per player, with arithmetic practice and setbacks.
 
 upgrades: []

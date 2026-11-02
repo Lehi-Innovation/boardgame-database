@@ -2456,3 +2456,78 @@ decisions:
   reason: 'Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen
     bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost
     on overload. Generic 2006 remains pending; later illustrated reissue separate.'
+- name: Planet
+  year: 2018
+  yaml_id: planet
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blueorangegames.eu/en/games/planet/
+  - https://blueorangegames.eu/wp-content/uploads/2018/09/PLANET_rules_UK.pdf
+  - https://opinionatedgamers.com/2018/11/29/dale-yu-review-of-planet/
+  reason: Publisher credits, copyright-2018 rules and actual six-play November 2018 review
+    establish original European game. Corrected Šulinskas/Miramon credits and distinct animal
+    requirements; 2019 review/localization dates not original release.
+  previous_record_year: 2019
+- name: Prime Climb
+  year: 2014
+  yaml_id: prime-climb
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://mathforlove.com/wp-content/uploads/2020/03/Prime-Climb-Official-English-Rules.pdf
+  - https://mikesmathpage.wordpress.com/2014/12/05/a-review-of-prime-climb-by-math-for-love/
+  - https://mathforlove.com/2014/07/playing-with-math-and-more/
+  reason: Purchased and played finished copy in December 2014 establishes availability. Official
+    rules confirm red-prime restrictions, exact 101, 2–4 main game and printed solo variants.
+    Corrected unsupported 2012 date; original printing/art remain unverified.
+  previous_record_year: 2012
+- name: Pony express
+  year: 2009
+  yaml_id: pony-express-2009
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://faidutti.com/blog/blog/tag/pony-express/
+  - https://tesera.ru/images/items/2639/Pony-Express_US_Manual_LD.pdf
+  - https://www.rulespal.com/pony-express/rulebook
+  - https://www.hall9000.de/html/spiel/pony_express
+  reason: Creator history and original-rule credits identify separate Faidutti/Bauza/Funforge
+    2009 race, with Beaulieu illustration and 3–5/8+/45–60 guidance. Polygon 1947 record retained
+    separately; no false edition/compatibility link.
+- name: Push
+  year: 2001
+  yaml_id: push-2001
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://steffen-spiele.com/de/pages/founder-steffen-muhlhauser
+  - https://www.cliquenabend.de/spiele/660000-Push.html
+  reason: 'Creator chronology and independent played review identify Mühlhäuser wooden flicking
+    game listed in 2001, separate from Ravensburger cards. First printing and original publisher
+    unverified: company founded 2003. Specifications follow later reviewed issue, not inspected
+    2001 box.'
+- name: Pony Express
+  year: 1947
+  yaml_id: pony-express
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://artsandculture.google.com/asset/board-game-the-game-of-pony-express-polygon-corporation/2wEBaTlQjExORA?hl=en
+  - https://gamecatalog.org/results-2/?keyword=pony
+  - https://gamecatalog.org/wp-content/uploads/2025/04/2024-09-09_AGPI_Game-Catalog_11th-Edition.pdf
+  reason: Explicit older Polygon/Bratt U.S. game from museum artifact and AGPI catalog; unrelated
+    to Funforge 2009 race. Original rules inaccessible, so unsupported counts, age, duration
+    and precise ending remain unknown.
+- name: Push
+  year: 2018
+  yaml_id: push
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gameland.com.ua/content/files/pravila-gri-push-angl.-92607704.pdf
+  - https://www.geeksundergrace.com/tabletop/review-push/
+  - https://www.ravensburger.org/nlbe/producten/spellen/kaartspellen/push-26828/index.html
+  reason: Explicit Ravensburger North America/Prospero Hall card game, English USe01 copyright-2018
+    rules and independent release chronology. Separate from Mühlhäuser wooden game; banking,
+    busts and roll-card risks restored.

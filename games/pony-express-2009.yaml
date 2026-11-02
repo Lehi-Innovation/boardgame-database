@@ -1,0 +1,59 @@
+# Creator histories independently date Faidutti/Bauza/Funforge game to 2009.
+# Read indexed original eight-page English production PDF, not downloaded bytes
+# (direct retrieval HTTP 403), plus a directly read rule transcription. Indexed
+# cover states 3–5/8+/45–60; credits confirm Beaulieu illustrations, Nouhra art
+# direction separately. Copyright 2009 corroborates creator chronology, not sole
+# release evidence. Independent October 2010 played review corroborates identity.
+# No family/compatibility link to unrelated Polygon game. Preferred counts unknown;
+# experience ratings provisional. Original physical printing label uninspected.
+id: pony-express-2009
+name: Pony Express
+alternate_names: []
+year: 2009
+game_family: null
+edition: Funforge original base game (2009); English production rules consulted
+base_game: null
+expansions: []
+compatible_with: []
+length: 2
+rules_complexity: 2
+strategic_depth: 1
+feel: 2
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Dice Rolling
+  - Bluffing
+  - Dexterity
+  - Racing
+  - Party
+  - Western
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+possible_counts:
+  - 3
+  - 4
+  - 5
+true_counts: []
+designer:
+  - Bruno Faidutti
+  - Antoine Bauza
+publisher:
+  - Funforge
+artist:
+  - Mathieu Beaulieu
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+description: |
+  Race to Sacramento by rolling poker dice under a cup and announcing a hand. Pay to reroll, or bluff about what you have; nearby riders can challenge your claim. Encounters bring poker games or duels in which players roll a die across the board to hit a rider. Gold and item cards help with obstacles, but chance and dexterity can undo progress. Reaching Sacramento first is not an instant win: finish delivering your mail, or beat the next arrival in a final duel. This 2009 Funforge game mixes bluffing, physical play and a Western race; it is separate from Polygon’s 1947 business game.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,18 +1,26 @@
+# Downloaded two-page original English USe01 instructions explicitly credit
+# Prospero Hall and Ravensburger North America, copyright 2018, 2–6/8+. Independent
+# played review dates release to 2018; original physical box uninspected. About 20
+# minutes follows publisher product guidance; 15–25 bounds not certified. Banking
+# protects one color, while busts/roll cards threaten exposed cards. Later European
+# 26828 rules not treated as original U.S. printing. No unsupported individual art
+# credit added. Original CSV 2001 is the separate wooden game; dated 2018 row added.
+# Preferred counts and experience ratings provisional.
 id: push
 name: "Push"
 alternate_names: []
-year: 2019
+year: 2018
 
 # Relationships
 game_family: null
-edition: null
+edition: Ravensburger North America card game (2018), English rules USe01
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 0  # Snack
-rules_complexity: 0  # Preschool
+rules_complexity: 1
 strategic_depth: 1  # Light
 feel: 2  # Moderate
 value: 1  # Budget
@@ -42,11 +50,11 @@ publisher:
   - Ravensburger
 artist: []
 playtime_minutes: 20
-min_playtime: 15
-max_playtime: 25
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Push is a simple and energetic press-your-luck card game published by Ravensburger in which players alternate drawing colored number cards and placing them into stacks on the table, aiming to build unique stacks with no repeated colors or numbers. The tension comes from deciding when to stop and claim the stacks, versus pushing your luck by drawing more cards with increasingly risky odds. Quick to learn and filled with agonizing near-bust moments, Push excels as a lively filler for mixed-age groups.
+  Draw cards into up to three shared stacks, keeping repeated colors and numbers out of each stack. Stop to choose a stack for yourself, then let other players claim the remaining stacks. If a card cannot be placed, you get no stack and roll a die that can wipe out an entire color of your exposed cards. Roll cards can cause losses even when collected from someone else’s turn. Spend a turn banking one color to protect it permanently. High numbers score more, so the choice mixes greed, safety and what you leave for others. This is Ravensburger’s 2018 card game, separate from Mühlhäuser’s wooden flicking game.
 
 upgrades: []

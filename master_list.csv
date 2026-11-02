@@ -2456,7 +2456,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7993,Pole Position,,boardgame,,,
 69779,Polis: Fight for the Hegemony,,boardgame,,,polis-fight-for-the-hegemony
 27172,Ponte del Diavolo,,boardgame,,,
-42490,Pony express,2009,boardgame,,,
+42490,Pony express,2009,boardgame,,"Creator history and original-rule credits identify separate Faidutti/Bauza/Funforge 2009 race, with Beaulieu illustration and 3–5/8+/45–60 guidance. Polygon 1947 record retained separately; no false edition/compatibility link.",pony-express-2009
 122970,Popkult,,boardgame,,,
 27356,Portobello Market,,boardgame,,,
 23427,Posse: Thirteen Against One,,boardgame,,,posse-thirteen-against-one
@@ -2476,7 +2476,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Presidential Campaign,,boardgame,ambiguous,"Generic phrase is not an independently verified commercial alias. Existing historical filename described3M Mr.President, whose actual title/1967revision are now explicit; filename alone cannot establish this CSV identity. Excluded ambiguous pending identity evidence.",
 ,PRESTAGS,,boardgame,,,
 6549,Pretty Pretty Princess,,boardgame,,,
-159375,Prime Climb,2014,boardgame,,,
+159375,Prime Climb,2014,boardgame,,"Purchased and played finished copy in December 2014 establishes availability. Official rules confirm red-prime restrictions, exact 101, 2–4 main game and printed solo variants. Corrected unsupported 2012 date; original printing/art remain unverified.",prime-climb
 124,Primordial Soup,,boardgame,,,
 9354,Privacy,,boardgame,,,
 2060,Probe,,boardgame,,,
@@ -2491,7 +2491,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Puerto Rico,2002,boardgame,,,
 126005,Punaisten ja valkoisten taistelu Suomessa 1918,1918,boardgame,,,
 23418,Pursuit of Glory,,boardgame,,,
-23033,Push,2001,boardgame,,,
+23033,Push,2001,boardgame,,"Creator chronology and independent played review identify Mühlhäuser wooden flicking game listed in 2001, separate from Ravensburger cards. First printing and original publisher unverified: company founded 2003. Specifications follow later reviewed issue, not inspected 2001 box.",push-2001
 172542,Push a Monster,,boardgame,,,
 ,Push puppets,,boardgame,,,
 7065,Pusher,,boardgame,,,
@@ -3863,7 +3863,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Unconscious Mind,2024,boardgame,,,
 ,Moon Colony Bloodbath,2025,boardgame,,"Identity review 2026-11-02: original review identifies a 2025 release; publisher confirms Rio Grande game identity, 1–5 players and 45–90 minutes. Earlier CSV 2023 was not a documented publication.",moon-colony-bloodbath
 ,That Time You Killed Me,2022,boardgame,,,
-,Planet,2018,boardgame,,,
+,Planet,2018,boardgame,,"Publisher credits, copyright-2018 rules and actual six-play November 2018 review establish original European game. Corrected Šulinskas/Miramon credits and distinct animal requirements; 2019 review/localization dates not original release.",planet
 ,The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game,2024,boardgame,,,
 ,Blank Slate,2020,boardgame,,,
 ,Catch Phrase,1994,boardgame,,,
@@ -4272,3 +4272,5 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Pictureka!,2007,boardgame,,Explicit Parker U.S.2007 board game from physical inventory and contemporary played review; 2+/6+/six-card win. Separate Project X 2006 original and later second edition; no fixed upper player limit certified.,pictureka
 ,Piepmatz,2018,boardgame,,Explicit Lookout 2018 Riddle/Pinchback/Langman card game. Publisher current10+ differs from consulted English©2018 rules8+; original manufacturing label uninspected. Both 1995 namesakes remain separate and generic 1995 row stays pending.,piepmatz
 ,Piratissimo,2005,boardgame,,"Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost on overload. Generic 2006 remains pending; later illustrated reissue separate.",piratissimo
+,Pony Express,1947,boardgame,,"Explicit older Polygon/Bratt U.S. game from museum artifact and AGPI catalog; unrelated to Funforge 2009 race. Original rules inaccessible, so unsupported counts, age, duration and precise ending remain unknown.",pony-express
+,Push,2018,boardgame,,"Explicit Ravensburger North America/Prospero Hall card game, English USe01 copyright-2018 rules and independent release chronology. Separate from Mühlhäuser wooden game; banking, busts and roll-card risks restored.",push

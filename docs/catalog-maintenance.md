@@ -257,3 +257,32 @@ is distinct. Original overload loses all cargo. **Pixie Queen (2017)** separates
 finished-copy availability from the 2016 campaign and uses the English production
 rulebook’s final scoring and role-specific credits. The best final total wins;
 “fewest points” would give the wrong result once scores become positive.
+
+**Planet (2018)** now uses Blue Orange’s original European identity, established
+by its English rules and an actual six-play review in November 2018. Corrected
+the designer to **Urtis Šulinskas** and illustrator to **Sabrina Miramon**.
+Later review or localization dates do not establish the first release. Animal
+awards begin in round three and use different habitat and adjacency conditions.
+
+**Prime Climb (2014)** has actual purchased-copy and family-play evidence from
+December 2014, beyond copyright or crowdfunding dates. Its official rules support
+two to four in the main game and one in explicit solo challenges. Qualifying red
+prime spaces earn cards after movement and bumping; not every prime earns one,
+and 101 never does. The consulted manual’s manufacturing date and original art
+credits remain unverified.
+
+**Pony Express (2009)** is a new, separate Faidutti/Bauza/Funforge race with
+Beaulieu illustrations, bluffing and physical die-rolling duels. It does not
+replace **Polygon’s 1947 Pony Express**, whose museum artifact and Bratt credit
+are independently established. The older game has a dated row, but its original
+rules are inaccessible: unsupported counts, age, duration and precise ending
+were cleared. Different piece materials belong to different physical issues.
+
+**Push (2001)** now separately identifies Mühlhäuser’s wooden flicking game.
+Creator chronology and a played review agree on 2001, but the first printing and
+original publisher are unverified; the Steffen-Spiele company dates to 2003.
+Specifications follow the later reviewed wooden issue. Its decorative origin
+tale is not adopted as history. The retained **Ravensburger Push (2018)** has its
+own dated row and original English USe01 rules. Banking protects exposed cards
+from die losses; same-title matching must not transfer those rules to the wooden
+game. Neither pair of unrelated namesakes gets a family or compatibility link.
