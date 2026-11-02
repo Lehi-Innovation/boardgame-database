@@ -1,0 +1,60 @@
+# Final publisher rules explicitly first published2017; contemporary retail-copy
+# review corroborates October19 release,2–4/14+/60–90 and illustration credits.
+# Prepublication catalog has obsolete components; final rules take precedence.
+# Experience ratings provisional; preferred counts unknown.
+id: london-second-edition-2017
+name: London (Second Edition)
+alternate_names:
+  - London
+year: 2017
+game_family: london
+edition: Osprey second edition, English ISBN9781472822222 (2017)
+base_game: null
+expansions: []
+compatible_with: []
+length: 2
+rules_complexity: 2
+strategic_depth: 3
+feel: 3
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Hand Management
+  - Engine Building
+  - Tableau Building
+  - Economic
+  - Euro
+  - Historical
+  - City Building
+  - Martin Wallace
+  - Osprey Games
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+possible_counts:
+  - 2
+  - 3
+  - 4
+true_counts: []
+designer:
+  - Martin Wallace
+publisher:
+  - Osprey Games
+artist:
+  - Mike Atkinson
+  - Natalia Borek
+  - Przemysław Sobiecki
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+description: |
+  Develop a display of city cards, acquire London boroughs and choose when to run your buildings for income and prestige. Bigger displays and loans can accelerate development, but running the city also produces poverty; planning what stays in your hand is part of that tradeoff. Borough cards grant immediate benefits and change your active borough ability. When the city deck empties, the final turns lead to prestige scoring and penalties for debt and poverty. This 2017 Osprey revision replaces the original edition’s borough map with cards and revises its rules. It is a separate edition, not an expansion requiring the 2010 box.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

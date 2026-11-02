@@ -1,51 +1,63 @@
+# 2014 date/specifications corroborated by contemporary played review and BDKJ test.
+# Preferred counts unknown; experience ratings and evokes are provisional.
 id: lemming
-name: "Lemming"
-alternate_names: []
-year: 1994
+name: Lemming
+alternate_names:
+  - Lemminge
+  - Lemminge – Wer springt zuerst?
+year: 2014
 
 # Relationships
 game_family: null
-edition: null
+edition: AMIGO original German game (2014)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 3
 value: 2  # Standard
 
 affinity: null
 hotness: null
 
 categories:
-  - Dexterity
-  - Real-time
-  - Party
+  - Racing
+  - Hand Management
+  - Tile Placement
+  - Hex Map
   - Family
+  - Animals
 
 evokes:
-  - Humor
+  - Clever
   - Tension
   - Lucky
-  - Connection
   - Rivalry
+  - Humor
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+true_counts: []
 
-designer: []
+designer:
+  - Sebastian Bleasdale
 publisher:
-  - Ravensburger
-artist: []
-playtime_minutes: 15
-min_playtime: 10
-max_playtime: 20
-min_age: 6
+  - AMIGO
+artist:
+  - Loïc Billiau
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 8
 
 description: |
-  Lemming is a children's dexterity and memory game published by Ravensburger in which players flip and stack colored lemmings in a frantic race against each other. Players must arrange their lemmings in the correct color order as quickly as possible, often knocking over and restarting their tower in the process. The bright colors and appealing lemming figures make it attractive to young players, while the speed and dexterity elements keep adults entertained. A simple, quick, and energetic filler game that requires no reading and works well for families with children of mixed ages.
+  Guide both of your lemmings through a landscape race toward the finishing cliff. Terrain cards provide movement, with the value of shared card piles changing how far you can go; other plays reset a pile and let you alter the terrain with a bonus tile. You can push lemmings ahead, so a useful move may help a rival as well. Choosing when to move and when to refill your hand matters more than quick reactions. Both your lemmings must finish to win.
 
 upgrades: []

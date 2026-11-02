@@ -1799,3 +1799,146 @@ decisions:
   - https://www.luding.org/reviews/bpk/KulaKula.html
   reason: Added explicitBlatz1993massmarket edition, jury/independentplayedreview. EarlierPerlhuhn1991reference
     remains pending; no arbitrary edition merge.
+- name: Labyrinth
+  year: 2010
+  yaml_id: labyrinth-the-war-on-terror-2010
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gmtgames.com/living_rules/Labyrinth-PLAYBOOK-2010.pdf
+  - https://www.gmtgames.com/living_rules/Labyrinth-Rules-2011.pdf
+  - https://thegaminggang.com/our_reviews/tabletop-gaming-reviews/a-war-without-end-a-review-of-labyrinth-the-war-on-terror-2001
+  reason: Added originalGMT2010VolkoRuhnke simulation,1–2/USsolo,primaryplaybookandcontemporaryreview.
+    Unrelated1986Kobbertmaze retained; livingrulebook explicitly2011revision, not falsely
+    original. Publisherageunknown.
+- name: Lemming
+  year: 2014
+  yaml_id: lemming
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.reich-der-spiele.de/kritiken/lemminge
+  - https://www.kinderspieletest.de/spielesammlung/lemminge-583
+  - https://www.spieletest.at/gesellschaftsspiel/4368/lemminge
+  reason: Contemporary2014playedreview/BDKJtest identifyAMIGOBleasdale/Billiau terrain-cardrace,2–5/8+/30.
+    Replaced unsupported1994Ravensburgerdexterityidentity rather than fabricate separate1994record.
+  previous_record_year: 1994
+- name: Life Style
+  year: 1989
+  yaml_id: life-style
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/life-style/
+  - https://mieze-merle.de/Gesellschaftsspiele/files/Life%20Style/Anleitung%20-%20LifeStyle.pdf
+  - https://www.nobleknight.com/P/2147593639/Life-Style
+  reason: OriginalRavensburger015726Germanrules©1989/jury/physicalinventory identifyphoto-preferenceguessing,Raffeiner/Walch,3–6/16+/45–60.
+    Correctedfalse1973MB/Whitmanlifesimulation; advancedfavorites/jokeroptional.
+  previous_record_year: 1973
+- name: Liftoff!
+  year: 1989
+  yaml_id: liftoff
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blog.tremlas.com/games/play-by-mail-games/liftoff/
+  - https://blog.tremlas.com/games/play-by-mail-games/liftoff/liftoff-rules-summary/
+  - https://www.ludivers.ch/documents/liste_des_jeux.pdf
+  - https://en.wikipedia.org/wiki/Liftoff%21
+  reason: TaskForceGames1989Bronnerspacesimulation establishedbyphysicalclubinventory andowned-copyhistory.
+    ReplacedfalseQueen2018/KirpsMayeridentity. ActualHansimGlück2018LiftOff alreadyhasseparatelift-offrecord,
+    untouched. Originalroles/age/timeunverified.
+  previous_record_year: 2018
+- name: Light Division
+  year: 1989
+  yaml_id: light-division
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/10272/Light-Division
+  - https://grognard.com/reviews/lightdi1.txt
+  - https://grognard.com/reviews/lightdiv.txt
+  - https://grognard.com/errata/lightdiv.txt
+  reason: 3W1989Balkoski/Bay modernhypotheticalHormuzgame confirmedphysicalinventory/playedreviews.
+    Removedfalse1977SPI/Napoleonicidentity; solosuitabilitynotdedicatedbot,scenariotimesvary,maperrataexplicit.
+  previous_record_year: 1977
+- name: Lingua
+  year: 1969
+  yaml_id: lingua
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://secondhandgame.de/Ravensburger-Lingua-60252750/D56-008
+  - https://www.e-s-g.eu/sammelgebiete/serien/ravensburgercasinoserie/
+  - https://de.wikipedia.org/wiki/Lingua_(Spiel)
+  reason: Independentoriginalhistory/physicalinventory establish1969RavensburgerBraude coloredwordplacement,2–4.
+    Removedunsupported2006WinningMovesfastpartyidentity. Specificprinting/originalboxageunknown;ESGlistsseparate1972Casinoissue.
+  previous_record_year: 2006
+- name: Livequiz
+  year: 2007
+  yaml_id: livequiz
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.lastdodo.nl/nl/items/571461-livequiz
+  - https://spelmagazijn.nl/nl/versl231.html
+  reason: DutchIdentityGames2007 physicalcollectorentry pluscontemporaryfairreport,3–6/12+/onlinechanginganswers.
+    Removedgeneric2005/2–8/fastest-responserules; currentanswerserviceandoriginaltimeunverified.
+  previous_record_year: 2005
+- name: London
+  year: 2017
+  yaml_id: london-second-edition-2017
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ospreypublishing.com/media/hgkdrmhp/london_rulebook_web.pdf
+  - https://icv2.com/print/article/38930
+  reason: Added separateOsprey2017secondedition,finalpublisherrulesandcontemporaryretail-copyreview.2010Treefrogoriginalretainedwithitsowncatalogrow;boroughcardsnotoriginalmap.
+    CorrectedfalseDeckBuilding/eachturnrunclaim.
+- name: Looot
+  year: 2024
+  yaml_id: looot
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://export.gigamic.com/wp-content/uploads/2024/01/GIGAMIC_LOOOT_RULES.pdf
+  - https://www.meeplemountain.com/reviews/looot/
+  reason: OriginalGigamic2024Chevallier/Escoffier/Naïade Vikingworker/tileplacement,2–4/10+/35.
+    Replacedfalse2013RavensburgerKloßtreasuregrid; manual©2023notreleaseyear,2024physicalcopyreviewconfirmsavailability.
+  previous_record_year: 2013
+- name: Luftwaffe
+  year: 1971
+  yaml_id: luftwaffe
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://artsandculture.google.com/asset/game-luftwaffe-the-game-of-aerial-combat-over-germany-1943-45-avalon-hill/dwHYlxvC5zU0Eg?hl=en
+  - https://www.luding.org/cgi-bin/GameData.py?f=000%5EE4X&gameid=2129
+  - https://www.nyx.net/~epass/luftpbem.html
+  reason: TheStrongphysicalartifactandindependentbibliography establishLouZocchi/AvalonHill1971;correctedcatalog1970→1971andfalseDunnigancredit.
+    BroadstrategicGermany1943–45scope;originalmanualage/scenariotimingunknown.
+  previous_catalog_year: 1970
+- name: Lure
+  year: 2024
+  yaml_id: lure
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.allplay.com/board-games/lure
+  - https://assets.allplay.com/board-games-lure-rulebook-link.pdf
+  - https://shelfgamer.com/reviews/lure/
+  - https://boardtopiagames.com/products/lure
+  reason: AllplayNakamuradicebiddingbasegame,2–5/7+/15,primaryrulesexactillustrationcredits.
+    Retail2024editionandindependentplayedreviewdate;later2025distributionnotfirstrelease.
+    Replacedunsupported2014Mayfaircardgame,DeepWatersexcluded.
+  previous_record_year: 2014
+- name: London
+  year: 2010
+  yaml_id: london
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://tesera.ru/images/items/9103/London-Rulebook-EN.pdf
+  - https://www.zatrolene-hry.cz/spolecenska-hra/london-1604/k-stazeni/pravidla-sk-1958/
+  reason: Added explicit2010TreefrogoriginalLondon row. Originalcredits/dated2010reference,boroughmapand12+/about90
+    scopedseparatelyfromOsprey2017cardboroughrevision;preferredcountsandexperienceprovisional.

@@ -1826,7 +1826,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,La'b Madjnuni,,boardgame,,,lab-madjnuni
 821,La-Trel,1994,boardgame,,,
 31360,Laborigines,,boardgame,,,
-62227,Labyrinth,2010,boardgame,,,
+62227,Labyrinth,2010,boardgame,,"Added originalGMT2010VolkoRuhnke simulation,1–2/USsolo,primaryplaybookandcontemporaryreview. Unrelated1986Kobbertmaze retained; livingrulebook explicitly2011revision, not falsely original. Publisherageunknown.",labyrinth-the-war-on-terror-2010
 68224,Labyrinthine,,boardgame,,,
 191681,Lagoonis,,boardgame,,,
 39488,Lamlameta,,boardgame,,,
@@ -1871,7 +1871,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 94732,Lego Heroica,,boardgame,,,lego-heroica
 10508,Leinen los!,1996,boardgame,,"2026-11-02: Independent Luding catalog specifies HABA/Alex Randolph publication 1996, separately the 1997 children’s award, and links 2017 Zoch successor. Jury directly confirms finger-steered boats, cord timer, 2–4, 6+, about ten minutes. Corrected unsupported 2022 Ravensburger roll-and-write identity and unverified translated alias in existing slug; personal fields preserved.",leinen-los
 ,Leipzig: The Battle of Nations,,boardgame,,,leipzig-the-battle-of-nations
-153004,Lemming,2014,boardgame,,,
+153004,Lemming,2014,boardgame,,"Contemporary2014playedreview/BDKJtest identifyAMIGOBleasdale/Billiau terrain-cardrace,2–5/8+/30. Replaced unsupported1994Ravensburgerdexterityidentity rather than fabricate separate1994record.",lemming
 ,"Leningrad: The Advance of Army Group North, Summer 1941",,boardgame,,,leningrad-advance-army-group-north
 18144,Lensman,1969,boardgame,,,
 ,Lentokilpailu-peli,1909,boardgame,,"2026-11-02: National Library original metadata explicitly Helsinki, Osakeyhtiö Launis, 1909; 2018 is digitization. Original board inspected. Library explicitly says rules missing, so removed unsupported movement mechanism, player-count and age claims; timing/experience remain provisional.",lentokilpailu-peli
@@ -1887,31 +1887,31 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Liberian Queah,,boardgame,,,liberian-queah
 356033,Libertalia: Winds of Galecrest,2022,boardgame,,,libertalia-winds-of-galecrest
 3988,Life as a BlackMan,,boardgame,,,life-as-a-blackman
-6383,Life Style,1989,boardgame,,,
+6383,Life Style,1989,boardgame,,"OriginalRavensburger015726Germanrules©1989/jury/physicalinventory identifyphoto-preferenceguessing,Raffeiner/Walch,3–6/16+/45–60. Correctedfalse1973MB/Whitmanlifesimulation; advancedfavorites/jokeroptional.",life-style
 249,Lifeboats,,boardgame,,,
-2853,Liftoff!,1989,boardgame,,,
-8382,Light Division,1989,boardgame,,,
+2853,Liftoff!,1989,boardgame,,"TaskForceGames1989Bronnerspacesimulation establishedbyphysicalclubinventory andowned-copyhistory. ReplacedfalseQueen2018/KirpsMayeridentity. ActualHansimGlück2018LiftOff alreadyhasseparatelift-offrecord, untouched. Originalroles/age/timeunverified.",liftoff
+8382,Light Division,1989,boardgame,,"3W1989Balkoski/Bay modernhypotheticalHormuzgame confirmedphysicalinventory/playedreviews. Removedfalse1977SPI/Napoleonicidentity; solosuitabilitynotdedicatedbot,scenariotimesvary,maperrataexplicit.",light-division
 ,Light Speed Arena,2025,boardgame,,,
 30023,Ligny: Incomplete Victory,1976,boardgame,,"2026-11-02: SPI historical product bibliography explicitly lists Ligny folio 1446, 1976, Kevin Zucker, alongside Napoleon’s Last Battles quad. Corrected unsupported 1987/GMT claim to original SPI scope. Bibliography’s WWII era typo not adopted. Retailer confirms quad identity/year/designer; its four-player campaign, age and duration specifications were not transferred to standalone folio. Standalone counts/time remain provisional pending original rules.",ligny-incomplete-victory
 ,Limes,2014,boardgame,,,
 ,Lincoln,2018,boardgame,,,
-5174,Lingua,1969,boardgame,,,
+5174,Lingua,1969,boardgame,,"Independentoriginalhistory/physicalinventory establish1969RavensburgerBraude coloredwordplacement,2–4. Removedunsupported2006WinningMovesfastpartyidentity. Specificprinting/originalboxageunknown;ESGlistsseparate1972Casinoissue.",lingua
 11945,Linq,,boardgame,,,
 ,Lionheart,,boardgame,,,
 ,Lisboa,2017,boardgame,,,
 241266,Little Town,,boardgame,,,
-31845,Livequiz,2007,boardgame,,,
+31845,Livequiz,2007,boardgame,,"DutchIdentityGames2007 physicalcollectorentry pluscontemporaryfairreport,3–6/12+/onlinechanginganswers. Removedgeneric2005/2–8/fastest-responserules; currentanswerserviceandoriginaltimeunverified.",livequiz
 328479,Living Forest,,boardgame,,,
 27368,Living Landscapes,,boardgame,,,
 18460,Lock 'n Load: Band of Heroes,,boardgame,,,lock-n-load-band-of-heroes
 41052,Loco Motive,,boardgame,,,loco-motive
 ,Logo Board Game,,boardgame,,,
-236191,London,2017,boardgame,,,
+236191,London,2017,boardgame,,"Added separateOsprey2017secondedition,finalpublisherrulesandcontemporaryretail-copyreview.2010Treefrogoriginalretainedwithitsowncatalogrow;boroughcardsnotoriginalmap. CorrectedfalseDeckBuilding/eachturnrunclaim.",london-second-edition-2017
 1581,London Cabbie,,boardgame,,,
 2150,London's Burning,,boardgame,,,londons-burning
 40237,Long Shot,,boardgame,,,
 136991,Loony Quest,,boardgame,,,
-410991,Looot,2024,boardgame,,,
+410991,Looot,2024,boardgame,,"OriginalGigamic2024Chevallier/Escoffier/Naïade Vikingworker/tileplacement,2–4/10+/35. Replacedfalse2013RavensburgerKloßtreasuregrid; manual©2023notreleaseyear,2024physicalcopyreviewconfirmsavailability.",looot
 327,Looping Louie,1992,boardgame,,,loopin-louie
 1536,Lord of the Fries,,boardgame,,,
 823,Lord of the Rings,2000,boardgame,,"Identity review 2026-11-01: The Confrontation is a separate two-player game, not the 2000 cooperative Lord of the Rings.",
@@ -1941,7 +1941,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,ludus coriovalli,,boardgame,,,
 33690,ludus duodecim scriptorum,,boardgame,,,
 21488,Ludus latrunculorum,,boardgame,,,ludus-latrunculorum
-3646,Luftwaffe,1970,boardgame,,,
+3646,Luftwaffe,1971,boardgame,,TheStrongphysicalartifactandindependentbibliography establishLouZocchi/AvalonHill1971;correctedcatalog1970→1971andfalseDunnigancredit. BroadstrategicGermany1943–45scope;originalmanualage/scenariotimingunknown.,luftwaffe
 ,Lukho,,boardgame,,,
 228,Lunch Money,,boardgame,,,
 203401,Luther: Das Spiel,,boardgame,,,luther-das-spiel
@@ -3854,7 +3854,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Black Forest,2024,boardgame,,,
 ,Botanicus,2024,boardgame,,,
 ,EOS: Island of Angels,2024,boardgame,,,
-,Lure,2024,boardgame,,,
+,Lure,2024,boardgame,,"AllplayNakamuradicebiddingbasegame,2–5/7+/15,primaryrulesexactillustrationcredits. Retail2024editionandindependentplayedreviewdate;later2025distributionnotfirstrelease. Replacedunsupported2014Mayfaircardgame,DeepWatersexcluded.",lure
 ,Ahoy,2022,boardgame,,,
 ,Bomb Busters,2024,boardgame,duplicate,Identity review 2026-11-02: duplicate of the Bomb Busters 2024 catalog row with bgg_id 413246; the publisher confirms a 2024 release.,
 ,Dune: The Board Game,2019,boardgame,,"Identity review 2026-11-01: The CSV year selects the 2019 Gale Force Nine record, not the 1979 Avalon Hill edition.",dune
@@ -4260,3 +4260,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Korsar,2002,boardgame,,Added explicit Heidelberger2002edition with independent playedreview/bibliography. OriginalAMIGO1992Pirat and later editions remain distinct.,korsar
 ,Kamon,2020,boardgame,,Added explicitCosmoludo November2020 revision from creator’s datedrelease; color/symbol constraints andDelahayeart separate from originalJactalea2007.,kamon
 ,Kula Kula,1993,boardgame,,"Added explicitBlatz1993massmarket edition, jury/independentplayedreview. EarlierPerlhuhn1991reference remains pending; no arbitrary edition merge.",kula-kula
+,London,2010,boardgame,,"Added explicit2010TreefrogoriginalLondon row. Originalcredits/dated2010reference,boroughmapand12+/about90 scopedseparatelyfromOsprey2017cardboroughrevision;preferredcountsandexperienceprovisional.",london

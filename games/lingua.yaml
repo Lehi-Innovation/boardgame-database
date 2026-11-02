@@ -1,20 +1,23 @@
+# 1969 first publication supported by independent history and physical-set inventory.
+# ESG separately identifies 1972 Casino printing; precise represented printing unknown.
+# Age recommendations conflict (9+/10+); original age left null. Ratings provisional.
 id: lingua
 name: "Lingua"
 alternate_names: []
-year: 2006
+year: 1969
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Ravensburger German word game (1969); printing unverified
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 3
 value: 2  # Standard
 
 affinity: null
@@ -22,29 +25,34 @@ hotness: null
 
 categories:
   - Word Play
-  - Party
+  - Tile Placement
   - Family
+  - Ravensburger
 
 evokes:
   - Clever
-  - Tension
-  - Humor
+  - Complete
+  - Agency
   - Rivalry
-  - Connection
+  - Lucky
 
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [4, 5, 6]
+possible_counts:
+  - 2
+  - 3
+  - 4
+true_counts: []
 
-designer: []
+designer:
+  - Simon Braude
 publisher:
-  - Winning Moves
+  - Ravensburger
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 10
+playtime_minutes: 90
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Lingua is a word game in which players form words from a set of letter tiles or cards, competing to create the longest or most valuable word within time pressure. The game emphasizes vocabulary and speed over complex strategy, making it a light party game suitable for language enthusiasts. Published by Winning Moves, it fits within the tradition of family word games that reward broad vocabulary while remaining accessible enough for mixed-age groups. Limited information is available in English-language sources about this specific title's mechanics and publication history.
+  Build connected words with colored letter tiles on a shared board. The colors affect scoring, including bonuses for placing letters on matching spaces, so a familiar word may be worth more in a different position. Extending the crossword toward the finish area can end the game, but the highest score wins. Vocabulary, careful placement and scorekeeping matter more than speed. This record concerns Braude’s original Ravensburger word game, first published in 1969; later Casino-series printings are separately documented. The approximate 90-minute duration is a used-set retailer’s recommendation. An original box age label has not been verified.
 
 upgrades: []

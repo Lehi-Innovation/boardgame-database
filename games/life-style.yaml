@@ -1,52 +1,64 @@
+# Original mirrored instructions ©1989: Thomas Di Paolo credited for graphics;
+# photographs from agencies and named photographers, not a verified illustrator list.
+# 3–6/16+/45–60 from original-set inventory; not English-language retail evidence.
+# Experience ratings and preferred counts remain provisional.
 id: life-style
 name: "Life Style"
 alternate_names: []
-year: 1973
+year: 1989
 
 # Relationships
 game_family: null
-edition: null
+edition: Ravensburger German 015726 (1989)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 2  # Medium
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 2
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
-  - Racing
-  - Dice Rolling
-  - Family
-  - Events
+  - Party
+  - Deduction
+  - Humor
+  - Ravensburger
 
 evokes:
-  - Lucky
-  - Tension
-  - Humor
-  - Rivalry
+  - Connection
   - Discovery
+  - Humor
+  - Clever
+  - Rivalry
 
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [3, 4, 5]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts:
+  - 3
+  - 4
+  - 5
 
-designer: []
+designer:
+  - Christian Raffeiner
+  - Helmut Walch
 publisher:
-  - MB Games
-  - Whitman
+  - Ravensburger
 artist: []
 playtime_minutes: 60
 min_playtime: 45
-max_playtime: 90
-min_age: 10
+max_playtime: 60
+min_age: 16
 
 description: |
-  Life Style is a life simulation board game in the tradition of games like The Game of Life, in which players make choices and encounter random events as they progress through various stages of adult life. Players navigate education, career, family, and financial decisions on a board track, with dice and card draws determining outcomes and the final winner being the player who best manages their life path's challenges and opportunities. Published in the early 1970s, it reflects the era's popular life-planning game genre exemplified by Milton Bradley's Game of Life, with a somewhat more modern framing of lifestyle choices.
+  How well do you know the people at the table? One player privately ranks four photographs in response to a question about tastes or preferences; everyone else tries to predict that ranking. Matching positions moves your pawn along the scoring track, while the reveals invite people to explain their choices. Optional advanced rules add favorite and joker markers. The German-language questions and pictures are central to play.
 
 upgrades: []

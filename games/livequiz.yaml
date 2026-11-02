@@ -1,20 +1,24 @@
+# Physical-set collector supports Dutch 2007/3–6/12+; contemporary 2007 fair
+# report corroborates availability and internet answers, not current service operation.
+# Designer/artist/original duration unknown; no unsupported fastest-response rules.
+# Experience ratings are provisional.
 id: livequiz
 name: "Livequiz"
 alternate_names: []
-year: 2005
+year: 2007
 
 # Relationships
 game_family: null
-edition: null
+edition: Identity Games Dutch edition (2007)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 2  # Moderate
+length: null
+rules_complexity: 1
+strategic_depth: 0
+feel: 2
 value: 2  # Standard
 
 affinity: null
@@ -23,27 +27,31 @@ hotness: null
 categories:
   - Trivia
   - Party
-  - Real-time
 
 evokes:
-  - Tension
-  - Humor
-  - Rivalry
-  - Lucky
   - Connection
+  - Discovery
+  - Clever
+  - Rivalry
+  - Humor
 
-possible_counts: [2, 3, 4, 5, 6, 7, 8]
-true_counts: [4, 5, 6, 7, 8]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts: []
 
 designer: []
-publisher: []
+publisher:
+  - Identity Games
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
 min_age: 12
 
 description: |
-  Livequiz is a trivia party game designed to recreate the experience of a live quiz night or pub quiz in board game form. Players or teams answer questions across multiple categories, competing to accumulate points through correct answers, with the fastest correct response often earning bonus points to reward quick thinking. The game typically includes question cards across general knowledge, pop culture, sports, science, and entertainment categories. Limited specific documentation is available about this title's designer and publisher in English-language sources. It serves as a home alternative to organized pub quiz events.
+  A Dutch quiz built around questions whose answers can change: an officeholder, a sporting champion or yesterday’s news. The printed question cards were paired with answers obtained online, keeping the subject matter tied to the day rather than a fixed answer booklet. It suits a group interested in current affairs, with Dutch reading and internet access central to the original format. Before using an old set, check whether its required answer service is still accessible; current availability has not been verified. This record represents Identity Games’ 2007 Dutch game, with supported counts from an actual-set collector listing. Original session duration remains unknown.
 
 upgrades: []

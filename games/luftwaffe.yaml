@@ -1,3 +1,6 @@
+# Museum artifact110.14245 and independent bibliography establish1971/LouZocchi.
+# Original full manual not inspected; PBEM report consulted only for broad scope.
+# Preferred counts and experience ratings are provisional.
 id: luftwaffe
 name: "Luftwaffe"
 alternate_names: []
@@ -5,16 +8,16 @@ year: 1971
 
 # Relationships
 game_family: null
-edition: null
+edition: Avalon Hill original (1971)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 3  # Long
+length: null
 rules_complexity: 3  # Complex
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4
 value: 2  # Standard
 
 affinity: null
@@ -38,16 +41,16 @@ possible_counts: [2]
 true_counts: [2]
 
 designer:
-  - James F. Dunnigan
+  - Lou Zocchi
 publisher:
   - Avalon Hill
 artist: []
-playtime_minutes: 180
-min_playtime: 120
-max_playtime: 240
-min_age: 14
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Luftwaffe is a hex-and-counter air combat wargame designed by James F. Dunnigan and published by Avalon Hill in 1971, covering the strategic bombing campaign over Germany during World War II. Players command either Allied bomber formations and escort fighters attempting to destroy German industrial targets, or German interceptor forces trying to defend the Reich. Aircraft types are modeled in detail with specific speed, altitude, and firepower ratings, and scenarios cover key raids including the infamous Schweinfurt missions. One of Avalon Hill's earliest dedicated air warfare games, Luftwaffe helped establish the conventions of the air wargame genre.
+  Plan Allied bombing operations and the German defense over Germany during 1943–45. Choose targets, allocate aircraft and organize interception across a strategic map; reaching a target and preserving forces compete for attention. The basic raid and longer campaign rules offer different commitments, so agree on a scenario before arranging a session.
 
 upgrades: []

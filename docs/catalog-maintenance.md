@@ -131,3 +131,22 @@ Pfennig (1994)** represents the German marketplace, while **Kingdoms (2002)**
 represents FFG's fantasy retheme. The consulted German market-game rules are a
 ©1995 reprint; they do not establish an original 1995 release. Dated rows identify
 the appropriate record without inventing external discovery IDs.
+
+Unrelated same-title games also remain separate: **Labyrinth (1986)** is Kobbert's
+Ravensburger maze, while **Labyrinth: The War on Terror (2010)** is Ruhnke's GMT
+simulation. The latter has its own record, supported by the original playbook and
+a contemporary played review; the publisher's linked 2011 second-edition rules
+are identified as a revision. **London (2010)** retains Treefrog's borough map;
+**London (Second Edition, 2017)** separately represents Osprey's borough cards and
+revised rules. A dated original-edition row covers the former without assigning
+the latter's age, timing or components to it.
+
+Some previous records described unsupported games rather than verified editions.
+Lemming, Life Style, Liftoff!, Light Division, Lingua, Livequiz, Looot and Lure now
+identify the sourced games under their existing IDs. The unsupported old publisher,
+year and mechanism combinations were not turned into additional invented records.
+The already separate 2018 `lift-off` record remains distinct from Task Force's
+1989 `liftoff`. Unknown original labels stay unknown: for example, Dutch Livequiz's
+current answer-service availability and Liftoff!'s original duration remain
+unverified. Museum evidence identifies Luftwaffe as Avalon Hill/Lou Zocchi (1971),
+correcting its CSV date and false designer credit.

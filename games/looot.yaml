@@ -1,29 +1,36 @@
+# Release2024 from physical played-copy review, not the rules’ ©2023 notice.
+# 2–4/10+/35 recommendations corroborated by independent review.
+# Preferred counts and experience ratings remain provisional.
 id: looot
 name: "Looot"
 alternate_names: []
-year: 2013
+year: 2024
 
 # Relationships
 game_family: null
-edition: null
+edition: Gigamic original (2024)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+length: 1
+rules_complexity: 2
+strategic_depth: 2
+feel: 3
 value: 2  # Standard
 
 affinity: null
 hotness: null
 
 categories:
-  - Abstract
+  - Worker Placement
   - Tile Placement
+  - Network Building
+  - Pattern Building
   - Set Collection
+  - Family
+  - Medieval
 
 evokes:
   - Clever
@@ -32,20 +39,27 @@ evokes:
   - Complete
   - Agency
 
-possible_counts: [2, 3, 4]
-true_counts: [2, 3]
+possible_counts:
+  - 2
+  - 3
+  - 4
+true_counts:
+  - 2
+  - 3
 
 designer:
-  - Stefan Kloß
+  - Charles Chevallier
+  - Laurent Escoffier
 publisher:
-  - Ravensburger
-artist: []
-playtime_minutes: 25
-min_playtime: 20
-max_playtime: 30
-min_age: 8
+  - Gigamic
+artist:
+  - Naïade
+playtime_minutes: 35
+min_playtime: 35
+max_playtime: 35
+min_age: 10
 
 description: |
-  Looot is a tile-laying abstract game published by Ravensburger in which players draw and place treasure chest tiles onto a grid, scoring points by completing rows, columns, or connected groups matching specific treasure types. Each turn players draw tiles and must place them adjacently, with careful positioning unlocking bonus scoring opportunities while blocking opponents. The pirate-treasure theme adds color to what is fundamentally a tight abstract placement puzzle. With quick setup and short play time, Looot works well as a filler or family game for players who enjoy spatial thinking and set completion challenges.
+  Place Vikings on a shared landscape to gather resources and capture buildings, then fit those rewards into your own fjord. Resources placed around longships and construction sites complete requirements and improve your scoring. Meanwhile, the shared map rewards useful connections and quick access to valuable spaces. You have only thirteen Vikings, three special shields and limited room in your fjord, so each placement shapes later choices. Unfinished longships cost points.
 
 upgrades: []
