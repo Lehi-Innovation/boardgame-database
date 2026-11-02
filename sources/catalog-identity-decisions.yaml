@@ -1170,3 +1170,79 @@ decisions:
     d6 accidentally omitted from manufactured box. Added primary-rule Moriya art,
     standing/sideways/exhausted worker effects and workforce cap; removed false bag-building
     tag and Party estimate.
+- name: Acquire
+  previous_catalog_year: 1962
+  year: 1964
+  yaml_id: acquire
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.acquisitiongames.com/index.php/history-of-acquire/the-origin-of-acquire?showall=1
+  - https://opinionatedgamers.com/2014/05/29/how-acquire-became-acquire/
+  - https://www.acquisitiongames.com/index.php/history-of-acquire/the-3m-era
+  reason: Represented 3M 1964 mass-market edition; 1962 packaging copyright is not publication.
+    Distinct 1963 World Map test edition documented by independent archival investigations.
+- name: A la carte
+  previous_record_year: 1990
+  previous_catalog_year: 1989
+  year: 1989
+  yaml_id: a-la-carte
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.e-s-g.eu/sammelgebiete/verlage/moskito/
+  - https://gamesweplay.de/alacarte_moskito.html
+  - https://www.hall9000.de/html/spiel/alacarte
+  - https://error.heidelbaer.de/info/wer-wir-sind/
+  reason: Original Schmiel/Moskito 1989 game, not the revised 2009/10 edition or 1990 award
+    date. Corrected false Zoch design/publisher and later-edition counts/age.
+- name: Abilene
+  previous_record_year: 1984
+  previous_catalog_year: 1983
+  year: 1983
+  yaml_id: abilene
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/abilene/
+  - https://luding.org/Skripte/GameData.py/DEgameid/195
+  reason: Original Hexagames 1983, distinct from revised Schmidt 1993. Jury specifies 2–3/7+/45
+    minutes; Luding lists three/7+/90. Original rules unread; differences remain explicit.
+- name: ABBA Monopoly
+  previous_record_year: 2004
+  previous_catalog_year: 2014
+  year: 2014
+  yaml_id: abba-monopoly
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.worldofmonopoly.com/list-ad/list-aa-ad/abba/index.php
+  - https://www.abba-intermezzo.de/earc14.htm
+  - https://www.abbafanclubshop.com/info/AB800.pdf
+  - https://www.bol.com/be/nl/p/abba-monopoly/9200000089118552/
+  reason: Winning Moves UK bilingual English/Swedish The Phenomenon B33651020. Contemporary
+    December 2014 sales/news corroborate release year, correcting unsupported detailed 2004;
+    exact release day varies by notice.
+- name: 'Doom: The Boardgame'
+  year: 2005
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: &id001
+  - https://images-cdn.fantasyflightgames.com/ffg_content/Doom/doomrules.pdf
+  - https://www.wog.ch/en/index.cfm/details/product/6618-Doom-The-Boardgame-EN
+  reason: Existing detailed record represents original English 2004, independently dated by
+    retailer and original rules. Generic CSV 2005 may refer to German localization planned
+    for autumn 2005; actual localized release/language remains unverified. Retained pending
+    instead of forcing English-edition mapping; separate sourced English 2004 row added.
+- name: 'Doom: The Boardgame'
+  year: 2004
+  yaml_id: doom-the-boardgame
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: *id001
+  reason: Added explicit original English edition row. Rulebook establishes 2–4/1–2 hours
+    and scenario-specific victory; retailer independently dates English release 21 October
+    2004. Removed unsupported bestseller, formal classes and universal six-frag claims; primary
+    credits distinguish Wilson lead design, Petersen additional design/development and Nicely/id
+    Software graphics.

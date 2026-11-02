@@ -1,28 +1,31 @@
 id: abilene
 name: "Abilene"
 alternate_names: []
-year: 1984
+year: 1983
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Hexagames edition
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Short
 rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+strategic_depth: 2  # Tactics: protect herds, raid opponents and assess hidden health.
+feel: 4  # Fierce: cattle theft and lethal cowboy duels.
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
-  - Route Building
-  - Racing
+  - Hex Map
+  - Dice Rolling
+  - Bluffing
+  - Take That
+  - Economic
   - Family
   - Western
 
@@ -33,20 +36,30 @@ evokes:
   - Progress
   - Agency
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts: [2, 3]  # Jury lists 2–3; Luding lists only three. Original rules unread.
+true_counts: [3]  # Provisional suggestion; both references agree on three.
 
 designer:
-  - Roland Siegers
+  - Roland Siegers  # Also credited as Roy Winner.
 publisher:
   - Hexagames
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 10
+playtime_minutes: 45  # Jury estimate; Luding instead lists 90 minutes.
+min_playtime: null
+max_playtime: null
+min_age: 7  # Jury and Luding recommendations; original box label unverified.
 
 description: |
-  Abilene is a 1984 Western-themed board game set in 1870 when the Kansas city was the premier transshipment point for Texas cattle drives. Players take on the roles of cowboys herding cattle across the Great Plains and racing to deliver their herds to Abilene for profit. The game was originally published by Hexagames and later republished by Schmidt Spiele in 1993, and captures the competitive spirit of the cattle-drive era in a family-friendly format.
+  Drive cattle to Abilene for cash while your cowboys protect your herds or steal
+  someone else's. Stolen cattle pay extra, but raids can trigger dice-driven
+  duels that kill cowboys. Herd health is hidden: an opponent who correctly calls
+  out diseased cattle can profit from your delivery. Winning depends on money,
+  rather than simply reaching town first.
+
+  This record represents the original Hexagames game cataloged in 1983, distinct
+  from Schmidt's revised 1993 version. The award jury recommends two or three
+  players and about 45 minutes; Luding lists three and 90 minutes. Both recommend
+  age seven. Original rules and packaging were not inspected to settle those
+  differences, so allow extra time when learning.
 
 upgrades: []

@@ -1,19 +1,19 @@
 id: a-la-carte
 name: "A la Carte"
-year: 1990
+year: 1989
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Moskito edition
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Short (30-45 min)
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
-feel: 2  # Moderate competitive/humorous
+feel: 2  # Party: playful cooking mishaps and interference.
 value: 2  # Standard
 
 # Personal ratings (leave null until rated)
@@ -37,29 +37,32 @@ evokes:
   - Rivalry
 
 # Player counts
-possible_counts: [2, 3, 4]
-true_counts: [2, 3, 4]
+possible_counts: [3, 4]  # Original-edition review; revised 2009/10 edition supports two.
+true_counts: [3, 4]  # Provisional suggestion.
 
 # Metadata
 designer:
-  - Klaus Zoch
+  - Karl-Heinz Schmiel
 publisher:
-  - Zoch Verlag
-artist: []
-playtime_minutes: 30
-min_playtime: 20
+  - Moskito
+artist: []  # Later revised-edition illustration credits are not transferred.
+playtime_minutes: 30  # Original-edition review gives 30–45 minutes.
+min_playtime: 30
 max_playtime: 45
-min_age: 8
+min_age: 10  # Original-edition review recommendation, not inspected box labeling.
 
 # Description
 description: |
-  A dexterity cooking game in which players prepare dishes by carefully adding
-  spices from miniature spice shakers to small cooking pots. The challenge is
-  dispensing just the right amount of each spice — too little and your dish is
-  bland, too much and it's ruined. Players race to complete recipes while avoiding
-  spice disasters. The tactile spice-shaker mechanic and colorful food-themed
-  components made the game a Spiel des Jahres nominee. Published by Zoch Verlag,
-  the German publisher known for innovative family games.
+  Cook miniature dishes by rolling to heat your stove and tipping tiny seasoning
+  pieces from bottles into a pan. Each recipe needs the right ingredients and
+  heat; too much seasoning or a burnt dish costs points. The bottle may release
+  nothing or far more than you wanted, making careful hands and sudden mishaps
+  part of the fun. Some actions also disrupt another cook's work.
+
+  This is Schmiel's original 1989 Moskito game for three or four, with its
+  clothespin stove markers. Later revised editions have different components and
+  specifications; their two-player support and illustration credits are not
+  assumed here. The original placed second in the 1990 Deutscher Spielepreis.
 
 # Upgrades
 upgrades: []

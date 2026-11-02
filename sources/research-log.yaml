@@ -11615,3 +11615,129 @@ entries:
       retailer stock corroborates completed 2023 availability rather than only a prospective
       crowdfunding date. This is not treated as proof of an exact universal first-delivery
       day.
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: acquire
+    url: https://www.acquisitiongames.com/index.php/history-of-acquire/the-origin-of-acquire?showall=1
+    description: 'Read collector Lloyd Solon’s archival investigation and diary/correspondence
+      reproductions: 3M first saw Vacation in 1963, renamed it Acquire, and shipped
+      test copies late in 1963; 1962 box copyright does not establish publication. Used
+      documented chronology, not speculative copyright motives or unrelated legal claims.
+      Early manuscript specifies three-to-six; original 1964 age label unverified.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: acquire
+    url: https://opinionatedgamers.com/2014/05/29/how-acquire-became-acquire/
+    description: Read Joe Huber’s independent first-hand Strong Museum archival investigation
+      and comparison with his World Map copy. Corroborates 1963 test marketing and 1964
+      mass-market version; speculative copyright explanation is not asserted as settled
+      fact.
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: acquire
+    url: https://www.acquisitiongames.com/index.php/history-of-acquire/the-3m-era
+    description: 'Read collector’s own 3M edition/artifact history: 1963 World Map had
+      one purchase per turn and variable share counts; 1964 wood-tile mass version has
+      25 shares per chain, three purchases and founder bonus. Pixel-inspected linked
+      wood-set photograph only; prominent Lloyd’s Rules booklet is a collector supplement,
+      not original publisher rules. No later age or two-player labels transferred.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: a-la-carte
+    url: https://www.e-s-g.eu/sammelgebiete/verlage/moskito/
+    description: 'Read collectors’ guild Moskito publisher history and original-box
+      gallery: Schmiel’s company founded 1989 and A la Carte listed in 1989. Distinguished
+      publication from 1990 award and removed false Klaus Zoch/Zoch identity.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: a-la-carte
+    url: https://gamesweplay.de/alacarte_moskito.html
+    description: 'Direct HTTP read of Harald Schrapers’s own original Moskito review
+      after web cache miss: heat die, 0–7 stove/clothespin marker, single bottle inversion
+      without extra shaking, burnt/over-seasoned failures and 1990 Deutscher Spielepreis
+      second place. Original play account, not newer pancake components.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: a-la-carte
+    url: https://www.hall9000.de/html/spiel/alacarte
+    description: 'Read Hans-Peter Stoll’s original-Moskito cooking play review, online
+      since 2003: Schmiel, 1989, 3–4, 10+, 30–45 minutes and three-action cooking/interference.
+      Header also mixes later awards/illustrators, so did not transfer those art credits
+      to original. Player/age labels corroborate indexed original Dutch translation;
+      full translation text could not be decoded.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: a-la-carte
+    url: https://error.heidelbaer.de/info/wer-wir-sind/
+    description: Read publisher’s own historical product entry explicitly distinguishing
+      2009/10 revised edition from first 1989 Moskito publication. Its 2–4/8+ and Tisch/Eeuwyk
+      illustration credits belong to revision, not assumed for original.
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: abilene
+    url: https://www.spiel-des-jahres.de/spiele/abilene/
+    description: 'Read original official 1985 jury account: Siegers alias Roy Winner,
+      Hexagames, cattle theft/double payouts, hidden disease challenges, cowboy duels,
+      cash victory; lists 2–3/7+/about 45 minutes and distinct revised Schmidt 1993.
+      Award year not publication; historical original rules/box unread.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: abilene
+    url: https://luding.org/Skripte/GameData.py/DEgameid/195
+    description: 'Direct HTTP read of independent old Luding bibliography (last modified
+      2007): 1983, Roy Winner alias, Hexagames/TST, three players, 7+, 90 minutes. Own
+      catalog/component description corroborates theft/duels and three-color herds/cowboys.
+      Differences from jury 2–3/45 remain explicit rather than invented consensus.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: abba-monopoly
+    url: https://www.worldofmonopoly.com/list-ad/list-aa-ad/abba/index.php
+    description: 'Read indexed collector edition entry for Sweden The Phenomenon B33651020:
+      Winning Moves UK 2014, December 12 notice, singles/studios and themed tokens.
+      Direct HTTP now returns 404; indexed edition body used, not navigation copyright.
+      Exact release day differs from contemporary fan announcements.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: abba-monopoly
+    url: https://www.abba-intermezzo.de/earc14.htm
+    description: 'Direct HTTP read of contemporary December 4, 2014 fan-club news announcing
+      December 8 release: one bilingual English/Swedish set, singles/studios, six music-related
+      tokens. Pixel-inspected linked monopoly.jpg box/board marketing image; tiny age/player
+      labels remain unreadable, six tokens alone do not establish maximum players. Image
+      used for research only, not acquired as active cover.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: abba-monopoly
+    url: https://www.abbafanclubshop.com/info/AB800.pdf
+    description: 'Read indexed PDF page 30 of Official International ABBA Fan Club’s
+      December 2014 sales catalog (catalogus_20141216): ZZ990 bilingual Monopoly, expected
+      around December 15/week 51 and shipment notices. Corroborates actual contemporary
+      sales context in 2014; does not settle a universal exact release day.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: abba-monopoly
+    url: https://www.bol.com/be/nl/p/abba-monopoly/9200000089118552/
+    description: 'Read retailer’s ABBA-specific EAN 5036905023160 listing: 2–6 and 8+,
+      supporting retained counts/age without inferring from six tokens. Title/image
+      context corroborates ABBA product; loose Hasbro branding and English-only language
+      metadata do not override collector manufacturer or contemporary bilingual documentation.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: doom-the-boardgame
+    url: https://images-cdn.fantasyflightgames.com/ffg_content/Doom/doomrules.pdf
+    description: 'Downloaded and text-read original publisher rules: 2–4, 1–2 hours;
+      scenario determines objectives, many but not all use frag targets. Marines receive
+      random ability cards, not formal selectable classes. Credits Wilson design, Petersen
+      additional design/development, Nicely/id Software graphics; 2004 copyrights. Removed
+      unsupported bestseller claim; age 12 comes separately from English retailer.'
+  - timestamp: '2026-11-02T19:27:28Z'
+    game_id: doom-the-boardgame
+    url: https://www.wog.ch/en/index.cfm/details/product/6618-Doom-The-Boardgame-EN
+    description: 'Direct HTTP read of retailer’s archived original English/UK product
+      after web cache miss: release 21 October 2004, Wilson/FFG, 2–4, 12+, 60–90 minutes.
+      Explicitly says German adaptation planned autumn 2005, which does not establish
+      its completed release or the generic CSV row’s language. Retained 2005 pending
+      and added explicit English 2004 row; primary rules’ 60–120 duration used instead
+      of retailer’s narrower estimate.'
+  - timestamp: '2026-11-02T19:28:05Z'
+    game_id: a-la-carte
+    url: https://spelarch.vives.be/PDFspelregels/1319.pdf
+    description: 'Consulted search-indexed header of Patrick Scheemaker’s original-era
+      Dutch rules translation: Schmiel, 3–4, 10+. Downloaded PDF text uses a garbled
+      font encoding; full rules were not decoded or pixel-inspected. Current web fetch
+      returns 502. Original mechanics rely on independent original-Moskito play reviews
+      instead; revised publisher specifications are distinguished.'
+  - timestamp: '2026-11-02T19:28:05Z'
+    game_id: doom-the-boardgame
+    url: https://www.fantasyflightgames.com/en/news/2016/7/28/the-invasion-is-imminent-1/
+    description: Consulted indexed original publisher announcement describing a completely
+      redesigned 2016 DOOM for 2–5. Current direct web open redirects to generic 2026
+      news, not the old article; indexed historical text supports edition distinction
+      only. No newer player counts, Glory Kill rules or current product specifications
+      transferred to original 2004 game.

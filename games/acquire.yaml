@@ -4,16 +4,16 @@ year: 1964
 
 # Relationships
 game_family: null
-edition: null
+edition: 3M 1964 mass-market edition
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 2  # Medium (60-90 min)
+# Ratings (0-4 scale): provisional experience estimates, not owner ratings.
+length: 2  # Medium
 rules_complexity: 1  # Simple
 strategic_depth: 3  # Deep
-feel: 2  # Moderate
+feel: 4  # Fierce: directly competing stock interests and merger decisions.
 value: 2  # Standard
 
 # Personal ratings (leave null until rated)
@@ -25,7 +25,7 @@ categories:
   - Tile Placement
   - Set Collection
   - Economic
-  - Auctions/Bidding
+  - Stock Holding
   - Family
   - Cult Classic
   - Abstract
@@ -39,7 +39,7 @@ evokes:
   - Agency
 
 # Player counts
-possible_counts: [2, 3, 4, 5, 6]
+possible_counts: [3, 4, 5, 6]  # Documented early core; later two-player rules are not assumed.
 true_counts: [3, 4, 5]
 
 # Metadata
@@ -47,34 +47,23 @@ designer:
   - Sid Sackson
 publisher:
   - 3M
-  - Avalon Hill
-  - Hasbro
-  - Wizards of the Coast
-artist:
-  - various
-playtime_minutes: 75
-min_playtime: 60
-max_playtime: 90
-min_age: 12
+artist: []  # Original printing's art credits unverified.
+playtime_minutes: 75  # Retained provisional session estimate.
+min_playtime: null
+max_playtime: null
+min_age: null  # Original edition's age label unverified.
 
 # Description
 description: |
-  Acquire is a classic economic strategy game designed by Sid Sackson in 1964,
-  originally published by 3M as part of their bookshelf game series. Players take
-  turns placing hotel chain tiles on a grid, founding new companies and triggering
-  mergers as the board fills up.
+  Buy hotel-chain shares and place tiles that found, expand or merge companies.
+  Merger payouts reward the leading shareholders of the absorbed chain, supplying
+  cash to invest again. Stock purchases have listed prices; they are not auctions.
+  You must judge which chains will grow and when a merger benefits your rivals.
 
-  The core of the game is stock investment: players buy shares in hotel chains,
-  and when chains merge, majority and minority stockholders receive bonuses based
-  on the acquired chain's size. The funds earned from mergers can be reinvested
-  into growing chains. At game's end, all chains are evaluated and the player
-  with the most cash and stock value wins.
-
-  Acquire is celebrated for its elegant simplicity — the rules are easy to learn
-  but the decisions about when to invest, when to trigger mergers, and which chains
-  to control create deep strategic play. It remains one of the most respected
-  economic board games ever designed and has been reprinted numerous times over
-  six decades.
+  This record represents 3M's 1964 mass-market edition, with three share purchases
+  per turn and a founder's bonus share. Archival investigations distinguish it
+  from the limited 1963 World Map test release, whose stock and purchase rules
+  differed. The 1962 copyright on packaging is not evidence of a 1962 release.
 
 # Upgrades
 upgrades: []

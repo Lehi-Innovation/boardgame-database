@@ -62,7 +62,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 39953,A Game of Thrones: The Card Game,2008,boardgame,,,
 5476,A Gleam of Bayonets: The Battle of Antietam,,boardgame,,,a-gleam-of-bayonets
 701,A House Divided,,boardgame,,,
-217,A la carte,1989,boardgame,,,
+217,A la carte,1989,boardgame,,"Original Schmiel/Moskito 1989 game, not the revised 2009/10 edition or 1990 award date. Corrected false Zoch design/publisher and later-edition counts/age.",a-la-carte
 2061,A Line in the Sand,,boardgame,,,
 2666,A Mighty Fortress,1977,boardgame,,,
 141517,A Study in Emerald,,boardgame,,,
@@ -75,8 +75,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 526,Abalone,1990,boardgame,,,
 21324,Abande,,boardgame,,,
 ,Abandon All Artichokes,2020,boardgame,,,
-179687,ABBA Monopoly,2014,boardgame,,,
-906,Abilene,1983,boardgame,,,
+179687,ABBA Monopoly,2014,boardgame,,"Winning Moves UK bilingual English/Swedish The Phenomenon B33651020. Contemporary December 2014 sales/news corroborate release year, correcting unsupported detailed 2004; exact release day varies by notice.",abba-monopoly
+906,Abilene,1983,boardgame,,"Original Hexagames 1983, distinct from revised Schmidt 1993. Jury specifies 2–3/7+/45 minutes; Luding lists three/7+/90. Original rules unread; differences remain explicit.",abilene
 65516,Ablaze!,,boardgame,,,
 32337,About Time,,boardgame,,,
 ,Above and Below,,boardgame,,,
@@ -87,7 +87,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,acey-deucey,,boardgame,,,
 ,Achi,,boardgame,,,
 172454,ACHTUNG!,,boardgame,,,
-5,Acquire,1962,boardgame,,,
+5,Acquire,1964,boardgame,,Represented 3M 1964 mass-market edition; 1962 packaging copyright is not publication. Distinct 1963 World Map test edition documented by independent archival investigations.,acquire
 ,Acre: Richard Lionheart's Siege,,boardgame,,,acre-richard-lionhearts-siege
 12646,Acronymble,,boardgame,,,
 9577,Across Suez,,boardgame,,,
@@ -1012,7 +1012,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Donjons & Dominos,2022,boardgame,,,donjons-et-dominos
 150558,Donkey Racing,,boardgame,,,
 299939,Doodle Dungeon,2020,boardgame,,,
-10640,Doom: The Boardgame,2005,boardgame,,,
+10640,Doom: The Boardgame,2005,boardgame,,"Existing detailed record represents original English 2004, independently dated by retailer and original rules. Generic CSV 2005 may refer to German localization planned for autumn 2005; actual localized release/language remains unverified. Retained pending instead of forcing English-edition mapping; separate sourced English 2004 row added.",
 156714,Doomtown,,boardgame,,,
 3512,Doorways to Adventure,1986,boardgame,,,
 6212,Doorways to Horror,1986,boardgame,,,
@@ -4249,3 +4249,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Master of Orion: The Board Game,2017,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-the-board-game
 ,Rubik's Flip (University Games),,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",rubiks-flip
 ,Hanabi,2010,boardgame,,"2026-11-02: Retained historical hanabi slug and 2010 date for the original French cooperative game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes rules and independent edition catalog identify that scope. Removed blended later publishers, used original printed Sengissen credit, and corrected third-error/final-round rules. Added separate original-year catalog row without inventing an external ID; not a record of the distinct competitive Ikebana rules.",hanabi
+,Doom: The Boardgame,2004,boardgame,,Original English Fantasy Flight edition: 2004 retailer release plus original rules. Separate from unresolved generic 2005 catalog row and redesigned 2016 game.,doom-the-boardgame

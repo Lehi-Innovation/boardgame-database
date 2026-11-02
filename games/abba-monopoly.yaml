@@ -1,19 +1,19 @@
 id: abba-monopoly
 name: "ABBA Monopoly"
-year: 2004
+year: 2014
 
 # Relationships
 game_family: monopoly
-edition: ABBA
+edition: ABBA The Phenomenon, bilingual English/Swedish (B33651020)
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 3  # Long (3+ hours)
+# Ratings (0-4 scale): provisional experience estimates.
+length: 3  # Long
 rules_complexity: 1  # Simple
-strategic_depth: 0  # Luck-driven
-feel: 2  # Moderate
+strategic_depth: 1  # Basic financial and trading decisions.
+feel: 4  # Fierce: rent, trades and bankruptcy directly affect opponents.
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -35,30 +35,30 @@ evokes:
   - Progress
 
 # Player counts
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [3, 4, 5]
+possible_counts: [2, 3, 4, 5, 6]  # Retailer EAN 5036905023160; tiny photo labels unreadable.
+true_counts: [3, 4, 5]  # Retained provisional suggestion.
 
 # Metadata
 designer: []
 publisher:
-  - Hasbro
+  - Winning Moves UK
 artist: []
-playtime_minutes: 150
-min_playtime: 90
-max_playtime: 240
-min_age: 8
+playtime_minutes: 150  # Retained provisional estimate; actual duration varies.
+min_playtime: null
+max_playtime: null
+min_age: 8  # Retailer recommendation; original printed label not readable in photo.
 
 # Description
 description: |
-  ABBA Monopoly is a themed edition of the classic Monopoly board game featuring
-  the iconic Swedish pop group ABBA. The standard Monopoly mechanics — roll dice,
-  buy properties, collect rent, and bankrupt opponents — are reskinned with ABBA
-  branding, music references, and imagery from the band's catalog.
+  Buy ABBA singles and build recording studios as you move around a themed
+  Monopoly board. Rent and trading drive the competition, with bankruptcy still
+  a practical risk. Six themed tokens reference the band's music and stage
+  history, including a platform boot and star-shaped guitar.
 
-  Properties, tokens, and board spaces are themed around ABBA songs, albums, and
-  locations significant to the band. This collector's edition appeals to both
-  Monopoly enthusiasts and ABBA fans, serving as both a playable game and a
-  memorabilia piece.
+  This is Winning Moves UK's English/Swedish The Phenomenon edition, announced
+  for December 2014. Both languages appear in the same set. The familiar financial
+  game remains central; knowing ABBA's music is part of the theme rather than a
+  trivia challenge.
 
 # Upgrades
 upgrades: []
