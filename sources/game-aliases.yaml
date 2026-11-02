@@ -18,8 +18,11 @@ aliases:
     game_id: ca-tactical-naval-warfare-in-the-pacific
     reason: Stored reference title is CA Tactical Naval Warfare in the Pacific 1941-43, matching the current record.
   call-my-bluff-1993:
-    game_id: call-my-bluff
-    reason: Notes explicitly identify Richard Borg and the 1993 F.X. Schmid game.
+    game_id: bluff-1993
+    reason: Historical notes explicitly identify Borg and the 1993 F.X. Schmid
+      award game, now separately represented as German Bluff. The current
+      call-my-bluff record is the distinct English 1997 edition; later source
+      review corrected the former blended identity without changing log bytes.
   caverna-the-cave-farmers:
     game_id: caverna
     reason: Historical publisher/review URLs name The Cave Farmers, which is the current record's full title.

@@ -1488,3 +1488,131 @@ decisions:
   - https://fractaljuegos.com/en/juegos/next-station-london/
   reason: Added explicit original Blue Orange English2022 row, with publisher/rules and actual
     May2022 review. Generic2023 reference stays pending; no source identifier invented.
+- name: Call My Bluff
+  year: 1993
+  yaml_id: bluff-1993
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/bluff/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1134
+  reason: Award-list English title represents German F.X.Schmid Bluff1993; added separately
+    scoped record. Existing English CallMyBluff is actually1997, while original MB Liar’sDice
+    is1987. Creator-interview history, jury and independent bibliography distinguish these
+    editions.
+- name: Liar's Dice
+  year: null
+  yaml_id: liars-dice
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.donsgamecloset.com/liarsdice1987.html
+  - https://opinionatedgamers.com/2015/07/13/sdj-re-reviews-15-bluff-a-k-a-liars-dice-or-call-my-bluff/
+  reason: Retained explicit canonical mapping, now scoped to original MB1987 Borg boxed game
+    rather than false1993/traditionalDudo blend. Actual-set retailer inventory2–6/10-to-adult;
+    generic catalog row carries no edition year.
+- name: Focus
+  year: null
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/focus-1980/
+  - https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+  reason: Parker German1980 and MB EnglishDomination1982 remain distinct, legitimately sharing
+    Focus title. Generic undated row does not identify edition; retained pending, with separate
+    explicit Parker1980 row. Corrected false KOSMOS1981 blend; 1981 is award year.
+- name: Domination
+  year: null
+  yaml_id: domination
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+  - https://tesera.ru/images/items/1508830/FocusENG.pdf
+  - https://www.hasbro.com/common/instruct/domination.pdf
+  reason: Canonical primary-title mapping selects retained MB English1982 edition, not German
+    ParkerFocus1980. Independent edition history and teaching transcription corroborate identity/core
+    rules; original age label unverified. Generic CSV row does not itself establish a printing
+    year.
+- name: Aggravation
+  year: null
+  yaml_id: aggravation
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamecatalog.org/game/?gameid=25658
+  - https://www.donsgamecloset.com/aggravation4player1962.html
+  reason: Canonical commercial title selects retained CO-5 four-player1962 set; Wahoo remains
+    traditional variants, no longer an alternate title claiming identical commercial edition.
+    AGPI and actual-set inventory establish edition; catalog source row itself is undated.
+- name: Wahoo
+  year: null
+  yaml_id: wahoo
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rdesignsco.com/wahoo-aggravation/
+  - https://lakelinedesigns.com/products/wooden-wahoo-board-game-4-or-6-player-maple-cherry-or-walnut-engraved-accents
+  - https://www.spinnerbaker.com/wahoo.htm
+  - https://jkgeekly.com/portfolio/wahoo/
+  reason: Traditional marble-racing variants retained separately from CO-5 Aggravation1962.
+    Maker rules/physical boards and implementation establish identity; no universal publication
+    year or age inferred. Removed false1962/ParkerBrothers/drilling claims.
+- name: bagh-chal
+  year: null
+  yaml_id: bagh-chal
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamescrafters.berkeley.edu/games.php?game=baghchal
+  - https://nepali.games/baghchal/how-to-play
+  reason: Berkeley rules establish specific Nepali4-tiger/20-goat game. Archived broader Tiger
+    game family overview unchanged rather than aliasing family to one member. Cleared unsupported1900/8+
+    and clarified tigers move/capture during goat placement.
+- name: Advanced Third Reich
+  year: null
+  yaml_id: advanced-third-reich
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/9853/Advanced-Third-Reich
+  - https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf
+  - https://www.avalanchepress.com/TR_GPW_ThirdEdition.php
+  reason: Retained distinct AvalonHill AVH8881992. Removed competing family-overview record
+    that wrongly treated it as alias of another publisher’s line. Physical-product inventory
+    supports2–6/12+/180–1200; original manual not personally inspected.
+- name: Third Reich/Great Pacific War series
+  year: null
+  yaml_id: null
+  status: skip
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/9853/Advanced-Third-Reich
+  - https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf
+  - https://www.avalanchepress.com/TR_GPW_ThirdEdition.php
+  reason: Family-level discovery entry, not one playable game/edition. Publisher rules distinguish
+    AvalanchePress ThirdReich,GreatPacificWar and combinedSecondWorldWar; prior YAML wrongly
+    described AvalonHill/GMT lineage. Archived unchanged as non-game overview; skip preserves
+    source ID and avoids mapping to arbitrary member.
+- name: Call My Bluff
+  year: 1997
+  yaml_id: call-my-bluff
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://opinionatedgamers.com/2015/07/13/sdj-re-reviews-15-bluff-a-k-a-liars-dice-or-call-my-bluff/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1134
+  reason: Added explicit F.X.Schmid U.S.A. English1997 row, independently dated in creator-interview/played-copy
+    review and bibliography. Separate GermanBluff1993 retained; no discovery ID invented.
+- name: Focus
+  year: 1980
+  yaml_id: focus
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/focus-1980/
+  - https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+  reason: Added explicit Parker German1980 row based on independent edition history and official
+    prior-year nomination/1981 award account. Undated Focus row remains pending because MB1982
+    Domination is also legitimately Focus.

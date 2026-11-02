@@ -3,12 +3,11 @@ name: "Liar's Dice"
 alternate_names:
   - "Bluff"
   - "Call My Bluff"
-  - "Dudo"
-year: 1993
+year: 1987
 
 # Relationships
-game_family: null
-edition: null
+game_family: liars-dice
+edition: "Milton Bradley English (1987)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -17,7 +16,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
-feel: 3  # Competitive
+feel: 2  # Party; provisional estimate from social bluffing
 value: 1  # Budget
 
 affinity: null
@@ -27,7 +26,6 @@ categories:
   - Dice Rolling
   - Bluffing
   - Press Your Luck
-  - Social Deduction
   - Party
   - Family
   - Gateway
@@ -39,21 +37,35 @@ evokes:
   - Rivalry
   - Humor
 
-possible_counts: [2, 3, 4, 5, 6, 7, 8]
+possible_counts: [2, 3, 4, 5, 6]
 true_counts: [4, 5, 6]
 
 designer:
   - Richard Borg
 publisher:
   - Milton Bradley
-  - Ravensburger
 artist: []
 playtime_minutes: 30
 min_playtime: 20
 max_playtime: 45
-min_age: 8
+min_age: 10
 
 description: |
-  Liar's Dice is a classic bluffing game dating back to 15th-century South America (known as Dudo), in which players roll hidden dice and bid on how many dice of a given face value lie hidden across all cups on the table. Each player can raise the bid or challenge the previous player's claim as a lie; when challenged, all dice are revealed and the loser forfeits a die. The last player with dice remaining wins. The Milton Bradley edition won the Spiel des Jahres in 1993 as "Call My Bluff," cementing its status as one of the great social bluffing games. Its elegant simplicity and pure bluffing tension have made it a perennial classic across cultures.
+  This record represents Richard Borg's 1987 Milton Bradley boxed Liar's Dice,
+  with six cups, thirty player dice and a board for tracking bids. Players look
+  under their own cups, then raise claims about matching faces across the table
+  or challenge the previous claim. Reveals cost dice, and the last player with
+  dice remaining wins. Borg's design includes the option to expose dice and
+  reroll the remainder, adding decisions beyond the opening hidden roll.
+
+  Bluff (F.X. Schmid, 1993) and Call My Bluff (F.X. Schmid U.S.A., 1997) are
+  separately represented editions. The award belongs to the German Bluff
+  edition. Traditional games called Dudo or Liar's Dice have related bidding
+  ideas and different rules; their uncertain origins are not a publication date
+  or designer credit for this commercial game.
+
+# Original-set inventory supplies 2–6 and 10-to-adult, rather than the review's
+# generic 8+ recommendation. Original rule sheet was not inspected; duration,
+# suggested counts and experience ratings are provisional, not box claims.
 
 upgrades: []

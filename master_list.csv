@@ -103,7 +103,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 177,Advanced Civilization,,boardgame,,,
 15126,Advanced Squad Leader: Starter Kit #2,,boardgame,,,
 20542,Advanced Squad Leader: Starter Kit #3 (2007),,boardgame,,,advanced-squad-leader-starter-kit-3
-283,Advanced Third Reich,,boardgame,,,
+283,Advanced Third Reich,,boardgame,,Retained distinct AvalonHill AVH8881992. Removed competing family-overview record that wrongly treated it as alias of another publisher’s line. Physical-product inventory supports2–6/12+/180–1200; original manual not personally inspected.,advanced-third-reich
 183231,Adventure Land,2015,boardgame,,,
 ,Adventure Tactics: Domianne's Tower,2021,boardgame,,,adventure-tactics-domiannes-tower
 1405,Adventurer,,boardgame,,,
@@ -130,7 +130,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 26,Age of Renaissance,1996,boardgame,,,
 4098,Age of Steam,,boardgame,,,
 ,Agemonia,,boardgame,,,
-2272,Aggravation,,boardgame,,,
+2272,Aggravation,,boardgame,,"Canonical commercial title selects retained CO-5 four-player1962 set; Wahoo remains traditional variants, no longer an alternate title claiming identical commercial edition. AGPI and actual-set inventory establish edition; catalog source row itself is undated.",aggravation
 3615,Agincourt,,boardgame,,,
 5168,Agon,,boardgame,,,
 31260,Agricola,2007,boardgame,,,
@@ -315,7 +315,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 123386,Baden-Württemberg Catan,,boardgame,,,baden-wurttemberg-catan
 123417,bagatelle,,boardgame,,,
 ,Bagh bandi,,boardgame,,,
-315,bagh-chal,,boardgame,,,
+315,bagh-chal,,boardgame,,Berkeley rules establish specific Nepali4-tiger/20-goat game. Archived broader Tiger game family overview unchanged rather than aliasing family to one member. Cleared unsupported1900/8+ and clarified tigers move/capture during goat placement.,bagh-chal
 55127,Bailout! The Game,,boardgame,,,
 4150,Bakari,,boardgame,,,
 ,Bakio,,boardgame,,,
@@ -545,7 +545,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 214,Café International,,boardgame,,,cafe-international
 1542,Calamity,,boardgame,,,
 283155,Calico,2020,boardgame,,,
-,Call My Bluff,1993,boardgame,,,
+,Call My Bluff,1993,boardgame,,"Award-list English title represents German F.X.Schmid Bluff1993; added separately scoped record. Existing English CallMyBluff is actually1997, while original MB Liar’sDice is1987. Creator-interview history, jury and independent bibliography distinguish these editions.",bluff-1993
 ,"Cambrai, 1917: The First Blitzkrieg",,boardgame,,,
 ,Camel Up,2014,boardgame,,,
 5251,Camelot,,boardgame,,,
@@ -995,7 +995,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 148083,Dogs,,boardgame,,,
 754,Domain,,boardgame,,,
 62219,Dominant Species,2010,boardgame,,,
-16620,Domination,,boardgame,,,
+16620,Domination,,boardgame,,"Canonical primary-title mapping selects retained MB English1982 edition, not German ParkerFocus1980. Independent edition history and teaching transcription corroborate identity/core rules; original age label unverified. Generic CSV row does not itself establish a printing year.",domination
 ,Dominations: Road to Civilization,2019,boardgame,,,
 7450,Domineering,,boardgame,,,
 ,Dominion,2008,boardgame,,Identity review 2026-11-02: Publisher explicitly identifies original first edition as first published in 2008; 2009 is the award year.,dominion
@@ -1294,7 +1294,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Flux,,boardgame,,,fluxx
 1101,Flying Carpet,1987,boardgame,,,
 ,Flying Fortress I & II,,boardgame,,,flying-fortress-i-and-ii
-789,Focus,,boardgame,,,
+789,Focus,,boardgame,,"Parker German1980 and MB EnglishDomination1982 remain distinct, legitimately sharing Focus title. Generic undated row does not identify edition; retained pending, with separate explicit Parker1980 row. Corrected false KOSMOS1981 blend; 1981 is award year.",
 175324,Fog of love,2017,boardgame,,,
 175914,Food Chain Magnate,,boardgame,,,
 431248,For a Crown,,boardgame,,,
@@ -1883,7 +1883,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6873,Letra-Mix,,boardgame,,,
 59959,Letters from Whitechapel,,boardgame,,,
 140620,Lewis & Clark: The Expedition,,boardgame,,,lewis-and-clark-the-expedition
-45,Liar's Dice,,boardgame,,,liars-dice
+45,Liar's Dice,,boardgame,,"Retained explicit canonical mapping, now scoped to original MB1987 Borg boxed game rather than false1993/traditionalDudo blend. Actual-set retailer inventory2–6/10-to-adult; generic catalog row carries no edition year.",liars-dice
 ,Liberian Queah,,boardgame,,,liberian-queah
 356033,Libertalia: Winds of Galecrest,2022,boardgame,,,libertalia-winds-of-galecrest
 3988,Life as a BlackMan,,boardgame,,,life-as-a-blackman
@@ -3302,7 +3302,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 2215,They've Invaded Pleasantville,,boardgame,,,theyve-invaded-pleasantville
 13208,Thin Ice,1989,boardgame,,,thin-ice-1989
 379932,Third Crusade,2024,boardgame,,,third-crusade-2024
-2904,Third Reich/Great Pacific War series,,boardgame,,,
+2904,Third Reich/Great Pacific War series,,boardgame,skip,"Family-level discovery entry, not one playable game/edition. Publisher rules distinguish AvalanchePress ThirdReich,GreatPacificWar and combinedSecondWorldWar; prior YAML wrongly described AvalonHill/GMT lineage. Archived unchanged as non-game overview; skip preserves source ID and avoids mapping to arbitrary member.",
 ,Thiruthamizh,,boardgame,,,
 188920,This War of Mine: The Board Game,,boardgame,,,
 ,Thomas the Tank Engine Game,,boardgame,,,
@@ -3575,7 +3575,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6253,Wacht am Rhein,1977,boardgame,,,
 1422,Wadjet,,boardgame,,,
 239,"Wagram: The Peace of Vienna, 5-6 July 1809",1975,boardgame,,,wagram-the-peace-of-vienna
-33701,Wahoo,,boardgame,,,
+33701,Wahoo,,boardgame,,Traditional marble-racing variants retained separately from CO-5 Aggravation1962. Maker rules/physical boards and implementation establish identity; no universal publication year or age inferred. Removed false1962/ParkerBrothers/drilling claims.,wahoo
 198432,"Wait Up, Grandpa!",,boardgame,,,
 118025,Waka Waka,,boardgame,,,
 15410,Walk the Dogs,,boardgame,,,
@@ -4254,3 +4254,5 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Cosmic Encounter,2008,boardgame,,"Added explicit FFG2008 English CE01 row while original1977 maps separate Eon base. Creator history/primary rules support50powers,3–5 and1–2hours; credits separate original designers from Wilson development/new aliens.",cosmic-encounter
 ,Coffee Roaster,2015,boardgame,,Added explicit original Japanese/English2015 row. Creator history dates November22 and product distinguishes10-minute practice from30-minute full menu; separate2017 second issue retained.,coffee-roaster
 ,Next Station: London,2022,boardgame,,"Added explicit original Blue Orange English2022 row, with publisher/rules and actual May2022 review. Generic2023 reference stays pending; no source identifier invented.",next-station-london
+,Call My Bluff,1997,boardgame,,"Added explicit F.X.Schmid U.S.A. English1997 row, independently dated in creator-interview/played-copy review and bibliography. Separate GermanBluff1993 retained; no discovery ID invented.",call-my-bluff
+,Focus,1980,boardgame,,Added explicit Parker German1980 row based on independent edition history and official prior-year nomination/1981 award account. Undated Focus row remains pending because MB1982 Domination is also legitimately Focus.,focus

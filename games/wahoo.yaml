@@ -1,21 +1,20 @@
 id: wahoo
 name: "Wahoo"
-alternate_names:
-  - "Aggravation"
-year: 1962
+alternate_names: []
+year: null
 
 # Relationships
-game_family: null
-edition: null
+game_family: wahoo
+edition: "Traditional marble-racing rules; board and partnership variants"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 3  # Competitive
+rules_complexity: 1  # Elementary; provisional estimate
+strategic_depth: 1  # Basic; provisional choice of marble and shortcut risk
+feel: 4  # Fierce; provisional estimate from direct captures
 value: 1  # Budget
 
 affinity: null
@@ -43,9 +42,24 @@ artist: []
 playtime_minutes: 30
 min_playtime: 20
 max_playtime: 45
-min_age: 6
+min_age: null
 
 description: |
-  Wahoo is a traditional American cross-and-circle marble racing game nearly identical to the German game Mensch ärgere Dich nicht (1907) and closely related to Parcheesi and Aggravation. Players race coloured glass marbles around an asterisk-shaped track, drilling shortcuts into the board to speed progress. To enter play, a marble requires a roll of 1 or 6. If a marble lands on an opponent's space, the opponent's marble is sent back to start — providing the "aggravation" of the commercial edition. Parker Brothers commercialised this folk game as Aggravation for decades; the handcrafted wooden Wahoo boards remain popular in Appalachian and rural American traditions.
+  Wahoo is a marble-racing game commonly played on homemade wooden boards, with
+  related commercial games including Aggravation. Race four marbles around the
+  track and into home, choosing which to move after a die roll. In the documented
+  rules, a one or six brings a marble out of its starting area; landing on another
+  player's marble sends that marble back to start. Boards may offer a center
+  shortcut, and its entry and exit rules should be agreed before play.
+
+  Four- and six-seat boards are available, and some rules support fewer players.
+  In partnership play, opposite players cooperate and a finished player can use
+  rolls to help the partner. The supported count depends on the board and rules,
+  rather than a single historical box. Expect luck, simple movement choices and
+  direct setbacks; no drilling or board construction takes place during a game.
+
+# Maker rules and first-hand review establish variants, not a single origin year,
+# universal age label or manufacturer. Counts span documented boards/implementations;
+# duration, preferred counts and experience ratings remain provisional estimates.
 
 upgrades: []

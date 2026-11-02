@@ -12136,3 +12136,166 @@ entries:
       first Spanish edition2023, Dunstan/Morin, 1–4/8+/25. Generic CSV2023 does not
       specify Spanish; retained pending and added separately sourced original-English2022
       row rather than guessing localization.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: bluff-1993
+    url: https://www.spiel-des-jahres.de/spiele/bluff/
+    description: 'Read official jury history: German F.X. Schmid award1993, Borg,2–6/12+/about30.
+      Challenge losses equal bid/count difference; exact bid costs everyone else one
+      die. Distinguishes later Ravensburger availability. Jury age/time recommendations,
+      not personally inspected original packaging.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: bluff-1993
+    url: https://www.luding.org/cgi-bin/GameData.py/ENgameid/1134
+    description: 'Read independent original-edition bibliography: publication1993, F.X.Schmid/Borg,
+      distinct MB1987 and English CallMyBluff1997. Added separate original-German record;
+      1993 award-title catalog alias no longer selects false English1993 printing. Bibliography
+      duration20 differs from jury30; jury recommendation selected.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: call-my-bluff
+    url: https://opinionatedgamers.com/2015/07/13/sdj-re-reviews-15-bluff-a-k-a-liars-dice-or-call-my-bluff/
+    description: Read first-hand 1997 F.X.Schmid U.S.A. played-copy review and author
+      interview with Richard Borg. Corrected represented English edition1993→1997; German1993
+      Bluff separate. Explains gap-based loss, exact-bid penalties and exposing/rerolling
+      dice. Review recommends8+, not an inspected box label; estimated times/preferences
+      remain provisional.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: call-my-bluff
+    url: https://www.luding.org/cgi-bin/GameData.py/ENgameid/1134
+    description: Read bibliography explicitly distinguishing CallMyBluff1997 translation
+      from GermanBluff1993 and originalLiar’sDice1987. Linked game10377 page cache miss;
+      not claimed inspected. Historical call-my-bluff-1993 evidence alias retargeted
+      to new bluff-1993, preserving original log bytes and explaining edition distinction.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: liars-dice
+    url: https://www.donsgamecloset.com/liarsdice1987.html
+    description: 'Read retailer’s actual MB1987-set inventory: six cups,30yellowdice,redbidder,2–6
+      and10-to-adult. Removed unsupported7/8-player commercial support and later Ravensburger
+      blend. No original rule-sheet inspection; duration/preferences estimated. Age10
+      follows represented set inventory rather than generic8+ review.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: liars-dice
+    url: https://opinionatedgamers.com/2015/07/13/sdj-re-reviews-15-bluff-a-k-a-liars-dice-or-call-my-bluff/
+    description: Read creator-interview history establishing MB1987 from Borg’s DoubtersDice,
+      later German1993/English1997. Borg independently describes board/rerolling decisions
+      and Liar’sPoker inspiration. Removed unsupported fifteenth-century Dudo origin
+      and Dudo alias from this specific commercial record; related traditions are not
+      identical designer/edition evidence.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: focus
+    url: https://www.spiel-des-jahres.de/spiele/focus-1980/
+    description: 'Read official jury account: Parker,2–4/10+/about60, selection1980
+      and award1981, later KOSMOS1995. Explains moving partial stacks, excess-bottom
+      captures, own reserves and four-player partnerships; three-player capture-goal
+      rules described as later. Corrected false KOSMOS1981 identity and mancala/asymmetric
+      tags; age/time are jury recommendations.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: focus
+    url: https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+    description: 'Read independent edition history and played review: Parker German1980,
+      MB EnglishDomination1982, KOSMOS1995, earlier Sackson/Whitman versions. Retained
+      distinct editions. Generic undated Focus remains pending because both legitimately
+      share title; added explicit Parker1980 row, without treating discovery ID as edition
+      proof.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: domination
+    url: https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+    description: Read independent MB1982 English edition history, distinct from Parker1980
+      and KOSMOS1995. Preserved SidSackson design attribution despite original box/rules
+      apparently omitting it. Scoped edition/family and removed false action-point tag;
+      age label unverified, cleared. Experience/time/preferences provisional.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: domination
+    url: https://tesera.ru/images/items/1508830/FocusENG.pdf
+    description: 'Read eight-page retyped teaching rules: orthogonal partial/full-stack
+      moves, bottom removal overfive, reserve placement,2/3/4 setups and individual/partnership
+      four-player modes. Unofficial transcription has typos and generic1964 heading;
+      not proof of first publication or exact original printed wording. Used core mechanics
+      with independent edition history.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: domination
+    url: https://www.hasbro.com/common/instruct/domination.pdf
+    description: 'Opened official five-page scanned PDF through web: no extractable
+      text; direct download403 and screenshot call did not expose inspectable pixels.
+      Not claimed full manual/age/credit inspection. Mechanisms corroborated by separately
+      read teaching transcription and jury account.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: aggravation
+    url: https://gamecatalog.org/game/?gameid=25658
+    description: 'Read AGPI original-version record: CO-5 Company Inc.catalog13, rules©1962;
+      patent3166325A filed1962/granted1965, HarryW.First as patent registrant. Copyright/patent
+      dates distinguished from release evidence; patent registrant not automatically
+      game-design credit.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: aggravation
+    url: https://www.donsgamecloset.com/aggravation4player1962.html
+    description: Read actual-set retailer inventory independently identifying CO-5 1962
+      four-player set,2–4 and5+,16marbles. Basic entry/capture/home description. Removed
+      later six-player deluxe limits from original record. Did not personally inspect
+      original rule sheet; estimates retained/commented. Separate Wahoo folk variants
+      not a duplicate original commercial box.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: wahoo
+    url: https://www.rdesignsco.com/wahoo-aggravation/
+    description: 'Read maker’s own rules: one/six entry,fourmarbles,landing sends rival
+      back,opposite-seat partnerships. Distinguishes its four-seat Wahoo and six-seat
+      Aggravation boards; these names/counts are maker usage, not universal historical
+      labels. Removed commercial Aggravation alternate from generic record; retained
+      family relationship.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: wahoo
+    url: https://lakelinedesigns.com/products/wooden-wahoo-board-game-4-or-6-player-maple-cherry-or-walnut-engraved-accents
+    description: 'Read independent maker’s actual Wahoo products: separate four-/six-player
+      layouts,16/24marbles. Confirms six-seat boards also use Wahoo title, so another
+      maker’s Wahoo4/Aggravation6 distinction not treated as universal rule or original
+      commercial identity. No product age recommendation imported as universal minimum.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: wahoo
+    url: https://www.spinnerbaker.com/wahoo.htm
+    description: Read software author’s own Wahoo implementation:2–4 with16marbles on
+      wooden-style board. Counts complement four-/six-seat physical variants; computer
+      settings are not universal original-box specifications. Unsupported broad historical
+      origin claims on page not adopted.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: wahoo
+    url: https://jkgeekly.com/portfolio/wahoo/
+    description: Consulted first-hand Wahoo play review:4–6,partnership help and center
+      shortcut with one/six exit. Used to explain variant choices, not to verify claimed1930
+      publication or maker credits. Cleared unsupported1962 origin/age and false drilling-during-play
+      claim; ratings/times are provisional.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: bagh-chal
+    url: https://gamescrafters.berkeley.edu/games.php?game=baghchal
+    description: Read UC Berkeley GamesCrafters actual current page:25points,fourtigers,twentygoats;
+      goats place first, tigers move/capture from outset; later goats step; fivecapturedgoats/alltigersimmobile
+      endings. Cleared unsupported1900/8+; duration/ratings estimated. Old indexed puzzles/software
+      URL404, current page successfully read both web and direct retrieval.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: bagh-chal
+    url: https://nepali.games/baghchal/how-to-play
+    description: 'Read implementation author’s own rules: corroborates specific Nepali4/20
+      game and tiger activity during placement. Optional capture targets/repetition/400halfmove
+      draws belong to software, not universal rules. Existing tiger-game YAML explicitly
+      covered a broader family; archived unchanged as non-game overview, with no misleading
+      alias to this one member.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: advanced-third-reich
+    url: https://www.nobleknight.com/P/9853/Advanced-Third-Reich
+    description: Read actual AvalonHill AVH888 product inventory:1992,2–6,12+,180–1200minutes.
+      Corrected false five-player ceiling and16+; original manual/box not personally
+      inspected. Nominal720 and preferred2 remain provisional; scenario range not a
+      single campaign promise.
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: advanced-third-reich
+    url: https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf
+    description: 'Read publisher PDF introduction sections1.0/1.1 via web: distinct
+      AvalanchePress ThirdReich2–5,GreatPacificWar2–4,combinedSecondWorldWar2–6. Establishes
+      family-overview record’s erroneous AvalonHill1974/AdvancedThirdReich alias; archived
+      that overview unchanged and marked its CSV family row skip. No arbitrary redirect
+      to one member. Direct HTTP403; did not claim local/full64-page read.'
+  - timestamp: '2026-11-02T20:29:20Z'
+    game_id: advanced-third-reich
+    url: https://www.avalanchepress.com/TR_GPW_ThirdEdition.php
+    description: Consulted indexed primary October2007 third-edition announcement identifying
+      separate ThirdReich/GreatPacificWar line and combined rules. Full page cache miss/direct403.
+      Used family distinction with accessible publisher PDF, not as a fabricated original
+      publication date for every game in line.

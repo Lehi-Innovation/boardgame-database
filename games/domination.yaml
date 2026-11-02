@@ -5,17 +5,17 @@ alternate_names:
 year: 1982
 
 # Relationships
-game_family: null
-edition: null
+game_family: focus
+edition: "Milton Bradley English (1982)"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 2  # Moderate
+rules_complexity: 1  # Elementary; provisional rules-based estimate
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct capture and immobilization
 value: 1  # Budget
 
 affinity: null
@@ -23,7 +23,6 @@ hotness: null
 
 categories:
   - Abstract
-  - Action Points
   - Area Control
 
 evokes:
@@ -44,9 +43,24 @@ artist: []
 playtime_minutes: 45
 min_playtime: 30
 max_playtime: 60
-min_age: 10
+min_age: null
 
 description: |
-  Domination (also known as Focus) is an abstract strategy game designed by Sid Sackson, published by Milton Bradley in 1982. Players move stacks of pieces based on the number of pieces in the stack (a stack of three moves three spaces), and when a stack grows beyond five pieces, the excess are removed from the bottom. Your own color pieces removed this way are reserved to re-enter the game; opponent pieces are captured. The goal is to leave your opponent without any legal moves. Sid Sackson considered Focus one of his finest designs, and it has been republished under several names.
+  Domination is Milton Bradley's 1982 English edition of Sid Sackson's Focus,
+  retaining the abstract stacking and capture game rather than introducing a
+  separate action-point system. Control stacks with your color on top, and move
+  either the entire stack or a top portion exactly as many orthogonal spaces as
+  the number of pieces lifted. Combining stacks beyond five removes pieces from
+  the bottom: opposing colors are captured and your own become reserves.
+
+  Instead of moving, return a reserve piece to an empty square or a stack. In
+  two-player play the goal is to prevent the opponent from making any legal
+  move, including reserve placements. Three- and four-player setups also exist.
+  The short explanation leads to direct tactical contests over stack ownership
+  and future mobility. The German Parker Focus edition is recorded separately.
+
+# Date/identity from independent edition history; publisher PDF is an unextracted
+# scan, not a claimed full rules inspection. Retyped teaching rules corroborate
+# mechanisms. Original age label unverified; times/count preferences/ratings provisional.
 
 upgrades: []

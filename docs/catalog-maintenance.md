@@ -98,3 +98,27 @@ San Juan demonstrates the different outcome for real editions: the original
 buildings) remain separate. The undated plain-title CSV row stays pending because
 both legitimately share that name; explicit dated rows cover the two editions.
 An external discovery identifier alone was not treated as proof of its edition.
+
+## Families and distinct commercial titles
+
+The same review preserved Borg's Milton Bradley **Liar's Dice (1987)**, German
+F.X. Schmid **Bluff (1993)** and English **Call My Bluff (1997)** separately.
+The historical `call-my-bluff-1993` evidence alias now points to `bluff-1993`;
+the original notes describe the German award game, not the later English box.
+Original log bytes remain intact. Traditional Dudo was not assigned Borg's
+commercial designer/date merely because the bidding resembles it.
+
+Parker **Focus (1980)** and Milton Bradley **Domination (1982)** also remain
+separate. The undated Focus catalog row still lacks edition evidence; a dated
+Parker row covers the corrected record. **Aggravation** represents CO-5's 1962
+four-player set, while **Wahoo** represents traditional marble-racing variants.
+Maker names and board limits are not universal rules for every Wahoo set.
+
+Two category-level YAMLs, `tiger-game` and
+`third-reich-great-pacific-war-series`, are now [archived unchanged](../archive/2026-11-02/README.md)
+as family overviews. Their dates, player counts and ratings did not identify
+one playable game. The latter also blended separate publishers' game lines;
+its discovery row is an explained `skip`. Neither retired ID had historical
+evidence entries or owner history, and neither redirects to an arbitrary member.
+Specific Bagh-Chal and Advanced Third Reich remain active. This is an entity-scope
+correction, not evidence that every game within either family has been researched.

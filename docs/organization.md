@@ -100,6 +100,11 @@ with original paths, retained IDs and hashes in that date’s README. Evidence a
 and CSV mappings point to the retained active record; unrelated same-title games
 remain separate.
 
+Retired category/series summaries belong in `archive/YYYY-MM-DD/family-overviews/`,
+with their original paths, reasons and hashes in the dated README. A family is not
+an alias of one member: preserve its discovery row with an explained exclusion
+when appropriate, and do not create an arbitrary redirect to a playable game.
+
 Use [the archive index](../archive/README.md). Group retired material by retirement date or named migration, list original paths, explain why it is inactive, and state restoration requirements. Preserve historical content unchanged. Disposable bytecode does not require archival copies.
 
 Old TODOs and agent memories are reference material, not current policy. Retired scripts need path, dependency, and source-permission review before reuse.
