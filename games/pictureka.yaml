@@ -1,19 +1,26 @@
+# Physical 2007 Parker inventory and February 2008 comped played review establish
+# represented edition, 2+/6+ and six-card target. No verified upper bound: legacy
+# 12+ convention records open-ended support; preferred counts remain provisional.
+# Lauwers design confirmed; original 2007 art credits uninspected. A file labeled
+# Project X rules actually contains Hasbro copyright 2008 French instructions; it is
+# not an original 2006 manual. Current second-edition rules also differ. About30
+# minutes and experience ratings provisional; original duration bounds unverified.
 id: pictureka
 name: "Pictureka!"
 alternate_names: []
 year: 2007
 
 # Relationships
-game_family: null
-edition: null
+game_family: pictureka
+edition: Parker Brothers / Hasbro U.S. board game (2007), before the second edition
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
+length: 1
+rules_complexity: 1
+strategic_depth: 1
 feel: 2  # Moderate
 value: 1  # Budget
 
@@ -22,6 +29,8 @@ hotness: null
 
 categories:
   - Real-time
+  - Auctions/Bidding
+  - Modular Board
   - Party
   - Family
   - Puzzle Solving
@@ -33,19 +42,32 @@ evokes:
   - Lucky
   - Connection
 
-possible_counts: [2, 3, 4, 5, 6]
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 12+
 true_counts: [4, 5, 6]
 
-designer: []
+designer:
+  - Arne Lauwers
 publisher:
-  - Hasbro
+  - Parker Brothers
 artist: []
-playtime_minutes: 25
-min_playtime: 15
-max_playtime: 35
+playtime_minutes: 30
+min_playtime: null
+max_playtime: null
 min_age: 6
 
 description: |
-  Pictureka! is a frantic visual-search party game by Hasbro in which players compete to spot hidden images across nine illustrated game tiles arranged in a 3x3 grid. Mission cards drive the action in three different ways: blue cards have all players race to spot a single specific object; red cards involve players bidding on how many of a specified object they can find; and green cards challenge a single player to find as many items as possible against a sand timer. The first to collect six mission cards wins. The modular tiles can be rearranged for variety, keeping the visual field fresh across multiple plays.
+  Search a crowded spread of cartoon drawings to complete missions before your opponents or the timer beat you. Challenges mix quick spotting, individual searches and bidding on how many matching objects you can find. Tiles can move or turn over, changing where familiar pictures appear. The 2007 Parker Brothers game ends when someone collects six mission cards. Its rules support two or more players, though larger groups need room to see and reach the pictures fairly. This record represents the early U.S. edition, following Lauwers Games’ Project X and preceding later Pictureka revisions.
 
 upgrades: []

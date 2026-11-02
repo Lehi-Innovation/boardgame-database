@@ -2329,3 +2329,130 @@ decisions:
   reason: Explicit original Japanese commercial 1973 Othello, Tsukuda Original, from official
     brand/licensor history. WOF establishes shared modern rules, not original1973package labels.
     Generic 1977 reference remains pending.
+- name: Pay Day
+  year: 1974
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gamesandpuzzles.org/index.php/research/trade-catalogs/catalogs-geo-s-parker-parker-brothers
+  - https://www.scribd.com/document/689229909/payday1974rules
+  - https://peopleofplay.com/blog/game-review-pay-day
+  - https://fgbradleys.com/wp-content/uploads/rules/Payday.pdf
+  reason: Early rules carry copyright 1974 while AGPI identifies U.S.1975 catalog marked new;
+    possible earlier Canadian edition not independently resolved. Kept generic 1974 row pending,
+    added represented U.S.1975 row. Corrected cooperative feel and unsupported universal30-minute
+    duration.
+- name: Pictureka!
+  year: 2006
+  yaml_id: project-x-2006
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ludigaume.fr/jeu-ProjectX
+  - https://www.anderspel.nl/projectx.html
+  - https://trictrac.net/jeu-de-societe/project-x
+  reason: Mapped original 2006 to Lauwers Games Project X, established by contemporary played
+    review/Essen notice and later renaming. Added explicit 2007 Parker row for retained record.
+    Original Project X threshold/box labels uninspected; later Hasbro rule PDFs not called
+    original 2006 manual.
+- name: Piepmatz
+  year: 1995
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.lookout-spiele.de/en/games/piepmatz.html
+  - https://cdn.1j1ju.com/medias/33/49/6c-piepmatz-rulebook.pdf
+  - https://spielessen.de/de/programm/dsp/deutscher-spielepreis-historie
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/2019
+  - https://spielwiese.at/component/mtree/kinderspiele/17644
+  - https://spielwiese.at/component/mtree/kinderspiele/17645
+  - https://spelarch.vives.be/PDFspelregels/710.pdf
+  reason: Independent references establish both Girsch/F.X. Schmid search game and KRAG/HABA
+    tree race in 1995, each separate from Lookout 2018 cards. Generic row/sourceID not independently
+    disambiguated; remains pending. Added explicit 2018 card-game row and restored Langman
+    art; English8+ versus current web10+ guidance explicit.
+- name: Piratissimo
+  year: 2006
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cdn.1j1ju.com/medias/1e/40/fd-piratissimo-rulebook.pdf
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/19124
+  - https://www.spiel-des-jahres.de/spiele/piratissimo/
+  - https://ludo-biblio.accoord.fr/index.php?id=12193&lvl=notice_display
+  reason: Original Selecta 3585 rules and independent physical bibliography establish 2005,
+    Ludwig/Kinzebach. Generic 2006 may reflect nomination/distribution, printing not established;
+    remains pending with explicit 2005 row. Later Pegasus 2016 reissue kept separate. Corrected
+    old 2003/Rio Grande blend.
+  previous_record_year: 2003
+- name: Pixie Queen
+  year: 2017
+  yaml_id: pixie-queen
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gzhls.at/blob/ldb/b/7/2/e/9be2b4842faa134c1bd8a168aed2e2e6ae78.pdf
+  - https://gamebrewer.com/how-it-all-began-and-how-it-ended/
+  - https://planszowkiwedwoje.pl/2017/12/pixie-queen-recenzja/
+  - https://www.nobleknight.com/P/2147747424/Pixie-Queen
+  reason: Finished 2017 copy review and Game Brewer GAB001 inventory distinguish release from2016campaign.
+    Production rules restore Jochem Van Gool art and highest final total, not fewest positive
+    points. English original box labels uninspected; about100 retail guidance, 2–5/12+.
+  previous_record_year: 2016
+- name: Pay Day
+  year: 1975
+  yaml_id: pay-day
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gamesandpuzzles.org/index.php/research/trade-catalogs/catalogs-geo-s-parker-parker-brothers
+  - https://www.scribd.com/document/689229909/payday1974rules
+  - https://peopleofplay.com/blog/game-review-pay-day
+  - https://fgbradleys.com/wp-content/uploads/rules/Payday.pdf
+  reason: Explicit represented U.S.1975 Parker game advertised new in contemporary catalog;
+    1974copyright/possible Canadian issue unresolved. Early four-token rules distinguish revised1994six-player
+    game; chosen months determine duration.
+- name: Pictureka!
+  year: 2007
+  yaml_id: pictureka
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://donsgamecloset.com/pictureka2007.html
+  - https://www.rpg.net/reviews/archive/13/13629.phtml
+  - https://alphajeux.be/IMG/pdf/regle_projet_x_.pdf
+  reason: Explicit Parker U.S.2007 board game from physical inventory and contemporary played
+    review; 2+/6+/six-card win. Separate Project X 2006 original and later second edition;
+    no fixed upper player limit certified.
+- name: Piepmatz
+  year: 2018
+  yaml_id: piepmatz
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.lookout-spiele.de/en/games/piepmatz.html
+  - https://cdn.1j1ju.com/medias/33/49/6c-piepmatz-rulebook.pdf
+  - https://spielessen.de/de/programm/dsp/deutscher-spielepreis-historie
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/2019
+  - https://spielwiese.at/component/mtree/kinderspiele/17644
+  - https://spielwiese.at/component/mtree/kinderspiele/17645
+  - https://spelarch.vives.be/PDFspelregels/710.pdf
+  reason: Explicit Lookout 2018 Riddle/Pinchback/Langman card game. Publisher current10+ differs
+    from consulted English©2018 rules8+; original manufacturing label uninspected. Both 1995
+    namesakes remain separate and generic 1995 row stays pending.
+- name: Piratissimo
+  year: 2005
+  yaml_id: piratissimo
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cdn.1j1ju.com/medias/1e/40/fd-piratissimo-rulebook.pdf
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/19124
+  - https://www.spiel-des-jahres.de/spiele/piratissimo/
+  - https://ludo-biblio.accoord.fr/index.php?id=12193&lvl=notice_display
+  reason: 'Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen
+    bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost
+    on overload. Generic 2006 remains pending; later illustrated reissue separate.'

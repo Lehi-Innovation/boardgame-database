@@ -1,20 +1,27 @@
+# Downloaded original Selecta 3585 English rules explicitly copyright 2005, with
+# Ludwig/Kinzebach/2–4/6+ and ten-treasure victory. Independent edition bibliography
+# dates Essen 2005 and physical library catalog lists 2005. Generic 2006 CSV remains
+# pending because English distribution and award references may differ; explicit
+# 2005 row added. No inspected Rio Grande 2006 printing or later Pegasus 2016 rules
+# merged. Original overload loses ALL cargo, unlike later summaries retaining some.
+# About30 is jury recommendation, not bounds. Ratings/preferred counts provisional.
 id: piratissimo
 name: "Piratissimo"
 alternate_names: []
-year: 2003
+year: 2005
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Selecta multilingual game, product 3585 (2005)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
+length: 1
+rules_complexity: 1
 strategic_depth: 1  # Light
-feel: 2  # Moderate
+feel: 4
 value: 1  # Budget
 
 affinity: null
@@ -23,15 +30,17 @@ hotness: null
 categories:
   - Dice Rolling
   - Racing
+  - Resource Management
+  - Take That
   - Family
   - Pirates
 
 evokes:
   - Lucky
-  - Humor
   - Rivalry
   - Tension
-  - Discovery
+  - Agency
+  - Progress
 
 possible_counts: [2, 3, 4]
 true_counts: [3, 4]
@@ -39,14 +48,15 @@ true_counts: [3, 4]
 designer:
   - Manfred Ludwig
 publisher:
-  - Rio Grande Games
-artist: []
-playtime_minutes: 25
-min_playtime: 15
-max_playtime: 30
+  - Selecta Spielzeug
+artist:
+  - Barbara Kinzebach
+playtime_minutes: 30
+min_playtime: null
+max_playtime: null
 min_age: 6
 
 description: |
-  Piratissimo is a light family pirate racing game published by Rio Grande Games in which 2–4 players race their pirate ships to be the first to deliver ten pieces of treasure to their safe harbor. Along the way, pirates steal, plunder, and sink each other's ships — but too much greed can put a player's own treasure at risk. The game uses a wind wheel and tornado piece to add random elements to movement, and offers two game variations for different levels of play. Designed by Manfred Ludwig for ages 6 and up, it provides a quick and colorful pirate adventure experience in under 30 minutes.
+  Sail between islands collecting treasure and return it to your own harbor. The first captain to bank ten pieces wins, but a ship carrying more than seven capsizes and loses its entire cargo. Some islands offer a choice of how much to load; others force extra treasure aboard. Meeting rivals can let you steal from them or overload their ships, while a tornado and wind wheel can redistribute cargo or move boats. Dice add uncertainty to the decisions about greed and safety. This is the original Selecta game, separate from the later illustrated reissue.
 
 upgrades: []

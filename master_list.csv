@@ -2385,7 +2385,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 64829,Patzam,,boardgame,,,
 ,Pax Pamir: Second Edition,2019,boardgame,,,
 17393,Pax Romana,,boardgame,,,
-1797,Pay Day,1974,boardgame,,,
+1797,Pay Day,1974,boardgame,,"Early rules carry copyright 1974 while AGPI identifies U.S.1975 catalog marked new; possible earlier Canadian edition not independently resolved. Kept generic 1974 row pending, added represented U.S.1975 row. Corrected cooperative feel and unsupported universal30-minute duration.",
 1498,Paydirt,,boardgame,,,
 319754,Peek-a-Mouse,,boardgame,,,
 13713,peg solitaire,,boardgame,,,
@@ -2415,10 +2415,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 4290,Pickett's Charge,,boardgame,,,picketts-charge
 15818,Pickomino,,boardgame,,,
 2281,Pictionary,1985,boardgame,,,
-22889,Pictureka!,2006,boardgame,,,
+22889,Pictureka!,2006,boardgame,,"Mapped original 2006 to Lauwers Games Project X, established by contemporary played review/Essen notice and later renaming. Added explicit 2007 Parker row for retained record. Original Project X threshold/box labels uninspected; later Hasbro rule PDFs not called original 2006 manual.",project-x-2006
 284108,Pictures,,boardgame,,,
 37371,Piece o' Cake,,boardgame,,,
-10510,Piepmatz,1995,boardgame,,,
+10510,Piepmatz,1995,boardgame,,"Independent references establish both Girsch/F.X. Schmid search game and KRAG/HABA tree race in 1995, each separate from Lookout 2018 cards. Generic row/sourceID not independently disambiguated; remains pending. Added explicit 2018 card-game row and restored Langman art; English8+ versus current web10+ guidance explicit.",
 11022,Pig,,boardgame,,,
 15064,Pimp: The Backhanding,,boardgame,,,pimp-the-backhanding
 355947,Pin Pon!,,boardgame,,,
@@ -2431,11 +2431,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 2987,Pirate's Cove,2002,boardgame,,,pirates-cove
 23308,Pirates of the Caribbean Trading Card Game,,boardgame,failed,No sources found,
 127652,Pirates!,,boardgame,failed,No sources found,
-,Piratissimo,2006,boardgame,,,
+,Piratissimo,2006,boardgame,,"Original Selecta 3585 rules and independent physical bibliography establish 2005, Ludwig/Kinzebach. Generic 2006 may reflect nomination/distribution, printing not established; remains pending with explicit 2005 row. Later Pegasus 2016 reissue kept separate. Corrected old 2003/Rio Grande blend.",
 ,PitchCar,1995,boardgame,,,
 1259,Pivot,,boardgame,failed,"Too generic, no sources found",
 28050,Pixel,,boardgame,,,
-200890,Pixie Queen,2017,boardgame,,,
+200890,Pixie Queen,2017,boardgame,,"Finished 2017 copy review and Game Brewer GAB001 inventory distinguish release from2016campaign. Production rules restore Jochem Van Gool art and highest final total, not fewest positive points. English original box labels uninspected; about100 retail guidance, 2–5/12+.",pixie-queen
 17851,Pizza Box Football,,boardgame,,,
 99808,Pizza Theory,,boardgame,,,
 ,Pizza Wars Imperium,,boardgame,,,pizza-wars-imperium
@@ -4268,3 +4268,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Mr. President,2023,boardgame,,"Explicit GMT original2023solo governing game from contemporary delivered/played copy reports, separate from3M election game and2026secondedition. Original age/time bounds unknown.",mr-president
 ,Orchard: 9 Card Solitaire Game,2020,boardgame,,"Explicit manufactured Side Room 2020 edition, actual March 2020 received-copy account, following2018PnP/2019campaign. Distributor scheduled January 2020; exact first delivery date unverified. Single-copy solo; multiple-copy comparison separate.",orchard
 ,Othello,1973,boardgame,,"Explicit original Japanese commercial 1973 Othello, Tsukuda Original, from official brand/licensor history. WOF establishes shared modern rules, not original1973package labels. Generic 1977 reference remains pending.",othello
+,Pay Day,1975,boardgame,,Explicit represented U.S.1975 Parker game advertised new in contemporary catalog; 1974copyright/possible Canadian issue unresolved. Early four-token rules distinguish revised1994six-player game; chosen months determine duration.,pay-day
+,Pictureka!,2007,boardgame,,Explicit Parker U.S.2007 board game from physical inventory and contemporary played review; 2+/6+/six-card win. Separate Project X 2006 original and later second edition; no fixed upper player limit certified.,pictureka
+,Piepmatz,2018,boardgame,,Explicit Lookout 2018 Riddle/Pinchback/Langman card game. Publisher current10+ differs from consulted English©2018 rules8+; original manufacturing label uninspected. Both 1995 namesakes remain separate and generic 1995 row stays pending.,piepmatz
+,Piratissimo,2005,boardgame,,"Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost on overload. Generic 2006 remains pending; later illustrated reissue separate.",piratissimo

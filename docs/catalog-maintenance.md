@@ -228,3 +228,32 @@ index lists Jackson among playtesters. **Othello (1973)** uses the original Japa
 commercial-release identity; the unqualified 1977 row remains pending. Official
 history distinguishes the first world championship and territorial licenses from
 publication. Differing historical Reversi rules are not silently assigned to it.
+
+Original **Project X (2006)** now separately represents the Lauwers game preceding
+**Parker’s U.S. Pictureka (2007)**. A contemporary played reference supplies counts
+through sixteen; the exact positive sixteen remains intact. The later game supports
+open-ended 2+ and has a dated row. A PDF named Project X actually contains Hasbro’s
+2008 instructions, so filename matching alone does not establish the represented
+edition. The original Project X winning threshold and box labels are unverified.
+
+**Pay Day** uses the represented **U.S. 1975** catalog identity with a dated row.
+Early rules’ ©1974 does not resolve physical publication or Canadian territorial
+claims, so generic 1974 stays pending. Session length depends on the chosen months;
+the later six-player revision is not assigned to the early four-token game.
+
+**Piepmatz (2018)** is the Lookout Riddle/Pinchback card game, with Langman art.
+Its consulted English rules say 8+, versus the current publisher’s 10+; those
+recommendations are explicit, without certifying a physical printing label.
+The **1995** reference remains pending because independent sources establish both
+**Girsch/F.X. Schmid’s search game** and **KRAG/HABA’s tree race**. Preserving an
+external discovery ID does not independently verify which namesake its original
+row intended, and neither maps to the 2018 card game. No earlier child-game credits
+or rules were transferred to that record.
+
+**Piratissimo** represents **Selecta’s 2005 product 3585**, from its own rules and
+independent edition/physical-library evidence, with a dated row. The generic 2006
+reference remains pending without a represented printing; the later 2016 reissue
+is distinct. Original overload loses all cargo. **Pixie Queen (2017)** separates
+finished-copy availability from the 2016 campaign and uses the English production
+rulebook’s final scoring and role-specific credits. The best final total wins;
+“fewest points” would give the wrong result once scores become positive.
