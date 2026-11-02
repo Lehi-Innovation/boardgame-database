@@ -2212,3 +2212,120 @@ decisions:
   reason: Explicit GMT original2023solo governing game from contemporary delivered/played
     copy reports, separate from3M election game and2026secondedition. Original age/time bounds
     unknown.
+- name: Occhio!
+  year: 1997
+  yaml_id: occhio
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://lucca2011.luccacomicsandgames.com/index.php?id=122
+  - https://it.wikipedia.org/wiki/Occhio%21
+  reason: Official Lucca archive and independent history identify original Lamberti/Jokerman
+    1997 two-player abstract. Corrected detailed 1998 and unsupported extra seats/movement
+    details. Original manual/age unverified; fifteen-minute estimate provisional.
+  previous_record_year: 1998
+- name: Odysea Organization
+  year: 2024
+  yaml_id: odysea-organization
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.kmosek.com/odysea-organizace/
+  - https://www.kmosek.com/odysea-organizace-hra/
+  - https://www.knihydobrovsky.cz/kniha/odysea-organizace-strategicka-hra-pro-firemni-rozvoj-803025247
+  reason: Replaced unsupported 2010 space mission with Petr Kmošek’s Czech 2024 workplace
+    card workshop, ISBN 978-80-11-05325-3. Creator/retailer identity corroborates; public
+    preview omits full rules and some cards. Participant counts/age unknown; no independent
+    business-outcome validation.
+  previous_record_year: 2010
+- name: Okiya
+  year: 2012
+  yaml_id: okiya
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brunocathala.com/okiya-niya/
+  - https://blueorangegames.eu/wp-content/uploads/2020/04/Okiya-PnP-EN.pdf
+  - https://www.cliquenabend.de/spiele/719100-Okiya.html
+  reason: Creator’s November 2012 Jactalea announcement and independent played review resolve
+    original date/art. Corrected detailed 2013/Blue Orange blend to Jactalea 2012/Cyril Bouquet,
+    2/8+/about10. Later Niya packaging and PnP rules distinguished.
+  previous_record_year: 2013
+- name: Olympica
+  year: 1978
+  yaml_id: olympica
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://pied.nu/dragon/files/Drmg016.pdf
+  - https://tft.brainiac.com/metagameindex.html
+  - https://mtngrown.github.io/2015/02/04/lynn-willis-olympica.html
+  reason: Contemporary publisher ad and physical-edition index identify Willis/Metagaming
+    1978 MicroGame 07, not Jackson/1980. Corrected design/art and false snack-length rating.
+    Full original manual/age/time labels uninspected; Jackson is a playtester.
+  previous_record_year: 1980
+- name: Orchard
+  year: 1986
+  yaml_id: orchard-1986
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://assets.ctfassets.net/9hs7wkiibhjb/21bbWoBiLS4n3pNoLhZbMP/d85fde3953232d1fe9fa91410a4c6cba/HABA_PM_Virtuelle_Fr__hjahrsmesse_Begleitbrosch__re.pdf
+  - https://www.ihrysko.sk/files/product_pdf/obstgarten-pravidla.pdf
+  - https://spielwiese.at/index.php/meldungsarchiv/archiv-2006/obstgarten-wird-20-jahre-alt
+  reason: Added separate HABA classic 1986 cooperative children’s harvest/raven-puzzle game,
+    from original-publisher retrospective, legacy3103rules and2006anniversary account. Not
+    Tuck solitaire or First Orchard 2009. Consulted legacy2–8 differs from later1–8 issues;
+    manufacturing date unknown.
+- name: First Orchard
+  year: 2009
+  yaml_id: first-orchard
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://spellenlab.be/media/files/6be24effb9f8438753148f2766cbe2e831822f7f.pdf
+  - https://www.hall9000.de/html/spiel/erster_obstgarten
+  reason: Scoped HABA 4655 standalone simplified toddler game to 2009, from actual rules and
+    contemporary played review. Corrected mistaken 1986 date/solitary feel; 1–4/2+/about10,
+    Neundorfer illustration, single-fruit basket/path-raven. Classic 1986 Orchard separate.
+  previous_catalog_year: null
+  previous_record_year: 1986
+- name: Othello
+  year: 1977
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.megahouse.co.jp/othello/about/
+  - https://www.beckerassociates.com/products/othello
+  - https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english
+  reason: Brand/licensor histories establish original Japanese 1973 and first world championship
+    1977; generic 1977 row supplies no territorial printing. Kept pending instead of forcing
+    original edition. Added explicit 1973 row, removed unsupported1971patent claim and universal
+    historicalReversi alias.
+- name: 'Orchard: 9 Card Solitaire Game'
+  year: 2020
+  yaml_id: orchard
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.tuckgames.com/news
+  - https://www.alliance-games.com/Downloads/GTM238_Games.pdf
+  - https://gamewardbound.com/orchard-9-card-solitaire-game-100-solo-plays/
+  - https://www.gateongames.com/wp-content/uploads/2020/12/Orchard-Rulebook_ITA-v4-1.pdf
+  - https://meepling.com/2019/09/18/orchard-review-a-swift-nine-card-puzzle/
+  reason: Explicit manufactured Side Room 2020 edition, actual March 2020 received-copy account,
+    following2018PnP/2019campaign. Distributor scheduled January 2020; exact first delivery
+    date unverified. Single-copy solo; multiple-copy comparison separate.
+- name: Othello
+  year: 1973
+  yaml_id: othello
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.megahouse.co.jp/othello/about/
+  - https://www.beckerassociates.com/products/othello
+  - https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english
+  reason: Explicit original Japanese commercial 1973 Othello, Tsukuda Original, from official
+    brand/licensor history. WOF establishes shared modern rules, not original1973package labels.
+    Generic 1977 reference remains pending.

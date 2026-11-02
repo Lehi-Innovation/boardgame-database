@@ -1269,7 +1269,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 1768,Fireball Island,,boardgame,,,
 ,Firefight: Modern U.S. and Soviet Small Unit Tactics,,boardgame,,,firefight
 138161,Firefly: The Game,,boardgame,,,
-41302,First Orchard,,boardgame,,,
+41302,First Orchard,2009,boardgame,,"Scoped HABA 4655 standalone simplified toddler game to 2009, from actual rules and contemporary played review. Corrected mistaken 1986 date/solitary feel; 1–4/2+/about10, Neundorfer illustration, single-fruit basket/path-raven. Classic 1986 Orchard separate.",first-orchard
 4370,"Fish, fluff, meatballs",2002,boardgame,,,
 4471,Fist of Dragonstones,,boardgame,,,
 10565,Fits,,boardgame,,,
@@ -2268,14 +2268,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 39610,Obridjie,,boardgame,,,
 12568,Obsession,2018,boardgame,,,
 42795,Obélix contre Hattack,,boardgame,,,obelix-contre-hattack
-26507,Occhio!,1997,boardgame,,,
+26507,Occhio!,1997,boardgame,,Official Lucca archive and independent history identify original Lamberti/Jokerman 1997 two-player abstract. Corrected detailed 1998 and unsupported extra seats/movement details. Original manual/age unverified; fifteen-minute estimate provisional.,occhio
 14196,Ocean Trader,,boardgame,,,
 14017,Oceania,,boardgame,,,
 232414,Oceans,2020,boardgame,,,
 450,Octi,,boardgame,,,
 94625,Octoverso,,boardgame,,,
 4396,Odin's Ravens,,boardgame,,,odins-ravens
-,Odysea Organization,2024,boardgame,,,
+,Odysea Organization,2024,boardgame,,"Replaced unsupported 2010 space mission with Petr Kmošek’s Czech 2024 workplace card workshop, ISBN 978-80-11-05325-3. Creator/retailer identity corroborates; public preview omits full rules and some cards. Participant counts/age unknown; no independent business-outcome validation.",odysea-organization
 1378,Odysseus,,boardgame,,,
 5206,Ogre,,boardgame,,,
 3435,Oh ! les nains,,boardgame,,,
@@ -2284,11 +2284,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 29146,Okey,,boardgame,,,
 ,Okey 101,,boardgame,,,
 ,Okinawa: The Last Battle,,boardgame,,,
-125311,Okiya,2012,boardgame,,,
+125311,Okiya,2012,boardgame,,"Creator’s November 2012 Jactalea announcement and independent played review resolve original date/art. Corrected detailed 2013/Blue Orange blend to Jactalea 2012/Cyril Bouquet, 2/8+/about10. Later Niya packaging and PnP rules distinguished.",okiya
 36910,Oktaeder,,boardgame,,,
 ,Old King's Crown,2025,boardgame,duplicate,Same as The Old King's Crown,old-kings-crown
 13551,Oltre Mare,,boardgame,,,
-1598,Olympica,1978,boardgame,,,
+1598,Olympica,1978,boardgame,,"Contemporary publisher ad and physical-edition index identify Willis/Metagaming 1978 MicroGame 07, not Jackson/1980. Corrected design/art and false snack-length rating. Full original manual/age/time labels uninspected; Jackson is a playtester.",olympica
 92319,Olympos,,boardgame,,,
 3086,Omega Virus,,boardgame,,,
 94104,Omen: A Reign of War,,boardgame,,,
@@ -2309,7 +2309,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 70149,Ora et Labora,2011,boardgame,,,
 ,Oranienburger Kanal,2023,boardgame,,,
 30011,"Orbit, a Brain Game",,boardgame,,,
-5770,Orchard,1986,boardgame,,,
+5770,Orchard,1986,boardgame,,"Added separate HABA classic 1986 cooperative children’s harvest/raven-puzzle game, from original-publisher retrospective, legacy3103rules and2006anniversary account. Not Tuck solitaire or First Orchard 2009. Consulted legacy2–8 differs from later1–8 issues; manufacturing date unknown.",orchard-1986
 31497,Oregon,,boardgame,,,
 721,Oregon Trail,,boardgame,,,
 ,Organized Crime,,boardgame,,,
@@ -3748,7 +3748,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Boggle,1972,boardgame,,,
 ,Yahtzee,1956,boardgame,,,yahtzee
 ,Jenga,1983,boardgame,,,
-,Othello,1977,boardgame,,,
+,Othello,1977,boardgame,,"Brand/licensor histories establish original Japanese 1973 and first world championship 1977; generic 1977 row supplies no territorial printing. Kept pending instead of forcing original edition. Added explicit 1973 row, removed unsupported1971patent claim and universal historicalReversi alias.",
 ,Mancala,,boardgame,,,kalah
 ,Connect 4,1974,boardgame,,,connect-four
 ,Munchkin,2001,boardgame,,,
@@ -4266,3 +4266,5 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Night Cage,2021,boardgame,,"Explicit original2021SND1008 base-game row; rule cover and actual2021reviews establish availability,1–5/14+/50. Generic2022 row remains pending.",night-cage
 ,Mr. President,1967,boardgame,,"Explicit3M1967standard revision, actual museum object and collector rulesC-B200I-67. Earlier1965/66versions exist; this is not first publication. Historical YAML ID retained.",presidential-campaign
 ,Mr. President,2023,boardgame,,"Explicit GMT original2023solo governing game from contemporary delivered/played copy reports, separate from3M election game and2026secondedition. Original age/time bounds unknown.",mr-president
+,Orchard: 9 Card Solitaire Game,2020,boardgame,,"Explicit manufactured Side Room 2020 edition, actual March 2020 received-copy account, following2018PnP/2019campaign. Distributor scheduled January 2020; exact first delivery date unverified. Single-copy solo; multiple-copy comparison separate.",orchard
+,Othello,1973,boardgame,,"Explicit original Japanese commercial 1973 Othello, Tsukuda Original, from official brand/licensor history. WOF establishes shared modern rules, not original1973package labels. Generic 1977 reference remains pending.",othello

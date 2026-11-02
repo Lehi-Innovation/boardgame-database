@@ -1,0 +1,63 @@
+# HABA’s 2021 retrospective dates first distribution September 1986 and identifies
+# Matheis art; independent 2006 anniversary article corroborates release. Downloaded
+# legacy multilingual rules©1986, English product3103: 2–8/3–6/10–15, Farkaschovsky,
+# Matheis, 40fruit/four baskets/nine-piece raven. Actual manufacturing/reprint date
+# not established by copyright. Other rule mirrors/current issues allow1–8; selected
+# consulted legacy2–8, not a universal claim for every printing. First Orchard4655
+# is a separate 2009 simplified game. Preferred counts unknown; ratings provisional.
+id: orchard-1986
+name: Orchard
+alternate_names:
+  - Obstgarten
+  - Le verger
+  - El Frutal
+year: 1986
+game_family: haba-orchard
+edition: HABA classic Orchard, first published 1986; consulted legacy English product 3103 rules
+base_game: null
+expansions: []
+compatible_with: []
+length: 0
+rules_complexity: 0
+strategic_depth: 0
+feel: 1
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Family
+  - Educational
+  - Agriculture
+evokes:
+  - Connection
+  - Lucky
+  - Tension
+  - Progress
+  - Complete
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+true_counts: []
+designer:
+  - Anneliese Farkaschovsky
+publisher:
+  - HABA
+artist:
+  - Walter Matheis
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 15
+min_age: 3
+description: |
+  Harvest apples, pears, cherries and plums together before the raven’s picture is complete. Roll the color-and-symbol die: a color collects one matching fruit, a basket allows any two fruits, and a raven adds one of nine puzzle pieces. Everyone wins or loses together. The large supply of wooden fruit makes progress easy to see, while the basket result offers a small shared choice in a game largely driven by chance. More than four players share baskets. This is HABA’s classic Orchard, first published in 1986, separate from the simplified First Orchard and Mark Tuck’s solitaire card game.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,20 +1,25 @@
+# The official Lucca award archive identifies Lamberti/Jokerman in March 1997;
+# independent Italian reference dates publication 1997 and describes two players,
+# custodial capture and about15 minutes. Original manual uninspected: removed
+# unsupported six-piece/two-move detail, extra seats, age and duration bounds.
+# Artist unknown; timing and experience ratings provisional, not verified box labels.
 id: occhio
 name: "Occhio!"
 alternate_names: []
-year: 1998
+year: 1997
 
 # Relationships
 game_family: null
-edition: null
+edition: Jokerman original Italian game (1997); original manual uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
+length: 0
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4
 value: 1  # Budget
 
 affinity: null
@@ -22,7 +27,6 @@ hotness: null
 
 categories:
   - Abstract
-  - Area Control
 
 evokes:
   - Clever
@@ -31,18 +35,22 @@ evokes:
   - Tension
   - Masterful
 
-possible_counts: [2, 3, 4]
-true_counts: [2]
+possible_counts:
+  - 2
+true_counts:
+  - 2
 
-designer: []
-publisher: []
+designer:
+  - Luca Lamberti
+publisher:
+  - Jokerman
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 8
+playtime_minutes: 15
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Occhio! (Italian for "Eye!" or "Watch out!") is an Italian abstract board game played on a circular board where each player begins with six pieces of two types, plus four additional pieces held in reserve. On each turn a player makes two moves — either moving two different pieces once each, or moving one piece twice — working to control territory and outmaneuver opponents. The circular board and dual-type piece system create a distinctive tactical space that rewards spatial awareness and anticipation. Limited documentation is available in English; the game was published in the Italian market and represents the tradition of compact abstract strategy games designed for family audiences.
+  Outmaneuver one opponent on a circular board, capturing pieces by trapping them between your own. The aim is to leave your rival with only one piece. This is Luca Lamberti’s Italian abstract game, published by Jokerman in 1997. Its basic game is described as having no chance element, with a separate variant adding uncertainty. Expect direct tactical competition and close attention to positioning. Detailed original movement rules and age guidance remain unverified; the short session estimate is provisional.
 
 upgrades: []

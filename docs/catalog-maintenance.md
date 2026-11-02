@@ -198,3 +198,33 @@ edition is blended into it. **The Night Cage** has an explicit original **2021**
 row supported by rules and contemporary played copies; the generic 2022 row
 remains pending without edition evidence. Its corrected artist is Chris Chan;
 Curt Covert’s credit is additional development.
+
+HABA’s **Orchard (1986)** now has its own record, separate from both
+**First Orchard (2009)** and **Tuck’s solitaire Orchard**. The classic’s publisher
+history identifies September 1986 first distribution. Its consulted legacy English
+3103 rules support 2–8, while later 1–8 rule issues are distinguished. The original
+First Orchard 4655 manual supports solo or cooperative play and changes the raven
+puzzle into a path, with a one-fruit basket result instead of two. Its old 1986 date
+was wrong; its actual 2009 publication is corroborated by contemporary play evidence.
+
+The Tuck record represents the **manufactured Side Room game available in 2020**,
+with a dated catalog row. A March 2020 received-copy account supplies actual
+availability; the December 2019 distributor’s January shipment date was only a plan.
+The 2018 PnP and 2019 campaign/copyright are separate. Later Italian rules identify
+Tuck design/art and shared core; they are not an inspected original English manual.
+Multiplayer requires multiple copies and is not counted as base-box support.
+
+**Occhio! (1997)** is Lamberti’s two-player Jokerman game; the original manual
+remains uninspected. **Odysea Organization (2024)** is Kmošek’s Czech workplace
+card workshop, rather than the unsupported 2010 science-fiction game previously
+described. Its publicly labeled instructions page explicitly offers only previews,
+so counts, age and detailed rules stay unknown. Marketing claims about organizational
+outcomes are not evidence that those outcomes occurred.
+
+**Okiya (2012)** is scoped to the original Jactalea publication, with Cathala’s
+own dated credits and release announcement. **Olympica (1978)** corrects a false
+Jackson design credit: contemporary advertising names Willis, and the physical-set
+index lists Jackson among playtesters. **Othello (1973)** uses the original Japanese
+commercial-release identity; the unqualified 1977 row remains pending. Official
+history distinguishes the first world championship and territorial licenses from
+publication. Differing historical Reversi rules are not silently assigned to it.
