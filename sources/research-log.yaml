@@ -13629,3 +13629,94 @@ entries:
       Mühlhäuser, listed 2001, later Steffen-Spiele issue, 25 holes, 2–4/8+/10–30 and
       three flicks per turn with distance scoring. First printing not inspected; decorative
       Scottish/Indian origin tale not adopted as verified history.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quazar
+    url: https://pied.nu/dragon/files/Drmg009.pdf
+    description: 'Read indexed Excalibre advertisement in Dragon issue 9 (1977): new
+      science-fiction wargame offered for sale, copyright 1977, four map sections, 840
+      counters, secret weapons and two or more players. Direct full scan unavailable
+      due TLS/fetch failure; no page pixels inspected or artist name inferred from imperfect
+      indexed artwork transcription.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quazar
+    url: https://en.wikipedia.org/wiki/Quazar_(board_game)
+    description: Read later bibliography identifying Excalibre 1977 science-fiction
+      wargame and citing Armintrout’s 1979 Space Gamer review and Ritchie’s 1980 Ares
+      review, both critical of rules/design. Review publication date 1980 is not the
+      game release date. Original cited review text not independently inspected; numerical
+      specifications from unrelated metadata aggregators not adopted.
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quest
+    url: https://escapevelocitycollection.com/quest-indie-boards-cards/
+    description: 'Read full actual-play review dated November 24, 2021: English Indie
+      game released 2021, Eskridge, Francisco/Santiago artwork, 4–10/about 30. Discusses
+      actual leader selection, magic and final identification play. Establishes a social
+      deduction game, not the unsupported generic 1997 card-collection record.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quest
+    url: https://elznir-games.de/wp-content/uploads/Quest_rulebook_GER_web.pdf
+    description: 'Downloaded 12-page German publisher rulebook and text-read relevant
+      system, ending and credit sections: Eskridge, no team-approval vote, secret quest
+      cards, chosen next leader and role-dependent endings. Joint graphics/illustration
+      credits Santiago/Francisco/Nortjé; copyright 2020 does not establish first finished
+      English availability or every original English credit. Not a full reading of every
+      optional role or variant.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quest
+    url: https://www.nobleknight.com/P/2147924946/Quest
+    description: 'Read specific IBCQUE1 boxed-game inventory for Indie Boards & Cards:
+      publish year 2021, Eskridge, 4–10/14+/about 30. Product identity corroborates
+      contemporary played review; no original English manufacturing label inspected
+      or literal min/max bounds inferred.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quizimaze
+    url: https://archive.org/download/quizimaze_202207/Quizimaze%20Rules.pdf
+    description: Downloaded scan and pixel-read all six pages; extracted text was effectively
+      empty and not sufficient. Instructions credit Wilfred, carry copyright 1986 and
+      1988, support 2–8/10+, estimate 1–3 hours with shorter chip-target option. Questions,
+      die movement, pivoted gates, four knowledge bases and chip victory checked. Exact
+      manufacturing date unknown.
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quizimaze
+    url: https://archive.org/download/quizimaze_202207/Box-%20Lid%20Side.jpg
+    description: 'Downloaded and pixel-inspected physical English box side: Wilfred
+      Enterprises, Winnipeg, made in Canada, copyright 1986, two to eight players and
+      ages ten to adult. Establishes represented bibliographic box identity and guidance,
+      not exact first retail day or that the separate photographed manual is the first
+      printing. No image added to active art inventory.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: quizimaze
+    url: https://ised-isde.canada.ca/cipo/trademark-search/566456?lang=eng
+    description: 'Directly read Canadian official record 0566456: Gavin Cheng doing
+      business as Wilfred Enterprises, filed July 21, 1986, declaration of use filed
+      March 19, 1987. Used for trade identity/context only; filing and registration
+      dates are not release dates, and trademark ownership is not a designer credit.
+      No legal-status guidance inferred.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: rattlesnake
+    url: https://cdn.1j1ju.com/medias/1c/f5/58-rattlesnake-rulebook.pdf
+    description: 'Downloaded and text-read both English production-rule pages after
+      primary CDN returned 503: Nexus copyright 2007, Di Meglio design/development,
+      Mattioli art and Maiorana graphic design, Fantasy Flight English distribution.
+      Magnetic eggs, die-colored placement, collisions, off-board penalties and 2–4
+      egg allocation; first successful empty supply wins.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: rattlesnake
+    url: https://images-cdn.fantasyflightgames.com/ffg_content/Rattlesnake/rattlesnake-rules.pdf
+    description: Read indexed original publisher-hosted rules corroborating mirror’s
+      English credits and magnetic mechanism. Direct download returned 503; did not
+      claim successful retrieval from primary CDN or certify original box printing.
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: rattlesnake
+    url: https://ludigaume.fr/jeu-Rattlesnake
+    description: 'Read historical indexed February 12, 2008 Stéphan played review (six
+      to ten plays): Nexus and Fantasy Flight listed 2007, 2–4/8+/15–30, magnetic eggs
+      and die. Later Ubik issue listed 2008. Current domain has previously resolved
+      to a sale page and direct source fetch failed; historical indexed text, not current
+      operating-site content. Role-specific art credits follow primary manual.'
+  - timestamp: '2026-11-02T23:33:49Z'
+    game_id: rattlesnake
+    url: https://www.jeuxdenim.be/jeu-Rattlesnake
+    description: Read independent game/shop entry and review explaining magnetic placement
+      and collision pickup, 2–4/8+ and short session guidance. Its localized publisher/date
+      are not silently assigned to the represented English Nexus issue.

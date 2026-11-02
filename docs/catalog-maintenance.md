@@ -286,3 +286,34 @@ tale is not adopted as history. The retained **Ravensburger Push (2018)** has it
 own dated row and original English USe01 rules. Banking protects exposed cards
 from die losses; same-title matching must not transfer those rules to the wooden
 game. Neither pair of unrelated namesakes gets a family or compatibility link.
+
+**Quazar (1977)** now identifies the large Excalibre science-fiction wargame
+advertised for sale in Dragon issue 9, replacing an unsupported 1980 abstract
+description. The original manual remains uninspected. Its advertisement says two
+or more, but no practical multiplayer configurations were verified; the record
+retains the known two-player count without inventing a maximum. Duration, age and
+independent creator credits remain unknown. Review criticism was consulted through
+a later bibliography, rather than claimed as a full original-review reading.
+
+**Quest (2021)** now identifies Eskridge’s Indie Boards & Cards social deduction
+game, with contemporary actual-play evidence and specific English product inventory.
+The former generic 1997 set-collection concept had no established identity to retain
+as an edition. German publisher rules support system/ending comparisons; their
+copyright date and combined graphics credits do not certify the original English
+printing, release date or complete illustration credits.
+
+**Quizimaze** represents the photographed **Wilfred Canadian English box dated
+©1986**, with two-to-eight/10+ guidance. All six scanned manual pages were pixel-read;
+they also carry ©1988 and estimate **one to three hours**, with shorter targets
+optional. The first retail date and individual printing remain unverified. Canadian
+filing in 1986 and a 1987 declaration of use are separate evidence, not release dates;
+the trademark owner is not automatically a designer. The underlying square cards
+stay fixed during play, while gates pivot after answers.
+
+**RattleSnake (2007)** is Nexus’s Di Meglio magnetic-egg placement game, with
+Mattioli art and separate Maiorana graphic design. The English instructions and
+an independent contemporary played reference replace the false 1994 plastic-toy
+description. Its turns have no timer, and victory is competitive rather than
+cooperative. English distribution by Fantasy Flight is distinguished from Nexus’s
+publisher role and later localized issues; exact original physical printing is
+uninspected. Age guidance is 8+, with duration estimates kept provisional.

@@ -1,48 +1,61 @@
+# Indexed publisher advertisement in Dragon 9 offers Excalibre Quazar for sale
+# with copyright 1977; independent bibliography also dates 1977. Corrects false
+# 1980 short-abstract identity. Full original manual and magazine scan could not
+# be downloaded; no original page pixels inspected. Contemporary review criticism
+# was read through the later cited bibliography, not claimed as a fully read
+# original article. Designer/art credit remain independently unverified and blank.
+# Advertisement says 2 or more, without an upper bound or multiplayer setup.
+# Retain the known two-player count; additional configurations remain unverified,
+# not a claim that two is the maximum. Preferred counts, age and exact duration
+# unknown. Rules/depth/length/social estimates provisional.
 id: quazar
 name: "Quazar"
 alternate_names: []
-year: 1980
+year: 1977
 
 # Relationships
 game_family: null
-edition: null
+edition: Excalibre game advertised in Dragon issue 9 (1977); original rulebook uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 2  # Moderate
-feel: 3  # Competitive
-value: 1  # Budget
+length: 3
+rules_complexity: 3
+strategic_depth: 3
+feel: 4
+value: 2
 
 affinity: null
 hotness: null
 
 categories:
-  - Abstract
-  - No Math
+  - Wargame
+  - Sci-Fi
+  - Simulation
 
 evokes:
-  - Clever
-  - Tension
-  - Rivalry
   - Agency
+  - Rivalry
+  - Tension
+  - Powerful
   - Wonder
 
-possible_counts: [2]
-true_counts: [2]
+possible_counts:
+  - 2
+true_counts: []
 
 designer: []
-publisher: []
+publisher:
+  - Excalibre Games
 artist: []
-playtime_minutes: 20
-min_playtime: 15
-max_playtime: 30
-min_age: 8
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Quazar is an abstract strategy game listed in board game catalogs. Limited documentation is available about this title, but it is noted as a two-player competitive abstract. As with many abstracts from the early 1980s, the game centers on spatial reasoning and piece placement on a geometric board configuration.
+  Command opposing forces in a large science-fiction war over a galaxy. Excalibre advertised four connected map sections, hundreds of counters and secret weapons, making this a substantial table-space commitment. Expect a sprawling conflict with a large force to manage. Contemporary reviews criticized the rules’ clarity, so arranging clarifications before play may matter as much as learning the basic system. The original advertisement says two or more players; the practical upper limit, exact duration and age guidance remain unverified.
 
 upgrades: []

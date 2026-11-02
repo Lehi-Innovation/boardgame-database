@@ -1,50 +1,73 @@
+# Actual November 2021 played review and specific IBCQUE1 inventory establish
+# Eskridge/Indie English game and 4–10/14+/about 30. Replaces unsupported generic
+# 1997 set-collection concept, not a verified earlier edition being retired. Read
+# relevant sections of 12-page German publisher rules for system and ending comparison.
+# German copyright 2020 does not establish finished English release in 2020.
+# German joint graphics/illustration credits also include Justine Nortjé; her
+# original English illustration role unverified, so no inferred illustrator credit.
+# Luis Francisco/Weberson Santiago art follows contemporary played review. Exact
+# English printing and complete original credits uninspected; no fixed time bounds.
+# Preferred counts unknown and all experience ratings provisional.
 id: quest
 name: "Quest"
 alternate_names: []
-year: 1997
+year: 2021
 
 # Relationships
 game_family: null
-edition: null
+edition: Indie Boards & Cards English base game (2021); German publisher rules consulted for system comparison
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
-value: 1  # Budget
+length: 1
+rules_complexity: 2
+strategic_depth: 2
+feel: 2
+value: 1
 
 affinity: null
 hotness: null
 
 categories:
-  - Set Collection
-  - Card Drafting
+  - Social Deduction
+  - Bluffing
+  - Teams
+  - Variable Player Powers
   - Fantasy
-  - Family
+  - Party
 
 evokes:
-  - Discovery
-  - Progress
-  - Lucky
+  - Persuasion
+  - Tension
+  - Rivalry
+  - Mystery
   - Agency
-  - Complete
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+true_counts: []
 
-designer: []
-publisher: []
-artist: []
+designer:
+  - Don Eskridge
+publisher:
+  - Indie Boards & Cards
+artist:
+  - Luis Francisco
+  - Weberson Santiago
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 8
+min_playtime: null
+max_playtime: null
+min_age: 14
 
 description: |
-  Quest is a fantasy-themed card game in which players collect sets of items and allies to complete adventuring quests. Players draw cards and build their collections, racing to fulfill quest requirements before opponents do. Multiple games carry the name Quest, so this entry covers the general concept of the quest-themed card collecting game listed in board game databases as a family set collection title.
+  Take a secret role among King Arthur’s servants and Mordred’s infiltrators. Discuss whom to trust, then let a leader choose a team for a mission without an approval vote. Team members secretly submit cards that can help or sabotage it. Special roles, magic and clues about loyalties complicate accusations, while the next leader is chosen by the current one. A late attempt to identify the infiltrators can still change the result. This is a social deduction game driven by conversation, bluffing and reading the group. Check the selected role set and base-game or Director’s Cut rules before starting, because their endings differ.
 
 upgrades: []

@@ -1,11 +1,20 @@
+# Downloaded/text-read original two-page English rules from public mirror after
+# publisher CDN returned 503: Nexus copyright 2007, Di Meglio design, Mattioli art,
+# Maiorana graphic design separately, Fantasy Flight English distribution. This
+# is a magnetic placement game, not unsupported 1994 plastic snake toy; no realtime
+# timer or cooperative win. Independent contemporary played reference dates game
+# to 2007 and recommends 2–4/8+; English manual gives exact egg allocation for 2–4.
+# About 15 minutes is provisional within review guidance of 15–30; no fixed bounds.
+# Original physical English printing uninspected; later Ubik issue not merged.
+# Preferred counts and experience ratings provisional.
 id: rattlesnake
 name: "RattleSnake"
 alternate_names: []
-year: 1994
+year: 2007
 
 # Relationships
 game_family: null
-edition: null
+edition: Nexus English-language game distributed by Fantasy Flight; copyright-2007 instructions
 base_game: null
 expansions: []
 compatible_with: []
@@ -13,8 +22,8 @@ compatible_with: []
 # Ratings (0-4 scale)
 length: 0  # Snack
 rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 1  # Light
+strategic_depth: 1
+feel: 2
 value: 1  # Budget
 
 affinity: null
@@ -22,28 +31,32 @@ hotness: null
 
 categories:
   - Dexterity
-  - Real-time
+  - Dice Rolling
   - Family
+  - Animals
 
 evokes:
   - Lucky
   - Tension
   - Humor
-  - Connection
-  - Discovery
+  - Agency
+  - Rivalry
 
 possible_counts: [2, 3, 4]
 true_counts: [3, 4]
 
-designer: []
-publisher: []
-artist: []
+designer:
+  - Roberto Di Meglio
+publisher:
+  - Nexus Editrice
+artist:
+  - Francesco Mattioli
 playtime_minutes: 15
-min_playtime: 10
-max_playtime: 20
-min_age: 5
+min_playtime: null
+max_playtime: null
+min_age: 8
 
 description: |
-  RattleSnake is a children's dexterity game in which players carefully extract colorful snake segments or objects from a plastic rattlesnake container without causing it to rattle and snap. The game creates suspense through its touch-and-feel challenge, as players must judge by feel alone how to remove pieces without triggering the snake's noisy reaction. Its combination of physical skill and surprise makes it a lively game for young children and family groups.
+  Roll a colored die, then carefully place a magnetic snake egg on a matching snake on the board. Other eggs may shift as the magnet approaches. If eggs snap together, take the joined group back into your supply; if an egg leaves the board, you must take that too. Be the first to place all your eggs without causing a collision. There is no timer: the suspense comes from judging magnetic attraction and finding a safe place to set your egg. This is Nexus’s magnetic dexterity game, with simple turns and sudden setbacks, rather than a plastic snake-extraction toy.
 
 upgrades: []
