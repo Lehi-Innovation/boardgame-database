@@ -166,7 +166,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 69851,Aliens: This Time It's War,,boardgame,,,aliens
 ,Alkkagi,,boardgame,,,
 3157,All Star Baseball,,boardgame,,,
-1289,All The King's Men,1970,boardgame,,,all-the-kings-men
+1289,All The King's Men,1979,boardgame,,"2026-11-02: Strong Museum object 116.3747 explicitly dates medieval All the King’s Men to 1979, credits Reuben B. Klamer/Perry Grant, and distinguishes predecessor Smess (1970). Historian Bruce Whitehill independently dates the retheme 1979. Corrected CSV 1970 to represented 1979 edition; removed Smess as an interchangeable alternate title while retaining shared family.",all-the-kings-men
 10893,Allegiance: War of Factions,,boardgame,,,
 4832,Allenby's Blitzkrieg,,boardgame,,,allenbys-blitzkrieg
 167948,Almirante,,boardgame,,,
@@ -1096,7 +1096,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 123665,Délir'phone,,boardgame,,,delirphone
 ,Dérive,,boardgame,,,derive
 56796,Dōbutsu shōgi,2008,boardgame,,,dobutsu-shogi
-11147,Ea$y Money,1988,boardgame,,,easy-money
+11147,Ea$y Money,1988,boardgame,,"2026-11-02: 1988 Ea$y Money is a separate money-collection/speculation game, not the 1935 real-estate game represented by easy-money. Cleared false mapping; retained separate original Easy Money row and record. References conflict over 1988 versus 1989 and original later-game rules were not read, so later title remains pending rather than assigned invented specifications.",
 7032,Eagle Day: The Battle of Britain,1973,boardgame,,,
 ,Eagles,,boardgame,,,
 25236,Ear Tug,2004,boardgame,,,

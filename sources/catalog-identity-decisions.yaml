@@ -616,3 +616,33 @@ decisions:
     original commercial 1914 game. The separate 1999 English-title catalog row has
     no established printing/rules evidence; cleared mapping and retained its year
     pending edition research rather than treating translation alone as equivalence.
+- name: All The King's Men
+  bgg_id: '1289'
+  previous_catalog_year: 1970
+  year: 1979
+  yaml_id: all-the-kings-men
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://artsandculture.google.com/asset/all-the-king-s-men-board-game-parker-brothers/ngGrRmLSuDJFjg
+  - https://thebiggamehunter.com/history/game-briefs/
+  reason: Strong Museum object 116.3747 explicitly dates medieval All the King’s Men
+    to 1979, credits Reuben B. Klamer/Perry Grant, and distinguishes predecessor Smess
+    (1970). Historian Bruce Whitehill independently dates the retheme 1979. Corrected
+    CSV 1970 to represented 1979 edition; removed Smess as an interchangeable alternate
+    title while retaining shared family.
+- name: Ea$y Money
+  bgg_id: '11147'
+  year: 1988
+  previous_yaml_id: easy-money
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://en.wikipedia.org/wiki/Ea%24y_Money
+  - https://en.wikipedia.org/wiki/Easy_Money_(board_game)
+  reason: 1988 Ea$y Money is a separate money-collection/speculation game, not the
+    1935 real-estate game represented by easy-money. Cleared false mapping; retained
+    separate original Easy Money row and record. References conflict over 1988 versus
+    1989 and original later-game rules were not read, so later title remains pending
+    rather than assigned invented specifications.

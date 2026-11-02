@@ -10882,3 +10882,34 @@ entries:
       identity. Its 2–4, age 12 and 180-minute specifications describe the whole quad
       and are not standalone Ligny facts. Original standalone rules not yet reviewed;
       retained two-player/time estimates as provisional, age unknown.
+  - timestamp: '2026-11-02T17:14:31Z'
+    game_id: all-the-kings-men
+    url: https://artsandculture.google.com/asset/all-the-king-s-men-board-game-parker-brothers/ngGrRmLSuDJFjg
+    description: 'Strong Museum object 116.3747: Parker Brothers 1979, designers Reuben
+      B. Klamer/Perry Grant; distinguishes predecessor Smess (1970), says later game
+      plays slightly simpler. Supports represented edition and corrected CSV year. Removed
+      interchangeable alternate title; retained family relationship. Existing age and
+      provisional time/experience are not newly certified.'
+  - timestamp: '2026-11-02T17:14:31Z'
+    game_id: all-the-kings-men
+    url: https://thebiggamehunter.com/history/game-briefs/
+    description: Independent historian Bruce Whitehill explicitly lists All the King’s
+      Men 1979 Parker Brothers, after original Smess 1970, and two-player arrow-directed
+      contest. Supports chronology and distinct retheme scope; board-dimension claim
+      not imported. Linked Hasbro rules PDF had no web text and direct fetch returned
+      403, so no claim of actually reading its rules.
+  - timestamp: '2026-11-02T17:14:31Z'
+    game_id: easy-money
+    url: https://en.wikipedia.org/wiki/Ea%24y_Money
+    description: Independent discovery article identifies 1988 Milton Bradley Ea$y Money,
+      richest player after bank exhausted; cites Alan Kennedy’s 1989 Games International
+      issue 9 page 12. Used to reject false mapping to 1935 real-estate title. Magazine
+      itself not read, no later-game designer/count facts imported.
+  - timestamp: '2026-11-02T17:14:31Z'
+    game_id: easy-money
+    url: https://en.wikipedia.org/wiki/Easy_Money_(board_game)
+    description: Separate original-game reference distinguishes 1935 property game from
+      later unrelated Ea$y Money, while dating later publication 1989 rather than companion
+      article 1988. Cleared incompatible mapping and kept later year unresolved; did
+      not silently declare either date fully verified. Original row still matches existing
+      1935 record; broad original metadata not newly certified.
