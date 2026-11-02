@@ -248,7 +248,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6541,Articulate!,,boardgame,,,
 4271,Artifact,1980,boardgame,,,
 92643,Artus,,boardgame,,,
-219650,Arydia: The Paths We Dare Tread,2024,boardgame,,,
+219650,Arydia: The Paths We Dare Tread,2024,boardgame,,"2026-11-02: Retained CSV 2024 and corrected detailed-record 2025 to the represented first printing: contemporary January 4 unboxing explicitly documents finished copy received December 30, 2024, corroborated by independent year-end reviewer. Regional delivery continued in 2025, which is not proof no finished game existed earlier. Original 2024-copyright rulebook separately identifies Miller overall design, Fay development/combat/puzzle co-design, illustrators/sculptor, composer Hamilton and photographer Anderson. Original age label unverified amid conflicting review labels; nominal sitting time remains provisional rather than fixed campaign duration.",arydia-the-paths-we-dare-tread
 72991,Asara,2010,boardgame,,,
 37919,Ascending Empires,,boardgame,,,
 69789,Ascension: Deckbuilding Game,,boardgame,,,
@@ -1485,7 +1485,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 30381,Hamburgum,2007,boardgame,,,
 3685,Hammer of the Scots,,boardgame,,,
 ,Hammer's Slammers,,boardgame,,,hammers-slammers
-,Hanabi,2013,boardgame,,,
+,Hanabi,2013,boardgame,,"2026-11-02: Mapped existing 2013 Hanabi discovery row to separately researched R&R English card edition, documented in contemporary July 2013 first-hand review and 2013 publisher rules reproduced by accessibility supplier. Original 2010 French game retained separately, not silently redated. English version has four fuse-stack pieces but three permitted mistakes, eight clues, optional multicolor suit; it is not a later Deluxe tile set.",hanabi-rr-games-2013
 ,Hands Down,,boardgame,,,
 ,Hannibal,,boardgame,,,
 234,Hannibal: Rome vs. Carthage,,boardgame,,,
@@ -2628,7 +2628,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 37380,Roll Through the Ages: The Bronze Age,2008,boardgame,,,roll-through-the-ages-the-bronze-age
 4587,Roller Coaster Hippo,1988,boardgame,,,roller-coaster-hippo
 3567,RollerCoaster Tycoon,,boardgame,,,
-331820,Rolling Heights,2023,boardgame,,,
+331820,Rolling Heights,2023,boardgame,,"2026-11-02: Contemporary February 2023 own-stock notice and publisher shipment/solo correction distinguish actual original release from 2022 crowdfunding and still older linked rules copyright. Corrected detailed 2022 to 2023, retained CSV year and linked original English AEG SKU 7085. Publisher FAQ/erratum explicitly support solo notwithstanding page/rules multiplayer header; original solo requires ordinary d6 accidentally omitted from manufactured box. Added primary-rule Moriya art, standing/sideways/exhausted worker effects and workforce cap; removed false bag-building tag and Party estimate.",rolling-heights
 99630,Rolling Stock,,boardgame,,,
 2637,Rome at War series,,boardgame,,,rome-at-war-series
 ,"Rome: Imperium, Circus Maximus, Hannibal vs Rome",,boardgame,,,rome-imperium-circus-maximus-hannibal-vs-rome
@@ -3779,7 +3779,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Catan: New Energies,2024,boardgame,,,
 ,Happy Little Dinosaurs,2021,boardgame,,,
 ,Finest Fish,2024,boardgame,,,
-,Garden Guests,2024,boardgame,,,
+,Garden Guests,2023,boardgame,,"2026-11-02: Contemporary 2023 publisher-president interview, December 2023 actual-copy play review and retailer original inventory corroborate original English Van Ryder 2023, rather than generic CSV 2024. Retained supported two-through-six: original rules explicitly allow five as two pairs plus one lone player with special setup, despite different experiences. Corrected Party estimate and movement-pattern description to flower-card colony/path construction, direct blocking and limited team communication; removed unverified award-as-publication implication.",garden-guests
 ,Gnome Hollow,2024,boardgame,,,
 ,Floristry,2024,boardgame,,,
 ,Heroes of Barcadia,2022,boardgame,,,
@@ -3831,7 +3831,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Jump Drive,2017,boardgame,,,
 ,Spots,2022,boardgame,,,
 ,Scholars of the South Tigris,2023,boardgame,,,
-,Fit to Print,2022,boardgame,,,
+,Fit to Print,2023,boardgame,,"2026-11-02: Publisher history and actual October 2023 finished-copy review distinguish September 2023 release from December 2022 crowdfunding. Retained detailed 2023, corrected CSV 2022 and linked original English base game. Added missing co-publisher Flatout; inspected actual rulebook p2 confirms one-to-six and 10+, correcting four-player cap and false age 8. Standard counts distinguished from larger team Newsroom variant, with turn-based mode explicitly available.",fit-to-print
 ,Zoo Vadis,2022,boardgame,,,zoo-vadis
 ,War of the Worlds: The New Wave,2019,boardgame,,,war-of-the-worlds-the-new-wave
 ,Long Shot: The Dice Game,2022,boardgame,,"Source review 2026-11-02: May 2022 original finished-product review distinguishes April 2021 crowdfunding/prototype from shipment and availability in 2022. Corrected detailed-record year to 2022; publisher independently confirms 1–8, 25 minutes, 14+. Unsupported time bounds removed.",long-shot-the-dice-game
@@ -4248,3 +4248,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Ghoulash: The Last Game on Earth,1982,boardgame,,"2026-11-02: Creator’s first-person history distinguishes marketed 1982 original from streamlined one-sheet scenarios distributed online in 2001. Retained original ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery row to revision and added separate original row without inventing a source ID. Current creator page identifies two-player competition, not shared cooperative victory.",ghoulash
 ,Master of Orion: The Board Game,2017,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-the-board-game
 ,Rubik's Flip (University Games),,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",rubiks-flip
+,Hanabi,2010,boardgame,,"2026-11-02: Retained historical hanabi slug and 2010 date for the original French cooperative game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes rules and independent edition catalog identify that scope. Removed blended later publishers, used original printed Sengissen credit, and corrected third-error/final-round rules. Added separate original-year catalog row without inventing an external ID; not a record of the distinct competitive Ikebana rules.",hanabi

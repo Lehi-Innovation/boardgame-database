@@ -11406,3 +11406,212 @@ entries:
       revision with new look and color-accessibility work. Establishes why original-game
       date cannot silently stand in for later standalone packaging; no uncertain final
       release date or artist name inferred.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: hanabi
+    url: https://regle.escaleajeux.fr/hanab_rg.pdf
+    description: Downloaded and text-read original French ReSpell 2010/Les XII Singes
+      Hanabi rules preserved by collector. Explicit Bauza, graphics Françoise Sengissen,
+      two-to-five setup, eight clues/three errors, third-error loss and full final round
+      after last draw. Confirms cooperative part of original bundle, including optional
+      five-card multicolor suit. Replaced false one-misplay loss and mixed later publishers;
+      no original box age label was visible in the rules.
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: hanabi
+    url: https://www.okkazeo.com/jeux/7273/hanabi-ikebana
+    description: 'Read indexed independent original-edition catalog: Hanabi & Ikebana,
+      Les XII Singes, 2010, two-to-five, 8+, 30 minutes and May 2010 release field.
+      Supports represented original packaging/nominal specifications alongside previously
+      logged contemporary creator history. Does not make a later standalone edition
+      an original copy or certify an inspected original box.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: hanabi-rr-games-2013
+    url: https://www.64ouncegames.com/pages/hanabi
+    description: 'Read accessibility supplier Richard Gibbs’s transcription of R&R 2013
+      English card rules, explicitly identifying its source. Supports 2–5, 8+, 60 cards,
+      eight clues, four fuse-stack pieces allowing three mistakes, final round, and
+      distinct illustration Albertine Ralenti/graphic design Jenn Vargas credits. Did
+      not reproduce transcription’s apparent six-firework scoring typo: basic game uses
+      five, corroborated by original French rules and contemporary review.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: hanabi-rr-games-2013
+    url: https://cdn.1j1ju.com/medias/b3/a9/0e-hanabi-rulebook.pdf
+    description: 'Downloaded actual mirrored English publisher PDF and read search-indexed
+      full rule text/credits: 2013 R&R card edition, Ralenti/Vargas, 2–5, 8+, four-piece
+      fuse stack and multicolor variants. Local text extraction omitted most text because
+      of its PDF encoding; extracted large background image was blank and is not claimed
+      as a full visual rule inspection. Accessibility transcription supplied readable
+      rule detail. No new cover acquired.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: hanabi-rr-games-2013
+    url: https://theologyofgames.squarespace.com/blog/2013/07/12/hanabi-a-review-of-the-spiel-des-jahres-winner
+    description: 'Direct HTTP read of July 12, 2013 first-hand review after web cache
+      miss: explicitly recently printed in US by R&R, with 60 cards, eight clues and
+      four fuse-stack pieces. Establishes actual 2013 publication beyond copyright-only
+      inference; distinguishes this card edition from original 2010 French bundle and
+      later Deluxe tiles.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: hanabi-rr-games-2013
+    url: https://bitsofboardgames.blogspot.com/2013/09/hanabi-review.html
+    description: Read indexed September 4, 2013 original play review explicitly R&R
+      card edition, two-to-five, publisher age 8+ and approximately 30 minutes. Reviewer
+      personally recommends 10+, which was not substituted for the printed recommendation.
+      Supplies nominal playtime; preferred counts and experience estimates remain provisional.
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: arydia-the-paths-we-dare-tread
+    url: https://faroffgames.com/products/carton-arydia
+    description: 'Read actual publisher product text and its linked rulebook: one-to-four
+      cooperative campaign, save/restore, character progression, 60+ painted minis and
+      40+ hours. Current second-printing link is not first-publication evidence; no
+      dynamic footer or current price used as historical release/all-in price. Actual
+      first-printing rules and dated delivered-copy review supply edition/date.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: arydia-the-paths-we-dare-tread
+    url: https://www.dropbox.com/scl/fi/q9qpvu1uc1pea3lozj6i6/Rulebook_280x216mm_FlatFormat_v35_Cropped_OP.pdf?dl=0&rlkey=fx2oqdenrwmbjcy32jpfsojh0
+    description: 'Downloaded and text-read 36-page publisher-linked original rulebook
+      via dl=1 redirect. Explicit 2024 copyright, one-to-four, front and p35 roles:
+      Miller designer, Fay developer with combat/puzzle co-design; actual illustrators/sculptor
+      separated from Hamilton music and Anderson photography/video. P34 specifies saving/loading/reset
+      and erasable marks/sleeves/printable cards/tokens; removed unsupported easy-save
+      and fixed 60–120-minute promises. Copyright alone does not establish release.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: arydia-the-paths-we-dare-tread
+    url: https://coopgestalt.com/2025/01/04/a-review-of-arydia-the-paths-we-dare-tread-part-i-unboxing-set-up-solo-play-and-first-impressions-after-20-hours-of-play/
+    description: 'Read original January 4, 2025 first-hand unboxing/play report: finished
+      game received and unboxed December 30, 2024, initial play December 31 and later
+      20+ hours solo. Corrects false universal 2025 publication claim for first printing
+      and corroborates actual original rulebook, reset and substantial setup. Delivery
+      chronology not inferred from post URL alone; reviewer had not yet tested multiplayer,
+      so no multiplayer consensus claimed.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: arydia-the-paths-we-dare-tread
+    url: https://www.boardgamequest.com/the-best-board-games-from-2025/
+    description: 'Read indexed original Board Game Quest reviewer’s year-end selection:
+      explicitly own Arydia arrived late December 2024, independently corroborating
+      contemporaneous first-copy report. General 2025 list heading is not earliest-publication
+      date. Its 10+ age differs from 14+ in other play review; original box age unverified,
+      so no arbitrary label chosen.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: arydia-the-paths-we-dare-tread
+    url: https://faroffgames.com/cdn/shop/files/CoreBox_Thicc_Gamefound_1_1x1_SealofEx.png?v=1738005208&width=1946
+    description: 'Downloaded and pixel-inspected exact current publisher box render:
+      credits Cody Miller, Mr. Cuddington and Philipp Ach; no readable age/release label
+      on visible sides. Used only represented visual-credit corroboration, not proof
+      that a current award-sticker render is an untouched first-printing photo. Research-only
+      temporary image; no active cover or reuse classification added.'
+  - timestamp: '2026-11-02T18:38:45Z'
+    game_id: arydia-the-paths-we-dare-tread
+    url: https://gusandco.net/2025/03/16/arydia-le-jeu-daventure-cooperatif-epique/
+    description: 'Read indexed March 16, 2025 first-hand French play review: reviewer’s
+      copy delivered early 2025, 14+ recommendation and 60–120-minute scenario claim.
+      This regional delivery does not contradict documented December 2024 copies; metadata’s
+      composer/photographer-as-illustrator list was not imported against primary rule
+      credits. Conflicting age/time estimates remain unverified for original printing.'
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: fit-to-print
+    url: https://www.alderac.live/fit-to-print/
+    description: 'Direct HTTP read after web timeout: actual AEG co-publication statement
+      with Flatout Games, McPherson design, O’Toole art, shared tile supply, desk/layout/print
+      flow and separate rulebook link. Added missing co-publisher. Current page/upload
+      dates do not establish original release.'
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: fit-to-print
+    url: https://www.alderac.com/wp-content/uploads/2023/07/FTP_RULEBOOK_01-11MB.pdf
+    description: Downloaded original publisher-linked 24-page PDF through contemporary
+      review link; text extraction blank, so extracted and pixel-inspected actual cover,
+      p2 overview and p20 variant page. Explicit 1–6, 10+, McPherson/O’Toole, both publisher
+      logos and turn-based/family modes. Fictional March 2022 newspaper masthead is
+      not a release date. Current optimized PDF could not be decoded reliably; no claim
+      of full 24-page inspection or use of prototype/Deluxe components as base counts.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: fit-to-print
+    url: https://www.flatout.games/whoweare
+    description: Read publisher’s own CoLab history explicitly listing Fit to Print
+      among published 2023 games. Corroborates original release independently of campaign
+      dates and keeps collective members distinct from the game’s credited designer.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: fit-to-print
+    url: https://geekdad.com/2023/10/reaping-the-rewards-fit-to-print-is-hot-off-the-press/
+    description: Read October 4, 2023 original finished-product review, explicitly distinguishing
+      December 2022 funding from fall 2023 backer delivery and September 29 retail release.
+      Confirms 1–6, 10+, 15–30 minutes, original co-publishers and solo/turn-based/team
+      variants. Used current authored review prose, not generic BGG-derived catalog
+      metadata or a prototype-only assessment.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: garden-guests
+    url: https://vanrydergames.com/pages/garden-guests
+    description: 'Read original publisher product page: 2–6, 30 minutes, 8+, Stephen
+      Glenn design and Kristena Derrick hand-cut/assembled art, flower cards, stones,
+      colonies and limited teammate communication. Current page has no original release
+      field; dated interview/review/inventory supply chronology.'
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: garden-guests
+    url: https://cdn.shopify.com/s/files/1/0593/6984/8897/files/GGRulebook.pdf?v=1715347889
+    description: Downloaded and text-read publisher-linked eight-page rules, copyright
+      2023. Explicitly supports five players as two pairs plus one individual with adjusted
+      starting hand/collection cards; retained exact 2–6 counts. Original cards build
+      colonies and connected paths; vulnerable colonies can be taken, completed paths
+      protect them, and teammates cannot discuss tactics. This is direct opposed/team
+      play, not universally cooperative or merely physical movement.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: garden-guests
+    url: https://icv2.com/articles/news/view/54859/gen-con-news-2023-van-ryder-plans-garden-guests-final-girl-series-3
+    description: Read August 15, 2023 original ICv2 interview with publisher president
+      A.J. Porfirio announcing Essen release and expected November US release, Glenn/Derrick
+      and path/card mechanisms. Supplies contemporary publisher testimony; expected
+      dates alone are not finished-copy proof, so paired with December actual-copy play
+      review and inventory. Did not infer release from later sidebar dates.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: garden-guests
+    url: https://www.meeplemountain.com/reviews/garden-guests/
+    description: Direct HTTP read of Andrew Lynch’s December 28, 2023 first-hand publisher-supplied-copy
+      review after web timeout. Authored prose confirms actual game, card/colony/path/communication
+      play and distinguishes solo-team 2/3, equal-team 4/6 and asymmetric five-player
+      experiences. Reviewer’s poor five-player outcome is personal evidence, not removal
+      of publisher-supported count. Generic metadata block was not imported from BGG.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: garden-guests
+    url: https://www.nobleknight.com/P/2148101228/Garden-Guests
+    description: Read retailer’s own VRG012 physical inventory explicitly publish year
+      2023, Van Ryder, 8+, 2–6 and 20–30-minute listing. Corroborates selected original
+      English identity and 2023 alongside contemporary sources. Designer and illustrator
+      roles come from publisher/rules rather than this retailer’s combined author field;
+      no exact physical printing or award date inferred.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: rolling-heights
+    url: https://www.alderac.com/rolling-heights-postks/
+    description: 'Read actual publisher SKU 7085 page: multiplayer label 2–4, 14+, approximately
+      60 minutes and competitive worker-rolling construction. Publisher FAQ and specific
+      solo erratum explicitly add solo support; did not remove one-player count merely
+      because this page omits it.'
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: rolling-heights
+    url: https://www.alderac.com/wp-content/uploads/2022/01/RollingHeights_Rules_Rulebook_FINAL.pdf
+    description: 'Downloaded and text-read linked twelve-page multiplayer rules: Clair,
+      Moriya art, header 2–4/14+/60+, up to ten chosen active workers and standing/sideways/exhausted
+      effects. No bag draw; removed false Bag Building. File has 2020 copyright and
+      2022 URL directory, neither treated as original publication proof. This linked
+      file omits solo explanation, which comes from publisher FAQ/erratum.'
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: rolling-heights
+    url: https://rolling-heights.backerkit.com/faq
+    description: 'Read indexed publisher’s February 2022 campaign FAQ: actual shipping
+      planned February 2023, one-to-four, solo rules/components included and no cooperative
+      mode. Distinguishes planning/campaign from actual release; subsequent publisher
+      delivery correction and contemporary store stock establish completed 2023 release.'
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: rolling-heights
+    url: https://www.alderac.live/rolling-heights-missing-die/
+    description: Direct HTTP read of AEG’s original construction-zone apology after
+      web cache miss. Explicitly confirms manufactured game includes solo rules/tokens
+      but accidentally lacks the ordinary six-sided die required by solo; original February
+      coupon/first-half-2023 text supplies contemporary context. Important equipment
+      limitation retained without transferring later replacement-policy/current-stock
+      claims.
+  - timestamp: '2026-11-02T18:50:54Z'
+    game_id: rolling-heights
+    url: https://www.labyrinthdc.com/blogs/inside-the-maze/week-of-february-24-2023-whats-new-at-labyrinth/
+    description: Read store’s own February 23, 2023 new-stock notice for week of February
+      24, including Rolling Heights and meeple-rolling building play. Actual contemporary
+      retailer stock corroborates completed 2023 availability rather than only a prospective
+      crowdfunding date. This is not treated as proof of an exact universal first-delivery
+      day.

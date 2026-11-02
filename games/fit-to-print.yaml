@@ -5,16 +5,16 @@ year: 2023
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original English Flatout Games / AEG base game (2023)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 3  # Parallel competitive layouts with a shared tile supply.
 value: 2  # Standard
 
 affinity: null
@@ -37,21 +37,22 @@ evokes:
   - Agency
   - Complete
 
-possible_counts: [1, 2, 3, 4]
+possible_counts: [1, 2, 3, 4, 5, 6]  # Standard base-game counts; larger Newsroom mode is separate.
 true_counts: [3, 4]
 
 designer:
   - Peter McPherson
 publisher:
+  - Flatout Games
   - Alderac Entertainment Group
 artist:
   - Ian O'Toole
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 8
+min_playtime: 15
+max_playtime: 30
+min_age: 10
 
 description: |
-  Fit to Print is a real-time tile-laying puzzle game set in the charming woodland newsroom of a small-town newspaper, designed by Peter McPherson and published by Alderac Entertainment Group in 2023. Players simultaneously draft newspaper tiles, stacking them on their desk until shouting "Layout!" to begin assembling the perfect front page — balancing centerpieces, articles, photos, and advertisements. The game includes both a timed real-time mode and a "slo-mode" for those who prefer a relaxed experience, plus 6 unique character abilities and over 100 distinct tile designs.
+  Assemble a woodland newspaper by collecting articles, photographs and advertisements, then fitting them around a centerpiece. In the timed game, everyone searches the shared tile supply at once, switches to arranging their own page and tries to finish before the deadline. Too many spare tiles cost points, while too little advertising can put a paper out of business. Play covers three newspaper editions with growing pages. The base game supports one to six players; solo puzzles, a turn-based option and a separate team Newsroom mode offer other ways to play. This record represents the original English 2023 release, distinct from its 2022 crowdfunding campaign. Experience and preferred-count estimates remain provisional.
 
 upgrades: []

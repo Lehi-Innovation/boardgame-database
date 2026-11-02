@@ -1,21 +1,21 @@
 id: arydia-the-paths-we-dare-tread
 name: "Arydia: The Paths We Dare Tread"
 alternate_names: []
-year: 2025
+year: 2024  # Finished first-printing copy received and unboxed December 30, 2024; regional fulfillment continued in 2025.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original English Far Off Games first printing, delivered from late 2024"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 3  # Feast (sessions of 1-2 hours; full campaign is 40+ hours)
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 3  # Long campaign commitment; individual sittings can vary and be saved.
 rules_complexity: 3  # College (multiple interlocking systems: exploration, combat, progression, role-play)
 strategic_depth: 3  # Strategy (long-term character building, open-world path planning)
 feel: 1  # Cooperative (pure co-op, GM-less, players work together)
-value: 4  # Heirloom (60+ pre-painted minis, multi-layer boards, luxury production at $240 all-in)
+value: 4  # Extensive pre-painted miniatures, cards and layered boards; no all-in price claim.
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -49,35 +49,28 @@ true_counts: [2, 3]
 
 # Metadata
 designer:
-  - Cody Miller
-  - Ira Fay
+  - Cody Miller  # Overall game design and writing.
+  - Ira Fay  # Development and combat/puzzle co-design, separately credited in the rules.
 publisher:
   - Far Off Games
 artist:
   - Lina Cossette
   - David Forest
   - Philipp Ach
-  - Tess Anderson
-  - Kirk Hamilton
-playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
-min_age: 14
+  - Eric Belisle
+  - Mateusz Michalski
+  - Shane Sandulak
+  - Caravan Studios
+  - Barruz Studio  # Miniature sculpting.
+# The rules separately credit Tess Anderson for photography/video and Kirk Hamilton for music.
+playtime_minutes: 90  # Provisional sitting estimate, not a published fixed session duration.
+min_playtime: null
+max_playtime: null
+min_age: null  # Review labels disagree (10+/14+); original box age label not verified.
 
 # Description
 description: |
-  Arydia: The Paths We Dare Tread is a GM-less cooperative open-world campaign
-  board game for 1-4 players set in the richly crafted fantasy world of Arydia.
-  Built on four pillars — Exploration, Progression, Combat, and Role-playing —
-  the game unfolds across many sessions as players traverse a unique, non-randomized
-  world map, uncovering locations, interacting with NPCs, and fighting monsters
-  through a tactical directional combat system. Characters grow in power by
-  collecting items, weapons, and skills, with an index-based save system enabling
-  easy setup and teardown between sessions. As a "green legacy" game, it offers
-  all the excitement of a legacy experience — sealed packages, hidden content,
-  branching narrative — while remaining fully resettable and replayable after
-  completion. Production includes 60+ pre-painted miniatures, 900+ cards, and
-  multi-layer world maps across a 40+ hour hand-crafted campaign.
+  Explore a fantasy world together, develop a character and take turns portraying the people you encounter. Travel, dialogue, puzzles and tactical battles unfold across a long campaign, with a save system for continuing another day. Enemy cards and positional combat patterns resolve battles without a game master. The publisher describes more than forty hours of play; individual sitting lengths are flexible, and substantial components need organizing. The game can be reset, using erasable marks, sleeves, printable character sheets or tokens to preserve replayability. This record follows the original English first printing, with finished copies documented in December 2024 and regional fulfillment continuing in 2025. Age labels remain unverified for this printing, and experience and preferred-count estimates are provisional.
 
 # Upgrades
 upgrades: []

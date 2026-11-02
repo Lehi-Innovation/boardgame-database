@@ -1,20 +1,20 @@
 id: rolling-heights
 name: "Rolling Heights"
 alternate_names: []
-year: 2022
+year: 2023  # Finished retail/crowdfunding release, not the 2022 campaign or older rules copyright.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original English AEG release (2023), SKU 7085, with supported solo mode"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 3  # Competitive construction and shared sites; solo is also supported.
 value: 3  # Premium
 
 affinity: null
@@ -23,7 +23,6 @@ hotness: null
 categories:
   - Dice Rolling
   - Press Your Luck
-  - Bag Building
   - Tile Placement
   - Engine Building
   - City Building
@@ -43,13 +42,14 @@ designer:
   - John D. Clair
 publisher:
   - AEG
-artist: []
+artist:
+  - Kwanchai Moriya
 playtime_minutes: 60
-min_playtime: 45
-max_playtime: 75
+min_playtime: 60  # Linked multiplayer rules say 60+; current product page abbreviates to 60.
+max_playtime: null
 min_age: 14
 
 description: |
-  Rolling Heights is a 1920s city-building game in which players literally roll their meeple workers to determine their productivity — meeples landing standing up are productive workers, while those face-down provide nothing. As a general contractor competing to build the tallest and most prestigious buildings in an expanding city, players acquire building materials, construct structures, and recruit new workers to grow their pool. Completing buildings earns prestige and unlocks new worker meeples, creating an engine-building arc with a uniquely tactile dice-rolling mechanism that puts a literal spin on the worker placement genre.
+  Roll your worker figures, then use their results to gather materials and construct a city of stacked buildings. Standing workers give their stronger effect, sideways workers give a weaker effect, and exhausted workers provide nothing unless you risk another roll. Completing buildings adds points and new workers, but you can use only a limited workforce each turn. This record follows the original English 2023 release. The publisher supports one to four players despite a multiplayer-only product-page label; its original solo mode needs an ordinary six-sided die that was accidentally omitted from the manufactured box. Experience and preferred-count estimates remain provisional.
 
 upgrades: []

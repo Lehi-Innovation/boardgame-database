@@ -1062,3 +1062,111 @@ decisions:
     reviewed 2000 version, separates older Milton Bradley and later anniversary game,
     and corrects false age 8 to indexed original rules 12+. Full mirrored rulebook
     returned 403; exact earliest printing remains unresolved.
+- name: Hanabi
+  year: 2010
+  yaml_id: hanabi
+  status: existing
+  catalog_action: added original-edition row
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://regle.escaleajeux.fr/hanab_rg.pdf
+  - https://www.okkazeo.com/jeux/7273/hanabi-ikebana
+  - https://www.antoinebauza.fr/?m=201011
+  reason: Retained historical hanabi slug and 2010 date for the original French cooperative
+    game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes
+    rules and independent edition catalog identify that scope. Removed blended later
+    publishers, used original printed Sengissen credit, and corrected third-error/final-round
+    rules. Added separate original-year catalog row without inventing an external
+    ID; not a record of the distinct competitive Ikebana rules.
+- name: Hanabi
+  year: 2013
+  yaml_id: hanabi-rr-games-2013
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.64ouncegames.com/pages/hanabi
+  - https://cdn.1j1ju.com/medias/b3/a9/0e-hanabi-rulebook.pdf
+  - https://theologyofgames.squarespace.com/blog/2013/07/12/hanabi-a-review-of-the-spiel-des-jahres-winner
+  - https://bitsofboardgames.blogspot.com/2013/09/hanabi-review.html
+  reason: Mapped existing 2013 Hanabi discovery row to separately researched R&R English
+    card edition, documented in contemporary July 2013 first-hand review and 2013
+    publisher rules reproduced by accessibility supplier. Original 2010 French game
+    retained separately, not silently redated. English version has four fuse-stack
+    pieces but three permitted mistakes, eight clues, optional multicolor suit; it
+    is not a later Deluxe tile set.
+- name: 'Arydia: The Paths We Dare Tread'
+  year: 2024
+  previous_record_year: 2025
+  yaml_id: arydia-the-paths-we-dare-tread
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://faroffgames.com/products/carton-arydia
+  - https://www.dropbox.com/scl/fi/q9qpvu1uc1pea3lozj6i6/Rulebook_280x216mm_FlatFormat_v35_Cropped_OP.pdf?dl=0&rlkey=fx2oqdenrwmbjcy32jpfsojh0
+  - https://coopgestalt.com/2025/01/04/a-review-of-arydia-the-paths-we-dare-tread-part-i-unboxing-set-up-solo-play-and-first-impressions-after-20-hours-of-play/
+  - https://www.boardgamequest.com/the-best-board-games-from-2025/
+  reason: 'Retained CSV 2024 and corrected detailed-record 2025 to the represented
+    first printing: contemporary January 4 unboxing explicitly documents finished
+    copy received December 30, 2024, corroborated by independent year-end reviewer.
+    Regional delivery continued in 2025, which is not proof no finished game existed
+    earlier. Original 2024-copyright rulebook separately identifies Miller overall
+    design, Fay development/combat/puzzle co-design, illustrators/sculptor, composer
+    Hamilton and photographer Anderson. Original age label unverified amid conflicting
+    review labels; nominal sitting time remains provisional rather than fixed campaign
+    duration.'
+- name: Fit to Print
+  previous_catalog_year: 2022
+  year: 2023
+  yaml_id: fit-to-print
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.flatout.games/whoweare
+  - https://www.alderac.live/fit-to-print/
+  - https://www.alderac.com/wp-content/uploads/2023/07/FTP_RULEBOOK_01-11MB.pdf
+  - https://geekdad.com/2023/10/reaping-the-rewards-fit-to-print-is-hot-off-the-press/
+  reason: Publisher history and actual October 2023 finished-copy review distinguish
+    September 2023 release from December 2022 crowdfunding. Retained detailed 2023,
+    corrected CSV 2022 and linked original English base game. Added missing co-publisher
+    Flatout; inspected actual rulebook p2 confirms one-to-six and 10+, correcting
+    four-player cap and false age 8. Standard counts distinguished from larger team
+    Newsroom variant, with turn-based mode explicitly available.
+- name: Garden Guests
+  previous_catalog_year: 2024
+  year: 2023
+  yaml_id: garden-guests
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://vanrydergames.com/pages/garden-guests
+  - https://cdn.shopify.com/s/files/1/0593/6984/8897/files/GGRulebook.pdf?v=1715347889
+  - https://icv2.com/articles/news/view/54859/gen-con-news-2023-van-ryder-plans-garden-guests-final-girl-series-3
+  - https://www.meeplemountain.com/reviews/garden-guests/
+  - https://www.nobleknight.com/P/2148101228/Garden-Guests
+  reason: 'Contemporary 2023 publisher-president interview, December 2023 actual-copy
+    play review and retailer original inventory corroborate original English Van Ryder
+    2023, rather than generic CSV 2024. Retained supported two-through-six: original
+    rules explicitly allow five as two pairs plus one lone player with special setup,
+    despite different experiences. Corrected Party estimate and movement-pattern description
+    to flower-card colony/path construction, direct blocking and limited team communication;
+    removed unverified award-as-publication implication.'
+- name: Rolling Heights
+  previous_catalog_year: 2023
+  year: 2023
+  yaml_id: rolling-heights
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.alderac.com/rolling-heights-postks/
+  - https://www.alderac.com/wp-content/uploads/2022/01/RollingHeights_Rules_Rulebook_FINAL.pdf
+  - https://rolling-heights.backerkit.com/faq
+  - https://www.alderac.live/rolling-heights-missing-die/
+  - https://www.labyrinthdc.com/blogs/inside-the-maze/week-of-february-24-2023-whats-new-at-labyrinth/
+  reason: Contemporary February 2023 own-stock notice and publisher shipment/solo
+    correction distinguish actual original release from 2022 crowdfunding and still
+    older linked rules copyright. Corrected detailed 2022 to 2023, retained CSV year
+    and linked original English AEG SKU 7085. Publisher FAQ/erratum explicitly support
+    solo notwithstanding page/rules multiplayer header; original solo requires ordinary
+    d6 accidentally omitted from manufactured box. Added primary-rule Moriya art,
+    standing/sideways/exhausted worker effects and workforce cap; removed false bag-building
+    tag and Party estimate.

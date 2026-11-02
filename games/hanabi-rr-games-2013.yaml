@@ -1,0 +1,59 @@
+id: hanabi-rr-games-2013
+name: "Hanabi (R&R Games)"
+alternate_names:
+  - Hanabi
+year: 2013
+
+game_family: hanabi
+edition: "English R&R Games card edition (2013), distinct from later Deluxe tile editions"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 1
+value: 1
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Deduction
+  - Family
+  - Filler
+  - Gateway
+  - Antoine Bauza
+
+evokes:
+  - Clever
+  - Connection
+  - Tension
+  - Mystery
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]  # Provisional preference, not a consensus claim.
+designer:
+  - Antoine Bauza
+publisher:
+  - R&R Games
+artist:
+  - Albertine Ralenti  # Illustrations.
+  - Jenn Vargas  # Graphic design; spelling in the 2013 English rules.
+playtime_minutes: 30  # Contemporary independent play-review estimate.
+min_playtime: null
+max_playtime: null
+min_age: 8
+
+description: |
+  Work together on a fireworks display while seeing everyone else's cards and keeping your own hidden from yourself. Limited clues help teammates play cards in order; discarding restores a clue but may remove a card the group needs. Three failed plays end the game, while running out of clue tokens only restricts your available actions. Otherwise, finish the five fireworks or score after the final round. This record represents R&R's 2013 English card edition, with 60 cards including an optional multicolor suit, eight clue tokens and a four-piece fuse stack that allows three mistakes. The multicolor rules are variants rather than the basic five-color game. Experience and preferred-count estimates remain provisional.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

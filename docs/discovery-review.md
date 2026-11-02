@@ -1,7 +1,9 @@
 # Discovery review: 2026-11-01
 
-This is a representative source and technical review, not user usability research
-or verification of every field in every record. The sample spans the intended
+This began as a representative source and technical review. The dated owner
+vocabulary check below adds initial human evidence, but broader usability and
+post-play fit research are still outstanding. It does not verify every field in
+every record. The sample spans the intended
 audiences without using nomination frequency as a quality measure. Consulted links
 and precise limitations are recorded in `sources/research-log.yaml`.
 
@@ -56,6 +58,36 @@ Current limitations remain visible: `feel` combines solo/cooperative modes, part
 atmosphere, and rivalry; a numeric interval is therefore not a pure intensity scale.
 Rating labels now come from the schema everywhere, reducing inconsistent meanings.
 Replacing `feel` with independent dimensions remains a proposal requiring testing.
+
+### Owner vocabulary check: 2026-11-02
+
+The owner answered an open-ended question about which games they would expect
+under each label. These are their supplied examples, not invented play outcomes
+or personal ratings:
+
+| Label | Owner's examples | Current tag/filter check before correction |
+| --- | --- | --- |
+| Share a laugh | Camel Up | Present through `Humor` |
+| Solve a mystery | Sherlock Holmes: Consulting Detective; Mysterium | Both present through `Mystery` |
+| Work through a puzzle | Pandemic; Forbidden Island | Both absent from `Clever` despite their planning and coordination |
+
+The real SQLite query path reproduced those results: three of the five supplied
+examples appeared under their expected shortcut. Pandemic and Forbidden Island's
+provisional five-tag sets now emphasize `Clever` in place of `Dread`. This is a
+curation judgment informed by the owner's expectations, not an owner-supplied
+affinity/hotness rating or a claim that tension is absent. The remaining tags and
+the schema's preset definitions are unchanged. After rebuilding, a read-only
+Chromium check at 390 pixels verified all five examples through the actual
+shortcut buttons and query responses, with no page errors or horizontal overflow.
+This confirms that the supplied examples are discoverable; it is not broad
+recommendation, post-play fit or usability validation.
+
+A working interpretation is that shared unpredictable spectacle can fit laughter,
+and that coordinated planning against a changing situation can fit a puzzle.
+Those interpretations are inferences from the examples. The owner did not restrict
+puzzles to cooperative games, laughter to party games, or mystery to either
+strict deduction or open interpretation. Keep these overlaps available when
+testing with more people and compare expectations after actual play.
 
 ## Mobile and workflow checks
 
