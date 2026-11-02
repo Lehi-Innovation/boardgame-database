@@ -5,24 +5,24 @@ alternate_names:
 year: 1996
 
 # Relationships
-game_family: null
-edition: null
+game_family: hannibal-rome-vs-carthage
+edition: Original Avalon Hill edition (1996), product 906
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 3  # Long
 rules_complexity: 3  # Complex
 strategic_depth: 4  # Master Plan
-feel: 3  # Competitive
+feel: 4  # Fierce: direct military and political rivalry.
 value: 3  # Premium
 
 affinity: null
 hotness: null
 
 categories:
-  - Card Drafting
+  - Hand Management
   - Area Control
   - Wargame
   - Historical
@@ -45,12 +45,22 @@ designer:
 publisher:
   - Avalon Hill
 artist: []
-playtime_minutes: 240
-min_playtime: 180
-max_playtime: 300
-min_age: 14
+playtime_minutes: 180  # Independent original-edition review estimates 2½–3 hours.
+min_playtime: null  # Original box duration label unverified.
+max_playtime: null
+min_age: null  # Original box age label unverified.
 
 description: |
-  Hannibal: Rome vs. Carthage is a card-driven wargame published by Avalon Hill in 1996, simulating the Second Punic War (218–201 BC) between Carthaginian general Hannibal and the Roman Republic. Players use multi-purpose strategy cards to move generals, levy troops, control provinces, and trigger historical events, with the card system — pioneered in the earlier We the People — allowing for exceptional depth with relatively accessible rules. The game features asymmetric forces reflecting Carthage's reliance on its brilliant commander versus Rome's ability to absorb losses and recruit replacements. Hannibal has won the Golden Geek Award for Best 2-Player Game and Best Wargame and is considered a landmark title in the card-driven wargame genre.
+  Rome and Carthage contest the Mediterranean during the Second Punic War.
+  Strategy cards offer a choice between events and operations such as moving
+  armies, recruiting or spreading political control. Battles use a separate hand
+  of tactical cards. Military success matters, but holding political influence
+  can decide the war even without destroying the enemy army.
+
+  This is Simonitch's original 1996 Avalon Hill game, product 906. It develops
+  the earlier card-driven system of We the People; it did not introduce that
+  system to wargaming. Both players must read their changing hands and judge
+  when to fight or threaten another province. Later Valley Games and PHALANX
+  editions have their own revisions and are not represented by this record.
 
 upgrades: []

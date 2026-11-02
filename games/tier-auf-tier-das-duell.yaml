@@ -2,16 +2,16 @@ id: tier-auf-tier-das-duell
 name: "Tier auf Tier: Das Duell"
 alternate_names:
   - "Animal Upon Animal: The Duel"
-year: 2005
+year: 2008  # Contemporary January 2009 review labels this Jahrgang 2008.
 
 # Relationships
-game_family: null
-edition: null
+game_family: animal-upon-animal
+edition: Original multilingual HABA 4340
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 0  # Snack
 rules_complexity: 0  # Preschool
 strategic_depth: 0  # Reflex
@@ -24,6 +24,8 @@ hotness: null
 categories:
   - Dexterity
   - Dice Rolling
+  - Real-time
+  - Simultaneous Action
   - Family
   - Animals
 
@@ -37,16 +39,29 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - Udo Peise
+  - Klaus Miltenberger
 publisher:
-  - Ravensburger
-artist: []
+  - HABA
+artist:
+  - Michael Bayer
 playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
-min_age: 4
+min_playtime: null  # Rules give approximately ten minutes, not a range.
+max_playtime: null
+min_age: 5
 
 description: |
-  Tier auf Tier: Das Duell (Animal Upon Animal: The Duel) is a two-player competitive variant of HABA's beloved wooden stacking game Animal Upon Animal. Each player has their own set of four wooden animal figures — octopus, tiger, goose, and squirrel — and rolls dice to determine which animal to place and where on the growing tower. The first player to place all their animals wins, but one wobble too many and the tower comes crashing down in laughter.
+  Race to build a separate tower from your tiger, goose, squirrel and octopus.
+  Two dice specify the bottom and top animals for both players, who stack at the
+  same time. Finish first and call for a rules check: a correct tower earns you
+  a coin, while an illegal tower gives the coin to your opponent. The first player
+  to collect three coins wins.
+
+  This is HABA's multilingual 4340 set, a distinct stacking game from the farm
+  animal auction game You're Bluffing! The rules also offer a tournament for
+  larger groups using repeated two-player duels; they do not add simultaneous
+  stacking places for everyone. Practice balancing the narrow sides before
+  introducing the race, especially with children learning the shapes.
 
 upgrades: []

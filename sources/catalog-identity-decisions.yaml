@@ -1246,3 +1246,111 @@ decisions:
     2004. Removed unsupported bestseller, formal classes and universal six-frag claims; primary
     credits distinguish Wilson lead design, Petersen additional design/development and Nicely/id
     Software graphics.
+- name: Hannibal
+  year: null
+  yaml_id: hannibal-rome-vs-carthage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2030%20No%205.pdf
+  - https://www.panix.com/~sos/bc/hannibal.html
+  - https://mapandcounters.blogspot.com/2009/06/tahgc-hannibal-rome-versus-carthage.html
+  reason: Both same-1996 Avalon Hill YAML records duplicated product 906. Retained full-title
+    record, archived short-title original unchanged and added explained retired-ID alias;
+    contemporary publisher advertisement/review support same identity.
+- name: 'Hannibal: Rome vs. Carthage'
+  year: null
+  yaml_id: hannibal-rome-vs-carthage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2030%20No%205.pdf
+  - https://www.panix.com/~sos/bc/hannibal.html
+  - https://mapandcounters.blogspot.com/2009/06/tahgc-hannibal-rome-versus-carthage.html
+  reason: Original 1996 Avalon Hill product 906; duplicate short-title YAML archived unchanged.
+    Card-driven system follows We the People; not a distinct later Valley Games or PHALANX
+    edition.
+- name: 'Tier auf Tier: Das Duell'
+  year: null
+  yaml_id: tier-auf-tier-das-duell
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ludism.fr/regles_files/fr/upload/4340_H_pyramide_d_animaux_-_duel_HABA_2008.pdf
+  - https://www.reich-der-spiele.de/kritiken/tier-auf-tier-das-duell
+  - https://www.spiele-check.de/7034-Tier-auf-Tier-Das-Duell.html
+  reason: 'Original HABA multilingual 4340, 2008: primary rules name Peise/Miltenberger, Bayer,
+    two/5+/about ten minutes and simultaneous race to three coins. Contemporary January 2009
+    play review explicitly labels Jahrgang 2008. Removed false alias from unrelated Kuhhandel/You’re
+    Bluffing!.'
+- name: Sherlock Holmes Consulting Detective
+  year: 1981
+  yaml_id: sherlock-holmes-consulting-detective
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.boardgamesbot.com/assets/games-library/sherlock-holmes-consulting-detective/manual_pt_br.pdf?raw=1&v=1779252195-8043193
+  - https://eprints.staffs.ac.uk/6660/1/Rerolling%20Intro.pdf
+  - https://www.abebooks.com/first-edition/Sherlock-Holmes-Consulting-Detective-Game-Grady/31304931043/bd
+  - https://wren08.wordpress.com/other-projects/sherlock-holmes-consulting-detective-game/
+  - https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_(gamebook)
+  - https://www.spiel-des-jahres.de/spiele/sherlock-holmes-criminal-cabinet/
+  reason: 'Original English Sleuth Publications binder chronology: independent scholarly history
+    and original-copy seller support 1981; some references date boxed release 1982. Corrected
+    false detailed 1985 award-as-release and modern Space Cowboys publisher blend. Original
+    rules allow solo, competing pair and group modes without a stated maximum; later specs
+    not transferred.'
+  previous_record_year: 1985
+- name: San Juan
+  year: null
+  bgg_id: '166669'
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.riograndegames.com/wp-content/uploads/2013/02/SanJuan.pdf
+  - https://www.hall9000.de/html/spiel/san_juan
+  - https://cdn.1j1ju.com/medias/74/a2/b4-san-juan-second-edition-rulebook.pdf
+  - https://opinionatedgamers.com/2014/12/04/san-juan/
+  - https://www.nobleknight.com/P/2148280879/San-Juan
+  reason: Valid plain title belongs to both distinct editions. Retained undated row pending
+    rather than removing legitimate second-edition alternate title or guessing from external
+    identifier alone. Separate dated original row added; existing explicit 2014 second row
+    retained.
+- name: San Juan
+  year: 2004
+  yaml_id: san-juan
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.riograndegames.com/wp-content/uploads/2013/02/SanJuan.pdf
+  - https://www.hall9000.de/html/spiel/san_juan
+  reason: Added sourced original edition row without inventing external ID; primary 110-card
+    rules and contemporary April 2004 play review establish scope. Both original and 2014
+    remain active.
+- name: You're Bluffing!
+  year: 1985
+  yaml_id: youre-bluffing
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/251
+  - https://www.spiel-des-jahres.de/spiele/kuhhandel/
+  reason: 'Replaced false Tier auf Tier: Das Duell alternate name with Kuhhandel. Scoped original
+    Ravensburger 012510, Blaumeiser art and 3–5 bibliography; explicitly retained competing
+    jury count/duration, removed unsupported two-player support.'
+- name: 'Sherlock Holmes: Consulting Detective'
+  year: 1985
+  previous_automatic_match: sherlock-holmes-consulting-detective
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/sherlock-holmes-criminal-cabinet/
+  - https://eprints.staffs.ac.uk/6660/1/Rerolling%20Intro.pdf
+  reason: '2026-11-02: Earlier automatic match depended on the detailed record’s incorrect
+    award-year 1985 and blended modern specifications. Detailed record now explicitly represents
+    original English Sleuth 1981 (1982 boxed chronology also reported). Unqualified 1985 row
+    could reflect award/localization/reprint context; retained pending rather than forcing
+    an original-English mapping or inventing its edition. German Criminal-Cabinet award evidence
+    does not itself establish this row’s English printing.'

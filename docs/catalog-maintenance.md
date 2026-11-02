@@ -61,7 +61,7 @@ Keep both distinct editions. Backfill previews use these same conservative rules
 ## Historical research IDs
 
 [../sources/game-aliases.yaml](../sources/game-aliases.yaml) records the initial nineteen deliberate
-links from historical IDs to current records, plus two retired duplicate-record IDs, each with an explanation grounded in
+links from historical IDs to current records, plus three retired duplicate-record IDs, each with an explanation grounded in
 the stored evidence and represented edition. Historical log bytes remain intact.
 The previously missing original 878 Vikings record was independently researched and
 added using its historical slug; it is not an alias to the second edition.
@@ -85,3 +85,16 @@ duplicate. Faidutti and Laget’s 2000 **Castle** also remains separate and now 
 creator-sourced identity and credits. These decisions demonstrate why comparing
 only the duplicate YAML titles is insufficient: inspect the original CSV identity
 and underlying evidence before assigning its target.
+
+The same review later consolidated `hannibal` into `hannibal-rome-vs-carthage`.
+Both explicitly represented Avalon Hill's 1996 original; the publisher's product-906
+advertisement and contemporary independent play review corroborate it. The retired
+short-title YAML remains unchanged with its hash in the dated archive. Both catalog
+title variants map to the retained original; later Valley Games/PHALANX revisions
+are not silently combined with it.
+
+San Juan demonstrates the different outcome for real editions: the original
+110-card game (2004) and Ravensburger's second edition (2014, with additional
+buildings) remain separate. The undated plain-title CSV row stays pending because
+both legitimately share that name; explicit dated rows cover the two editions.
+An external discovery identifier alone was not treated as proof of its edition.

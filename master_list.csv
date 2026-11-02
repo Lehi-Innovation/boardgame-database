@@ -1487,8 +1487,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Hammer's Slammers,,boardgame,,,hammers-slammers
 ,Hanabi,2013,boardgame,,"2026-11-02: Mapped existing 2013 Hanabi discovery row to separately researched R&R English card edition, documented in contemporary July 2013 first-hand review and 2013 publisher rules reproduced by accessibility supplier. Original 2010 French game retained separately, not silently redated. English version has four fuse-stack pieces but three permitted mistakes, eight clues, optional multicolor suit; it is not a later Deluxe tile set.",hanabi-rr-games-2013
 ,Hands Down,,boardgame,,,
-,Hannibal,,boardgame,,,
-234,Hannibal: Rome vs. Carthage,,boardgame,,,
+,Hannibal,,boardgame,,"Both same-1996 Avalon Hill YAML records duplicated product 906. Retained full-title record, archived short-title original unchanged and added explained retired-ID alias; contemporary publisher advertisement/review support same identity.",hannibal-rome-vs-carthage
+234,Hannibal: Rome vs. Carthage,,boardgame,,Original 1996 Avalon Hill product 906; duplicate short-title YAML archived unchanged. Card-driven system follows We the People; not a distinct later Valley Games or PHALANX edition.,hannibal-rome-vs-carthage
 158991,Hannin Wa Odoru,2013,boardgame,,,
 8989,Hansa,2004,boardgame,,,
 43015,Hansa Teutonica,2009,boardgame,,,
@@ -2668,7 +2668,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3,Samurai,,boardgame,,,
 5235,Samurai Blades,,boardgame,,,samurai-blades
 158900,Samurai Spirit,,boardgame,,,samurai-spirit
-166669,San Juan,,boardgame,,,
+166669,San Juan,,boardgame,,Plain undated title matches both original 2004 and second 2014 editions. Existing discovery identifier retained but not treated alone as verified edition evidence; no arbitrary original-edition link. Explicit original-2004 row added; existing second-edition 2014 row retained. Rules distinguish 110 base cards from second edition’s 33 additional cards and cathedral.,
 1041,San Marco,2001,boardgame,,,
 1571,Sanctuary,,boardgame,,,
 80933,Sandwich,,boardgame,,,
@@ -2747,8 +2747,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 3438,Shendao,,boardgame,failed,No sources found,
 ,Shengguan Tu,,boardgame,,,
 157969,Sheriff of Nottingham,,boardgame,,,
-2511,Sherlock Holmes Consulting Detective,1981,boardgame,,,
-,Sherlock Holmes: Consulting Detective,1985,boardgame,,,
+2511,Sherlock Holmes Consulting Detective,1981,boardgame,,"Original English Sleuth Publications binder chronology: independent scholarly history and original-copy seller support 1981; some references date boxed release 1982. Corrected false detailed 1985 award-as-release and modern Space Cowboys publisher blend. Original rules allow solo, competing pair and group modes without a stated maximum; later specs not transferred.",sherlock-holmes-consulting-detective
+,Sherlock Holmes: Consulting Detective,1985,boardgame,,2026-11-02: Earlier automatic match depended on the detailed record’s incorrect award-year 1985 and blended modern specifications. Detailed record now explicitly represents original English Sleuth 1981 (1982 boxed chronology also reported). Unqualified 1985 row could reflect award/localization/reprint context; retained pending rather than forcing an original-English mapping or inventing its edition. German Criminal-Cabinet award evidence does not itself establish this row’s English printing.,
 41019,Sherwood Forest,2009,boardgame,,,
 199611,Shiftago,,boardgame,,,
 11949,Shifting Sands: The Campaign for North Africa 1940-1943,,boardgame,,,shifting-sands
@@ -3345,7 +3345,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 18549,Tickle Bee,,boardgame,,,
 22825,Tide of Iron,,boardgame,,,
 232444,Tief im Riff,2017,boardgame,,,
-39210,Tier auf Tier: Das Duell,,boardgame,,,
+39210,Tier auf Tier: Das Duell,,boardgame,,"Original HABA multilingual 4340, 2008: primary rules name Peise/Miltenberger, Bayer, two/5+/about ten minutes and simultaneous race to three coins. Contemporary January 2009 play review explicitly labels Jahrgang 2008. Removed false alias from unrelated Kuhhandel/You’re Bluffing!.",tier-auf-tier-das-duell
 22206,Tieto & Taito & Temppu,2002,boardgame,,,
 ,Tiger game,,boardgame,,,
 42,Tigris and Euphrates,1997,boardgame,,,
@@ -4250,3 +4250,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Rubik's Flip (University Games),,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",rubiks-flip
 ,Hanabi,2010,boardgame,,"2026-11-02: Retained historical hanabi slug and 2010 date for the original French cooperative game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes rules and independent edition catalog identify that scope. Removed blended later publishers, used original printed Sengissen credit, and corrected third-error/final-round rules. Added separate original-year catalog row without inventing an external ID; not a record of the distinct competitive Ikebana rules.",hanabi
 ,Doom: The Boardgame,2004,boardgame,,Original English Fantasy Flight edition: 2004 retailer release plus original rules. Separate from unresolved generic 2005 catalog row and redesigned 2016 game.,doom-the-boardgame
+,San Juan,2004,boardgame,,"Explicit original 110-card edition, independently reviewed April 2004 and documented by publisher rules. Distinct from 2014 second edition and unresolved undated generic discovery row; no external ID invented.",san-juan

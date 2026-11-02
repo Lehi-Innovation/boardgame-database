@@ -73,3 +73,10 @@ aliases:
       same game as carcassonne-the-castle. Original file is preserved unchanged at archive/2026-11-02/duplicate-records/the-castle-carcassonne.yaml;
       protected owner fields were empty. Canonical identity is supported by the logged
       primary rules/creator evidence.'
+  hannibal:
+    game_id: hannibal-rome-vs-carthage
+    reason: '2026-11-02 duplicate review: both YAMLs explicitly represented the same Simonitch/Avalon
+      Hill 1996 original, not different editions. Original short-title file preserved unchanged
+      at archive/2026-11-02/duplicate-records/hannibal.yaml; owner fields/history empty. Publisher
+      product-906 advertisement and contemporary independent review establish canonical identity;
+      later reprints remain distinct.'

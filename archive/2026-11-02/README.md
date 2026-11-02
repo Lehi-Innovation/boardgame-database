@@ -3,7 +3,7 @@
 ## Duplicate game records
 
 The following records duplicated an active game rather than representing a distinct
-edition. Both original files remain byte-for-byte intact. Their owner ratings were
+edition. All three original files remain byte-for-byte intact. Their owner ratings were
 null and neither held play history. Different provisional experience estimates
 remain in these archived originals; they were not silently merged.
 
@@ -11,12 +11,20 @@ remain in these archived originals; they were not silently merged.
 | --- | --- | --- | --- |
 | `games/two-player-chess.yaml` | [two-player-chess.yaml](duplicate-records/two-player-chess.yaml) | [chess](../../games/chess.yaml) | `44787c3fb6431c7a00ac5dec9a2b7924eb4abc99c31ef43ce4dab070fdf5a305` |
 | `games/the-castle-carcassonne.yaml` | [the-castle-carcassonne.yaml](duplicate-records/the-castle-carcassonne.yaml) | [carcassonne-the-castle](../../games/carcassonne-the-castle.yaml) | `d7511e71f0cad0275634d30067f8b8be410a28d7b32534ebaac2a1edde4ead6d` |
+| `games/hannibal.yaml` | [hannibal.yaml](duplicate-records/hannibal.yaml) | [hannibal-rome-vs-carthage](../../games/hannibal-rome-vs-carthage.yaml) | `bf2d8ef145f224c751fdc55f7e3ffe29315171d5fe241deaae0d7675dd3b6e67` |
 
 The retired IDs have explained evidence links in [game-aliases.yaml](../../sources/game-aliases.yaml).
 The CSV mappings now use the retained records. The separate Mayfair **The Castle
 (1981)** discovery row was not merged into the Carcassonne game: its incorrect
 mapping was cleared and it remains pending independent rules/specification work.
 Faidutti and Laget’s **Castle (2000)** also remains a separate active card game.
+
+Both Hannibal YAMLs explicitly represented Simonitch's Avalon Hill 1996 original.
+The publisher's contemporary product-906 advertisement and independent play review
+support that identity. Neither file represented the later Valley Games or PHALANX
+revisions. The archived short-title record includes an incorrect claim that Hannibal
+introduced card-driven wargaming; the retained record explains the earlier
+We the People system instead. Archiving preserves evidence, not publication approval.
 
 Restore a duplicate only if new evidence establishes a distinct edition or if
 reversing the consolidation deliberately. Review the current canonical record,

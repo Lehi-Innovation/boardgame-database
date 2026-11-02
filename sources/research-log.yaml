@@ -11741,3 +11741,148 @@ entries:
       news, not the old article; indexed historical text supports edition distinction
       only. No newer player counts, Glory Kill rules or current product specifications
       transferred to original 2004 game.
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: hannibal-rome-vs-carthage
+    url: https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2030%20No%205.pdf
+    description: Downloaded publisher’s 1996 General; pixel-inspected full-page product-906
+      advertisement at PDF p3. Establishes original title, Avalon Hill, Second Punic
+      War and contemporary sale, independently dated by play review. Advertisement is
+      image-only, absent from extracted text; age/duration not stated. Not acquired
+      as active cover.
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: hannibal-rome-vs-carthage
+    url: https://www.panix.com/~sos/bc/hannibal.html
+    description: 'Read O’Sullivan’s contemporary 1996 play review (updated March 1997):
+      Simonitch/Avalon Hill 1996, earlier We the People system, dealt strategy hands,
+      event/operations choices, political victory and battle cards. Removed false card-drafting/first-system
+      and unsupported award claims; no reviewer house-rule suggestion adopted.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: hannibal-rome-vs-carthage
+    url: https://mapandcounters.blogspot.com/2009/06/tahgc-hannibal-rome-versus-carthage.html
+    description: 'Read collector’s actual original Avalon Hill component inventory and
+      play analysis: two players, 1996, point-to-point map and average 2½–3 hours. Nominal
+      180 minutes is a review estimate, not original box range; age remains unknown.
+      Both duplicate YAMLs claimed this same original scope, so preserved short-title
+      file unchanged rather than inventing a distinct edition.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: san-juan
+    url: https://www.riograndegames.com/wp-content/uploads/2013/02/SanJuan.pdf
+    description: 'Downloaded original publisher English rules and read components, role
+      flow, building/end conditions and footer: 110 cards, cards as buildings/payment/goods,
+      prospector benefits only chooser, twelve-building trigger. ©2003 designer/©2004
+      Ravensburger distinguished from 2013 upload directory. Official game page currently
+      blocks direct HTTP, so rules supply primary evidence.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: san-juan
+    url: https://www.hall9000.de/html/spiel/san_juan
+    description: 'Read Schollenberger’s April 20, 2004 original-edition review: Seyfarth,
+      Alea, Vohwinkel art, 2–4/10+/45–60 minutes. Contemporary played-copy date establishes
+      publication by April 2004; rules confirm actual card roles. Original remains separate
+      from 2014 second edition; undated generic CSV stays pending.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: san-juan-second-edition
+    url: https://cdn.1j1ju.com/medias/74/a2/b4-san-juan-second-edition-rulebook.pdf
+    description: 'Downloaded/text-read mirrored original English publisher rules, especially
+      components/roles/end and expansion sections: 110 base plus 33 new cards and separate
+      cathedral, hut, changes to buildings, ©2004/14 Ravensburger with US contact. Corrected
+      false whole-set 110-card claim and Rio Grande publisher blend; no unverified illustration
+      credits added.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: san-juan-second-edition
+    url: https://opinionatedgamers.com/2014/12/04/san-juan/
+    description: 'Read Schloesser’s contemporary December 4, 2014 play review and reviewer
+      comparisons: actual newly republished Alea/Ravensburger edition, extra buildings
+      and hut, 2–4/45–60. Confirms completed availability independent of copyright;
+      additional comments distinguish omitted event cards. No popularity/ranking assertions
+      imported.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: san-juan-second-edition
+    url: https://www.nobleknight.com/P/2148280879/San-Juan
+    description: 'Read retailer’s own 2014 Ravensburger RAV812066-Z inventory: 143 playing
+      cards, separate cathedral, 2–4/10+/45–60. Corroborates second English edition
+      rather than original 110-card set; retailer copy-format/stock dates not treated
+      as publication dates.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: tier-auf-tier-das-duell
+    url: https://www.ludism.fr/regles_files/fr/upload/4340_H_pyramide_d_animaux_-_duel_HABA_2008.pdf
+    description: 'Downloaded/text-read original multilingual HABA 4340 rules, including
+      English pp9–12: Peise/Miltenberger, Bayer, 5+, two, about ten minutes, shared
+      dice constraints, simultaneous separate towers, checked tower earns coin and first
+      three coins wins. Larger-group variant is repeated two-player duels, not extra
+      concurrent places. ©2008 alone not treated as release proof.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: tier-auf-tier-das-duell
+    url: https://www.reich-der-spiele.de/kritiken/tier-auf-tier-das-duell
+    description: 'Read Riemi’s January 31, 2009 actual play with daughter: explicitly
+      labels Jahrgang 2008, HABA, Peise/Miltenberger and Bayer. Independent contemporary
+      evidence supports selected 2008, distinct from original Tier auf Tier 2005. Emphasizes
+      initial practice/frustration before enjoyable speed play; retained as practical
+      suggestion, not universal child response.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: tier-auf-tier-das-duell
+    url: https://www.spiele-check.de/7034-Tier-auf-Tier-Das-Duell.html
+    description: 'Read indexed independent collector entry created March 25, 2009: HABA
+      4340, same credits/contents and 5+/two. Edition field says 2009, conflicting with
+      contemporary play review’s Jahrgang 2008; difference recorded rather than ignored.
+      Current direct web fetch cache miss. Primary rules and contemporary 2008-labeled
+      play evidence control selected scope.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: youre-bluffing
+    url: https://www.luding.org/cgi-bin/GameData.py/DEgameid/251
+    description: 'Read original-edition bibliography for Ravensburger Kuhhandel article
+      012510: 1985, Koltze, Blaumeiser, 3–5/10+/45+ and animal quartets, money not scoring.
+      Later editions listed separately. Removed false Tier auf Tier alias and unsupported
+      two-player count; jury’s competing 3–6/30 remains explicit, not silently harmonized.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: youre-bluffing
+    url: https://www.spiel-des-jahres.de/spiele/kuhhandel/
+    description: 'Read original award-jury rules account: auctions, compulsory matching-animal
+      concealed offers and quartets, with money not scoring. Lists 3–6/10+/about30 and
+      revised edition from 2001; differs from edition-specific bibliography’s 3–5/45+.
+      Original box/rules not inspected to resolve; no later illustrations transferred.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: sherlock-holmes-consulting-detective
+    url: https://www.boardgamesbot.com/assets/games-library/sherlock-holmes-consulting-detective/manual_pt_br.pdf?raw=1&v=1779252195-8043193
+    description: 'Downloaded actual nine-page English original-rule scan behind misleading
+      Portuguese filename; text-read §§1–2.4: Sleuth ©1981, ten quizzes, newspapers
+      up to current case, solo, competing pair, shared or independent group solutions
+      with no stated maximum. Corrected universal-cooperation and eight-player cap.
+      Printed original age/duration absent; no host-generated assistant answers used.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: sherlock-holmes-consulting-detective
+    url: https://eprints.staffs.ac.uk/6660/1/Rerolling%20Intro.pdf
+    description: 'Read Brown/MacCallum-Stewart scholarly introduction’s edition/referencing
+      discussion: explicitly original Sleuth publication 1981, later translation/retranslation
+      and revisions. Independent publication history supports chosen original scope
+      beyond rules copyright; later translation-error claims not generalized to original
+      cases.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: sherlock-holmes-consulting-detective
+    url: https://www.abebooks.com/first-edition/Sherlock-Holmes-Consulting-Detective-Game-Grady/31304931043/bd
+    description: 'Read Gargoyle Books’ own first-edition inventory description and bibliography:
+      Grady/Goldberg/Edwards, Sleuth, English, 1981 brown binder. Seller documents an
+      original copy; its mixed second-edition directory means manufacturing year of
+      every component is not certified. Corroborates selected binder identity, not current
+      Space Cowboys specifications.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: sherlock-holmes-consulting-detective
+    url: https://wren08.wordpress.com/other-projects/sherlock-holmes-consulting-detective-game/
+    description: 'Read owner’s original-copy inventory: ten original cases and separate
+      books/quiz/map with mixed 1981/1982 copyright dates. Later volumes contain differing
+      case counts, contradicting universal ten-case claim. Linked rules subpage now
+      404, so actual rules obtained from separate scan; no case solutions copied.'
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: sherlock-holmes-consulting-detective
+    url: https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_(gamebook)
+    description: Read publication-history section specifically to record conflicting
+      1982 boxed-release reference. Did not use linked BGG versions, transfer its 1–6
+      limit over primary uncapped group rules, or treat Wikipedia as the deciding original-date
+      source. Selected 1981 binder chronology rests on independent scholarly/seller
+      evidence with uncertainty retained.
+  - timestamp: '2026-11-02T19:42:42Z'
+    game_id: sherlock-holmes-consulting-detective
+    url: https://www.spiel-des-jahres.de/spiele/sherlock-holmes-criminal-cabinet/
+    description: 'Read award jury’s German Criminal-Cabinet account and scope: Franckh-Kosmos,
+      1–6/12+/120 and localized credit Uruburu. This is the 1985 award context, not
+      evidence original English release was 1985; no localized age/count/credit transferred
+      to original Sleuth record.'

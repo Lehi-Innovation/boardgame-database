@@ -6,16 +6,16 @@ year: 2014
 
 # Relationships
 game_family: puerto-rico
-edition: second-edition
+edition: Ravensburger English second edition (2014)
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 3  # Polite: separate cities with interaction through shared role timing.
 value: 2  # Standard
 
 affinity: null
@@ -26,7 +26,6 @@ categories:
   - Engine Building
   - Tableau Building
   - Set Collection
-  - Card Drafting
   - Euro
   - Gateway
   - Rio Grande Games
@@ -45,14 +44,24 @@ designer:
   - Andreas Seyfarth
 publisher:
   - Alea
-  - Rio Grande Games
+  - Ravensburger
 artist: []
 playtime_minutes: 45
-min_playtime: 30
+min_playtime: 45  # Contemporary review and edition-specific retailer: 45–60 minutes.
 max_playtime: 60
 min_age: 10
 
 description: |
-  San Juan Second Edition is a 2014 update of Andreas Seyfarth's beloved card game adaptation of Puerto Rico, published by Alea. Players build a colonial city using a 110-card deck that functions simultaneously as the building supply, the currency for construction, and the victory point tracker. The role-selection mechanic from Puerto Rico is preserved — each round one player selects from roles like Builder, Producer, and Trader, with all players participating but the selector gaining a bonus. The second edition adds new building cards that expand strategic options while preserving the elegant, fast-playing core. It remains one of the finest card games in the genre.
+  Turn cards into buildings, spend other cards to pay for them, and use face-down
+  cards as goods. Players choose roles that usually let everyone act while giving
+  the chooser an extra benefit. The prospector is an exception: only its chooser
+  draws a card. Choosing roles at the right moment can help your city more than
+  your rivals' cities.
+
+  This is Ravensburger's 2014 English second edition. Its rules list the original
+  110-card base deck plus 33 expansion cards and a separate cathedral card, rather
+  than only 110 cards in the whole set. It includes extra buildings, including the
+  hut, but not the Treasure Chest event cards. The core game still ends when a
+  player builds a twelfth building; building abilities determine final points.
 
 upgrades: []

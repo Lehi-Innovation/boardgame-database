@@ -1,21 +1,21 @@
 id: youre-bluffing
 name: "You're Bluffing!"
 alternate_names:
-  - "Tier auf Tier: Das Duell"
+  - "Kuhhandel"
 year: 1985
 
 # Relationships
-game_family: null
-edition: null
+game_family: kuhhandel
+edition: Original Ravensburger Kuhhandel (1985), article 012510
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Fierce: direct auctions and concealed bids for opponents' animals.
 value: 1  # Budget
 
 affinity: null
@@ -36,25 +36,30 @@ evokes:
   - Persuasion
   - Lucky
 
-possible_counts: [2, 3, 4, 5]
+possible_counts: [3, 4, 5]  # Original-edition bibliography; jury instead lists 3–6.
 true_counts: [3, 4, 5]
 
 designer:
   - Rüdiger Koltze
 publisher:
   - Ravensburger
-artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+artist:
+  - Josef Blaumeiser  # Original 1985 edition, not later reprint illustrators.
+playtime_minutes: 45  # Bibliography lists 45+; jury estimates 30 minutes.
+min_playtime: null
+max_playtime: null
 min_age: 10
 
 description: |
-  You're Bluffing! is a classic bidding and set-collection card game in which players auction
-  off farm animals from a shuffled deck, trying to complete sets. The auctioneer always retains
-  the right to buy at the highest bid, and trading between players uses simultaneous blind bids
-  revealed together. The interplay between the open auction and the secretive trading, combined
-  with the risk that the auctioneer can snatch a winning animal, creates constant tension and
-  careful bluffing.
+  Auction farm animals and use concealed offers to take matching animals from
+  opponents. Only complete sets of four score, so an animal's value depends on
+  who needs it and how much cash they can bluff with. Money remaining at the end
+  does not score. Reading bids and deciding when to force a trade are central.
+
+  This record represents Ravensburger's original German Kuhhandel, also known
+  as You're Bluffing!, with Blaumeiser illustrations. It is unrelated to HABA's
+  Tier auf Tier: Das Duell. The original-edition bibliography lists three to five
+  and 45 minutes or more; the award jury instead lists three to six and about
+  30 minutes. Original box/rules labels were not inspected to settle that conflict.
 
 upgrades: []

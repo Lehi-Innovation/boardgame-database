@@ -82,6 +82,12 @@ shortcut buttons and query responses, with no page errors or horizontal overflow
 This confirms that the supplied examples are discoverable; it is not broad
 recommendation, post-play fit or usability validation.
 
+The Sherlock example expresses an expected kind of experience, not an identified
+printing owned by the user. Subsequent curation scopes its record to the original
+English Sleuth game, with original solo/competitive/group modes distinguished from
+later collections. A repeated phone check still finds all five examples; it does
+not establish that the owner intended that particular edition.
+
 A working interpretation is that shared unpredictable spectacle can fit laughter,
 and that coordinated planning against a changing situation can fit a puzzle.
 Those interpretations are inferences from the examples. The owner did not restrict
