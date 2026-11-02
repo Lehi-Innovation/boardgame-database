@@ -1,28 +1,30 @@
 id: lost-and-found
 name: "Lost & Found"
-alternate_names: []
-year: 2018
+alternate_names:
+  - "Lost'n'Found"
+  - "Бюро Находок"
+year: 2015
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original Lifestyle memory game (2015); specifications corroborated by 2019 publisher catalog"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 0  # Snack
 rules_complexity: 0  # Preschool
 strategic_depth: 0  # Reflex
-feel: 0  # Solitary
-value: 2  # Standard
+feel: 2  # Light competitive race to identify the changed item.
+value: 0  # Compact card-game production.
 
 affinity: null
 hotness: null
 
 categories:
-  - Cooperative
-  - Puzzle Solving
+  - Memory
+  - Real-time
   - No Math
   - Family
 
@@ -33,21 +35,22 @@ evokes:
   - Complete
   - Wonder
 
-possible_counts: [1, 2, 3, 4]
-true_counts: [1, 2]
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]  # Provisional suggested group sizes, not a consensus claim.
 
 designer:
-  - Inka Brand
-  - Markus Brand
+  - Martin Nedergaard Andersen
 publisher:
-  - Zoch Verlag
-artist: []
-playtime_minutes: 20
-min_playtime: 15
-max_playtime: 25
-min_age: 6
+  - Lifestyle Boardgames Ltd
+artist:
+  - Natalia Zelenina
+  - Irina Pechenkina
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 15
+min_age: 5
 
 description: |
-  Lost & Found is a cooperative children's game designed by the Brand duo (creators of Exit: The Game) in which players work together to help a lost child find their way back through a simple labyrinth or puzzle environment. The cooperative format encourages communication and shared problem-solving between children, making it suitable for family play with young children. Published by Zoch, it sits at the lighter end of cooperative game design, prioritizing accessibility and the sense of shared accomplishment over strategic challenge. A gentle introduction to cooperative board game concepts for young players.
+  Look carefully at a collection of objects, then turn the card over and try to name the item that has appeared before another player does. Different difficulty levels let children and adults adjust the memory challenge. This is Martin Nedergaard Andersen's competitive observation card game, rather than the unsupported cooperative labyrinth game previously described here. The publisher's reviewed catalog lists two to six players, ages five upward and ten to fifteen minutes. Expect quick visual recall and calling out discoveries; preferred counts and experience assessments remain provisional.
 
 upgrades: []

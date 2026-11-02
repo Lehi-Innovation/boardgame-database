@@ -4,17 +4,17 @@ alternate_names: []
 year: 1982
 
 # Relationships
-game_family: null
-edition: null
+game_family: ghoulash
+edition: "Original self-published paper game (1982), before the revised 2001 scenarios"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Existing hour-long session estimate.
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 3  # Provisional social mode; mutual game mastering does not imply a shared win.
 value: 1  # Budget
 
 affinity: null
@@ -40,14 +40,14 @@ true_counts: [2]
 designer:
   - Mike Suchcicki
 publisher:
-  - Ghoulash Games
+  - Mike Suchcicki
 artist: []
-playtime_minutes: 60
-min_playtime: 30
-max_playtime: 90
-min_age: 8
+playtime_minutes: 60  # Existing provisional estimate; original timing label not established.
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Ghoulash: The Last Game on Earth is a two-player paper-based RPG-like game self-published by Mike Suchcicki in 1982. Playing entirely on paper using specially designed charts — with no dice, cards, spinners, or physical pieces of any kind — each player serves as the game master for the other, hiding obstacles and items to be discovered in a mechanic resembling a narrative version of Battleship. One player describes a move; the opponent describes its consequences, creating a miniature cooperative storytelling duel with a horror survival theme.
+  Explore a monster-filled adventure on paper, using prepared charts while each player acts as the other's game master. Mike Suchcicki describes creating and marketing this compact two-player dungeon adventure in 1982. This record retains that original game, before he and Joe Suchcicki streamlined it into the later one-sheet scenarios. Mutual game mastering does not establish a shared-win cooperative mode. Timing and experience ratings remain provisional; original age and detailed rules specifications are not established by this history review.
 
 upgrades: []

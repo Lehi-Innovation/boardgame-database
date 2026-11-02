@@ -1399,7 +1399,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 146312,Ghost Fightin' Treasure Hunters,,boardgame,,,
 37046,Ghost Stories,,boardgame,,,
 2290,Ghosts,,boardgame,,,
-2402,Ghoulash: The Last Game on Earth,2001,boardgame,,,ghoulash
+2402,Ghoulash: The Last Game on Earth,2001,boardgame,,"2026-11-02: Creator’s first-person history distinguishes marketed 1982 original from streamlined one-sheet scenarios distributed online in 2001. Retained original ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery row to revision and added separate original row without inventing a source ID. Current creator page identifies two-player competition, not shared cooperative victory.",ghoulash-pen-and-paper
 ,GHQ,,boardgame,,,
 23686,Gift Trap,,boardgame,,,
 170969,Gigamons,,boardgame,,,
@@ -1809,10 +1809,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,København,,boardgame,,,kobenhavn
 40367,L'Anniversaire des triplés,,boardgame,,,l-anniversaire-des-triples
 9246,L'Attaque,1909,boardgame,,,l-attaque
-24498,L'Enclos,1982,boardgame,,,l-enclos
+24498,L'Enclos,1986,boardgame,,"2026-11-02: Independent collector rules compendium explicitly Boutin 1986, Educ Nouvelle and two-player sheep/barrier blocking rules. French publication reference specifies Vers l’Éducation Nouvelle 402, April 1986. Selected represented journal game and corrected unsupported CSV 1982; original journal issue not directly inspected, so bibliography is identified as secondary evidence and no exact original age/time label is certified.",l-enclos
 13520,La Bataille d'Albuera: Espagnol,,boardgame,,,la-bataille-d-albuera
 12898,La Bataille d'Auerstædt,1977,boardgame,,,la-bataille-d-auerstedt
-,La Bataille de Valmy,1981,boardgame,,,la-bataille-de-valmy
+,La Bataille de Valmy,1981,boardgame,,"2026-11-02: Independent No Turkeys historical retrospective explicitly Petit, Jeux Descartes 1981, two players, nominal 180 minutes and a variation on Napoleon’s Last Battles. Corrected unsupported 1986 and removed false automatic La Bataille family assignment. Original period reviews are cited by separate reference but were not themselves read; no unverified original age or precise timing bounds imported.",la-bataille-de-valmy
 30020,La Belle Alliance: The Battle of Waterloo,1976,boardgame,,,la-belle-alliance
 136280,La Boca,,boardgame,,,
 554,La Città,2000,boardgame,,,la-citta
@@ -1846,7 +1846,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 39489,Layli Goobalay,,boardgame,,,layli-goobalay
 ,Le Château Lafortune,,boardgame,,,le-chateau-lafortune
 37698,Le Cochon qui rit,,boardgame,,,le-cochon-qui-rit
-,Le Défi du Sphinx,1997,boardgame,,,le-defi-du-sphinx
+,Le Défi du Sphinx,1997,boardgame,,"2026-11-02: Independent French original-game listing explicitly release 1997, Richard Bourrelly, Ludotech, 2–4, 10+, nominal thirty minutes, educational history questions for twenty knowledge points. Corrected generic 2000 Egyptian-puzzle placeholder; original release is distinct from 1998 junior award. Age/duration are listing metadata, not an inspected box label.",le-defi-du-sphinx
 ,Le Grand Empire,,boardgame,,,
 35677,Le Havre,,boardgame,,,
 ,Le Havre: The Inland Port,2012,boardgame,,,
@@ -1923,7 +1923,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 110327,Lords of Waterdeep,2013,boardgame,,,
 21854,Los Mampfos,,boardgame,,,
 2277,Lose Your Shirt,,boardgame,,,
-185221,Lost & Found,2015,boardgame,,,lost-and-found
+185221,Lost & Found,2015,boardgame,,"2026-11-02: Publisher’s own 2019 catalog and Russian product identify Andersen’s competitive visual-memory card game, 2–6, not the unsupported solo/cooperative Brand/Zoch labyrinth placeholder. Independent H@LL9000 bibliography explicitly dates original design to 2015 and corroborates 5+, 10–15, designer and artists. Corrected year, identity, counts, credits and mode; preferred counts remain provisional.",lost-and-found
 8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,"2026-11-02: Dunnigan’s own bibliography dates his regimental Russia 1943–44 game to 1971; SPI product list and retailer corroborate original SPI identity. Corrected false 2011/MMP attribution, added designer, removed unsupported division/corps and 1941 scope. Retailer two-hour estimate is distinct from verified box timing.",lost-battles-operational-combat-russia
 ,Lost Cities,1999,boardgame,,,
 2268,Lost Patrol,,boardgame,,,
@@ -2031,7 +2031,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Massive Darkness 2: Hellscape,2022,boardgame,,,
 172358,Master Fox,,boardgame,,,
 437,Master Labyrinth,,boardgame,,,
-193322,Master of Orion: The Board Game,2016,boardgame,,,master-of-orion-the-board-game
+193322,Master of Orion: The Board Game,2016,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-2016
 2392,Mastermind,1970,boardgame,,,
 1501,Masterpiece,,boardgame,,,
 6979,Match of the Penguins,,boardgame,,,
@@ -4245,3 +4245,5 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Clank! Legacy: Acquisitions Incorporated,2019,boardgame,,Added from independent publisher/rules research on 2026-11-01.,clank-legacy-acquisitions-incorporated
 ,Hoity Toity,2004,boardgame,,"Identity review 2026-11-02: distinct Uberplay English edition, first to use this title; preserve original 1990 game separately.",hoity-toity
 ,Masters of Crime: Shadows,2024,boardgame,,"2026-11-02: English Thames & Kosmos edition, SKU 683826; publisher 2024 catalog marks NEW, 1–5, age 16+, 2–4 hours. Generic 2023 discovery row retained separately pending research. Publisher marketing also says 1–6; chosen counts follow the edition-specific catalog specification.",masters-of-crime-shadows
+,Ghoulash: The Last Game on Earth,1982,boardgame,,"2026-11-02: Creator’s first-person history distinguishes marketed 1982 original from streamlined one-sheet scenarios distributed online in 2001. Retained original ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery row to revision and added separate original row without inventing a source ID. Current creator page identifies two-player competition, not shared cooperative victory.",ghoulash
+,Master of Orion: The Board Game,2017,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-the-board-game

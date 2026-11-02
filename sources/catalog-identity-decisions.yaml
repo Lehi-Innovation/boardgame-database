@@ -771,3 +771,119 @@ decisions:
     language. Rules copyright 2024 alone does not settle 2023/2024 first-publication
     conflict, which remains visible for dated release research.
   date_review: unresolved 2023/2024
+- name: 'Ghoulash: The Last Game on Earth'
+  year: 2001
+  previous_yaml_id: ghoulash
+  yaml_id: ghoulash-pen-and-paper
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://bleedingcool.com/comics/father-and-son-attempt-to-make-the-world-safe-from-ghouls/
+  - https://mikesooch.com/
+  reason: Creator’s first-person history distinguishes marketed 1982 original from
+    streamlined one-sheet scenarios distributed online in 2001. Retained original
+    ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery
+    row to revision and added separate original row without inventing a source ID.
+    Current creator page identifies two-player competition, not shared cooperative
+    victory.
+- name: 'Ghoulash: The Last Game on Earth'
+  year: 1982
+  yaml_id: ghoulash
+  status: existing
+  catalog_action: added separate original-edition row
+  reviewed_on: '2026-11-02'
+  basis: https://bleedingcool.com/comics/father-and-son-attempt-to-make-the-world-safe-from-ghouls/
+  reason: Original 1982 record retained; creator describes that original and its later
+    redesign separately. Original history log IDs/bytes untouched; historical reference
+    pages can cover both versions and do not certify all edition fields.
+- name: Lost & Found
+  year: 2015
+  previous_record_year: 2018
+  yaml_id: lost-and-found
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://lifestyleltd.ru/assets/files/leftmenu/lifestyle_catalog_2019.pdf
+  - https://www.hall9000.de/html/spiel/lost_found
+  - https://lifestyleltd.ru/games/lost-n-found/
+  reason: Publisher’s own 2019 catalog and Russian product identify Andersen’s competitive
+    visual-memory card game, 2–6, not the unsupported solo/cooperative Brand/Zoch
+    labyrinth placeholder. Independent H@LL9000 bibliography explicitly dates original
+    design to 2015 and corroborates 5+, 10–15, designer and artists. Corrected year,
+    identity, counts, credits and mode; preferred counts remain provisional.
+- name: 'Master of Orion: The Board Game'
+  year: 2016
+  previous_yaml_id: master-of-orion-the-board-game
+  yaml_id: master-of-orion-2016
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/master-of-orion
+  - https://hobbygames.ru/master-of-orion/rules
+  - https://hobbyworld.ru/download/rules/Master%20of%20Orion_rulebook_ru_new_web.pdf
+  - https://www.vindjeu.eu/prd/2017/03/02/master-of-orion-the-board-game/
+  reason: Publisher-associated Russian store explicitly release 2016, product 56309;
+    original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary
+    independent Cryptozoic play review explicitly release September 6, 2017, English
+    CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016,
+    with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated
+    duration and planet-destruction implication.
+- name: 'Master of Orion: The Board Game'
+  year: 2017
+  yaml_id: master-of-orion-the-board-game
+  status: existing
+  catalog_action: added separate English-edition row
+  reviewed_on: '2026-11-02'
+  basis: https://icv2.com/articles/reviews/view/38646/review-master-orion-the-board-game-board-game
+  reason: Publisher-associated Russian store explicitly release 2016, product 56309;
+    original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary
+    independent Cryptozoic play review explicitly release September 6, 2017, English
+    CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016,
+    with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated
+    duration and planet-destruction implication.
+- name: Le Défi du Sphinx
+  previous_catalog_year: 1997
+  previous_record_year: 2000
+  year: 1997
+  yaml_id: le-defi-du-sphinx
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://trictrac.net/jeu-de-societe/le-defi-du-sphinx
+  - https://mediatheques.ville-gennevilliers.fr/images/0-VISUELS/ACTU/HISTORIQUE_As_d_Or_1988-2023.pdf
+  reason: Independent French original-game listing explicitly release 1997, Richard
+    Bourrelly, Ludotech, 2–4, 10+, nominal thirty minutes, educational history questions
+    for twenty knowledge points. Corrected generic 2000 Egyptian-puzzle placeholder;
+    original release is distinct from 1998 junior award. Age/duration are listing
+    metadata, not an inspected box label.
+- name: La Bataille de Valmy
+  previous_catalog_year: 1981
+  previous_record_year: 1986
+  year: 1981
+  yaml_id: la-bataille-de-valmy
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ludostoria.it/pdf/NoTurkeys/Seconda%20Serie/NT%202007%2002.pdf
+  - https://en.wikipedia.org/wiki/La_Bataille_de_Valmy
+  reason: Independent No Turkeys historical retrospective explicitly Petit, Jeux Descartes
+    1981, two players, nominal 180 minutes and a variation on Napoleon’s Last Battles.
+    Corrected unsupported 1986 and removed false automatic La Bataille family assignment.
+    Original period reviews are cited by separate reference but were not themselves
+    read; no unverified original age or precise timing bounds imported.
+- name: L'Enclos
+  previous_catalog_year: 1982
+  previous_record_year: 1986
+  year: 1986
+  yaml_id: l-enclos
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://regle.escaleajeux.fr/ca_pc_rg.pdf
+  - https://fr.wikipedia.org/wiki/L%27Enclos_(jeu)
+  reason: Independent collector rules compendium explicitly Boutin 1986, Educ Nouvelle
+    and two-player sheep/barrier blocking rules. French publication reference specifies
+    Vers l’Éducation Nouvelle 402, April 1986. Selected represented journal game and
+    corrected unsupported CSV 1982; original journal issue not directly inspected,
+    so bibliography is identified as secondary evidence and no exact original age/time
+    label is certified.

@@ -11063,3 +11063,135 @@ entries:
       corrections. First-publication year remains unresolved; copyright or international-catalog
       availability alone is insufficient to settle 2023/2024. No claim of an English
       retail edition.'
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: ghoulash
+    url: https://bleedingcool.com/comics/father-and-son-attempt-to-make-the-world-safe-from-ghouls/
+    description: Creator Mike Suchcicki’s first-person 2013 account distinguishes creation/marketing
+      of original 1982 paper-chart dungeon adventure from later revision. Retained original
+      record and publication row; no original age/timing or cooperative outcome inferred.
+      Original evidence IDs remain unchanged and historical sources may discuss multiple
+      versions.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: ghoulash-pen-and-paper
+    url: https://bleedingcool.com/comics/father-and-son-attempt-to-make-the-world-safe-from-ghouls/
+    description: Creator explicitly says he and Joe refined design to one-sheet scenarios
+      and distributed them at Ghoulash.com in 2001. Added separate revised-game record,
+      not a silent overwrite of 1982 original; Joe’s refinement help is distinguished
+      from an unsupported formal 2001 co-designer credit. Nominal half-hour duration
+      is provisional.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: ghoulash-pen-and-paper
+    url: https://mikesooch.com/
+    description: 'Creator’s current portfolio identifies GHOULASH: The Game of Pen &
+      Paper Peril, first published 2001, two players each acting as other’s game master,
+      first to destroy eight ghouls wins. Distinguishes separate 2–4-player Card Calamity
+      product. Current title/goal are explicitly current description, not proof of original
+      1982 packaging.'
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: lost-and-found
+    url: https://lifestyleltd.ru/assets/files/leftmenu/lifestyle_catalog_2019.pdf
+    description: Direct HTTP PDF read succeeded on publisher’s Russian-domain mirror
+      after English-domain web timeout. PDF page 28 explicitly Lost’n’Found, Martin
+      Nedergaard Andersen, Natalia Zelenina/Irina Pechenkina, 2–6, 10–15, 5+, visual
+      memory/speed, difficulty levels. Corrected false solo/cooperative Brand/Zoch labyrinth
+      description. Catalog is 2019, not claimed to be an original 2015 box inspection.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: lost-and-found
+    url: https://www.hall9000.de/html/spiel/lost_found
+    description: Direct HTTP page read succeeded after web Unicode-decoding error. Independent
+      game bibliography explicitly original 2015, Lifestyle, Andersen, two artists,
+      2–6, 5+, 10–15. No user reviews/consensus exist there, so preferred counts remain
+      provisional. Supports original date separately from later publisher-catalog specifications.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: lost-and-found
+    url: https://lifestyleltd.ru/games/lost-n-found/
+    description: Publisher’s Russian Бюро Находок / Lost and Found page independently
+      confirms speedy identification of item appearing on card reverse, varying difficulty
+      and groups 2–6. Its current 50-card component count differs from 2019 catalog’s
+      54; no component count or claim of an exact current printing imported into original-game
+      record.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: master-of-orion-the-board-game
+    url: https://icv2.com/articles/reviews/view/38646/review-master-orion-the-board-game-board-game
+    description: Contemporary Nick Smith play review specifies Cryptozoic English CZE02505,
+      September 6 2017, Gorn/Sklyuev, 2–4, 12+, 40–60. Explains scoring and ordinary
+      combat gaining points/reducing loyalty without destroying cards. Retained separate
+      English edition, corrected false designer/duration and generic conquest claim;
+      review’s variant spelling Skyluev normalized against Russian primary credit.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: master-of-orion-2016
+    url: https://hobbyworld.ru/master-of-orion
+    description: Original publisher Russian product page explicitly Russian language,
+      Hobby World, 2–4, 12+, 40–60, civilization/card system. Used actual product specification
+      rather than recommendation sidebar. Separate from later English Cryptozoic release;
+      nominal fifty minutes is merely range midpoint.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: master-of-orion-2016
+    url: https://hobbygames.ru/master-of-orion/rules
+    description: 'Direct HTTP official publisher-associated store read succeeded after
+      web cache miss: release year 2016, Hobby World, product 56309. Date comes from
+      explicit release metadata, not dates of reviews or videos. Original-game identity
+      independently corroborated by contemporary Vindjeu play review.'
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: master-of-orion-2016
+    url: https://hobbyworld.ru/download/rules/Master%20of%20Orion_rulebook_ru_new_web.pdf
+    description: Direct HTTP sixteen-page PDF successfully read after web timeout. Original
+      Russian ©2016 rules explicitly designers Igor Sklyuev/Ekaterina Gorn, illustrations
+      Alexander Shaldin/Wargaming.net; production designers are separate roles. Added
+      original Russian record with actual illustration credits. No transfer of Russian
+      print credits into uninspected English printing.
+  - timestamp: '2026-11-02T17:45:03Z'
+    game_id: master-of-orion-2016
+    url: https://www.vindjeu.eu/prd/2017/03/02/master-of-orion-the-board-game/
+    description: Independent March 2017 play review explicitly lists 2016 Hobby World
+      release, Gorn/Sklyuev, 2–4, 12+; describes card stacks, resources and action choices.
+      Corroborates original release and practical gameplay separately from publisher
+      copyright; distinct from September 2017 Cryptozoic English SKU.
+  - timestamp: '2026-11-02T17:52:09Z'
+    game_id: le-defi-du-sphinx
+    url: https://trictrac.net/jeu-de-societe/le-defi-du-sphinx
+    description: Independent original French game listing explicitly 1997 release, Ludotech,
+      Richard Bourrelly, 2–4, 10+, nominal thirty minutes, history questions/riddles
+      and twenty knowledge points. Replaced unverified Egyptian deduction-game placeholder;
+      timing bounds unknown and experience/preferred counts provisional. Exact June
+      release day not independently certified.
+  - timestamp: '2026-11-02T17:52:09Z'
+    game_id: le-defi-du-sphinx
+    url: https://mediatheques.ville-gennevilliers.fr/images/0-VISUELS/ACTU/HISTORIQUE_As_d_Or_1988-2023.pdf
+    description: Search-indexed original Cannes/As d’Or historical list archived by
+      municipal library explicitly 1998 junior award, Ludotech and Richard Bourelly
+      (one-r variant). Direct PDF returned 403; indexed credits used only to corroborate
+      identity and distinguish award year from 1997 release, not as proof of original
+      rules or specifications.
+  - timestamp: '2026-11-02T17:52:09Z'
+    game_id: la-bataille-de-valmy
+    url: https://www.ludostoria.it/pdf/NoTurkeys/Seconda%20Serie/NT%202007%2002.pdf
+    description: Independent No Turkeys 2007 issue 2 retrospective, PDF page 13, explicitly
+      Jean-Jacques Petit, Jeux Descartes 1981, two players and 180 minutes. Describes
+      NLB-model variation, regiment/battalion units, 400m hexes and simple formations
+      without facing. Removed unsupported La Bataille series relationship; no claim
+      that original rules were read. Web screenshot failed; extracted passage read in
+      context with adjacent Fleurus section distinguished.
+  - timestamp: '2026-11-02T17:52:09Z'
+    game_id: la-bataille-de-valmy
+    url: https://en.wikipedia.org/wiki/La_Bataille_de_Valmy
+    description: Separate historical reference explicitly 1981 Petit/Jeux Descartes
+      and cites original Casus Belli/Jeux & Stratégie reviews. Used original identity/date
+      corroboration, not unread period-magazine claims or broad historical rhetoric.
+      Original age and precise time range left unknown.
+  - timestamp: '2026-11-02T17:52:09Z'
+    game_id: l-enclos
+    url: https://regle.escaleajeux.fr/ca_pc_rg.pdf
+    description: Collector Patrik Carpentier’s independently authored rules compendium,
+      PDF page 46, explicitly Enclos, Boutin M 1986, Educ Nouvelle, two players, three
+      sheep each and barriers. Each turn includes adjacent sheep move and barrier placement
+      in either order; block all rival sheep to win. Supports actual blocking-game description.
+      No original age/time in reviewed rules.
+  - timestamp: '2026-11-02T17:52:09Z'
+    game_id: l-enclos
+    url: https://fr.wikipedia.org/wiki/L%27Enclos_(jeu)
+    description: Search-indexed French publication reference explicitly first publication
+      Vers l’Éducation Nouvelle 402, April 1986, Michel Boutin/Ceméa. Direct web fetch
+      failed; no claim of inspecting original issue. Corroborates selected 1986 journal
+      scope against unsupported 1982 CSV. Original age label not transferred from secondary
+      infobox; fifteen-minute estimate remains provisional.
