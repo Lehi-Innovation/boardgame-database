@@ -1,11 +1,13 @@
 id: the-crew-quest-for-planet-nine
 name: "The Crew: The Quest for Planet Nine"
-alternate_names: []
+alternate_names:
+  - The Crew
+  - Die Crew
 year: 2019
 
 # Relationships
 game_family: the-crew
-edition: null
+edition: Original game; first German publication 25 September 2019
 base_game: null
 expansions: []
 compatible_with: []
@@ -40,8 +42,8 @@ evokes:
   - Mystery
 
 # Player counts
-possible_counts: [2, 3, 4, 5]
-true_counts: [3, 4, 5]
+possible_counts: [2, 3, 4, 5]  # Main game 3–5; official two-player variant adds a commander-controlled crew member
+true_counts: [3, 4, 5]  # Publisher rules recommend three or more; not independently play-tested
 
 # Metadata
 designer:
@@ -52,8 +54,8 @@ publisher:
 artist:
   - Marco Armbruster
 playtime_minutes: 20
-min_playtime: 5
-max_playtime: 30
+min_playtime: null  # Rules say early missions rarely exceed five minutes; no universal lower bound
+max_playtime: null  # Later missions take longer; publisher gives nominal 20 minutes
 min_age: 10
 
 # Description

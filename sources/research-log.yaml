@@ -10455,3 +10455,180 @@ entries:
       30 minutes, supporting the represented earlier rules version. Cover source recorded
       separately in images/sources.yaml. No exact printing date inferred; replaced unsupported
       universal preferred-count wording with explicit provisional estimate.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: adele
+    url: https://dmzgames.es/en/
+    description: 'Publisher history: general release January 2022 versus 2021 crowdfunding;
+      main game one AI player against crew, up to five. Corrected CSV date and description;
+      not an automated-only cooperative game.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: adele
+    url: https://dmzgames.es/wp-content/uploads/2023/02/ADELE_Rulebook.pdf
+    description: 'Publisher English v2 rules: Albert Reyes design, José Soto art; main
+      3–5 setup, separate two-player section and reference to solo rulesheet. Crew hidden
+      information/actions versus a human-controlled AI; official rules now hosted in
+      2023 do not themselves date original release.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: adele
+    url: https://dmzgames.es/wp-content/uploads/2023/02/ADELE_Solo-Coop_Extended.pdf
+    description: Publisher link labeled Solo/Coop Mode returns two-page solo sheet.
+      Actual text describes one crew member against automated ADELE. Used to establish
+      solo support, not unshown all-cooperative multiplayer rules.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: adele
+    url: https://mathom.es/es/otros-juegos-de-tablero/48054-adele-8425402363911.html
+    description: 'Spanish DMZ retailer specifications: 1–5, age 12+, 90–120 minutes.
+      Corrected unsupported earlier 60-minute lower bound and 14+; age is retailer product
+      evidence, not independent usability validation.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: adele
+    url: https://www.nobleknight.com/P/2148008908/ADELE-Kickstarter-Edition
+    description: Retailer Kickstarter product corroborates 1–5, 12+, 90–120 minutes,
+      but labels publication 2021. Prefer publisher’s explicit general-release January
+      2022 history; funding/edition-label discrepancy retained here.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: the-crew-quest-for-planet-nine
+    url: https://www.kosmos.de/products/die-crew
+    description: Publisher specifies Erscheinungstag 25.09.2019, Thomas Sing/Marco Armbruster,
+      age 10+, nominal 20 minutes. 2020 is the award year; short CSV title comes from
+      the award source and duplicates full-title original-game row. Main specifications
+      3–5, body text also 2–5; rules distinguish two-player variant.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: the-crew-quest-for-planet-nine
+    url: https://www.thamesandkosmos.com/manuals/full/691868_Crew_Manual.pdf
+    description: 'Publisher English rules: main 3–5, official two-player variant page
+      19 with shared crew member; 50 missions. First missions rarely take more than
+      five minutes, later missions longer; removed manufactured universal 5–30 minute
+      interval.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: elasund-the-first-city
+    url: https://www.catan.com/explore-catan/ludography/2001-2005
+    description: Publisher chronology lists Elasund under 2005; nominal 45–90 minutes,
+      10+. Header says 3–4 but prose explicitly 2–4, corroborated by original rules.
+      Corrected generic CSV 2016 to represented original game; original-date scope made
+      explicit.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: elasund-the-first-city
+    url: https://www.catan.com/sites/default/files/2021-08/elasund_rules.pdf
+    description: 'Original publisher-hosted English rules, copyright 2005: Klaus Teuber,
+      Tanja Donner, Mayfair; setup for 2–4. City permits/construction, trade points,
+      church and city walls; first to ten points. Removed false longest-road/largest-church
+      analogy and pre-settlement chronology; preferred counts/experience provisional.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: jekyll-and-hyde-vs-scotland-yard
+    url: https://www.nicegamepublishing.com/wp-content/uploads/2023/05/JHvsSY_Regeln_GER_web.pdf
+    description: Publisher-hosted German rules explicitly first German edition 2023,
+      ©2023 Mandoo; designers Olivier Cipière, Gaëtan Beaujannot, Geonil, art Vincent
+      Dutrait. Two players, 10+, 20 minutes, ten chapters, two rounds per chapter, communication
+      restrictions and exact destination. Corrected false David Mortimer credit and
+      CSV/record dates.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: jekyll-and-hyde-vs-scotland-yard
+    url: https://25thcenturygames.com/products/jekyll-hyde-vs-scotland-yard
+    description: Current English publisher page independently confirms all three designers
+      in body, Vincent Dutrait art, two players, 10+, nominal 20 minutes (heading says
+      under 30). Cooperative standalone separate from Jekyll vs. Hyde. This page does
+      not independently establish original English publication year; record uses original-game
+      2023 scope.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: monster-hunter-world-the-board-game
+    url: https://steamforged.com/blogs/brands/announcing-monster-hunter-world-iceborne-board-game
+    description: 'Publisher announcement explicitly dated April 11, 2023: original World
+      being played by backers, retail planned later that year, funding in 2021; Iceborne
+      a new standalone campaign. Corrected unsupported 2022 record year to 2023; no
+      delivery date inferred from current recommendations/sidebar.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: monster-hunter-world-the-board-game
+    url: https://steamforged.com/pages/monster-hunter-world-board-game
+    description: 'Publisher original-World page: 1–4 cooperative combat campaign, different
+      monster behavior, hunt/equipment loop; links Ancient Forest and Wildspire Waste
+      cores. Description and experience estimate rewritten without unsupported fundraising-speed
+      claim.'
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: resident-evil-2-the-board-game
+    url: https://icv2.com/articles/news/view/42056/resident-evil-2-board-game-expansions
+    description: Contemporaneous December 2018 trade article announces base-game retail
+      launch January 25, with February 15 expansion. Scope record as 2019 original retail
+      base game and correct earlier unspecified 2018. This is not evidence ruling out
+      earlier backer delivery; video-game release evidence was not used.
+  - timestamp: '2026-11-02T16:10:31Z'
+    game_id: resident-evil-2-the-board-game
+    url: https://steamforged.com/products/resident-evil-2-the-board-game
+    description: Current publisher base-game specifications explicitly 1–4, 90–120 minutes,
+      suggested 14+. Corrected unsupported 180-minute ceiling and 18+; current page
+      does not date each physical printing.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: leinen-los
+    url: https://www.spiel-des-jahres.de/spiele/leinen-los/
+    description: 'Award jury directly describes HABA/Alex Randolph motorboat dexterity
+      race: loose motor, finger steering, cord winding limits turn, 2–4, 6+, about ten
+      minutes; children’s special prize 1997. Replaced unsupported 2022 Ravensburger
+      dice/roll-and-write identity and alias; experience estimates explicitly provisional.'
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: leinen-los
+    url: https://www.luding.org/cgi-bin/GameData.py/DEgameid/7270
+    description: Direct HTTP fetch succeeded although web indexed fetch was unavailable.
+      Independent maintained catalog specifies publication 1996 HABA, Alex Randolph,
+      2–4, 6+, 10–15 minutes; separately 1997 award and 2017 Zoch successor. Corrected
+      award-year CSV 1997 to represented original-game 1996. Artist credits left unknown.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: leinen-los
+    url: https://www.wog.ch/de/index.cfm/details/product/33038-Leinen-Los
+    description: Retailer gives 1997 date and HABA/Alex Randolph/6+/2–4/ten minutes,
+      but equipment list is for an unrelated gold-washing game. Rejected that component
+      evidence and did not prefer its date over independent Luding publication/award
+      distinction.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: giganten
+    url: https://www.spiel-des-jahres.de/spiele/giganten/
+    description: Award jury identifies Wilko Manz, KOSMOS, 3–4, 10+, about 90 minutes;
+      describes trucks, oil towers, locomotive transport and auction of selling rights.
+      Corrected false designer/publisher/count/age claims and description. Jury 1999
+      archive separately shows nomination, not main award win.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: giganten
+    url: https://www.spiel-des-jahres.de/erjahr/1999/?post_types=spiele&preiskat=spiel-des-jahres%2Cnominiert-zum-spiel-des-jahres
+    description: Official 1999 archive explicitly labels Giganten/Wilko Manz as nominated;
+      Tikal is winner. Corrected false main-award win claim. The 1981 discovery-row
+      mapping remains pending rather than being recast as this oil game.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: giganten
+    url: https://www.luding.org/cgi-bin/GameData.py/DEgameid/9577
+    description: 'Independent original-game catalog: Nürnberg 1999, Wilko Manz, Franz
+      Vohwinkel, KOSMOS, 3–4, 10+, 70–90 minutes; SdJ nomination and DSP sixth. Supports
+      explicit 1999 oil-game scope and art credit. Earlier same-title discovery row
+      is not merged; early-game identity still needs suitable research.'
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: medici-vs-strozzi
+    url: https://www.knizia.de/wp-content/uploads/List-Games-2021-Website.pdf
+    description: Designer’s primary game list page 49 explicitly lists Medici vs Strozzi
+      German/Abacus 2006 and English/Rio Grande 2006. Corrected unsupported 2004/Amigo
+      details; newer 2023-list PDF fetch timed out and was not used.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: medici-vs-strozzi
+    url: https://www.nobleknight.com/P/2147367928/Medici-vs-Strozzi
+    description: Retailer product explicitly specifies Rio Grande/Reiner Knizia, publication
+      2006, two players, 10+, nominal 30 minutes. Supports age and duration fields without
+      inventing a universal min/max range.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: medici-vs-strozzi
+    url: https://www.cliquenabend.de/news/165000-Abacusspiel-Medici.html
+    description: Search-indexed original February 2, 2007 article describes three ships,
+      three ports, goods tiles drawn from bag, seller-set price then compulsory seller
+      purchase if declined. Direct page fetch unavailable. Used this independent rules
+      explanation, not BGG-derived aggregator descriptions; experience estimates remain
+      provisional.
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: no-retreat-the-russian-front
+    url: https://www.gmtgames.com/noretreat/NoRetreat-Rules-FINAL.pdf
+    description: 'Publisher-hosted original deluxe rules ©2011: two players, 1941–45,
+      one set of 55 event cards. Credits list Carl Paradis design, Rodger B. MacGowan
+      cover/package art, Mark Simonitch map/layout/counters; removed false Mark Mahaffey
+      art credit and per-side 55-card claim.'
+  - timestamp: '2026-11-02T16:18:16Z'
+    game_id: no-retreat-the-russian-front
+    url: https://www.lautapeliopas.fi/peliarvostelut/no-retreat-the-russian-front/
+    description: Independent original play review dated July 4, 2012 explicitly distinguishes
+      2011 GMT deluxe from 2008 Victory Point No Retreat! plus Na Berlin!/No Surrender!
+      expansions. Record now scopes GMT 2011; provisional ratings/durations not certified
+      by this date review.

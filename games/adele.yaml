@@ -4,16 +4,16 @@ year: 2022
 
 # Relationships
 game_family: null
-edition: null
+edition: DMZ original game; general release January 2022
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 2  # Medium (60-120 min)
+length: 2  # Provisional playtime vibe; retailer specifies 90–120 minutes
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 0  # Cooperative
+feel: 4  # Provisional: one human opponent directs hazards against the cooperating crew
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -21,7 +21,7 @@ hotness: null
 
 # Tags
 categories:
-  - Cooperative
+  - Cooperative  # Crew cooperation within the main one-versus-many game
   - 1 vs Many
   - Narrative Heavy
   - Sci-Fi
@@ -36,32 +36,34 @@ evokes:
   - Connection
 
 # Player counts
-possible_counts: [1, 2, 3, 4]
-true_counts: [2, 3, 4]
+possible_counts: [1, 2, 3, 4, 5]  # 2–5 in main rules; solo uses the separate official rulesheet
+true_counts: [3, 4, 5]  # Provisional preference for a crew team, not a publisher recommendation
 
 # Metadata
-designer: []
+designer:
+  - Albert Reyes
 publisher:
   - DMZ Games
-artist: []
+artist:
+  - José Soto
 playtime_minutes: 90
-min_playtime: 60
+min_playtime: 90
 max_playtime: 120
-min_age: 14
+min_age: 12  # DMZ product specifications at Mathom and Noble Knight; not a play-tested age
 
 # Description
 description: |
-  A.D.E.L.E. is a claustrophobic space horror board game published by DMZ Games.
-  Players are crew members trapped aboard a spaceship bound for Mars, where they
-  must confront A.D.E.L.E., a self-aware artificial intelligence that has turned
-  hostile and now controls the vessel.
+  One player controls a hostile spaceship computer while the others form its
+  endangered crew. The astronauts must find and deliver equipment to disconnect
+  ADELE or escape; the computer's player places hazards to stop them. Crew members
+  hold different pieces of mission information and plan actions behind screens,
+  so coordination also risks revealing their intentions to their opponent.
 
-  The cooperative gameplay pits players against the AI as they explore the ship,
-  solve puzzles, and try to survive or disable the rogue system. The game features
-  scenario-based play with solo and cooperative modes, creating an atmosphere of
-  paranoia and dread as the AI responds dynamically to player actions. Funded via
-  Kickstarter, A.D.E.L.E. emphasizes narrative immersion and tension over complex
-  mechanical systems.
+  The main game supports two to five people. A separate official solo rulesheet
+  replaces the human computer player with an automated opponent. Expect a tense
+  contest between unequal roles; that experience description is a provisional
+  assessment of the rules. Publisher history distinguishes its 2021 crowdfunding
+  campaign from general availability in January 2022.
 
 # Upgrades
 upgrades: []

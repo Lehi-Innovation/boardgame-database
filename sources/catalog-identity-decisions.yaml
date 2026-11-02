@@ -286,3 +286,121 @@ decisions:
   reason: Reopened historical traditional-game exclusion; added independently sourced
     record. Manufactured packaging is not an inclusion requirement. Unknown publication/age
     facts remain null.
+- name: A.D.E.L.E.
+  previous_catalog_year: 2021
+  previous_record_year: 2022
+  year: 2022
+  yaml_id: adele
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://dmzgames.es/en/
+  reason: Publisher explicitly distinguishes 2021 crowdfunding from general public
+    availability in January 2022. Corrected supported counts to 1–5 and main human-versus-crew
+    mode from official rules; solo uses separate supplement.
+- name: Elasund
+  previous_catalog_year: 2016
+  previous_record_year: 2005
+  year: 2005
+  yaml_id: elasund-the-first-city
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.catan.com/explore-catan/ludography/2001-2005
+  reason: Publisher chronology places original Elasund under 2005, corroborated by
+    original rules. No regional/printing qualifier was supplied for the erroneous
+    2016 catalog row. Removed unsupported longest-road/largest-church scoring claims.
+- name: Jekyll & Hyde vs Scotland Yard
+  previous_catalog_year: 2022
+  previous_record_year: 2024
+  year: 2023
+  yaml_id: jekyll-and-hyde-vs-scotland-yard
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.nicegamepublishing.com/wp-content/uploads/2023/05/JHvsSY_Regeln_GER_web.pdf
+  reason: Publisher-hosted rules explicitly identify original German edition 2023
+    and Mandoo copyright 2023. Corrected CSV 2022 and detailed-record 2024 to original-game
+    2023; English publisher independently corroborates all three designers, artist
+    and specifications. This does not date every English printing.
+- name: 'Monster Hunter World: The Board Game'
+  previous_catalog_year: 2023
+  previous_record_year: 2022
+  year: 2023
+  yaml_id: monster-hunter-world-the-board-game
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://steamforged.com/blogs/brands/announcing-monster-hunter-world-iceborne-board-game
+  reason: Publisher April 2023 announcement confirms original World in backers’ hands
+    and retail planned for 2023, separate from 2021 funding and the new Iceborne campaign.
+    Corrected unsupported detailed-record 2022.
+- name: 'Resident Evil 2: The Board Game'
+  previous_catalog_year: 2019
+  previous_record_year: 2018
+  year: 2019
+  yaml_id: resident-evil-2-the-board-game
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://icv2.com/articles/news/view/42056/resident-evil-2-board-game-expansions
+  reason: Contemporaneous December 2018 trade report sets retail base-game launch
+    for January 25, 2019. Record now explicitly represents that retail product; this
+    does not rule out earlier backer deliveries. Publisher separately confirms 1–4,
+    90–120 minutes, age 14+.
+- name: The Crew
+  year: 2020
+  previous_yaml_id: the-crew-quest-for-planet-nine
+  yaml_id: null
+  duplicate_of: 'The Crew: The Quest for Planet Nine (2019)'
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://www.kosmos.de/products/die-crew
+  reason: Short title originates from the Kennerspiel des Jahres Winners source, dated
+    to its 2020 award. Publisher explicitly gives first publication 25 September 2019.
+    Duplicate of the existing full-title 2019 row; no separate regional edition was
+    specified. Award-year value retained as historical context; explicit mapping cleared
+    so exclusion is honored.
+- name: Leinen los!
+  previous_catalog_year: 1997
+  year: 1996
+  yaml_id: leinen-los
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.luding.org/cgi-bin/GameData.py/DEgameid/7270
+  reason: Independent Luding catalog specifies HABA/Alex Randolph publication 1996,
+    separately the 1997 children’s award, and links 2017 Zoch successor. Jury directly
+    confirms finger-steered boats, cord timer, 2–4, 6+, about ten minutes. Corrected
+    unsupported 2022 Ravensburger roll-and-write identity and unverified translated
+    alias in existing slug; personal fields preserved.
+- name: Medici vs Strozzi
+  previous_catalog_year: 2006
+  year: 2006
+  yaml_id: medici-vs-strozzi
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.knizia.de/wp-content/uploads/List-Games-2021-Website.pdf
+  reason: Designer’s own list explicitly identifies German Abacus and English Rio
+    Grande editions in 2006. Corrected false 2004/Amigo identity; separate two-player
+    game rather than the 1995 multiplayer Medici.
+- name: No Retreat! The Russian Front
+  previous_catalog_year: 2011
+  year: 2011
+  yaml_id: no-retreat-the-russian-front
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.gmtgames.com/noretreat/NoRetreat-Rules-FINAL.pdf
+  reason: Record now explicitly represents the 2011 GMT deluxe edition, not the smaller
+    2008 Victory Point original. Publisher-hosted 2011 rules and independent original
+    play review corroborate scope; corrected art credits and false claim of a separate
+    55-card deck for each side.
+- name: Giganten (board game)
+  year: 1981
+  previous_yaml_id: giganten
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/giganten/
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/9577
+  reason: The represented detailed record is the KOSMOS 1999 oil game confirmed by
+    its award jury and independent Luding catalog. Clear the incompatible 1981 discovery-row
+    mapping and return it to pending for independent early-game research; do not replace
+    its historical year to force a match. Existing Giganten (1999) row still matches
+    the corrected oil-game record. Corrected false Stefan Dorra/Goldsieber credits,
+    two-player support and main-award winner claim in that record.

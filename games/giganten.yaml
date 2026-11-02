@@ -5,7 +5,7 @@ year: 1999
 
 # Relationships
 game_family: null
-edition: null
+edition: Original KOSMOS oil-industry game (1999); distinct from earlier same-title games
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4  # Provisional: direct competition for oil-selling rights
 value: 2  # Standard
 
 affinity: null
@@ -33,27 +33,30 @@ evokes:
   - Agency
   - Powerful
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts: [3, 4]
+true_counts: [3, 4]  # Supported counts; preferred fit not independently play-tested
 
 designer:
-  - Stefan Dorra
+  - Wilko Manz
 publisher:
-  - Goldsieber Spiele
-artist: []
+  - KOSMOS
+artist:
+  - Franz Vohwinkel
 playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
-min_age: 12
+min_playtime: null
+max_playtime: null
+min_age: 10
 
 description: |
-  Giganten is an economic strategy game about competing oil companies bidding for contracts and
-  drilling rights on an oil field. Players buy and sell oil, compete for lucrative sales contracts,
-  and drill at oilfield sites on the board. Bidding drives much of the competition: players nominate
-  contract tiles and drilling sites at auction, requiring opponents to pay up or let rivals claim
-  valuable resources. The game earned the 1999 Spiel des Jahres Kritikerpreis (Critics' Award)
-  for its elegant blend of bidding tension and strategic resource management. Building an efficient
-  oil empire requires balancing aggressive acquisition of new sites with the cash management
-  needed to fulfill contracts profitably.
+  Run an oil business in Texas: explore with a truck, erect drilling towers and
+  use a locomotive to carry oil to refineries. Action cards combine movement and
+  selling licenses, making the choice of a card important for several parts of
+  the business. Players then compete at auction for the right to sell oil at
+  the current prices.
+
+  Expect a contest over timing, transport and limited selling opportunities;
+  that experience assessment remains provisional. This is Wilko Manz's KOSMOS
+  game from 1999, nominated for Spiel des Jahres that year. It did not win the
+  main award, and it does not represent the earlier same-title catalog entry.
 
 upgrades: []

@@ -1,18 +1,17 @@
 id: leinen-los
 name: "Leinen los!"
-alternate_names:
-  - "Hoist the Sails!"
-year: 2022
+alternate_names: []
+year: 1996
 
 # Relationships
 game_family: null
-edition: null
+edition: Original HABA dexterity boat race (1996); children's special prize in 1997
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
+# Provisional experience estimates from the jury's rules description
+length: 0  # Snack (about ten minutes)
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
 feel: 2  # Moderate
@@ -22,34 +21,41 @@ affinity: null
 hotness: null
 
 categories:
-  - Roll & Write
-  - Dice Rolling
+  - Dexterity
   - Racing
   - Family
   - Maritime
 
 evokes:
-  - Lucky
+  - Humor
   - Tension
   - Clever
   - Rivalry
   - Agency
 
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [3, 4, 5]
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]  # Provisional; no independently validated preferred count
 
 designer:
-  - Wolfgang Sentker
-  - Ralf zur Linde
+  - Alex Randolph
 publisher:
-  - Ravensburger
+  - HABA
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
-min_age: 8
+playtime_minutes: 10
+min_playtime: null
+max_playtime: null
+min_age: 6
 
 description: |
-  Leinen los! (Hoist the Sails!) is a roll-and-write sailing race game for 2-6 players published by Ravensburger. Players roll the shared dice each round and choose how to use the results to advance their sailing ship, adjusting sails, managing wind direction, and plotting a course around the map. The simultaneous decision-making keeps all players engaged on every roll, and the interplay between wind and sail settings creates light strategic choices within the dice constraints. A family-friendly filler game delivering a breezy nautical experience in about 30 minutes.
+  Race small wooden motorboats around a course by pushing them with one finger.
+  Each boat's loose motor makes it difficult to steer, and hitting a buoy or
+  spinning around ends the move. Another player winds a cord around a wooden
+  bollard to determine how long the boat may travel.
+
+  This short dexterity race supports two to four people from age six according
+  to the award jury. Expect careful steering mixed with hurried mistakes; that
+  experience assessment remains provisional. The original HABA game appeared in
+  1996 and received the children's special prize in 1997. The prior record's
+  Ravensburger roll-and-write identity was unsupported and has been corrected.
 
 upgrades: []

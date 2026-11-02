@@ -70,7 +70,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 99277,A Trip To Mars,,boardgame,,,
 19622,A Victory Lost: Crisis in Ukraine 1942-1943,,boardgame,,,a-victory-lost
 7614,A World at War,2003,boardgame,,,
-337324,A.D.E.L.E.,2021,boardgame,,,adele
+337324,A.D.E.L.E.,2022,boardgame,,2026-11-02: Publisher explicitly distinguishes 2021 crowdfunding from general public availability in January 2022. Corrected supported counts to 1–5 and main human-versus-crew mode from official rules; solo uses separate supplement.,adele
 ,Abacus checkers,,boardgame,,,
 526,Abalone,1990,boardgame,,,
 21324,Abande,,boardgame,,,
@@ -1126,7 +1126,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,El cascabelito mudo,,boardgame,,,
 93,El Grande,1995,boardgame,,,
 ,El nuevo coyote,,boardgame,,,
-19526,Elasund,2016,boardgame,,,elasund-the-first-city
+19526,Elasund,2005,boardgame,,"2026-11-02: Publisher chronology places original Elasund under 2005, corroborated by original rules. No regional/printing qualifier was supplied for the erroneous 2016 catalog row. Removed unsupported longest-road/largest-church scoring claims.",elasund-the-first-city
 100423,Elder Sign,,boardgame,,,
 146021,Eldritch Horror,2013,boardgame,,,
 ,Election,,boardgame,,,
@@ -1404,7 +1404,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 23686,Gift Trap,,boardgame,,,
 170969,Gigamons,,boardgame,,,
 59,Giganten,1999,boardgame,,,
-8395,Giganten (board game),1981,boardgame,,,giganten
+8395,Giganten (board game),1981,boardgame,,"2026-11-02: The represented detailed record is the KOSMOS 1999 oil game confirmed by its award jury and independent Luding catalog. Clear the incompatible 1981 discovery-row mapping and return it to pending for independent early-game research; do not replace its historical year to force a match. Existing Giganten (1999) row still matches the corrected oil-game record. Corrected false Stefan Dorra/Goldsieber credits, two-player support and main-award winner claim in that record.",
 ,Gimel,,boardgame,,,
 38229,Giocagoal,,boardgame,,,
 ,Gioul,,boardgame,,,
@@ -1869,7 +1869,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,"Legion: Tactical Warfare in the Roman Age, 100BC-700AD",,boardgame,,,legion-tactical-warfare-roman-age
 ,Legions of the Petal Throne,,boardgame,,,legions-of-the-petal-throne
 94732,Lego Heroica,,boardgame,,,lego-heroica
-10508,Leinen los!,1997,boardgame,,,leinen-los
+10508,Leinen los!,1996,boardgame,,"2026-11-02: Independent Luding catalog specifies HABA/Alex Randolph publication 1996, separately the 1997 children’s award, and links 2017 Zoch successor. Jury directly confirms finger-steered boats, cord timer, 2–4, 6+, about ten minutes. Corrected unsupported 2022 Ravensburger roll-and-write identity and unverified translated alias in existing slug; personal fields preserved.",leinen-los
 ,Leipzig: The Battle of Nations,,boardgame,,,leipzig-the-battle-of-nations
 153004,Lemming,2014,boardgame,,,
 ,"Leningrad: The Advance of Army Group North, Summer 1941",,boardgame,,,leningrad-advance-army-group-north
@@ -2046,7 +2046,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 5383,MechWar '77,1975,boardgame,,,mechwar-77
 ,MechWarrior: Dark Age,,boardgame,,,mechwarrior-dark-age
 46,Medici,,boardgame,,,
-24762,Medici vs Strozzi,2006,boardgame,,,medici-vs-strozzi
+24762,Medici vs Strozzi,2006,boardgame,,2026-11-02: Designer’s own list explicitly identifies German Abacus and English Rio Grande editions in 2006. Corrected false 2004/Amigo identity; separate two-player game rather than the 1995 multiplayer Medici.,medici-vs-strozzi
 1261,Medina,,boardgame,,,
 1541,Mega-Mania,,boardgame,,,
 4148,Mehen,,boardgame,,,
@@ -2234,7 +2234,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Ninuki-renju,,boardgame,failed,Abstract traditional game,
 1107,Njet,,boardgame,,,
 11036,No Middle Ground,,boardgame,failed,No sources found,
-68264,No Retreat! The Russian Front,2011,boardgame,,,no-retreat-the-russian-front
+68264,No Retreat! The Russian Front,2011,boardgame,,"2026-11-02: Record now explicitly represents the 2011 GMT deluxe edition, not the smaller 2008 Victory Point original. Publisher-hosted 2011 rules and independent original play review corroborate scope; corrected art credits and false claim of a separate 55-card deck for each side.",no-retreat-the-russian-front
 12942,No Thanks!,,boardgame,,,no-thanks
 28962,No Time For Sergeants,,boardgame,failed,No sources found,
 9597,Noah's Park,,boardgame,failed,No sources found,
@@ -2574,7 +2574,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 262712,Res Arcana,,boardgame,,,
 93006,Resan genom Sagoland,,boardgame,,,
 3249,Rescue from the Hive,1981,boardgame,,,rescue-from-the-hive
-233896,Resident Evil 2: The Board Game,2019,boardgame,,,resident-evil-2-the-board-game
+233896,Resident Evil 2: The Board Game,2019,boardgame,,"2026-11-02: Contemporaneous December 2018 trade report sets retail base-game launch for January 25, 2019. Record now explicitly represents that retail product; this does not rule out earlier backer deliveries. Publisher separately confirms 1–4, 90–120 minutes, age 14+.",resident-evil-2-the-board-game
 256680,Return to Dark Tower,,boardgame,,,
 14982,Revenge of the Dinosaurs,,boardgame,,,
 332772,Revive,2022,boardgame,,,
@@ -3140,7 +3140,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Conquerors,,boardgame,,,
 5446,The Conquest of Oil,1973,boardgame,,,
 68475,The Cottage of Content or the Blessings of Cheerfulness & Good Temper,,boardgame,,,the-cottage-of-content
-,The Crew,2020,boardgame,,,the-crew-quest-for-planet-nine
+,The Crew,2020,boardgame,duplicate,"2026-11-02: Short title originates from the Kennerspiel des Jahres Winners source, dated to its 2020 award. Publisher explicitly gives first publication 25 September 2019. Duplicate of the existing full-title 2019 row; no separate regional edition was specified. Award-year value retained as historical context; explicit mapping cleared so exclusion is honored.",
 284083,The Crew: The Quest for Planet Nine,2019,boardgame,,,the-crew-quest-for-planet-nine
 31725,The Crocodile-Game,1987,boardgame,,,
 54201,The d6 Shooters,,boardgame,,,
@@ -3839,7 +3839,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Minos: Dawn of the Bronze Age,2024,boardgame,,,minos-dawn-of-the-bronze-age
 ,Foundations of Metropolis,2024,boardgame,,,
 ,Salton Sea,2024,boardgame,,,
-,Jekyll & Hyde vs Scotland Yard,2022,boardgame,,,jekyll-and-hyde-vs-scotland-yard
+,Jekyll & Hyde vs Scotland Yard,2023,boardgame,,"2026-11-02: Publisher-hosted rules explicitly identify original German edition 2023 and Mandoo copyright 2023. Corrected CSV 2022 and detailed-record 2024 to original-game 2023; English publisher independently corroborates all three designers, artist and specifications. This does not date every English printing.",jekyll-and-hyde-vs-scotland-yard
 ,Hickory Dickory,2023,boardgame,,,
 ,Orichalcum,2022,boardgame,,,
 ,Rebel Princess,2024,boardgame,,,
@@ -3847,7 +3847,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Caldera Park,2022,boardgame,,,
 ,River Valley Glassworks,2023,boardgame,,,
 ,Mythwind,2023,boardgame,,,
-,Monster Hunter World: The Board Game,2023,boardgame,,,monster-hunter-world-the-board-game
+,Monster Hunter World: The Board Game,2023,boardgame,,"2026-11-02: Publisher April 2023 announcement confirms original World in backers’ hands and retail planned for 2023, separate from 2021 funding and the new Iceborne campaign. Corrected unsupported detailed-record 2022.",monster-hunter-world-the-board-game
 ,Dreadful Meadows,2024,boardgame,,,
 ,Resist!,2023,boardgame,,,
 ,Courtisans,2024,boardgame,,,

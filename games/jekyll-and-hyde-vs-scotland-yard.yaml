@@ -1,11 +1,11 @@
 id: jekyll-and-hyde-vs-scotland-yard
 name: "Jekyll & Hyde vs Scotland Yard"
 alternate_names: []
-year: 2024
+year: 2023
 
 # Relationships
 game_family: null
-edition: null
+edition: Original game (2023); English specifications from 25th Century Games
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 1  # Light
+feel: 1  # Cooperative
 
 value: 1  # Budget
 
@@ -39,16 +39,28 @@ possible_counts: [2]
 true_counts: [2]
 
 designer:
-  - David Mortimer
+  - Gaëtan Beaujannot
+  - Olivier Cipière
+  - Geonil
 publisher:
+  - Mandoo Games
   - 25th Century Games
-artist: []
+artist:
+  - Vincent Dutrait
 playtime_minutes: 20
-min_playtime: 15
-max_playtime: 30
+min_playtime: null
+max_playtime: null
 min_age: 10
 
 description: |
-  Jekyll & Hyde vs Scotland Yard is a cooperative two-player trick-taking game where both players work together as the dual-natured Jekyll and Hyde, attempting to evade Scotland Yard through the streets of London. Players must carefully balance their trick wins: movement forward is determined by the lower-scoring player's tricks, so over-performance moves Scotland Yard closer to catching them. Played over two rounds with communication limits, the game demands precise coordination and reading your partner's hand. A clever spin on cooperative trick-taking that creates unique tension through its constraint-based movement system.
+  Two players cooperate as Jekyll and Hyde, trying to reach a precise destination
+  before Scotland Yard catches them. Each chapter lasts two rounds of card tricks.
+  Sharing the tricks helps the pair advance, but particular cards and excess
+  movement can help their pursuer. Communication is restricted, so partners must
+  coordinate through the cards they play.
+
+  This is a standalone cooperative game, distinct from the competitive Jekyll vs.
+  Hyde. Ten chapters introduce and vary its rules. Expect a short, concentrated
+  partnership puzzle; that experience description remains a provisional estimate.
 
 upgrades: []

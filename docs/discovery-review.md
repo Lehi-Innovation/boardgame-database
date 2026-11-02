@@ -31,6 +31,12 @@ two-player counts, explained rule variants, unknown publication/age fields and
 provisional duration/experience estimates. The original exclusion reasons remain
 in CSV notes and the dated decision record.
 
+Additional source reviews corrected the earlier Leinen los! record to Alex
+Randolph’s HABA dexterity boat race, rather than an unsupported modern dice game.
+The jury confirms 2–4, 6+ and about ten minutes; the independent Luding catalog
+distinguishes its 1996 publication from the 1997 children’s award. This adds a
+more accurate children’s-game option without creating a duplicate record.
+
 ## Experience vocabulary
 
 Three schema-defined starting points now connect ordinary intentions to current
@@ -58,7 +64,9 @@ that cropped images hid the title and publisher mark on tall boxes such as
 Codenames. Cards and both detail views now fit the whole box. All 39 cases passed
 image decoding, whole-cover styling and horizontal-overflow checks without page
 errors. The image manager also retains search text entered while its catalog is
-loading, so early input is applied when the results arrive.
+loading, so early input is applied when the results arrive. Its cards and modal
+details were checked at all three widths, including an intentionally delayed
+catalog response. The four-page fixture smoke check was repeated after these fixes.
 
 The isolated HTTP suite additionally checks a supported group of sixteen separately
 from estimated preferred counts, complete YAML/SQLite payload equality, immediate
