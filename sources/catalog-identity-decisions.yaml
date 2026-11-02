@@ -2074,3 +2074,141 @@ decisions:
   reason: Added explicit original KTBG English2023 base-game row from final rules and actualDecember2023review.
     Generic2024 reference remains pending; upgrades/localized printing details not automatically
     transferred.
+- name: Machiavelli
+  year: 1977
+  yaml_id: machiavelli-1977
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://en.wikipedia.org/wiki/Machiavelli_(board_game)
+  - https://diplom.org/Online/variants3.html
+  reason: Added original Battleline1977 Taylor/Wood negotiation game, separate from Citadels
+    localized title and later AvalonHill revisions. Independent history and edition directory;
+    original manual, age and timing unverified.
+- name: Marco Polo
+  year: 1983
+  yaml_id: marco-polo-1983
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiele4us.de/wp-content/uploads/2022/10/spiel-des-marco-polo-gebraucht-g003801480.pdf
+  - https://www.spiele4us.de/spiel/spiel-des-marco-polo/
+  - https://luding.org/Skripte/PublisherData.py/DEpublisherid/5
+  - https://www.jugamostodos.org/index.php/noticias-en-espana/otros-articulos-94369/3219-isidre-mones-ilustrador-de-juegos
+  reason: Added TomKremer/Schmidt1983 trading-and-travel game from visually inspected originalGerman
+    rules and physical inventory/bibliography. Separate from2015Voyages; SpanishCEFA artist
+    not transferred to German set.
+- name: Citadel
+  year: null
+  yaml_id: citadel-1976
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.fourcats.co.uk/mags/files/WGN-170-May-76c.pdf
+  - https://fanac.org/fanzines/Algol/algol_32_v15n3_porter_1978-su.pdf
+  - https://en.wikipedia.org/wiki/Citadel_(board_game)
+  - https://www.fantasygamesunlimited.net/product/citadel-pdf/
+  reason: Singular row now explicitly identifies FGU1976 Goodman/Krenkel tower quest, supported
+    by contemporary received-booklet notice and publisher advert. Oldauto-match citadel file
+    actually described Citadels and is archived unchanged; historicalalias points to retainedCitadels,
+    not this separate game.
+- name: Citadels
+  year: 2000
+  yaml_id: citadels
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cdn.1j1ju.com/medias/cb/4e/c5-citadelles-regle.pdf
+  - https://www.ludolegars.fr/citadelles/
+  - https://www.hans-im-glueck.de/en/game/citadels-2/
+  reason: Scoped retained record to originalFrench Multisim2000,3–7. Original rules distinguish
+    later2/3player appendix; original art restored, modern2–8/10+ not transferred. Duplicate
+    citadel YAML archived unchanged with explained alias.
+- name: New Phone Who Dis?
+  year: 2019
+  yaml_id: new-phone-who-dis
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://news.lincc.org/sites/default/files/lot-manuals/NewPhoneWhoDisInstructions.pdf
+  - https://www.sahmreviews.com/2022/05/thrift-treasure-new-phone-who-dis.html
+  - https://www.geekyhobbies.com/new-phone-who-dis-party-game-rules-and-instructions-for-how-to-play/
+  - https://trademarks.justia.com/880/77/new-phone-who-88077129.html
+  - https://relatable.com/products/new-phone-who-dis
+  reason: Corrected detailed2018application-year confusion to original adult2019 release.
+    Independent actual-copy review plus historical first-use report; original540-card rules
+    reprint2020,3+/17+. Family and second editions separate; no fixed upper bound certified.
+- name: Night Cage
+  year: 2022
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.scribd.com/document/791167144/Official-TNC-RuleBook-201005
+  - https://www.boardgamequest.com/the-night-cage-review/
+  - https://www.stackup.org/post/ttrpg-review-the-night-cage
+  reason: OriginalSND1008 rules and actual2021copy reviews establish represented first2021
+    game. Generic2022row gives no edition and may refer wider retail; remains pending. Added
+    explicit2021 row, corrected illustration and same-gate/discard rules.
+- name: Mr. President
+  year: null
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rosenbaum-games.de/3m/p1/p0021.htm
+  - https://artsandculture.google.com/asset/game-mr-president-the-game-of-campaign-politics-3m-company/SgHwfe6S7d5CBA?hl=en
+  - https://www.rosenbaum-games.de/3m/p1/presid01.pdf
+  - https://en.wikipedia.org/wiki/Mr._President_(board_game)
+  reason: Undated row does not independently distinguish3M1967standard election game fromGMT2023solo
+    governing simulation. Original3M also has1965/66versions; preserve source ID without guessing
+    target. Added explicitly dated1967/2023 rows.
+- name: Presidential Campaign
+  year: null
+  yaml_id: null
+  status: ambiguous
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rosenbaum-games.de/3m/p1/p0021.htm
+  - https://artsandculture.google.com/asset/game-mr-president-the-game-of-campaign-politics-3m-company/SgHwfe6S7d5CBA?hl=en
+  - https://www.rosenbaum-games.de/3m/p1/presid01.pdf
+  - https://en.wikipedia.org/wiki/Mr._President_(board_game)
+  reason: Generic phrase is not an independently verified commercial alias. Existing historical
+    filename described3M Mr.President, whose actual title/1967revision are now explicit; filename
+    alone cannot establish this CSV identity. Excluded ambiguous pending identity evidence.
+- name: Night Cage
+  year: 2021
+  yaml_id: night-cage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.scribd.com/document/791167144/Official-TNC-RuleBook-201005
+  - https://www.boardgamequest.com/the-night-cage-review/
+  - https://www.stackup.org/post/ttrpg-review-the-night-cage
+  reason: Explicit original2021SND1008 base-game row; rule cover and actual2021reviews establish
+    availability,1–5/14+/50. Generic2022 row remains pending.
+- name: Mr. President
+  year: 1967
+  yaml_id: presidential-campaign
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rosenbaum-games.de/3m/p1/p0021.htm
+  - https://artsandculture.google.com/asset/game-mr-president-the-game-of-campaign-politics-3m-company/SgHwfe6S7d5CBA?hl=en
+  - https://www.rosenbaum-games.de/3m/p1/presid01.pdf
+  - https://en.wikipedia.org/wiki/Mr._President_(board_game)
+  reason: Explicit3M1967standard revision, actual museum object and collector rulesC-B200I-67.
+    Earlier1965/66versions exist; this is not first publication. Historical YAML ID retained.
+- name: Mr. President
+  year: 2023
+  yaml_id: mr-president
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gmtgames.com/p-1056-mr-president-the-american-presidency-2001-2020-2nd-edition.aspx
+  - https://www.scribd.com/document/655936449/MRPRES-GoverningManual-WebSize
+  - https://platoonforward.blogspot.com/2023/07/something-completely-different-mr.html
+  - https://opinionatedgamers.com/2023/10/11/thank-you-mr-president-a-first-impressions-press-conference/
+  reason: Explicit GMT original2023solo governing game from contemporary delivered/played
+    copy reports, separate from3M election game and2026secondedition. Original age/time bounds
+    unknown.

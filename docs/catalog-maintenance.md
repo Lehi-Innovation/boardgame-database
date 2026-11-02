@@ -61,7 +61,7 @@ Keep both distinct editions. Backfill previews use these same conservative rules
 ## Historical research IDs
 
 [../sources/game-aliases.yaml](../sources/game-aliases.yaml) records the initial nineteen deliberate
-links from historical IDs to current records, plus three retired duplicate-record IDs, each with an explanation grounded in
+links from historical IDs to current records, plus four retired duplicate-record IDs, each with an explanation grounded in
 the stored evidence and represented edition. Historical log bytes remain intact.
 The previously missing original 878 Vikings record was independently researched and
 added using its historical slug; it is not an alias to the second edition.
@@ -168,3 +168,33 @@ Kickstarter-copy review establish 2023, but the generic 2024 row supplies no
 language or printing. It stays pending, with an explicit 2023 row for the
 represented game. Its shared celebration is competitively scored; the earlier
 cooperative `feel` value was incorrect.
+
+The retired `citadel` YAML also explicitly described Faidutti’s **Citadels**, with
+incorrect and blended credits/specifications. It is archived unchanged and aliases
+to the retained `citadels` record. That record now represents French Multisim’s
+original **2000** game (3–7); the French rule mirror labels its two-player appendix
+as a later German-edition variant. Original art credits are retained by role.
+The singular **Citadel** discovery row instead explicitly maps to the unrelated
+**FGU 1976** tower quest by Goodman, with Krenkel art. Historical filenames cannot
+establish the identity of an unqualified CSV title.
+
+**Machiavelli (1977)** is Battleline’s Renaissance negotiation game, separate from
+the localized Citadels title. **Marco Polo (1983)** is Schmidt’s Kremer design,
+with spinner travel and trading, separate from the later dice-placement games.
+Its inspected German rules do not establish the Spanish CEFA edition’s artist.
+
+Dated **Mr. President** rows distinguish **3M’s 1967 standard revision** from
+**GMT’s 2023 solo simulation**. The former follows actual 1965/66 versions; the
+consulted early-rules transcription is not called the 1967 manual. Its historical
+`presidential-campaign` ID stays stable, while the unverified commercial-title row
+is explicitly ambiguous. The undated Mr. President row remains pending rather
+than selecting either namesake. GMT’s current second-edition manuals do not
+certify original labels or fixed session bounds.
+
+**New Phone Who Dis? (2019)** separates actual adult-game availability from the
+2018 trademark application and consulted 2020 instruction reprint. Supported 3+
+uses the schema’s open-ended count convention; neither the family nor second
+edition is blended into it. **The Night Cage** has an explicit original **2021**
+row supported by rules and contemporary played copies; the generic 2022 row
+remains pending without edition evidence. Its corrected artist is Chris Chan;
+Curt Covert’s credit is additional development.

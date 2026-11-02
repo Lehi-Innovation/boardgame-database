@@ -683,7 +683,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 17209,Cineplexity,,boardgame,,,
 2224,Circus Imperium,,boardgame,,,
 244,Circus Maximus,1979,boardgame,,,
-4411,Citadel,,boardgame,,,
+4411,Citadel,,boardgame,,"Singular row now explicitly identifies FGU1976 Goodman/Krenkel tower quest, supported by contemporary received-booklet notice and publisher advert. Oldauto-match citadel file actually described Citadels and is archived unchanged; historicalalias points to retainedCitadels, not this separate game.",citadel-1976
 3248,Citadel of Blood,,boardgame,,,
 38657,Cities,2008,boardgame,,,cities-2008
 267370,Cities: Skylines – The Board Game,2019,boardgame,,,
@@ -1957,7 +1957,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,MAATAC,,boardgame,,,
 55670,Macao,,boardgame,,,
 143884,Machi Koro,2012,boardgame,,,
-286,Machiavelli,1977,boardgame,,"Identity review 2026-11-01: Machiavelli is also a localized title for Citadels, but that 2000 game is not the 1977 game.",
+286,Machiavelli,1977,boardgame,,"Added original Battleline1977 Taylor/Wood negotiation game, separate from Citadels localized title and later AvalonHill revisions. Independent history and edition directory; original manual, age and timing unverified.",machiavelli-1977
 193164,Macroscope,2016,boardgame,,Original Lifestyle2016 game now separate from Mayday2017 English issue. Official Japanese release and independent German played bibliography establish2016 availability; exact first language/printing unverified. Corrected reversed remaining-window score; added explicit Mayday2017 row.,macroscope-2016
 764,Mad Gab,,boardgame,,,
 569,Maestro,1989,boardgame,,,
@@ -2006,7 +2006,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 361958,Maple Valley,2024,boardgame,,"Final English rules and actual December2023 Kickstarter-copy review establish represented original2023, but generic2024 row gives no language/printing and later localized editions exist. Kept pending instead of forcing original-English mapping; added explicit2023 row. Corrected cooperative feel, route/card rules and Tenney art.",
 ,Maracaibo,2019,boardgame,,,
 3063,March Madness,1991,boardgame,,,
-2280,Marco Polo,1983,boardgame,,"Identity review 2026-11-01: The Voyages of Marco Polo is a separate later game, not the 1983 title.",
+2280,Marco Polo,1983,boardgame,,Added TomKremer/Schmidt1983 trading-and-travel game from visually inspected originalGerman rules and physical inventory/bibliography. Separate from2015Voyages; SpanishCEFA artist not transferred to German set.,marco-polo-1983
 99479,Mare Balticum,,boardgame,,,
 3931,Mare Nostrum,,boardgame,,,
 13881,"Marengo: Napoleon in Italy, 14 June 1800",1975,boardgame,,,marengo-napoleon-in-italy
@@ -2150,7 +2150,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 21763,Mr. Jack,2006,boardgame,,,
 55427,Mr. Jack in New York,,boardgame,,,mr-jack-in-new-york
 72287,Mr. Jack Pocket,,boardgame,,,mr-jack-pocket
-476,Mr. President,,boardgame,,,
+476,Mr. President,,boardgame,,Undated row does not independently distinguish3M1967standard election game fromGMT2023solo governing simulation. Original3M also has1965/66versions; preserve source ID without guessing target. Added explicitly dated1967/2023 rows.,
 ,Mr. Trucker,,boardgame,,,
 289363,Ms. Monopoly,2019,boardgame,,,
 137152,Mucca Pazza,,boardgame,,,
@@ -2473,7 +2473,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 38531,Powerboats,,boardgame,,,
 367295,Powerline,2022,boardgame,,,
 103460,Pox: Save the People,,boardgame,,,
-,Presidential Campaign,,boardgame,,,
+,Presidential Campaign,,boardgame,ambiguous,"Generic phrase is not an independently verified commercial alias. Existing historical filename described3M Mr.President, whose actual title/1967revision are now explicit; filename alone cannot establish this CSV identity. Excluded ambiguous pending identity evidence.",
 ,PRESTAGS,,boardgame,,,
 6549,Pretty Pretty Princess,,boardgame,,,
 159375,Prime Climb,2014,boardgame,,,
@@ -3770,7 +3770,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Poetry for Neanderthals,2020,boardgame,,,
 ,Hardback,2018,boardgame,,,
 ,Trekking the National Parks,2014,boardgame,,,
-,Night Cage,2022,boardgame,,,
+,Night Cage,2022,boardgame,,"OriginalSND1008 rules and actual2021copy reviews establish represented first2021 game. Generic2022row gives no edition and may refer wider retail; remains pending. Added explicit2021 row, corrected illustration and same-gate/discard rules.",
 ,Monkey Palace,2024,boardgame,,,
 ,Qawale,2022,boardgame,,,
 ,Faraway,2023,boardgame,,,
@@ -3802,7 +3802,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Survivor: The Tribe Has Spoken,2024,boardgame,,,
 ,Horrible Therapist,2024,boardgame,,,horrible-therapist
 ,Disturbed Friends,2016,boardgame,,,
-,New Phone Who Dis?,2019,boardgame,,,
+,New Phone Who Dis?,2019,boardgame,,"Corrected detailed2018application-year confusion to original adult2019 release. Independent actual-copy review plus historical first-use report; original540-card rules reprint2020,3+/17+. Family and second editions separate; no fixed upper bound certified.",new-phone-who-dis
 ,Shit Happens,2016,boardgame,,,
 ,P for Pizza,2019,boardgame,,,
 ,Roll for the Galaxy,2014,boardgame,,,
@@ -3959,7 +3959,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Chicago Express,2007,boardgame,,,chicago-express
 ,Chimera Station,2017,boardgame,,,chimera-station
 ,Chocolate Factory,2019,boardgame,,,chocolate-factory
-,Citadels,2000,boardgame,,,citadels
+,Citadels,2000,boardgame,,"Scoped retained record to originalFrench Multisim2000,3–7. Original rules distinguish later2/3player appendix; original art restored, modern2–8/10+ not transferred. Duplicate citadel YAML archived unchanged with explained alias.",citadels
 ,City of the Big Shoulders,2019,boardgame,,,city-of-the-big-shoulders
 ,Claim,2017,boardgame,,,claim
 ,Cloud City,2020,boardgame,,,cloud-city
@@ -4263,3 +4263,6 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,London,2010,boardgame,,"Added explicit2010TreefrogoriginalLondon row. Originalcredits/dated2010reference,boroughmapand12+/about90 scopedseparatelyfromOsprey2017cardboroughrevision;preferredcountsandexperienceprovisional.",london
 ,Macroscope,2017,boardgame,,Added explicit Mayday2017 English edition from contemporary Origins debut; original Lifestyle2016 has separate record.2–6/6+/about30 supported; original illustration credits unverified.,macroscope
 ,Maple Valley,2023,boardgame,,Added explicit original KTBG English2023 base-game row from final rules and actualDecember2023review. Generic2024 reference remains pending; upgrades/localized printing details not automatically transferred.,maple-valley
+,Night Cage,2021,boardgame,,"Explicit original2021SND1008 base-game row; rule cover and actual2021reviews establish availability,1–5/14+/50. Generic2022 row remains pending.",night-cage
+,Mr. President,1967,boardgame,,"Explicit3M1967standard revision, actual museum object and collector rulesC-B200I-67. Earlier1965/66versions exist; this is not first publication. Historical YAML ID retained.",presidential-campaign
+,Mr. President,2023,boardgame,,"Explicit GMT original2023solo governing game from contemporary delivered/played copy reports, separate from3M election game and2026secondedition. Original age/time bounds unknown.",mr-president

@@ -83,3 +83,9 @@ aliases:
       at archive/2026-11-02/duplicate-records/hannibal.yaml; owner fields/history empty. Publisher
       product-906 advertisement and contemporary independent review establish canonical identity;
       later reprints remain distinct.'
+  citadel:
+    game_id: citadels
+    reason: '2026-11-02: retired duplicate explicitly describes Faidutti’s 2000 Citadels, despite
+      incorrect Cathala credit and mixed later specifications. Original preserved unchanged
+      at archive/2026-11-02/duplicate-records/citadel.yaml. This historical ID does NOT identify
+      the unrelated FGU1976 game; the singular CSV row now explicitly maps to citadel-1976.'

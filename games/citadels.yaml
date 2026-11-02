@@ -1,3 +1,10 @@
+# Original French Multisim core rules support 3–7; the mirror’s appendix explicitly
+# adds later variants from the second German edition, including two-player play.
+# Original artists are credited by role; Daujean’s graphics are not illustration.
+# Original minimum-age label unverified. About 60 minutes is a recommendation,
+# not a bound: contemporary play review reports 1–2 hours. Preferred 4–6 and all
+# experience ratings provisional. Duplicate citadel file archived unchanged; that
+# legacy ID means Citadels, while the singular CSV row now maps explicitly to FGU1976.
 id: citadels
 name: "Citadels"
 alternate_names:
@@ -8,16 +15,16 @@ year: 2000
 
 # Relationships
 game_family: null
-edition: null
+edition: Original French Multisim Citadelles (2000), excluding later appendix variants
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
+length: 2
+rules_complexity: 2
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4
 value: 2  # Standard
 
 affinity: null
@@ -41,20 +48,29 @@ evokes:
   - Mystery
   - Agency
 
-possible_counts: [2, 3, 4, 5, 6, 7, 8]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
 true_counts: [4, 5, 6]
 
 designer:
   - Bruno Faidutti
 publisher:
-  - Z-Man Games
-artist: []
+  - Multisim
+artist:
+  - Florence Magnin
+  - Julien Delval
+  - Jean-Louis Mourier
+  - Didier Graffet
 playtime_minutes: 60
-min_playtime: 30
-max_playtime: 60
-min_age: 10
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Citadels is a card game designed by Bruno Faidutti in which players compete to build the most impressive medieval city by collecting gold and erecting district cards worth different points. Each round players secretly draft a character card—Assassin, Thief, King, Bishop, Merchant, and others—that determines turn order and grants a unique power, creating bluffing and deduction as players try to anticipate which roles rivals have chosen. The game's combination of variable characters, targeted take-that abilities, and city-building set collection earned it a Spiel des Jahres nomination in 2000 and has made it a perennial favorite across multiple editions.
+  Build a medieval city by paying gold for district cards, while secretly choosing a different character each round. Characters act in a fixed order and bring income, building advantages or attacks against another role, so guessing what rivals picked matters as much as choosing your own benefit. A city usually triggers the final round at eight districts; the original three-player rules omit the Assassin and require ten. District values and bonuses determine the winner. This record represents the original French Multisim game. Later editions and appended two-player variants change the supported counts and content. Expect direct interference and possible waits between turns.
 
 upgrades: []

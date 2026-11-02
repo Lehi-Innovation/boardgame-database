@@ -3,8 +3,8 @@
 ## Duplicate game records
 
 The following records duplicated an active game rather than representing a distinct
-edition. All three original files remain byte-for-byte intact. Their owner ratings were
-null and neither held play history. Different provisional experience estimates
+edition. All four original files remain byte-for-byte intact. Their owner ratings were
+null and none held play history. Different provisional experience estimates
 remain in these archived originals; they were not silently merged.
 
 | Original path | Archived record | Current record | Original SHA-256 |
@@ -12,6 +12,7 @@ remain in these archived originals; they were not silently merged.
 | `games/two-player-chess.yaml` | [two-player-chess.yaml](duplicate-records/two-player-chess.yaml) | [chess](../../games/chess.yaml) | `44787c3fb6431c7a00ac5dec9a2b7924eb4abc99c31ef43ce4dab070fdf5a305` |
 | `games/the-castle-carcassonne.yaml` | [the-castle-carcassonne.yaml](duplicate-records/the-castle-carcassonne.yaml) | [carcassonne-the-castle](../../games/carcassonne-the-castle.yaml) | `d7511e71f0cad0275634d30067f8b8be410a28d7b32534ebaac2a1edde4ead6d` |
 | `games/hannibal.yaml` | [hannibal.yaml](duplicate-records/hannibal.yaml) | [hannibal-rome-vs-carthage](../../games/hannibal-rome-vs-carthage.yaml) | `bf2d8ef145f224c751fdc55f7e3ffe29315171d5fe241deaae0d7675dd3b6e67` |
+| `games/citadel.yaml` | [citadel.yaml](duplicate-records/citadel.yaml) | [citadels](../../games/citadels.yaml) | `0cb1fbc0b53a82c36584567cb3d8393fd06bef96e9eb29d29630510f45f6d952` |
 
 The retired IDs have explained evidence links in [game-aliases.yaml](../../sources/game-aliases.yaml).
 The CSV mappings now use the retained records. The separate Mayfair **The Castle
@@ -25,6 +26,15 @@ support that identity. Neither file represented the later Valley Games or PHALAN
 revisions. The archived short-title record includes an incorrect claim that Hannibal
 introduced card-driven wargaming; the retained record explains the earlier
 We the People system instead. Archiving preserves evidence, not publication approval.
+
+
+The retired `citadel` file explicitly described Faidutti’s 2000 Citadels, despite
+incorrect Cathala credit and blended later-edition metadata. Its unchanged bytes
+preserve those historical mistakes. The retained record now represents original
+French Multisim Citadelles, supported by its rules and contemporary play evidence.
+The singular CSV **Citadel** row explicitly identifies the separate **1976 FGU**
+tower quest at [citadel-1976](../../games/citadel-1976.yaml); it does not use the
+retired-file alias. Later two-player Citadels variants are not original base rules.
 
 Restore a duplicate only if new evidence establishes a distinct edition or if
 reversing the consolidation deliberately. Review the current canonical record,

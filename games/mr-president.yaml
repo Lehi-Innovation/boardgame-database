@@ -1,3 +1,10 @@
+# Contemporary July2023 received-copy report establishes original availability.
+# October2023 first impressions took 5+ hours for only two of four years and required
+# a side table. Old 240–600 range is not certified; original age/time left unknown.
+# Read introduction to ©2023 Governing Manual via indexed transcript, not all nine
+# booklets. Current publisher page distinguishes published2023/2026 and links MP2
+# second-edition manuals, not original rules. Original art credits unverified;
+# experience ratings provisional. Official supported mode is solo.
 id: mr-president
 name: "Mr. President"
 alternate_names: ["Mr. President: The American Presidency, 2001-2020"]
@@ -5,7 +12,7 @@ year: 2023
 
 # Relationships
 game_family: null
-edition: null
+edition: Original GMT release (2023), separate from the 2026 second edition
 base_game: null
 expansions: []
 compatible_with: []
@@ -21,10 +28,12 @@ affinity: null
 hotness: null
 
 categories:
-  - Cooperative
+  - Solo
   - Events
-  - Puzzle Solving
+  - Resource Management
+  - Simulation
   - Historical
+  - Political
 
 evokes:
   - Agency
@@ -41,12 +50,12 @@ designer:
 publisher:
   - GMT Games
 artist: []
-playtime_minutes: 360
-min_playtime: 240
-max_playtime: 600
-min_age: 16
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Mr. President is a sprawling solitaire board game published by GMT Games in 2023, in which the player takes the role of the President of the United States navigating the complex challenges of governing in the early 21st century. This is not an election game — it begins after the election, focusing on resource management, domestic politics, foreign policy, and crisis response. The player must prioritize a limited action budget to advance their agenda against a never-ending stream of unpredictable events and crises. The game comes in a massive box with multiple mounted game boards, extensive rulebooks, and hundreds of components, making it one of the most ambitious solitaire experiences in modern board gaming.
+  Run a United States administration rather than campaign to win office. Set priorities, work with Congress and your cabinet, respond to domestic pressures and manage international crises while events disrupt your plans. This is a substantial solo simulation with many charts, reference booklets and competing demands; a full administration can take several long sessions. Plan for a large table, extra reference space and a place to leave the game set up. This record represents the original 2023 GMT release. The later second edition revises material and is not silently combined here. Other people can discuss decisions, but the supported game is for one player.
 
 upgrades: []

@@ -1,0 +1,57 @@
+# Both scanned spreads of original German Schmidt rules visually read, T.Nr39357.
+# Physical inventory and independent bibliography identify 1983/TomKremer/2–4/8+.
+# Spinner travel, dice combat, gifts/tablet/mission/invention and player-dependent
+# wealth threshold confirmed. Original German illustration credit unknown: the
+# Monés interview explicitly concerns later Spanish CEFA art. No time printed in
+# consulted rules; duration unknown. Preferred counts unknown; ratings provisional.
+id: marco-polo-1983
+name: Marco Polo
+alternate_names:
+  - Spiel des Marco Polo
+year: 1983
+game_family: null
+edition: Schmidt German game (1983), consulted rules T.Nr.39357
+base_game: null
+expansions: []
+compatible_with: []
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 3
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Trading
+  - Resource Management
+  - Racing
+  - Dice Rolling
+  - Family
+  - Historical
+  - Adventure
+evokes:
+  - Discovery
+  - Lucky
+  - Progress
+  - Rivalry
+  - Clever
+possible_counts:
+  - 2
+  - 3
+  - 4
+true_counts: []
+designer:
+  - Tom Kremer
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: 8
+description: |
+  Travel between Venice and Khanbalik, trading goods and collecting the rewards needed for a profitable return. A spinner moves you by land or sea, while dice resolve encounters with bandits and pirates. Deliver gifts to gain a golden tablet, complete a secret mission for an invention and return to Venice with enough wealth to win; the required total changes with player count. Trading and timing create choices within an uncertain journey. This Schmidt game is separate from the later dice-placement Voyages of Marco Polo. The consulted German rules do not establish original illustration credits or session duration.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []
