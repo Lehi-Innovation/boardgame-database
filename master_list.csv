@@ -1553,8 +1553,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 51197,Hippos & Crocodiles,2009,boardgame,,,hippos-and-crocodiles
 425693,Historical Mystery: Bets are Made,2024,boardgame,,"2026-11-02: Original Russian SKU 915831, 2024 retailer publication corroborated by original rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to 18+ and 60–90; added rules credits and cooperative mode. English display title is a translation, not certification of English retail availability.",historical-mystery-bets-are-made
 382694,Historical Mystery: Death at the Ball,2023,boardgame,,,historical-mystery-death-at-the-ball
-401242,Historical Mystery: Disappearance in the Sky,2024,boardgame,,"2026-11-02: Publisher Russian product and original rules establish 18+, 60–90, 1–4, shared investigation and case-specific Rozanov/art credits. Corrected age/duration/mode; English display title does not establish localization. First-publication 2023/2024 conflict remains unresolved: 2024 international-catalog availability alone does not establish first release.",historical-mystery-disappearance-in-the-sky
-431079,Historical Mystery: The Witch,2024,boardgame,,"2026-11-02: Publisher Russian product and rules establish 18+, 60–90, 1–4, shared investigation and Ksenia Targulian/art credits. Corrected age/duration/mode and represented language. Rules copyright 2024 alone does not settle 2023/2024 first-publication conflict, which remains visible for dated release research.",historical-mystery-the-witch
+401242,Historical Mystery: Disappearance in the Sky,2023,boardgame,,"2026-11-02: Publisher-associated store explicitly release year 2023, Russian Hobby World product 100705. Retained detailed-record year and corrected CSV 2024; international 2024 catalog availability did not establish original release. Language and edition remain explicit.",historical-mystery-disappearance-in-the-sky
+431079,Historical Mystery: The Witch,2024,boardgame,,"2026-11-02: Publisher-associated store explicitly release year 2024, Russian Hobby World product 148141, corroborating original rules copyright. This supplies release evidence missing from earlier review and corrects unsupported record 2023 without inferring publication solely from copyright.",historical-mystery-the-witch
 453355,Historical Mystery: Treasures of the Galleon,2025,boardgame,,"2026-11-02: Original Russian SKU 952138, 2025 retailer publication corroborated by original rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to 18+ and 60–90; added case-specific author/art credits. English title is a translation, not evidence of English retail availability.",historical-mystery-treasures-of-the-galleon
 224,History of the World,,boardgame,,,
 11132,Hitler's Last Gamble,,boardgame,,,hitlers-last-gamble
@@ -1851,7 +1851,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 35677,Le Havre,,boardgame,,,
 ,Le Havre: The Inland Port,2012,boardgame,,,
 246564,Le jeu aux mille titres,,boardgame,,,le-jeu-aux-mille-titres
-,Le jeu des chaises musicales,1992,boardgame,,,le-jeu-des-chaises-musicales
+,Le jeu des chaises musicales,1992,boardgame,,"2026-11-02: Identified French Habourdin game from official 1994 award history and independent catalog, with Anthony J. Vadasz/Vadaz spelling difference. References disagree 1991 versus 1992; replaced unsupported 2000 with unknown year and kept explicit CSV date conflict. Catalog supports 2–4 rather than guessed 3–8; original rules and age label not inspected.",le-jeu-des-chaises-musicales
 41126,Le Magistral,,boardgame,,,
 10855,Le Paresseux,,boardgame,,,
 225460,Leader Foot,,boardgame,,,
@@ -1874,7 +1874,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 153004,Lemming,2014,boardgame,,,
 ,"Leningrad: The Advance of Army Group North, Summer 1941",,boardgame,,,leningrad-advance-army-group-north
 18144,Lensman,1969,boardgame,,,
-,Lentokilpailu-peli,1909,boardgame,,,lentokilpailu-peli
+,Lentokilpailu-peli,1909,boardgame,,"2026-11-02: National Library original metadata explicitly Helsinki, Osakeyhtiö Launis, 1909; 2018 is digitization. Original board inspected. Library explicitly says rules missing, so removed unsupported movement mechanism, player-count and age claims; timing/experience remain provisional.",lentokilpailu-peli
 21920,Leonardo da Vinci,,boardgame,,,
 ,Leopard hunt game,,boardgame,,,leopard-hunt-game
 7502,Leros: The Island Prize,1995,boardgame,,"2026-11-02: Original publisher rules identify The Gamers, David A. Friedrichs, and separate series/development/graphics credit Dean N. Essig, with copyright 1995. Independent play review and Vieille Garde bibliography explicitly date original game 1995, rather than deriving publication solely from copyright. Corrected false 2009/Compass identity and selected 1995 original scope for CSV; references listing 1996 remain a chronological uncertainty. Scenario and campaign lengths differ greatly; removed misleading single-evening duration range.",leros-the-island-prize
@@ -2115,7 +2115,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 73091,Momentum,2010,boardgame,,,
 91523,Mondo,2011,boardgame,,,
 1406,Monopoly,1935,boardgame,,"Source review 2026-11-02: Publisher anniversary history explicitly identifies 1935 debut; generic CSV row has no regional edition qualifier. Represents Parker Brothers original, not a claim that every later edition has the same date.",monopoly
-,Monopoly - Paris,1948,boardgame,,,monopoly-paris
+,Monopoly - Paris,1948,boardgame,,"2026-11-02: Collector’s own inspected Miro set has first-quarter 1948 legal-deposit rules; separate owned-set listing corroborates historical Miro French identity. Selected represented rules edition, not a claim of exact box manufacture or first French Monopoly release. Removed unsupported 2012 Hasbro/Winning Moves city-souvenir blend and expansion relationship; original age/count labels unverified.",monopoly-paris
 230408,Monopoly Gamer,,boardgame,,,
 5339,Monopoly Junior,1990,boardgame,,,
 ,Monopoly: Animal Crossing,,boardgame,,,monopoly-animal-crossing
@@ -2543,7 +2543,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3561,Ram Speed,,boardgame,,,
 2629,Ramses II,,boardgame,,,
 6929,Ranger: Simulation of Modern Patrolling Operations,,boardgame,,,ranger
-7770,Rapier & Dagger,1978,boardgame,,,rapier-and-dagger
+7770,Rapier & Dagger,1978,boardgame,,"2026-11-02: Archived original FGU catalog mirror and retailer’s own booklet inventory independently specify 1978, Wilf K. Backhaus, FGU and paper/miniature fencing systems. Corrected false 1975 and abstract-grid placeholder; stock 1108 identifies original rules publication, not a required Chivalry & Sorcery expansion.",rapier-and-dagger
 18143,Rare Species,,boardgame,,,
 16497,Rat Hot,,boardgame,,,
 4479,Ratrace,,boardgame,,,
@@ -2637,7 +2637,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 237182,Root,2018,boardgame,,,
 1602,Royal Game of Ur,,boardgame,,,royal-game-of-ur
 3080,RSVP,,boardgame,,,
-3081,Rubik's Flip,1981,boardgame,,,rubiks-flip
+3081,Rubik's Flip,1981,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",
 614,Rubik's Puzzle Match,,boardgame,,,rubiks-puzzle-match
 19948,Rum & Pirates,,boardgame,,,rum-and-pirates
 6411,Rumis,,boardgame,,,
@@ -4247,3 +4247,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Masters of Crime: Shadows,2024,boardgame,,"2026-11-02: English Thames & Kosmos edition, SKU 683826; publisher 2024 catalog marks NEW, 1–5, age 16+, 2–4 hours. Generic 2023 discovery row retained separately pending research. Publisher marketing also says 1–6; chosen counts follow the edition-specific catalog specification.",masters-of-crime-shadows
 ,Ghoulash: The Last Game on Earth,1982,boardgame,,"2026-11-02: Creator’s first-person history distinguishes marketed 1982 original from streamlined one-sheet scenarios distributed online in 2001. Retained original ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery row to revision and added separate original row without inventing a source ID. Current creator page identifies two-player competition, not shared cooperative victory.",ghoulash
 ,Master of Orion: The Board Game,2017,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-the-board-game
+,Rubik's Flip (University Games),,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",rubiks-flip

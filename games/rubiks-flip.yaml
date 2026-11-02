@@ -1,21 +1,21 @@
 id: rubiks-flip
 name: "Rubik's Flip"
 alternate_names: []
-year: 1993
+year: null  # Publication year of the documented University Games version not established.
 
 # Relationships
 game_family: rubiks
-edition: null
+edition: "University Games full-board version, documented in 2017; release year unverified"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 0  # Snack
-rules_complexity: 0  # Preschool
-strategic_depth: 1  # Light
-feel: 3  # Competitive
-value: 0  # Impulse
+rules_complexity: 1  # Basic move, flip and blocking instructions.
+strategic_depth: 2  # Tactical placement and blocking.
+feel: 4  # Direct interference with opposing tiles.
+value: 1  # Compact manufactured board and tiles.
 
 affinity: null
 hotness: null
@@ -30,21 +30,21 @@ evokes:
   - Rivalry
   - Tension
   - Agency
-  - Lucky
+  - Masterful
 
 possible_counts: [2]
 true_counts: [2]
 
 designer: []
 publisher:
-  - Ideal
+  - University Games
 artist: []
-playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
+playtime_minutes: 10  # Legacy provisional estimate; the source establishes moves, not a time range.
+min_playtime: null
+max_playtime: null
 min_age: 7
 
 description: |
-  Rubik's Flip is a compact two-player abstract strategy game in the Rubik's brand game line. Players compete on a 4×4 board using 16 double-sided tiles — each tile showing two different colors on its faces. On each turn a player flips an opponent's tile to reveal the other color, then places one of their own tiles; the first player to align three tiles of the same color in a row wins. With only eight possible turns per player, the game is extremely quick and portable, fitting naturally alongside the Rubik's brand's identity of mind-bending spatial challenges in compact form.
+  Place double-sided tiles on a four-by-four board and interfere with your opponent by flipping a tile into a neighboring empty space. A winning line of three matching tiles must be locked so its tiles cannot be flipped away; ordinary three-in-a-row is not enough. Each player has eight tiles, making the available spaces increasingly important. This record follows the University Games version documented by an independent 2017 play review and teaching guide, with a retailer-listed age of seven upward. Its publication year and designer credit remain unverified; the historical 1981 catalog reference is separate. Timing and experience estimates are provisional.
 
 upgrades: []

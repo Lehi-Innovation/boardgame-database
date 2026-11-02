@@ -1,11 +1,11 @@
 id: historical-mystery-the-witch
 name: "Historical Mystery: The Witch"
 alternate_names: []
-year: 2023  # Legacy date remains unverified; conflicting 2024 CSV year needs dated release evidence.
+year: 2024  # Explicit publisher-associated retail release year, corroborated by rules copyright.
 
 # Relationships
 game_family: historical-mystery
-edition: "Russian Hobby World edition; first-publication year still under review"
+edition: "Russian Hobby World edition (2024)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -52,6 +52,6 @@ max_playtime: 90
 min_age: 18
 
 description: |
-  Investigate a murder accusation against a young widow during a witch hunt. Together, choose which clues and testimony to pursue within a budget of 24 actions, then evaluate your explanation of the case. Reading and discussion drive this mystery. This record follows the Russian-language Hobby World product, labeled 18+ and 60–90 minutes; the English display title does not establish English retail availability. Its first-publication date, preferred counts and experience estimates still need further review.
+  Investigate a murder accusation against a young widow during a witch hunt. Together, choose which clues and testimony to pursue within a budget of 24 actions, then evaluate your explanation of the case. Reading and discussion drive this mystery. This record follows the Russian-language 2024 Hobby World product, labeled 18+ and 60–90 minutes; the English display title does not establish English retail availability. Preferred counts and experience estimates remain provisional.
 
 upgrades: []

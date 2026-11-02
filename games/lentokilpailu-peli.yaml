@@ -2,16 +2,16 @@ id: lentokilpailu-peli
 name: "Lentokilpailu-peli"
 alternate_names:
   - "The Air Race Game"
-year: 1935
+year: 1909  # National Library original-publication metadata, distinct from 2018 digitization.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original Osakeyhtiö Launis game (1909), preserved by the National Library of Finland"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Legacy provisional experience estimates; original rules are missing from the library's copy.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 0  # Reflex
@@ -23,7 +23,6 @@ hotness: null
 
 categories:
   - Racing
-  - Dice Rolling
   - Family
   - Aviation
 
@@ -34,18 +33,19 @@ evokes:
   - Discovery
   - Wonder
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts: []  # Original rules and supported player counts not established.
+true_counts: []
 
 designer: []
-publisher: []
+publisher:
+  - Osakeyhtiö Launis
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 6
+playtime_minutes: 30  # Legacy provisional session estimate, not a source-verified duration.
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Lentokilpailu-peli ("The Air Race Game") is a Finnish board game from the early 20th century in which players race aircraft around a course using dice rolls to determine movement. Published during an era of great public enthusiasm for aviation following pioneering flights and air races, the game likely features a simple track-racing format themed around early aviation competitions. Finnish-language board games from this period reflected the country's growing board game industry and popular cultural interests of the time. Limited documentation is available outside Finnish-language sources about this specific title.
+  This early Finnish air-race game has a looped track, a marked start and finish, and illustrations of aircraft and aviators. The National Library of Finland identifies the original as an Osakeyhtiö Launis publication from 1909, separate from its 2018 digital edition. Its digitized copy preserves the box and board but explicitly lacks the rules. The original movement rules, supported player counts and age label are therefore unverified; timing and experience ratings here are provisional rather than instructions for reconstructing the game.
 
 upgrades: []

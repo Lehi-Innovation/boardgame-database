@@ -887,3 +887,115 @@ decisions:
     corrected unsupported CSV 1982; original journal issue not directly inspected,
     so bibliography is identified as secondary evidence and no exact original age/time
     label is certified.
+- name: Lentokilpailu-peli
+  previous_catalog_year: 1909
+  year: 1909
+  yaml_id: lentokilpailu-peli
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.doria.fi/handle/10024/153010
+  - https://www.doria.fi/bitstream/handle/10024/153010/pic_2018-03-23_062304.jpg?sequence=2&isAllowed=y
+  reason: National Library original metadata explicitly Helsinki, Osakeyhtiö Launis,
+    1909; 2018 is digitization. Original board inspected. Library explicitly says
+    rules missing, so removed unsupported movement mechanism, player-count and age
+    claims; timing/experience remain provisional.
+- name: 'Historical Mystery: The Witch'
+  previous_catalog_year: 2024
+  year: 2024
+  yaml_id: historical-mystery-the-witch
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbygames.ru/istoricheskij-detektiv-vedma
+  reason: Publisher-associated store explicitly release year 2024, Russian Hobby World
+    product 148141, corroborating original rules copyright. This supplies release
+    evidence missing from earlier review and corrects unsupported record 2023 without
+    inferring publication solely from copyright.
+- name: 'Historical Mystery: Disappearance in the Sky'
+  previous_catalog_year: 2024
+  year: 2023
+  yaml_id: historical-mystery-disappearance-in-the-sky
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbygames.ru/istoricheskij-detektiv-ischeznovenie-v-nebe
+  reason: Publisher-associated store explicitly release year 2023, Russian Hobby World
+    product 100705. Retained detailed-record year and corrected CSV 2024; international
+    2024 catalog availability did not establish original release. Language and edition
+    remain explicit.
+- name: Rapier & Dagger
+  previous_catalog_year: 1978
+  year: 1978
+  yaml_id: rapier-and-dagger
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.space-opera.net/mirror/fgu/products3.htm
+  - https://www.nobleknight.com/P/8787/Rapier-and-Dagger
+  reason: Archived original FGU catalog mirror and retailer’s own booklet inventory
+    independently specify 1978, Wilf K. Backhaus, FGU and paper/miniature fencing
+    systems. Corrected false 1975 and abstract-grid placeholder; stock 1108 identifies
+    original rules publication, not a required Chivalry & Sorcery expansion.
+- name: Monopoly - Paris
+  previous_catalog_year: 1948
+  year: 1948
+  yaml_id: monopoly-paris
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.worldofmonopoly.com/albert/france_-_classic_games.htm
+  - https://www.naturabuy.fr/MONOPOLY-Vintage-edition-1948--item-8976806.html
+  reason: Collector’s own inspected Miro set has first-quarter 1948 legal-deposit
+    rules; separate owned-set listing corroborates historical Miro French identity.
+    Selected represented rules edition, not a claim of exact box manufacture or first
+    French Monopoly release. Removed unsupported 2012 Hasbro/Winning Moves city-souvenir
+    blend and expansion relationship; original age/count labels unverified.
+- name: Le jeu des chaises musicales
+  previous_catalog_year: 1992
+  year: null
+  yaml_id: le-jeu-des-chaises-musicales
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.festivaldesjeux-cannes.com/media/documents/2026/HISTORIQUE-AS-DOR-2025-1988.pdf
+  - https://www.okkazeo.com/jeux/editeur/17/habourdin?after_id=2031&after_val=Guerres+secr%C3%A8tes
+  - https://quizotresor.com/content/397-les-chaises-musicales
+  reason: Identified French Habourdin game from official 1994 award history and independent
+    catalog, with Anthony J. Vadasz/Vadaz spelling difference. References disagree
+    1991 versus 1992; replaced unsupported 2000 with unknown year and kept explicit
+    CSV date conflict. Catalog supports 2–4 rather than guessed 3–8; original rules
+    and age label not inspected.
+  date_review: unresolved 1991/1992
+- name: Rubik's Flip
+  year: 1981
+  previous_yaml_id: rubiks-flip
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://thetoyinsider.com/rubiks-flip-game-review/
+  - https://dicetower.com/video/how-play-rubiks-flip-2-minutes-rules-girl
+  - https://www.macys.com/shop/product/rubiks-flip?ID=7263212
+  reason: Existing 1993/Ideal claim unsupported. Record now explicitly represents
+    independently documented University Games full-board version, with release year
+    unknown. Original 1981 row returned to pending; a separate undated University
+    Games row links the actual represented edition. Teaching guide requires a locked
+    line, not plain three-in-a-row; no unverified original designer/date transferred
+    from aggregators.
+- name: Rubik's Flip (University Games)
+  year: null
+  yaml_id: rubiks-flip
+  status: existing
+  catalog_action: added undated edition-specific row
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://thetoyinsider.com/rubiks-flip-game-review/
+  - https://dicetower.com/video/how-play-rubiks-flip-2-minutes-rules-girl
+  - https://www.macys.com/shop/product/rubiks-flip?ID=7263212
+  reason: Existing 1993/Ideal claim unsupported. Record now explicitly represents
+    independently documented University Games full-board version, with release year
+    unknown. Original 1981 row returned to pending; a separate undated University
+    Games row links the actual represented edition. Teaching guide requires a locked
+    line, not plain three-in-a-row; no unverified original designer/date transferred
+    from aggregators.

@@ -1,11 +1,11 @@
 id: historical-mystery-disappearance-in-the-sky
 name: "Historical Mystery: Disappearance in the Sky"
 alternate_names: []
-year: 2023  # Legacy date remains unverified; 2024 catalog availability is not first-publication proof.
+year: 2023  # Explicit release year on publisher-associated store, product 100705.
 
 # Relationships
 game_family: historical-mystery
-edition: "Russian Hobby World edition; first-publication year still under review"
+edition: "Russian Hobby World edition (2023), product 100705"
 base_game: null
 expansions: []
 compatible_with: []
@@ -50,6 +50,6 @@ max_playtime: 90
 min_age: 18
 
 description: |
-  Work together on a card-based investigation into a millionaire's disappearance from a plane and a later death. Spend a limited supply of actions examining places and questioning people, then compare your theory with the case solution. Expect careful reading, visual clues and discussion rather than a physical aviation game. This record follows the Russian-language product, labeled 18+ and 60–90 minutes; the English display title does not establish English retail availability. The first-publication date, preferred counts and experience estimates still need further review.
+  Work together on a card-based investigation into a millionaire's disappearance from a plane and a later death. Spend a limited supply of actions examining places and questioning people, then compare your theory with the case solution. Expect careful reading, visual clues and discussion rather than a physical aviation game. This record follows the Russian-language 2023 product, labeled 18+ and 60–90 minutes; the English display title does not establish English retail availability. Preferred counts and experience estimates remain provisional.
 
 upgrades: []

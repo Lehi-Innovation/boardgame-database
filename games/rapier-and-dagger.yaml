@@ -1,20 +1,20 @@
 id: rapier-and-dagger
 name: "Rapier & Dagger"
 alternate_names: []
-year: 1975
+year: 1978
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original Fantasy Games Unlimited rules booklet (1978), stock 1108"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 1  # Short
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Direct dueling contest.
 value: 1  # Budget
 
 affinity: null
@@ -23,7 +23,7 @@ hotness: null
 categories:
   - Wargame
   - Historical
-  - Abstract
+  - Role Playing
 
 evokes:
   - Tension
@@ -35,15 +35,17 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
-publisher: []
+designer:
+  - Wilf K. Backhaus
+publisher:
+  - Fantasy Games Unlimited
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 12
+playtime_minutes: 45  # Existing provisional duel estimate, not a published duration.
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Rapier & Dagger is a two-player abstract wargame simulating one-on-one dueling combat with Renaissance-era weapons. Players maneuver their fighters across a grid, making attacks and defensive moves with rapier and dagger in a tactical dance of range and initiative. The game captures the strategic complexity of historical European martial arts in a condensed board game format.
+  Resolve individual fencing encounters with rules that distinguish fighting styles and weapons. The booklet offers a paper-and-pencil system that needs no miniatures, plus a system for miniature figures. It is a set of swordplay rules rather than an abstract game guaranteed to include a particular grid or pieces. This record represents Wilf K. Backhaus's original 1978 Fantasy Games Unlimited publication. It covers a two-opponent duel; duration and experience estimates remain provisional, and the complete original rules were not inspected in this identity review.
 
 upgrades: []

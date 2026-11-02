@@ -11195,3 +11195,108 @@ entries:
       failed; no claim of inspecting original issue. Corroborates selected 1986 journal
       scope against unsupported 1982 CSV. Original age label not transferred from secondary
       infobox; fifteen-minute estimate remains provisional.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: lentokilpailu-peli
+    url: https://www.doria.fi/handle/10024/153010
+    description: Direct HTTP national-library record read via persistent URN redirect
+      after web cache miss. Explicit Helsinki, Osakeyhtiö Launis, 1909, separate from
+      2018 digitization; library says rules missing from its collection. Corrected unsupported
+      1935, publisher, original age/count/mechanism claims. Nominal time and experience
+      remain provisional.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: lentokilpailu-peli
+    url: https://www.doria.fi/bitstream/handle/10024/153010/pic_2018-03-23_062304.jpg?sequence=2&isAllowed=y
+    description: 'Downloaded and pixel-inspected actual library board photograph: looped
+      track, start/finish, numbered illustrated spaces, aircraft and aviators. No visible
+      printed rules or player-count/age claims inferred. Image used for research only;
+      no new active cover or provenance/use claim assigned to unrelated art.'
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: historical-mystery-the-witch
+    url: https://hobbygames.ru/istoricheskij-detektiv-vedma
+    description: Official publisher-associated store explicitly release year 2024, Hobby
+      World, product 148141; direct HTTP and web text read. Supplies missing release
+      metadata beyond copyright alone. Represented Russian edition now 2024; no English-localization
+      claim.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: historical-mystery-disappearance-in-the-sky
+    url: https://hobbygames.ru/istoricheskij-detektiv-ischeznovenie-v-nebe
+    description: Direct HTTP publisher-associated store explicitly release year 2023,
+      Hobby World, product 100705 after web timeout. Confirms retained original Russian
+      record year; corrected generic CSV 2024. Dates of current customer comments/videos
+      were not used as release evidence.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: rapier-and-dagger
+    url: https://www.space-opera.net/mirror/fgu/products3.htm
+    description: Archived FGU online catalog mirror explicitly original publication
+      1978, first edition, stock 1108, Wilf K. Backhaus and paper/miniature fencing
+      systems. Historical catalog identity used, not current rights/licensing status.
+      Corrected false 1975 and unsupported abstract-grid description; original full
+      rules not inspected.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: rapier-and-dagger
+    url: https://www.nobleknight.com/P/8787/Rapier-and-Dagger
+    description: Retailer’s own physical booklet inventory independently FGU, Wilf Backhaus,
+      1978 and separate paper-pencil/miniature modes. Corroborates original identity
+      and practical equipment. Does not establish original age or playtime; no exact
+      page count imported amid inconsistent references.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: monopoly-paris
+    url: https://www.worldofmonopoly.com/albert/france_-_classic_games.htm
+    description: Collector’s first-hand classic French set account explicitly Miro Company
+      Paris, rules legal deposit first quarter 1948; says physical set cannot be older
+      and may be younger. Selected 1948 rules edition without asserting first French
+      release or exact manufacturing date. Removed unsupported modern 2012/Winning Moves/Hasbro/Eiffel-landmark
+      blend; four tokens alone do not prove a maximum player count.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: monopoly-paris
+    url: https://www.naturabuy.fr/MONOPOLY-Vintage-edition-1948--item-8976806.html
+    description: Indexed separate owned-set sale identifies vintage 1948 Miro Company
+      Paris, French-made and breveté SGDG. Used only historical publisher/edition corroboration,
+      not precise manufacturing date or original rules/counts. Collector’s own inspected
+      rules account provides stronger date context.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: le-jeu-des-chaises-musicales
+    url: https://www.festivaldesjeux-cannes.com/media/documents/2026/HISTORIQUE-AS-DOR-2025-1988.pdf
+    description: Search-indexed official festival history lists 1994 Benjamin award
+      for Le Jeu des Chaises Musicales, Habourdin, Anthony J. Vadaz. PDF now returns
+      410; indexed original history used only identity/credit/award-year evidence. Award’s
+      4–7 category is not an inspected manufacturer age label or proof of publication
+      year.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: le-jeu-des-chaises-musicales
+    url: https://www.okkazeo.com/jeux/editeur/17/habourdin?after_id=2031&after_val=Guerres+secr%C3%A8tes
+    description: 'Search-indexed independent edition catalog text explicitly groups
+      Le Jeu Des Chaises Musicales with 2–4, 1991, Habourdin. Raw HTTP response was
+      empty, so no claim of reading unpublished listing details. Its 1991 differs from
+      secondary history’s 1992: publication year left unknown, CSV conflict retained.
+      Did not accidentally copy 1992 from following dictionary-game row.'
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: le-jeu-des-chaises-musicales
+    url: https://quizotresor.com/content/397-les-chaises-musicales
+    description: Secondary party-game seller history explicitly distinguishes Anthony
+      J. Vadasz’s 1992 bear-figure/cake game from traditional physical musical chairs.
+      Explains known tabletop concept and name spelling; not an original rulebook. Contrary
+      1991 reference remains unresolved; no guessed spinner/die or elimination rules
+      retained.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: rubiks-flip
+    url: https://thetoyinsider.com/rubiks-flip-game-review/
+    description: Independent October 2017 hands-on review explicitly University Games
+      full-board version, two-sided colored tiles, neighboring-space flips, two players.
+      Establishes available by 2017, not first-release year. Removed unsupported 1993/Ideal;
+      no claim of an original 1981 printing or designer credit.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: rubiks-flip
+    url: https://dicetower.com/video/how-play-rubiks-flip-2-minutes-rules-girl
+    description: Indexed original Rules Girl teaching guide explicitly University Games,
+      two players, four-by-four grid and winning locked line surrounded by tiles. Chose
+      precise locked-line condition over abbreviated marketing that merely says three-in-a-row.
+      Full video was not watched and direct page fetch later failed; indexed teaching
+      text read.
+  - timestamp: '2026-11-02T18:13:20Z'
+    game_id: rubiks-flip
+    url: https://www.macys.com/shop/product/rubiks-flip?ID=7263212
+    description: Retailer’s own University Games product listing explicitly two players,
+      7+, sixteen two-sided tiles. Supports represented edition age/counts; no release
+      year inferred from dynamic page-build dates. Original 1981 catalog reference remains
+      pending, with separate undated row for known University Games version.
