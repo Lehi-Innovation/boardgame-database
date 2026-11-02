@@ -2,11 +2,11 @@ id: rock-em-sock-em-robots
 name: "Rock 'Em Sock 'Em Robots"
 alternate_names:
   - Rock Em Sock Em Robots
-year: 1966
+year: 1964
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Louis Marx & Company game (1964); not later Mattel variants
 base_game: null
 expansions: []
 compatible_with: []
@@ -41,12 +41,21 @@ designer:
 publisher:
   - Marx Toys
 artist: []
-playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
-min_age: 6
+playtime_minutes: 10  # Provisional session estimate; no fixed match duration verified
+min_playtime: null
+max_playtime: null
+min_age: null  # Original Marx age label not verified; later Mattel 6+ is a different product
 
 description: |
-  Rock 'Em Sock 'Em Robots is a classic two-player dexterity toy-game first released by Marx Toys in 1966, designed by Marvin Glass and Burt Meyer of the famous design firm Marvin Glass and Associates. Players each control a plastic boxing robot — the Blue Bomber or the Red Rocker — using handles to make their robot punch, block, and maneuver, with the goal of landing an uppercut to pop their opponent's head off (knocking their block off). The game's enduring appeal led to its acquisition by Mattel and continued production into the 21st century. A genuine pop culture icon, Rock 'Em Sock 'Em Robots represents the quintessential two-player head-to-head dexterity contest.
+  Two players control opposing boxing robots and try to land a punch that makes
+  the rival's head pop up. The action happens through hand controls rather than
+  a sequence of card or board-game turns. Expect a brief contest of reactions
+  and repeated challenges; that experience assessment remains provisional.
+
+  This record represents the original Marx game. The Strong National Museum of
+  Play dates its original-game object to 1964, and Mattel's later history also
+  identifies 1964 as the starting year. Later products, including Knock or Block,
+  add rules such as a die; those features and their age labels are not assumed
+  to describe this original version.
 
 upgrades: []

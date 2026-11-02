@@ -1,18 +1,18 @@
 id: thats-life
 name: "That's Life!"
 alternate_names: ["Verflixxt!"]
-year: 2004
+year: 2005
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Ravensburger game (2005); distinct from the 2020 AMIGO relaunch
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
+rules_complexity: 1  # Provisional: basic movement with tile, guard and conversion rules
 strategic_depth: 1  # Light
 feel: 2  # Moderate
 value: 1  # Budget
@@ -35,8 +35,8 @@ evokes:
   - Rivalry
   - Agency
 
-possible_counts: [2, 3, 4, 5]
-true_counts: [3, 4]
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]  # Provisional preferred counts, not a publisher recommendation
 
 designer:
   - Wolfgang Kramer
@@ -45,9 +45,9 @@ publisher:
   - Ravensburger
   - Rio Grande Games
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
+playtime_minutes: 30
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |

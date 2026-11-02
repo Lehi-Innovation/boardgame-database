@@ -404,3 +404,105 @@ decisions:
     its historical year to force a match. Existing Giganten (1999) row still matches
     the corrected oil-game record. Corrected false Stefan Dorra/Goldsieber credits,
     two-player support and main-award winner claim in that record.
+- name: Présages
+  year: 2025
+  yaml_id: presages
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://lemeeplejaune.fr/2025/03/14/presages/
+  reason: Corrected record 2024 to original March 2025 publication from independent
+    original play review, which explicitly distinguishes a 2024 festival encounter.
+    Publisher confirms competing teams, 4–6, 10+, thirty minutes. Removed false universally
+    cooperative premise, two/three-player support, drafting tag and unverified award
+    assertions. Preferred even-team sizes are provisional.
+- name: 'Oriflamme: Ablaze'
+  year: 2020
+  yaml_id: oriflamme-ablaze
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.spelonk.be/oriflamme-ablaze
+  reason: Retailer English-product first-publication metadata gives 2020, corroborated
+    by French retail release 6 November 2020 in indexed text. Publisher/distributor
+    confirms independent play and optional combination; record now scopes original
+    standalone set rather than requiring a base game. Corrected record 2021; note
+    current French/UK timing and character-count wording differences rather than silently
+    mixing them.
+- name: 'Mind MGMT: The Psychic Espionage Game'
+  year: 2021
+  yaml_id: mind-mgmt
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://opinionatedgamers.com/2021/12/21/dale-yu-review-of-mind-mgmt/
+  reason: Contemporaneous December 2021 finished-copy review establishes availability
+    before the erroneous record 2022; independent later original review explicitly
+    gives release 2021. Publisher confirms both designers, Matt Kindt art, 1–5, 13+,
+    nominal sixty minutes and app-based solo/cooperative support. Preferred group
+    sizes remain a provisional view, not reviewer consensus.
+- name: 'Masters of Crime: Shadows'
+  year: 2023
+  previous_yaml_id: masters-of-crime-shadows
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: https://thamesandkosmos.com/collections/masters-of-crime/products/masters-of-crime-shadows
+  reason: Unqualified 2023 discovery date is not verified by the consulted English
+    publisher evidence. Clear old mapping to the specifically represented 2024 Thames
+    & Kosmos English product instead of rewriting this historical date. Separate sourced
+    2024 English catalog row added; original-language release still needs suitable
+    evidence.
+- name: 'Masters of Crime: Shadows'
+  year: 2024
+  edition: Thames & Kosmos English, SKU 683826
+  yaml_id: masters-of-crime-shadows
+  status: existing
+  catalog_action: added separate English-edition row
+  reviewed_on: '2026-11-02'
+  basis: https://cdn.asp.events/CLIENT_Ascentia_4E961A52_5056_B739_54289B84DF34E888/sites/autumn-fair-2023/media/libraries/exhibitor-catalogues/386111-Thames-Kosmos-2024-GAMES-low-res-compressed.pdf
+  reason: 2024 publisher catalog marks this English SKU NEW and specifies 1–5, 16+,
+    2–4 hours. Record explicitly scopes that edition; no original-world publication
+    year inferred from the English date. Conflicting 1–6 marketing retained as uncertainty.
+- name: Rock Em Sock Em Robots
+  previous_catalog_year: 1964
+  year: 1964
+  yaml_id: rock-em-sock-em-robots
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://artsandculture.google.com/asset/rock-em-sock-em-robots-game-louis-marx-company/ogHRkr3QA8nXwg?hl=en
+  reason: The Strong Museum object 119.287 explicitly dates original Marx game to
+    1964, corroborated by current Mattel product history. Corrected unsupported detailed-record
+    1966. Original Marx age label not established; later Knock or Block (2022) six-plus/die
+    rules are not merged into original.
+- name: Save Doctor Lucky
+  previous_catalog_year: 2000
+  year: 2000
+  yaml_id: save-doctor-lucky
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://crabfragmentlabs.com/shop/p/save-doctor-lucky
+  reason: 'Designer’s own archive explicitly release 2000, James Ernest/Damon Brown,
+    3–7 and forty minutes. Corrected record 2004, unsupported 2/8-player support and
+    false rescue-in-secret rule: a winning rescue needs a witness. Shared-loss deadline
+    does not make victory cooperative.'
+- name: That's Life!
+  previous_catalog_year: 2005
+  year: 2005
+  yaml_id: thats-life
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.vindjeu.eu/prd/2010/02/21/thats-life/
+  reason: Independent original play review explicitly dates Ravensburger original
+    to 2005; jury confirms 2–6, eight-plus, thirty minutes and distinguishes 2020
+    AMIGO relaunch. Corrected record 2004, omitted sixth player and unsupported duration
+    bounds.
+- name: Western Legends
+  previous_catalog_year: 2020
+  year: 2018
+  yaml_id: western-legends
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://geekdad.com/2022/03/kickstarter-tabletop-alert-western-legends-the-big-box-stores-everything-in-one-container/
+  reason: Independent retrospective explicitly states initial game crowdfunded AND
+    shipped in 2018, corroborated by independent rules reference publication 2018.
+    Generic CSV row has no later-edition qualifier; selects original base game. Removed
+    unsupported universal quality claim; base-game timing 60–90 minutes is distinct
+    from expansion content.

@@ -1,11 +1,11 @@
 id: save-doctor-lucky
 name: "Save Doctor Lucky"
 alternate_names: []
-year: 2004
+year: 2000
 
 # Relationships
 game_family: kill-doctor-lucky
-edition: null
+edition: Original Cheapass game (2000); designer archive provides a mostly-original PnP
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,14 +14,13 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
-feel: 1  # Light (semi-cooperative)
+feel: 4  # Provisional: rival rescuers sabotage each other despite a shared-loss ending
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
-  - Cooperative
   - Hand Management
   - Take That
   - Party
@@ -36,20 +35,28 @@ evokes:
   - Connection
   - Lucky
 
-possible_counts: [2, 3, 4, 5, 6, 7, 8]
-true_counts: [4, 5, 6]
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]  # Provisional preferred counts, not a designer recommendation
 
 designer:
   - James Ernest
 publisher:
   - Cheapass Games
-artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
-min_age: 10
+artist:
+  - Damon Brown
+playtime_minutes: 40
+min_playtime: null
+max_playtime: null
+min_age: null  # Designer archive gives no minimum-age specification
 
 description: |
-  Save Doctor Lucky is a prequel to the beloved Cheapass Games title Kill Doctor Lucky, designed by James Ernest, set aboard the RMS Titanic as it sinks into the icy Atlantic. Rather than trying to murder the eccentric Doctor Lucky, players must now save his life — but only when nobody else is watching. The ship has a built-in timer: as cards are drawn from each deck, that portion of the ship sinks and becomes inaccessible, creating urgency and shrinking the playing field. Players sabotage each other's rescue attempts while trying to be the hero who saves the Doctor, delivering the same sharp humor and clever card play as its predecessor in a compact semi-cooperative package.
+  Everyone wants to be remembered as the person who rescued Doctor Lucky from a
+  sinking ocean liner. To attempt the winning rescue, another player must be
+  watching. Rival rescuers can interfere, but disappearing decks crowd everyone
+  together as the ship sinks. If the last deck goes under, everyone loses.
+
+  This is a competitive prequel to Kill Doctor Lucky, with a shared deadline
+  rather than a shared victory. Expect comic obstruction and increasingly tight
+  positioning; that experience assessment and the preferred counts are provisional.
 
 upgrades: []

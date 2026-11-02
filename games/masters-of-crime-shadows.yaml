@@ -5,7 +5,7 @@ year: 2024
 
 # Relationships
 game_family: "masters-of-crime"
-edition: null
+edition: Thames & Kosmos English edition (2024), SKU 683826
 base_game: null
 expansions: []
 compatible_with: []
@@ -34,8 +34,8 @@ evokes:
   - Clever
   - Connection
 
-possible_counts: [1, 2, 3, 4, 5, 6]
-true_counts: [2, 3, 4]
+possible_counts: [1, 2, 3, 4, 5]  # English 2024 publisher catalog; marketing text also says 1–6
+true_counts: [2, 3, 4]  # Provisional preferred group sizes, not a publisher recommendation
 
 designer:
   - Lukas Setzke
@@ -44,7 +44,7 @@ designer:
 publisher:
   - Thames & Kosmos
 artist: []
-playtime_minutes: 180
+playtime_minutes: 180  # Provisional nominal estimate within publisher's 120–240-minute range
 min_playtime: 120
 max_playtime: 240
 min_age: 16

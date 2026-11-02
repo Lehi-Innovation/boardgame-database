@@ -37,6 +37,13 @@ The jury confirms 2–4, 6+ and about ten minutes; the independent Luding catalo
 distinguishes its 1996 publication from the 1997 children’s award. This adds a
 more accurate children’s-game option without creating a duplicate record.
 
+Further targeted review distinguishes team competition in Présages from universal
+cooperation, and competitive rescue attempts in Save Doctor Lucky from a shared
+victory. The latter needs a witness to see the rescue. MIND MGMT now includes the
+publisher’s app-based solo/cooperative support, and original That’s Life! includes
+the supported sixth player. These factual corrections improve discovery filters;
+preferred counts and experience judgments remain provisional.
+
 ## Experience vocabulary
 
 Three schema-defined starting points now connect ordinary intentions to current

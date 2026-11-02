@@ -2316,7 +2316,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Orgy,,boardgame,,,
 2363,Orient Express,,boardgame,,,
 287084,Oriflamme,2019,boardgame,,,
-313261,Oriflamme: Ablaze,2020,boardgame,,,oriflamme-ablaze
+313261,Oriflamme: Ablaze,2020,boardgame,,"2026-11-02: Retailer English-product first-publication metadata gives 2020, corroborated by French retail release 6 November 2020 in indexed text. Publisher/distributor confirms independent play and optional combination; record now scopes original standalone set rather than requiring a base game. Corrected record 2021; note current French/UK timing and character-count wording differences rather than silently mixing them.",oriflamme-ablaze
 352981,Oriflamme: Alliance,2022,boardgame,,,oriflamme-alliance
 127095,Origin,,boardgame,,,
 ,Origin Story,2025,boardgame,,,
@@ -2486,7 +2486,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 8095,Prophecy,,boardgame,,,
 2211,Proteus,,boardgame,,,
 12570,Provopoli,,boardgame,,,
-428787,Présages,2025,boardgame,,,presages
+428787,Présages,2025,boardgame,,"2026-11-02: Corrected record 2024 to original March 2025 publication from independent original play review, which explicitly distinguishes a 2024 festival encounter. Publisher confirms competing teams, 4–6, 10+, thirty minutes. Removed false universally cooperative premise, two/three-player support, drafting tag and unverified award assertions. Preferred even-team sizes are provisional.",presages
 3228,Pueblo,2002,boardgame,,,
 ,Puerto Rico,2002,boardgame,,,
 126005,Punaisten ja valkoisten taistelu Suomessa 1918,1918,boardgame,,,
@@ -2680,7 +2680,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 368352,Satori,2023,boardgame,,,
 4518,Sauerbaum,1986,boardgame,,,
 1330,Savannah Café,2001,boardgame,,,savannah-cafe
-1157,Save Doctor Lucky,2000,boardgame,,,save-doctor-lucky
+1157,Save Doctor Lucky,2000,boardgame,,"2026-11-02: Designer’s own archive explicitly release 2000, James Ernest/Damon Brown, 3–7 and forty minutes. Corrected record 2004, unsupported 2/8-player support and false rescue-in-secret rule: a winning rescue needs a witness. Shared-loss deadline does not make victory cooperative.",save-doctor-lucky
 ,Save the President,,boardgame,,,
 369142,Savernake Forest,2023,boardgame,,,
 33604,Say Anything,,boardgame,,,
@@ -3104,7 +3104,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Test of Arms,,boardgame,,,
 26993,Teufelsrad,,boardgame,,,
 85287,Thai checkers,,boardgame,,,
-17240,That's Life!,2005,boardgame,,,thats-life
+17240,That's Life!,2005,boardgame,,"2026-11-02: Independent original play review explicitly dates Ravensburger original to 2005; jury confirms 2–6, eight-plus, thirty minutes and distinguishes 2020 AMIGO relaunch. Corrected record 2004, omitted sixth player and unsupported duration bounds.",thats-life
 38359,The 3 Commandments,,boardgame,,,
 180263,The 7th Continent,,boardgame,,,
 43868,The Adventurers: The Temple of Chac,,boardgame,,,
@@ -3628,7 +3628,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 13804,Wellington in the Peninsula,1975,boardgame,,,wellington-in-the-peninsula
 925,Werewolf,,boardgame,,,werewolf
 219215,Werewords,,boardgame,,,werewords
-313924,Western Legends,2020,boardgame,,,western-legends
+313924,Western Legends,2018,boardgame,,"2026-11-02: Independent retrospective explicitly states initial game crowdfunded AND shipped in 2018, corroborated by independent rules reference publication 2018. Generic CSV row has no later-edition qualifier; selects original base game. Removed unsupported universal quality claim; base-game timing 60–90 minutes is distinct from expansion content.",western-legends
 9416,Westminster: The Election Game,,boardgame,,,westminster-the-election-game
 ,Westwall: Four Battles to Germany,,boardgame,,,westwall
 2667,What Were You Thinking?,1998,boardgame,,,what-were-you-thinking
@@ -3790,7 +3790,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Heroscape Age of Annihilation,2024,boardgame,,,
 ,Kurt Vonnegut's GHQ,2024,boardgame,,,ghq
 ,Masters of Crime: Vendetta,2024,boardgame,,,masters-of-crime-vendetta
-,Masters of Crime: Shadows,2023,boardgame,,,masters-of-crime-shadows
+,Masters of Crime: Shadows,2023,boardgame,,2026-11-02: Unqualified 2023 discovery date is not verified by the consulted English publisher evidence. Clear old mapping to the specifically represented 2024 Thames & Kosmos English product instead of rewriting this historical date. Separate sourced 2024 English catalog row added; original-language release still needs suitable evidence.,
 ,Agatha Christie: Death on the Cards,2018,boardgame,,,
 ,Choose Your Own Adventure: House of Danger,2018,boardgame,,,
 ,Disney Hocus Pocus,2020,boardgame,,,
@@ -3814,7 +3814,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Century: Golem Edition,2017,boardgame,,,
 ,QE,2019,boardgame,,,
 ,MicroMacro: Crime City,2020,boardgame,,,micromacro-crime-city
-,Mind MGMT: The Psychic Espionage Game,2021,boardgame,,,mind-mgmt
+,Mind MGMT: The Psychic Espionage Game,2021,boardgame,,"2026-11-02: Contemporaneous December 2021 finished-copy review establishes availability before the erroneous record 2022; independent later original review explicitly gives release 2021. Publisher confirms both designers, Matt Kindt art, 1–5, 13+, nominal sixty minutes and app-based solo/cooperative support. Preferred group sizes remain a provisional view, not reviewer consensus.",mind-mgmt
 ,Imperium: Classics,2021,boardgame,,,imperium-classics
 ,Stardew Valley: The Board Game,2021,boardgame,,,
 ,Praga Caput Regni,2020,boardgame,,,
@@ -3870,7 +3870,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Chameleon,2017,boardgame,,,the-chameleon-2017
 ,Hedbanz,1991,boardgame,,,
 ,Herd Mentality,2019,boardgame,,,
-,Rock Em Sock Em Robots,1964,boardgame,,,rock-em-sock-em-robots
+,Rock Em Sock Em Robots,1964,boardgame,,"2026-11-02: The Strong Museum object 119.287 explicitly dates original Marx game to 1964, corroborated by current Mattel product history. Corrected unsupported detailed-record 1966. Original Marx age label not established; later Knock or Block (2022) six-plus/die rules are not merged into original.",rock-em-sock-em-robots
 ,Simon,1978,boardgame,,,
 ,Skip-Bo,1967,boardgame,,,
 ,Tapple,2012,boardgame,,,
@@ -4244,3 +4244,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,878 Vikings: Invasions of England,2017,boardgame,,Added from independent publisher/rules research on 2026-11-01.,878-vikings-invasions-of-england
 ,Clank! Legacy: Acquisitions Incorporated,2019,boardgame,,Added from independent publisher/rules research on 2026-11-01.,clank-legacy-acquisitions-incorporated
 ,Hoity Toity,2004,boardgame,,"Identity review 2026-11-02: distinct Uberplay English edition, first to use this title; preserve original 1990 game separately.",hoity-toity
+,Masters of Crime: Shadows,2024,boardgame,,"2026-11-02: English Thames & Kosmos edition, SKU 683826; publisher 2024 catalog marks NEW, 1–5, age 16+, 2–4 hours. Generic 2023 discovery row retained separately pending research. Publisher marketing also says 1–6; chosen counts follow the edition-specific catalog specification.",masters-of-crime-shadows

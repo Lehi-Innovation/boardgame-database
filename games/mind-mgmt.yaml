@@ -1,11 +1,11 @@
 id: mind-mgmt
 name: "Mind MGMT: The Psychic Espionage Game"
 alternate_names: ['Mind MGMT: The Psychic Espionage "Game."']
-year: 2022
+year: 2021
 
 # Relationships
 game_family: null
-edition: null
+edition: Original game (2021); physical production varies by retail/deluxe printing
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4  # Provisional: one hidden recruiter opposes the cooperating agents
 value: 3  # Premium
 
 affinity: null
@@ -34,20 +34,32 @@ evokes:
   - Agency
   - Clever
 
-possible_counts: [2, 3, 4, 5]
-true_counts: [3, 4]
+possible_counts: [1, 2, 3, 4, 5]  # Solo/fully cooperative mode uses the companion app
+true_counts: [3, 4]  # Provisional team preference; one consulted reviewer prefers two
 
 designer:
   - Jay Cormier
+  - Sen-Foong Lim
 publisher:
   - Off the Page Games
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 14
+artist:
+  - Matt Kindt
+playtime_minutes: 60
+min_playtime: null
+max_playtime: null
+min_age: 13
 
 description: |
-  Mind MGMT: The Psychic Espionage Game is a one-versus-many hidden movement game by Jay Cormier, published by Off the Page Games in 2022 and based on Matt Kindt's graphic novel series. One player acts as the Recruiter, moving secretly behind a screen trying to visit locations matching their feature cards while deploying Immortals to protect key sites; the other players work cooperatively as rogue agents, using dry-erase mental notes to deduce the Recruiter's whereabouts by asking questions and interpreting cryptic answers. The game won multiple awards for innovation and delivers a tense cat-and-mouse experience that feels unlike other hidden movement games.
+  A recruiter travels secretly through Zanzibar while rogue agents try to work
+  out the route and make a capture. The recruiter seeks new members for a psychic
+  espionage organization; the agents share clues and deductions to stop it.
+  Fourteen sealed packages add material that changes later games.
+
+  The usual game pits one person against a team. The publisher also offers solo
+  and fully cooperative play using a companion app. Expect a sustained chase
+  with different information and responsibilities on each side; that experience
+  assessment and the suggested group sizes remain provisional. The game is based
+  on Matt Kindt's comic series and was already being reviewed in finished form
+  in December 2021.
 
 upgrades: []

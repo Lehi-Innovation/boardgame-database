@@ -10632,3 +10632,148 @@ entries:
       2011 GMT deluxe from 2008 Victory Point No Retreat! plus Na Berlin!/No Surrender!
       expansions. Record now scopes GMT 2011; provisional ratings/durations not certified
       by this date review.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: presages
+    url: https://www.spiraleditions.com/jeux/presages/
+    description: Publisher product page explicitly describes opposing teams, 4–6, 10+,
+      nominal thirty minutes, Maxime Rambourg and Ben Renaut. Card effects change discards;
+      one player reaching one card ends the round for their team. Corrected false universally
+      cooperative premise and unsupported counts/drafting. Preferred even-team sizes/experience
+      remain provisional. Linked 10.7MB rules PDF downloaded but text extraction produced
+      no readable rules, so this correction relies on the readable product page, not
+      a claimed full rulebook review.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: presages
+    url: https://lemeeplejaune.fr/2025/03/14/presages/
+    description: Independent original play review dated March 14, 2025 explicitly specifies
+      March 2025 release and distinguishes the writer’s 2024 Vichy festival encounter.
+      Corrected record year; metadata corroborates 4–6, 10+, thirty minutes. No claim
+      of universally preferred group size or award win adopted.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: oriflamme-ablaze
+    url: https://www.gigamic.com/jeux-de-bluff/619-oriflamme-embrasement-3616450005228.html
+    description: Original French distributor product confirms Studio H, Adrien/Axel
+      Hesling, Tomasz Jedruszek, 3–5, 10+, twenty minutes and independent play with
+      optional combination. Text says ten new characters while box inventory says 55
+      cards; description avoids conflating number of new characters with all cards.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: oriflamme-ablaze
+    url: https://www.spelonk.be/oriflamme-ablaze
+    description: Retailer English-product specifications explicitly first publication
+      2020, EAN 3616450005273, 3/4/5, 10+, twenty minutes; turn-by-turn hidden-card
+      placement, not simultaneous action. Used factual product metadata, not displayed
+      BGG ranks/scores (none populated). Separate French Play-In indexed product text
+      gives release November 6, 2020; direct fetch unavailable.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: oriflamme-ablaze
+    url: https://shop.hachetteboardgames.co.uk/products/oriflamme-ablaze
+    description: Current UK distributor corroborates both designers and Tomasz Jedruszek,
+      independent/compatible play, three to five and ten-plus. Current timing says thirty
+      minutes and describes eleven cards per family; do not silently replace represented
+      original French twenty-minute specification or claim eleven new characters.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: mind-mgmt
+    url: https://offthepagegames.com/mind-mgmt/
+    description: Publisher confirms Jay Cormier AND Sen-Foong Lim, Matt Kindt art, 1–5,
+      age 13+, sixty minutes, fourteen unlockable packages and companion-app solo/cooperative
+      mode. Corrected missing co-designer/artist, unsupported solo exclusion and age
+      14+. Actual app installation/current store operation not tested.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: mind-mgmt
+    url: https://offthepagegames.com/wp-content/uploads/2021/03/MIND-MGMT-Sell-Sheet-Dec12.pdf
+    description: 'Publisher sell sheet directly retrieved: same designers/art, 1–5,
+      13+, sixty minutes, SKU OTPG001 and app-based variants. Search-indexed June-2021
+      URL contained literal ellipsis and returned 404, so it was not treated as a successfully
+      retrieved document or release-date proof.'
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: mind-mgmt
+    url: https://opinionatedgamers.com/2021/12/21/dale-yu-review-of-mind-mgmt/
+    description: Independent original December 21, 2021 review explicitly uses a publisher-provided
+      finished review copy and describes actual plays; confirms game available before
+      record’s false 2022. Reviewer personally prefers two and discusses app variants;
+      retained existing three/four preference only as provisional, not consensus.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: mind-mgmt
+    url: https://boardgamebreakdown.com/mind-mgmt-review/
+    description: Independent original play review dated April 28, 2023 explicitly labels
+      year of release 2021. Corroborates correction alongside contemporaneous 2021 review
+      and publisher specs. BGG-attributed weight is present but was not imported or
+      used.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: masters-of-crime-shadows
+    url: https://thamesandkosmos.com/collections/masters-of-crime/products/masters-of-crime-shadows
+    description: Search-indexed official English product details explicitly year released
+      2024, SKU 683826, authors, 16+, 120–240 minutes, spec 1–5 but marketing 1–6. Current
+      readable HTML omits the details and direct product JSON returned 429; do not claim
+      live detail retrieval or infer original German publication. Scoped record as English
+      2024 and preserved uncertain 2023 CSV row separately.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: masters-of-crime-shadows
+    url: https://cdn.asp.events/CLIENT_Ascentia_4E961A52_5056_B739_54289B84DF34E888/sites/autumn-fair-2023/media/libraries/exhibitor-catalogues/386111-Thames-Kosmos-2024-GAMES-low-res-compressed.pdf
+    description: Publisher English 2024 catalog supplied to trade-show host, directly
+      downloaded and read with PDF extraction after web tool size limit. Shadows SKU
+      683826 marked NEW, 16+, authors Lukas Setzke/Martin Student/Verena Wiechens, 1–5,
+      2–4 hours. Selected edition-specific five-player maximum; conflicting marketing
+      six-player claim remains documented.
+  - timestamp: '2026-11-02T16:35:41Z'
+    game_id: masters-of-crime-shadows
+    url: https://www.thamesandkosmos.co.uk/product/masters-of-crime-shadows/
+    description: Current UK publisher page confirms English Amsterdam-gallery heist
+      premise, real-world investigation and 16+ but does not expose player count in
+      retrieved text. Kept existing premise; did not claim this page independently dates
+      original-language publication.
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: rock-em-sock-em-robots
+    url: https://artsandculture.google.com/asset/rock-em-sock-em-robots-game-louis-marx-company/ogHRkr3QA8nXwg?hl=en
+    description: 'The Strong National Museum of Play collection object 119.287: Louis
+      Marx & Company, date created 1964, gift Bill Paxton. Corrected original-game year
+      1966 to 1964; no original minimum-age or fixed match duration established. Specific
+      individual design credits were not newly verified by this object entry.'
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: rock-em-sock-em-robots
+    url: https://m.service.mattel.com/us/Technical/productDetail?prodno=HDN94&siteid=27
+    description: Manufacturer consumer-support history explicitly says Rock’Em Sock’Em
+      Robots since 1964. Actual product is distinct 2022 Knock or Block HDN94 with die
+      and six-plus label; did not transfer those edition-specific features/age to 1964
+      Marx record. Current product history corroborates museum date, not original box
+      specifications.
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: save-doctor-lucky
+    url: https://crabfragmentlabs.com/shop/p/save-doctor-lucky
+    description: Designer James Ernest’s archive explicitly release year 2000, artist
+      Damon Brown, 3–7, forty minutes; mostly-original PnP. Actual rule requires a witness,
+      contrary to old record. Decks disappear as ship sinks and all lose if final deck
+      disappears; rival rescuers still compete for individual victory. Original minimum
+      age not supplied; removed unsupported Titanic naming and marked experience/preferred
+      counts provisional.
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: thats-life
+    url: https://www.vindjeu.eu/prd/2010/02/21/thats-life/
+    description: Independent original play review dated February 21, 2010 explicitly
+      publication 2005, Ravensburger, Kramer/Kiesling and 2–6. Direct HTTP retrieval
+      succeeded after indexed web fetch cache miss. Review describes tile collection,
+      neutral guards and positive/negative conversion. Corrected detailed-record 2004;
+      no modern relaunch mixed in.
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: thats-life
+    url: https://www.spiel-des-jahres.de/spiele/verflixxt/
+    description: Official jury confirms original Ravensburger designers Kramer/Kiesling,
+      2–6, 8+, thirty minutes and tile/timing puzzle, explicitly distinguishes AMIGO
+      2020 relaunch. Corrected missing sixth player and nominal duration; existing preferred
+      3/4 and learnability rating remain provisional, not jury consensus.
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: western-legends
+    url: https://geekdad.com/2022/03/kickstarter-tabletop-alert-western-legends-the-big-box-stores-everything-in-one-container/
+    description: Independent Michael Knight retrospective explicitly says base game
+      funded and shipped in 2018, distinguishing later Big Box campaign. Confirms base
+      2–6, 14+, 60–90 minutes, Hervé Lemaître, Kolossal, Roland MacDonald. Used base-game
+      history/specifications, not unshipped Big Box prototype components; corrected
+      generic CSV 2020.
+  - timestamp: '2026-11-02T16:40:32Z'
+    game_id: western-legends
+    url: https://www.orderofgamers.com/games/western-legends/
+    description: Independent rules reference explicitly publication 2018, designer Hervé
+      Lemaître, artist Roland MacDonald, Kolossal, 2–6, 14+, 60–90 minutes. 2020 date
+      on helper-sheet release is not the game’s publication date. Publisher rules landing
+      page located; linked living-rulebook PDF failed web retrieval and was not claimed
+      as a successfully read source.
