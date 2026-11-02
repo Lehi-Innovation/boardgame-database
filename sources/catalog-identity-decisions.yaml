@@ -263,3 +263,26 @@ decisions:
     from shipment and availability in 2022. Corrected detailed-record year to 2022;
     publisher independently confirms 1–8, 25 minutes, 14+. Unsupported time bounds
     removed.
+- name: Mū Tōrere
+  yaml_id: mu-torere
+  previous_status: failed
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://ludii.games/details.php?keyword=Mu+Torere
+  - https://ludii.games/data.php?variantId=2017
+  reason: Reopened historical traditional-game exclusion; added independently sourced
+    record. Manufactured packaging is not an inclusion requirement. Unknown publication/age
+    facts remain null.
+- name: Nine Men's Morris
+  yaml_id: nine-mens-morris
+  previous_status: failed
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamescrafters.berkeley.edu/games.php?game=ninemensmorris
+  - https://www.historymuseumofmobile.com/uploads/NineMensMorrisGame.pdf
+  - https://www.nine-mens-morris.net/manual.html
+  reason: Reopened historical traditional-game exclusion; added independently sourced
+    record. Manufactured packaging is not an inclusion requirement. Unknown publication/age
+    facts remain null.

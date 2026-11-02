@@ -10367,3 +10367,38 @@ entries:
     description: 'Additional primary corroboration: publisher game chronology explicitly
       lists Lacuna 2023 with Mark Gerrits. Confirms date previously corrected from independent
       release review.'
+  - timestamp: '2026-11-02T14:58:56.489617Z'
+    game_id: mu-torere
+    url: https://ludii.games/details.php?keyword=Mu+Torere
+    description: Digital Ludeme Project identifies Māori/New Zealand traditional blocking
+      game, two sets of four counters, eight outer points and centre; age explicitly
+      unknown. Multiple central-entry rulesets are documented. No publication date,
+      designer, box age or publisher inferred.
+  - timestamp: '2026-11-02T14:58:56.489617Z'
+    game_id: mu-torere
+    url: https://ludii.games/data.php?variantId=2017
+    description: Ethnographic evidence transcribes Best’s account and identifies 1912
+      testimony from East Cape, not a publication/invention date. Confirms two players,
+      four counters each, adjacent movement, no jumping/captures and immobilization
+      goal. Evidence summary and displayed default rules differ on central entry; record
+      explicitly notes variants.
+  - timestamp: '2026-11-02T14:58:56.489617Z'
+    game_id: nine-mens-morris
+    url: https://gamescrafters.berkeley.edu/games.php?game=ninemensmorris
+    description: UC Berkeley GamesCrafters rules confirm 24 points, nine counters per
+      player, placement then adjacent movement, mills/capture and immobilization/two-counter
+      loss. Describes flying at three counters. No exact antiquity claim or publication
+      date adopted.
+  - timestamp: '2026-11-02T14:58:56.489617Z'
+    game_id: nine-mens-morris
+    url: https://www.historymuseumofmobile.com/uploads/NineMensMorrisGame.pdf
+    description: Museum’s original printable activity confirms two players, nine pieces
+      each, placement/movement and removal after a line of three. Supports accessible
+      improvised-board coverage, not a manufactured-product requirement. Its simplified
+      wording is not treated as the only ruleset.
+  - timestamp: '2026-11-02T14:58:56.489617Z'
+    game_id: nine-mens-morris
+    url: https://www.nine-mens-morris.net/manual.html
+    description: Original game implementation manual explains placement, adjacent movement
+      and flying, and explicitly documents versions omitting flying. Record distinguishes
+      that optional rule rather than silently merging all variants.

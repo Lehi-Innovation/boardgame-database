@@ -17,11 +17,19 @@ and precise limitations are recorded in `sources/research-log.yaml`.
 
 Follow-up identity research also corrected Das Bohnenspiel to a traditional two-player mancala, separated the 1990 Adel Verpflichtet and 2004 Hoity Toity editions, and distinguished several publication dates from award dates. These consulted sources and their limits are recorded separately in the evidence log and identity decisions.
 
-Two additional researched records close concrete gaps: original 878 Vikings resolves
+Additional researched records close concrete gaps: original 878 Vikings resolves
 the missing historical evidence ID, and original Clank! Legacy adds a sourced campaign
 game. Subsequent pixel inspection found that its apparent cover actually represented
 the sequel; the misnamed asset is quarantined. Experience ratings, evokes, and suggested counts
 remain provisional estimates. Unknown first-edition facts remain unknown.
+
+The exclusion review added Mū Tōrere and Nine Men's Morris on 2026-11-02 from
+Digital Ludeme Project, museum and independent rules evidence. Their old failed
+notes treated traditional status or lack of manufactured packaging as a barrier.
+Traditional games are explicitly within scope. Both now have separate records,
+two-player counts, explained rule variants, unknown publication/age fields and
+provisional duration/experience estimates. The original exclusion reasons remain
+in CSV notes and the dated decision record.
 
 ## Experience vocabulary
 

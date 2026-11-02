@@ -8,6 +8,8 @@ A requested game can be added whether or not it appears in a source list. `maste
 
 Check existing IDs, primary names, alternate names, and editions before creating a record. Confirm whether the request means a base game, expansion, reimplementation, or particular edition. Reuse the existing record when it is the same game; do not collapse distinct editions merely because a title matches.
 
+Traditional games do not need manufactured packaging or a single publisher to qualify. Museum, cultural, education and research sources can establish identity and rules. Keep uncertain origin dates and universal minimum ages unknown, and explain meaningful rule variants. Historical `failed` notes are earlier research outcomes, not permanent scope decisions; reopen them when suitable evidence is found.
+
 Use a lowercase hyphenated slug matching `games/{slug}.yaml`. Use the publication year of the represented edition. Shared families describe related games; `compatible_with` describes actual combinability, not merely a shared theme.
 
 ## Gather evidence

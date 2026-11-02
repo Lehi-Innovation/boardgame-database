@@ -1,0 +1,47 @@
+# Research: 2026-11-02; sources/research-log.yaml.
+# Ratings, evokes and nominal duration are provisional estimates.
+# Traditional game: no single publication year, publisher or minimum age established.
+id: mu-torere
+name: Mū Tōrere
+alternate_names:
+  - Mu Torere
+  - Mu-Torere
+year: null
+game_family: null
+edition: Traditional game; central-entry rules vary
+base_game: null
+expansions: []
+compatible_with: []
+length: 0
+rules_complexity: 1
+strategic_depth: 2
+feel: 4
+value: 0
+affinity: null
+hotness: null
+categories:
+  - Abstract
+  - Traditional
+evokes:
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+possible_counts:
+  - 2
+true_counts:
+  - 2
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: null
+max_playtime: null
+min_age: null
+description: |-
+  Two players move four counters each around eight outer points and an empty centre, trying to leave the opponent without a legal move. There are no captures or jumps: the puzzle is about keeping an escape route while closing the other player’s options. A drawn board and two sets of four distinguishable counters are enough. This Māori game is documented from New Zealand’s East Cape; its age is uncertain. Sources record different restrictions on entering the centre, so agree on that rule before starting.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []
