@@ -2,20 +2,20 @@ id: husch-husch-kleine-hexe
 name: "Husch Husch kleine Hexe"
 alternate_names:
   - "Rush Rush Little Witch"
-year: 1993
+year: 1994  # Original F.X. Schmid edition in the archived rules translation.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original F.X. Schmid edition (1994), before Zoch's later reissue"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 0  # Snack
 rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 1  # Light
+strategic_depth: 1  # Simple memory-based choices.
+feel: 2  # Light competitive race, not a cooperative game.
 value: 0  # Impulse
 
 affinity: null
@@ -24,14 +24,16 @@ hotness: null
 categories:
   - Family
   - Fantasy
-  - Deduction
+  - Memory
+  - Dice Rolling
+  - Racing
 
 evokes:
   - Humor
   - Lucky
-  - Mystery
+  - Clever
   - Connection
-  - Wonder
+  - Tension
 
 possible_counts: [2, 3, 4, 5, 6]
 true_counts: [3, 4, 5]
@@ -39,14 +41,16 @@ true_counts: [3, 4, 5]
 designer:
   - Heinz Meister
 publisher:
-  - Zoch Verlag
+  - F.X. Schmid
 artist: []
-playtime_minutes: 15
-min_playtime: 10
-max_playtime: 20
-min_age: 3
+playtime_minutes: 15  # Existing provisional estimate; reviewed original rules give no duration.
+min_playtime: null
+max_playtime: null
+min_age: null  # Translation recommends 3½+; original box's whole-year label not established.
 
 description: |
-  Husch Husch kleine Hexe is a children's memory and deduction game designed by Heinz Meister and published by Zoch Verlag, winner of the 1994 Deutscher Spiele Preis Best Children's Game. Five witch tokens in different colors are hidden under witch-hat covers, and players must remember or deduce which witch is hiding where. The game is designed for very young children, with simple mechanics, charming witch-themed components, and a game time short enough to hold preschoolers' attention.
+  Remember which colored witch is hiding under each hat. Roll a color, lift the matching hat and move that witch forward if you remembered correctly; a special die result can mix up two hats. The player who moves a witch to the finish wins. Everyone uses the same witches, so this is a light competitive memory race rather than a shared-win puzzle. The translated original rules include a simpler option for younger children that skips the hat swapping.
+
+  This record represents Heinz Meister's 1994 F.X. Schmid game. The archived translation recommends ages three and a half upward; Zoch's later edition has its own labeling. Timing, preferred counts and experience ratings remain provisional.
 
 upgrades: []

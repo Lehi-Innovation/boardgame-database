@@ -646,3 +646,128 @@ decisions:
     separate original Easy Money row and record. References conflict over 1988 versus
     1989 and original later-game rules were not read, so later title remains pending
     rather than assigned invented specifications.
+- name: 'Lost Battles: Operational Combat in Russia'
+  bgg_id: '8360'
+  previous_catalog_year: 1971
+  previous_record_year: 2011
+  year: 1971
+  yaml_id: lost-battles-operational-combat-russia
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+  - https://www.spigames.net/PDFv11/SPI_WithCompanyID_updated.pdf
+  - https://www.nobleknight.com/P/1630900874/Lost-Battles
+  reason: Dunnigan’s own bibliography dates his regimental Russia 1943–44 game to
+    1971; SPI product list and retailer corroborate original SPI identity. Corrected
+    false 2011/MMP attribution, added designer, removed unsupported division/corps
+    and 1941 scope. Retailer two-hour estimate is distinct from verified box timing.
+- name: 'Lee vs. Grant: The Wilderness Campaign of 1864'
+  bgg_id: '5680'
+  previous_catalog_year: 1988
+  previous_record_year: 1991
+  year: 1988
+  yaml_id: lee-vs-grant
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2025%20No%205.pdf
+  - https://www.nobleknight.com/P/10055/Lee-vs-Grant
+  reason: Contemporary Avalon Hill advertisement in The General 25/5 explicitly includes
+    Lee vs Grant among games new in 1988. Direct retailer inventory confirms Victory
+    Games, designer Joseph Balkoski, two players and 120–360-minute listing. Corrected
+    unsupported record 1991; no age label or additional art credits inferred from
+    BGG-citing secondary references.
+- name: 'Leros: The Island Prize'
+  bgg_id: '7502'
+  previous_catalog_year: 1996
+  previous_record_year: 2009
+  year: 1995
+  yaml_id: leros-the-island-prize
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://mmpgamers.com/support/gamersarchive/tcs/LEROS_Rules.pdf
+  - https://pawnderings.blogspot.com/2008/04/tcs-leros.html?m=0
+  - https://www.wargamer.fr/pdf/Vieille%20Garde/vieille-garde-VG_38.pdf
+  reason: Original publisher rules identify The Gamers, David A. Friedrichs, and separate
+    series/development/graphics credit Dean N. Essig, with copyright 1995. Independent
+    play review and Vieille Garde bibliography explicitly date original game 1995,
+    rather than deriving publication solely from copyright. Corrected false 2009/Compass
+    identity and selected 1995 original scope for CSV; references listing 1996 remain
+    a chronological uncertainty. Scenario and campaign lengths differ greatly; removed
+    misleading single-evening duration range.
+- name: Husch Husch kleine Hexe
+  bgg_id: '6573'
+  previous_catalog_year: 1994
+  previous_record_year: 1993
+  year: 1994
+  yaml_id: husch-husch-kleine-hexe
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://spellenlab.be/media/files/0d8dd4c233465ab3665e4f090beea6a7c7fcc237.pdf
+  - https://luding.org/Skripte/AuthorData.py/DEauthorid/145
+  reason: Archived Dutch rules translation explicitly F.X. Schmid 1994, Heinz Meister,
+    2–6. Independent bibliography distinguishes original 1994 from later Zoch 2010,
+    so original date is not inferred solely from its award. Corrected publisher/edition
+    and false cooperative feel; original rules specify a single winner, memory choices
+    and optional simpler rule. Translation’s 3½+ recommendation is explained, not
+    rounded into an invented original box label.
+- name: 'Historical Mystery: Bets are Made'
+  year: 2024
+  previous_record_year: 2023
+  yaml_id: historical-mystery-bets-are-made
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-stavki-sdelani
+  - https://hobbyworld.ru/download/rules/detective-stavki-sdelani-rules.pdf
+  - https://mnogoknig.com/ru/products/1696695/istoriceskii-detektiv-stavki-sdelany
+  reason: Original Russian SKU 915831, 2024 retailer publication corroborated by original
+    rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to
+    18+ and 60–90; added rules credits and cooperative mode. English display title
+    is a translation, not certification of English retail availability.
+- name: 'Historical Mystery: Treasures of the Galleon'
+  year: 2025
+  previous_record_year: 2023
+  yaml_id: historical-mystery-treasures-of-the-galleon
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-sokrovishha-galeona
+  - https://hobbyworld.ru/download/rules/istoricheskij-detektiv-sokrovishha-galeona-rules.pdf
+  - https://mnogoknig.com/ru/products/1722301/nastolnaia-igra-istoriceskii-detektiv-sokrovishha-galeona-18
+  reason: Original Russian SKU 952138, 2025 retailer publication corroborated by original
+    rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to
+    18+ and 60–90; added case-specific author/art credits. English title is a translation,
+    not evidence of English retail availability.
+- name: 'Historical Mystery: Disappearance in the Sky'
+  year: 2024
+  previous_record_year: 2023
+  yaml_id: historical-mystery-disappearance-in-the-sky
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-ischeznovenie-v-nebe
+  - https://hobbyworld.ru/download/rules/Ischeznoveniye_v_nebe_Rules.pdf
+  reason: 'Publisher Russian product and original rules establish 18+, 60–90, 1–4,
+    shared investigation and case-specific Rozanov/art credits. Corrected age/duration/mode;
+    English display title does not establish localization. First-publication 2023/2024
+    conflict remains unresolved: 2024 international-catalog availability alone does
+    not establish first release.'
+  date_review: unresolved 2023/2024
+- name: 'Historical Mystery: The Witch'
+  year: 2024
+  previous_record_year: 2023
+  yaml_id: historical-mystery-the-witch
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-vedma
+  - https://hobbyworld.ru/download/rules/istoricheskyi-detektiv-vedma-rules.pdf
+  reason: Publisher Russian product and rules establish 18+, 60–90, 1–4, shared investigation
+    and Ksenia Targulian/art credits. Corrected age/duration/mode and represented
+    language. Rules copyright 2024 alone does not settle 2023/2024 first-publication
+    conflict, which remains visible for dated release research.
+  date_review: unresolved 2023/2024

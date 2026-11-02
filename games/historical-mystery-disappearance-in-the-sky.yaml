@@ -1,26 +1,27 @@
 id: historical-mystery-disappearance-in-the-sky
 name: "Historical Mystery: Disappearance in the Sky"
 alternate_names: []
-year: 2023
+year: 2023  # Legacy date remains unverified; 2024 catalog availability is not first-publication proof.
 
 # Relationships
 game_family: historical-mystery
-edition: null
+edition: "Russian Hobby World edition; first-publication year still under review"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Publisher's 60–90-minute range.
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 1  # Shared investigation.
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
+  - Cooperative
   - Deduction
   - Mystery
   - Historical
@@ -36,16 +37,19 @@ evokes:
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]
 
-designer: []
+designer:
+  - Mikhail Rozanov
 publisher:
   - Hobby World
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 12
+artist:
+  - Анастасия Кукарина
+  - Марк Симонов
+playtime_minutes: 75  # Illustrative midpoint of publisher's range.
+min_playtime: 60
+max_playtime: 90
+min_age: 18
 
 description: |
-  Historical Mystery: Disappearance in the Sky is part of Hobby World International's Historical Mystery deduction game series, each entry based on a real historical case. Players investigate a mysterious disappearance involving aviation, gathering clues by visiting locations and questioning witnesses over a fixed number of moves before answering a series of case-resolution questions. The series is notable for grounding its mysteries in verifiable historical events, giving players educational context alongside the deduction gameplay.
+  Work together on a card-based investigation into a millionaire's disappearance from a plane and a later death. Spend a limited supply of actions examining places and questioning people, then compare your theory with the case solution. Expect careful reading, visual clues and discussion rather than a physical aviation game. This record follows the Russian-language product, labeled 18+ and 60–90 minutes; the English display title does not establish English retail availability. The first-publication date, preferred counts and experience estimates still need further review.
 
 upgrades: []

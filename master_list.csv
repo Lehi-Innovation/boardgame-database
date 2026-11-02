@@ -1551,11 +1551,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Highway 2000,,boardgame,,,
 3800,Himalaya,2004,boardgame,,,
 51197,Hippos & Crocodiles,2009,boardgame,,,hippos-and-crocodiles
-425693,Historical Mystery: Bets are Made,2024,boardgame,,,historical-mystery-bets-are-made
+425693,Historical Mystery: Bets are Made,2024,boardgame,,"2026-11-02: Original Russian SKU 915831, 2024 retailer publication corroborated by original rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to 18+ and 60–90; added rules credits and cooperative mode. English display title is a translation, not certification of English retail availability.",historical-mystery-bets-are-made
 382694,Historical Mystery: Death at the Ball,2023,boardgame,,,historical-mystery-death-at-the-ball
-401242,Historical Mystery: Disappearance in the Sky,2024,boardgame,,,historical-mystery-disappearance-in-the-sky
-431079,Historical Mystery: The Witch,2024,boardgame,,,historical-mystery-the-witch
-453355,Historical Mystery: Treasures of the Galleon,2025,boardgame,,,historical-mystery-treasures-of-the-galleon
+401242,Historical Mystery: Disappearance in the Sky,2024,boardgame,,"2026-11-02: Publisher Russian product and original rules establish 18+, 60–90, 1–4, shared investigation and case-specific Rozanov/art credits. Corrected age/duration/mode; English display title does not establish localization. First-publication 2023/2024 conflict remains unresolved: 2024 international-catalog availability alone does not establish first release.",historical-mystery-disappearance-in-the-sky
+431079,Historical Mystery: The Witch,2024,boardgame,,"2026-11-02: Publisher Russian product and rules establish 18+, 60–90, 1–4, shared investigation and Ksenia Targulian/art credits. Corrected age/duration/mode and represented language. Rules copyright 2024 alone does not settle 2023/2024 first-publication conflict, which remains visible for dated release research.",historical-mystery-the-witch
+453355,Historical Mystery: Treasures of the Galleon,2025,boardgame,,"2026-11-02: Original Russian SKU 952138, 2025 retailer publication corroborated by original rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to 18+ and 60–90; added case-specific author/art credits. English title is a translation, not evidence of English retail availability.",historical-mystery-treasures-of-the-galleon
 224,History of the World,,boardgame,,,
 11132,Hitler's Last Gamble,,boardgame,,,hitlers-last-gamble
 2168,Hitler's War,,boardgame,,,hitlers-war
@@ -1580,7 +1580,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Hundred Kingdoms,,boardgame,,,
 5895,Hungry Hungry Hippos,,boardgame,,,hungry-hungry-hippos
 ,Hurtgen Forest,,boardgame,,,
-6573,Husch Husch kleine Hexe,1994,boardgame,,,husch-husch-kleine-hexe
+6573,Husch Husch kleine Hexe,1994,boardgame,,"2026-11-02: Archived Dutch rules translation explicitly F.X. Schmid 1994, Heinz Meister, 2–6. Independent bibliography distinguishes original 1994 from later Zoch 2010, so original date is not inferred solely from its award. Corrected publisher/edition and false cooperative feel; original rules specify a single winner, memory choices and optional simpler rule. Translation’s 3½+ recommendation is explained, not rounded into an invented original box label.",husch-husch-kleine-hexe
 31970,Hydro Battle!,,boardgame,,,hydro-battle
 13726,Hyena chase,,boardgame,,,
 3244,Hype,1985,boardgame,,,
@@ -1859,7 +1859,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Leaf,2023,boardgame,,,
 31624,League of Six,2007,boardgame,,,
 35722,Leap Frog,,boardgame,,,
-5680,Lee vs. Grant: The Wilderness Campaign of 1864,1988,boardgame,,,lee-vs-grant
+5680,Lee vs. Grant: The Wilderness Campaign of 1864,1988,boardgame,,"2026-11-02: Contemporary Avalon Hill advertisement in The General 25/5 explicitly includes Lee vs Grant among games new in 1988. Direct retailer inventory confirms Victory Games, designer Joseph Balkoski, two players and 120–360-minute listing. Corrected unsupported record 1991; no age label or additional art credits inferred from BGG-citing secondary references.",lee-vs-grant
 ,Lee vs. Meade,,boardgame,,,
 ,Legacy of Yu,2022,boardgame,,,
 3836,Legend of the Burning Sands,,boardgame,,,legend-of-the-burning-sands
@@ -1877,7 +1877,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Lentokilpailu-peli,1909,boardgame,,,lentokilpailu-peli
 21920,Leonardo da Vinci,,boardgame,,,
 ,Leopard hunt game,,boardgame,,,leopard-hunt-game
-7502,Leros: The Island Prize,1996,boardgame,,,leros-the-island-prize
+7502,Leros: The Island Prize,1995,boardgame,,"2026-11-02: Original publisher rules identify The Gamers, David A. Friedrichs, and separate series/development/graphics credit Dean N. Essig, with copyright 1995. Independent play review and Vieille Garde bibliography explicitly date original game 1995, rather than deriving publication solely from copyright. Corrected false 2009/Compass identity and selected 1995 original scope for CSV; references listing 1996 remain a chronological uncertainty. Scenario and campaign lengths differ greatly; removed misleading single-evening duration range.",leros-the-island-prize
 ,Les Aigles,,boardgame,,,
 ,Let's Go! To Japan,2024,boardgame,,,lets-go-to-japan
 6873,Letra-Mix,,boardgame,,,
@@ -1924,7 +1924,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 21854,Los Mampfos,,boardgame,,,
 2277,Lose Your Shirt,,boardgame,,,
 185221,Lost & Found,2015,boardgame,,,lost-and-found
-8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,,lost-battles-operational-combat-russia
+8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,"2026-11-02: Dunnigan’s own bibliography dates his regimental Russia 1943–44 game to 1971; SPI product list and retailer corroborate original SPI identity. Corrected false 2011/MMP attribution, added designer, removed unsupported division/corps and 1941 scope. Retailer two-hour estimate is distinct from verified box timing.",lost-battles-operational-combat-russia
 ,Lost Cities,1999,boardgame,,,
 2268,Lost Patrol,,boardgame,,,
 312484,Lost Ruins of Arnak,2020,boardgame,,,

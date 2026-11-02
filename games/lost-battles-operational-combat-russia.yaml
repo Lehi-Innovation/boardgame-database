@@ -1,20 +1,20 @@
 id: lost-battles-operational-combat-russia
 name: "Lost Battles: Operational Combat in Russia"
 alternate_names: []
-year: 2011
+year: 1971
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original SPI game (1971), Strategy & Tactics 28 / standalone"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 3  # Long
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Retailer lists a nominal two-hour session; scenarios can differ.
 rules_complexity: 3  # Complex
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4  # Direct opposing-army combat.
 value: 2  # Standard
 
 affinity: null
@@ -36,16 +36,17 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - James F. Dunnigan
 publisher:
-  - Multi-Man Publishing
+  - Simulations Publications, Inc. (SPI)
 artist: []
-playtime_minutes: 300
-min_playtime: 240
-max_playtime: 480
-min_age: 14
+playtime_minutes: 120  # Retailer-listed duration, not a verified original box range.
+min_playtime: null
+max_playtime: null
+min_age: null  # Original edition age label not established.
 
 description: |
-  Lost Battles: Operational Combat in Russia is an operational-level wargame covering the Eastern Front of World War II at the division and corps level. Players command German and Soviet forces in scenarios ranging from the initial 1941 Barbarossa drives to the war's turning point battles of 1942-43. The game focuses on the asymmetric capabilities of the two sides — Germany's initial doctrinal and equipment superiority against the Soviets' vast manpower and the eventual modernization of the Red Army. Operational tempo, logistics, and the interaction between armor, infantry, and air support are central to the system's modeling of this theater's unique character.
+  Command opposing German and Soviet forces in Eastern Front battles. James Dunnigan describes his design as regimental operations in Russia during 1943–44, emphasizing differences in how the two armies fight. This record represents the original 1971 SPI game, rather than an unrelated later title. Expect a military positioning contest on a hex map; experience ratings remain provisional, and the nominal two-hour duration comes from a retailer listing rather than an original box label.
 
 upgrades: []

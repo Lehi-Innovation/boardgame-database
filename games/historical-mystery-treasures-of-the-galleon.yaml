@@ -1,26 +1,28 @@
 id: historical-mystery-treasures-of-the-galleon
 name: "Historical Mystery: Treasures of the Galleon"
-alternate_names: []
-year: 2023
+alternate_names:
+  - "Исторический детектив: Сокровища галеона"
+year: 2025
 
 # Relationships
 game_family: historical-mystery
-edition: null
+edition: "Russian Hobby World edition, SKU 952138 (2025)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Published duration is 60–90 minutes.
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 1  # Shared investigation and result.
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
+  - Cooperative
   - Deduction
   - Mystery
   - Historical
@@ -37,16 +39,27 @@ evokes:
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]
 
-designer: []
+designer:
+  - Ксения Таргулян
 publisher:
   - Hobby World
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 12
+artist:
+  - Владимир Любин
+  - Алиса Плис
+  - Анна Орлова
+  - Никита Москалёв
+  - Екатерина Жарова
+  - Оксана Потапова
+  - Евгения Банди
+  - Яна Лялюк
+playtime_minutes: 75  # Illustrative midpoint of publisher's 60–90-minute range.
+min_playtime: 60
+max_playtime: 90
+min_age: 18
 
 description: |
-  Historical Mystery: Treasures of the Galleon is a maritime-themed deduction game in Hobby World International's Historical Mystery series, centered on mysteries surrounding a sunken or stolen treasure from a historical galleon. Players conduct their investigation by visiting locations and questioning witnesses over a fixed number of moves, then resolve the case by answering the game's questions. The series uses real historical events as the basis for each case, adding an educational dimension to the detective gameplay.
+  Search a Spanish galleon for missing treasure, choosing which people and places to investigate before your 24 actions run out. Read the cards together, study their illustrations and build an explanation of the theft. The final questions and answers are linked by QR codes; the rules permit downloading those files beforehand without reading them for offline play. Solving the case reveals information that limits repeat investigation with the same group.
+
+  This record represents the Russian-language 2025 Hobby World edition, labeled for adults and lasting 60–90 minutes. Its English display title is a translation, not confirmation of an English retail edition. Preferred counts and experience ratings remain provisional.
 
 upgrades: []

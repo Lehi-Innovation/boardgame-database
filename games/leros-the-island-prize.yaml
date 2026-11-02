@@ -1,20 +1,20 @@
 id: leros-the-island-prize
 name: "Leros: The Island Prize"
 alternate_names: []
-year: 2009
+year: 1995  # Two independent original-game reviews; some references instead list 1996.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original The Gamers / TCS 8, rules copyright 1995"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 2  # Medium
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 4  # Campaigns can span many sessions; shorter scenarios differ substantially.
 rules_complexity: 3  # Complex
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4  # Opposing-army conflict; experience assessment remains provisional.
 value: 2  # Standard
 
 affinity: null
@@ -37,16 +37,21 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - David A. Friedrichs
+# Rules separately credit Dean N. Essig for series design and development.
 publisher:
-  - Compass Games
-artist: []
-playtime_minutes: 180
-min_playtime: 120
-max_playtime: 240
-min_age: 14
+  - The Gamers
+artist:
+  - Dean N. Essig  # Graphic design, explicitly credited in original rules.
+playtime_minutes: null  # Scenario and full-campaign durations differ too much for one estimate.
+min_playtime: null
+max_playtime: null
+min_age: null  # Original age label not established.
 
 description: |
-  Leros: The Island Prize is a hex-and-counter wargame covering the Battle of Leros in November 1943, a largely forgotten but strategically significant engagement in the Dodecanese campaign of World War II. After Italy's surrender, British forces occupied the Italian-held Aegean islands, but Germany launched a rapid assault to retake them before Allied reinforcements could arrive. Players command the desperate British and Italian garrison attempting to hold the mountainous island against an overwhelming German airborne and amphibious assault. The battle's compact scale, dramatic terrain, and its portrayal as a rare Axis strategic success in late 1943 make it an unusual and compelling wargame subject.
+  Plan the German air and sea invasion of Leros, or defend the island with British and Italian forces. This Tactical Combat Series game combines written operational plans with tactical combat on rugged terrain. Short scenarios cover part of the fighting; a full campaign uses a much larger span of the battle and can require many sessions, so agree on the scenario before choosing it for an evening.
+
+  This record represents the original The Gamers design by David A. Friedrichs. Independent reviews date it to 1995, matching the original rules copyright; other bibliographies list 1996, so the precise first-release chronology remains uncertain. It is not the unsupported 2009 Compass Games edition previously described here. Experience ratings remain provisional.
 
 upgrades: []

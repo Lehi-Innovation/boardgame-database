@@ -1,26 +1,28 @@
 id: historical-mystery-bets-are-made
 name: "Historical Mystery: Bets are Made"
-alternate_names: []
-year: 2023
+alternate_names:
+  - "Исторический детектив: Ставки сделаны"
+year: 2024
 
 # Relationships
 game_family: historical-mystery
-edition: null
+edition: "Russian Hobby World edition, SKU 915831 (2024)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Published duration is 60–90 minutes.
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 1  # Shared investigation and result.
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
+  - Cooperative
   - Deduction
   - Mystery
   - Historical
@@ -36,16 +38,22 @@ evokes:
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]
 
-designer: []
+designer:
+  - Mikhail Rozanov
 publisher:
   - Hobby World
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 12
+artist:
+  - Анна Орлова
+  - Анастасия Кукарина
+  - Владимир Любин
+playtime_minutes: 75  # Illustrative midpoint of publisher's 60–90-minute range.
+min_playtime: 60
+max_playtime: 90
+min_age: 18
 
 description: |
-  Historical Mystery: Bets are Made is part of a series of deduction games based on real historical events, published by Hobby World International. Players investigate a historical mystery by visiting locations, interrogating suspects, and examining crime scenes over a limited number of moves, then answering a series of questions about the case. The series structure, in which each box presents a single self-contained historical case, makes it well-suited for one-off game nights with players who enjoy detective and mystery themes.
+  Investigate a singer's murder and the boxer accused of it in a card-based Chicago mystery. Together, choose which witnesses and places to examine within a budget of 24 actions, then compare your explanation with the solution. Illustration details can matter as much as the text. The rules use QR-linked questions and answers; you can download those files beforehand without reading them for offline play.
+
+  This record represents the Russian-language 2024 Hobby World edition, labeled for adults and lasting 60–90 minutes. The English display title is a translation, not confirmation of an English retail edition. Expect a shared, reading-heavy investigation whose solution is known after playing; preferred counts and experience ratings remain provisional.
 
 upgrades: []
