@@ -24,13 +24,18 @@ License values (see images/README.md):
 import argparse
 import datetime
 import os
-import struct
+import io
+import hashlib
 import sys
 import urllib.request
 
 import yaml
+from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+from scripts.image_assets import image_basename, record_provenance
 GAMES_DIR = os.path.join(ROOT, "games")
 IMAGES_DIR = os.path.join(ROOT, "images")
 SOURCES_FILE = os.path.join(IMAGES_DIR, "sources.yaml")
@@ -45,12 +50,7 @@ KNOWN_LICENSES = {
     "public-domain",
     "fair-use",
 }
-CONTENT_TYPE_EXT = {
-    "image/jpeg": ".jpg",
-    "image/png": ".png",
-    "image/webp": ".webp",
-    "image/gif": ".gif",
-}
+IMAGE_FORMATS = {"JPEG": ".jpg", "PNG": ".png", "WEBP": ".webp"}
 
 
 def load_game(slug):
@@ -61,61 +61,18 @@ def load_game(slug):
         return yaml.safe_load(f)
 
 
-def image_size(data):
-    """Return (width, height) for PNG/JPEG/GIF/WEBP bytes, or None."""
-    if data[:8] == b"\x89PNG\r\n\x1a\n":
-        w, h = struct.unpack(">II", data[16:24])
-        return w, h
-    if data[:6] in (b"GIF87a", b"GIF89a"):
-        w, h = struct.unpack("<HH", data[6:10])
-        return w, h
-    if data[:2] == b"\xff\xd8":  # JPEG
-        i = 2
-        while i < len(data):
-            if data[i] != 0xFF:
-                i += 1
-                continue
-            marker = data[i + 1]
-            if marker in (0xD8, 0xD9) or 0xD0 <= marker <= 0xD7:
-                i += 2
-                continue
-            seg_len = struct.unpack(">H", data[i + 2 : i + 4])[0]
-            if 0xC0 <= marker <= 0xCF and marker not in (0xC4, 0xC8, 0xCC):
-                h, w = struct.unpack(">HH", data[i + 5 : i + 9])
-                return w, h
-            i += 2 + seg_len
-        return None
-    if data[:4] == b"RIFF" and data[8:12] == b"WEBP":
-        fmt = data[12:16]
-        if fmt == b"VP8 ":
-            w = struct.unpack("<H", data[26:28])[0] & 0x3FFF
-            h = struct.unpack("<H", data[28:30])[0] & 0x3FFF
-            return w, h
-        if fmt == b"VP8L":
-            b = data[21:25]
-            bits = b[0] | (b[1] << 8) | (b[2] << 16) | (b[3] << 24)
-            return (bits & 0x3FFF) + 1, ((bits >> 14) & 0x3FFF) + 1
-        if fmt == b"VP8X":
-            w = 1 + (data[24] | (data[25] << 8) | (data[26] << 16))
-            h = 1 + (data[27] | (data[28] << 8) | (data[29] << 16))
-            return w, h
-    return None
+def decode_image(data):
+    """Fully decode supported bytes; do not trust URL suffixes or HTTP headers."""
+    with Image.open(io.BytesIO(data), formats=list(IMAGE_FORMATS)) as image:
+        extension = IMAGE_FORMATS[image.format]
+        image.load()
+        return extension, image.size
 
 
 def download(url):
     req = urllib.request.Request(url, headers={"User-Agent": "boardgame-db-image-fetch/1.0"})
     with urllib.request.urlopen(req, timeout=60) as resp:
         return resp.read(), resp.headers.get("Content-Type", "").split(";")[0].strip()
-
-
-def ext_for(content_type, url):
-    if content_type in CONTENT_TYPE_EXT:
-        return CONTENT_TYPE_EXT[content_type]
-    for ext in (".jpg", ".jpeg", ".png", ".webp", ".gif"):
-        if url.lower().split("?")[0].endswith(ext):
-            return ".jpg" if ext == ".jpeg" else ext
-    return None
-
 
 def slug_in_sources(slug):
     if not os.path.isfile(SOURCES_FILE):
@@ -126,17 +83,6 @@ def slug_in_sources(slug):
                 return True
     return False
 
-
-def append_provenance(slug, entry):
-    block = [f"\n{slug}:"]
-    for k in ("file", "source_url", "publisher", "license", "date", "resolution", "notes"):
-        v = entry.get(k)
-        if v is None:
-            block.append(f"  {k}: null")
-        else:
-            block.append(f'  {k}: "{v}"')
-    with open(SOURCES_FILE, "a") as f:
-        f.write("\n".join(block) + "\n")
 
 
 def main():
@@ -156,30 +102,30 @@ def main():
 
     game = load_game(args.slug)
     name, year = game.get("name", ""), game.get("year", "")
-    base = f"{name} ({year})"
+    base = image_basename(game)
+    if base is None:
+        sys.exit("error: game needs a known title and publication year")
 
     if not args.force and slug_in_sources(args.slug):
         sys.exit(f"error: {args.slug} already in sources.yaml (use --force)")
 
     print(f"downloading {args.url} ...")
-    data, content_type = download(args.url)
-    ext = ext_for(content_type, args.url)
-    if ext is None:
-        sys.exit(f"error: could not determine image type (content-type={content_type!r})")
-
-    size = image_size(data)
-    if size is None:
-        print("warning: could not read image dimensions; saving anyway", file=sys.stderr)
-        res = None
-    else:
-        w, h = size
-        res = f"{w}x{h}"
-        if w < MIN_DIM or h < MIN_DIM:
-            sys.exit(f"error: image {w}x{h} is below the {MIN_DIM}x{MIN_DIM} minimum")
+    data, _content_type = download(args.url)
+    try:
+        ext, (w, h) = decode_image(data)
+    except (OSError, ValueError) as error:
+        sys.exit(f"error: not a decodable JPEG, PNG or WebP image: {error}")
+    res = f"{w}x{h}"
+    if w < MIN_DIM or h < MIN_DIM:
+        sys.exit(f"error: image {w}x{h} is below the {MIN_DIM}x{MIN_DIM} minimum")
 
     out_path = os.path.join(IMAGES_DIR, f"{base}{ext}")
     if os.path.exists(out_path) and not args.force:
         sys.exit(f"error: {out_path} exists (use --force)")
+    previous = None
+    if os.path.exists(out_path):
+        with open(out_path, "rb") as f:
+            previous = f.read()
     with open(out_path, "wb") as f:
         f.write(data)
 
@@ -188,15 +134,26 @@ def main():
         pubs = game.get("publisher") or []
         pub = pubs[0] if pubs else None
 
-    append_provenance(args.slug, {
-        "file": f"{base}{ext}",
-        "source_url": args.source_page or args.url,
-        "publisher": pub,
-        "license": args.license,
-        "date": datetime.date.today().isoformat(),
-        "resolution": res,
-        "notes": args.notes,
-    })
+    try:
+        record_provenance(args.slug, {
+            "file": f"{base}{ext}",
+            "source_url": args.source_page or args.url,
+            "image_url": args.url,
+            "sha256": hashlib.sha256(data).hexdigest(),
+            "review_status": "source_recorded_identity_unverified",
+            "publisher": pub,
+            "license": args.license,
+            "date": datetime.date.today().isoformat(),
+            "resolution": res,
+            "notes": args.notes,
+        }, replace=args.force)
+    except Exception:
+        if previous is None:
+            os.unlink(out_path)
+        else:
+            with open(out_path, "wb") as f:
+                f.write(previous)
+        raise
     print(f"saved {out_path} ({res or 'size unknown'}) and recorded provenance")
 
 

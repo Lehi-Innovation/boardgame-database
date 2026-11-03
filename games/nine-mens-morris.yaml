@@ -1,0 +1,48 @@
+# Research: 2026-11-02; sources/research-log.yaml.
+# Ratings, evokes and nominal duration are provisional estimates.
+# Traditional game: no single publication year, publisher or minimum age established.
+id: nine-mens-morris
+name: Nine Men's Morris
+alternate_names:
+  - Nine Mens Morris
+  - Merels
+year: null
+game_family: null
+edition: Traditional nine-counter game; flying rule optional
+base_game: null
+expansions: []
+compatible_with: []
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 4
+value: 0
+affinity: null
+hotness: null
+categories:
+  - Abstract
+  - Traditional
+  - Pattern Building
+evokes:
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+possible_counts:
+  - 2
+true_counts:
+  - 2
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: null
+max_playtime: null
+min_age: null
+description: |-
+  Place nine counters each on the board’s 24 points, then slide counters along its lines. Making a row of three lets you remove an opposing counter. The contest is won by reducing the opponent to two counters or leaving them unable to move. Threatening two lines at once can force a difficult choice, and reopening a completed line creates recurring threats. A drawn board and eighteen counters are sufficient. Agree beforehand whether a player reduced to three counters may jump to any empty point; this flying rule varies between versions.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

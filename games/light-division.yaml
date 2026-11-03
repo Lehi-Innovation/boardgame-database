@@ -1,20 +1,23 @@
+# 1–2/12+/240 are retailer recommendations, not personally inspected box labels.
+# Solo suitability corroborated by played reviews, without a dedicated bot claim.
+# Scenario lengths vary; generic 180–360 range removed. Ratings provisional.
 id: light-division
 name: "Light Division"
 alternate_names: []
-year: 1977
+year: 1989
 
 # Relationships
 game_family: null
-edition: null
+edition: 3W original (1989)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 3  # Long
-rules_complexity: 3  # Complex
-strategic_depth: 3  # Deep
-feel: 3  # Competitive
+length: 3
+rules_complexity: 3
+strategic_depth: 3
+feel: 4
 value: 2  # Standard
 
 affinity: null
@@ -22,7 +25,9 @@ hotness: null
 
 categories:
   - Wargame
-  - Historical
+  - Hex Map
+  - Action Points
+  - Dice Rolling
   - War
 
 evokes:
@@ -32,19 +37,24 @@ evokes:
   - Powerful
   - Rivalry
 
-possible_counts: [2]
-true_counts: [2]
+possible_counts:
+  - 1
+  - 2
+true_counts:
+  - 2
 
-designer: []
+designer:
+  - Joe Balkoski
+  - Austin Bay
 publisher:
-  - SPI
+  - 3W
 artist: []
 playtime_minutes: 240
-min_playtime: 180
-max_playtime: 360
-min_age: 14
+min_playtime: null
+max_playtime: null
+min_age: 12
 
 description: |
-  Light Division is a Napoleonic era wargame published by SPI (Simulations Publications, Inc.) focusing on the exploits of Wellington's celebrated Light Division during the Peninsular War. The Light Division was famous for its elite rifle-armed troops, flexible tactics, and the leadership of commanders like Craufurd and later Alten. The game models the distinctive hit-and-run, skirmishing tactics of light infantry warfare, contrasting with the heavier line battalions of the period. SPI's detailed series design captures the period's tactical nuances within their standard hex-and-counter framework.
+  Command forces in hypothetical late-Cold-War fighting around Bandar Abbas and the Strait of Hormuz. American forces need ports, airfields and a workable foothold while Iranian or Soviet opposition contests the invasion. A die roll determines how many operations you can carry out in a cycle, making coordinated movement and supporting fire uncertain. Scenarios vary considerably in length; one played review reports an introductory scenario under two hours, while the retailer lists about four hours overall. Solo play means handling both sides. Consult the published map corrections before setting up. This is 3W’s 1989 modern-conflict game.
 
 upgrades: []

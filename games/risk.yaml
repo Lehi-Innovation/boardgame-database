@@ -1,25 +1,31 @@
+# Original Parker copyright-1959 manual consulted as a third-party transcription,
+# including its February 26 1959 proof marking, 3–6 setup and conquest objective.
+# Maximum defense is TWO dice; six dice supplied do not imply three defense dice.
+# Winning Moves modern reproduction includes later 2-player neutral-army rules and
+# is not substituted for original 1959 specifications. Museum history independently
+# distinguishes Miro 1957 from Parker 1959; no universal first-strategy-game claim.
+# Original age guidance unverified; about 120 minutes, preferred counts and
+# experience ratings provisional, no invented fixed bounds. Three complete Risk
+# relatives have false expansion links removed; shared family does not mean
+# combinability. La Conquête du Monde now has its own 1957 edition record.
 id: risk
 name: "Risk"
 alternate_names:
-  - La Conquête du Monde
-  - "Risk: The Game of Global Domination"
+  - 'Risk: The Game of Global Domination'
 year: 1959
 
 # Relationships
 game_family: risk
-edition: null
+edition: Parker Brothers original U.S. edition (1959), 3–6-player copyright-1959 rules
 base_game: null
-expansions:
-  - risk-2210-ad
-  - risk-godstorm
-  - risk-legacy
+expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Long
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 3  # Competitive
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
 value: 1  # Budget
 
 affinity: null
@@ -43,7 +49,11 @@ evokes:
   - Lucky
   - Persuasion
 
-possible_counts: [2, 3, 4, 5, 6]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
 true_counts: [4, 5, 6]
 
 designer:
@@ -52,11 +62,11 @@ publisher:
   - Parker Brothers
 artist: []
 playtime_minutes: 120
-min_playtime: 60
-max_playtime: 300
-min_age: 10
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Risk is the iconic world domination board game that introduced strategic conquest to mass-market gaming when Parker Brothers released it in 1959, adapting French filmmaker Albert Lamorisse's "La Conquête du Monde." Players command armies on a political map of Earth divided into 42 territories across six continents, taking turns to attack adjacent territories with dice rolls and fortify their positions. Continents grant bonus armies for control, creating strategic pressure points as players negotiate temporary alliances and betray each other in pursuit of total global domination. As the first mass-produced multiplayer strategy game, Risk established the template for an entire genre of area control wargames and spawned dozens of themed variants and sequels.
+  Build armies, attack neighboring territories and try to take the entire world map. Holding a continent brings extra reinforcements, while capturing territory earns cards that can later strengthen your army. Dice make even a well-prepared attack uncertain. Rivals can negotiate temporary arrangements, but victory requires eliminating everyone else, and an eliminated player may wait a long time for the finish. This record represents Parker Brothers’ original 1959 U.S. edition for three to six players. Later two-player neutral-army rules and secret missions are separate variants. Risk 2210 A.D., Godstorm and Legacy are standalone relatives rather than required expansions.
 
 upgrades: []

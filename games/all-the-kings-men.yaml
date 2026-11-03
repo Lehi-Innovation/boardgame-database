@@ -1,21 +1,20 @@
 id: all-the-kings-men
 name: "All The King's Men"
-alternate_names:
-  - "Smess: The Ninny's Chess"
+alternate_names: []
 year: 1979
 
 # Relationships
-game_family: null
-edition: null
+game_family: smess
+edition: "Parker Brothers medieval retheme (1979), distinct from Smess (1970)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Direct capture contest.
 value: 1  # Budget
 
 affinity: null
@@ -36,25 +35,20 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - Reuben B. Klamer
+  - Perry Grant
 publisher:
   - Parker Brothers
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 8
+playtime_minutes: 30  # Existing provisional session estimate; museum gives no duration.
+min_playtime: null
+max_playtime: null
+min_age: 8  # Existing edition metadata, not newly certified by this source review.
 
 description: |
-  All The King's Men (also known as Smess: The Ninny's Chess) is a chess-variant abstract strategy
-  game published by Parker Brothers, set on a grid where each square displays arrows indicating
-  permitted movement directions. Players control a King/Brain, Knights/Ninnies, and Archers/Numskulls,
-  each moving only to squares whose arrows allow that direction of travel.
+  Move your pieces across a board whose printed arrows determine the available directions. Both players can see those paths, so planning involves anticipating how an opponent can approach or escape. The medieval pieces and arrow-marked spaces offer a different way to follow a two-player capture contest.
 
-  The game plays faster than standard chess and has more predictable movement options — both players
-  can easily see which squares are accessible from any position — yet this transparency creates its
-  own strategic depth as plans must account for what opponents can also see. It is a classic American
-  abstract that successfully simplified chess for family audiences while retaining genuine tactical
-  decision-making.
+  This record represents Parker Brothers' 1979 All the King's Men. The Strong Museum distinguishes it from the related 1970 Smess: The Ninny's Chess, whose presentation and some rules differ. They share a family rather than an interchangeable edition identity. Timing and experience assessments remain provisional.
 
 upgrades: []

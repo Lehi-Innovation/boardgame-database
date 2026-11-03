@@ -1,0 +1,53 @@
+# May1976 WargamersNewsletter received-booklet report establishes availability.
+# FGU’s 1978 advert credits Goodman and Krenkel,12 floorplan inserts. Independent
+# history supplies two opposed players and six levels. Original manual not read;
+# current publisher sells a PDF but that purchase was not made. Contemporary
+# component accounts differ about included figures, so none certified. Age/time
+# and preferred counts unknown; experience ratings provisional.
+id: citadel-1976
+name: Citadel
+alternate_names:
+  - 'Citadel: A Quest Within a Wizard’s Tower'
+year: 1976
+game_family: null
+edition: Original Fantasy Games Unlimited game (1976); original manual not inspected
+base_game: null
+expansions: []
+compatible_with: []
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
+value: 0
+affinity: null
+hotness: null
+categories:
+  - Asymmetric
+  - Dungeon Crawler
+  - Modular Board
+  - Fantasy
+evokes:
+  - Discovery
+  - Mystery
+  - Tension
+  - Rivalry
+  - Agency
+possible_counts:
+  - 2
+true_counts: []
+designer:
+  - Roy Goodman
+publisher:
+  - Fantasy Games Unlimited
+artist:
+  - Roy G. Krenkel
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
+description: |
+  One player sends an adventurer into a dead wizard’s tower in search of a talisman, while the opponent controls its dangers. Search through a six-level tower and try to escape with the prize. The opposing roles create a contest between exploration and defending the tower, rather than a shared cooperative quest. This is Fantasy Games Unlimited’s 1976 booklet game with Roy G. Krenkel illustrations, separate from Faidutti’s later Citadels card game. Original age, session time and component-package details remain unverified; experience estimates are provisional.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

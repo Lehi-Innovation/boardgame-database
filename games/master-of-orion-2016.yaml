@@ -1,0 +1,59 @@
+id: master-of-orion-2016
+name: "Master of Orion (Hobby World)"
+alternate_names:
+  - Master of Orion
+year: 2016
+
+game_family: master-of-orion
+edition: "Original Russian Hobby World edition (2016), product 56309"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 3
+value: 2
+affinity: null
+hotness: null
+
+categories:
+  - Tableau Building
+  - Variable Player Powers
+  - Resource Management
+  - Action Points
+  - Sci-Fi
+  - Space
+evokes:
+  - Progress
+  - Powerful
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]  # Provisional suggested counts, not verified consensus.
+designer:
+  - Ekaterina Gorn
+  - Igor Sklyuev
+publisher:
+  - Hobby World
+artist:
+  - Александр Шалдин
+  - Wargaming.net
+# Illustration credits from the original Russian rules; production designers
+# and art directors are not silently recast as illustrators.
+playtime_minutes: 50  # Illustrative midpoint of publisher's 40–60-minute range.
+min_playtime: 40
+max_playtime: 60
+min_age: 12
+
+description: |
+  Develop a space civilization by spending actions and resources to play useful cards into planetary systems. Cards build your economy and provide abilities, but a new card can cover an older ability, creating choices about what to keep available. Balance resource production, fleet strength and loyalty while seeking points. This is the original Russian-language Hobby World release from 2016, before Cryptozoic's separately recorded 2017 English edition. The publisher lists two to four players, ages twelve upward and forty to sixty minutes; preferred counts and experience ratings remain provisional.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

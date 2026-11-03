@@ -1,0 +1,69 @@
+id: bluff-1993
+name: "Bluff"
+alternate_names:
+  - "Call My Bluff"
+  - "Liar's Dice"
+year: 1993
+
+game_family: liars-dice
+edition: "F.X. Schmid German (1993)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates; owner ratings remain unset.
+length: 1
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
+value: 1
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Bluffing
+  - Party
+  - Family
+  - Gateway
+evokes:
+  - Tension
+  - Lucky
+  - Persuasion
+  - Humor
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+designer:
+  - Richard Borg
+publisher:
+  - F.X. Schmid
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 12
+
+description: |
+  Bluff is the 1993 German F.X. Schmid edition of Richard Borg's cup-and-dice
+  bidding game and that year's Spiel des Jahres winner. Start with five dice
+  hidden under each player's cup and use the board to track increasing claims
+  about how many matching faces are present across the table. Stars count as
+  wilds for number bids. Raise the claim or challenge the previous bidder.
+
+  On a reveal, an overstated bid costs the bidder dice; a mistaken challenge
+  costs the challenger dice. The loss equals the gap between the bid and the
+  actual count. An exactly correct bid makes every other player lose one die.
+  Stay in by balancing odds, bluffing and timely challenges until only one
+  player has dice. Earlier Milton Bradley Liar's Dice (1987) and later English
+  Call My Bluff (1997) have separate records; their labels are not original
+  German-box specifications.
+
+# Official award jury: 2–6, 12+, about30 minutes; bibliography separately dates
+# publication1993. Times are recommendations, not measured bounds. Suggested
+# counts and ratings are estimates; no original physical packaging inspection.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

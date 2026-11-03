@@ -1,20 +1,20 @@
 id: la-bataille-de-valmy
 name: "La Bataille de Valmy"
 alternate_names: []
-year: 1986
+year: 1981
 
 # Relationships
-game_family: la-bataille
-edition: null
+game_family: null  # No verified membership in the similarly named La Bataille series.
+edition: "Original Jeux Descartes game (1981)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 2  # Medium
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 3  # Retrospective lists a nominal three-hour session.
 rules_complexity: 3  # Complex
 strategic_depth: 3  # Deep
-feel: 2  # Moderate
+feel: 4  # Direct opposing-army conflict.
 value: 2  # Standard
 
 affinity: null
@@ -36,16 +36,17 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - Jean-Jacques Petit
 publisher:
   - Jeux Descartes
 artist: []
-playtime_minutes: 180
-min_playtime: 120
-max_playtime: 240
-min_age: 14
+playtime_minutes: 180  # Independent retrospective, not an inspected original box label.
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  La Bataille de Valmy is a Napoleonic-era wargame published by Jeux Descartes simulating the Franco-Prussian engagement at the start of the French Revolutionary Wars on 20 September 1792 — the "Miracle of Valmy" that halted the Prussian invasion of France. Part of the La Bataille system of Napoleonic tactical simulations, the game uses the battalion/regimental level rules developed across the series to model the unique characteristics of early Revolutionary War armies. The engagement was historically remarkable for a French citizen army repelling the professional Prussian military, and the game captures the tactical dynamics of this pivotal battle.
+  Maneuver French and Prussian units at the 1792 Battle of Valmy in this two-player historical hex-and-counter game. An independent retrospective describes Jean-Jacques Petit's design as a variation on the Napoleon's Last Battles model, with regimental and battalion units; its title alone does not establish membership in the separate La Bataille series. This record represents the original 1981 Jeux Descartes release. The nominal three-hour duration comes from that retrospective, while experience ratings remain provisional.
 
 upgrades: []

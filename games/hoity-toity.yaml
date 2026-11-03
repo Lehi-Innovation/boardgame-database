@@ -2,11 +2,11 @@ id: hoity-toity
 name: "Hoity Toity"
 alternate_names:
   - Adel Verpflichtet
-year: 1990
+year: 2004
 
 # Relationships
-game_family: null
-edition: null
+game_family: adel-verpflichtet
+edition: "2004 Uberplay English edition"
 base_game: null
 expansions: []
 compatible_with: []
@@ -43,16 +43,16 @@ true_counts: [4, 5]
 designer:
   - Klaus Teuber
 publisher:
-  - F.X. Schmid
-  - Avalon Hill
+  - Uberplay
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 10
+playtime_minutes: 45  # Review estimate; not a publisher box range.
+min_playtime: null
+max_playtime: null
+min_age: null  # Publisher box minimum not confirmed for this edition.
 
 description: |
-  Hoity Toity (Adel Verpflichtet in German) is a Spiel des Jahres 1990 winner about eccentric
+  This record represents the 2004 Uberplay English edition, first to use the title
+  Hoity Toity, of Klaus Teuber’s 1990 Spiel des Jahres winner Adel Verpflichtet. It is about eccentric
   antique collectors competing to build the most impressive collection. Each round, all players
   secretly and simultaneously select a destination card: either the Auction House to bid on
   new antiques, or the Castle to display their collection and potentially steal from rivals —
@@ -63,3 +63,5 @@ description: |
   perfectly captures the absurdity of high-society collecting.
 
 upgrades: []
+
+# Edition identity reviewed 2026-11-02; original and later English edition stay separate.

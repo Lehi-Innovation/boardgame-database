@@ -5,16 +5,16 @@ year: 2004
 
 # Relationships
 game_family: puerto-rico
-edition: null
+edition: Original 2004 edition (110-card base game)
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 3  # Polite: mostly separate cities, with shared role timing.
 value: 2  # Standard
 
 affinity: null
@@ -43,13 +43,23 @@ designer:
   - Andreas Seyfarth
 publisher:
   - Alea
-artist: []
+artist:
+  - Franz Vohwinkel  # Contemporary original-edition review.
 playtime_minutes: 45
-min_playtime: 30
+min_playtime: 45  # Contemporary original-edition review gives 45–60 minutes.
 max_playtime: 60
 min_age: 10
 
 description: |
-  San Juan is a streamlined card game adaptation of the critically acclaimed Puerto Rico, designed by Andreas Seyfarth and published by Alea in 2004. Players build a colonial city by constructing buildings from a 110-card deck that serves triple duty as the card supply, building cost (discarded to pay), and victory point tracker. The role-selection mechanic from Puerto Rico is preserved: each round one player chooses from roles like Builder, Producer, and Trader, with all players taking part but the selecting player gaining a bonus. San Juan distills Puerto Rico's economic engine-building into a fast, elegant card game that plays in under an hour.
+  Build a city by deciding which cards to construct and which to discard as
+  payment. Cards also represent goods when placed face down on production
+  buildings. Each selected role offers an action and a privilege to its chooser;
+  most roles also let everyone else act. The prospector benefits only its chooser.
+
+  Roles and buildings help you draw cards, produce goods and trade them for more
+  cards. The game ends after the building phase in which someone reaches twelve
+  buildings, and the most victory points wins. This record represents the original
+  2004 110-card base game. Its separate 2014 second edition includes additional
+  buildings; those cards are not assumed to be in this original set.
 
 upgrades: []

@@ -1,0 +1,55 @@
+id: diplomacy
+name: Diplomacy
+alternate_names: []
+year: 1959
+
+game_family: diplomacy
+edition: "Original Calhamer game (1959 rules)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 4
+rules_complexity: 2
+strategic_depth: 3
+feel: 4
+value: 1
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Simultaneous Action
+  - Historical
+  - War
+  - Political
+evokes:
+  - Persuasion
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+# Original rules explicitly allow as few as three and recommend seven.
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [7]
+designer:
+  - Allan B. Calhamer
+publisher:
+  - Allan B. Calhamer
+artist: []
+playtime_minutes: 360  # Provisional session estimate, not an original box duration.
+min_playtime: null
+max_playtime: null
+min_age: null
+
+description: |
+  Negotiate alliances and coordinate armies and fleets on a map of Europe, then commit to orders that may expose whether your allies kept their promises. Control of supply centers supports your forces; agreements rely on trust rather than binding contracts. The original rules recommend seven players and allow groups as small as three. Expect sustained conversation, direct conflict and the possibility of elimination, with an agreed time limit useful for planning a session. This record follows the original 1959 game, separate from the five-player ancient-world Classical Diplomacy variant. Session length and experience ratings are provisional.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

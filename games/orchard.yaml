@@ -1,32 +1,43 @@
+# Represented manufactured game available by March3, 2020 actual received-copy
+# account; December 2019 distributor catalog schedules January 2020 shipment, not
+# proof it happened on that date.2019 is campaign/copyright, 2018 original PnP.
+# Consulted later Italian publisher rules identify Tuck design/art and shared core,
+# not an original English rulebook. Its14+ label not automatically assigned to the
+# original English printing. Original age unknown; about10 minutes and experience
+# ratings provisional. Multiplayer needs separate copies, so base-box counts stay1.
+# No universal acclaim inferred from awards or an individual’s100 plays.
 id: orchard
-name: "Orchard"
+name: 'Orchard: 9 Card Solitaire Game'
 alternate_names:
-  - "Orchard: A 9 Card Solitaire Game"
-year: 2019
+  - Orchard
+  - 'Orchard: A 9 Card Solitaire Game'
+year: 2020
 
 # Relationships
 game_family: null
-edition: null
+edition: Side Room Games English manufactured edition, available by March 2020; earlier PnP dates to 2018
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 0  # Snack
-rules_complexity: 0  # Preschool
-strategic_depth: 1  # Light
+rules_complexity: 1
+strategic_depth: 2
 feel: 0  # Solitary
-value: 0  # Impulse
+value: 1
 
 affinity: null
 hotness: null
 
 categories:
+  - Solo
   - Puzzle Solving
   - Tile Placement
   - Pattern Building
   - Abstract
   - Filler
+  - Agriculture
 
 evokes:
   - Clever
@@ -42,13 +53,14 @@ designer:
   - Mark Tuck
 publisher:
   - Side Room Games
-artist: []
+artist:
+  - Mark Tuck
 playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
-min_age: 8
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Orchard is a tiny 9-card solitaire tile-laying game designed by Mark Tuck in which a single player aims to harvest as much fruit as possible by overlapping fruit tree cards. Cards are played onto the growing "orchard" so that a card's fruit symbols overlap as many identical-fruit symbols on already-placed cards as possible, with each overlap scoring a die that tracks the harvest. Two "rotten fruit" cubes allow placing a card in an otherwise illegal position at the cost of penalty points. Winner of the 2018 BoardGameGeek Golden Geek Award for Best Print-and-Play Game, Orchard is a masterpiece of minimalist design — a genuinely tense and engaging puzzle in just nine cards and under ten minutes.
+  Build a small orchard by overlapping cards so that matching fruit trees cover one another. Dice record the growing harvest rather than being rolled, while two rotten-fruit tokens let you accept mismatches at a points cost. Each placement changes the space available for the remaining cards, creating a short puzzle about improving your harvest score. A session uses nine of the box’s eighteen cards. One copy supports solo play; the simultaneous comparison mode requires a separate copy for each participant. This record represents the manufactured Side Room game available in 2020, following Tuck’s 2018 print-and-play design. It is separate from HABA’s children’s Orchard.
 
 upgrades: []

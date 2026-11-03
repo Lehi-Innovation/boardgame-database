@@ -1,22 +1,23 @@
 id: oriflamme-ablaze
 name: "Oriflamme: Ablaze"
-alternate_names: []
-year: 2021
+alternate_names:
+  - "Oriflamme: Embrasement"
+year: 2020
 
 # Relationships
 game_family: oriflamme
-edition: null
-base_game: oriflamme
+edition: Original standalone card set (2020); French title Oriflamme Embrasement
+base_game: null  # Playable on its own, with optional combination rules
 expansions: []
 compatible_with:
   - oriflamme
   - oriflamme-alliance
 
 # Ratings (0-4 scale)
-length: 0  # Snack
+length: 1  # Provisional vibe; original distributor gives nominal twenty minutes
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Provisional: direct elimination, theft and interference
 value: 1  # Budget
 
 affinity: null
@@ -25,7 +26,6 @@ hotness: null
 categories:
   - Hand Management
   - Bluffing
-  - Simultaneous Action
   - Filler
   - Medieval
   - Historical
@@ -38,20 +38,31 @@ evokes:
   - Powerful
 
 possible_counts: [3, 4, 5]
-true_counts: [4, 5]
+true_counts: [4, 5]  # Provisional preferred counts, not a publisher recommendation
 
 designer:
   - Adrien Hesling
   - Axel Hesling
 publisher:
   - Studio H
-artist: []
+artist:
+  - Tomasz Jedruszek
 playtime_minutes: 20
-min_playtime: 15
-max_playtime: 30
+min_playtime: null
+max_playtime: null
 min_age: 10
 
 description: |
-  Oriflamme: Ablaze is a standalone expansion to the award-winning Oriflamme card game, adding 11 new cards with powerful and synergistic abilities to the medieval political conflict. Set during an incendiary war that threatens to reduce the kingdom to ash, the expansion introduces fire-themed card effects that can be mixed with the original Oriflamme or played entirely on their own. Like the base game, players build an Influence Queue of face-down cards over six rounds and score the most influence points to claim victory, but the new cards add fresh tactical layers and deceptive possibilities that expand the game's strategic palette.
+  Rival families build influence through a shared line of concealed cards.
+  Leaving a card hidden can make it more valuable, while revealing it triggers
+  a character or intrigue effect. Opponents can remove cards, steal influence
+  or take control of a useful character, so timing matters as much as the card
+  itself.
+
+  Ablaze is playable on its own and can also combine with other Oriflamme sets.
+  It introduces a different collection of powers for the same contest over the
+  throne. Expect bluffing and direct interference; that experience assessment
+  and the preferred counts remain provisional. Original French distributor
+  specifications give three to five players, age ten and up, about twenty minutes.
 
 upgrades: []

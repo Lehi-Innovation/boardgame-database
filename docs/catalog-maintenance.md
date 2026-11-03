@@ -1,0 +1,461 @@
+# Catalog consistency and identity
+
+The 2026-11-01 migration resolved the earlier 349 structural findings without claiming
+a factual review of all games. The changes are inspectable in
+`python -m scripts.reconcile_records` (preview) and `--apply` (validated application).
+Running it after migration makes no further changes.
+
+## Record changes
+
+- Six numeric IDs are now quoted filename slugs, including `007`.
+- Thirty-two null publisher fields are empty lists; no publisher was invented.
+- Nineteen alternate-title lists now quote titles containing colons, preserving the
+  original words rather than exposing accidental YAML mappings to consumers.
+- Fifteen records normalize category synonyms or remove misplaced tags. `Lucky`,
+  `Unique`, and `Discovery` belong to feelings; `Competitive` and `Strategy` repeated
+  existing descriptions/ratings. Clear synonyms include `Race` → `Racing`,
+  `Push Your Luck` → `Press Your Luck`, and `Solo/Solitaire` → `Solo`.
+- Thirty-six evokes lists normalize misplaced mechanics/themes to experience
+  estimates and repair two repeated values. These are provisional editorial
+  estimates from existing descriptions, not new claims of community consensus or
+  fresh publisher research. Per-game choices live in the migration script.
+
+The schema now includes useful existing distinctions: memory, trivia, voting,
+exploration, stock holding, solo, traditional, educational, creative, simulation,
+and missing themes. This is a vocabulary extension; the proposed replacement of the
+`feel` scale has not been adopted. All presentation labels derive from the schema. Later source-based corrections are separate from this structural migration, including traditional Das Bohnenspiel, Codenames counts/year, and distinct Adel Verpflichtet/Hoity Toity editions.
+
+The previous player-count enumeration incorrectly rejected known counts over twelve.
+Positive integer counts now remain exact, alongside the legacy open-ended `12+`
+label. No game counts were reduced, rounded, or replaced with that label.
+
+Owner affinity/hotness, play history, descriptions, unrelated text, and comments
+were preserved by the migration. Game ratings are still provisional unless their
+own evidence establishes otherwise. Schema validity does not certify factual quality.
+
+## Catalog identity
+
+`scripts/catalog.py` is the shared resolver used by Python progress, mapping backfill,
+and the derived SQLite catalog snapshot consumed by the web tracker.
+
+1. A current explicit CSV `yaml_id` mapping is authoritative. A missing explicit
+   target fails resolution rather than falling back silently.
+2. Excluded rows without mappings stay excluded, with their reasons visible.
+3. Otherwise exact primary/alternate names, with a filename-slug fallback, identify
+   candidates. Known CSV publication years must match the represented record year.
+4. Multiple candidates or conflicting years remain pending. No subtitle-prefix
+   guessing or last-record-wins matching is used.
+
+Only identical identity/status/mapping rows collapse. Different years, source IDs,
+types, exclusions, or mappings stay separate. All source CSV row numbers and notes
+remain available in the snapshot. Empty `pending` is not a comprehensive-coverage
+claim; excluded entries and detailed files without catalog matches are counted
+separately. Source nominations enrich browsing and do not determine quality.
+
+The JSON report includes candidate records and explicit publication-year warnings. Ten reviewed mapping corrections, with original targets and reasons, are retained in [../sources/catalog-identity-decisions.yaml](../sources/catalog-identity-decisions.yaml). Nine entries returned to pending; Dune’s 2019 row now links its 2019 edition.
+
+Inspect `python scripts/progress.py --json` before resolving conflicts. Use explicit
+edition evidence, not the goal of making counts increase, to choose corrections.
+Keep both distinct editions. Backfill previews use these same conservative rules.
+
+## Historical research IDs
+
+[../sources/game-aliases.yaml](../sources/game-aliases.yaml) records the initial nineteen deliberate
+links from historical IDs to current records, plus four retired duplicate-record IDs, each with an explanation grounded in
+the stored evidence and represented edition. Historical log bytes remain intact.
+The previously missing original 878 Vikings record was independently researched and
+added using its historical slug; it is not an alias to the second edition.
+
+Aliases do not establish that every logged source supports every field in its target
+record. The audit validates targets and explanations and reports unresolved historical
+IDs; it never rewrites evidence IDs automatically.
+
+## Reviewed duplicate records
+
+On 2026-11-02, standard `two-player-chess` was consolidated into `chess`, and
+`the-castle-carcassonne` into `carcassonne-the-castle`. Both original YAML files are
+[archived unchanged](../archive/2026-11-02/README.md), with hashes and restoration
+requirements. Their protected owner fields were empty; no plays or personal
+ratings were merged or discarded. Differing provisional ratings remain historical
+in the archive. The retained records preserve the useful alternate titles.
+
+The same-title CSV row **The Castle (board game)** identifies a separate 1981
+Mayfair game. Its wrong Carcassonne mapping was cleared rather than counted as a
+duplicate. Faidutti and Laget’s 2000 **Castle** also remains separate and now has
+creator-sourced identity and credits. These decisions demonstrate why comparing
+only the duplicate YAML titles is insufficient: inspect the original CSV identity
+and underlying evidence before assigning its target.
+
+The same review later consolidated `hannibal` into `hannibal-rome-vs-carthage`.
+Both explicitly represented Avalon Hill's 1996 original; the publisher's product-906
+advertisement and contemporary independent play review corroborate it. The retired
+short-title YAML remains unchanged with its hash in the dated archive. Both catalog
+title variants map to the retained original; later Valley Games/PHALANX revisions
+are not silently combined with it.
+
+San Juan demonstrates the different outcome for real editions: the original
+110-card game (2004) and Ravensburger's second edition (2014, with additional
+buildings) remain separate. The undated plain-title CSV row stays pending because
+both legitimately share that name; explicit dated rows cover the two editions.
+An external discovery identifier alone was not treated as proof of its edition.
+
+## Families and distinct commercial titles
+
+The same review preserved Borg's Milton Bradley **Liar's Dice (1987)**, German
+F.X. Schmid **Bluff (1993)** and English **Call My Bluff (1997)** separately.
+The historical `call-my-bluff-1993` evidence alias now points to `bluff-1993`;
+the original notes describe the German award game, not the later English box.
+Original log bytes remain intact. Traditional Dudo was not assigned Borg's
+commercial designer/date merely because the bidding resembles it.
+
+Parker **Focus (1980)** and Milton Bradley **Domination (1982)** also remain
+separate. The undated Focus catalog row still lacks edition evidence; a dated
+Parker row covers the corrected record. **Aggravation** represents CO-5's 1962
+four-player set, while **Wahoo** represents traditional marble-racing variants.
+Maker names and board limits are not universal rules for every Wahoo set.
+
+Three category-level YAMLs, `tiger-game`,
+`third-reich-great-pacific-war-series` and `three-dimensional-chess`, are now [archived unchanged](../archive/2026-11-02/README.md)
+as family overviews. Their dates, player counts and ratings did not identify
+one playable game. The wargame-series overview also blended separate publishers'
+game lines. All three family discovery rows are explained `skip` entries. None
+had historical evidence entries or owner history, and none redirects to an arbitrary
+member. Specific Bagh-Chal, Advanced Third Reich and Raumschach remain active.
+This is an entity-scope correction, not evidence that every family member has
+been researched.
+
+Other reviewed rethemes remain separate as well: original Jactalea **Kamon (2007)**
+uses symbol quantities while Cosmoludo's **2020** revision uses colors; original
+AMIGO **Pirat (1992)** has its own 66-card/two-to-five-player rules, separate from
+Heidelberger **Korsar (2002)** and its extra partnership seats. **Auf Heller und
+Pfennig (1994)** represents the German marketplace, while **Kingdoms (2002)**
+represents FFG's fantasy retheme. The consulted German market-game rules are a
+©1995 reprint; they do not establish an original 1995 release. Dated rows identify
+the appropriate record without inventing external discovery IDs.
+
+Unrelated same-title games also remain separate: **Labyrinth (1986)** is Kobbert's
+Ravensburger maze, while **Labyrinth: The War on Terror (2010)** is Ruhnke's GMT
+simulation. The latter has its own record, supported by the original playbook and
+a contemporary played review; the publisher's linked 2011 second-edition rules
+are identified as a revision. **London (2010)** retains Treefrog's borough map;
+**London (Second Edition, 2017)** separately represents Osprey's borough cards and
+revised rules. A dated original-edition row covers the former without assigning
+the latter's age, timing or components to it.
+
+Some previous records described unsupported games rather than verified editions.
+Lemming, Life Style, Liftoff!, Light Division, Lingua, Livequiz, Looot and Lure now
+identify the sourced games under their existing IDs. The unsupported old publisher,
+year and mechanism combinations were not turned into additional invented records.
+The already separate 2018 `lift-off` record remains distinct from Task Force's
+1989 `liftoff`. Unknown original labels stay unknown: for example, Dutch Livequiz's
+current answer-service availability and Liftoff!'s original duration remain
+unverified. Museum evidence identifies Luftwaffe as Avalon Hill/Lou Zocchi (1971),
+correcting its CSV date and false designer credit.
+
+**Marvel Heroes (2006)** now separately represents Nexus's superhero-team game
+distributed by Fantasy Flight, rather than the older Milton Bradley title.
+Original rule credits distinguish design, additional design/development, board
+art and sculpture. **Lord of the Rings (2000)** is Knizia's original cooperative
+Hasbro/Wizards game, with its own record; The Confrontation and the children's
+game remain distinct. The consulted FFG rulebook explicitly belongs to the 2010
+revision, while creator history and a contemporary played review establish the
+original game.
+
+Original Lifestyle **Macroscope (2016)** and Mayday's **English 2017** issue also
+have separate records/dated rows. The original's first language and printing
+remain unverified. **Maple Valley** illustrates why availability evidence is
+not enough to identify every later reference: final English rules and a finished
+Kickstarter-copy review establish 2023, but the generic 2024 row supplies no
+language or printing. It stays pending, with an explicit 2023 row for the
+represented game. Its shared celebration is competitively scored; the earlier
+cooperative `feel` value was incorrect.
+
+The retired `citadel` YAML also explicitly described Faidutti’s **Citadels**, with
+incorrect and blended credits/specifications. It is archived unchanged and aliases
+to the retained `citadels` record. That record now represents French Multisim’s
+original **2000** game (3–7); the French rule mirror labels its two-player appendix
+as a later German-edition variant. Original art credits are retained by role.
+The singular **Citadel** discovery row instead explicitly maps to the unrelated
+**FGU 1976** tower quest by Goodman, with Krenkel art. Historical filenames cannot
+establish the identity of an unqualified CSV title.
+
+**Machiavelli (1977)** is Battleline’s Renaissance negotiation game, separate from
+the localized Citadels title. **Marco Polo (1983)** is Schmidt’s Kremer design,
+with spinner travel and trading, separate from the later dice-placement games.
+Its inspected German rules do not establish the Spanish CEFA edition’s artist.
+
+Dated **Mr. President** rows distinguish **3M’s 1967 standard revision** from
+**GMT’s 2023 solo simulation**. The former follows actual 1965/66 versions; the
+consulted early-rules transcription is not called the 1967 manual. Its historical
+`presidential-campaign` ID stays stable, while the unverified commercial-title row
+is explicitly ambiguous. The undated Mr. President row remains pending rather
+than selecting either namesake. GMT’s current second-edition manuals do not
+certify original labels or fixed session bounds.
+
+**New Phone Who Dis? (2019)** separates actual adult-game availability from the
+2018 trademark application and consulted 2020 instruction reprint. Supported 3+
+uses the schema’s open-ended count convention; neither the family nor second
+edition is blended into it. **The Night Cage** has an explicit original **2021**
+row supported by rules and contemporary played copies; the generic 2022 row
+remains pending without edition evidence. Its corrected artist is Chris Chan;
+Curt Covert’s credit is additional development.
+
+HABA’s **Orchard (1986)** now has its own record, separate from both
+**First Orchard (2009)** and **Tuck’s solitaire Orchard**. The classic’s publisher
+history identifies September 1986 first distribution. Its consulted legacy English
+3103 rules support 2–8, while later 1–8 rule issues are distinguished. The original
+First Orchard 4655 manual supports solo or cooperative play and changes the raven
+puzzle into a path, with a one-fruit basket result instead of two. Its old 1986 date
+was wrong; its actual 2009 publication is corroborated by contemporary play evidence.
+
+The Tuck record represents the **manufactured Side Room game available in 2020**,
+with a dated catalog row. A March 2020 received-copy account supplies actual
+availability; the December 2019 distributor’s January shipment date was only a plan.
+The 2018 PnP and 2019 campaign/copyright are separate. Later Italian rules identify
+Tuck design/art and shared core; they are not an inspected original English manual.
+Multiplayer requires multiple copies and is not counted as base-box support.
+
+**Occhio! (1997)** is Lamberti’s two-player Jokerman game; the original manual
+remains uninspected. **Odysea Organization (2024)** is Kmošek’s Czech workplace
+card workshop, rather than the unsupported 2010 science-fiction game previously
+described. Its publicly labeled instructions page explicitly offers only previews,
+so counts, age and detailed rules stay unknown. Marketing claims about organizational
+outcomes are not evidence that those outcomes occurred.
+
+**Okiya (2012)** is scoped to the original Jactalea publication, with Cathala’s
+own dated credits and release announcement. **Olympica (1978)** corrects a false
+Jackson design credit: contemporary advertising names Willis, and the physical-set
+index lists Jackson among playtesters. **Othello (1973)** uses the original Japanese
+commercial-release identity; the unqualified 1977 row remains pending. Official
+history distinguishes the first world championship and territorial licenses from
+publication. Differing historical Reversi rules are not silently assigned to it.
+
+Original **Project X (2006)** now separately represents the Lauwers game preceding
+**Parker’s U.S. Pictureka (2007)**. A contemporary played reference supplies counts
+through sixteen; the exact positive sixteen remains intact. The later game supports
+open-ended 2+ and has a dated row. A PDF named Project X actually contains Hasbro’s
+2008 instructions, so filename matching alone does not establish the represented
+edition. The original Project X winning threshold and box labels are unverified.
+
+**Pay Day** uses the represented **U.S. 1975** catalog identity with a dated row.
+Early rules’ ©1974 does not resolve physical publication or Canadian territorial
+claims, so generic 1974 stays pending. Session length depends on the chosen months;
+the later six-player revision is not assigned to the early four-token game.
+
+**Piepmatz (2018)** is the Lookout Riddle/Pinchback card game, with Langman art.
+Its consulted English rules say 8+, versus the current publisher’s 10+; those
+recommendations are explicit, without certifying a physical printing label.
+The **1995** reference remains pending because independent sources establish both
+**Girsch/F.X. Schmid’s search game** and **KRAG/HABA’s tree race**. Preserving an
+external discovery ID does not independently verify which namesake its original
+row intended, and neither maps to the 2018 card game. No earlier child-game credits
+or rules were transferred to that record.
+
+**Piratissimo** represents **Selecta’s 2005 product 3585**, from its own rules and
+independent edition/physical-library evidence, with a dated row. The generic 2006
+reference remains pending without a represented printing; the later 2016 reissue
+is distinct. Original overload loses all cargo. **Pixie Queen (2017)** separates
+finished-copy availability from the 2016 campaign and uses the English production
+rulebook’s final scoring and role-specific credits. The best final total wins;
+“fewest points” would give the wrong result once scores become positive.
+
+**Planet (2018)** now uses Blue Orange’s original European identity, established
+by its English rules and an actual six-play review in November 2018. Corrected
+the designer to **Urtis Šulinskas** and illustrator to **Sabrina Miramon**.
+Later review or localization dates do not establish the first release. Animal
+awards begin in round three and use different habitat and adjacency conditions.
+
+**Prime Climb (2014)** has actual purchased-copy and family-play evidence from
+December 2014, beyond copyright or crowdfunding dates. Its official rules support
+two to four in the main game and one in explicit solo challenges. Qualifying red
+prime spaces earn cards after movement and bumping; not every prime earns one,
+and 101 never does. The consulted manual’s manufacturing date and original art
+credits remain unverified.
+
+**Pony Express (2009)** is a new, separate Faidutti/Bauza/Funforge race with
+Beaulieu illustrations, bluffing and physical die-rolling duels. It does not
+replace **Polygon’s 1947 Pony Express**, whose museum artifact and Bratt credit
+are independently established. The older game has a dated row, but its original
+rules are inaccessible: unsupported counts, age, duration and precise ending
+were cleared. Different piece materials belong to different physical issues.
+
+**Push (2001)** now separately identifies Mühlhäuser’s wooden flicking game.
+Creator chronology and a played review agree on 2001, but the first printing and
+original publisher are unverified; the Steffen-Spiele company dates to 2003.
+Specifications follow the later reviewed wooden issue. Its decorative origin
+tale is not adopted as history. The retained **Ravensburger Push (2018)** has its
+own dated row and original English USe01 rules. Banking protects exposed cards
+from die losses; same-title matching must not transfer those rules to the wooden
+game. Neither pair of unrelated namesakes gets a family or compatibility link.
+
+**Quazar (1977)** now identifies the large Excalibre science-fiction wargame
+advertised for sale in Dragon issue 9, replacing an unsupported 1980 abstract
+description. The original manual remains uninspected. Its advertisement says two
+or more, but no practical multiplayer configurations were verified; the record
+retains the known two-player count without inventing a maximum. Duration, age and
+independent creator credits remain unknown. Review criticism was consulted through
+a later bibliography, rather than claimed as a full original-review reading.
+
+**Quest (2021)** now identifies Eskridge’s Indie Boards & Cards social deduction
+game, with contemporary actual-play evidence and specific English product inventory.
+The former generic 1997 set-collection concept had no established identity to retain
+as an edition. German publisher rules support system/ending comparisons; their
+copyright date and combined graphics credits do not certify the original English
+printing, release date or complete illustration credits.
+
+**Quizimaze** represents the photographed **Wilfred Canadian English box dated
+©1986**, with two-to-eight/10+ guidance. All six scanned manual pages were pixel-read;
+they also carry ©1988 and estimate **one to three hours**, with shorter targets
+optional. The first retail date and individual printing remain unverified. Canadian
+filing in 1986 and a 1987 declaration of use are separate evidence, not release dates;
+the trademark owner is not automatically a designer. The underlying square cards
+stay fixed during play, while gates pivot after answers.
+
+**RattleSnake (2007)** is Nexus’s Di Meglio magnetic-egg placement game, with
+Mattioli art and separate Maiorana graphic design. The English instructions and
+an independent contemporary played reference replace the false 1994 plastic-toy
+description. Its turns have no timer, and victory is competitive rather than
+cooperative. English distribution by Fantasy Flight is distinguished from Nexus’s
+publisher role and later localized issues; exact original physical printing is
+uninspected. Age guidance is 8+, with duration estimates kept provisional.
+
+**Raumschach** now explicitly represents the documented five-board **Normal Form**,
+with twenty pieces per side, including ten pawns and two unicorns. Maack’s 1913
+five-space arrangement has five pawns per side, so those setups are not blended.
+The former 1907 year describes early development, not a verified publication date
+for the represented rules; year and universal minimum age stay unknown. Historical
+texts were read as reproductions, with omitted diagrams and uninspected originals
+made explicit. The generic three-dimensional-chess overview is archived unchanged.
+
+**Rebel Princess: Deluxe Edition (2024)** replaces the unsupported 2015 cooperative
+description. The publisher-linked raster rules preview, contemporary development
+account and actual-play evidence establish the competitive trick-taking design.
+Only relevant core/credit pages were inspected; the file is not certified as an
+original production rulebook. A dated, explicit Deluxe row covers **BEZRPDX**.
+The generic **Rebel Princess (2024)** row is `ambiguous`, since the distributor
+also lists standard **BEZRPSE** in that year. This status prevents the filename
+fallback from selecting Deluxe automatically. The distributor’s 8+/30–40 guidance
+conflicts with the specific Deluxe review’s 15+/45; the selected source guidance
+and uninspected physical English labels remain explicit.
+
+**Red Flags (2015)** now represents Skybound’s 400-card English base game, with
+actual 2015 distribution established separately from its crowdfunding. Later
+publishers’ and localizations’ metadata are not combined. Its session can be
+chosen by rounds or points, so the unsupported fixed bounds were cleared. The
+rules were consulted as a fan-hosted transcription, not an original manual;
+no separate Single-card trophy is supported.
+
+**Resist! (2023)** now explicitly represents **25th Century’s U.S. TFC34000**,
+from contemporary distributor and actual-play evidence. Original Salt & Pepper
+availability in 2022 remains distinct. The publisher’s 10+ guidance replaces 14+,
+and the core concealed-versus-revealed deck decisions are explained. Original-printing
+misprints are not assigned to this later edition. Its solo mode is not multiplayer
+cooperation; all experience estimates remain provisional.
+
+### Original and reissued races and conquest games (2026-11-02)
+
+**Revolver (2011)** now represents White Goblin's original English game. Its
+copyright-2011 rules and contemporary Essen played comments resolve the former
+2009/Mike Doris identity: Mark Chaplin designed it and Chechu Nieto illustrated
+it. Carrascosa's graphics role is separate. Core rules were read through a public
+mirror, including alternating turns at the current battlefield and both gang
+victories, by train survival or Mexican Border tokens. The historical fan-rule
+URL currently describes Revolver 2 and was not adopted. Stronghold's 2012 review
+copy and expansion deck building are outside this selected base-game scope.
+
+**Ribbit (2007)** is SimplyFun's frog version of Knizia's **Schildkrötenrennen
+(2004)**, now separately recorded. The old 2004 CSV reference maps to the German
+turtle game, and a dated 2007 row covers the frogs. The creator bibliography and
+actual 2004/2007 played reviews support the distinction. Downloaded German rules
+say 6+/about twenty minutes and carry ©2003 / 01/0304; other sources list 5+.
+The selected manual guidance and unverified first-sale chronology remain explicit.
+Those rules make the bottom turtle win a finishing stack; that tiebreak is not
+silently assigned to the uninspected original SimplyFun English manual. Original
+edition art credits remain unknown rather than copied from an aggregate list.
+
+The official [CPSC recall 08-056](https://www.cpsc.gov/Recalls/2007/simplyfun-recalls-ribbit-board-games-due-to-risk-of-lead-exposure),
+dated October 31, 2007, identifies specified SimplyFun frog pieces sold from March
+through October 2007 with excess lead in their paint. The official indexed notice
+was read; direct retrieval returned 403. The affected edition's description points
+readers to that notice. Its scope is not extended to replacement pieces or turtle
+editions, and no present remedy availability is promised.
+
+**La Conquête du Monde (1957)** now represents Miro's French original, and the
+retained **Risk (1959)** explicitly represents Parker Brothers' original U.S.
+edition. The old 1957 CSV reference maps to the French record; a dated 1959 row
+covers Parker. Museum history, an independent historical catalog and a public
+French rules scan support the original identity; the exact scanned printing and
+original age remain unknown. The original Parker manual was read as a third-party
+transcription, including its 1959 copyright/proof marking and three-to-six-player
+rules. A modern reproduction includes later two-player neutral-army rules; those
+are not substituted for the original. Original defense is limited to two dice,
+despite six dice being supplied. The unsupported universal historical-first claim
+was removed. **Risk 2210 A.D., Godstorm and Legacy** supply complete games, so
+their false base-game/expansion links were cleared while retaining their family.
+Their other specifications were not re-reviewed in this relationship-only change.
+
+**Dragon Delta (2000)** now represents the original Descartes/Eurogames game, and
+**River Dragons (2013)** represents the Matagot reissue demonstrably available in
+the U.S. that year. The old 2000 reference maps to Dragon Delta; an explicit 2013
+row covers the retained reissue. Creator history and an actual original-game
+review support Dragon Delta; original labels/art remain unverified. The review's
+public indexed text was read without bypassing its direct robots denial. The
+creator's reissue page has a 2013 heading but says 2012 in its body; U.S. trade
+and February 2013 played evidence establish the selected scope without claiming
+a first European release date. Creator-hosted French Matagot rules give Piérô,
+8+/15–45, versus creator web 7+/<30. English physical labels remain uninspected.
+The later 2020 product-listing date and distinct 2025 SKU are not first-release
+evidence. All experience estimates remain provisional. This batch appends 29
+evidence entries, preserving all earlier bytes.
+
+### Historical notices and unknown play experience (2026-11-02)
+
+**River Valley Glassworks (2024)** now explicitly represents Allplay's English
+retail **GME-RVG / UPC 618149323593**, with actual Gen Con purchase/play evidence.
+The publisher's four-page core and two-page solo rules establish Bosley's
+illustration credit, shape-based river selection, color columns, contiguous row
+scoring, the two tallest columns, overflow penalties and automated solo rivals.
+The manual gives 8+/25 minutes; the current publisher page says 7+/20, with
+20–30 in its body. The selected guidance and uninspected original physical
+printing remain explicit. Deluxe components, real-glass upgrades and expansion
+powers are separate. The generic 2023 reference remains pending; it is not
+assumed to mean a campaign. A dated 2024 retail row covers the reviewed record.
+
+**Riviera Quest (1989)** replaces the unsupported 2001 placeholder. The cover
+and relevant text of *Jeux & Stratégie* 56, March 1989, establish the Côte d'Azur
+journey game, its same-name publisher and Villepinte presentation. This is
+documented availability/presentation, not proof of the exact first sale or
+printing. The magazine attributes it to Michel Gaudo and Guillaume Rohmer;
+official Cannes award history instead lists Pascal Chinchilla. Roles remain
+unresolved, so these names are not merged into a joint-design claim. No complete
+rules or physical box were inspected. Unsupported counts, age, time and ratings
+were cleared; the adventure category records the award's classification.
+
+Schema 1.2 permits **`evokes: []` for unknown play experience**, with a research
+comment explaining the missing evidence. Researched/estimated records still use
+five distinct values; partially filled lists remain invalid. This allows the
+sourced historical identity to stay discoverable without assigning ungrounded
+emotional qualities. Regression checks cover validation, full HTTP/SQLite payloads
+and exclusion from feeling filters. A real browser also checked this actual record
+and its filtered results at 390/768/1280 pixels, without page errors or overflow.
+This adds an explicit unknown state to the existing vocabulary; it does not
+implement the proposed genre or `feel` redesign.
+
+**Rock Island (1987)** now identifies Blumöhr's original Hans im Glück German
+train race, replacing an unsupported 1999 abstract placeholder. An independent
+bibliography and identified physical-copy listings agree on 2–4/8+; a retailer
+quotes the publisher's construction crews, Mississippi crossing, Kansas City
+finish and route interference. Forty-five minutes is retail guidance. Original
+rules/art remain unverified; the linked old Spielphase review was inaccessible.
+Mattel's related *Zug nach Westen* has a separate Brunnhofer/Blumöhr attribution
+and 10+ guidance, which are not transferred to this original scope.
+
+**Rummoli (1940)** now explicitly follows the early Copp Clark Canadian game
+represented by a museum artifact cataloged 1940 and copyright-1940 rules.
+Copyright and museum dating do not certify the exact first sale. The generic
+1941 reference remains pending; a dated 1940 row covers the selected record.
+The complete primary rules were read as a third-party transcription: two to eight,
+optional poker betting or showdown, an unseen spare-hand exchange/auction and
+subsequent suit sequences. This is stops play, not trick-taking. Session length
+is chosen by hands; original age and individual creator/art remain unknown.
+This review appends 15 evidence entries without rewriting earlier provenance.

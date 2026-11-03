@@ -18,7 +18,10 @@ Requirements:
     pip install requests
 """
 
+import argparse
 import csv
+import os
+import tempfile
 import json
 import sys
 from pathlib import Path
@@ -28,10 +31,11 @@ import requests
 # ── Config ────────────────────────────────────────────────────────────────────
 
 ENDPOINT  = "https://query.wikidata.org/sparql"
-OUTPUT    = Path("master_list.csv")
-STATE     = Path("wikidata_state.json")
+ROOT = Path(__file__).resolve().parent.parent
+OUTPUT    = ROOT / "master_list.csv"
+STATE     = ROOT / "wikidata_state.json"
 PAGE_SIZE = 10_000
-FIELDS    = ["bgg_id", "name", "year", "type"]
+FIELDS = ["bgg_id", "name", "year", "type", "status", "notes", "yaml_id"]
 
 # Wikidata Q131436 = board game
 # P577  = publication date
@@ -43,7 +47,7 @@ SELECT DISTINCT ?game ?gameLabel ?date ?bggId WHERE {{
   OPTIONAL {{ ?game wdt:P2339 ?bggId }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en" . }}
 }}
-ORDER BY ?game
+ORDER BY ?game ?date ?bggId
 LIMIT {limit}
 OFFSET {offset}
 """
@@ -63,11 +67,11 @@ def load_state() -> dict:
 
 
 def save_state(s: dict) -> None:
-    STATE.write_text(json.dumps(s, indent=2))
+    atomic_write(STATE, json.dumps(s, indent=2) + "\n")
 
 # ── Fetch & parse ─────────────────────────────────────────────────────────────
 
-def fetch_page(offset: int) -> list[dict]:
+def fetch_page(offset: int):
     query = QUERY.format(limit=PAGE_SIZE, offset=offset)
     r = requests.get(
         ENDPOINT,
@@ -78,9 +82,10 @@ def fetch_page(offset: int) -> list[dict]:
     r.raise_for_status()
 
     rows = []
-    seen = set()  # deduplicate by (name, bgg_id)
+    seen = set()  # Preserve different publication years for same-title editions.
 
-    for b in r.json()["results"]["bindings"]:
+    bindings = r.json()["results"]["bindings"]
+    for b in bindings:
         name   = b.get("gameLabel", {}).get("value", "")
         bgg_id = b.get("bggId",     {}).get("value", "")
         date   = b.get("date",      {}).get("value", "")
@@ -92,7 +97,7 @@ def fetch_page(offset: int) -> list[dict]:
         # Extract year from ISO date string ("2019-01-01T00:00:00Z" → "2019")
         year = date[:4] if date else ""
 
-        key = (name, bgg_id)
+        key = (name, bgg_id, year)
         if key in seen:
             continue
         seen.add(key)
@@ -104,7 +109,7 @@ def fetch_page(offset: int) -> list[dict]:
             "type":   "boardgame",
         })
 
-    return rows
+    return rows, len(bindings)
 
 # ── Status ────────────────────────────────────────────────────────────────────
 
@@ -117,42 +122,74 @@ def print_status(s: dict) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def atomic_write(path, content):
+    fd, temporary = tempfile.mkstemp(prefix="." + path.name, dir=path.parent)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8", newline="") as handle:
+            handle.write(content)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temporary, path)
+    finally:
+        if os.path.exists(temporary):
+            os.unlink(temporary)
+
+
+def merge_rows(existing, incoming):
+    """Preserve editorial columns and make page replay idempotent."""
+    result = list(existing)
+    ids = {r["bgg_id"] for r in existing if r["bgg_id"]}
+    def key(r):
+        return (r["name"].strip().casefold(), r.get("year", ""), r.get("type", "boardgame"))
+    identities = {key(r) for r in existing}
+    for row in incoming:
+        if (row["bgg_id"] and row["bgg_id"] in ids) or key(row) in identities:
+            continue
+        result.append({field: row.get(field, "") for field in FIELDS})
+        identities.add(key(row))
+        if row["bgg_id"]:
+            ids.add(row["bgg_id"])
+    return result
+
+
+def import_page(state, rows, raw_count, output=OUTPUT, state_path=STATE):
+    import io
+    existing = []
+    if output.exists():
+        with output.open(encoding="utf-8", newline="") as handle:
+            reader = csv.DictReader(handle)
+            if reader.fieldnames != FIELDS:
+                raise ValueError(f"Refusing to change catalog schema: {reader.fieldnames}")
+            existing = list(reader)
+            if any(None in row or any(v is None for v in row.values()) for row in existing):
+                raise ValueError("Malformed existing catalog row")
+    merged = merge_rows(existing, rows)
+    buffer = io.StringIO(newline="")
+    writer = csv.DictWriter(buffer, fieldnames=FIELDS)
+    writer.writeheader()
+    writer.writerows(merged)
+    # Commit CSV first: a failed state write safely replays this page next run.
+    atomic_write(output, buffer.getvalue())
+    updated = dict(state, offset=state["offset"] + raw_count, done=raw_count < PAGE_SIZE)
+    atomic_write(state_path, json.dumps(updated, indent=2) + "\n")
+    return len(merged) - len(existing), updated
+
+
 def main():
-    s = load_state()
-
-    if "--status" in sys.argv:
-        print_status(s)
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--status", action="store_true")
+    parser.add_argument("--restart", action="store_true", help="Replay from offset zero; existing catalog rows are retained")
+    args = parser.parse_args()
+    state = {"offset": 0, "done": False} if args.restart else load_state()
+    if args.status:
+        print_status(state)
         return
-
-    if s["done"]:
-        print("All pages already fetched. Use --status to review, or delete")
-        print(f"{STATE} to start over.")
+    if state["done"]:
+        print("All pages marked fetched. Use --restart to safely replay old pagination.")
         return
-
-    offset = s["offset"]
-    print(f"Fetching rows {offset:,}–{offset + PAGE_SIZE:,} from Wikidata...")
-
-    rows = fetch_page(offset)
-    n    = len(rows)
-
-    first_write = not OUTPUT.exists()
-    with OUTPUT.open("w" if first_write else "a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDS)
-        if first_write:
-            writer.writeheader()
-        writer.writerows(rows)
-
-    s["offset"] = offset + PAGE_SIZE
-    if n < PAGE_SIZE:
-        s["done"] = True
-
-    save_state(s)
-
-    print(f"Done. {n:,} games written to {OUTPUT}.")
-    if s["done"]:
-        print("Last page reached — scrape complete.")
-    else:
-        print(f"Run again to fetch the next {PAGE_SIZE:,}.")
+    rows, raw_count = fetch_page(state["offset"])
+    added, updated = import_page(state, rows, raw_count)
+    print(f"Fetched {raw_count} raw bindings; added {added} catalog rows. Offset {updated['offset']}; done={updated['done']}")
 
 
 if __name__ == "__main__":

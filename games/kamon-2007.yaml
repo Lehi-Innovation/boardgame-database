@@ -1,0 +1,61 @@
+id: kamon-2007
+name: "Kamon"
+alternate_names: []
+year: 2007
+game_family: kamon
+edition: "Original Jactalea edition (February 2007)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Research-based experience estimates, not owner ratings.
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 4
+value: 1
+affinity: null
+hotness: null
+categories:
+  - Abstract
+  - Pattern Building
+  - Bruno Cathala
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+possible_counts: [2]
+true_counts: [2]
+designer:
+  - Bruno Cathala
+publisher:
+  - Jactalea
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 8
+
+description: |
+  The original Jactalea Kamon is a two-player connection game using symbols and
+  quantities. Randomly place the tokens on a hexagonal board, then leave the
+  starting token's space blocked. Black's first placement must be on an edge
+  away from a corner. Each later move must match either the symbol or the number
+  of symbols on the token taken by the opponent's previous move.
+
+  Replace a token with your own piece and try to connect opposite matching edges,
+  form a loop enclosing an empty or opposing space, or prevent the opponent
+  from making a legal placement. If both players exhaust their pieces without
+  a winning condition, the game is drawn. Every choice narrows the opponent's
+  reply, so a promising connection also needs a plan for the next constraint.
+  The later Cosmoludo revision uses colors in place of the original quantities.
+
+# Creator's dated release entry and mirrored2007 rules establish sole design,
+# 2/8+, original symbol-count constraints. Creator's about30-minute estimate is
+# not measured bounds. Original physical leather printing was not inspected.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

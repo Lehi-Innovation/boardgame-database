@@ -1,0 +1,53 @@
+# Creator ludography lists Push in 2001; independent December 2010 owned-game
+# review also says 2001 and documents wooden 25-hole game, 2–4/8+/10–30. These are
+# bibliographic dates, not inspection of a manufactured 2001 copy. Founder history
+# dates Steffen-Spiele company to 2003, so original publisher is unknown rather
+# than anachronistically assigning that company to 2001. Later reviewed Steffen
+# issue supplies specifications; first-printing limits remain unverified. Original
+# manual uninspected. Scottish/Indian origin tale not adopted as historical fact.
+# Preferred counts unknown; duration midpoint and experience ratings provisional.
+id: push-2001
+name: Push
+alternate_names: []
+year: 2001
+game_family: null
+edition: Mühlhäuser wooden game listed in 2001; first printing and original publisher unverified
+base_game: null
+expansions: []
+compatible_with: []
+length: 1
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
+value: 3
+affinity: null
+hotness: null
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+evokes:
+  - Agency
+  - Lucky
+  - Rivalry
+  - Tension
+  - Progress
+possible_counts:
+  - 2
+  - 3
+  - 4
+true_counts: []
+designer:
+  - Steffen Mühlhäuser
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+description: |
+  Flick wooden discs toward a grid of twenty-five holes. Each turn gives you three shots, and holes farther from your own shooting edge are worth more points. A useful landing place for you may deny an opponent a valuable target, while later shots can move discs already on the board. The physical aim is straightforward; positioning and optional expert scoring add choices. The listed counts and duration describe the Steffen game reviewed in 2010. Creator and review references date the design to 2001, but the first printing and its original publisher remain unverified. This wooden game is separate from Ravensburger’s later card game.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

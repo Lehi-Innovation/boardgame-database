@@ -1,11 +1,11 @@
 id: jurassic-parts
 name: "Jurassic Parts"
 alternate_names: []
-year: 2021
+year: 2020
 
 # Relationships
 game_family: null
-edition: null
+edition: "25th Century Games original English (2020), 25CGG10"
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4  # Fierce; provisional estimate from competing for shared fossil claims
 
 value: 1  # Budget
 
@@ -24,7 +24,6 @@ hotness: null
 categories:
   - Area Control
   - Set Collection
-  - Tile Placement
   - Family
   - Animals
 
@@ -47,9 +46,24 @@ artist:
 playtime_minutes: 30
 min_playtime: 20
 max_playtime: 45
-min_age: 8
+min_age: 10
 
 description: |
-  Jurassic Parts is a light area enclosure and set collection game where players are paleontologists excavating a shared slab of rock made of hex tiles representing dinosaur fossils. On their turn, players place chisels around hex tile edges to claim sections; when a section breaks free, tiles are divided with the largest contributor taking the most. Collected tiles are assembled into dinosaur skeletons worth varying victory points, rewarding both opportunistic play and long-term fossil completion. Illustrated by Andrew Bosley (Everdell), the game offers an accessible and visually charming experience for families and casual groups.
+  Jurassic Parts puts competing paleontologists around one slab of fossil tiles.
+  Sharpen chisels and place them in cracks between tiles, spending extra effort
+  on rocky edges. When a section splits away, contributors claim tiles in order
+  of their investment: the leading contributor takes half, rounded up, subject
+  to a six-tile limit, before the next contributor chooses from what remains.
+
+  Complete dinosaur skeletons for points and amber, or collect plants and trade
+  with the Field Leader to improve a difficult position. All players affect the
+  same excavation, so a useful cut can also open an opportunity for a rival.
+  The shrinking slab creates a compact contest over timing, shared boundaries
+  and finishing sets.
+
+# Actual-set inventory and independent release bibliography identify2020, rather
+# than the2021 review dates. Rules confirm2–5 and Bosley illustration; Paquette
+# and Crimzon are credited for graphic design. Age10 follows played-copy review
+# recommendations, not a personally inspected original box. Other estimates provisional.
 
 upgrades: []

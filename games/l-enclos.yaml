@@ -5,16 +5,16 @@ year: 1986
 
 # Relationships
 game_family: null
-edition: null
+edition: "Ceméa journal game (1986), reported in Vers l'Éducation Nouvelle 402"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 0  # Snack
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Directly blocking the opponent's sheep.
 value: 1  # Budget
 
 affinity: null
@@ -38,12 +38,12 @@ designer:
 publisher:
   - CEMEA
 artist: []
-playtime_minutes: 15
-min_playtime: 10
-max_playtime: 20
-min_age: 8
+playtime_minutes: 15  # Existing provisional estimate; reviewed rules give no duration.
+min_playtime: null
+max_playtime: null
+min_age: null  # No inspected original age label.
 
 description: |
-  L'Enclos is a 1986 two-player abstract strategy game designed by Michel Boutin and first published in the French educational journal Vers l'Éducation Nouvelle. The game lasts approximately 15 minutes and offers a compact strategic challenge. Being an obscure publication from a French educational publication, detailed rules are not widely available in English, but it represents an example of abstract game design from French educational gaming circles of the 1980s.
+  Move your sheep through adjacent spaces and place barriers to restrict your opponent. Each turn includes a sheep move and a new barrier, in either order; the aim is to leave the other player's three sheep unable to move. The visible board and permanent barriers make preserving escape routes part of the puzzle. Independent rules references identify Michel Boutin's 1986 educational-journal game. The original journal issue was not inspected in this review, and timing and experience assessments remain provisional.
 
 upgrades: []

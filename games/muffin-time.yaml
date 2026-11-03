@@ -1,3 +1,9 @@
+# 2019 is the crowdfunding year, not the represented physical release. Original
+# retail UPC5060579760915 is independently dated 2020, 2–6/12+/20–40. The current
+# publisher page explicitly represents 2021 with 2–8/13+, so those limits are separate.
+# Mirrored rules require the ten-card announcement before a winning next turn.
+# Creator attribution retained, not a claim of complete original credit inspection.
+# Preferred counts and experience ratings are provisional.
 id: muffin-time
 name: "Muffin Time"
 alternate_names: []
@@ -5,16 +11,16 @@ year: 2020
 
 # Relationships
 game_family: null
-edition: null
+edition: Big Potato original English retail edition, UPC5060579760915 (2020)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 3  # Competitive
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
 value: 1  # Budget
 
 affinity: null
@@ -29,7 +35,7 @@ categories:
 evokes:
   - Humor
   - Lucky
-  - Chaos
+  - Connection
   - Rivalry
   - Tension
 
@@ -44,10 +50,10 @@ artist:
   - TomSka
 playtime_minutes: 30
 min_playtime: 20
-max_playtime: 45
+max_playtime: 40
 min_age: 12
 
 description: |
-  Muffin Time is a chaotic hand-management card game based on the TomSka/asdfmovie internet series, published by Big Potato Games following a successful 2019 Kickstarter. The goal is to be the first player to have exactly 10 cards in hand at the start of their turn. Players draw, play action cards to attack opponents or gain advantages, place hidden trap cards that trigger on opponents' turns, and counter-play with response cards at any time. The game captures the anarchic absurdist humor of its source material, making it a lighthearted party filler with high chaos and minimal strategy.
+  Build a hand of exactly ten cards, announce “It’s Muffin Time!” and try to keep that hand until your next turn begins. Each turn lets you set one hidden trap before either drawing a card or playing an action. Traps react to what people do, while counter cards interrupt actions and other counters; a well-timed exchange can overturn an apparent win. The asdfmovie humor and frequent interference make this a noisy, unpredictable party game. Reading card text and watching for triggers matter more than long-term planning. This record represents the original retail game, before later expanded editions.
 
 upgrades: []

@@ -1,0 +1,2861 @@
+decisions:
+- name: Axis & Allies
+  year: 1981
+  bgg_id: '98'
+  previous_yaml_id: axis-and-allies-battle-of-the-bulge
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The mapped record represents the distinct 2006 Battle of the Bulge standalone,
+    not original Axis & Allies.
+- name: Endeavor
+  year: 2009
+  bgg_id: '33160'
+  previous_yaml_id: endeavor-deep-sea
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The mapped record is Endeavor Deep Sea, a distinct later game.
+- name: Imperium
+  year: 1977
+  bgg_id: '3661'
+  previous_yaml_id: imperium-horizons
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The mapped record is the modern Imperium Horizons deck-building game, not
+    the 1977 game.
+- name: Kemet
+  year: 2012
+  bgg_id: '127023'
+  previous_yaml_id: kemet-blood-and-sand
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Blood and Sand is a distinct later edition; original Kemet needs its own
+    record or explicit edition evidence.
+- name: Lord of the Rings
+  year: 2000
+  bgg_id: '823'
+  previous_yaml_id: lord-of-the-rings-the-confrontation
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The Confrontation is a separate two-player game, not the 2000 cooperative
+    Lord of the Rings.
+- name: Machiavelli
+  year: 1977
+  bgg_id: '286'
+  previous_yaml_id: citadel
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Machiavelli is also a localized title for Citadels, but that 2000 game is
+    not the 1977 game.
+- name: Marco Polo
+  year: 1983
+  bgg_id: '2280'
+  previous_yaml_id: voyages-of-marco-polo
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The Voyages of Marco Polo is a separate later game, not the 1983 title.
+- name: Space Hulk
+  year: 1989
+  bgg_id: '2163'
+  previous_yaml_id: deathwing
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Deathwing is an expansion, not the 1989 base game.
+- name: The Game of Life
+  year: 1960
+  bgg_id: '2921'
+  previous_yaml_id: jinsei-game
+  yaml_id: null
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: Jinsei Game represents the 1968 Japanese adaptation, not the original 1960
+    US game.
+- name: 'Dune: The Board Game'
+  year: 2019
+  bgg_id: null
+  previous_yaml_id: dune-1979
+  yaml_id: dune
+  reviewed_on: '2026-11-01'
+  basis: Existing represented titles, years, and edition descriptions in game records;
+    no fresh external verification.
+  reason: The CSV year selects the 2019 Gale Force Nine record, not the 1979 Avalon
+    Hill edition.
+- name: Cascadia
+  previous_year: 2022
+  year: 2021
+  bgg_id: '295947'
+  yaml_id: cascadia
+  reviewed_on: '2026-11-02'
+  basis: https://www.flatout.games/whoweare
+  reason: Publisher lists Cascadia among 2021 publications; 2022 is the award year.
+- name: Bomb Busters
+  year: 2024
+  bgg_id: null
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://news.pegasus.de/en/co-operation-not-detonation/
+  reason: Same title/year as the existing row with bgg_id 413246; preserve this source
+    row as a documented duplicate.
+- name: Adel Verpflichtet / Hoity Toity
+  reviewed_on: '2026-11-02'
+  original: adel-verpflichtet
+  original_year: 1990
+  later_edition: hoity-toity
+  later_year: 2004
+  basis: https://opinionatedgamers.com/2015/07/01/sdj-re-reviews-12-adel-verpflichtet-a-k-a-hoity-toity/
+  reason: The review distinguishes F.X. Schmid original, 1991 Avalon Hill printing,
+    2000 Alea and 2004 Uberplay, first named Hoity Toity. Kept two records as explicit
+    editions; marked the duplicate 1990 alias CSV row and added a 2004 edition row.
+- name: Moon Colony Bloodbath
+  previous_year: 2023
+  year: 2025
+  yaml_id: moon-colony-bloodbath
+  reviewed_on: '2026-11-02'
+  basis: https://boardgameviews.wordpress.com/2026/09/24/moon-colony-bloodbath-incl-solo-mode/
+  reason: Original play review explicitly identifies a 2025 release; publisher product
+    identity/specs independently match the current record. No 2023 publication evidence
+    was found.
+- name: Das Bohnenspiel / Bohnanza
+  reviewed_on: '2026-11-02'
+  basis: https://ludii.games/details.php?keyword=Das+Bohnenspiel
+  reason: Research archive identifies traditional two-row mancala, not Rosenberg’s
+    bean-trading card game. Corrected the misidentified record and false alternate
+    name; mapped both catalog rows to separate games.
+- name: Challengers
+  previous_year: 2023
+  year: 2022
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://1moretimegames.com/en_us/about/
+  reason: Publisher explicitly gives October 2022 release and 2023 awards. Existing
+    Challengers! 2022 row already represents the original game.
+- name: Dominion
+  previous_year: 2009
+  year: 2008
+  yaml_id: dominion
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.riograndegames.com/games/dominion1stedition/
+  reason: Publisher explicitly identifies original first edition as first published
+    in 2008; 2009 is the award year.
+- name: DroPolter
+  previous_year: 2022
+  year: 2023
+  yaml_id: dropolter
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://oinkgames.com/en/games/analog/dropolter/
+  reason: Publisher release field gives 2023 and Japanese/English availability; original
+    CSV 2022 is unsupported.
+- name: 'Tzolk''in: The Mayan Calendar'
+  previous_year: 2013
+  year: 2012
+  yaml_id: tzolkin-the-mayan-calendar
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.czechgames.com/for-press-games/tzolkin-the-mayan-calendar
+  reason: Publisher base-game factsheet explicitly gives Q4 2012; the 2013 Tribes
+    & Prophecies expansion is separate.
+- name: Isle of Skye
+  previous_year: 2016
+  year: 2015
+  yaml_id: isle-of-skye-from-chieftain-to-king
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://www.lookout-spiele.de/en/games/isleofskye.html
+  reason: Publisher gives 2015 release and 2016 award; the full-title 2015 row with
+    existing cross-reference 176494 already represents this same original game.
+- name: Alchemists
+  previous_year: 2015
+  year: 2014
+  yaml_id: alchemists
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.czechgames.com/games/alchemists
+  reason: Publisher gives Q4 2014, Matúš Kotry, 2–4, 12+, 120 minutes; app/web or
+    game-master alternative. Corrected false designer, age and code-wheel claim; unsupported
+    time bounds removed.
+- name: Qwirkle
+  previous_year: 2011
+  year: 2006
+  yaml_id: qwirkle
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://icv2.com/articles/games/view/20433/qwirkle-wins-2011-spiel-des-jahres
+  reason: Contemporaneous June 2011 reporting explicitly distinguishes US publication
+    2006, German publication 2010 and 2011 award. CSV now selects represented MindWare
+    original; removed unsupported sales-count claim.
+- name: Tajuto
+  previous_year: 2011
+  year: 2019
+  yaml_id: tajuto
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.nobleknight.com/P/2147796035/Tajuto
+  reason: Retailer product specifications explicitly identify Super Meeple, 2019,
+    2–4 and 45–60 minutes. Publisher rules search-indexed credits also carry 2019;
+    direct publisher PDF fetch timed out.
+- name: Lacuna
+  previous_year: 2020
+  year: 2023
+  yaml_id: lacuna
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.whatboardgame.com/post/lacuna-board-game-review
+  reason: Original play review explicitly states availability July 2023. CMYK product
+    page independently matches two-player flower-collection identity; removed unsupported
+    homemade-design date.
+- name: Monopoly
+  previous_catalog_year: 1937
+  year: 1935
+  yaml_id: monopoly
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://corp.hasbro.com/news-releases/news-release-details/hasbros-iconic-monopoly-brand-celebrates-80-years-pop-culture
+  reason: Publisher anniversary history explicitly identifies 1935 debut; generic
+    CSV row has no regional edition qualifier. Represents Parker Brothers original,
+    not a claim that every later edition has the same date.
+- name: Wilmot's Warehouse
+  previous_catalog_year: 2021
+  year: 2024
+  yaml_id: wilmots-warehouse
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.cmyk.games/pages/about-cmyk
+  reason: Publisher’s own game chronology explicitly lists Wilmot’s Warehouse in 2024
+    with the three current designers. Corrected CSV 2021; the videogame and announcement
+    dates are separate.
+- name: Horseless Carriage
+  previous_catalog_year: 2023
+  year: 2023
+  yaml_id: horseless-carriage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.lautapeliopas.fi/peliarvostelut/horseless-carriage/
+  reason: Independent original play review explicitly gives Splotter publication 2023.
+    Corrected detailed-record 2022 to 2023 and labeled original edition. Current publisher
+    storefront is explicitly a second edition and does not establish original release
+    date.
+- name: 'Long Shot: The Dice Game'
+  previous_catalog_year: 2022
+  year: 2022
+  yaml_id: long-shot-the-dice-game
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://geekdad.com/2022/05/reaping-the-rewards-long-shot-the-dice-game-is-a-sure-bet/
+  reason: May 2022 original finished-product review distinguishes April 2021 crowdfunding/prototype
+    from shipment and availability in 2022. Corrected detailed-record year to 2022;
+    publisher independently confirms 1–8, 25 minutes, 14+. Unsupported time bounds
+    removed.
+- name: Mū Tōrere
+  yaml_id: mu-torere
+  previous_status: failed
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://ludii.games/details.php?keyword=Mu+Torere
+  - https://ludii.games/data.php?variantId=2017
+  reason: Reopened historical traditional-game exclusion; added independently sourced
+    record. Manufactured packaging is not an inclusion requirement. Unknown publication/age
+    facts remain null.
+- name: Nine Men's Morris
+  yaml_id: nine-mens-morris
+  previous_status: failed
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamescrafters.berkeley.edu/games.php?game=ninemensmorris
+  - https://www.historymuseumofmobile.com/uploads/NineMensMorrisGame.pdf
+  - https://www.nine-mens-morris.net/manual.html
+  reason: Reopened historical traditional-game exclusion; added independently sourced
+    record. Manufactured packaging is not an inclusion requirement. Unknown publication/age
+    facts remain null.
+- name: A.D.E.L.E.
+  previous_catalog_year: 2021
+  previous_record_year: 2022
+  year: 2022
+  yaml_id: adele
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://dmzgames.es/en/
+  reason: Publisher explicitly distinguishes 2021 crowdfunding from general public
+    availability in January 2022. Corrected supported counts to 1–5 and main human-versus-crew
+    mode from official rules; solo uses separate supplement.
+- name: Elasund
+  previous_catalog_year: 2016
+  previous_record_year: 2005
+  year: 2005
+  yaml_id: elasund-the-first-city
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.catan.com/explore-catan/ludography/2001-2005
+  reason: Publisher chronology places original Elasund under 2005, corroborated by
+    original rules. No regional/printing qualifier was supplied for the erroneous
+    2016 catalog row. Removed unsupported longest-road/largest-church scoring claims.
+- name: Jekyll & Hyde vs Scotland Yard
+  previous_catalog_year: 2022
+  previous_record_year: 2024
+  year: 2023
+  yaml_id: jekyll-and-hyde-vs-scotland-yard
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.nicegamepublishing.com/wp-content/uploads/2023/05/JHvsSY_Regeln_GER_web.pdf
+  reason: Publisher-hosted rules explicitly identify original German edition 2023
+    and Mandoo copyright 2023. Corrected CSV 2022 and detailed-record 2024 to original-game
+    2023; English publisher independently corroborates all three designers, artist
+    and specifications. This does not date every English printing.
+- name: 'Monster Hunter World: The Board Game'
+  previous_catalog_year: 2023
+  previous_record_year: 2022
+  year: 2023
+  yaml_id: monster-hunter-world-the-board-game
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://steamforged.com/blogs/brands/announcing-monster-hunter-world-iceborne-board-game
+  reason: Publisher April 2023 announcement confirms original World in backers’ hands
+    and retail planned for 2023, separate from 2021 funding and the new Iceborne campaign.
+    Corrected unsupported detailed-record 2022.
+- name: 'Resident Evil 2: The Board Game'
+  previous_catalog_year: 2019
+  previous_record_year: 2018
+  year: 2019
+  yaml_id: resident-evil-2-the-board-game
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://icv2.com/articles/news/view/42056/resident-evil-2-board-game-expansions
+  reason: Contemporaneous December 2018 trade report sets retail base-game launch
+    for January 25, 2019. Record now explicitly represents that retail product; this
+    does not rule out earlier backer deliveries. Publisher separately confirms 1–4,
+    90–120 minutes, age 14+.
+- name: The Crew
+  year: 2020
+  previous_yaml_id: the-crew-quest-for-planet-nine
+  yaml_id: null
+  duplicate_of: 'The Crew: The Quest for Planet Nine (2019)'
+  status: duplicate
+  reviewed_on: '2026-11-02'
+  basis: https://www.kosmos.de/products/die-crew
+  reason: Short title originates from the Kennerspiel des Jahres Winners source, dated
+    to its 2020 award. Publisher explicitly gives first publication 25 September 2019.
+    Duplicate of the existing full-title 2019 row; no separate regional edition was
+    specified. Award-year value retained as historical context; explicit mapping cleared
+    so exclusion is honored.
+- name: Leinen los!
+  previous_catalog_year: 1997
+  year: 1996
+  yaml_id: leinen-los
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.luding.org/cgi-bin/GameData.py/DEgameid/7270
+  reason: Independent Luding catalog specifies HABA/Alex Randolph publication 1996,
+    separately the 1997 children’s award, and links 2017 Zoch successor. Jury directly
+    confirms finger-steered boats, cord timer, 2–4, 6+, about ten minutes. Corrected
+    unsupported 2022 Ravensburger roll-and-write identity and unverified translated
+    alias in existing slug; personal fields preserved.
+- name: Medici vs Strozzi
+  previous_catalog_year: 2006
+  year: 2006
+  yaml_id: medici-vs-strozzi
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.knizia.de/wp-content/uploads/List-Games-2021-Website.pdf
+  reason: Designer’s own list explicitly identifies German Abacus and English Rio
+    Grande editions in 2006. Corrected false 2004/Amigo identity; separate two-player
+    game rather than the 1995 multiplayer Medici.
+- name: No Retreat! The Russian Front
+  previous_catalog_year: 2011
+  year: 2011
+  yaml_id: no-retreat-the-russian-front
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.gmtgames.com/noretreat/NoRetreat-Rules-FINAL.pdf
+  reason: Record now explicitly represents the 2011 GMT deluxe edition, not the smaller
+    2008 Victory Point original. Publisher-hosted 2011 rules and independent original
+    play review corroborate scope; corrected art credits and false claim of a separate
+    55-card deck for each side.
+- name: Giganten (board game)
+  year: 1981
+  previous_yaml_id: giganten
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/giganten/
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/9577
+  reason: The represented detailed record is the KOSMOS 1999 oil game confirmed by
+    its award jury and independent Luding catalog. Clear the incompatible 1981 discovery-row
+    mapping and return it to pending for independent early-game research; do not replace
+    its historical year to force a match. Existing Giganten (1999) row still matches
+    the corrected oil-game record. Corrected false Stefan Dorra/Goldsieber credits,
+    two-player support and main-award winner claim in that record.
+- name: Présages
+  year: 2025
+  yaml_id: presages
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://lemeeplejaune.fr/2025/03/14/presages/
+  reason: Corrected record 2024 to original March 2025 publication from independent
+    original play review, which explicitly distinguishes a 2024 festival encounter.
+    Publisher confirms competing teams, 4–6, 10+, thirty minutes. Removed false universally
+    cooperative premise, two/three-player support, drafting tag and unverified award
+    assertions. Preferred even-team sizes are provisional.
+- name: 'Oriflamme: Ablaze'
+  year: 2020
+  yaml_id: oriflamme-ablaze
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.spelonk.be/oriflamme-ablaze
+  reason: Retailer English-product first-publication metadata gives 2020, corroborated
+    by French retail release 6 November 2020 in indexed text. Publisher/distributor
+    confirms independent play and optional combination; record now scopes original
+    standalone set rather than requiring a base game. Corrected record 2021; note
+    current French/UK timing and character-count wording differences rather than silently
+    mixing them.
+- name: 'Mind MGMT: The Psychic Espionage Game'
+  year: 2021
+  yaml_id: mind-mgmt
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://opinionatedgamers.com/2021/12/21/dale-yu-review-of-mind-mgmt/
+  reason: Contemporaneous December 2021 finished-copy review establishes availability
+    before the erroneous record 2022; independent later original review explicitly
+    gives release 2021. Publisher confirms both designers, Matt Kindt art, 1–5, 13+,
+    nominal sixty minutes and app-based solo/cooperative support. Preferred group
+    sizes remain a provisional view, not reviewer consensus.
+- name: 'Masters of Crime: Shadows'
+  year: 2023
+  previous_yaml_id: masters-of-crime-shadows
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: https://thamesandkosmos.com/collections/masters-of-crime/products/masters-of-crime-shadows
+  reason: Unqualified 2023 discovery date is not verified by the consulted English
+    publisher evidence. Clear old mapping to the specifically represented 2024 Thames
+    & Kosmos English product instead of rewriting this historical date. Separate sourced
+    2024 English catalog row added; original-language release still needs suitable
+    evidence.
+- name: 'Masters of Crime: Shadows'
+  year: 2024
+  edition: Thames & Kosmos English, SKU 683826
+  yaml_id: masters-of-crime-shadows
+  status: existing
+  catalog_action: added separate English-edition row
+  reviewed_on: '2026-11-02'
+  basis: https://cdn.asp.events/CLIENT_Ascentia_4E961A52_5056_B739_54289B84DF34E888/sites/autumn-fair-2023/media/libraries/exhibitor-catalogues/386111-Thames-Kosmos-2024-GAMES-low-res-compressed.pdf
+  reason: 2024 publisher catalog marks this English SKU NEW and specifies 1–5, 16+,
+    2–4 hours. Record explicitly scopes that edition; no original-world publication
+    year inferred from the English date. Conflicting 1–6 marketing retained as uncertainty.
+- name: Rock Em Sock Em Robots
+  previous_catalog_year: 1964
+  year: 1964
+  yaml_id: rock-em-sock-em-robots
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://artsandculture.google.com/asset/rock-em-sock-em-robots-game-louis-marx-company/ogHRkr3QA8nXwg?hl=en
+  reason: The Strong Museum object 119.287 explicitly dates original Marx game to
+    1964, corroborated by current Mattel product history. Corrected unsupported detailed-record
+    1966. Original Marx age label not established; later Knock or Block (2022) six-plus/die
+    rules are not merged into original.
+- name: Save Doctor Lucky
+  previous_catalog_year: 2000
+  year: 2000
+  yaml_id: save-doctor-lucky
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://crabfragmentlabs.com/shop/p/save-doctor-lucky
+  reason: 'Designer’s own archive explicitly release 2000, James Ernest/Damon Brown,
+    3–7 and forty minutes. Corrected record 2004, unsupported 2/8-player support and
+    false rescue-in-secret rule: a winning rescue needs a witness. Shared-loss deadline
+    does not make victory cooperative.'
+- name: That's Life!
+  previous_catalog_year: 2005
+  year: 2005
+  yaml_id: thats-life
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.vindjeu.eu/prd/2010/02/21/thats-life/
+  reason: Independent original play review explicitly dates Ravensburger original
+    to 2005; jury confirms 2–6, eight-plus, thirty minutes and distinguishes 2020
+    AMIGO relaunch. Corrected record 2004, omitted sixth player and unsupported duration
+    bounds.
+- name: Western Legends
+  previous_catalog_year: 2020
+  year: 2018
+  yaml_id: western-legends
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://geekdad.com/2022/03/kickstarter-tabletop-alert-western-legends-the-big-box-stores-everything-in-one-container/
+  reason: Independent retrospective explicitly states initial game crowdfunded AND
+    shipped in 2018, corroborated by independent rules reference publication 2018.
+    Generic CSV row has no later-edition qualifier; selects original base game. Removed
+    unsupported universal quality claim; base-game timing 60–90 minutes is distinct
+    from expansion content.
+- name: Chess / two-player chess
+  yaml_id: chess
+  retired_yaml_id: two-player-chess
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://handbook.fide.com/chapter/E012023
+  reason: 'Reviewed duplicate-record consolidation: standard Chess and two-player
+    chess described the same two-opponent game under FIDE rules. Retired two-player-chess
+    YAML unchanged to dated archive; retained canonical chess and its unknown publication/age
+    facts. No owner ratings or play history existed in the retired record.'
+- name: 'Carcassonne: The Castle / Die Burg'
+  year: 2003
+  yaml_id: carcassonne-the-castle
+  retired_yaml_id: the-castle-carcassonne
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cundco.de/media/6d/ba/56/1781176443/The_Castle_rules.pdf?ts=1781176443
+  - https://www.kjwrede.de/spiele/carcassonne-familie/
+  reason: Consolidated duplicate The Castle/Die Burg YAML into carcassonne-the-castle.
+    Original English rules identify Knizia using Wrede’s Carcassonne system; Wrede’s
+    own chronology gives 2003. Separate from Mayfair’s 1981 The Castle and Faidutti/Laget’s
+    2000 Castle card game.
+- name: The Castle (board game)
+  bgg_id: '7389'
+  previous_yaml_id: the-castle-carcassonne
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: https://en.wikipedia.org/wiki/The_Castle_(board_game)
+  reason: Original discovery article The Castle (board game) identifies a 1981 Mayfair
+    game; independent museum finding aid preserves The Castle development papers from
+    1981. Cleared false link to the 2003 Knizia Carcassonne spinoff. Separate Mayfair
+    record remains pending suitable rules/specification research; no player-count
+    or designer facts guessed.
+- name: Castle
+  year: 2000
+  yaml_id: castle-2000
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://faidutti.com/blog/blog/2012/05/01/castel-castle/
+  reason: Designer’s own game page identifies two designers, 2000 Jeux Descartes publication,
+    Emmanuel Roudier art, 2–5 and nominal sixty minutes. Replaced unsupported tile-placement/unknown-credit
+    placeholder; retained owner fields and provisional experience estimates.
+- name: Mensch ärgere dich nicht
+  bgg_id: '2136'
+  previous_catalog_year: 1907
+  year: 1914
+  yaml_id: dont-be-annoyed
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.museen.nuernberg.de/fileadmin/mdsn/pdf/Spielzeugmuseum/Presseinfos/2004/spm_presse04_maedn.pdf
+  reason: Museum exhibition history explicitly distinguishes early private workshop
+    copies from commercial production beginning in 1914. Scoped record to original
+    commercial Schmidt game and corrected unsupported 1999 edition claim. CSV 1907
+    is an early development date, not the represented commercial publication. Original
+    age and timing bounds remain unknown.
+- name: Diplomacy
+  bgg_id: '483'
+  year: 1959
+  previous_yaml_id: classical-diplomacy
+  yaml_id: diplomacy
+  status: created
+  reviewed_on: '2026-11-02'
+  basis: https://diplom.org/~diparch/resources/rulebooks/1959.pdf
+  reason: 'Original 1959 rules inspected as scans: Allan B. Calhamer copyright, Europe
+    powers, three to seven with seven recommended. Added original game and remapped
+    original CSV row; retained the distinct five-player ancient-world Classical Diplomacy
+    record and its own discovery row. No later-edition two-player or age labels transferred.'
+- name: 'Mag·Blast: Third Edition'
+  bgg_id: '23142'
+  year: 2006
+  yaml_id: mag-blast-third-edition
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://star-ranger.com/MagBlast.htm
+  - https://images-cdn.fantasyflightgames.com/filer_public/6b/8a/6b8a9492-f27c-423b-b568-2032d4c3c300/mb_rules.pdf
+  reason: Contemporary September 18, 2006 availability news establishes released third
+    edition, not only an announced date. Corrected record 2007 and added co-designer
+    Christian T. Petersen from original publisher rulebook; Robert Vaughn credited
+    separately as third-edition developer. Removed simultaneous-action category because
+    rules explicitly pass five-phase turns clockwise; interrupts do not make all turns
+    simultaneous.
+- name: 'Ligny: Incomplete Victory'
+  bgg_id: '30023'
+  year: 1976
+  yaml_id: ligny-incomplete-victory
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: https://www.spigames.net/PDFv11/SPI_WithCompanyID_updated.pdf
+  reason: SPI historical product bibliography explicitly lists Ligny folio 1446, 1976,
+    Kevin Zucker, alongside Napoleon’s Last Battles quad. Corrected unsupported 1987/GMT
+    claim to original SPI scope. Bibliography’s WWII era typo not adopted. Retailer
+    confirms quad identity/year/designer; its four-player campaign, age and duration
+    specifications were not transferred to standalone folio. Standalone counts/time
+    remain provisional pending original rules.
+- name: Don't Be Annoyed
+  bgg_id: '7116'
+  year: 1999
+  previous_yaml_id: dont-be-annoyed
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: https://www.museen.nuernberg.de/fileadmin/mdsn/pdf/Spielzeugmuseum/Presseinfos/2004/spm_presse04_maedn.pdf
+  reason: Existing mapping pointed to a generic Schmidt-race description with an unsupported
+    1999-edition claim. Reviewed museum evidence now scopes dont-be-annoyed to the
+    original commercial 1914 game. The separate 1999 English-title catalog row has
+    no established printing/rules evidence; cleared mapping and retained its year
+    pending edition research rather than treating translation alone as equivalence.
+- name: All The King's Men
+  bgg_id: '1289'
+  previous_catalog_year: 1970
+  year: 1979
+  yaml_id: all-the-kings-men
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://artsandculture.google.com/asset/all-the-king-s-men-board-game-parker-brothers/ngGrRmLSuDJFjg
+  - https://thebiggamehunter.com/history/game-briefs/
+  reason: Strong Museum object 116.3747 explicitly dates medieval All the King’s Men
+    to 1979, credits Reuben B. Klamer/Perry Grant, and distinguishes predecessor Smess
+    (1970). Historian Bruce Whitehill independently dates the retheme 1979. Corrected
+    CSV 1970 to represented 1979 edition; removed Smess as an interchangeable alternate
+    title while retaining shared family.
+- name: Ea$y Money
+  bgg_id: '11147'
+  year: 1988
+  previous_yaml_id: easy-money
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://en.wikipedia.org/wiki/Ea%24y_Money
+  - https://en.wikipedia.org/wiki/Easy_Money_(board_game)
+  reason: 1988 Ea$y Money is a separate money-collection/speculation game, not the
+    1935 real-estate game represented by easy-money. Cleared false mapping; retained
+    separate original Easy Money row and record. References conflict over 1988 versus
+    1989 and original later-game rules were not read, so later title remains pending
+    rather than assigned invented specifications.
+- name: 'Lost Battles: Operational Combat in Russia'
+  bgg_id: '8360'
+  previous_catalog_year: 1971
+  previous_record_year: 2011
+  year: 1971
+  yaml_id: lost-battles-operational-combat-russia
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+  - https://www.spigames.net/PDFv11/SPI_WithCompanyID_updated.pdf
+  - https://www.nobleknight.com/P/1630900874/Lost-Battles
+  reason: Dunnigan’s own bibliography dates his regimental Russia 1943–44 game to
+    1971; SPI product list and retailer corroborate original SPI identity. Corrected
+    false 2011/MMP attribution, added designer, removed unsupported division/corps
+    and 1941 scope. Retailer two-hour estimate is distinct from verified box timing.
+- name: 'Lee vs. Grant: The Wilderness Campaign of 1864'
+  bgg_id: '5680'
+  previous_catalog_year: 1988
+  previous_record_year: 1991
+  year: 1988
+  yaml_id: lee-vs-grant
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2025%20No%205.pdf
+  - https://www.nobleknight.com/P/10055/Lee-vs-Grant
+  reason: Contemporary Avalon Hill advertisement in The General 25/5 explicitly includes
+    Lee vs Grant among games new in 1988. Direct retailer inventory confirms Victory
+    Games, designer Joseph Balkoski, two players and 120–360-minute listing. Corrected
+    unsupported record 1991; no age label or additional art credits inferred from
+    BGG-citing secondary references.
+- name: 'Leros: The Island Prize'
+  bgg_id: '7502'
+  previous_catalog_year: 1996
+  previous_record_year: 2009
+  year: 1995
+  yaml_id: leros-the-island-prize
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://mmpgamers.com/support/gamersarchive/tcs/LEROS_Rules.pdf
+  - https://pawnderings.blogspot.com/2008/04/tcs-leros.html?m=0
+  - https://www.wargamer.fr/pdf/Vieille%20Garde/vieille-garde-VG_38.pdf
+  reason: Original publisher rules identify The Gamers, David A. Friedrichs, and separate
+    series/development/graphics credit Dean N. Essig, with copyright 1995. Independent
+    play review and Vieille Garde bibliography explicitly date original game 1995,
+    rather than deriving publication solely from copyright. Corrected false 2009/Compass
+    identity and selected 1995 original scope for CSV; references listing 1996 remain
+    a chronological uncertainty. Scenario and campaign lengths differ greatly; removed
+    misleading single-evening duration range.
+- name: Husch Husch kleine Hexe
+  bgg_id: '6573'
+  previous_catalog_year: 1994
+  previous_record_year: 1993
+  year: 1994
+  yaml_id: husch-husch-kleine-hexe
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://spellenlab.be/media/files/0d8dd4c233465ab3665e4f090beea6a7c7fcc237.pdf
+  - https://luding.org/Skripte/AuthorData.py/DEauthorid/145
+  reason: Archived Dutch rules translation explicitly F.X. Schmid 1994, Heinz Meister,
+    2–6. Independent bibliography distinguishes original 1994 from later Zoch 2010,
+    so original date is not inferred solely from its award. Corrected publisher/edition
+    and false cooperative feel; original rules specify a single winner, memory choices
+    and optional simpler rule. Translation’s 3½+ recommendation is explained, not
+    rounded into an invented original box label.
+- name: 'Historical Mystery: Bets are Made'
+  year: 2024
+  previous_record_year: 2023
+  yaml_id: historical-mystery-bets-are-made
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-stavki-sdelani
+  - https://hobbyworld.ru/download/rules/detective-stavki-sdelani-rules.pdf
+  - https://mnogoknig.com/ru/products/1696695/istoriceskii-detektiv-stavki-sdelany
+  reason: Original Russian SKU 915831, 2024 retailer publication corroborated by original
+    rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to
+    18+ and 60–90; added rules credits and cooperative mode. English display title
+    is a translation, not certification of English retail availability.
+- name: 'Historical Mystery: Treasures of the Galleon'
+  year: 2025
+  previous_record_year: 2023
+  yaml_id: historical-mystery-treasures-of-the-galleon
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-sokrovishha-galeona
+  - https://hobbyworld.ru/download/rules/istoricheskij-detektiv-sokrovishha-galeona-rules.pdf
+  - https://mnogoknig.com/ru/products/1722301/nastolnaia-igra-istoriceskii-detektiv-sokrovishha-galeona-18
+  reason: Original Russian SKU 952138, 2025 retailer publication corroborated by original
+    rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to
+    18+ and 60–90; added case-specific author/art credits. English title is a translation,
+    not evidence of English retail availability.
+- name: 'Historical Mystery: Disappearance in the Sky'
+  year: 2024
+  previous_record_year: 2023
+  yaml_id: historical-mystery-disappearance-in-the-sky
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-ischeznovenie-v-nebe
+  - https://hobbyworld.ru/download/rules/Ischeznoveniye_v_nebe_Rules.pdf
+  reason: 'Publisher Russian product and original rules establish 18+, 60–90, 1–4,
+    shared investigation and case-specific Rozanov/art credits. Corrected age/duration/mode;
+    English display title does not establish localization. First-publication 2023/2024
+    conflict remains unresolved: 2024 international-catalog availability alone does
+    not establish first release.'
+  date_review: unresolved 2023/2024
+- name: 'Historical Mystery: The Witch'
+  year: 2024
+  previous_record_year: 2023
+  yaml_id: historical-mystery-the-witch
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/istoricheskij-detektiv-vedma
+  - https://hobbyworld.ru/download/rules/istoricheskyi-detektiv-vedma-rules.pdf
+  reason: Publisher Russian product and rules establish 18+, 60–90, 1–4, shared investigation
+    and Ksenia Targulian/art credits. Corrected age/duration/mode and represented
+    language. Rules copyright 2024 alone does not settle 2023/2024 first-publication
+    conflict, which remains visible for dated release research.
+  date_review: unresolved 2023/2024
+- name: 'Ghoulash: The Last Game on Earth'
+  year: 2001
+  previous_yaml_id: ghoulash
+  yaml_id: ghoulash-pen-and-paper
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://bleedingcool.com/comics/father-and-son-attempt-to-make-the-world-safe-from-ghouls/
+  - https://mikesooch.com/
+  reason: Creator’s first-person history distinguishes marketed 1982 original from
+    streamlined one-sheet scenarios distributed online in 2001. Retained original
+    ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery
+    row to revision and added separate original row without inventing a source ID.
+    Current creator page identifies two-player competition, not shared cooperative
+    victory.
+- name: 'Ghoulash: The Last Game on Earth'
+  year: 1982
+  yaml_id: ghoulash
+  status: existing
+  catalog_action: added separate original-edition row
+  reviewed_on: '2026-11-02'
+  basis: https://bleedingcool.com/comics/father-and-son-attempt-to-make-the-world-safe-from-ghouls/
+  reason: Original 1982 record retained; creator describes that original and its later
+    redesign separately. Original history log IDs/bytes untouched; historical reference
+    pages can cover both versions and do not certify all edition fields.
+- name: Lost & Found
+  year: 2015
+  previous_record_year: 2018
+  yaml_id: lost-and-found
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://lifestyleltd.ru/assets/files/leftmenu/lifestyle_catalog_2019.pdf
+  - https://www.hall9000.de/html/spiel/lost_found
+  - https://lifestyleltd.ru/games/lost-n-found/
+  reason: Publisher’s own 2019 catalog and Russian product identify Andersen’s competitive
+    visual-memory card game, 2–6, not the unsupported solo/cooperative Brand/Zoch
+    labyrinth placeholder. Independent H@LL9000 bibliography explicitly dates original
+    design to 2015 and corroborates 5+, 10–15, designer and artists. Corrected year,
+    identity, counts, credits and mode; preferred counts remain provisional.
+- name: 'Master of Orion: The Board Game'
+  year: 2016
+  previous_yaml_id: master-of-orion-the-board-game
+  yaml_id: master-of-orion-2016
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyworld.ru/master-of-orion
+  - https://hobbygames.ru/master-of-orion/rules
+  - https://hobbyworld.ru/download/rules/Master%20of%20Orion_rulebook_ru_new_web.pdf
+  - https://www.vindjeu.eu/prd/2017/03/02/master-of-orion-the-board-game/
+  reason: Publisher-associated Russian store explicitly release 2016, product 56309;
+    original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary
+    independent Cryptozoic play review explicitly release September 6, 2017, English
+    CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016,
+    with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated
+    duration and planet-destruction implication.
+- name: 'Master of Orion: The Board Game'
+  year: 2017
+  yaml_id: master-of-orion-the-board-game
+  status: existing
+  catalog_action: added separate English-edition row
+  reviewed_on: '2026-11-02'
+  basis: https://icv2.com/articles/reviews/view/38646/review-master-orion-the-board-game-board-game
+  reason: Publisher-associated Russian store explicitly release 2016, product 56309;
+    original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary
+    independent Cryptozoic play review explicitly release September 6, 2017, English
+    CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016,
+    with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated
+    duration and planet-destruction implication.
+- name: Le Défi du Sphinx
+  previous_catalog_year: 1997
+  previous_record_year: 2000
+  year: 1997
+  yaml_id: le-defi-du-sphinx
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://trictrac.net/jeu-de-societe/le-defi-du-sphinx
+  - https://mediatheques.ville-gennevilliers.fr/images/0-VISUELS/ACTU/HISTORIQUE_As_d_Or_1988-2023.pdf
+  reason: Independent French original-game listing explicitly release 1997, Richard
+    Bourrelly, Ludotech, 2–4, 10+, nominal thirty minutes, educational history questions
+    for twenty knowledge points. Corrected generic 2000 Egyptian-puzzle placeholder;
+    original release is distinct from 1998 junior award. Age/duration are listing
+    metadata, not an inspected box label.
+- name: La Bataille de Valmy
+  previous_catalog_year: 1981
+  previous_record_year: 1986
+  year: 1981
+  yaml_id: la-bataille-de-valmy
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ludostoria.it/pdf/NoTurkeys/Seconda%20Serie/NT%202007%2002.pdf
+  - https://en.wikipedia.org/wiki/La_Bataille_de_Valmy
+  reason: Independent No Turkeys historical retrospective explicitly Petit, Jeux Descartes
+    1981, two players, nominal 180 minutes and a variation on Napoleon’s Last Battles.
+    Corrected unsupported 1986 and removed false automatic La Bataille family assignment.
+    Original period reviews are cited by separate reference but were not themselves
+    read; no unverified original age or precise timing bounds imported.
+- name: L'Enclos
+  previous_catalog_year: 1982
+  previous_record_year: 1986
+  year: 1986
+  yaml_id: l-enclos
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://regle.escaleajeux.fr/ca_pc_rg.pdf
+  - https://fr.wikipedia.org/wiki/L%27Enclos_(jeu)
+  reason: Independent collector rules compendium explicitly Boutin 1986, Educ Nouvelle
+    and two-player sheep/barrier blocking rules. French publication reference specifies
+    Vers l’Éducation Nouvelle 402, April 1986. Selected represented journal game and
+    corrected unsupported CSV 1982; original journal issue not directly inspected,
+    so bibliography is identified as secondary evidence and no exact original age/time
+    label is certified.
+- name: Lentokilpailu-peli
+  previous_catalog_year: 1909
+  year: 1909
+  yaml_id: lentokilpailu-peli
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.doria.fi/handle/10024/153010
+  - https://www.doria.fi/bitstream/handle/10024/153010/pic_2018-03-23_062304.jpg?sequence=2&isAllowed=y
+  reason: National Library original metadata explicitly Helsinki, Osakeyhtiö Launis,
+    1909; 2018 is digitization. Original board inspected. Library explicitly says
+    rules missing, so removed unsupported movement mechanism, player-count and age
+    claims; timing/experience remain provisional.
+- name: 'Historical Mystery: The Witch'
+  previous_catalog_year: 2024
+  year: 2024
+  yaml_id: historical-mystery-the-witch
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbygames.ru/istoricheskij-detektiv-vedma
+  reason: Publisher-associated store explicitly release year 2024, Russian Hobby World
+    product 148141, corroborating original rules copyright. This supplies release
+    evidence missing from earlier review and corrects unsupported record 2023 without
+    inferring publication solely from copyright.
+- name: 'Historical Mystery: Disappearance in the Sky'
+  previous_catalog_year: 2024
+  year: 2023
+  yaml_id: historical-mystery-disappearance-in-the-sky
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbygames.ru/istoricheskij-detektiv-ischeznovenie-v-nebe
+  reason: Publisher-associated store explicitly release year 2023, Russian Hobby World
+    product 100705. Retained detailed-record year and corrected CSV 2024; international
+    2024 catalog availability did not establish original release. Language and edition
+    remain explicit.
+- name: Rapier & Dagger
+  previous_catalog_year: 1978
+  year: 1978
+  yaml_id: rapier-and-dagger
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.space-opera.net/mirror/fgu/products3.htm
+  - https://www.nobleknight.com/P/8787/Rapier-and-Dagger
+  reason: Archived original FGU catalog mirror and retailer’s own booklet inventory
+    independently specify 1978, Wilf K. Backhaus, FGU and paper/miniature fencing
+    systems. Corrected false 1975 and abstract-grid placeholder; stock 1108 identifies
+    original rules publication, not a required Chivalry & Sorcery expansion.
+- name: Monopoly - Paris
+  previous_catalog_year: 1948
+  year: 1948
+  yaml_id: monopoly-paris
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.worldofmonopoly.com/albert/france_-_classic_games.htm
+  - https://www.naturabuy.fr/MONOPOLY-Vintage-edition-1948--item-8976806.html
+  reason: Collector’s own inspected Miro set has first-quarter 1948 legal-deposit
+    rules; separate owned-set listing corroborates historical Miro French identity.
+    Selected represented rules edition, not a claim of exact box manufacture or first
+    French Monopoly release. Removed unsupported 2012 Hasbro/Winning Moves city-souvenir
+    blend and expansion relationship; original age/count labels unverified.
+- name: Le jeu des chaises musicales
+  previous_catalog_year: 1992
+  year: null
+  yaml_id: le-jeu-des-chaises-musicales
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.festivaldesjeux-cannes.com/media/documents/2026/HISTORIQUE-AS-DOR-2025-1988.pdf
+  - https://www.okkazeo.com/jeux/editeur/17/habourdin?after_id=2031&after_val=Guerres+secr%C3%A8tes
+  - https://quizotresor.com/content/397-les-chaises-musicales
+  reason: Identified French Habourdin game from official 1994 award history and independent
+    catalog, with Anthony J. Vadasz/Vadaz spelling difference. References disagree
+    1991 versus 1992; replaced unsupported 2000 with unknown year and kept explicit
+    CSV date conflict. Catalog supports 2–4 rather than guessed 3–8; original rules
+    and age label not inspected.
+  date_review: unresolved 1991/1992
+- name: Rubik's Flip
+  year: 1981
+  previous_yaml_id: rubiks-flip
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://thetoyinsider.com/rubiks-flip-game-review/
+  - https://dicetower.com/video/how-play-rubiks-flip-2-minutes-rules-girl
+  - https://www.macys.com/shop/product/rubiks-flip?ID=7263212
+  reason: Existing 1993/Ideal claim unsupported. Record now explicitly represents
+    independently documented University Games full-board version, with release year
+    unknown. Original 1981 row returned to pending; a separate undated University
+    Games row links the actual represented edition. Teaching guide requires a locked
+    line, not plain three-in-a-row; no unverified original designer/date transferred
+    from aggregators.
+- name: Rubik's Flip (University Games)
+  year: null
+  yaml_id: rubiks-flip
+  status: existing
+  catalog_action: added undated edition-specific row
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://thetoyinsider.com/rubiks-flip-game-review/
+  - https://dicetower.com/video/how-play-rubiks-flip-2-minutes-rules-girl
+  - https://www.macys.com/shop/product/rubiks-flip?ID=7263212
+  reason: Existing 1993/Ideal claim unsupported. Record now explicitly represents
+    independently documented University Games full-board version, with release year
+    unknown. Original 1981 row returned to pending; a separate undated University
+    Games row links the actual represented edition. Teaching guide requires a locked
+    line, not plain three-in-a-row; no unverified original designer/date transferred
+    from aggregators.
+- name: Lords of Waterdeep
+  previous_catalog_year: 2013
+  year: 2012
+  yaml_id: lords-of-waterdeep
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://media.wizards.com/downloads/dnd/DnD_LOW_Rulebook_EN.pdf
+  - https://www.blackgate.com/2012/03/19/lordsofwaterdeep/
+  reason: Contemporary March 2012 release/play review and original publisher rules
+    corroborate represented original Wizards base game. Corrected generic CSV 2013
+    to 2012 and linked existing record; retained two-to-five counts and age 12, added
+    cover/board credit roles, replaced unsupported 90-minute nominal with contemporary
+    approximate 60. No sixth-player expansion specifications transferred.
+- name: Chinatown
+  previous_catalog_year: 1997
+  year: 1999
+  yaml_id: chinatown
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/chinatown/
+  - https://www.spieletest.at/gesellschaftsspiel/2057/chinatown
+  - https://regle.escaleajeux.fr/china_rg.pdf
+  reason: Independent play review explicitly original Alea 1999 and distinguishes
+    later revision; original-edition translated rules and official award jury corroborate
+    identity. Corrected unsupported CSV 1997. Record now expressly original Alea/Ravensburger
+    with Franz Vohwinkel, New York 1930s and economic-condition cards; removed blended
+    later publisher and false San Francisco 1960s–1980s setting. Published 60/75/90-minute
+    estimates remain distinguishable rather than certified bounds.
+- name: Orongo
+  previous_catalog_year: 2016
+  year: 2014
+  yaml_id: orongo
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://brettspielbox.de/neu-in-2014-essen-ravensburger-verlag/
+  - https://www.hall9000.de/rubriken/spiele/kurzspielregeln/orongo.pdf
+  - https://www.hall9000.de/html/spiel/9587
+  reason: Contemporary August 2014 Essen announcement and author-dated October 2014
+    teaching summary resolve original Ravensburger release rather than unsupported
+    2016 catalog year. Original reviewer text explains varying personal-statue counts
+    and shared final statue; corrected false universal seventh statue and Party social-mode
+    estimate. HALL9000 generic metadata was not used because its footer discloses
+    some BGG-derived data; independent authored articles/summary supply evidence.
+- name: Battle Cry
+  previous_catalog_year: 1999
+  year: 1999
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.panix.com/~sos/bc/battlecry.html
+  - https://fgbradleys.com/wp-content/uploads/rules/Battle%20Cry.pdf
+  - https://www.uspto.gov/web/trademarks/tmog/20010821_OG.pdf
+  reason: June 2000 first-hand review explicitly calls Borg/Avalon Hill publication
+    2000, but Hasbro trademark application 76-185,662 reports first commercial use
+    August 13, 1999. Retained 1999 discovery row pending rather than forcing equivalence
+    or treating a filing as a box-publication record. Detailed record explicitly scopes
+    reviewed 2000 version, separates older Milton Bradley and later anniversary game,
+    and corrects false age 8 to indexed original rules 12+. Full mirrored rulebook
+    returned 403; exact earliest printing remains unresolved.
+- name: Hanabi
+  year: 2010
+  yaml_id: hanabi
+  status: existing
+  catalog_action: added original-edition row
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://regle.escaleajeux.fr/hanab_rg.pdf
+  - https://www.okkazeo.com/jeux/7273/hanabi-ikebana
+  - https://www.antoinebauza.fr/?m=201011
+  reason: Retained historical hanabi slug and 2010 date for the original French cooperative
+    game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes
+    rules and independent edition catalog identify that scope. Removed blended later
+    publishers, used original printed Sengissen credit, and corrected third-error/final-round
+    rules. Added separate original-year catalog row without inventing an external
+    ID; not a record of the distinct competitive Ikebana rules.
+- name: Hanabi
+  year: 2013
+  yaml_id: hanabi-rr-games-2013
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.64ouncegames.com/pages/hanabi
+  - https://cdn.1j1ju.com/medias/b3/a9/0e-hanabi-rulebook.pdf
+  - https://theologyofgames.squarespace.com/blog/2013/07/12/hanabi-a-review-of-the-spiel-des-jahres-winner
+  - https://bitsofboardgames.blogspot.com/2013/09/hanabi-review.html
+  reason: Mapped existing 2013 Hanabi discovery row to separately researched R&R English
+    card edition, documented in contemporary July 2013 first-hand review and 2013
+    publisher rules reproduced by accessibility supplier. Original 2010 French game
+    retained separately, not silently redated. English version has four fuse-stack
+    pieces but three permitted mistakes, eight clues, optional multicolor suit; it
+    is not a later Deluxe tile set.
+- name: 'Arydia: The Paths We Dare Tread'
+  year: 2024
+  previous_record_year: 2025
+  yaml_id: arydia-the-paths-we-dare-tread
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://faroffgames.com/products/carton-arydia
+  - https://www.dropbox.com/scl/fi/q9qpvu1uc1pea3lozj6i6/Rulebook_280x216mm_FlatFormat_v35_Cropped_OP.pdf?dl=0&rlkey=fx2oqdenrwmbjcy32jpfsojh0
+  - https://coopgestalt.com/2025/01/04/a-review-of-arydia-the-paths-we-dare-tread-part-i-unboxing-set-up-solo-play-and-first-impressions-after-20-hours-of-play/
+  - https://www.boardgamequest.com/the-best-board-games-from-2025/
+  reason: 'Retained CSV 2024 and corrected detailed-record 2025 to the represented
+    first printing: contemporary January 4 unboxing explicitly documents finished
+    copy received December 30, 2024, corroborated by independent year-end reviewer.
+    Regional delivery continued in 2025, which is not proof no finished game existed
+    earlier. Original 2024-copyright rulebook separately identifies Miller overall
+    design, Fay development/combat/puzzle co-design, illustrators/sculptor, composer
+    Hamilton and photographer Anderson. Original age label unverified amid conflicting
+    review labels; nominal sitting time remains provisional rather than fixed campaign
+    duration.'
+- name: Fit to Print
+  previous_catalog_year: 2022
+  year: 2023
+  yaml_id: fit-to-print
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.flatout.games/whoweare
+  - https://www.alderac.live/fit-to-print/
+  - https://www.alderac.com/wp-content/uploads/2023/07/FTP_RULEBOOK_01-11MB.pdf
+  - https://geekdad.com/2023/10/reaping-the-rewards-fit-to-print-is-hot-off-the-press/
+  reason: Publisher history and actual October 2023 finished-copy review distinguish
+    September 2023 release from December 2022 crowdfunding. Retained detailed 2023,
+    corrected CSV 2022 and linked original English base game. Added missing co-publisher
+    Flatout; inspected actual rulebook p2 confirms one-to-six and 10+, correcting
+    four-player cap and false age 8. Standard counts distinguished from larger team
+    Newsroom variant, with turn-based mode explicitly available.
+- name: Garden Guests
+  previous_catalog_year: 2024
+  year: 2023
+  yaml_id: garden-guests
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://vanrydergames.com/pages/garden-guests
+  - https://cdn.shopify.com/s/files/1/0593/6984/8897/files/GGRulebook.pdf?v=1715347889
+  - https://icv2.com/articles/news/view/54859/gen-con-news-2023-van-ryder-plans-garden-guests-final-girl-series-3
+  - https://www.meeplemountain.com/reviews/garden-guests/
+  - https://www.nobleknight.com/P/2148101228/Garden-Guests
+  reason: 'Contemporary 2023 publisher-president interview, December 2023 actual-copy
+    play review and retailer original inventory corroborate original English Van Ryder
+    2023, rather than generic CSV 2024. Retained supported two-through-six: original
+    rules explicitly allow five as two pairs plus one lone player with special setup,
+    despite different experiences. Corrected Party estimate and movement-pattern description
+    to flower-card colony/path construction, direct blocking and limited team communication;
+    removed unverified award-as-publication implication.'
+- name: Rolling Heights
+  previous_catalog_year: 2023
+  year: 2023
+  yaml_id: rolling-heights
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.alderac.com/rolling-heights-postks/
+  - https://www.alderac.com/wp-content/uploads/2022/01/RollingHeights_Rules_Rulebook_FINAL.pdf
+  - https://rolling-heights.backerkit.com/faq
+  - https://www.alderac.live/rolling-heights-missing-die/
+  - https://www.labyrinthdc.com/blogs/inside-the-maze/week-of-february-24-2023-whats-new-at-labyrinth/
+  reason: Contemporary February 2023 own-stock notice and publisher shipment/solo
+    correction distinguish actual original release from 2022 crowdfunding and still
+    older linked rules copyright. Corrected detailed 2022 to 2023, retained CSV year
+    and linked original English AEG SKU 7085. Publisher FAQ/erratum explicitly support
+    solo notwithstanding page/rules multiplayer header; original solo requires ordinary
+    d6 accidentally omitted from manufactured box. Added primary-rule Moriya art,
+    standing/sideways/exhausted worker effects and workforce cap; removed false bag-building
+    tag and Party estimate.
+- name: Acquire
+  previous_catalog_year: 1962
+  year: 1964
+  yaml_id: acquire
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.acquisitiongames.com/index.php/history-of-acquire/the-origin-of-acquire?showall=1
+  - https://opinionatedgamers.com/2014/05/29/how-acquire-became-acquire/
+  - https://www.acquisitiongames.com/index.php/history-of-acquire/the-3m-era
+  reason: Represented 3M 1964 mass-market edition; 1962 packaging copyright is not publication.
+    Distinct 1963 World Map test edition documented by independent archival investigations.
+- name: A la carte
+  previous_record_year: 1990
+  previous_catalog_year: 1989
+  year: 1989
+  yaml_id: a-la-carte
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.e-s-g.eu/sammelgebiete/verlage/moskito/
+  - https://gamesweplay.de/alacarte_moskito.html
+  - https://www.hall9000.de/html/spiel/alacarte
+  - https://error.heidelbaer.de/info/wer-wir-sind/
+  reason: Original Schmiel/Moskito 1989 game, not the revised 2009/10 edition or 1990 award
+    date. Corrected false Zoch design/publisher and later-edition counts/age.
+- name: Abilene
+  previous_record_year: 1984
+  previous_catalog_year: 1983
+  year: 1983
+  yaml_id: abilene
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/abilene/
+  - https://luding.org/Skripte/GameData.py/DEgameid/195
+  reason: Original Hexagames 1983, distinct from revised Schmidt 1993. Jury specifies 2–3/7+/45
+    minutes; Luding lists three/7+/90. Original rules unread; differences remain explicit.
+- name: ABBA Monopoly
+  previous_record_year: 2004
+  previous_catalog_year: 2014
+  year: 2014
+  yaml_id: abba-monopoly
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.worldofmonopoly.com/list-ad/list-aa-ad/abba/index.php
+  - https://www.abba-intermezzo.de/earc14.htm
+  - https://www.abbafanclubshop.com/info/AB800.pdf
+  - https://www.bol.com/be/nl/p/abba-monopoly/9200000089118552/
+  reason: Winning Moves UK bilingual English/Swedish The Phenomenon B33651020. Contemporary
+    December 2014 sales/news corroborate release year, correcting unsupported detailed 2004;
+    exact release day varies by notice.
+- name: 'Doom: The Boardgame'
+  year: 2005
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis: &id001
+  - https://images-cdn.fantasyflightgames.com/ffg_content/Doom/doomrules.pdf
+  - https://www.wog.ch/en/index.cfm/details/product/6618-Doom-The-Boardgame-EN
+  reason: Existing detailed record represents original English 2004, independently dated by
+    retailer and original rules. Generic CSV 2005 may refer to German localization planned
+    for autumn 2005; actual localized release/language remains unverified. Retained pending
+    instead of forcing English-edition mapping; separate sourced English 2004 row added.
+- name: 'Doom: The Boardgame'
+  year: 2004
+  yaml_id: doom-the-boardgame
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis: *id001
+  reason: Added explicit original English edition row. Rulebook establishes 2–4/1–2 hours
+    and scenario-specific victory; retailer independently dates English release 21 October
+    2004. Removed unsupported bestseller, formal classes and universal six-frag claims; primary
+    credits distinguish Wilson lead design, Petersen additional design/development and Nicely/id
+    Software graphics.
+- name: Hannibal
+  year: null
+  yaml_id: hannibal-rome-vs-carthage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2030%20No%205.pdf
+  - https://www.panix.com/~sos/bc/hannibal.html
+  - https://mapandcounters.blogspot.com/2009/06/tahgc-hannibal-rome-versus-carthage.html
+  reason: Both same-1996 Avalon Hill YAML records duplicated product 906. Retained full-title
+    record, archived short-title original unchanged and added explained retired-ID alias;
+    contemporary publisher advertisement/review support same identity.
+- name: 'Hannibal: Rome vs. Carthage'
+  year: null
+  yaml_id: hannibal-rome-vs-carthage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.vftt.co.uk/files/AH%20The%20General/The%20General%20Vol%2030%20No%205.pdf
+  - https://www.panix.com/~sos/bc/hannibal.html
+  - https://mapandcounters.blogspot.com/2009/06/tahgc-hannibal-rome-versus-carthage.html
+  reason: Original 1996 Avalon Hill product 906; duplicate short-title YAML archived unchanged.
+    Card-driven system follows We the People; not a distinct later Valley Games or PHALANX
+    edition.
+- name: 'Tier auf Tier: Das Duell'
+  year: null
+  yaml_id: tier-auf-tier-das-duell
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ludism.fr/regles_files/fr/upload/4340_H_pyramide_d_animaux_-_duel_HABA_2008.pdf
+  - https://www.reich-der-spiele.de/kritiken/tier-auf-tier-das-duell
+  - https://www.spiele-check.de/7034-Tier-auf-Tier-Das-Duell.html
+  reason: 'Original HABA multilingual 4340, 2008: primary rules name Peise/Miltenberger, Bayer,
+    two/5+/about ten minutes and simultaneous race to three coins. Contemporary January 2009
+    play review explicitly labels Jahrgang 2008. Removed false alias from unrelated Kuhhandel/You’re
+    Bluffing!.'
+- name: Sherlock Holmes Consulting Detective
+  year: 1981
+  yaml_id: sherlock-holmes-consulting-detective
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.boardgamesbot.com/assets/games-library/sherlock-holmes-consulting-detective/manual_pt_br.pdf?raw=1&v=1779252195-8043193
+  - https://eprints.staffs.ac.uk/6660/1/Rerolling%20Intro.pdf
+  - https://www.abebooks.com/first-edition/Sherlock-Holmes-Consulting-Detective-Game-Grady/31304931043/bd
+  - https://wren08.wordpress.com/other-projects/sherlock-holmes-consulting-detective-game/
+  - https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_(gamebook)
+  - https://www.spiel-des-jahres.de/spiele/sherlock-holmes-criminal-cabinet/
+  reason: 'Original English Sleuth Publications binder chronology: independent scholarly history
+    and original-copy seller support 1981; some references date boxed release 1982. Corrected
+    false detailed 1985 award-as-release and modern Space Cowboys publisher blend. Original
+    rules allow solo, competing pair and group modes without a stated maximum; later specs
+    not transferred.'
+  previous_record_year: 1985
+- name: San Juan
+  year: null
+  bgg_id: '166669'
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.riograndegames.com/wp-content/uploads/2013/02/SanJuan.pdf
+  - https://www.hall9000.de/html/spiel/san_juan
+  - https://cdn.1j1ju.com/medias/74/a2/b4-san-juan-second-edition-rulebook.pdf
+  - https://opinionatedgamers.com/2014/12/04/san-juan/
+  - https://www.nobleknight.com/P/2148280879/San-Juan
+  reason: Valid plain title belongs to both distinct editions. Retained undated row pending
+    rather than removing legitimate second-edition alternate title or guessing from external
+    identifier alone. Separate dated original row added; existing explicit 2014 second row
+    retained.
+- name: San Juan
+  year: 2004
+  yaml_id: san-juan
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.riograndegames.com/wp-content/uploads/2013/02/SanJuan.pdf
+  - https://www.hall9000.de/html/spiel/san_juan
+  reason: Added sourced original edition row without inventing external ID; primary 110-card
+    rules and contemporary April 2004 play review establish scope. Both original and 2014
+    remain active.
+- name: You're Bluffing!
+  year: 1985
+  yaml_id: youre-bluffing
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/251
+  - https://www.spiel-des-jahres.de/spiele/kuhhandel/
+  reason: 'Replaced false Tier auf Tier: Das Duell alternate name with Kuhhandel. Scoped original
+    Ravensburger 012510, Blaumeiser art and 3–5 bibliography; explicitly retained competing
+    jury count/duration, removed unsupported two-player support.'
+- name: 'Sherlock Holmes: Consulting Detective'
+  year: 1985
+  previous_automatic_match: sherlock-holmes-consulting-detective
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/sherlock-holmes-criminal-cabinet/
+  - https://eprints.staffs.ac.uk/6660/1/Rerolling%20Intro.pdf
+  reason: '2026-11-02: Earlier automatic match depended on the detailed record’s incorrect
+    award-year 1985 and blended modern specifications. Detailed record now explicitly represents
+    original English Sleuth 1981 (1982 boxed chronology also reported). Unqualified 1985 row
+    could reflect award/localization/reprint context; retained pending rather than forcing
+    an original-English mapping or inventing its edition. German Criminal-Cabinet award evidence
+    does not itself establish this row’s English printing.'
+- name: Cosmic Encounter
+  year: 1977
+  yaml_id: cosmic-encounter-1977
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://sf-encyclopedia.com/entry/cosmic_encounter
+  - https://daveola.com/CosmicEncounter/Versions/
+  - https://daveola.com/CosmicEncounter/Components/Eon.html
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/3057
+  - https://daveola.com/CosmicEncounter/Rules/Eon.Rules.pdf
+  reason: Original Eon1977 now has separate fifteen-power/four-color base record, not false
+    mapping to FFG2008. Collector original inventory and independent edition bibliography
+    support 2–4; expanded1983 rule compilation not treated as original box.
+- name: Catan Junior
+  year: 2007
+  yaml_id: catan-junior-2007
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brettspiele-report.de/wp-content/plugins/download-monitor/download.php?id=201
+  - https://www.brettspiele-report.de/die-siedler-von-catan-junior/
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/20553
+  reason: Original KOSMOS German card-based3–4 edition independently reviewed2007/08 with
+    original rules; separate new record preserves original date. Existing catan-junior now
+    explicitly represents the distinct Mayfair English2012 tile-based2–4 game.
+- name: 'Catan: Junior'
+  year: 2012
+  yaml_id: catan-junior
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://opinionatedgamers.com/2012/08/03/review-of-catan-junior/
+  - https://www.rpg.net/reviews/archive/15/15627.phtml
+  - https://www.catan.com/sites/default/files/2026-03/catan_junior_rules_1stEd_260316s.pdf
+  reason: Contemporary original Mayfair2012 play reviews establish English MFG3025, 2–4/6+/about30;
+    corrected blended detailed2007/CATAN Studio identity. Current official first-edition PDF
+    is a2016 reprint, used with that limitation, not claimed original2012 physical manual.
+  previous_record_year: 2007
+- name: Catan Junior Madagascar
+  year: 2012
+  yaml_id: catan-junior-madagascar
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.catan.com/node/1827
+  - https://www.spiele4us.de/wp-content/uploads/2022/10/madagascar-catan-junior-gebraucht-g002404220.pdf
+  reason: Original German KOSMOS2012 standalone, confirmed official dated ludography and original
+    DreamWorks/KOSMOS rules. Corrected publisher,6+ and25–35; base_game cleared because no
+    other Junior box required. Kept actual circus theme and scoped art credits.
+- name: Coffee Roaster
+  year: 2017
+  yaml_id: coffee-roaster-2017
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamemarket.jp/game/54097
+  - https://www.suruga-ya.jp/product/detail/607524098
+  - https://note.com/saashiandsaashi/n/ne5a30890b1ca
+  - https://note.com/saashiandsaashi/n/n96d9c4b4503a
+  - https://saashiandsaashi.com/en/about/member
+  reason: Creator’s contemporary Game Market entry explicitly release spring2017; retailer
+    dates this second-edition issue May14 2017. Original2015 retained separately. Later creator
+    retrospectives say second edition2016; disagreement recorded, not silently overwritten.
+    Larger cup board/easier reverse and improved storage distinguish issue.
+- name: Comic Hunters
+  year: 2024
+  yaml_id: comic-hunters
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://comicbook.com/gaming/news/new-marvel-game-announced-comic-book-hunters/
+  - https://www.boardgamequest.com/gen-con-2024-recap-the-games-news-and-staff-picks/
+  - https://www.entertainmentearth.com/product/comic-hunters-card-game/sm6070364
+  - https://www.nobleknight.com/P/2148182933/Comic-Hunters
+  - https://board-game-rules.com/wp-content/uploads/2025/01/comic-hunters_Official-Rules.pdf
+  - https://coopgestalt.com/2024/03/21/cooperative-rules-for-comic-hunters/
+  reason: Contemporary announcement plus actual Gen Con2024 finished-copy report establish
+    Arcane Wonders/Spin Master English6070364, not unsupported detailed2022. English SKU inventory1–4/14+/60;
+    retailer generic2020 year not transferred. Original translated rules and fan cooperative
+    variant are distinct evidence.
+  previous_record_year: 2022
+- name: 'Next Station: London'
+  year: 2023
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blueorangegames.eu/en/games/next-station-london/
+  - https://blueorangegames.eu/wp-content/uploads/2021/12/NextStationLondon-Rules-EN.pdf
+  - https://boardgamereview.co.uk/game-reviews/next-station-london-review/
+  - https://fractaljuegos.com/en/juegos/next-station-london/
+  reason: Original Blue Orange English2022 established by actual May2022 review and rules.
+    Fractal explicitly dates first Spanish edition2023, but generic CSV2023 gives no language/edition.
+    Retained pending rather than guessing Spanish or treating award/localization date as original
+    English publication; separate original-English2022 row added.
+- name: Cosmic Encounter
+  year: 2008
+  yaml_id: cosmic-encounter
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://images-cdn.fantasyflightgames.com/ffg_content/Cosmic%20Encounter/cosmic-encounter-rulebook.pdf
+  - https://greg-olotka.squarespace.com/cosmic-encounter-board-game/
+  - https://www.orderofgamers.com/games/cosmic-encounter/
+  - https://www.asmodeena.com/ausa_active-04012026.pdf
+  reason: Added explicit FFG2008 English CE01 row while original1977 maps separate Eon base.
+    Creator history/primary rules support50powers,3–5 and1–2hours; credits separate original
+    designers from Wilson development/new aliens.
+- name: Coffee Roaster
+  year: 2015
+  yaml_id: coffee-roaster
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://saashiandsaashi.com/en/about/history
+  - https://saashiandsaashi.com/ja/products/coffee_roaster
+  - https://saashiandsaashi.tumblr.com/coffeeroaster
+  - https://saashiandsaashi.com/en/contact/faq
+  reason: Added explicit original Japanese/English2015 row. Creator history dates November22
+    and product distinguishes10-minute practice from30-minute full menu; separate2017 second
+    issue retained.
+- name: 'Next Station: London'
+  year: 2022
+  yaml_id: next-station-london
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blueorangegames.eu/en/games/next-station-london/
+  - https://blueorangegames.eu/wp-content/uploads/2021/12/NextStationLondon-Rules-EN.pdf
+  - https://boardgamereview.co.uk/game-reviews/next-station-london-review/
+  - https://fractaljuegos.com/en/juegos/next-station-london/
+  reason: Added explicit original Blue Orange English2022 row, with publisher/rules and actual
+    May2022 review. Generic2023 reference stays pending; no source identifier invented.
+- name: Call My Bluff
+  year: 1993
+  yaml_id: bluff-1993
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/bluff/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1134
+  reason: Award-list English title represents German F.X.Schmid Bluff1993; added separately
+    scoped record. Existing English CallMyBluff is actually1997, while original MB Liar’sDice
+    is1987. Creator-interview history, jury and independent bibliography distinguish these
+    editions.
+- name: Liar's Dice
+  year: null
+  yaml_id: liars-dice
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.donsgamecloset.com/liarsdice1987.html
+  - https://opinionatedgamers.com/2015/07/13/sdj-re-reviews-15-bluff-a-k-a-liars-dice-or-call-my-bluff/
+  reason: Retained explicit canonical mapping, now scoped to original MB1987 Borg boxed game
+    rather than false1993/traditionalDudo blend. Actual-set retailer inventory2–6/10-to-adult;
+    generic catalog row carries no edition year.
+- name: Focus
+  year: null
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/focus-1980/
+  - https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+  reason: Parker German1980 and MB EnglishDomination1982 remain distinct, legitimately sharing
+    Focus title. Generic undated row does not identify edition; retained pending, with separate
+    explicit Parker1980 row. Corrected false KOSMOS1981 blend; 1981 is award year.
+- name: Domination
+  year: null
+  yaml_id: domination
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+  - https://tesera.ru/images/items/1508830/FocusENG.pdf
+  - https://www.hasbro.com/common/instruct/domination.pdf
+  reason: Canonical primary-title mapping selects retained MB English1982 edition, not German
+    ParkerFocus1980. Independent edition history and teaching transcription corroborate identity/core
+    rules; original age label unverified. Generic CSV row does not itself establish a printing
+    year.
+- name: Aggravation
+  year: null
+  yaml_id: aggravation
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamecatalog.org/game/?gameid=25658
+  - https://www.donsgamecloset.com/aggravation4player1962.html
+  reason: Canonical commercial title selects retained CO-5 four-player1962 set; Wahoo remains
+    traditional variants, no longer an alternate title claiming identical commercial edition.
+    AGPI and actual-set inventory establish edition; catalog source row itself is undated.
+- name: Wahoo
+  year: null
+  yaml_id: wahoo
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rdesignsco.com/wahoo-aggravation/
+  - https://lakelinedesigns.com/products/wooden-wahoo-board-game-4-or-6-player-maple-cherry-or-walnut-engraved-accents
+  - https://www.spinnerbaker.com/wahoo.htm
+  - https://jkgeekly.com/portfolio/wahoo/
+  reason: Traditional marble-racing variants retained separately from CO-5 Aggravation1962.
+    Maker rules/physical boards and implementation establish identity; no universal publication
+    year or age inferred. Removed false1962/ParkerBrothers/drilling claims.
+- name: bagh-chal
+  year: null
+  yaml_id: bagh-chal
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamescrafters.berkeley.edu/games.php?game=baghchal
+  - https://nepali.games/baghchal/how-to-play
+  reason: Berkeley rules establish specific Nepali4-tiger/20-goat game. Archived broader Tiger
+    game family overview unchanged rather than aliasing family to one member. Cleared unsupported1900/8+
+    and clarified tigers move/capture during goat placement.
+- name: Advanced Third Reich
+  year: null
+  yaml_id: advanced-third-reich
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/9853/Advanced-Third-Reich
+  - https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf
+  - https://www.avalanchepress.com/TR_GPW_ThirdEdition.php
+  reason: Retained distinct AvalonHill AVH8881992. Removed competing family-overview record
+    that wrongly treated it as alias of another publisher’s line. Physical-product inventory
+    supports2–6/12+/180–1200; original manual not personally inspected.
+- name: Third Reich/Great Pacific War series
+  year: null
+  yaml_id: null
+  status: skip
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/9853/Advanced-Third-Reich
+  - https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf
+  - https://www.avalanchepress.com/TR_GPW_ThirdEdition.php
+  reason: Family-level discovery entry, not one playable game/edition. Publisher rules distinguish
+    AvalanchePress ThirdReich,GreatPacificWar and combinedSecondWorldWar; prior YAML wrongly
+    described AvalonHill/GMT lineage. Archived unchanged as non-game overview; skip preserves
+    source ID and avoids mapping to arbitrary member.
+- name: Call My Bluff
+  year: 1997
+  yaml_id: call-my-bluff
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://opinionatedgamers.com/2015/07/13/sdj-re-reviews-15-bluff-a-k-a-liars-dice-or-call-my-bluff/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1134
+  reason: Added explicit F.X.Schmid U.S.A. English1997 row, independently dated in creator-interview/played-copy
+    review and bibliography. Separate GermanBluff1993 retained; no discovery ID invented.
+- name: Focus
+  year: 1980
+  yaml_id: focus
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/focus-1980/
+  - https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/
+  reason: Added explicit Parker German1980 row based on independent edition history and official
+    prior-year nomination/1981 award account. Undated Focus row remains pending because MB1982
+    Domination is also legitimately Focus.
+- name: Jumbulaya
+  year: 2007
+  yaml_id: jumbulaya
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.toydirectory.com/Monthly/article.asp?id=3600
+  - https://images1.vat19.com/manuals/jumbulaya.pdf
+  - https://www.dadsgamingaddiction.com/jumbulaya/
+  reason: Contemporary trade launchDecember2007, not2008 award year. Inspected scanned rules
+    distinguish ending triggers from point victory and TILE counts from letter counts; review
+    age/time recommendations scoped.
+  previous_record_year: 2008
+- name: Jurassic Parts
+  year: 2020
+  yaml_id: jurassic-parts
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/2147839977/Jurassic-Parts
+  - https://www.purplephoenixgames.com/jurassic-parts-review/
+  - https://gamers-hq.de/media/pdf/97/4d/d3/Jurassic_Parts_Rules_New-5.pdf
+  - https://steamcommunity.com/sharedfiles/filedetails/?id=2168602707
+  reason: Physical25CGG10 inventory and independent retail-copy review identify2020;2021 was
+    later review year. Original English rules confirm2–5/sharedslab and actual illustration
+    versus graphics roles. Age10 is review recommendation, original box label uninspected.
+  previous_record_year: 2021
+- name: Just 4 Fun
+  year: 2006
+  yaml_id: just-4-fun
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.hall9000.de/php/messe_nuernberg_text.php?jahrgang=2006&messe=1&verlag=KOSMOS
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/19556
+  - https://devel.spieletest.at/gesellschaftsspiel/1316/just-4-fun
+  - https://www.yucata.de/en/Rules/Just4Fun2
+  - https://www.spiel-des-jahres.de/spiele/just-4-fun/
+  reason: Represented KOSMOS691523 specifically Nürnberg2006 in contemporary fair press and
+    independent bibliography/reviews. Corrected catalog2005→2006; later references2005 conflict,
+    while contemporary review distinguishes2005 magazineMach4 predecessor. Majority ownership/secure
+    fields,10+ and actual illustration credits clarified.
+  previous_catalog_year: 2005
+- name: Just4Fun Colours
+  year: 2010
+  yaml_id: just4fun-colours
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spieletest.at/gesellschaftsspiel/2753/Just-4-Fun-Colours
+  - https://www.yucata.de/en/Rules/Just4FunColours2
+  - https://www.yumpu.com/de/document/view/23934996/just-4-fun-colours-kosmos
+  reason: Actual June2010 review and licensed rules identify standalone691028 two-to-four-player8+
+    game; corrected2007/9+/false expansion. Separate699291 pockettwo-player rules not transferred;
+    topstone ownership differs from numbered predecessor.
+  previous_record_year: 2007
+- name: K2
+  year: 2010
+  yaml_id: k2
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rulespal.com/k2/rulebook
+  - https://www.orderofgamers.com/games/k2/
+  - https://board-game-rules.com/wp-content/uploads/2025/01/k2_Official-Rules.pdf
+  reason: OriginalREBEL2010 rules transcription and independent bibliography establish2010,Kałuża/Nocoń,1–5/8+/about60.
+    Corrected false2011/artcredits and captain-weather selection. LaterBigBox/expansion facts
+    remain separate.
+  previous_record_year: 2011
+- name: Karuba
+  year: 2015
+  yaml_id: karuba
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://garesys.com/media/rules/haba-karuba-instructions.pdf
+  - https://www.land-oberoesterreich.gv.at/files/publikationen/bi_spielmit.pdf
+  - https://www.spiel-des-jahres.de/spiele/karuba/
+  reason: OriginalHABA300932 English rules©2015 and contemporary teaching catalog explicitly
+    publication2015, distinct2016nomination; corrected catalog2016→2015. Earlier temple arrival
+    earns more valuable treasure, not fewer points.
+  previous_catalog_year: 2016
+- name: Kingdoms
+  year: 1994
+  yaml_id: auf-heller-und-pfennig-1994
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/1375
+  - https://www.spiele4us.de/spiel/auf-heller-und-pfennig/
+  - https://www.dienstac.de/adi/spiele/aufhellerundpfennig.pdf
+  reason: Original1994 HansimGlück AufHellerundPfennig now separate record; not false date
+    match to English fantasyKingdoms2002. Bibliography/physicalinventory establish1994; inspected
+    German rules copy is©1995 reprint, explicitly scoped. Added distinct2002KN03 catalog row.
+- name: Korsar
+  year: 1992
+  yaml_id: pirat-1992
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ggnf.de/spielanleitungen/pirat/pirat.pdf
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/832
+  reason: Award-title alias at1992 selects originalAMIGO Pirat, now separate66card2–5record.
+    ExistingKorsar explicitly revised to Heidelberger2002/Vohwinkel with documented4/6/8teamvariant;
+    added separate2002row, no mixed-version player/deck claims.
+- name: Kamon
+  year: 2007
+  yaml_id: kamon-2007
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brunocathala.com/kamon/
+  - https://regle.escaleajeux.fr/kamon_rg.pdf
+  reason: Creator’s February2007 release and mirroredJactalea rules establish original symbol/quantity
+    game, soleCathala,2/8+/about30. ExistingCosmoludo2020 colors version retained separately,
+    false Remy co-credit removed, explicit2020row added.
+- name: Kula Kula
+  year: 1991
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/kula-kula/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1061
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/884
+  - https://www.luding.org/reviews/bpk/KulaKula.html
+  reason: SeparatePerlhuhn1991 bibliography exists, but consulted detailed rules/review identify
+    laterBlatz1993. Retained original row pending original-edition curation rather than copying
+    later specifications. Added explicitBlatz1993row for corrected canoe/shell/oracle record.
+- name: Tiger game
+  year: null
+  yaml_id: null
+  status: skip
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gamescrafters.berkeley.edu/games.php?game=baghchal
+  - ../archive/2026-11-02/family-overviews/tiger-game.yaml
+  reason: Family-level Tiger game overview was archived unchanged in prior checkpoint. This
+    remaining generic CSV row describes no single playable ruleset; markskip rather than leave
+    unmatched or map arbitrarily to NepaliBaghChal. Specific traditional games remain in scope;
+    source ID/row preserved.
+- name: Kingdoms
+  year: 2002
+  yaml_id: kingdoms
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://luding.org/cgi-bin/GameData.py/ENgameid/13833
+  - https://www.boardgame.de/reviews/kingdoms.htm
+  reason: Added explicit originalFFGKN03 English2002 fantasy retheme. Original1994German market
+    game has own record; later2012Kingdoms not silently combined.
+- name: Korsar
+  year: 2002
+  yaml_id: korsar
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/13672
+  - https://www.reich-der-spiele.de/kritiken/Korsar
+  reason: Added explicit Heidelberger2002edition with independent playedreview/bibliography.
+    OriginalAMIGO1992Pirat and later editions remain distinct.
+- name: Kamon
+  year: 2020
+  yaml_id: kamon
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brunocathala.com/kamon-2/
+  - https://www.marches.didacto.com/jeux-de-strategie/6749-kamon-3770015431034.html
+  reason: Added explicitCosmoludo November2020 revision from creator’s datedrelease; color/symbol
+    constraints andDelahayeart separate from originalJactalea2007.
+- name: Kula Kula
+  year: 1993
+  yaml_id: kula-kula
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/kula-kula/
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/1061
+  - https://www.luding.org/cgi-bin/GameData.py/ENgameid/884
+  - https://www.luding.org/reviews/bpk/KulaKula.html
+  reason: Added explicitBlatz1993massmarket edition, jury/independentplayedreview. EarlierPerlhuhn1991reference
+    remains pending; no arbitrary edition merge.
+- name: Labyrinth
+  year: 2010
+  yaml_id: labyrinth-the-war-on-terror-2010
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gmtgames.com/living_rules/Labyrinth-PLAYBOOK-2010.pdf
+  - https://www.gmtgames.com/living_rules/Labyrinth-Rules-2011.pdf
+  - https://thegaminggang.com/our_reviews/tabletop-gaming-reviews/a-war-without-end-a-review-of-labyrinth-the-war-on-terror-2001
+  reason: Added originalGMT2010VolkoRuhnke simulation,1–2/USsolo,primaryplaybookandcontemporaryreview.
+    Unrelated1986Kobbertmaze retained; livingrulebook explicitly2011revision, not falsely
+    original. Publisherageunknown.
+- name: Lemming
+  year: 2014
+  yaml_id: lemming
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.reich-der-spiele.de/kritiken/lemminge
+  - https://www.kinderspieletest.de/spielesammlung/lemminge-583
+  - https://www.spieletest.at/gesellschaftsspiel/4368/lemminge
+  reason: Contemporary2014playedreview/BDKJtest identifyAMIGOBleasdale/Billiau terrain-cardrace,2–5/8+/30.
+    Replaced unsupported1994Ravensburgerdexterityidentity rather than fabricate separate1994record.
+  previous_record_year: 1994
+- name: Life Style
+  year: 1989
+  yaml_id: life-style
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiel-des-jahres.de/spiele/life-style/
+  - https://mieze-merle.de/Gesellschaftsspiele/files/Life%20Style/Anleitung%20-%20LifeStyle.pdf
+  - https://www.nobleknight.com/P/2147593639/Life-Style
+  reason: OriginalRavensburger015726Germanrules©1989/jury/physicalinventory identifyphoto-preferenceguessing,Raffeiner/Walch,3–6/16+/45–60.
+    Correctedfalse1973MB/Whitmanlifesimulation; advancedfavorites/jokeroptional.
+  previous_record_year: 1973
+- name: Liftoff!
+  year: 1989
+  yaml_id: liftoff
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blog.tremlas.com/games/play-by-mail-games/liftoff/
+  - https://blog.tremlas.com/games/play-by-mail-games/liftoff/liftoff-rules-summary/
+  - https://www.ludivers.ch/documents/liste_des_jeux.pdf
+  - https://en.wikipedia.org/wiki/Liftoff%21
+  reason: TaskForceGames1989Bronnerspacesimulation establishedbyphysicalclubinventory andowned-copyhistory.
+    ReplacedfalseQueen2018/KirpsMayeridentity. ActualHansimGlück2018LiftOff alreadyhasseparatelift-offrecord,
+    untouched. Originalroles/age/timeunverified.
+  previous_record_year: 2018
+- name: Light Division
+  year: 1989
+  yaml_id: light-division
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.nobleknight.com/P/10272/Light-Division
+  - https://grognard.com/reviews/lightdi1.txt
+  - https://grognard.com/reviews/lightdiv.txt
+  - https://grognard.com/errata/lightdiv.txt
+  reason: 3W1989Balkoski/Bay modernhypotheticalHormuzgame confirmedphysicalinventory/playedreviews.
+    Removedfalse1977SPI/Napoleonicidentity; solosuitabilitynotdedicatedbot,scenariotimesvary,maperrataexplicit.
+  previous_record_year: 1977
+- name: Lingua
+  year: 1969
+  yaml_id: lingua
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://secondhandgame.de/Ravensburger-Lingua-60252750/D56-008
+  - https://www.e-s-g.eu/sammelgebiete/serien/ravensburgercasinoserie/
+  - https://de.wikipedia.org/wiki/Lingua_(Spiel)
+  reason: Independentoriginalhistory/physicalinventory establish1969RavensburgerBraude coloredwordplacement,2–4.
+    Removedunsupported2006WinningMovesfastpartyidentity. Specificprinting/originalboxageunknown;ESGlistsseparate1972Casinoissue.
+  previous_record_year: 2006
+- name: Livequiz
+  year: 2007
+  yaml_id: livequiz
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.lastdodo.nl/nl/items/571461-livequiz
+  - https://spelmagazijn.nl/nl/versl231.html
+  reason: DutchIdentityGames2007 physicalcollectorentry pluscontemporaryfairreport,3–6/12+/onlinechanginganswers.
+    Removedgeneric2005/2–8/fastest-responserules; currentanswerserviceandoriginaltimeunverified.
+  previous_record_year: 2005
+- name: London
+  year: 2017
+  yaml_id: london-second-edition-2017
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ospreypublishing.com/media/hgkdrmhp/london_rulebook_web.pdf
+  - https://icv2.com/print/article/38930
+  reason: Added separateOsprey2017secondedition,finalpublisherrulesandcontemporaryretail-copyreview.2010Treefrogoriginalretainedwithitsowncatalogrow;boroughcardsnotoriginalmap.
+    CorrectedfalseDeckBuilding/eachturnrunclaim.
+- name: Looot
+  year: 2024
+  yaml_id: looot
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://export.gigamic.com/wp-content/uploads/2024/01/GIGAMIC_LOOOT_RULES.pdf
+  - https://www.meeplemountain.com/reviews/looot/
+  reason: OriginalGigamic2024Chevallier/Escoffier/Naïade Vikingworker/tileplacement,2–4/10+/35.
+    Replacedfalse2013RavensburgerKloßtreasuregrid; manual©2023notreleaseyear,2024physicalcopyreviewconfirmsavailability.
+  previous_record_year: 2013
+- name: Luftwaffe
+  year: 1971
+  yaml_id: luftwaffe
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://artsandculture.google.com/asset/game-luftwaffe-the-game-of-aerial-combat-over-germany-1943-45-avalon-hill/dwHYlxvC5zU0Eg?hl=en
+  - https://www.luding.org/cgi-bin/GameData.py?f=000%5EE4X&gameid=2129
+  - https://www.nyx.net/~epass/luftpbem.html
+  reason: TheStrongphysicalartifactandindependentbibliography establishLouZocchi/AvalonHill1971;correctedcatalog1970→1971andfalseDunnigancredit.
+    BroadstrategicGermany1943–45scope;originalmanualage/scenariotimingunknown.
+  previous_catalog_year: 1970
+- name: Lure
+  year: 2024
+  yaml_id: lure
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.allplay.com/board-games/lure
+  - https://assets.allplay.com/board-games-lure-rulebook-link.pdf
+  - https://shelfgamer.com/reviews/lure/
+  - https://boardtopiagames.com/products/lure
+  reason: AllplayNakamuradicebiddingbasegame,2–5/7+/15,primaryrulesexactillustrationcredits.
+    Retail2024editionandindependentplayedreviewdate;later2025distributionnotfirstrelease.
+    Replacedunsupported2014Mayfaircardgame,DeepWatersexcluded.
+  previous_record_year: 2014
+- name: London
+  year: 2010
+  yaml_id: london
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://tesera.ru/images/items/9103/London-Rulebook-EN.pdf
+  - https://www.zatrolene-hry.cz/spolecenska-hra/london-1604/k-stazeni/pravidla-sk-1958/
+  reason: Added explicit2010TreefrogoriginalLondon row. Originalcredits/dated2010reference,boroughmapand12+/about90
+    scopedseparatelyfromOsprey2017cardboroughrevision;preferredcountsandexperienceprovisional.
+- name: Macroscope
+  year: 2016
+  yaml_id: macroscope-2016
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://hobbyjapan.games/macroscope/
+  - https://www.angespielt.de/kritiken/macroscope
+  - https://world-of-board-games.com.sg/docs/Macroscope.pdf
+  reason: Original Lifestyle2016 game now separate from Mayday2017 English issue. Official
+    Japanese release and independent German played bibliography establish2016 availability;
+    exact first language/printing unverified. Corrected reversed remaining-window score; added
+    explicit Mayday2017 row.
+- name: Maple Valley
+  year: 2024
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://images.salsify.com/image/upload/s--9T9aWNVq--/fpcejaawqmf3ggvydmp6.pdf
+  - https://zatu.com/blogs/reviews/maple-valley-kickstarter-review
+  - https://www.ozziecollectables.com/collections/ktbg/products/maple-valley-base-game-1
+  reason: Final English rules and actual December2023 Kickstarter-copy review establish represented
+    original2023, but generic2024 row gives no language/printing and later localized editions
+    exist. Kept pending instead of forcing original-English mapping; added explicit2023 row.
+    Corrected cooperative feel, route/card rules and Tenney art.
+- name: Marvel Heroes
+  year: 2006
+  yaml_id: marvel-heroes-2006
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.scribd.com/document/987220008/Marvel-Heroes-Rulebook-EN
+  - https://www.orderofgamers.com/games/marvel-heroes/
+  - https://www.criticalgamers.com/archives/2006/12/
+  reason: Added Nexus/FFG2006 hero-team/competing-mastermind strategy game, separate from
+    the older MiltonBradley record. Primary rule transcript distinguishes design/additional
+    design, board art and sculpture; contemporary shipping article confirms2006. Older record
+    remains for separate source review.
+- name: Mastermind
+  year: 1971
+  yaml_id: mastermind
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.buch-holm.com/content/files/content/om%20os/buch-og-holm-historie.pdf
+  - https://www.americanhistory.si.edu/pt/collections/object/nmah_1305800
+  reason: Original distributor history identifies commercial launch1971;1970 is invention
+    chronology. Corrected catalog1970→1971, scoped Invicta original without laterHasbro blend.
+    Museum corroborates1971rights acquisition; original age/duration bounds unverified.
+  previous_catalog_year: 1970
+- name: Mississippi
+  year: 1987
+  yaml_id: mississippi
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiele4us.de/wp-content/uploads/2022/10/mississippi-gebraucht-g002700080.pdf
+  - https://www.spiel-des-jahres.de/spiele/mississippi/
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/343
+  reason: Inspected originalMattel1987 folded rules confirm Siegers/3–6/10+ and fuel/numbered-boat
+    chain movement. Replaced unsupported1992speedboat identity. Die sets starting orientation
+    only; jury12+ differs from original10+, selected original. Independent30–60duration estimate
+    scoped.
+  previous_record_year: 1992
+- name: Muffin Time
+  year: 2020
+  yaml_id: muffin-time
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://pressreleases.responsesource.com/newsroom/BigPotatoGames/release/98235/muffin-time-kickstarter-hits-10k-target-in-under-an-hour/
+  - https://www.gamesmen.com.au/muffin-time-card-game
+  - https://www.ehgaming.com/wp-content/uploads/2020/10/Muffin-Time-card-game-rules.pdf
+  - https://bigpotato.com/products/muffin-time
+  reason: 2019 was Kickstarter campaign; represented English physical retail UPC5060579760915
+    released2020,2–6/12+/20–40. Corrected catalog2019→2020; current publisher2021expanded2–8/13+
+    kept separate. Original rules require ten-card announcement before surviving to next-turn
+    win.
+  previous_catalog_year: 2019
+- name: Mycelia
+  year: 2024
+  yaml_id: mycelia
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://bghub.org/r/mycelia.pdf
+  - https://www.nobleknight.com/P/2148210496/Mycelia
+  - https://alwaysplayblue.com/reviews-h-n/mycelia-2024/
+  reason: Original SplitStone2024 finished release follows2023demo/crowdfunding; actual inventory/review
+    and©2024rules corroborate. Clarified two DIFFERENT actions chosen from six. Direct interference/automata
+    solo clarified; no over69species claim from69cards. Ravensburger same-title deckbuilder
+    separate.
+  previous_record_year: 2023
+- name: Lord of the Rings
+  year: 2000
+  yaml_id: lord-of-the-rings-2000
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.knizia.de/wp-content/uploads/List-Games-Website-2312.pdf
+  - https://edt210gamestechsociety.wordpress.com/wp-content/uploads/2013/08/knizia-2004-the-design-and-testing-of-the-board-game.pdf
+  - https://www.nobleknight.com/P/11856/Lord-of-the-Rings-1st-Printing
+  - https://www.panix.com/~sos/bc/lotr.html
+  reason: Added original cooperative Knizia/JohnHowe Hasbro/Wizards2000 game,2–5/12+/60–90
+    from specific first-print inventory. Creator publication list/design essay and contemporary
+    played review establish identity. Confrontation/2003children game/laterFFG revision remain
+    separate; no base solo inferred.
+- name: Macroscope
+  year: 2017
+  yaml_id: macroscope
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.sahmreviews.com/2017/06/origins-game-fair-game-debuts-pt-2.html
+  - https://http8574nerdlingmum.wordpress.com/2018/06/15/my-thoughts-on-the-uk-games-expo-2018/
+  - https://world-of-board-games.com.sg/docs/Macroscope.pdf
+  reason: Added explicit Mayday2017 English edition from contemporary Origins debut; original
+    Lifestyle2016 has separate record.2–6/6+/about30 supported; original illustration credits
+    unverified.
+- name: Maple Valley
+  year: 2023
+  yaml_id: maple-valley
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://images.salsify.com/image/upload/s--9T9aWNVq--/fpcejaawqmf3ggvydmp6.pdf
+  - https://zatu.com/blogs/reviews/maple-valley-kickstarter-review
+  - https://www.ozziecollectables.com/collections/ktbg/products/maple-valley-base-game-1
+  reason: Added explicit original KTBG English2023 base-game row from final rules and actualDecember2023review.
+    Generic2024 reference remains pending; upgrades/localized printing details not automatically
+    transferred.
+- name: Machiavelli
+  year: 1977
+  yaml_id: machiavelli-1977
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://en.wikipedia.org/wiki/Machiavelli_(board_game)
+  - https://diplom.org/Online/variants3.html
+  reason: Added original Battleline1977 Taylor/Wood negotiation game, separate from Citadels
+    localized title and later AvalonHill revisions. Independent history and edition directory;
+    original manual, age and timing unverified.
+- name: Marco Polo
+  year: 1983
+  yaml_id: marco-polo-1983
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.spiele4us.de/wp-content/uploads/2022/10/spiel-des-marco-polo-gebraucht-g003801480.pdf
+  - https://www.spiele4us.de/spiel/spiel-des-marco-polo/
+  - https://luding.org/Skripte/PublisherData.py/DEpublisherid/5
+  - https://www.jugamostodos.org/index.php/noticias-en-espana/otros-articulos-94369/3219-isidre-mones-ilustrador-de-juegos
+  reason: Added TomKremer/Schmidt1983 trading-and-travel game from visually inspected originalGerman
+    rules and physical inventory/bibliography. Separate from2015Voyages; SpanishCEFA artist
+    not transferred to German set.
+- name: Citadel
+  year: null
+  yaml_id: citadel-1976
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.fourcats.co.uk/mags/files/WGN-170-May-76c.pdf
+  - https://fanac.org/fanzines/Algol/algol_32_v15n3_porter_1978-su.pdf
+  - https://en.wikipedia.org/wiki/Citadel_(board_game)
+  - https://www.fantasygamesunlimited.net/product/citadel-pdf/
+  reason: Singular row now explicitly identifies FGU1976 Goodman/Krenkel tower quest, supported
+    by contemporary received-booklet notice and publisher advert. Oldauto-match citadel file
+    actually described Citadels and is archived unchanged; historicalalias points to retainedCitadels,
+    not this separate game.
+- name: Citadels
+  year: 2000
+  yaml_id: citadels
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cdn.1j1ju.com/medias/cb/4e/c5-citadelles-regle.pdf
+  - https://www.ludolegars.fr/citadelles/
+  - https://www.hans-im-glueck.de/en/game/citadels-2/
+  reason: Scoped retained record to originalFrench Multisim2000,3–7. Original rules distinguish
+    later2/3player appendix; original art restored, modern2–8/10+ not transferred. Duplicate
+    citadel YAML archived unchanged with explained alias.
+- name: New Phone Who Dis?
+  year: 2019
+  yaml_id: new-phone-who-dis
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://news.lincc.org/sites/default/files/lot-manuals/NewPhoneWhoDisInstructions.pdf
+  - https://www.sahmreviews.com/2022/05/thrift-treasure-new-phone-who-dis.html
+  - https://www.geekyhobbies.com/new-phone-who-dis-party-game-rules-and-instructions-for-how-to-play/
+  - https://trademarks.justia.com/880/77/new-phone-who-88077129.html
+  - https://relatable.com/products/new-phone-who-dis
+  reason: Corrected detailed2018application-year confusion to original adult2019 release.
+    Independent actual-copy review plus historical first-use report; original540-card rules
+    reprint2020,3+/17+. Family and second editions separate; no fixed upper bound certified.
+- name: Night Cage
+  year: 2022
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.scribd.com/document/791167144/Official-TNC-RuleBook-201005
+  - https://www.boardgamequest.com/the-night-cage-review/
+  - https://www.stackup.org/post/ttrpg-review-the-night-cage
+  reason: OriginalSND1008 rules and actual2021copy reviews establish represented first2021
+    game. Generic2022row gives no edition and may refer wider retail; remains pending. Added
+    explicit2021 row, corrected illustration and same-gate/discard rules.
+- name: Mr. President
+  year: null
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rosenbaum-games.de/3m/p1/p0021.htm
+  - https://artsandculture.google.com/asset/game-mr-president-the-game-of-campaign-politics-3m-company/SgHwfe6S7d5CBA?hl=en
+  - https://www.rosenbaum-games.de/3m/p1/presid01.pdf
+  - https://en.wikipedia.org/wiki/Mr._President_(board_game)
+  reason: Undated row does not independently distinguish3M1967standard election game fromGMT2023solo
+    governing simulation. Original3M also has1965/66versions; preserve source ID without guessing
+    target. Added explicitly dated1967/2023 rows.
+- name: Presidential Campaign
+  year: null
+  yaml_id: null
+  status: ambiguous
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rosenbaum-games.de/3m/p1/p0021.htm
+  - https://artsandculture.google.com/asset/game-mr-president-the-game-of-campaign-politics-3m-company/SgHwfe6S7d5CBA?hl=en
+  - https://www.rosenbaum-games.de/3m/p1/presid01.pdf
+  - https://en.wikipedia.org/wiki/Mr._President_(board_game)
+  reason: Generic phrase is not an independently verified commercial alias. Existing historical
+    filename described3M Mr.President, whose actual title/1967revision are now explicit; filename
+    alone cannot establish this CSV identity. Excluded ambiguous pending identity evidence.
+- name: Night Cage
+  year: 2021
+  yaml_id: night-cage
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.scribd.com/document/791167144/Official-TNC-RuleBook-201005
+  - https://www.boardgamequest.com/the-night-cage-review/
+  - https://www.stackup.org/post/ttrpg-review-the-night-cage
+  reason: Explicit original2021SND1008 base-game row; rule cover and actual2021reviews establish
+    availability,1–5/14+/50. Generic2022 row remains pending.
+- name: Mr. President
+  year: 1967
+  yaml_id: presidential-campaign
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.rosenbaum-games.de/3m/p1/p0021.htm
+  - https://artsandculture.google.com/asset/game-mr-president-the-game-of-campaign-politics-3m-company/SgHwfe6S7d5CBA?hl=en
+  - https://www.rosenbaum-games.de/3m/p1/presid01.pdf
+  - https://en.wikipedia.org/wiki/Mr._President_(board_game)
+  reason: Explicit3M1967standard revision, actual museum object and collector rulesC-B200I-67.
+    Earlier1965/66versions exist; this is not first publication. Historical YAML ID retained.
+- name: Mr. President
+  year: 2023
+  yaml_id: mr-president
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gmtgames.com/p-1056-mr-president-the-american-presidency-2001-2020-2nd-edition.aspx
+  - https://www.scribd.com/document/655936449/MRPRES-GoverningManual-WebSize
+  - https://platoonforward.blogspot.com/2023/07/something-completely-different-mr.html
+  - https://opinionatedgamers.com/2023/10/11/thank-you-mr-president-a-first-impressions-press-conference/
+  reason: Explicit GMT original2023solo governing game from contemporary delivered/played
+    copy reports, separate from3M election game and2026secondedition. Original age/time bounds
+    unknown.
+- name: Occhio!
+  year: 1997
+  yaml_id: occhio
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://lucca2011.luccacomicsandgames.com/index.php?id=122
+  - https://it.wikipedia.org/wiki/Occhio%21
+  reason: Official Lucca archive and independent history identify original Lamberti/Jokerman
+    1997 two-player abstract. Corrected detailed 1998 and unsupported extra seats/movement
+    details. Original manual/age unverified; fifteen-minute estimate provisional.
+  previous_record_year: 1998
+- name: Odysea Organization
+  year: 2024
+  yaml_id: odysea-organization
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.kmosek.com/odysea-organizace/
+  - https://www.kmosek.com/odysea-organizace-hra/
+  - https://www.knihydobrovsky.cz/kniha/odysea-organizace-strategicka-hra-pro-firemni-rozvoj-803025247
+  reason: Replaced unsupported 2010 space mission with Petr Kmošek’s Czech 2024 workplace
+    card workshop, ISBN 978-80-11-05325-3. Creator/retailer identity corroborates; public
+    preview omits full rules and some cards. Participant counts/age unknown; no independent
+    business-outcome validation.
+  previous_record_year: 2010
+- name: Okiya
+  year: 2012
+  yaml_id: okiya
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.brunocathala.com/okiya-niya/
+  - https://blueorangegames.eu/wp-content/uploads/2020/04/Okiya-PnP-EN.pdf
+  - https://www.cliquenabend.de/spiele/719100-Okiya.html
+  reason: Creator’s November 2012 Jactalea announcement and independent played review resolve
+    original date/art. Corrected detailed 2013/Blue Orange blend to Jactalea 2012/Cyril Bouquet,
+    2/8+/about10. Later Niya packaging and PnP rules distinguished.
+  previous_record_year: 2013
+- name: Olympica
+  year: 1978
+  yaml_id: olympica
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://pied.nu/dragon/files/Drmg016.pdf
+  - https://tft.brainiac.com/metagameindex.html
+  - https://mtngrown.github.io/2015/02/04/lynn-willis-olympica.html
+  reason: Contemporary publisher ad and physical-edition index identify Willis/Metagaming
+    1978 MicroGame 07, not Jackson/1980. Corrected design/art and false snack-length rating.
+    Full original manual/age/time labels uninspected; Jackson is a playtester.
+  previous_record_year: 1980
+- name: Orchard
+  year: 1986
+  yaml_id: orchard-1986
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://assets.ctfassets.net/9hs7wkiibhjb/21bbWoBiLS4n3pNoLhZbMP/d85fde3953232d1fe9fa91410a4c6cba/HABA_PM_Virtuelle_Fr__hjahrsmesse_Begleitbrosch__re.pdf
+  - https://www.ihrysko.sk/files/product_pdf/obstgarten-pravidla.pdf
+  - https://spielwiese.at/index.php/meldungsarchiv/archiv-2006/obstgarten-wird-20-jahre-alt
+  reason: Added separate HABA classic 1986 cooperative children’s harvest/raven-puzzle game,
+    from original-publisher retrospective, legacy3103rules and2006anniversary account. Not
+    Tuck solitaire or First Orchard 2009. Consulted legacy2–8 differs from later1–8 issues;
+    manufacturing date unknown.
+- name: First Orchard
+  year: 2009
+  yaml_id: first-orchard
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://spellenlab.be/media/files/6be24effb9f8438753148f2766cbe2e831822f7f.pdf
+  - https://www.hall9000.de/html/spiel/erster_obstgarten
+  reason: Scoped HABA 4655 standalone simplified toddler game to 2009, from actual rules and
+    contemporary played review. Corrected mistaken 1986 date/solitary feel; 1–4/2+/about10,
+    Neundorfer illustration, single-fruit basket/path-raven. Classic 1986 Orchard separate.
+  previous_catalog_year: null
+  previous_record_year: 1986
+- name: Othello
+  year: 1977
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.megahouse.co.jp/othello/about/
+  - https://www.beckerassociates.com/products/othello
+  - https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english
+  reason: Brand/licensor histories establish original Japanese 1973 and first world championship
+    1977; generic 1977 row supplies no territorial printing. Kept pending instead of forcing
+    original edition. Added explicit 1973 row, removed unsupported1971patent claim and universal
+    historicalReversi alias.
+- name: 'Orchard: 9 Card Solitaire Game'
+  year: 2020
+  yaml_id: orchard
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.tuckgames.com/news
+  - https://www.alliance-games.com/Downloads/GTM238_Games.pdf
+  - https://gamewardbound.com/orchard-9-card-solitaire-game-100-solo-plays/
+  - https://www.gateongames.com/wp-content/uploads/2020/12/Orchard-Rulebook_ITA-v4-1.pdf
+  - https://meepling.com/2019/09/18/orchard-review-a-swift-nine-card-puzzle/
+  reason: Explicit manufactured Side Room 2020 edition, actual March 2020 received-copy account,
+    following2018PnP/2019campaign. Distributor scheduled January 2020; exact first delivery
+    date unverified. Single-copy solo; multiple-copy comparison separate.
+- name: Othello
+  year: 1973
+  yaml_id: othello
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.megahouse.co.jp/othello/about/
+  - https://www.beckerassociates.com/products/othello
+  - https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english
+  reason: Explicit original Japanese commercial 1973 Othello, Tsukuda Original, from official
+    brand/licensor history. WOF establishes shared modern rules, not original1973package labels.
+    Generic 1977 reference remains pending.
+- name: Pay Day
+  year: 1974
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gamesandpuzzles.org/index.php/research/trade-catalogs/catalogs-geo-s-parker-parker-brothers
+  - https://www.scribd.com/document/689229909/payday1974rules
+  - https://peopleofplay.com/blog/game-review-pay-day
+  - https://fgbradleys.com/wp-content/uploads/rules/Payday.pdf
+  reason: Early rules carry copyright 1974 while AGPI identifies U.S.1975 catalog marked new;
+    possible earlier Canadian edition not independently resolved. Kept generic 1974 row pending,
+    added represented U.S.1975 row. Corrected cooperative feel and unsupported universal30-minute
+    duration.
+- name: Pictureka!
+  year: 2006
+  yaml_id: project-x-2006
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.ludigaume.fr/jeu-ProjectX
+  - https://www.anderspel.nl/projectx.html
+  - https://trictrac.net/jeu-de-societe/project-x
+  reason: Mapped original 2006 to Lauwers Games Project X, established by contemporary played
+    review/Essen notice and later renaming. Added explicit 2007 Parker row for retained record.
+    Original Project X threshold/box labels uninspected; later Hasbro rule PDFs not called
+    original 2006 manual.
+- name: Piepmatz
+  year: 1995
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.lookout-spiele.de/en/games/piepmatz.html
+  - https://cdn.1j1ju.com/medias/33/49/6c-piepmatz-rulebook.pdf
+  - https://spielessen.de/de/programm/dsp/deutscher-spielepreis-historie
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/2019
+  - https://spielwiese.at/component/mtree/kinderspiele/17644
+  - https://spielwiese.at/component/mtree/kinderspiele/17645
+  - https://spelarch.vives.be/PDFspelregels/710.pdf
+  reason: Independent references establish both Girsch/F.X. Schmid search game and KRAG/HABA
+    tree race in 1995, each separate from Lookout 2018 cards. Generic row/sourceID not independently
+    disambiguated; remains pending. Added explicit 2018 card-game row and restored Langman
+    art; English8+ versus current web10+ guidance explicit.
+- name: Piratissimo
+  year: 2006
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cdn.1j1ju.com/medias/1e/40/fd-piratissimo-rulebook.pdf
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/19124
+  - https://www.spiel-des-jahres.de/spiele/piratissimo/
+  - https://ludo-biblio.accoord.fr/index.php?id=12193&lvl=notice_display
+  reason: Original Selecta 3585 rules and independent physical bibliography establish 2005,
+    Ludwig/Kinzebach. Generic 2006 may reflect nomination/distribution, printing not established;
+    remains pending with explicit 2005 row. Later Pegasus 2016 reissue kept separate. Corrected
+    old 2003/Rio Grande blend.
+  previous_record_year: 2003
+- name: Pixie Queen
+  year: 2017
+  yaml_id: pixie-queen
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gzhls.at/blob/ldb/b/7/2/e/9be2b4842faa134c1bd8a168aed2e2e6ae78.pdf
+  - https://gamebrewer.com/how-it-all-began-and-how-it-ended/
+  - https://planszowkiwedwoje.pl/2017/12/pixie-queen-recenzja/
+  - https://www.nobleknight.com/P/2147747424/Pixie-Queen
+  reason: Finished 2017 copy review and Game Brewer GAB001 inventory distinguish release from2016campaign.
+    Production rules restore Jochem Van Gool art and highest final total, not fewest positive
+    points. English original box labels uninspected; about100 retail guidance, 2–5/12+.
+  previous_record_year: 2016
+- name: Pay Day
+  year: 1975
+  yaml_id: pay-day
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.gamesandpuzzles.org/index.php/research/trade-catalogs/catalogs-geo-s-parker-parker-brothers
+  - https://www.scribd.com/document/689229909/payday1974rules
+  - https://peopleofplay.com/blog/game-review-pay-day
+  - https://fgbradleys.com/wp-content/uploads/rules/Payday.pdf
+  reason: Explicit represented U.S.1975 Parker game advertised new in contemporary catalog;
+    1974copyright/possible Canadian issue unresolved. Early four-token rules distinguish revised1994six-player
+    game; chosen months determine duration.
+- name: Pictureka!
+  year: 2007
+  yaml_id: pictureka
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://donsgamecloset.com/pictureka2007.html
+  - https://www.rpg.net/reviews/archive/13/13629.phtml
+  - https://alphajeux.be/IMG/pdf/regle_projet_x_.pdf
+  reason: Explicit Parker U.S.2007 board game from physical inventory and contemporary played
+    review; 2+/6+/six-card win. Separate Project X 2006 original and later second edition;
+    no fixed upper player limit certified.
+- name: Piepmatz
+  year: 2018
+  yaml_id: piepmatz
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.lookout-spiele.de/en/games/piepmatz.html
+  - https://cdn.1j1ju.com/medias/33/49/6c-piepmatz-rulebook.pdf
+  - https://spielessen.de/de/programm/dsp/deutscher-spielepreis-historie
+  - https://www.luding.org/cgi-bin/GameData.py/DEgameid/2019
+  - https://spielwiese.at/component/mtree/kinderspiele/17644
+  - https://spielwiese.at/component/mtree/kinderspiele/17645
+  - https://spelarch.vives.be/PDFspelregels/710.pdf
+  reason: Explicit Lookout 2018 Riddle/Pinchback/Langman card game. Publisher current10+ differs
+    from consulted English©2018 rules8+; original manufacturing label uninspected. Both 1995
+    namesakes remain separate and generic 1995 row stays pending.
+- name: Piratissimo
+  year: 2005
+  yaml_id: piratissimo
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://cdn.1j1ju.com/medias/1e/40/fd-piratissimo-rulebook.pdf
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/19124
+  - https://www.spiel-des-jahres.de/spiele/piratissimo/
+  - https://ludo-biblio.accoord.fr/index.php?id=12193&lvl=notice_display
+  reason: 'Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen
+    bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost
+    on overload. Generic 2006 remains pending; later illustrated reissue separate.'
+- name: Planet
+  year: 2018
+  yaml_id: planet
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://blueorangegames.eu/en/games/planet/
+  - https://blueorangegames.eu/wp-content/uploads/2018/09/PLANET_rules_UK.pdf
+  - https://opinionatedgamers.com/2018/11/29/dale-yu-review-of-planet/
+  reason: Publisher credits, copyright-2018 rules and actual six-play November 2018 review
+    establish original European game. Corrected Šulinskas/Miramon credits and distinct animal
+    requirements; 2019 review/localization dates not original release.
+  previous_record_year: 2019
+- name: Prime Climb
+  year: 2014
+  yaml_id: prime-climb
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://mathforlove.com/wp-content/uploads/2020/03/Prime-Climb-Official-English-Rules.pdf
+  - https://mikesmathpage.wordpress.com/2014/12/05/a-review-of-prime-climb-by-math-for-love/
+  - https://mathforlove.com/2014/07/playing-with-math-and-more/
+  reason: Purchased and played finished copy in December 2014 establishes availability. Official
+    rules confirm red-prime restrictions, exact 101, 2–4 main game and printed solo variants.
+    Corrected unsupported 2012 date; original printing/art remain unverified.
+  previous_record_year: 2012
+- name: Pony express
+  year: 2009
+  yaml_id: pony-express-2009
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://faidutti.com/blog/blog/tag/pony-express/
+  - https://tesera.ru/images/items/2639/Pony-Express_US_Manual_LD.pdf
+  - https://www.rulespal.com/pony-express/rulebook
+  - https://www.hall9000.de/html/spiel/pony_express
+  reason: Creator history and original-rule credits identify separate Faidutti/Bauza/Funforge
+    2009 race, with Beaulieu illustration and 3–5/8+/45–60 guidance. Polygon 1947 record retained
+    separately; no false edition/compatibility link.
+- name: Push
+  year: 2001
+  yaml_id: push-2001
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://steffen-spiele.com/de/pages/founder-steffen-muhlhauser
+  - https://www.cliquenabend.de/spiele/660000-Push.html
+  reason: 'Creator chronology and independent played review identify Mühlhäuser wooden flicking
+    game listed in 2001, separate from Ravensburger cards. First printing and original publisher
+    unverified: company founded 2003. Specifications follow later reviewed issue, not inspected
+    2001 box.'
+- name: Pony Express
+  year: 1947
+  yaml_id: pony-express
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://artsandculture.google.com/asset/board-game-the-game-of-pony-express-polygon-corporation/2wEBaTlQjExORA?hl=en
+  - https://gamecatalog.org/results-2/?keyword=pony
+  - https://gamecatalog.org/wp-content/uploads/2025/04/2024-09-09_AGPI_Game-Catalog_11th-Edition.pdf
+  reason: Explicit older Polygon/Bratt U.S. game from museum artifact and AGPI catalog; unrelated
+    to Funforge 2009 race. Original rules inaccessible, so unsupported counts, age, duration
+    and precise ending remain unknown.
+- name: Push
+  year: 2018
+  yaml_id: push
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://gameland.com.ua/content/files/pravila-gri-push-angl.-92607704.pdf
+  - https://www.geeksundergrace.com/tabletop/review-push/
+  - https://www.ravensburger.org/nlbe/producten/spellen/kaartspellen/push-26828/index.html
+  reason: Explicit Ravensburger North America/Prospero Hall card game, English USe01 copyright-2018
+    rules and independent release chronology. Separate from Mühlhäuser wooden game; banking,
+    busts and roll-card risks restored.
+- name: Quazar
+  year: 1977
+  yaml_id: quazar
+  status: existing
+  reviewed_on: '2026-11-02'
+  previous_record_year: 1980
+  basis:
+  - https://pied.nu/dragon/files/Drmg009.pdf
+  - https://en.wikipedia.org/wiki/Quazar_(board_game)
+  reason: Publisher’s contemporary sale advertisement and independent bibliography identify
+    Excalibre 1977 science-fiction wargame, replacing unsupported 1980 short abstract. Original
+    manual, precise duration, age and creator credits unverified. Advertisement has open-ended
+    2+ wording, not a tested large-group maximum.
+- name: Quest
+  year: 2021
+  yaml_id: quest
+  status: existing
+  reviewed_on: '2026-11-02'
+  previous_record_year: 1997
+  basis:
+  - https://escapevelocitycollection.com/quest-indie-boards-cards/
+  - https://elznir-games.de/wp-content/uploads/Quest_rulebook_GER_web.pdf
+  - https://www.nobleknight.com/P/2147924946/Quest
+  reason: Contemporary played review and specific IBCQUE1 inventory establish Eskridge/Indie
+    2021 social deduction game, not unsupported generic 1997 fantasy set collection. 4–10/14+/about
+    30; German publisher rules distinguish roles/endings without certifying original English
+    printing.
+- name: Quizimaze
+  year: 1986
+  yaml_id: quizimaze
+  status: existing
+  reviewed_on: '2026-11-02'
+  previous_record_year: 1990
+  basis:
+  - https://archive.org/download/quizimaze_202207/Quizimaze%20Rules.pdf
+  - https://archive.org/download/quizimaze_202207/Box-%20Lid%20Side.jpg
+  - https://ised-isde.canada.ca/cipo/trademark-search/566456?lang=eng
+  reason: 'Inspected actual Wilfred Canadian English box copyright 1986 and all six scanned
+    manual pages (copyright 1986/1988): 2–8/10+/1–3 hours, illustrated trivia and pivoting
+    gates. Bibliographic box date, not exact first-sale certification; official filing/use
+    declarations distinguished. Designer/art unknown.'
+- name: RattleSnake
+  year: 2007
+  yaml_id: rattlesnake
+  status: existing
+  reviewed_on: '2026-11-02'
+  previous_record_year: 1994
+  basis:
+  - https://cdn.1j1ju.com/medias/1c/f5/58-rattlesnake-rulebook.pdf
+  - https://images-cdn.fantasyflightgames.com/ffg_content/Rattlesnake/rattlesnake-rules.pdf
+  - https://ludigaume.fr/jeu-Rattlesnake
+  - https://www.jeuxdenim.be/jeu-Rattlesnake
+  reason: English Nexus copyright-2007 production rules plus independent contemporary played
+    reference establish Di Meglio magnetic-egg game, not false 1994 plastic toy. Mattioli
+    art distinguished from Maiorana graphics, 2–4/8+, no timer, competitive empty-supply victory.
+    Exact original English printing uninspected.
+- name: Raumschach
+  year: null
+  yaml_id: raumschach
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.raumschach.org/rules
+  - https://www.raumschach.org/dickins
+  - https://www.raumschach.org/pritchard
+  - https://www.raumschach.org/maack-game-rules
+  reason: Specific five-board Normal Form distinguished from generic 3D-chess family overview,
+    now archived unchanged without alias. 1907 is early invention, not verified first publication
+    of this exact ruleset; detailed year unknown. Normal Form has ten pawns/two unicorns per
+    side, unlike Maack’s 1913 five-pawn arrangement.
+  previous_record_year: 1907
+- name: three-dimensional chess
+  year: null
+  yaml_id: null
+  status: skip
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.raumschach.org/rules
+  - https://www.raumschach.org/dickins
+  - https://www.raumschach.org/pritchard
+  - https://www.raumschach.org/maack-game-rules
+  reason: Generic family overview spans multiple playable variants and falsely gave one Maack
+    date/designer as universal. Original YAML archived byte-for-byte with empty owner fields;
+    no alias to a particular game. Raumschach remains separately represented in documented
+    Normal Form.
+- name: Rebel Princess
+  year: 2024
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://beziergames.com/products/rebel-princess-deluxe-edition
+  - https://cdn.shopify.com/s/files/1/0740/4855/files/RPDX_Online_Rules_Preview.pdf
+  - https://beziergames.com/blogs/news/rebel-princess-developing-a-modern-classic
+  - https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+  - https://www.meeplemountain.com/reviews/rebel-princess-deluxe-edition/
+  reason: Contemporary distributor lists both Bézier standard BEZRPSE and Deluxe BEZRPDX in
+    2024. Generic row has no edition/SKU evidence, so stays pending; explicit Deluxe row added.
+    Old 2015 cooperative concept unsupported. Deluxe rules and age/duration source conflict
+    are documented.
+  previous_record_year: 2015
+- name: Red Flags
+  year: 2015
+  yaml_id: red-flags
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.kickstarter.com/projects/jackdire/red-flags-the-new-party-game-from-the-creator-of-s
+  - https://icv2.com/articles/news/view/37345/skybound-release-the-grimm-forest
+  - https://dungeonmarvels.com/red-flags-32864.html
+  - https://www.ultraboardgames.com/red-flags/game-rules.php
+  reason: Creator’s 2015 campaign plus trade interview confirming late-2015 Skybound distribution
+    resolve year. Represented 400-card English base game uses identified SKY966 inventory
+    guidance; original physical printing uninspected, later age/count variants not merged.
+    Session length chosen by rounds or point target.
+  previous_record_year: 2014
+- name: Resist!
+  year: 2023
+  yaml_id: resist
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://25thcenturygames.com/products/resist
+  - https://www.phdgames.com/2023/03/27/psi-april-19-releases/
+  - https://www.boardgamequest.com/resist-review/
+  - https://opinionatedgamers.com/2022/09/30/resistance-is-not-futile-a-solo-game-review/
+  reason: Specific 25th Century TFC34000 U.S. English edition announced March 2023 and independently
+    reviewed August 2023, separate from earlier Salt & Pepper 2022 original. Primary publisher
+    restores 10+ and concealed/revealed deck decisions; sole-player mode is not multiplayer
+    cooperation.
+  previous_record_year: 2022
+- name: 'Rebel Princess: Deluxe Edition'
+  year: 2024
+  yaml_id: rebel-princess
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://beziergames.com/products/rebel-princess-deluxe-edition
+  - https://cdn.shopify.com/s/files/1/0740/4855/files/RPDX_Online_Rules_Preview.pdf
+  - https://beziergames.com/blogs/news/rebel-princess-developing-a-modern-classic
+  - https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+  - https://www.meeplemountain.com/reviews/rebel-princess-deluxe-edition/
+  reason: Explicit Bézier English Deluxe BEZRPDX (2024), distinct from concurrent standard
+    and original Spanish editions; publisher-linked preview, contemporary product/development
+    evidence and actual-play review consulted. Generic 2024 reference stays pending without
+    SKU. Physical English age/time labels uninspected; conflicting guidance retained.
+- name: Rebel Princess
+  year: 2024
+  yaml_id: null
+  status: ambiguous
+  reviewed_on: '2026-11-02'
+  previous_auto_match: rebel-princess
+  basis:
+  - https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+  reason: Both standard BEZRPSE and Deluxe BEZRPDX were announced by Bézier’s distributor
+    for 2024. Generic row has no SKU/edition evidence. Marked ambiguous to prevent the title/filename
+    fallback from silently selecting Deluxe; explicit Deluxe row covers the reviewed record.
+    Original 2015 cooperative description was unsupported.
+- name: Revolver
+  year: 2011
+  yaml_id: revolver
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://printgames.ru/wp-content/uploads/2019/07/011_REVOLVER_Rulebook_ENG_web.pdf
+  - https://www.hall9000.de/html/messe/2011/2/6941
+  - https://www.boardgamereviewsbyjosh.com/2012/04/revolver-review.html
+  - https://www.ultraboardgames.com/revolver/game-rules.php
+  reason: White Goblin original English2011 established by copyright rules and contemporary
+    actual Essen play; designer Chaplin/illustrator Nieto restored. Stronghold2012 and Revolver2
+    not merged. Fixed decks, alternating turns and both gang victory routes restored.
+  previous_record_year: 2009
+- name: Ribbit
+  year: 2004
+  yaml_id: schildkrotenrennen-2004
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://knizia.de/wp-content/uploads/reiner/pdfs/List-Games.pdf
+  - https://winningmoves.de/media/76/fc/9a/1625744753/Schildkro-tenrennen_Regel-D.pdf
+  - https://www.spiel-des-jahres.de/spiele/schildkroetenrennen/
+  - https://www.hall9000.de/html/spiel/schildkroetenrennen
+  - https://opacportal.bistum-muenster.de/ochtrup/?detail=24&page=3&searchhash=OCLC_4e6cf021398f1123b78cadb439d603132540519e&top=y
+  reason: Generic2004 reference represents original Knizia Winning Moves German Schildkrötenrennen,
+    not SimplyFun frog2007. Creator bibliography and actual2004 play establish selected2004
+    issue; rule footer copyright2003 does not certify first sale. Separate2007 frog row added.
+- name: Risk
+  year: 1957
+  yaml_id: la-conquete-du-monde-1957
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.museumofplay.org/toys/risk/
+  - https://www.giochidelloca.it/storia/worldgames.pdf
+  - https://www.ludism.fr/ludism_download.php?id=10300
+  reason: Original1957 reference now explicitly maps to Miro French La Conquête du Monde,
+    separate from Parker1959 Risk. Museum/history and original French scan support identity;
+    exact scanned printing/age unknown. Explicit1959 row retains Parker record.
+- name: River Dragons
+  year: 2000
+  yaml_id: dragon-delta-2000
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://fragames.com/en/game/river-dragons/
+  - https://www.rpg.net/reviews/archive/12/12401.phtml
+  reason: Original2000 reference now maps to Descartes/Eurogames Dragon Delta, from creator
+    history and actual original-game review. Later Matagot reissue has separate2013 U.S.-available
+    row; creator2012/2013 chronology conflict remains explicit.
+- name: Ribbit
+  year: 2007
+  yaml_id: ribbit
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://knizia.de/wp-content/uploads/reiner/pdfs/List-Games.pdf
+  - https://www.majorfun.com/ribbit/
+  - https://taogaming.wordpress.com/2007/05/06/more-simplyfun/
+  - https://www.cpsc.gov/Recalls/2007/simplyfun-recalls-ribbit-board-games-due-to-risk-of-lead-exposure
+  reason: Explicit SimplyFun English frog issue2007, creator bibliography and contemporary
+    child play. CPSC08-056 applies specified original2007 frog pieces; recall not extended
+    to replacements or turtles. Art/finish-stack rule/original printing labels unknown.
+- name: Risk
+  year: 1959
+  yaml_id: risk
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://manualzz.com/doc/23823326/parker-brothers-risk-board-game-user-manual
+  - https://www.museumofplay.org/toys/risk/
+  - https://m.media-amazon.com/images/I/C1UJfcmjylL.pdf
+  reason: Explicit Parker Brothers original U.S.1959 scope from copyright1959 3–6 rules and
+    museum chronology. Later reproduction two-player variant not universalized. Three standalone
+    relatives no longer labeled required expansions.
+- name: River Dragons
+  year: 2013
+  yaml_id: river-dragons
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://fragames.com/en/game/river-dragons/
+  - https://fragames.com/wp-content/uploads/2020/05/DRAGONS-REGLES-FR.pdf
+  - https://icv2.com/articles/news/view/24798/new-serenissima-river-dragons
+  - https://drakesflames.blogspot.com/2013/02/board-game-review-river-dragons.html
+  - https://www.matagot.com/en/family-games/223-552-river-dragons.html
+  reason: Explicit Matagot English reissue with actual U.S. availability2013, separate from
+    originalDragonDelta2000 and new2025SKU. Creator2012body/2013heading conflict and French8+
+    versus web7+ remain explicit; original English box uninspected.
+- name: River Valley Glassworks
+  year: 2023
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://allplay.com/board-games/river-valley-glassworks
+  - https://assets.allplay.com/board-games-river-valley-glassworks-rulebook-link.pdf
+  - https://assets.allplay.com/board-games-river-valley-glassworks-solo-rulebook-link.pdf
+  - https://nerdologists.com/2024/08/river-valley-glassworks-the-best-pieces-game/
+  - https://www.asmodeena.com/AUSA-Active-05012026.pdf
+  reason: Reviewed retailGME-RVG has actual Gen Con2024 purchase/play and distributor2024
+    release. Generic2023 identity lacks independently verified edition/availability; remains
+    pending, not guessed to mean crowdfunding. Explicit2024 retail row added.
+- name: Riviera Quest
+  year: 1989
+  yaml_id: riviera-quest
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://regle.escaleajeux.fr/js_56_rg.pdf
+  - https://www.festivaldesjeux-cannes.com/media/documents/2026/HISTORIQUE-AS-DOR-2025-1988.pdf
+  reason: March1989 contemporary magazine establishes French RivieraQuest journey-game presentation/availability;2001
+    placeholder unsupported. Creator roles conflict between contemporary Gaudo/Rohmer and
+    official award Chinchilla. Rules/counts/age/duration/experience unknown and cleared; mapped
+    identity does not certify practical play details or first sale.
+- name: Rock Island
+  year: 1987
+  yaml_id: rock-island
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/1180
+  - https://rotberger-shop.de/G-HG_RockG_1
+  - https://rotberger-shop.de/G-HG-RockG2
+  - https://www.nobleknight.com/P/2147993671/Rock-Island-German-Edition
+  reason: Independent bibliography and identified original-box inventory support Hans im Glück1987/Blumöhr/2–4/8+
+    train race. Replaced ungrounded1999 abstract placeholder. Mattel Zug nach Westen credit/age
+    and unverified original art not merged; no original manual read.
+- name: Rummoli
+  year: 1941
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.historymuseum.ca/collections/artifact/1900385
+  - https://www.historymuseum.ca/collections/artifact/240558
+  - https://gamecatalog.org/game/?gameid=37512
+  - https://www.houseofgames.ca/Rules/Rummoli_CC_Rules.html
+  reason: Museum cataloged1940 artifact and copyright1940 rules establish selected early CoppClark
+    scope; no independently established1941 printing or first-sale date. Retained generic1941
+    row pending and added explicit1940 row. Corrected false trick-taking tag and fixed duration;
+    original age unknown.
+- name: River Valley Glassworks
+  year: 2024
+  yaml_id: river-valley-glassworks
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://allplay.com/board-games/river-valley-glassworks
+  - https://assets.allplay.com/board-games-river-valley-glassworks-rulebook-link.pdf
+  - https://assets.allplay.com/board-games-river-valley-glassworks-solo-rulebook-link.pdf
+  - https://nerdologists.com/2024/08/river-valley-glassworks-the-best-pieces-game/
+  - https://www.asmodeena.com/AUSA-Active-05012026.pdf
+  reason: Explicit Allplay English retailGME-RVG/UPC618149323593 with finished-copy purchase/play2024.
+    Publisher core/solo rules distinguish illustration credits and automated rivals; manual8+/25
+    versus current site7+/20 guidance explicit, original printing uninspected.
+- name: Rummoli
+  year: 1940
+  yaml_id: rummoli
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.historymuseum.ca/collections/artifact/1900385
+  - https://www.historymuseum.ca/collections/artifact/240558
+  - https://gamecatalog.org/game/?gameid=37512
+  - https://www.houseofgames.ca/Rules/Rummoli_CC_Rules.html
+  reason: Explicit early Copp Clark Canadian game represented by museum artifact cataloged1940
+    and copyright1940 rules. Exact first sale unverified; separate1941 reference not forced
+    to match. Two-to-eight and poker/stops phases source supported, duration selectable.

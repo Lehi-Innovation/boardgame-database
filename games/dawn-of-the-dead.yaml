@@ -32,7 +32,7 @@ evokes:
   - Tension
   - Agency
   - Rivalry
-  - Survival
+  - "Powerful"
 
 possible_counts: [1, 2]
 true_counts: [1, 2]

@@ -5,13 +5,13 @@ year: 2018
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Kolossal base game (2018); expansions not required
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 3  # Long
+length: 2  # Provisional vibe for the cited sixty-to-ninety-minute base game
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
 feel: 3  # Competitive
@@ -37,7 +37,7 @@ evokes:
   - Tension
 
 possible_counts: [2, 3, 4, 5, 6]
-true_counts: [3, 4, 5]
+true_counts: [3, 4, 5]  # Provisional preferred counts, not independently validated
 
 designer:
   - Hervé Lemaître
@@ -45,12 +45,20 @@ publisher:
   - Kolossal Games
 artist:
   - Roland MacDonald
-playtime_minutes: 120
-min_playtime: 90
-max_playtime: 150
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
 min_age: 14
 
 description: |
-  Western Legends is an open-world sandbox tabletop adventure for 2–6 players set in the American Wild West, published by Kolossal Games in 2018 and designed by Hervé Lemaître. Players assume the roles of historical figures earning Legendary Points through a wide variety of activities: mining for gold, driving cattle, gambling in saloons, robbing banks, fighting bandits, pursuing story quests, or upholding the law and arresting outlaws. Each turn begins with drawing poker cards and gaining cash, then choosing three actions that leverage the current location on the sprawling map. The game's sandbox freedom and variety of paths to victory make it the definitive western-themed board game experience.
+  Choose how to build a reputation in the American West. Prospect for gold,
+  drive cattle, gamble, rob or uphold the law, pursuing different routes to
+  legendary status on a shared map. The activities you choose can put you in
+  conflict with other players as well as the game's obstacles.
+
+  This record represents the original 2018 base game, which supports two to six
+  players. Expansions add further options but are not needed to play. Expect a
+  session of choosing your own direction and responding to other people's plans;
+  that experience assessment and the preferred group sizes remain provisional.
 
 upgrades: []

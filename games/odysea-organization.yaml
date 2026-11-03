@@ -1,20 +1,29 @@
+# Creator/publisher and specific ISBN retailer identify Czech 2024 workplace card
+# workshop, not the unsupported 2010 science-fiction description. Public page marked
+# as instructions explicitly supplies ONLY area-card previews; roles/emotions and
+# full manual are missing. Participant counts and age unknown, left empty/null.
+# Two-to-four-hour estimate is publisher workshop guidance, not an inspected 2024
+# label. Learning/strategy ratings unknown; other ratings provisional. No independent
+# efficacy or enjoyment validation. Website footer start 2010 is not publication.
 id: odysea-organization
-name: "Odysea Organization"
-alternate_names: []
-year: 2010
+name: Odysea Organization
+alternate_names:
+  - Odysea organizace
+  - Odysea Organizace – Strategická hra pro firemní rozvoj
+year: 2024
 
 # Relationships
 game_family: null
-edition: null
+edition: Czech first edition, ISBN 978-80-11-05325-3 (2024)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 2  # Medium
-rules_complexity: 2  # Moderate
-strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+length: 3
+rules_complexity: null
+strategic_depth: null
+feel: 1
 value: 1  # Budget
 
 affinity: null
@@ -22,27 +31,30 @@ hotness: null
 
 categories:
   - Cooperative
-  - Sci-Fi
+  - Educational
+  - Creative
 
 evokes:
+  - Connection
+  - Persuasion
   - Discovery
   - Agency
-  - Tension
-  - Progress
-  - Connection
+  - Creative
 
-possible_counts: [2, 3, 4, 5]
-true_counts: [3, 4]
+possible_counts: []
+true_counts: []
 
-designer: []
-publisher: []
+designer:
+  - Petr Kmošek
+publisher:
+  - Petr Kmošek
 artist: []
-playtime_minutes: 60
-min_playtime: 45
-max_playtime: 90
-min_age: 10
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: null
 
 description: |
-  Odysea Organization is a cooperative board game in which players work together as a team to discover a ninth planet in space, overcoming challenges and collaborating to complete their mission. Players must coordinate their efforts and resources to navigate obstacles and achieve shared objectives before time or resources run out. Limited online documentation is available for this game outside its publisher's native market. It represents the category of thematic cooperative games designed for family or group play with an exploration-and-teamwork theme.
+  Use cards about workplace roles, organizational concerns and emotions to start a structured discussion about a real team. Participants choose relevant topics, discuss problems and possible responses, and develop actions to take after the session. This Czech card-based workshop is intended for managers and colleagues, with an advertised two-to-four-hour format. Expect a lengthy discussion about participants’ own working relationships. The public preview omits the complete manual and some cards, so formal participant limits, detailed rules and age guidance remain unknown.
 
 upgrades: []

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Suggest a game or correction</title>
+  <link rel="stylesheet" href="/css/common.css">
+  <style>
+    main { max-width: 680px; margin: 32px auto; padding: 20px; }
+    label { display: block; margin: 18px 0 6px; }
+    input, select, textarea { width: 100%; padding: 12px; font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; }
+    button { margin-top: 20px; min-height: 44px; }
+    #receipt { white-space: pre-wrap; overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <main>
+    <a href="/">← Browse games</a>
+    <h1>Help improve the catalog</h1>
+    <p>Suggest a missing game or explain a correction. A reviewer checks submissions before any catalog change.</p>
+    <form id="contribution">
+      <label for="kind">What would you like to suggest?</label>
+      <select id="kind"><option value="suggestion">Add a game</option><option value="correction">Correct a game</option></select>
+      <label for="name">Game title and edition</label>
+      <input id="name" required maxlength="200" autocomplete="off">
+      <input id="game-id" type="hidden">
+      <p id="correction-help" hidden>To correct a specific game, <a href="/">open its details</a> and choose “Suggest a correction”.</p>
+      <label for="message">What should we add or change?</label>
+      <textarea id="message" required maxlength="5000" rows="6"></textarea>
+      <label for="sources">Source links (optional, one per line)</label>
+      <textarea id="sources" rows="3" aria-describedby="source-help"></textarea>
+      <p id="source-help">Publisher pages or rules are helpful. Describe personal reactions as your experience. Avoid sharing private information.</p>
+      <button class="btn btn-primary" type="submit">Send for review</button>
+    </form>
+    <p id="receipt" role="status" aria-live="polite"></p>
+  </main>
+  <script>
+    const params = new URLSearchParams(location.search);
+    for (const field of ['name', 'game-id']) document.getElementById(field).value = params.get(field) || '';
+    if (params.has('game-id')) document.getElementById('kind').value = 'correction';
+    const kind = document.getElementById('kind');
+    const updateHelp = () => {
+      document.getElementById('correction-help').hidden = kind.value !== 'correction' || !!document.getElementById('game-id').value;
+    };
+    kind.addEventListener('change', updateHelp);
+    updateHelp();
+    document.getElementById('contribution').addEventListener('submit', async event => {
+      event.preventDefault();
+      const form = event.currentTarget;
+      const button = form.querySelector('button');
+      const receipt = document.getElementById('receipt');
+      button.disabled = true;
+      try {
+        if (kind.value === 'correction' && !document.getElementById('game-id').value) {
+          throw new Error('Open the game details and choose “Suggest a correction” to link your report.');
+        }
+        const payload = {
+          kind: document.getElementById('kind').value,
+          name: document.getElementById('name').value,
+          game_id: kind.value === 'correction' ? document.getElementById('game-id').value.trim() : null,
+          message: document.getElementById('message').value,
+          sources: document.getElementById('sources').value.split('\n').map(s => s.trim()).filter(Boolean)
+        };
+        const response = await fetch('/api/contributions', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+        const result = await response.json();
+        if (!response.ok) throw new Error(result.message || 'Could not save your suggestion');
+        receipt.textContent = `Saved for review. Receipt: ${result.id}\nNo catalog change has been published.`;
+        form.reset();
+      } catch (error) { receipt.textContent = error.message; }
+      finally { button.disabled = false; }
+    });
+  </script>
+</body>
+</html>

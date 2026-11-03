@@ -1,0 +1,65 @@
+id: auf-heller-und-pfennig-1994
+name: "Auf Heller und Pfennig"
+alternate_names:
+  - "Kingdoms"
+year: 1994
+game_family: auf-heller-und-pfennig
+edition: "Hans im Glück original German market game (1994); consulted rules reprint ©1995"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional research-based experience estimates; owner fields unset.
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 4
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Tile Placement
+  - Economic
+  - Family
+  - Reiner Knizia
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+designer:
+  - Reiner Knizia
+publisher:
+  - Hans im Glück
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 9
+
+description: |
+  Auf Heller und Pfennig is Knizia's original market-stall placement game, later
+  rethemed as Kingdoms. Place your stalls and customer tiles on a shared medieval
+  marketplace. Wealthy customers improve a row or column, while troublesome
+  visitors can make the same line lose money. A stall's size multiplies the
+  result, increasing both its earning power and its exposure to a bad placement.
+
+  Draw a tile, commit a stall or reveal the one tile kept privately in reserve.
+  Under the consulted German rules, completed rows and columns score immediately.
+  Across three rounds, recover small stalls but spend the larger ones permanently,
+  deciding when a promising line warrants that commitment. Fire divides lines,
+  a money bag doubles their effect, and an evil-eye tile removes the benefit of
+  positive customers. Most money after the third round wins.
+
+# Independent original-edition bibliography and physical-set inventory date1994,
+# 2–4/9+. Visually read German rule copy explicitly ©1995, a reprint rather than
+# proof of a1995 first publication; no claim to inspecting the original1994 manual.
+# Art from bibliography; time/preferences/experience estimates remain provisional.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,49 +1,76 @@
+# Publisher history and actual 2024 play review establish Bézier Deluxe release,
+# not the unsupported former 2015 cooperative-adventure concept. Downloaded 28-page
+# PDF linked by publisher; text extraction was empty, so pixel-read cover, setup,
+# components and credits, plus OCR-read core play/scoring pages. File is explicitly
+# named Rules Preview: not certified as final retail printing or fully read appendices.
+# Manual credits Byrne/Guerrero/Peláez/Virgós and Cáceres art; Alspach development,
+# Urios graphics and layout credits stay separate. Deluxe differs from Spanish
+# original and concurrent Bézier standard game; generic 2024 CSV is marked ambiguous.
+# PHD’s contemporary BEZRPDX announcement says 8+/30–40; specific Deluxe review
+# details say 15+/45. Selected distributor age guidance and approximate 45-minute
+# Deluxe review estimate; physical English box label and duration bounds unverified.
+# Preferred counts unknown; all experience ratings provisional.
 id: rebel-princess
-name: "Rebel Princess"
-alternate_names: []
-year: 2015
+name: 'Rebel Princess: Deluxe Edition'
+alternate_names:
+  - Rebel Princess Deluxe Edition
+year: 2024
 
 # Relationships
-game_family: null
-edition: null
+game_family: rebel-princess
+edition: Bézier Games English Deluxe Edition, BEZRPDX (2024); publisher-linked rules preview consulted
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
-value: 1  # Budget
+length: 1
+rules_complexity: 2
+strategic_depth: 2
+feel: 2
+value: 2
 
 affinity: null
 hotness: null
 
 categories:
-  - Cooperative
-  - Fantasy
+  - Trick-taking
+  - Variable Player Powers
+  - Events
+  - Hand Management
   - Family
+  - Fantasy
+  - Humor
 
 evokes:
-  - Agency
-  - Progress
+  - Clever
   - Tension
-  - Discovery
-  - Powerful
+  - Humor
+  - Rivalry
+  - Agency
 
-possible_counts: [2, 3, 4]
-true_counts: [2, 3, 4]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts: []
 
-designer: []
-publisher: []
-artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+designer:
+  - Daniel Byrne
+  - Gerardo Guerrero
+  - Kevin Peláez
+  - Tirso Virgós
+publisher:
+  - Bézier Games
+artist:
+  - Alfredo Cáceres
+playtime_minutes: 45
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Rebel Princess is a fantasy-themed game listed in board game databases. Limited commercial documentation is available for this title. The game centers on a princess character defying expectations in a fantasy setting, likely featuring cooperative or semi-cooperative mechanics as players help the titular rebel princess on her adventure.
+  Play cards into tricks while trying to avoid unwanted marriage proposals. Prince cards bring penalties, and the frog hidden among the pets is especially costly. Follow the led suit when you can, but watch for ways to pass troublesome cards to rivals. Each of five rounds adds a new rule, and your chosen princess has a power you can use once per round. The Deluxe edition also rewards collecting every prince and the frog with a negative score, offering a risky way to recover. Familiar card-play habits help, but changing round rules and powers create surprises. This record covers Bézier’s 2024 English Deluxe edition; a shorter three-round game is optional.
 
 upgrades: []

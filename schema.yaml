@@ -1,5 +1,5 @@
 # Board Game Database Schema
-# Version: 1.0
+# Version: 1.2
 
 # =============================================================================
 # RATING SCALES (0-4)
@@ -127,6 +127,11 @@ categories:
     - Asymmetric
     - Variable Player Powers
     - Events
+    - Stock Holding
+    - Exploration
+    - Trivia
+    - Voting
+    - Memory
 
   styles:
     - Euro
@@ -142,6 +147,11 @@ categories:
     - 4X
     - Dudes on a Map
     - Role Playing
+    - Solo
+    - Traditional
+    - Simulation
+    - Educational
+    - Creative
 
   themes:
     - Fantasy
@@ -179,6 +189,14 @@ categories:
     - Maritime
     - Trains
     - Agriculture
+    - Adventure
+    - Sports
+    - Humor
+    - Political
+    - Anime/Manga
+    - Japanese
+    - Religion
+    - Star Wars
 
   designers:
     - Reiner Knizia
@@ -235,11 +253,11 @@ categories:
     - Greater Than Games
 
 # =============================================================================
-# EVOKES (feelings a game is designed to evoke — pick top 5)
+# EVOKES (pick five distinct feelings when researched; empty if unknown)
 # =============================================================================
 
 evokes:
-  description: "Top 5 feelings this game is designed to evoke"
+  description: "Five distinct feelings, or an empty list when the play experience is unknown"
   values:
     - Agency        # High player control, meaningful choices
     - Clever        # Combos, optimization, "aha" moments
@@ -260,15 +278,33 @@ evokes:
     - Unique        # Asymmetry, variable powers, every-session-different
     - Wonder        # Spectacle, beautiful emergence, awe
 
+# Plain-language starting points using the current vocabulary. These are browsing
+# aids to test, not validated recommendation scores or replacement genres.
+discovery_presets:
+  - label: Share a laugh
+    evokes: [Humor]
+    description: Games with playful or comic moments.
+  - label: Solve a mystery
+    evokes: [Mystery]
+    description: Gather clues and work out what is hidden.
+  - label: Work through a puzzle
+    evokes: [Clever]
+    description: Look for combinations and satisfying solutions.
+
 # =============================================================================
 # PLAYER COUNTS
 # =============================================================================
 
 player_counts:
+  minimum: 1
+  # Common filter choices, not an upper bound on supported numeric counts.
   possible_values: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, "12+"]
+  open_ended_values: ["12+"]
   description: |
     possible_counts: Player counts supported by the box
     true_counts: Optimal/best player counts per community consensus
+    Preserve exact positive integer counts above twelve. "12+" is a legacy
+    open-ended label, not a replacement for known counts such as 16 or 30.
 
 # =============================================================================
 # GAME ENTRY TEMPLATE
@@ -301,7 +337,7 @@ template:
   # Tags
   categories: []              # From mechanics, styles, themes, designers, publishers
 
-  # Evokes (top 5 feelings this game is designed to evoke)
+  # Evokes (five distinct feelings when researched; [] when unknown)
   evokes: []
 
   # Player counts

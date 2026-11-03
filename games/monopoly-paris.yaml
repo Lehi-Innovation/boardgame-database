@@ -1,20 +1,20 @@
 id: monopoly-paris
 name: "Monopoly - Paris"
 alternate_names: ["Monopoly Paris Edition"]
-year: 2012
+year: 1948  # Represented rules edition; the physical set can be younger than its legal-deposit date.
 
 # Relationships
 game_family: monopoly
-edition: null
-base_game: monopoly
+edition: "French Miro Company edition with 1948 legal-deposit rules; physical box date uncertain"
+base_game: null  # Standalone edition, not an expansion requiring another Monopoly set.
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 3  # Long
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
-feel: 3  # Competitive
+feel: 4  # Direct financial competition and negotiated trades.
 value: 1  # Budget
 
 affinity: null
@@ -33,20 +33,19 @@ evokes:
   - Persuasion
   - Progress
 
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [3, 4, 5]
+possible_counts: []  # Exact represented-edition rule specifications not established.
+true_counts: []
 
 designer: []
 publisher:
-  - Hasbro
-  - Winning Moves
+  - Miro Company
 artist: []
-playtime_minutes: 120
-min_playtime: 60
-max_playtime: 240
-min_age: 8
+playtime_minutes: 120  # Legacy provisional estimate, not a verified 1948 edition label.
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Monopoly - Paris is a city-themed edition of the classic Monopoly board game, replacing the standard Atlantic City properties with famous Parisian streets, landmarks, and neighborhoods such as the Champs-Élysées, the Eiffel Tower, and Montmartre. Standard Monopoly rules apply — players buy and develop properties, collect rent from opponents, and attempt to bankrupt the competition. City-themed editions like this one are popular as souvenirs and gifts for lovers of the featured city.
+  Buy and develop property, collect rent and negotiate trades on a French Monopoly board using Parisian streets. This record represents a historical Miro Company edition, rather than the unsupported modern city-souvenir edition previously described here. A collector's inspected set has rules with a first-quarter 1948 legal-deposit notice; that dates the represented rules but does not establish the exact age of its box or the first French publication of Monopoly. Supported player counts and age for this edition remain unverified, and timing and experience ratings are provisional.
 
 upgrades: []

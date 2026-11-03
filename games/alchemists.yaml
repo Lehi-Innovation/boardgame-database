@@ -28,7 +28,6 @@ categories:
   - Simultaneous Action
   - Euro
   - Czech Games Edition
-  - Vlaada Chvatil
 
 # Evokes (top 5 feelings this game is designed to evoke)
 evokes:
@@ -44,7 +43,7 @@ true_counts: [3, 4]
 
 # Metadata
 designer:
-  - Matous Vitek
+  - Matúš Kotry
 publisher:
   - Czech Games Edition
 artist:
@@ -52,9 +51,9 @@ artist:
   - Jakub Politzer
   - Filip Murmak
 playtime_minutes: 120
-min_playtime: 90
-max_playtime: 150
-min_age: 13
+min_playtime: null
+max_playtime: null
+min_age: 12
 
 # Description
 description: |
@@ -63,8 +62,8 @@ description: |
   and publish theories about them before their rivals. The catch is that the true
   alchemical properties are hidden — players must deduce them through experimentation.
 
-  The game uses a companion app (or a dedicated code wheel in earlier editions) to
-  adjudicate experiment results privately. When you mix two ingredients, the app
+  The game uses a companion app, a web version, or a player acting as game master
+  to adjudicate experiment results privately. When you mix two ingredients, the app
   tells you what potion results, and from these clues you deduce which ingredient
   has which alchemical signature. Publishing a theory earns points, but publishing
   a wrong theory earns debunking penalties.

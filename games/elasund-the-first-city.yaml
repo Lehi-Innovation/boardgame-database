@@ -1,12 +1,12 @@
 id: elasund-the-first-city
 name: "Elasund: The First City"
 alternate_names:
-  - Elasund: The First City of Catan
+  - "Elasund: The First City of Catan"
 year: 2005
 
 # Relationships
 game_family: catan-adventures
-edition: null
+edition: Original game (2005)
 base_game: null
 expansions: []
 compatible_with: []
@@ -15,7 +15,7 @@ compatible_with: []
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4  # Provisional: opponents can displace each other's buildings
 value: 2  # Standard
 
 affinity: null
@@ -37,28 +37,29 @@ evokes:
   - Agency
 
 possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+true_counts: [3, 4]  # Provisional preferred counts; rules support two as well
 
 designer:
   - Klaus Teuber
 publisher:
   - KOSMOS
   - Mayfair Games
-artist: []
-playtime_minutes: 75
-min_playtime: 60
+artist:
+  - Tanja Donner
+playtime_minutes: 75  # Provisional nominal estimate within publisher's 45–90-minute range
+min_playtime: 45
 max_playtime: 90
 min_age: 10
 
 description: |
-  Elasund: The First City is the second game in Klaus Teuber's Catan Adventures series, depicting
-  the history of the island of Catan before Settlers arrives. Players build the first city of
-  Elasund by placing building tiles on a city grid, competing for valuable locations. A Settlers
-  of Catan-style resource roll at the start of each turn produces goods from established buildings,
-  and a "7" roll triggers negative effects. Resources are spent constructing various buildings —
-  homes, churches, guildhalls, and windmills — each contributing different point values or
-  powers. Like Settlers, control of the longest road and largest church equivalents grants
-  bonus points. While sharing Catan DNA, Elasund features tile-placement city-building
-  distinctly its own, rewarding aggressive construction and positioning over pure trading.
+  Compete to develop a crowded city on Catan. Dice generate gold and influence,
+  and building permits establish where construction can happen. Larger buildings
+  can replace smaller ones, so a productive location may become a target for an
+  opponent. Trade sites, the church and city walls offer routes to victory points;
+  the first player to ten wins.
+
+  This standalone Catan Adventures game uses its own city grid and construction
+  rules. Expect a spatial contest with direct interference as players compete for
+  limited room; that experience assessment and the preferred counts are provisional.
 
 upgrades: []

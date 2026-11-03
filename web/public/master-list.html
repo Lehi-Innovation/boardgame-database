@@ -156,6 +156,7 @@
       </div>
       <nav class="site-nav">
         <a href="/">Games</a>
+        <a href="/contribute">Suggest a game</a>
         <a href="/images">Images</a>
         <a href="/master-list" class="active">Master List</a>
       </nav>
@@ -165,7 +166,7 @@
   <div class="page-content">
     <div class="page-hero">
       <h1>Master List</h1>
-      <p class="hero-sub">The canonical catalog — every known game, tracked from discovery to researched entry.</p>
+      <p class="hero-sub">The canonical catalog — discovered games, tracked from research candidates to detailed records.</p>
       <div class="stat-row">
         <div class="stat-tile">
           <div class="stat-value gold" id="researched-count">0</div>
@@ -177,7 +178,7 @@
         </div>
         <div class="stat-tile coverage-tile">
           <div class="stat-value" id="pct-text">0%</div>
-          <div class="stat-label">Complete</div>
+          <div class="stat-label">Matched to records</div>
           <div class="meter"><div class="meter-fill" id="progress-fill" style="width:0%"></div></div>
         </div>
       </div>
@@ -194,7 +195,8 @@
       <div class="filter-group">
         <button class="filter-btn active" data-filter="all">All</button>
         <button class="filter-btn" data-filter="pending">Pending</button>
-        <button class="filter-btn" data-filter="done">Done</button>
+        <button class="filter-btn" data-filter="done">Matched</button>
+        <button class="filter-btn" data-filter="excluded">Excluded</button>
       </div>
       <select class="sort-select" id="sort-select">
         <option value="nominations">Most nominated</option>
@@ -204,6 +206,7 @@
       </select>
     </div>
 
+    <p id="coverage-note" role="status"></p>
     <div class="result-count" id="result-count">Loading...</div>
 
     <div id="game-list" class="game-list">
@@ -241,6 +244,7 @@
         totalEl.textContent = data.total.toLocaleString();
         pctEl.textContent = pct + '%';
         fillEl.style.width = pct + '%';
+        document.getElementById('coverage-note').textContent = `${data.pending} pending · ${data.excluded} excluded · ${data.csv_rows} source rows. A record match does not certify factual accuracy.`;
         applyAndRender();
       } catch (err) {
         gameListEl.innerHTML = `<div class="state-message"><h2>Failed to load</h2><p>${err.message}</p></div>`;
@@ -250,7 +254,8 @@
     function applyAndRender() {
       let games = allGames.slice();
       if (statusFilter === 'done') games = games.filter(g => g.researched);
-      else if (statusFilter === 'pending') games = games.filter(g => !g.researched);
+      else if (statusFilter === 'pending') games = games.filter(g => g.state === 'pending');
+      else if (statusFilter === 'excluded') games = games.filter(g => g.state === 'excluded');
       if (searchQuery) { const q = searchQuery.toLowerCase(); games = games.filter(g => g.name.toLowerCase().includes(q)); }
       if (sortBy === 'nominations') games.sort((a, b) => b.source_count - a.source_count || a.name.localeCompare(b.name));
       else if (sortBy === 'alpha') games.sort((a, b) => a.name.localeCompare(b.name));
@@ -297,6 +302,16 @@
           titleRow.appendChild(badge);
         }
         content.appendChild(titleRow);
+        if (!game.researched || game.mapping_warning) {
+          const status = document.createElement('p');
+          status.textContent = game.mapping_warning || `${game.status || game.match_reason}${game.notes ? ': ' + game.notes : ''}`;
+          content.appendChild(status);
+        }
+        if (game.match_candidates?.length) {
+          const candidates = document.createElement('p');
+          candidates.textContent = 'Possible records: ' + game.match_candidates.map(g => `${g.name} (${g.year ?? 'year unknown'})${g.edition ? ' · ' + g.edition : ''}`).join('; ');
+          content.appendChild(candidates);
+        }
         if (game.sources.length > 0) {
           const sourcesRow = document.createElement('div');
           sourcesRow.className = 'sources-row';

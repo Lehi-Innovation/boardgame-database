@@ -1,56 +1,47 @@
+# Identity correction 2026-11-02: traditional mancala, previously misidentified as Bohnanza.
+# Experience ratings, evokes and 30-minute nominal duration are provisional estimates.
+# No single publication year or universal publisher age/time range is established.
 id: das-bohnenspiel
-name: "Das Bohnenspiel"
+name: Das Bohnenspiel
 alternate_names:
-  - "Bohnanza"
-year: 1997
-
-# Relationships
+- Bohnenspiel
+year: null
 game_family: null
 edition: null
 base_game: null
 expansions: []
 compatible_with: []
-
-# Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 2  # Moderate
-feel: 2  # Moderate
-value: 1  # Budget
-
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 4
+value: 0
 affinity: null
 hotness: null
-
 categories:
-  - Trading
-  - Negotiation
-  - Hand Management
-  - Set Collection
-  - Party
-  - Family
-  - Gateway
-  - Uwe Rosenberg
-
+- Mancala
+- Abstract
+- Traditional
 evokes:
-  - Humor
-  - Persuasion
-  - Clever
-  - Connection
-  - Rivalry
-
-possible_counts: [3, 4, 5, 6, 7]
-true_counts: [4, 5]
-
-designer:
-  - Uwe Rosenberg
+- Clever
+- Agency
+- Rivalry
+- Masterful
+- Tension
+possible_counts:
+- 2
+true_counts:
+- 2
+designer: []
 publisher: []
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 10
-
-description: |
-  Das Bohnenspiel (known internationally as Bohnanza) is a beloved German card game designed by Uwe Rosenberg and published by Amigo Spiele in 1997. Players farm up to three types of beans from a hand of cards they cannot reorder, trading and negotiating to plant profitable crops and sell them for gold coins. The fixed hand order creates a constant need to deal and barter, making every hand dynamic and social. Its quirky bean illustrations and engaging trading mechanics have made Bohnanza one of the most enduringly popular filler games in the hobby, spawning dozens of expansions and variants over the decades.
-
+playtime_minutes: 30
+min_playtime: null
+max_playtime: null
+min_age: null
+description: Two players sow beans around two rows of six pits, trying to collect more seeds than
+  their opponent. Where the final bean lands can trigger a capture, so counting ahead and leaving
+  an awkward position for the other player matter. The equipment can be simple, but the visible
+  board creates a direct planning puzzle. This record covers the German two-row mancala variant;
+  the word Bohnenspiel is also used more broadly for other sowing games.
 upgrades: []

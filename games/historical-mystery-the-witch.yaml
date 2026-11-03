@@ -1,26 +1,27 @@
 id: historical-mystery-the-witch
 name: "Historical Mystery: The Witch"
 alternate_names: []
-year: 2023
+year: 2024  # Explicit publisher-associated retail release year, corroborated by rules copyright.
 
 # Relationships
 game_family: historical-mystery
-edition: null
+edition: "Russian Hobby World edition (2024)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 1  # Short
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 2  # Publisher's 60–90-minute range.
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 1  # Shared investigation.
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
+  - Cooperative
   - Deduction
   - Mystery
   - Historical
@@ -36,16 +37,21 @@ evokes:
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]
 
-designer: []
+designer:
+  - Ксения Таргулян
 publisher:
   - Hobby World
-artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 12
+artist:
+  - Екатерина Жарова
+  - Владимир Любин
+  - Анна Орлова
+  - Оксана Потапова
+playtime_minutes: 75  # Illustrative midpoint of publisher's range.
+min_playtime: 60
+max_playtime: 90
+min_age: 18
 
 description: |
-  Historical Mystery: The Witch is a deduction game from Hobby World International's Historical Mystery series, set around a historical witch trial or accusation. Players investigate the circumstances of the case by visiting locations and gathering testimony over a limited number of moves, then answering a series of questions to resolve the mystery. The game draws on real historical events around witch persecution, providing a historically grounded detective experience.
+  Investigate a murder accusation against a young widow during a witch hunt. Together, choose which clues and testimony to pursue within a budget of 24 actions, then evaluate your explanation of the case. Reading and discussion drive this mystery. This record follows the Russian-language 2024 Hobby World product, labeled 18+ and 60–90 minutes; the English display title does not establish English retail availability. Preferred counts and experience estimates remain provisional.
 
 upgrades: []

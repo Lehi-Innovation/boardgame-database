@@ -5,12 +5,12 @@ year: 2008
 
 # Relationships
 game_family: cosmic-encounter
-edition: null
+edition: Original Fantasy Flight English edition (2008), CE01
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 2  # Main Course (1 hr)
 rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics
@@ -27,6 +27,7 @@ categories:
   - Bluffing
   - Hand Management
   - Variable Setup
+  - Variable Player Powers
   - Simultaneous Action
   - Take That
   - Ameritrash
@@ -54,25 +55,34 @@ designer:
   - Jack Kittredge
   - Peter Olotka
   - Bill Norton
-  - Kevin Wilson
+  # Kevin Wilson developed this edition and co-designed new aliens; original design above.
 publisher:
   - Fantasy Flight Games
 artist:
   - Andrew Navaro
   - Brian Schomburg
   - Felicia Cano
-  - Henning Ludvigsen
   - Ryan Barger
-  - Sabe Lewellyn
+  - Sabe Lewellen  # Graphic design, as credited in the original rules.
   - WiL Springer
 playtime_minutes: 90
 min_playtime: 60
 max_playtime: 120
-min_age: 14
+min_age: 12  # Independent edition-specific teaching reference; rules omit an age label.
 
 # Description
 description: |
-  Cosmic Encounter is a landmark negotiation and combat game in which each player commands a unique alien civilization bent on establishing colonies in other players' solar systems. Each alien species possesses a special power that bends or breaks the rules of the game, creating an ever-shifting dynamic of alliances, betrayal, and bluffing. On their turn, the active player draws a destiny card to determine their target, then launches ships through the hyperspace gate before inviting others to ally on either side of the conflict. Both attacker and defender simultaneously play an encounter card — negotiate or attack — and the resolution can swing on the unexpected powers of any of the unique alien abilities in play. The first player to establish five colonies on foreign planets wins, rewarding bold play and savvy diplomacy in equal measure.
+  Spread colonies into other players' systems using force, negotiation and an
+  alien power that overrides ordinary rules. A destiny draw selects the target;
+  both sides invite allies before revealing encounter cards. Allies can profit
+  from helping, so choosing whom to trust matters as much as attack strength.
+  Players reaching five foreign colonies together can share victory.
+
+  This record represents Fantasy Flight's 2008 base game: three to five players,
+  fifty alien sheets, flares and optional technology. Wilson's development and
+  new-alien work are distinct from the four original designers' credits. The
+  original Eon 1977 set has its own record; extra-player expansions are not
+  assumed to come with either base set.
 
 # Upgrades
 upgrades: []

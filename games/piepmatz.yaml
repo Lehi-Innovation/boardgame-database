@@ -1,3 +1,12 @@
+# Official Lookout entry confirms 2018, Riddle/Pinchback, Langman illustration
+# and distinguishes Franz graphics/Kobiela development. Downloaded English rules
+# recommend8+, while current publisher product page says10+; selected consulted
+# English-rule guidance, not a certified original box label. Rules printing date
+# unverified despite copyright 2018. About30, no stated range. The 1995 CSV stays
+# pending: independent sources identify both Girsch/F.X. Schmid search game and
+# KRAG/HABA tree race that year. Neither is this card game; no child-game credits
+# or mechanics transferred. Original discovery ID preserved without importing BGG.
+# Preferred counts and experience ratings provisional.
 id: piepmatz
 name: "Piepmatz"
 alternate_names: ["Little Songbirds"]
@@ -5,16 +14,16 @@ year: 2018
 
 # Relationships
 game_family: null
-edition: null
+edition: Lookout English-language base game (2018); consulted copyright-2018 rules, printing date unverified
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 1
+rules_complexity: 2
+strategic_depth: 2
+feel: 3
 value: 1  # Budget
 
 affinity: null
@@ -43,13 +52,14 @@ designer:
   - Ben Pinchback
 publisher:
   - Lookout Games
-artist: []
+artist:
+  - Mike Langman
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 10
+min_playtime: null
+max_playtime: null
+min_age: 8
 
 description: |
-  Piepmatz (Little Songbirds) is a charming card game in the "big game in a small box" tradition from Lookout Games, designed by Matt Riddle and Ben Pinchback. Players compete to fill the bird feeder by placing birds from their hand into queues; when the combined strength of birds in a queue exceeds the lead bird's value, that bird is pushed out and takes a seed card with it. Players score points for collected seeds, pairs of male-and-female birds of the same species, and having the most birds of a single species. Squirrel and crow cards introduce take-that disruption. The game rewards thoughtful hand management in a compact, visually appealing package.
+  Add a bird to a queue at a shared feeder and compare the waiting birds’ combined strength with the bird on the perch. A stronger queue lets you collect the perched bird and, when available, a seed card, then may set off another collection as a new bird takes the perch. The size of the difference affects which food you receive, and crows or squirrels can cost you collected cards. Score seeds, male-and-female pairs matching in species and strength, and species majorities. The shared display rewards arithmetic and planning. This is Lookout’s 2018 card game, separate from the earlier children’s games with the same name.
 
 upgrades: []

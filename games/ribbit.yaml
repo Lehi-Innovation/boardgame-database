@@ -1,18 +1,28 @@
+# Creator bibliography explicitly lists SimplyFun Ribbit (English) 2007 and
+# Winning Moves Schildkrötenrennen (German) 2004. Contemporary May/June 2007
+# played reviews establish actual frog-game availability. Gamewright credit was
+# unsupported. 5+ and about 20 minutes are review/experience guidance, not a
+# verified original box label; art and exact finish-stack tiebreak remain unknown.
+# CPSC 08-056, October 31 2007, concerns specified five wooden frog pieces sold
+# March–October 2007. Official indexed notice read; direct fetch returned 403.
+# Do not infer that replacement pieces or unrelated turtle editions were recalled.
+# Current remedy-program availability unverified; do not promise a present refund.
+# All experience and preferred-count ratings provisional; owner fields preserved.
 id: ribbit
 name: "Ribbit"
 alternate_names: []
 year: 2007
 
 # Relationships
-game_family: null
-edition: null
+game_family: schildkrotenrennen
+edition: SimplyFun English frog edition (2007); original English manual and printing labels uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 0  # Snack
-rules_complexity: 0  # Preschool
+rules_complexity: 1
 strategic_depth: 1  # Light
 feel: 2  # Moderate
 value: 1  # Budget
@@ -36,16 +46,17 @@ evokes:
 possible_counts: [2, 3, 4, 5]
 true_counts: [3, 4]
 
-designer: []
+designer:
+  - Reiner Knizia
 publisher:
-  - Gamewright
+  - SimplyFun
 artist: []
 playtime_minutes: 20
-min_playtime: 15
-max_playtime: 30
+min_playtime: null
+max_playtime: null
 min_age: 5
 
 description: |
-  Ribbit is a light frog-racing card and movement game in which players secretly choose which colored frog they want to win, then take turns playing movement cards to advance the frogs around the course. Each player's chosen frog identity remains hidden throughout the game, creating a bluffing element as players try to advance their own frog while disguising their loyalties. A stacking mechanic adds depth: when one frog lands on another's space it rides on top, and whenever the stack is moved all riders come along for the trip. The first player to get their secretly chosen frog across the finish line wins the game.
+  Race five colored frogs while keeping your own frog’s color secret. Play movement cards that can help a rival as well as yourself, and use stacks to carry riders along when a frog underneath moves. A small hand of cards gives children simple choices, while hidden colors encourage guessing and bluffing. This is SimplyFun’s 2007 frog version of Knizia’s turtle race; the original English finish-stack tiebreak remains unverified. Specified frog pieces sold from March through October 2007 were recalled for lead in their paint under CPSC notice 08-056. Consult that official notice before using an old copy; the recall is not evidence against unrelated turtle editions or replacement pieces.
 
 upgrades: []

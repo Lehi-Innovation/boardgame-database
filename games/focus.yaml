@@ -1,19 +1,19 @@
 id: focus
 name: "Focus"
-year: 1981
+year: 1980
 
 # Relationships
-game_family: null
-edition: null
+game_family: focus
+edition: "Parker German (1980)"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short (30-45 min)
+length: 2  # Main Course; award jury recommends about an hour
 rules_complexity: 1  # Simple
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct capture and immobilization
 value: 2  # Standard
 
 # Personal ratings (leave null until rated)
@@ -24,9 +24,7 @@ hotness: null
 categories:
   - Abstract
   - Area Control
-  - Mancala
   - Puzzle Solving
-  - Asymmetric
 
 # Evokes (top 5 feelings this game is designed to evoke)
 evokes:
@@ -44,32 +42,33 @@ true_counts: [2, 4]
 designer:
   - Sid Sackson
 publisher:
-  - KOSMOS
+  - Parker
 artist: []
-playtime_minutes: 35
-min_playtime: 20
-max_playtime: 45
-min_age: 8
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 10
 
 # Description
 description: |
-  Focus (also known as Domination or Dominio) is an abstract strategy board game designed
-  by Sid Sackson and first published by Kosmos in 1964. It won the Spiel des Jahres in 1981
-  and the Essen Feather award that same year, bringing it widespread recognition in Germany.
-  The game was later reprinted by Milton Bradley under the name Domination in 1982.
+  This is the 1980 Parker German edition of Sid Sackson's abstract stacking game,
+  which won the Spiel des Jahres in 1981. The design was already available in
+  earlier forms; 1981 is its award year, and KOSMOS published a later 1995 edition.
+  Milton Bradley's 1982 English Domination is represented separately.
 
-  Players move stacks of pieces on a distinctive board — a checkerboard with the three corner
-  squares removed from each corner, forming a cross-like shape. A stack may move a number of
-  spaces equal to the number of pieces in it. Players may only move a stack topped by one of
-  their own pieces. When stacks merge and exceed five pieces, pieces are removed from the bottom:
-  a player's own removed pieces are held in reserve and may be re-entered onto the board on a
-  future turn, while opponents' removed pieces are captured permanently. The last player able to
-  move wins.
+  On a checkerboard with three squares removed from each corner, control a stack
+  by keeping your color on top. Move an entire stack or just its top portion
+  orthogonally by exactly the number of pieces being moved. Landing on another
+  stack merges them. Above five pieces, remove the excess from the bottom:
+  opponents' pieces are captured, while your own become reserves that can be
+  returned to the board instead of making a move. In the two-player game, leave
+  the opponent without a legal move. Four players form partnerships; three-player
+  rules use capture goals. The changing ownership and reserves require attention
+  to threats across several turns.
 
-  The game rewards deep tactical thinking: controlling stacks, building tall towers for greater
-  mobility, and managing your reserve pieces. It was first featured in Martin Gardner's
-  Mathematical Games column in Scientific American in October 1963, and later included in
-  Sackson's landmark compendium A Gamut of Games.
+# Award jury specifies 2–4, 10+ and about 60 minutes, not an inspected box label.
+# Suggested counts and experience ratings remain provisional; no mancala sowing
+# or asymmetric starting powers are implied by the stacking mechanism.
 
 # Upgrades
 upgrades: []

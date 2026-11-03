@@ -1,11 +1,11 @@
 id: bagh-chal
 name: "Bagh-Chal"
 alternate_names: ["Bagh Chal", "Tigers and Goats"]
-year: 1900
+year: null
 
 # Relationships
-game_family: null
-edition: null
+game_family: tiger-games
+edition: "Traditional Nepali four-tiger/twenty-goat rules"
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct capture and confinement
 value: 0  # Impulse
 
 affinity: null
@@ -42,9 +42,24 @@ artist: []
 playtime_minutes: 20
 min_playtime: 10
 max_playtime: 30
-min_age: 8
+min_age: null
 
 description: |
-  Bagh-Chal (meaning "tigers move" in Nepali) is a traditional asymmetric strategy game from Nepal played on a 5×5 point grid. One player controls four tigers; the other controls 20 goats. The tiger player aims to capture five goats by jumping over them; the goat player aims to surround and immobilize all four tigers. Goats are introduced one at a time from outside the board during the first phase, then both sides move in the second phase. The elegant asymmetry — one side trying to corral the other while being hunted — makes it a classic example of hunt games found across many cultures.
+  Bagh-Chal is a traditional two-player hunt game from Nepal on a board of
+  twenty-five connected points. Four tigers begin in the corners, while twenty
+  goats start off the board. Goats move first, placing one on an empty point each
+  turn until all twenty have entered. Tigers already move or capture during this
+  placement stage; they do not wait for the goats to finish setting up.
+
+  A tiger may step along a line to an empty neighboring point, or jump over one
+  adjacent goat into an empty point beyond to capture it. Once all goats have
+  entered, they move one step along the lines instead of placing. Under the
+  represented rules, tigers win by capturing five goats and goats win by leaving
+  all four tigers without a legal move. Each side offers a different tactical
+  problem: protect escape routes or close them without allowing a capture.
+
+# Berkeley GamesCrafters rules establish this specific game, not the whole family
+# of Asian tiger games. Origin year/universal age unknown; duration and experience
+# ratings are provisional. Software-specific draw settings are not universal rules.
 
 upgrades: []

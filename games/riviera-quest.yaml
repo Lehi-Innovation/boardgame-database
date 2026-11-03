@@ -1,49 +1,54 @@
+# Replaces unsupported 2001/2–4/8+/45-minute/economic-game placeholder facts.
+# Jeux & Stratégie56, March1989, contemporaneously mentions Côte d’Azur journey
+# game, publisher of same name and Villepinte presentation. Relevant text read;
+# cover and printed46 spread pixel-read, not entire58-page scanned PDF. Selected
+# year is documented1989 presentation/availability, not certified first-sale date.
+# Official Cannes award history credits Pascal Chinchilla; contemporary magazine
+# credits Michel Gaudo/Guillaume Rohmer. Roles unresolved: not silently combined
+# into a joint-design claim, designer list remains empty. No original rules or
+# physical box consulted. Counts, age, duration, ratings and emotional tags unknown;
+# cleared ungrounded values rather than treating historical identity as play advice.
+# Adventure category records award classification, not verified detailed mechanics.
 id: riviera-quest
 name: "Riviera Quest"
 alternate_names: []
-year: 2001
+year: 1989
 
 # Relationships
 game_family: null
-edition: null
+edition: French Riviera Quest game documented in March 1989; exact original printing and creator roles unresolved
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
-value: 1  # Budget
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
 
 affinity: null
 hotness: null
 
 categories:
-  - Racing
-  - Family
-  - Economic
+  - Adventure
 
-evokes:
-  - Lucky
-  - Rivalry
-  - Progress
-  - Tension
-  - Humor
+evokes: []
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts: []
+true_counts: []
 
 designer: []
-publisher: []
+publisher:
+  - Riviera Quest
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 8
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Riviera Quest is a family board game with a Mediterranean seaside theme. Limited publisher information is available for this relatively obscure title. Players navigate a journey along the Riviera in a race-style game with luck and light economic elements. As with many lesser-documented games from the early 2000s, detailed designer and publisher records are not readily available in English-language sources.
+  A French board game set on the Côte d’Azur, described in contemporary coverage as a journey game for a general audience. It was presented at the 1989 Villepinte toy fair and appears in that year’s Cannes adventure-game award history. The consulted evidence establishes its historical identity and setting, but does not explain a complete turn or victory condition. Player counts, age guidance, session length and play experience remain unknown. Original rules and a physical edition are needed before making practical play recommendations.
 
 upgrades: []

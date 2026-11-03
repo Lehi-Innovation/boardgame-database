@@ -1,10 +1,10 @@
 id: call-my-bluff
 name: "Call My Bluff"
-year: 1993
+year: 1997
 
 # Relationships
 game_family: liars-dice
-edition: "F.X. Schmid (1993)"
+edition: "F.X. Schmid U.S.A. English (1997)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -45,7 +45,7 @@ true_counts: [3, 4, 5, 6]
 designer:
   - Richard Borg
 publisher:
-  - F.X. Schmid
+  - F.X. Schmid U.S.A.
 artist: []
 playtime_minutes: 20
 min_playtime: 15
@@ -54,7 +54,22 @@ min_age: 8
 
 # Description
 description: |
-  Call My Bluff, also known as Liar's Dice, is the 1993 Spiel des Jahres winner from designer Richard Borg. Players roll dice hidden under cups and take turns bidding on how many dice of a certain value appear across all players' cups, with the star faces serving as wild cards. Each player can either raise the bid (increasing the quantity or the die value) or challenge the previous bid by calling "bluff." When challenged, all cups are revealed—if the bid was accurate or conservative, the challenger loses a die; if the bid was too high, the bidder loses a die. The game continues with players losing dice until only one player remains. Originally created after Borg played Liar's Poker at bars following softball games, the design captures the tension of social bluffing and calculated risk-taking in an accessible, fast-paced format. The game's simple ruleset earned praise from the Spiel des Jahres jury for being both entertaining and uncomplicated.
+  Call My Bluff is the 1997 English-language F.X. Schmid U.S.A. edition of Richard
+  Borg's dice-bluffing game. Its German Bluff edition won the 1993 Spiel des Jahres;
+  that award date is not this edition's publication year. Each player starts with
+  five dice hidden under a cup and bids on the total number of matching faces
+  across the table, with stars acting as wilds for number bids.
+
+  Raise the bid or demand a reveal. A failed bid or mistaken challenge costs the
+  loser as many dice as the gap between the bid and the actual count. If the bid
+  is exactly right, everyone except its maker loses one die. Players can also
+  expose some dice and reroll the rest. The last player with dice wins. Reading
+  people and deciding when to challenge matter alongside the odds; eliminated
+  players wait for the next game.
+
+# Edition/date and rules: contemporary-history interview and played-copy review.
+# Age 8+ is the review's recommendation, not a personally inspected box label.
+# Duration, suggested counts and experience ratings remain provisional estimates.
 
 # Upgrades
 upgrades: []

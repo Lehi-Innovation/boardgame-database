@@ -1,0 +1,72 @@
+# Contemporary November 2006 played review explicitly dates Lauwers release 2006,
+# Lauwers design/Eugène art, 2–16/6+/30–45. Counts are that reference’s guidance, not
+# inspected box limits; exact positive16 preserved rather than changed to12+.
+# Independent Essen notice also dates original 2006 and later Parker renaming; its
+# 2008 Dutch timing is not U.S. first availability. Source descriptions disagree
+# on six versus ten mission points, so original threshold not certified. Misnamed
+# Project X rule PDF is actually Hasbro 2008. Current LudiGaume domain is for sale;
+# read historical indexed review, not current page as an operating review site.
+# Preferred counts unknown; all experience ratings provisional.
+id: project-x-2006
+name: Project X
+alternate_names:
+  - Pictureka!
+year: 2006
+game_family: pictureka
+edition: Lauwers Games original multilingual Project X (2006); original manual uninspected
+base_game: null
+expansions: []
+compatible_with: []
+length: 1
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Real-time
+  - Auctions/Bidding
+  - Modular Board
+  - Party
+  - Family
+  - Puzzle Solving
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+  - Discovery
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+true_counts: []
+designer:
+  - Arne Lauwers
+publisher:
+  - Lauwers Games
+artist:
+  - Eugène
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 6
+description: |
+  Scan nine large illustrated tiles to find objects that match a mission. Challenges mix races to spot a picture, timed individual searches and bids about how many examples you can find. Changing the tile arrangement keeps everyone looking across the shared display. Quick observation matters, and a clear view is helpful when playing with a larger group. This record represents Lauwers Games’ original 2006 multilingual Project X, which preceded the Pictureka name and later Hasbro editions. The original manual and its exact winning threshold remain unverified; the listed counts and duration come from a contemporary played review.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

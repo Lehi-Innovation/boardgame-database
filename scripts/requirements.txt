@@ -3,3 +3,4 @@ PyYAML
 trafilatura
 beautifulsoup4
 lxml
+Pillow

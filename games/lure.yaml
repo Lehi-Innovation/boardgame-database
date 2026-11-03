@@ -1,30 +1,35 @@
+# Publisher rules establish2–5/7+/15 and exact illustration credits.
+# 2024 release supported by retail edition listing and independent played review;
+# later distributor August2025 availability is not first-publication evidence.
+# Preferred counts and experience ratings remain provisional.
 id: lure
 name: "Lure"
 alternate_names: []
-year: 2014
+year: 2024
 
 # Relationships
 game_family: null
-edition: null
+edition: Allplay English edition (2024)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 1
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
 value: 2  # Standard
 
 affinity: null
 hotness: null
 
 categories:
-  - Drafting
-  - Bluffing
-  - Set Collection
+  - Dice Rolling
+  - Auctions/Bidding
+  - Simultaneous Action
   - Animals
+  - Filler
 
 evokes:
   - Tension
@@ -33,19 +38,28 @@ evokes:
   - Rivalry
   - Humor
 
-possible_counts: [2, 3, 4]
-true_counts: [3, 4]
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+true_counts:
+  - 3
+  - 4
 
-designer: []
+designer:
+  - Satoru Nakamura
 publisher:
-  - Mayfair Games
-artist: []
-playtime_minutes: 20
+  - Allplay
+artist:
+  - Daniel Profiri
+  - Anca Gavril
+playtime_minutes: 15
 min_playtime: 15
-max_playtime: 25
-min_age: 8
+max_playtime: 15
+min_age: 7
 
 description: |
-  Lure is a light card game with a fishing theme in which players compete to catch the most valuable or largest collection of fish from a shared pool of available cards. Players lure fish to their lines by playing cards from their hand, with bluffing and reading opponents' intentions creating light competitive tension. The nautical fishing theme is rendered accessibly for family audiences, and the short play time makes it suitable as a quick filler game. Published by Mayfair Games, it is one of several compact card game offerings from the publisher's lighter game catalog.
+  Secretly choose how many dice and which lure tokens to commit, then reveal together. Players using fewer dice fish first, but larger rolls have a better chance of meeting a valuable fish’s requirements. Roll, use the lures you committed and take every fish you qualify to catch; rivals may empty the water before a later turn arrives. Special dice need a round to recover after use. When the fish deck runs out, finish the round and compare points.
 
 upgrades: []

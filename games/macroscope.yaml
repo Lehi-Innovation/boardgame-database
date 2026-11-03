@@ -1,20 +1,25 @@
+# Mayday release in 2017 is supported by contemporary Origins availability; the
+# original Lifestyle game was already released in 2016. A played Mayday-copy account
+# supports 2–6/6+; duration is approximately 30, with old unverified bounds removed.
+# Scoring rewards more unopened windows, not fewer remaining covers. Original
+# Mayday illustration credits unverified. Preferred counts and ratings provisional.
 id: macroscope
 name: "Macroscope"
 alternate_names: []
 year: 2017
 
 # Relationships
-game_family: null
-edition: null
+game_family: macroscope
+edition: Mayday English edition (2017)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
+length: 1
+rules_complexity: 1
 strategic_depth: 1  # Light
-feel: 3  # Competitive
+feel: 2
 value: 1  # Budget
 
 affinity: null
@@ -26,7 +31,6 @@ categories:
   - Party
   - Family
   - Puzzle Solving
-  - No Math
 
 evokes:
   - Mystery
@@ -44,11 +48,11 @@ publisher:
   - Mayday Games
 artist: []
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
-min_age: 8
+min_playtime: null
+max_playtime: null
+min_age: 6
 
 description: |
-  Macroscope is an image deduction party game published by Mayday Games in 2017. Players take turns rolling dice and removing numbered tokens from the front of the Macroscope device, each removal revealing a bit more of the hidden picture inside. A player can keep revealing tokens to see more of the image or attempt to guess what it depicts — but the fewer tokens remain when a correct guess is made, the more victory points earned. After ten rounds the player with the most points wins. The tactile reveal mechanic and the tension between seeing enough and guessing early make it an engaging family and party game.
+  Peek through a few windows at a hidden drawing and decide whether you have seen enough to name it. Dice determine which numbered covers you may remove, but revealing more makes a correct guess worth less: unopened windows determine the reward or penalty. Other players can challenge a guess or take a chance when the active player passes. Ten pictures make a game. The shared picture encourages everyone to watch, while the risk of an expensive mistake keeps early guesses tense. This record represents Mayday’s 2017 English edition of the earlier Lifestyle game.
 
 upgrades: []

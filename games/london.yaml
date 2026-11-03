@@ -1,29 +1,33 @@
+# Original credits read in indexed mirrored Treefrog rules; direct PDF fetch403.
+# 12+/about90 corroborated by contemporary original-edition reference; later
+# Osprey 14+/60–90 not transferred. Provisional preferred counts/experience ratings.
 id: london
 name: "London"
 alternate_names: []
 year: 2010
 
 # Relationships
-game_family: null
-edition: null
+game_family: london
+edition: Treefrog original edition (2010)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 2  # Medium
+length: 2
 rules_complexity: 2  # Moderate
 strategic_depth: 3  # Deep
-feel: 2  # Moderate
+feel: 3
 value: 2  # Standard
 
 affinity: null
 hotness: null
 
 categories:
-  - Deck Building
   - Hand Management
   - Engine Building
+  - Tableau Building
+  - Economic
   - Euro
   - Historical
   - City Building
@@ -45,12 +49,14 @@ publisher:
   - Treefrog Games
 artist:
   - Peter Dennis
+  - Mike Atkinson
+  - Simon Jannerland
 playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
+min_playtime: null
+max_playtime: null
 min_age: 12
 
 description: |
-  London is a card-driven city-building game by Martin Wallace in which players rebuild the city after the Great Fire of London, constructing boroughs and playing cards representing buildings of economic, political, and cultural significance. On each turn, players run their built-up city to generate money and victory points — but running the city also accrues poverty tokens, which can devastate a final score. Managing the balance between rapid development and poverty accumulation is central to every decision. Originally published by Treefrog Games in 2010 and later revised by Osprey Games, London rewards strategic planning across overlapping card synergies and remains one of Wallace's most celebrated designs.
+  Rebuild London after the Great Fire by choosing buildings for your personal display and buying boroughs on the shared city map. On your turn, choose whether to develop your display, acquire land, run your city or draw more cards. Running the city pays out its active buildings, but leaves poverty to manage; a promising expansion can become expensive if your hand and display grow unchecked. The tension comes from building combinations while planning when to activate them. This record represents Treefrog’s original 2010 edition with a borough map, separate from Osprey’s 2017 revision.
 
 upgrades: []

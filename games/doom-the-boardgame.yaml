@@ -4,17 +4,17 @@ alternate_names: []
 year: 2004
 
 # Relationships
-game_family: null
-edition: null
+game_family: doom
+edition: Original 2004 English edition
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Fierce: invader opposes the cooperating marines directly.
 value: 2  # Standard
 
 affinity: null
@@ -44,22 +44,26 @@ designer:
   - Kevin Wilson
 publisher:
   - Fantasy Flight Games
-artist: []
-playtime_minutes: 120
-min_playtime: 90
-max_playtime: 150
-min_age: 12
+artist:
+  - Scott Nicely  # Original rules: graphics, jointly with id Software.
+  - id Software
+playtime_minutes: 120  # Upper end of original rulebook's 1–2-hour estimate.
+min_playtime: 60
+max_playtime: 120
+min_age: 12  # Original English retailer listing; not stated in text-extracted rules.
 
 description: |
-  Doom: The Boardgame translates the iconic first-person shooter into a 2-4 player dungeon
-  crawl experience. One player controls the demonic Invaders while one to three other players
-  each command a space marine. Marines must reach the exit to win, while the Invader player
-  earns frags by killing marines — the first to six frags wins for the Invader team. Modular
-  map tiles create varied dungeon layouts across multiple included scenarios. Marine players
-  choose from different character classes with unique weapons and health values, while the
-  Invader commands imps, demons, and cacodemons from the classic game. Custom dice determine
-  combat outcomes, and the marines must manage limited ammunition carefully. Released in 2004,
-  it was the top-selling board game of that year, praised for faithfully capturing the
-  pulse-pounding chaos of the video game.
+  One invader player directs demons and plays surprise events against one to
+  three marines exploring a Mars base. The marines share a goal, pick up weapons
+  and supplies, and manage limited ammunition while fighting through rooms and
+  corridors. Randomly dealt marine abilities and dice-driven attacks make plans
+  uncertain; movement, timing and cooperation still matter.
+
+  Each scenario supplies its map, special rules and victory conditions. Many give
+  the invader a target number of marine kills, but neither six kills nor reaching
+  an exit is a universal objective. This record represents Wilson's original
+  English 2004 game. The separately redesigned 2016 DOOM game has different rules
+  and specifications. The original credits Petersen with additional design and
+  development, and Nicely/id Software with graphics.
 
 upgrades: []

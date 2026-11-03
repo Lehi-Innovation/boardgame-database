@@ -2,16 +2,16 @@ id: le-jeu-des-chaises-musicales
 name: "Le jeu des chaises musicales"
 alternate_names:
   - "Musical Chairs: The Game"
-year: 2000
+year: null  # References disagree between 1991 and 1992; certainly known by its 1994 award.
 
 # Relationships
 game_family: null
-edition: null
+edition: "French Habourdin game, recognized in 1994; first-release year unresolved"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates; original edition rules not inspected.
 length: 0  # Snack
 rules_complexity: 0  # Preschool
 strategic_depth: 0  # Reflex
@@ -34,18 +34,20 @@ evokes:
   - Rivalry
   - Connection
 
-possible_counts: [3, 4, 5, 6, 7, 8]
-true_counts: [5, 6, 7, 8]
+possible_counts: [2, 3, 4]  # Independent edition catalog, not an inspected original box.
+true_counts: []
 
-designer: []
-publisher: []
+designer:
+  - Anthony J. Vadasz  # Secondary spelling; festival history prints "Anthony J. Vadaz".
+publisher:
+  - Habourdin
 artist: []
-playtime_minutes: 15
-min_playtime: 10
-max_playtime: 20
-min_age: 4
+playtime_minutes: 15  # Legacy provisional estimate.
+min_playtime: null
+max_playtime: null
+min_age: null  # The award's 4–7 category is not a verified publisher age label.
 
 description: |
-  Le jeu des chaises musicales is a French board game adaptation of the classic party game Musical Chairs, translating the physical activity of rushing to claim chairs when the music stops into a tabletop format. Players likely move pieces around a board representing chairs, with a random element (cards, spinner, or dice) indicating when chairs become unavailable, with players competing to secure their piece in a valid chair before one player is eliminated each round. The game packages a familiar children's party game into a more portable, weather-independent format. As a tabletop abstraction of Musical Chairs, it retains the elimination mechanic that creates immediate tension.
+  This French Habourdin children's game adapts musical chairs to small figures at the table. A secondary description reports placing bear figures on chairs when music stops, with cake pieces at stake. The complete original rules were not inspected, so the earlier guessed spinner, dice and elimination sequence are not treated as established facts. Festival history identifies the game and its designer in the 1994 Benjamin award category; references disagree on a 1991 or 1992 release. The edition catalog lists two to four players, while timing and experience assessments remain provisional.
 
 upgrades: []

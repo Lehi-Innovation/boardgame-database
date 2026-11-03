@@ -1,0 +1,67 @@
+id: catan-junior-2007
+name: "Die Siedler von Catan: Junior"
+alternate_names:
+  - "Catan Junior"
+year: 2007
+
+# Relationships
+game_family: catan
+edition: Original German KOSMOS edition (2007), card-based / three-to-four players
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates, not owner ratings.
+length: 2
+rules_complexity: 1
+strategic_depth: 1
+feel: 3  # A building race with blocking and trading, rather than theft.
+value: 2
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Trading
+  - Route Building
+  - Family
+  - Gateway
+  - Pirates
+evokes:
+  - Lucky
+  - Progress
+  - Rivalry
+  - Discovery
+  - Connection
+
+possible_counts: [3, 4]  # Original board / contemporary review; no two-player side.
+true_counts: [3, 4]  # Provisional suggestion.
+designer:
+  - Klaus Teuber
+publisher:
+  - KOSMOS
+artist:
+  - anoka Illustration & Design  # Original rules' illustration credit.
+playtime_minutes: 60  # Original-copy review's manufacturer specification; other estimates 30–45.
+min_playtime: null
+max_playtime: null
+min_age: 6  # Original-copy review and edition-specific bibliography.
+
+description: |
+  Build pirate camps and connecting ships around resource-producing islands.
+  Rolls supply equipment cards such as wood, wool, rum and cutlasses. Trade at
+  the marketplace, with other players or with the supply, and use Coco cards for
+  help. The first player to place all seven camps wins.
+
+  This is KOSMOS's original German 2007 Junior game for three or four. Ordinary
+  supply trades cost three matching cards, with ports improving the rate; a six
+  moves the ghost pirate to block production without the later English version's
+  automatic two-resource reward. The 2012 Mayfair game has different components,
+  trading rules and two-player support. Published duration estimates differ, so
+  allow extra time for this earlier version when learning with children.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -5,8 +5,8 @@ alternate_names:
 year: 2002
 
 # Relationships
-game_family: null
-edition: null
+game_family: auf-heller-und-pfennig
+edition: "Fantasy Flight Games English KN03 original (2002)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -15,7 +15,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct harm through negative scoring
 value: 1  # Budget
 
 affinity: null
@@ -23,7 +23,6 @@ hotness: null
 
 categories:
   - Tile Placement
-  - Set Collection
   - Pattern Building
   - Abstract
   - Euro
@@ -45,14 +44,27 @@ designer:
   - Reiner Knizia
 publisher:
   - Fantasy Flight Games
-  - KOSMOS
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 8
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 9
 
 description: |
-  Kingdoms is a 2002 tile-placement game by Reiner Knizia in which players build medieval kingdoms by placing tiles on a 5x8 grid, each tile bearing resource values from +6 to -6. Players score at the end of rounds by multiplying each row and column's total tile value by the number of their castle towers in that row or column, rewarding clever positioning of both neutral tiles and personal castles. Originally published as the bazaar-themed "Auf Heller und Pfennig," the medieval retheme suits Knizia's signature style of deceptively simple rules with deep strategic implications. Over three rounds, fortunes shift dramatically as the board fills and scoring opportunities crystallize.
+  Kingdoms is the 2002 Fantasy Flight fantasy retheme of Reiner Knizia's
+  Auf Heller und Pfennig. Place castles and resource or hazard tiles on a shared
+  grid, trying to make the rows and columns containing your castles profitable.
+  Castle ranks multiply the values around them, so a powerful position can
+  become a costly liability when an opponent introduces a hazard.
+
+  Deciding when to commit a valuable castle matters alongside where it goes.
+  Across three epochs, players compete for favorable lines while keeping the
+  effect on opposing castles in view. The original German market-stall game
+  and the later 2012 Kingdoms edition are separate editions; the 1994 date is
+  not the publication year of this English fantasy box.
+
+# OriginalKN03 bibliography supplies2002,2–4/9+/20–40, distinct from2012 successor.
+# Later rules/art/age labels are not silently assigned to this set. Preferred
+# counts, nominal duration and experience ratings remain provisional estimates.
 
 upgrades: []

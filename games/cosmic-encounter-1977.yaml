@@ -1,0 +1,69 @@
+id: cosmic-encounter-1977
+name: "Cosmic Encounter"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: cosmic-encounter
+edition: Original Eon base set (1977), fifteen aliens / four player colors
+base_game: null
+expansions: []
+compatible_with: []  # Shared design does not establish cross-edition compatibility.
+
+# Provisional experience estimates, not owner ratings.
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 4  # Direct rivalry, persuasion and shifting alliances.
+value: 2
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Hand Management
+  - Variable Player Powers
+  - Variable Setup
+  - Take That
+  - Cult Classic
+  - Sci-Fi
+  - Aliens
+evokes:
+  - Unique
+  - Persuasion
+  - Powerful
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]  # Original-set bibliography; extra colors require expansions.
+true_counts: [4]  # Provisional suggestion for wider alliances.
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+  - Bill Norton  # Four-person attribution in original-set bibliography / later primary credits.
+publisher:
+  - Eon Products
+artist: []  # First-printing art credits unverified.
+playtime_minutes: 60  # Original-edition bibliography's estimate.
+min_playtime: null
+max_playtime: null
+min_age: 12  # Bibliographic recommendation; original printed label not inspected.
+
+description: |
+  Take an alien power that changes an ordinary rule, then use cards, allies and
+  negotiation to establish five bases outside your own system. Military strength
+  helps, but an opponent's unusual power or an ally's ambitions can overturn an
+  apparently straightforward challenge. Shared wins are possible.
+
+  This is the original 1977 Eon base set with fifteen powers, four planet systems
+  and four player colors. Later Eon expansions add players, flares, moons and
+  other systems; they are not included here. The often-circulated 1983 Complete
+  Book combines all nine expansions and therefore does not describe the original
+  box's component count. Fantasy Flight's 2008 game remains a separate record.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

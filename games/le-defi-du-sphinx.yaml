@@ -2,16 +2,16 @@ id: le-defi-du-sphinx
 name: "Le Défi du Sphinx"
 alternate_names:
   - "The Sphinx's Challenge"
-year: 2000
+year: 1997
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original French Ludotech card game (1997)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
@@ -22,12 +22,13 @@ affinity: null
 hotness: null
 
 categories:
-  - Puzzle Solving
-  - Deduction
+  - Trivia
+  - Educational
+  - Historical
   - Family
 
 evokes:
-  - Mystery
+  - Rivalry
   - Clever
   - Tension
   - Discovery
@@ -36,15 +37,17 @@ evokes:
 possible_counts: [2, 3, 4]
 true_counts: [2, 3, 4]
 
-designer: []
-publisher: []
+designer:
+  - Richard Bourrelly
+publisher:
+  - Ludotech
 artist: []
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 8
+min_playtime: null
+max_playtime: null
+min_age: 10  # Independent original-game listing; original box label not inspected.
 
 description: |
-  Le Défi du Sphinx ("The Sphinx's Challenge") is a French-language puzzle and deduction game with an Ancient Egyptian theme centered on solving riddles or challenges posed by the Sphinx. Players likely answer questions or solve puzzles to advance, with the winner being the first to successfully complete the Sphinx's challenges. Limited information is available in English-language sources about this specific title's full mechanics and publisher. The Egyptian mythology theme and puzzle-solving format suggest it was aimed at children and families interested in ancient history and riddle-based gameplay.
+  Answer historical questions and riddles to work toward twenty knowledge points in this French-language educational card game. Its subjects include people, monuments and events from antiquity through modern times, rather than only ancient Egypt. The reviewed original-game listing identifies Richard Bourrelly, Ludotech, two to four players, ages ten upward and a nominal half-hour session. The 1997 release is distinct from its 1998 As d'Or junior award. Preferred counts and experience assessments remain provisional.
 
 upgrades: []

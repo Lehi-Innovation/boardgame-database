@@ -1,3 +1,8 @@
+# 1971 launch is supported by the original Danish distributor’s own history; 1970
+# is invention chronology. That PDF section was read in indexed text, not downloaded.
+# Museum history corroborates the 1971 rights acquisition, not an inspected 1971 box.
+# Original age and duration bounds remain unverified; approximately 20 minutes and
+# experience ratings are provisional. Later Hasbro editions are not blended here.
 id: mastermind
 name: "Mastermind"
 alternate_names: []
@@ -5,14 +10,14 @@ year: 1971
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Invicta peg game (commercial launch 1971)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
+length: 1
+rules_complexity: 1
 strategic_depth: 2  # Moderate
 feel: 3  # Competitive
 value: 1  # Budget
@@ -42,14 +47,13 @@ designer:
   - Mordecai Meirowitz
 publisher:
   - Invicta Plastics
-  - Hasbro
 artist: []
 playtime_minutes: 20
-min_playtime: 10
-max_playtime: 20
-min_age: 8
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Mastermind is the iconic code-breaking game invented by Mordecai Meirowitz in 1970 and first published by Invicta Plastics in 1971–72. One player sets a secret sequence of colored pegs, and the other attempts to deduce it in a series of guesses, receiving black and white peg feedback to indicate exact and near matches. The game sold over 50 million copies across 80 countries, making it the most successful new game of the 1970s, and it remains a household staple used in mathematics education to illustrate logical deduction and information theory. Donald Knuth famously proved in 1977 that the code can always be broken in five moves or fewer.
+  One player hides a sequence of colored pegs while the other tries to discover it through successive guesses. Small feedback pegs report correct colors in the correct places and correct colors placed elsewhere, without identifying which pegs earned that feedback. Each guess narrows the possibilities, creating a compact exercise in logical deduction. Swap the code-making and code-breaking roles to compare results. This record represents the original Invicta peg game; later electronic versions and sets with different code lengths have their own rules. The approximate session time and experience ratings are provisional.
 
 upgrades: []

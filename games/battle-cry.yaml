@@ -1,16 +1,16 @@
 id: battle-cry
 name: "Battle Cry"
 alternate_names: []
-year: 2000
+year: 2000  # Represented publication in a contemporary review; 1999 trademark-use evidence remains separate.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Avalon Hill / Hasbro version described in June 2000; earliest 1999/2000 chronology unresolved"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 1  # Appetizer (30-45 min per scenario)
 rules_complexity: 1  # Elementary — low-complexity introductory wargame, teach in minutes
 strategic_depth: 2  # Tactics — card-driven flanking decisions, short-term positioning
@@ -53,24 +53,14 @@ designer:
 publisher:
   - Avalon Hill
 artist: []
-playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 8
+playtime_minutes: 45  # Existing provisional scenario estimate, not an original published duration.
+min_playtime: null
+max_playtime: null
+min_age: 12  # Indexed original rulebook; full mirrored PDF returned HTTP 403.
 
 # Description
 description: |
-  Battle Cry is a two-player wargame that recreates fifteen battles from the
-  American Civil War using Richard Borg's Commands & Colors system. Players
-  command Union or Confederate forces — infantry, cavalry, artillery, and
-  generals — arranged on a modular hex map with scenario-specific terrain tiles.
-  On each turn, a player plays one Command Card to activate units in a chosen
-  flank (left, center, or right), then rolls custom dice where rolled icons
-  matching the defender's unit type remove figures. The first player to capture
-  the required number of victory banners wins. Accessible enough for beginners
-  yet tense for experienced wargamers, Battle Cry won the 2001 International
-  Gamers Award for General Strategy and spawned the wider Commands & Colors
-  system, including Memoir '44 and Commands & Colors: Ancients.
+  Command Union or Confederate troops in American Civil War scenarios. Your command cards determine which units can act, terrain shapes movement and protection, and custom dice resolve attacks and retreats. Capturing enemy flags wins the battle. This record follows Richard Borg's Avalon Hill / Hasbro game described in a June 2000 play review, with fifteen included scenarios. It is separate from the earlier Milton Bradley title and later anniversary edition. Evidence differs over the earliest 1999/2000 publication chronology; this record describes the reviewed 2000 version. Scenario duration and experience assessments remain provisional.
 
 # Upgrades
 upgrades: []

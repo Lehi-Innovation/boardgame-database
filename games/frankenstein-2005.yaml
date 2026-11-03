@@ -36,7 +36,7 @@ true_counts: [3, 4]
 
 designer:
   - unknown
-publisher:
+publisher: []
 artist: []
 playtime_minutes: 30
 min_playtime: 20

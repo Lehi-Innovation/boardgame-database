@@ -1,3 +1,6 @@
+# Relationship-only review: complete standalone Risk-family game, not an expansion
+# requiring original Risk. Family retained; no compatibility asserted. All other
+# existing specifications, ratings and descriptions remain unreviewed in this pass.
 id: risk-godstorm
 name: "Risk Godstorm"
 alternate_names: []
@@ -6,7 +9,7 @@ year: 2004
 # Relationships
 game_family: risk
 edition: null
-base_game: risk
+base_game: null
 expansions: []
 compatible_with: []
 

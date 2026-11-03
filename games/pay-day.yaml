@@ -1,3 +1,12 @@
+# AGPI describes the actual 1975 Parker U.S. catalog marking Pay Day new; the
+# early rule transcript explicitly carries copyright 1974. That does not establish
+# first physical publication in either territory, and Canadian 1974 claims remain
+# unverified. Generic 1974 CSV stays pending; explicit represented 1975 row added.
+# Read early rules as indexed transcription, not an inspected 1975 original manual.
+# Two-to-four/8+ are early-game guidance; later 1994 revision supports six. Session
+# depends on months: about60 for three months/four players, not a universal bound.
+# Gruen credit retained from trade history, not certified complete original credits.
+# Preferred counts and experience ratings provisional; competitive, not cooperative.
 id: pay-day
 name: "Pay Day"
 alternate_names: ["Payday"]
@@ -5,16 +14,16 @@ year: 1975
 
 # Relationships
 game_family: null
-edition: null
+edition: Parker Brothers U.S. game advertised as new in 1975; early rules carry copyright 1974
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 1  # Light
+length: 2
+rules_complexity: 1
+strategic_depth: 1
+feel: 3
 value: 1  # Budget
 
 affinity: null
@@ -23,8 +32,8 @@ hotness: null
 categories:
   - Dice Rolling
   - Economic
+  - Resource Management
   - Family
-  - Party
 
 evokes:
   - Lucky
@@ -41,12 +50,12 @@ designer:
 publisher:
   - Parker Brothers
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+playtime_minutes: 60
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Pay Day is a classic family finance game originally published by Parker Brothers in 1975, set on a calendar board representing a single month. Players roll dice and move along calendar spaces, encountering bills, expenses, deals, and windfalls as they try to manage their money until payday arrives at the end of the month. Deals can be accepted or declined, and players can take loans to stay afloat — at interest — adding a light resource-management element. The game has remained popular for decades due to its accessible theme, simple rules, and gentle introduction to personal finance concepts.
+  Roll through a calendar month, collecting wages, receiving bills and deciding whether to buy deals that might pay off later. Borrow when necessary, manage interest and compare your finances after everyone completes the agreed number of months. Choosing the session length matters: the early rules estimate about an hour for four players playing three months, or two hours for six months. Chance drives movement and many expenses, while deals and borrowing offer a few financial choices. This record represents the U.S. Parker Brothers game advertised as new in 1975. Earlier copyright evidence and later revised editions are recorded separately.
 
 upgrades: []

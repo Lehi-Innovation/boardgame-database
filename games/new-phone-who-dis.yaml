@@ -1,19 +1,26 @@
+# Independent owned-copy review dates original publication2019. Trademark history
+# distinguishes 2018 application from reported2019 first commercial use; not a
+# current legal-status finding. Read 540-card instructions ©2020 as a reprint, not
+# sole first-release proof. Played/teaching sources support adult17+ and 3+; no
+# verified upper bound, represented with the schema’s open-ended 12+ convention.
+# Original individual design/illustration credits unverified, left empty. About30
+# minutes, preferred counts and experience ratings provisional; play ends by choice.
 id: new-phone-who-dis
 name: "New Phone, Who Dis?"
 alternate_names: []
-year: 2018
+year: 2019
 
 # Relationships
 game_family: null
-edition: null
+edition: Original adult What Do You Meme? 540-card game (2019); consulted instructions reprinted 2020
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
+rules_complexity: 1
+strategic_depth: 1
 feel: 2  # Moderate
 value: 1  # Budget
 
@@ -32,21 +39,30 @@ evokes:
   - Lucky
   - Connection
 
-possible_counts: [3, 4, 5, 6, 7, 8]
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 12+
 true_counts: [5, 6, 7, 8]
 
-designer:
-  - What Do You Meme
+designer: []
 publisher:
   - What Do You Meme LLC
-artist:
-  - What Do You Meme
+artist: []
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+min_playtime: null
+max_playtime: null
 min_age: 17
 
 description: |
-  New Phone, Who Dis? is an adult party card game published by What Do You Meme? in 2018. Each round, one player draws an Inbox card depicting a text message prompt and reads it aloud; all other players select the funniest Reply card from their hand and pass it face-down to the judge. The judge picks their favorite pairing and awards that player a point. The game's humor derives from the wide range of absurd, relatable, and awkward text message scenarios paired with deadpan or ridiculous replies, making it a quick and accessible game for groups who enjoy Cards Against Humanity-style party games.
+  Match an absurd reply to a fictional incoming text and try to make the round’s judge laugh. In classic play, choose from seven Reply cards, then refill your hand as judging passes around the group. A second mode gives everyone four Inbox and four Reply cards to build their own funny exchange. Winning pairs earn points; the rules let the group decide how long to keep playing. Expect adult jokes, reading and subjective humor rather than a fixed puzzle solution. This record represents the original adult game, separate from the family edition and the later second edition with new content.
 
 upgrades: []

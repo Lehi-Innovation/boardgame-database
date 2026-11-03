@@ -1,55 +1,63 @@
+# Club physical inventory confirms 1989/1–4 and lists Bronner/Olsen/Sassone together;
+# original role credits not inspected, so only independently corroborated Bronner is
+# assigned as designer. Artist/age/time unknown; PBEM rules not copied as tabletop rules.
+# Experience estimates are provisional; no duration inferred from the 2018 game.
 id: liftoff
-name: "Liftoff!"
+name: Liftoff!
 alternate_names: []
-year: 2018
+year: 1989
 
 # Relationships
 game_family: null
-edition: null
+edition: Task Force Games original (1989)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: null
+rules_complexity: 3
+strategic_depth: 3
+feel: 3
 value: 2  # Standard
 
 affinity: null
 hotness: null
 
 categories:
-  - Drafting
-  - Set Collection
-  - Hand Management
-  - Family
-  - Sci-Fi
+  - Simulation
+  - Resource Management
+  - Tech Tree
+  - Dice Rolling
+  - Racing
   - Space
+  - Historical
 
 evokes:
-  - Clever
   - Progress
-  - Complete
   - Tension
+  - Lucky
+  - Agency
   - Rivalry
 
-possible_counts: [2, 3, 4, 5]
-true_counts: [3, 4]
+possible_counts:
+  - 1
+  - 2
+  - 3
+  - 4
+true_counts: []
 
 designer:
-  - Dennis Kirps
-  - Jürgen Mayer
+  - Fritz Bronner
 publisher:
-  - Queen Games
+  - Task Force Games
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 40
-min_age: 8
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Liftoff! is a card drafting and set collection game from Queen Games in which players compete to build the best rocket ship by drafting component cards across multiple rounds. Each player assembles a rocket from nose cone, fuel tank, body, and engine sections — scoring points based on how well the parts match in color and how complete the rocket is. The simultaneous drafting creates light tension as players compete for the same limited components, while the colorful space theme and accessible rules make it suitable for families. A quick filler game that delivers a satisfying drafting puzzle in under 30 minutes.
+  Run a space program in a race to land astronauts on the Moon and bring them home. Spend a limited budget on hardware, research and crews, then decide how much risk to accept when scheduling missions. Reliability checks can turn a carefully prepared launch into a setback; successful milestones improve your program’s prospects. Expect record keeping and a substantial rules commitment. This record represents Task Force Games’ 1989 simulation, separate from the 2018 Lift Off card-drafting game and the later Liftoff! 2.0 revision. Original-edition age and session-duration labels remain unverified.
 
 upgrades: []

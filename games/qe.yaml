@@ -30,7 +30,7 @@ evokes:
   - Clever
   - Tension
   - Rivalry
-  - Bluffing
+  - "Persuasion"
   - Humor
 
 possible_counts: [3, 4, 5]

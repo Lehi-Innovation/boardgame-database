@@ -1,3 +1,9 @@
+# Final English rules ©2023 and an actual Kickstarter-copy review dated December
+# 2023 establish availability. The generic 2024 discovery row remains pending because
+# it gives no language/printing; later localized editions exist. Added explicit 2023
+# row. Final rules confirm competitive scoring, solo and Tenney illustration.
+# 45–75/8+ are English base-set retailer recommendations; no first-box inspection.
+# Preferred counts and experience ratings are provisional.
 id: maple-valley
 name: "Maple Valley"
 alternate_names:
@@ -6,7 +12,7 @@ year: 2023
 
 # Relationships
 game_family: "creature-comforts"
-edition: null
+edition: Original KTBG English base rules, available in 2023
 base_game: null
 expansions: []
 compatible_with: []
@@ -15,7 +21,7 @@ compatible_with: []
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
-feel: 1  # Light
+feel: 3
 value: 3  # Premium
 
 affinity: null
@@ -24,7 +30,8 @@ hotness: null
 categories:
   - Hand Management
   - Set Collection
-  - Action Points
+  - Route Building
+  - Resource Management
   - Animals
   - Nature
   - Family
@@ -44,13 +51,14 @@ designer:
   - Roberta Taylor
 publisher:
   - Kids Table BG
-artist: []
-playtime_minutes: 75
-min_playtime: 60
-max_playtime: 90
+artist:
+  - Shawna JC Tenney
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
 min_age: 8
 
 description: |
-  Maple Valley is a strategy game published by Kids Table BG in 2023, set in the same charming woodland universe as Creature Comforts. Players guide critter scouts through trails, collect spring ingredients, and recruit Friends whose abilities provide movement, resources, special actions, and end-game points. Over five rounds, players build up their team of friends and complete Favour and Patch cards to score victory points, culminating in a spring celebration. The game blends gentle worker-placement and set-collection into an accessible but satisfying family experience with beautiful animal artwork.
+  Recruit young woodland friends and use their travel skills to follow forest, rock and water trails, gathering supplies for a spring festival. Turn those supplies into favors, collect useful patches and plan a route that lets your cards work together. Everyone contributes to the same celebration, but each player builds a separate score; supplying festivities creates competition for bonus points. Play lasts five rounds, with a solo version that omits the festivities. It shares Creature Comforts’ setting, with different rules and no other box required. Expect card reading and planning; a deliberate group may exceed the listed duration.
 
 upgrades: []

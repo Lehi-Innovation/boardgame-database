@@ -1,20 +1,28 @@
+# Creator/publisher history separates 2016 crowdfunding from corporate launch
+# in 2017; actual December 2017 finished Polish-copy review and specific Game Brewer
+# product GAB001 inventory support 2017 availability. Downloaded12-page production
+# English rules, not the earlier draft: Jochem Van Gool/JocArt illustration, Seuntjens
+# design, Theunis rulebook graphics, highest final total wins. Manual printing date
+# and exact original English box labels unverified. Specific inventory recommends
+# 2–5/12+/about100; no fixed duration bounds certified. Two-player dummy color
+# is not a solo opponent. Preferred counts and experience ratings provisional.
 id: pixie-queen
 name: "Pixie Queen"
 alternate_names: []
-year: 2016
+year: 2017
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Game Brewer base game (2017); English production rulebook consulted
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Medium
-rules_complexity: 2  # Moderate
+rules_complexity: 3
 strategic_depth: 3  # Deep
-feel: 2  # Moderate
+feel: 4
 value: 3  # Premium
 
 affinity: null
@@ -31,8 +39,8 @@ evokes:
   - Clever
   - Tension
   - Agency
+  - Rivalry
   - Progress
-  - Masterful
 
 possible_counts: [2, 3, 4, 5]
 true_counts: [3, 4]
@@ -40,15 +48,15 @@ true_counts: [3, 4]
 designer:
   - Rudy Seuntjens
 publisher:
-  - Bard Centrum Gier
   - Game Brewer
-artist: []
-playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
+artist:
+  - Jochem Van Gool
+playtime_minutes: 100
+min_playtime: null
+max_playtime: null
 min_age: 12
 
 description: |
-  Pixie Queen is a worker placement game in which 2–5 players serve a tyrannical pixie queen across up to seven rounds. Players use four action disks to steal food from the nearby human village, perform one of 21 different actions, and simultaneously offer gold, silver, or food to satisfy the Queen's ever-changing cravings. Uniquely, players accumulate only penalty points during play, with end-game rewards (from charming the Queen with golden rings, offerings, or promoting pixies to faithful servants) reducing totals — the player with the fewest points wins. The combination of competitive worker placement, simultaneous bidding, and unusual reversed scoring creates a distinctive strategic experience.
+  Compete to satisfy a demanding queen by gathering food and precious metals, placing action discs and making secret offerings. Promoting your pixies can improve their work and eventually make them loyal palace servants, while rivals can steal resources or interfere with your plans. Penalties drag scores downward during play; final rewards offset them. Finish with the best total, whether that means the fewest remaining penalties or the most positive points. Play lasts up to seven rounds and can end earlier when the main reward tiles run out. Expect a substantial, confrontational strategy game with several phases and a special two-player setup.
 
 upgrades: []

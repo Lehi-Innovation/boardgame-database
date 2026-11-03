@@ -1,3 +1,10 @@
+# Read original indexed 20-page rule transcript, including cover and credits:
+# ©2021 SND1008,1–5/14+/50, illustration ChrisChan; CurtCovert is additional
+# development, not credited artist. All prisoners need keys at the SAME gate;
+# unlit tiles are discarded, not recycled. Solo controls four prisoners.
+# 2021 owned-copy reviews establish availability before wider2022 retail. Generic
+# 2022 CSV row remains pending without edition evidence; explicit2021 row added.
+# Removed unsupported five-award claim. Preferred counts and ratings provisional.
 id: night-cage
 name: "The Night Cage"
 alternate_names: []
@@ -5,14 +12,14 @@ year: 2021
 
 # Relationships
 game_family: null
-edition: null
+edition: Original English Smirk & Dagger SND1008 base game (2021)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
+length: 2
+rules_complexity: 2
 strategic_depth: 2  # Moderate
 feel: 1  # Light
 value: 2  # Standard
@@ -44,13 +51,13 @@ designer:
 publisher:
   - Smirk and Dagger
 artist:
-  - Curt Covert
-playtime_minutes: 45
-min_playtime: 40
-max_playtime: 60
+  - Chris Chan
+playtime_minutes: 50
+min_playtime: null
+max_playtime: null
 min_age: 14
 
 description: |
-  The Night Cage is a fully cooperative horror tile-placement game published by Smirk & Dagger in 2021, where 1–5 players are trapped in a pitch-black labyrinth with only candlelight to guide them. Each player can only see the tiles immediately adjacent to their position; when they move away, those tiles vanish back into darkness, making the maze constantly shift and reform. To escape, every player must collect a key and reach the shared gate simultaneously, all while evading Wax Eaters that hunt in the dark. It won five design awards including the ION Award, praised for its immersive atmosphere and elegant tension-building mechanics.
+  Find keys and gather every prisoner at the same gate before the darkness overwhelms you. Candles reveal only connected nearby passages; tiles that lose all light are discarded, steadily consuming the maze’s finite supply. Moving can expose a route or trigger a Wax Eater along a clear line of sight, so the group must weigh individual movement against everyone’s safety. One to four players control four prisoners between them, while five players use five. Solo play manages all four. The original base game includes advanced threats; the later Shrieking Hollow expansion is separate. Expect tense discussion, shared planning and frequent reversals.
 
 upgrades: []

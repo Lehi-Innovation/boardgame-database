@@ -1,19 +1,19 @@
 id: sherlock-holmes-consulting-detective
 name: "Sherlock Holmes: Consulting Detective"
-year: 1985
+year: 1981  # Selected original binder chronology; some references date boxed release 1982.
 
 # Relationships
 game_family: sherlock-holmes-consulting-detective
-edition: null
+edition: Original English Sleuth Publications game
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Ratings (0-4 scale): provisional experience estimates.
 length: 3  # Long (~90 min per case)
 rules_complexity: 1  # Simple rules, complex solving
 strategic_depth: 3  # Deep
-feel: 1  # Light social
+feel: 1  # Cooperative group mode; original rules also allow solo and competing solutions.
 value: 3  # Premium
 
 # Personal ratings (leave null until rated)
@@ -28,6 +28,7 @@ categories:
   - Puzzle Solving
   - Mystery
   - Historical
+  - Solo
 
 # Evokes (top 5 feelings this game is designed to evoke)
 evokes:
@@ -38,8 +39,9 @@ evokes:
   - Masterful
 
 # Player counts
-possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
-true_counts: [2, 3, 4]
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, "12+"]
+# Original rules: solo, competing pair or group without stated maximum; not an eight-player cap.
+true_counts: [2, 3, 4]  # Retained provisional suggestion for discussion, not a rules limit.
 
 # Metadata
 designer:
@@ -47,29 +49,26 @@ designer:
   - Suzanne Goldberg
   - Gary Grady
 publisher:
-  - Space Cowboys
+  - Sleuth Publications
 artist: []
-playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
-min_age: 14
+playtime_minutes: 90  # Retained provisional per-case estimate, not a printed limit.
+min_playtime: null
+max_playtime: null
+min_age: null  # Original English age label unverified; later editions differ.
 
 # Description
 description: |
-  Sherlock Holmes: Consulting Detective is a cooperative deduction game originally published by Sleuth
-  Productions in 1981, winning the Spiel des Jahres in 1985. The game is currently published by Space
-  Cowboys (an Asmodee label), which began releasing new standalone case collections starting in 2016.
+  Follow written leads through a Victorian London map, directory and newspaper
+  archive, then answer questions about the crime. The original game has ten cases.
+  Solve them alone, agree on a shared solution, or compete to submit individual
+  solutions. Compare your result and investigation length with Holmes's answer.
 
-  The game has no board, no dice, no tokens — only booklets of case text, detailed maps of Victorian
-  London, replica newspapers, and a directory of addresses. Players are assigned a mystery to solve:
-  they choose which leads to pursue by selecting numbered entries to read aloud from the casebook, visiting
-  locations, interviewing suspects, and piecing together clues from newspapers. Once satisfied, players
-  answer a series of questions about the case, then read Holmes's own solution. Points are awarded based
-  on how efficiently players solved the case compared to the great detective himself.
-
-  Multiple standalone volumes exist, including The Thames Murders & Other Cases, Carlton House & Queen's
-  Park, and others. Each set contains 10 fully self-contained mysteries. The game is celebrated for its
-  rich narrative immersion and the genuine intellectual satisfaction of cracking a well-constructed mystery.
+  This record represents the original English Sleuth Publications game, cataloged
+  as 1981; some references instead date its boxed release to 1982. The 1985 award
+  was for the German Criminal-Cabinet, not the original publication date. Later
+  Space Cowboys collections have revised material and their own specifications.
+  Reading, careful notes and discussion drive play; once a case's solution is
+  known, its surprise cannot simply be replayed with the same investigators.
 
 # Upgrades
 upgrades: []

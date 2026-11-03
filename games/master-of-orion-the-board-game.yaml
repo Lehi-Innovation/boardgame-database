@@ -4,13 +4,13 @@ alternate_names: []
 year: 2017
 
 # Relationships
-game_family: null
-edition: null
+game_family: master-of-orion
+edition: "Cryptozoic English edition, CZE02505 (2017); distinct from Hobby World 2016"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 2  # Medium
 rules_complexity: 2  # Moderate
 strategic_depth: 2  # Moderate
@@ -25,10 +25,9 @@ categories:
   - Asymmetric
   - Variable Player Powers
   - Set Collection
-  - Tech Tree
+  - Resource Management
   - Sci-Fi
   - Space
-  - 4X
 
 evokes:
   - Progress
@@ -41,16 +40,17 @@ possible_counts: [2, 3, 4]
 true_counts: [3, 4]
 
 designer:
-  - Valeriy Korchagin
+  - Ekaterina Gorn
+  - Igor Sklyuev
 publisher:
   - Cryptozoic Entertainment
 artist: []
-playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
+playtime_minutes: 50  # Illustrative midpoint of the reviewed edition's 40–60-minute range.
+min_playtime: 40
+max_playtime: 60
 min_age: 12
 
 description: |
-  Master of Orion: The Board Game is a tableau-building strategy game by Cryptozoic Entertainment based on the classic 4X video game franchise. Players choose one of six alien civilizations — each with unique starting attributes across food, fleet, production, and loyalty tracks — and build up to four planetary systems using cards that represent structures, ships, and planets. Victory can be pursued through military dominance by attacking opponents' planets, or through peaceful economic and ecological development, mirroring the video game's flexible victory conditions. The game triggers an endgame when a player reaches zero loyalty, completes their systems, or eight rounds elapse.
+  Build a civilization by stacking cards into planetary systems and managing food, fleet strength, production and loyalty. New cards can improve your economy or change the actions available to you, while covering an earlier card's special ability. Attacks normally earn points and reduce an opponent's loyalty rather than destroy their cards. The winner has the most points when the game ends, so triggering the end does not guarantee victory. This record represents Cryptozoic's 2017 English edition; the original 2016 Hobby World game has a separate record. Preferred counts and experience ratings remain provisional.
 
 upgrades: []

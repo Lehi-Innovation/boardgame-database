@@ -1,11 +1,19 @@
+# Physical-set collector distinguishes 1965 chalkboard, 1966 dial and 1967 standard
+# revision (rules C-B200I-67); museum independently catalogs a 1967 3M object.
+# 1967 is NOT the game’s first publication. Available early-rules transcription is
+# 1965/66, not the represented 1967 manual. Broad 2–4/party/card-election description
+# is independently documented; exact original age and duration bounds unknown.
+# Retained 90-minute estimate, preferred counts and ratings provisional. Historical
+# file ID preserved, but unsupported Presidential Campaign title row is ambiguous.
 id: presidential-campaign
-name: "Presidential Campaign"
-alternate_names: ["Mr. President"]
+name: 'Mr. President: The Game of Campaign Politics'
+alternate_names:
+  - Mr. President
 year: 1967
 
 # Relationships
 game_family: null
-edition: null
+edition: 3M standard revision (1967), following the 1965 and 1966 versions
 base_game: null
 expansions: []
 compatible_with: []
@@ -21,10 +29,11 @@ affinity: null
 hotness: null
 
 categories:
-  - Area Control
-  - Economic
+  - Hand Management
+  - Teams
+  - Simulation
   - Historical
-  - Wargame
+  - Political
 
 evokes:
   - Agency
@@ -42,11 +51,11 @@ publisher:
   - 3M
 artist: []
 playtime_minutes: 90
-min_playtime: 60
-max_playtime: 120
-min_age: 12
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Presidential Campaign (originally released as Mr. President) is a 3M Bookshelf game simulating the race for the United States presidency. Players must decide which states to campaign in and how to invest their time and resources to maximize electoral votes, drawing on political data from the 1960s. Originally published in 1967 and revised in 1971 and 1972, the game captures the strategic geography of American presidential politics.
+  Compete for electoral votes as rival political parties choosing presidential and vice-presidential candidates and campaigning across the United States. Cards and state-by-state decisions shape the election; the supported two-to-four-player arrangements divide party responsibilities differently. This record represents 3M’s 1967 standard revision of Mr. President, following earlier chalkboard and dial versions. It is separate from GMT’s much later solo game about governing after an election. Approximate session time and preferred counts remain provisional.
 
 upgrades: []

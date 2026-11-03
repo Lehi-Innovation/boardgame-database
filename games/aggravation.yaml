@@ -4,17 +4,17 @@ alternate_names: []
 year: 1962
 
 # Relationships
-game_family: null
-edition: null
+game_family: wahoo
+edition: "CO-5 Company Inc. four-player edition (1962)"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 3  # Competitive
+rules_complexity: 1  # Elementary; provisional estimate
+strategic_depth: 1  # Basic; provisional marble-selection decisions
+feel: 4  # Fierce; provisional estimate from direct sending back to start
 value: 0  # Impulse
 
 affinity: null
@@ -33,19 +33,33 @@ evokes:
   - Humor
   - Connection
 
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [4, 6]
+possible_counts: [2, 3, 4]
+true_counts: [4]
 
 designer: []
 publisher:
-  - Co-5 Corporation
+  - CO-5 Company Inc.
 artist: []
 playtime_minutes: 45
 min_playtime: 30
 max_playtime: 60
-min_age: 6
+min_age: 5
 
 description: |
-  A classic American marble racing game first published in 1962 by Co-5 Corporation, later licensed to Lakeside, Milton Bradley, and ultimately Hasbro. Players race four marble playing pieces around the board toward their home section, with a distinctive mechanic called "aggravating"—landing on an opponent's space sends their piece back to their base. The board includes shortcuts and a distinctive star-shaped center, and rolling a six grants an extra turn. A beloved family game rooted in the Pachisi/Parcheesi tradition, distinguished by its glass marbles and the particular pleasure of sending rivals back to start.
+  This record represents CO-5's four-player Aggravation set documented in 1962,
+  rather than later six-player deluxe boards. Each player races four marbles
+  from base around a track into home. Roll a one or six to bring a marble into
+  play, then choose which marble to advance with subsequent rolls. Landing on
+  another player's marble sends it back to base, making even a nearly completed
+  circuit vulnerable to a setback. Get all four marbles home first to win.
+
+  Its dice-driven progress and direct captures suit players who enjoy a simple
+  race with frequent reversals. Wahoo is represented separately as a traditional
+  marble-racing game with board and house-rule variations; this commercial set's
+  date, age recommendation and four-player limit do not apply to every version.
+
+# Collector's actual-set inventory gives 1962, 2–4 and 5+; AGPI independently
+# records the CO-5 original rules copyright. Neither is a personally inspected
+# original manual. Duration, preferred counts and experience ratings provisional.
 
 upgrades: []

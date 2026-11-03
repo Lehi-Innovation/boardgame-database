@@ -1,20 +1,553 @@
-# Image Provenance Tracker
-# Records the source, license, and status of each game image
-#
-# Fields:
-#   file:        Filename in images/ folder
-#   source_url:  URL where image was obtained
-#   publisher:   Publisher who provided the image
-#   license:     License type or permission reference
-#   date:        Date image was downloaded (YYYY-MM-DD)
-#   resolution:  Image dimensions (e.g., "1000x1000")
-#   notes:       Any additional context
-
 lost-ruins-of-arnak:
-  file: "Lost Ruins of Arnak (2020).png"
-  source_url: null
+  file: Lost Ruins of Arnak (2020).webp
+  source_url: https://www.czechgames.com/for-press-games/lost-ruins-of-arnak
+  image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8ca0_Box%20image.webp
+  sha256: b1a26fd5df78a47d73d3decdfcc069281b8b4ef4276ea68c727c58413d763377
+  review_status: publisher_source_and_title_checked
   publisher: Czech Games Edition
-  license: null
-  date: null
-  resolution: null
-  notes: "Pre-existing image, provenance unknown"
+  license: publisher-press-kit
+  date: '2026-11-02'
+  resolution: 1000x882
+  notes: Reacquired from the exact box-image link on the official game press factsheet.
+    CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+    promotion in portfolios/articles by reviewers, PR partners, distributors and retailers.
+    Used in this catalog’s editorial identification context; no blanket or standalone-art
+    license claimed. Visually inspected title/English box; exact manufacturing printing
+    unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Lost
+    Ruins of Arnak (2020).png.
+  visual_reviewed_on: '2026-11-02'
+  permission_evidence_url: https://www.czechgames.com/for-press-games
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Lost Ruins of Arnak
+    (2020).png
+  history:
+  - file: Lost Ruins of Arnak (2020).png
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: null
+    notes: Pre-existing image, provenance unknown
+  - file: Lost Ruins of Arnak (2020).png
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: 1500x1500
+    notes: Pre-existing image, provenance unknown
+    sha256: acbcd1155f465b1dadc7664fef3d20e0bfc481fe8371268435173571bfb26150
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+  - file: Lost Ruins of Arnak (2020).webp
+    source_url: https://www.czechgames.com/for-press-games/lost-ruins-of-arnak
+    image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8ca0_Box%20image.webp
+    sha256: b1a26fd5df78a47d73d3decdfcc069281b8b4ef4276ea68c727c58413d763377
+    review_status: source_recorded_identity_unverified
+    publisher: Czech Games Edition
+    license: publisher-press-kit
+    date: '2026-11-02'
+    resolution: 1000x882
+    notes: Reacquired from the exact box-image link on the official game press factsheet.
+      CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+      promotion in portfolios/articles by reviewers, PR partners, distributors and
+      retailers. Used in this catalog’s editorial identification context; no blanket
+      or standalone-art license claimed. Visually inspected title/English box; exact
+      manufacturing printing unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Lost
+      Ruins of Arnak (2020).png.
+7-wonders-duel:
+  file: '7 Wonders: Duel (2015).png'
+  source_url: https://www.rprod.com/en/games/7-wonders-duel
+  image_url: https://cdn.svc.asmodee.net/production-rprod/storage/games/7-wonders-duel/57du-3dmockup-1597826159KUURt-large.png
+  publisher: Repos Production
+  license: fair-use
+  notes: 'Exact box-image link on publisher product page downloaded on review date.
+    SHA-256 is identical to the pre-existing repository PNG, which is retained unchanged.
+    Original acquisition history remains unknown. Pixel inspection confirms English
+    Duel base box and two-player/10+/30-minute icons. Documented project-policy fair
+    use: one web-resolution cover for editorial identification, no gallery or standalone-art
+    distribution. Press page had no specific downloadable pack; Commons results were
+    logo or gameplay/expansion images, not a suitable licensed box. No publisher permission
+    inferred.'
+  date: '2026-11-02'
+  resolution: 800x945
+  sha256: 3411f81702a2da8ebff3b94483315443447245753451644276dc10fe68292628
+  review_status: publisher_source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: '7 Wonders: Duel (2015).png'
+    source_url: null
+    publisher: Repos Production
+    license: null
+    date: null
+    resolution: 800x945
+    sha256: 3411f81702a2da8ebff3b94483315443447245753451644276dc10fe68292628
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+7-wonders:
+  file: 7 Wonders (2010).jpg
+  source_url: https://www.nobleknight.com/P/2147440562/7-Wonders
+  image_url: https://image.nobleknight.com/a/jpg1500/asmsev-en01.jpg
+  publisher: Repos Production
+  license: fair-use
+  notes: Exact data-fullsize/href asset from retailer page explicitly labeled 1st
+    Edition, publication 2010. Pixel inspection confirms original gold-plaque title
+    treatment and base box, rather than Repos’ current second-edition packaging. Image
+    is 1500px but soft; no claim that nominal dimensions imply sharp detail. One web-resolution
+    box for identification under project fair-use policy, no permission grant. Current
+    publisher resources show later packaging; direct outreach not attempted. Old 300×332
+    untraceable later-style cover preserved unchanged in archive.
+  date: '2026-11-02'
+  resolution: 1500x1500
+  sha256: f7376f62b6e1067452c0371bcb573786de0ffcef1069f9ad6988c8bd06253ffc
+  review_status: source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/7 Wonders (2010).png
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: 7 Wonders (2010).png
+    source_url: null
+    publisher: Repos Production
+    license: null
+    date: null
+    resolution: 300x332
+    sha256: 9a98bb93da346003423ea499eb77092d0a7b00664a96dfea63047fdf23797dbd
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+a-feast-for-odin:
+  file: A Feast for Odin (2016).jpg
+  source_url: https://www.nobleknight.com/P/2147673765/Feast-for-Odin-A
+  image_url: https://image.nobleknight.com/z/jpg1500/zmgzm7690.jpg
+  publisher: Z-Man Games
+  license: fair-use
+  notes: Exact data-fullsize asset from retailer page explicitly labeled 1st Edition
+    by Z-Man Games. Pixel inspection confirms English A Feast for Odin box and Z-Man
+    logo. Preferred to the distributor image whose large white padding made the box
+    small. One unmodified web-resolution cover for identification under existing project
+    fair-use policy; no permission grant. Publisher directory has no self-service
+    kit. Current Feuerland English page has different publisher/age labeling; record
+    explicitly represents original Z-Man English edition. Old untraceable PNG preserved
+    unchanged in archive.
+  date: '2026-11-02'
+  resolution: 1500x1500
+  sha256: 5ea6ed534dc10248eafc5dd3ce8503243f4645ebe8f2bba15c576473069483c0
+  review_status: source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/A Feast for Odin (2016).webp
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: A Feast for Odin (2016).webp
+    source_url: null
+    publisher: Feuerland Spiele
+    license: null
+    date: null
+    resolution: 1500x1500
+    sha256: db368608b60fdd504ed245f39aba9be68fac89c1dfc37c2649f8158fd8b35c07
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+clank-legacy-acquisitions-incorporated:
+  file: 'Clank! Legacy: Acquisitions Incorporated (2019).png'
+  source_url: https://www.thegamesteward.com/products/clank-legacy-acquisitions-incorporated-board-game
+  image_url: https://www.thegamesteward.com/cdn/shop/products/clank-legacy-acquisitions-incorporated-retail-edition-retail-board-game-dire-wolf-digital-34732938461336_1200x.png?v=1634382044
+  publisher: Dire Wolf Digital
+  license: fair-use
+  notes: 'Retailer explicitly lists original 2019 retail game; acquired 1200px CDN
+    variant of its linked box image. Pixel inspection confirms original Clank! Legacy:
+    Acquisitions Incorporated, no sequel 2/Darkest Magic subtitle and no component
+    composite. Publisher’s original linked storefront product returned 404; no self-service
+    kit in directory, and direct permission/outreach not attempted. Last-resort project-policy
+    fair use: one web-resolution box cover for catalog identification, no standalone-art
+    distribution. No publisher permission asserted. Misnamed sequel predecessor remains
+    archived unchanged.'
+  date: '2026-11-02'
+  resolution: 1200x883
+  sha256: b626a9bf31d30c2c238dafd2f41c07c53946acf388a93e0910211ca245646540
+  review_status: source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Clank_ Legacy_ Acquisitions
+    Incorporated (2019).jpg
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: Clank_ Legacy_ Acquisitions Incorporated (2019).jpg
+    source_url: null
+    publisher: Dire Wolf Digital
+    license: null
+    date: null
+    resolution: 894x726
+    sha256: 805f47211b85c6ebd31ed1cfa1e70e059863a4924169d20c1f1ed3ec769fbee9
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+  - file: Clank_ Legacy_ Acquisitions Incorporated (2019).jpg
+    source_url: null
+    publisher: Dire Wolf Digital
+    license: null
+    date: null
+    resolution: 894x726
+    sha256: 805f47211b85c6ebd31ed1cfa1e70e059863a4924169d20c1f1ed3ec769fbee9
+    review_status: quarantined_wrong_game
+    inventory_reviewed_on: '2026-11-01'
+    notes: 'Pixels show Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic,
+      not the 2019 original. No corresponding sequel record has yet been researched.
+      Original acquisition and permissions remain unknown. Bytes preserved in archive;
+      not served as this game’s cover.'
+    visual_reviewed_on: '2026-11-02'
+    archived_file: archive/2026-11-02/image-audit/Clank_ Legacy_ Acquisitions Incorporated
+      (2019).jpg
+codenames:
+  file: Codenames (2015).webp
+  source_url: https://www.czechgames.com/for-press-games/codenames-2015
+  image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8cb4_Box%20image%20%281%29.webp
+  sha256: 22dadb68febddd0fae4e967c9a7f24fead610ccd299377fee384ebd8496e5928
+  review_status: publisher_source_and_title_checked
+  publisher: Czech Games Edition
+  license: publisher-press-kit
+  date: '2026-11-02'
+  resolution: 970x1500
+  notes: Reacquired from the exact box-image link on the official game press factsheet.
+    CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+    promotion in portfolios/articles by reviewers, PR partners, distributors and retailers.
+    Used in this catalog’s editorial identification context; no blanket or standalone-art
+    license claimed. Visually inspected title/English box; exact manufacturing printing
+    unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Codenames
+    (2016).webp.
+  visual_reviewed_on: '2026-11-02'
+  permission_evidence_url: https://www.czechgames.com/for-press-games
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Codenames (2016).webp
+  history:
+  - file: Codenames (2016).webp
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: 439x630
+    sha256: c7d4a93721eff6d65709099689f9b232a2af0f46c4583a8d14b200d9d5b4b5c0
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+  - file: Codenames (2016).webp
+    source_url: null
+    publisher: Czech Games Edition
+    license: null
+    date: null
+    resolution: 439x630
+    sha256: c7d4a93721eff6d65709099689f9b232a2af0f46c4583a8d14b200d9d5b4b5c0
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+      Original-game publication corrected to 2015 from publisher evidence on 2026-11-02;
+      the existing 2016 filename is retained. Exact image edition and origin remain
+      unverified.
+  - file: Codenames (2015).webp
+    source_url: https://www.czechgames.com/for-press-games/codenames-2015
+    image_url: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/67d17a45b4e1484b40ea8cb4_Box%20image%20%281%29.webp
+    sha256: 22dadb68febddd0fae4e967c9a7f24fead610ccd299377fee384ebd8496e5928
+    review_status: source_recorded_identity_unverified
+    publisher: Czech Games Edition
+    license: publisher-press-kit
+    date: '2026-11-02'
+    resolution: 970x1500
+    notes: Reacquired from the exact box-image link on the official game press factsheet.
+      CGE terms at https://www.czechgames.com/for-press-games offer graphics for web
+      promotion in portfolios/articles by reviewers, PR partners, distributors and
+      retailers. Used in this catalog’s editorial identification context; no blanket
+      or standalone-art license claimed. Visually inspected title/English box; exact
+      manufacturing printing unknown. Original untraceable asset preserved at archive/2026-11-02/image-audit/Codenames
+      (2016).webp.
+dixit:
+  file: Dixit (2008).jpg
+  source_url: https://chess.co.uk/products/dixit-board-game
+  image_url: https://chess.co.uk/cdn/shop/products/dixit-board-game.jpg?v=1617713287
+  publisher: Libellud
+  license: fair-use
+  notes: 'Retailer’s actual English FAMILY box pixel-inspected: printed icons explicitly
+    say 3–6, 8+, 30 minutes, matching the earlier six-player record. Not the currently
+    refreshed 3–8 box. Exact manufacturing printing/year remains unknown; 2008 is
+    the game’s retained original publication date, not an inferred date of this box.
+    One unmodified 911×1000 cover for editorial identification under project-policy
+    fair use; no permission grant. Current Libellud press kit has refreshed packaging
+    and the Canadian six-player listing’s pixels actually show eight players, so those
+    were rejected. Original untraceable JPG archived unchanged.'
+  date: '2026-11-02'
+  resolution: 911x1000
+  sha256: 2bc48acd60c57a35bf1904aa91a95fb27a07aa36e4911ff661267a6081d405d5
+  review_status: source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Dixit (2008).jpg
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: Dixit (2008).jpg
+    source_url: null
+    publisher: Libellud
+    license: null
+    date: null
+    resolution: 1500x1500
+    sha256: 7501500b1a3950a65b3edd4b8d0b89013e5120fb342ace3ee7784d887da04bf3
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+heat-pedal-to-the-metal:
+  file: 'Heat: Pedal to the Metal (2022).webp'
+  source_url: https://www.daysofwonder.com/game/heat/
+  image_url: https://cdn.svc.asmodee.net/production-daysofwonder/uploads/image-converter/2024/07/9101-HT-elevation-left-EN-1.webp
+  publisher: Days of Wonder
+  license: fair-use
+  notes: 'Exact publisher product-page box link downloaded on review date. SHA-256
+    is identical to pre-existing repository WebP, retained unchanged; original acquisition
+    remains unknown. Pixel inspection confirms English Heat: Pedal to the Metal base
+    box, full package and credits. Documented project-policy fair use: one web-resolution
+    cover for editorial identification, no component gallery or standalone-art distribution.
+    Press page provides releases, not this image as a licensed kit; Commons category
+    contained components/premiere photos, not a suitable box image. No publisher permission
+    inferred.'
+  date: '2026-11-02'
+  resolution: 1498x1500
+  sha256: 9fc66a9744bc50b9ac679df042a6e5775f039ecfc00a93c0bbaeba18cc1bbd15
+  review_status: publisher_source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: 'Heat: Pedal to the Metal (2022).webp'
+    source_url: null
+    publisher: Days of Wonder
+    license: null
+    date: null
+    resolution: 1498x1500
+    sha256: 9fc66a9744bc50b9ac679df042a6e5775f039ecfc00a93c0bbaeba18cc1bbd15
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+pandemic-legacy-season-1:
+  file: 'Pandemic Legacy: Season 1 (2015).png'
+  source_url: https://www.zmangames.com/game/pandemic-legacy-season-1/
+  image_url: https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/zm7170_box_front_520px.png
+  sha256: 54a404ffd174b90d8d35fd1a6d9b52d4a0e99a6bad2b10771b7be8914bd47b35
+  review_status: publisher_source_and_title_checked
+  publisher: Z-Man Games
+  license: fair-use
+  date: '2026-11-02'
+  resolution: 520x520
+  notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+    page; visually checked English title/base-game identity. Documented fair-use source
+    category under images/FAIR_USE.md: one web-resolution box image for catalog identification,
+    no component gallery or standalone-art distribution. No reuse permission granted
+    or inferred. Publisher directory/Asmodee downloadable-assets page did not provide
+    a readable specific press kit; targeted Wikimedia Commons box-image searches returned
+    no results. Direct permission/outreach not attempted. Original preserved at archive/2026-11-02/image-audit/Pandemic
+    Legacy: Season 1 (2015).webp.'
+  visual_reviewed_on: '2026-11-02'
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  previous_asset_archived_file: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season
+    1 (2015).webp'
+  history:
+  - file: 'Pandemic Legacy: Season 1 (2015).webp'
+    source_url: null
+    publisher: Z-Man Games
+    license: null
+    date: null
+    resolution: 937x846
+    sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+  - file: 'Pandemic Legacy: Season 1 (2015).webp'
+    source_url: null
+    publisher: Z-Man Games
+    license: null
+    date: null
+    resolution: 937x846
+    sha256: 190c264957131fb614d56fcfffd4a1f9df1e1690b6b3f47f99bd95358d9d4e41
+    review_status: quarantined_wrong_game
+    inventory_reviewed_on: '2026-11-01'
+    notes: 'Pixels show original Clank! Legacy: Acquisitions Incorporated with miniatures,
+      not Pandemic Legacy. The composite also fails the box-art-only project policy.
+      Original acquisition and permissions remain unknown. Bytes preserved in archive;
+      not served as this game’s cover.'
+    visual_reviewed_on: '2026-11-02'
+    archived_file: 'archive/2026-11-02/image-audit/Pandemic Legacy: Season 1 (2015).webp'
+  - file: 'Pandemic Legacy: Season 1 (2015).png'
+    source_url: https://www.zmangames.com/game/pandemic-legacy-season-1/
+    image_url: https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/zm7170_box_front_520px.png
+    sha256: 54a404ffd174b90d8d35fd1a6d9b52d4a0e99a6bad2b10771b7be8914bd47b35
+    review_status: source_recorded_identity_unverified
+    publisher: Z-Man Games
+    license: fair-use
+    date: '2026-11-02'
+    resolution: 520x520
+    notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+      page; visually checked English title/base-game identity. Documented fair-use
+      source category under images/FAIR_USE.md: one web-resolution box image for catalog
+      identification, no component gallery or standalone-art distribution. No reuse
+      permission granted or inferred. Publisher directory/Asmodee downloadable-assets
+      page did not provide a readable specific press kit; targeted Wikimedia Commons
+      box-image searches returned no results. Direct permission/outreach not attempted.
+      Original preserved at archive/2026-11-02/image-audit/Pandemic Legacy: Season
+      1 (2015).webp.'
+ready-set-bet:
+  file: Ready Set Bet (2022).webp
+  source_url: https://alderacstore.com/ready-set-bet/
+  image_url: https://cdn11.bigcommerce.com/s-86h53ibcga/images/stencil/1280x1280/products/639/2442/RSB_3D__66577.1725910564.png?c=2
+  publisher: Alderac Entertainment Group
+  license: fair-use
+  notes: Exact data-zoom-image link from publisher storefront, downloaded and decoded
+    as WebP despite PNG URL suffix. Pixel inspection confirms standard English Ready
+    Set Bet box, 2–9, 45–60 minutes and 14+; not High Roller edition. One unmodified
+    1280px box image for catalog identification under project fair-use policy. No
+    self-service kit found in publisher directory; targeted Commons box search found
+    no suitable result. No publisher permission inferred. Old untraceable JPG preserved
+    in archive.
+  date: '2026-11-02'
+  resolution: 1280x1280
+  sha256: c4e8e2cb78513bf0f77a84cf2a422c729226d1f10a5f5c29830f23310f9cd10f
+  review_status: source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Ready Set Bet (2022).jpg
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: Ready Set Bet (2022).jpg
+    source_url: null
+    publisher: Alderac Entertainment Group
+    license: null
+    date: null
+    resolution: 600x600
+    sha256: fc46f99d09e90373a7390a471766e65a50b2faaa880eeed17f9ac60b8eba1582
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+root:
+  file: Root (2018).png
+  source_url: https://ledergames.com/pages/resources
+  image_url: https://drive.google.com/file/d/1LmE9lYe2EaU6XCo4BdFH16Zj5ehBor4q/view
+  publisher: Leder Games
+  license: publisher-press-kit
+  media_kit_url: https://drive.google.com/drive/folders/1A5hB5NlQvicSI9zgt9vL3WpaGuySJsgP
+  notes: Publisher Resources page explicitly links Media Kit - Root and Riverfolk.
+    The connected Drive folder lists Root Box Art.png, image/png, 3644012 bytes; raw
+    file acquired through the Drive connector and pixel-inspected. Base-game English
+    title matches; no expansion/artwork-only image substituted. Source category follows
+    project media-kit policy; no unrestricted or standalone-art permission asserted.
+    Exact printing and original predecessor acquisition remain unknown.
+  date: '2026-11-02'
+  resolution: 1500x1174
+  sha256: c6fea9b9f0fc21e6206221ea92da6213e690be356e2bdaea94e7ae68d0e428f4
+  review_status: publisher_source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Root (2018).webp
+  history:
+  - file: Root (2018).webp
+    source_url: null
+    publisher: Leder Games
+    license: null
+    date: null
+    resolution: 766x600
+    sha256: 719c93d5f26659d43a69dd798949d72ed2869daab17ca5e91ab3c5d5fee37f3e
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+star-wars-rebellion:
+  file: 'Star Wars: Rebellion (2016).webp'
+  source_url: https://www.fantasyflightgames.com/product/star-wars-rebellion/
+  image_url: https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/image-converter/2026/09/FFG_SW03_Product-Image.webp
+  sha256: 6e119762e647c53d5f9953593bd76b4929c04a6fe4cb06b2cf1b394de8fe686a
+  review_status: publisher_source_and_title_checked
+  publisher: Fantasy Flight Games
+  license: fair-use
+  date: '2026-11-02'
+  resolution: 1000x1000
+  notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+    page; visually checked English title/base-game identity. Documented fair-use source
+    category under images/FAIR_USE.md: one web-resolution box image for catalog identification,
+    no component gallery or standalone-art distribution. No reuse permission granted
+    or inferred. Publisher directory/Asmodee downloadable-assets page did not provide
+    a readable specific press kit; targeted Wikimedia Commons box-image searches returned
+    no results. Direct permission/outreach not attempted. Original preserved at archive/2026-11-02/image-audit/Star
+    Wars: Rebellion (2016).png.'
+  visual_reviewed_on: '2026-11-02'
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  previous_asset_archived_file: 'archive/2026-11-02/image-audit/Star Wars: Rebellion
+    (2016).png'
+  history:
+  - file: 'Star Wars: Rebellion (2016).png'
+    source_url: null
+    publisher: Fantasy Flight Games
+    license: null
+    date: null
+    resolution: 300x302
+    sha256: 845ba693dd2982259db59c21b6df9e82aa00508a09d43611eb2c4bbfe9eae31d
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.
+  - file: 'Star Wars: Rebellion (2016).webp'
+    source_url: https://www.fantasyflightgames.com/product/star-wars-rebellion/
+    image_url: https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/image-converter/2026/09/FFG_SW03_Product-Image.webp
+    sha256: 6e119762e647c53d5f9953593bd76b4929c04a6fe4cb06b2cf1b394de8fe686a
+    review_status: source_recorded_identity_unverified
+    publisher: Fantasy Flight Games
+    license: fair-use
+    date: '2026-11-02'
+    resolution: 1000x1000
+    notes: 'Downloaded unchanged from the exact box-image link on the publisher product
+      page; visually checked English title/base-game identity. Documented fair-use
+      source category under images/FAIR_USE.md: one web-resolution box image for catalog
+      identification, no component gallery or standalone-art distribution. No reuse
+      permission granted or inferred. Publisher directory/Asmodee downloadable-assets
+      page did not provide a readable specific press kit; targeted Wikimedia Commons
+      box-image searches returned no results. Direct permission/outreach not attempted.
+      Original preserved at archive/2026-11-02/image-audit/Star Wars: Rebellion (2016).png.'
+wingspan:
+  file: Wingspan (2019).png
+  source_url: https://store.stonemaiergames.com/products/wingspan
+  image_url: https://store.stonemaiergames.com/cdn/shop/products/3d-wingspan_1200x1200.png?v=1569132201
+  publisher: Stonemaier Games
+  license: fair-use
+  notes: Publisher storefront links the 3d-wingspan asset at a 200px thumbnail; acquired
+    its standard 1200px CDN variant (950×1200), without local edits. Pixel inspection
+    confirms English base box, Hargrave credit and 1–5 icon. Current publisher listing
+    includes Swift-Start pack; exact manufacturing printing not inferred. One web-resolution
+    cover for identification under project fair-use policy; no permission grant. Publisher
+    directory has no self-service kit; media-resources route unavailable. Commons
+    result was fan-card display packaging, not base box. Original larger untraceable
+    PNG archived unchanged.
+  date: '2026-11-02'
+  resolution: 950x1200
+  sha256: 2297b70bb62097ed3f043e50da1cd548ba8ab2ca048b3d896e510725b63b6f3e
+  review_status: source_and_title_checked
+  visual_reviewed_on: '2026-11-02'
+  previous_asset_archived_file: archive/2026-11-02/image-audit/Wingspan (2019).png
+  permission_granted: false
+  use_basis: Documented project-policy fair use; not a permission grant
+  history:
+  - file: Wingspan (2019).png
+    source_url: null
+    publisher: Stonemaier Games
+    license: null
+    date: null
+    resolution: 1216x1536
+    sha256: d5140b45c3cad24702e9838ec68044d269fadcf17a202db0ef4d9e95d5496d22
+    review_status: unverified
+    inventory_reviewed_on: '2026-11-01'
+    notes: Pre-existing repository asset; source, acquisition date, and reuse permission
+      are unknown. Filename association is not a visual identity or rights certification.

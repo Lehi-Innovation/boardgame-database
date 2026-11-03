@@ -1,3 +1,10 @@
+# Strong museum artifact 112.2106 establishes Polygon U.S. 1947 identity and rival
+# mail-business premise. AGPI independently credits Bert J. Bratt and lists different
+# cover/piece issues; metal pieces are not universal. Linked original-rule scan
+# returned HTTP 406 and was not read, including the canonical-host fallback. Clear
+# unsupported counts, age, duration and exact last-money victory claim rather than
+# transferring facts from Funforge 2009. Rules burden/depth unknown; remaining
+# experience estimates provisional. Independent dated row covers this older game.
 id: pony-express
 name: "Pony Express"
 alternate_names: ["The Game of Pony Express"]
@@ -5,26 +12,25 @@ year: 1947
 
 # Relationships
 game_family: null
-edition: null
+edition: Polygon Corporation U.S. game (1947); original instructions currently inaccessible
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 0  # Preschool
-strategic_depth: 0  # Reflex
-feel: 2  # Moderate
-value: 0  # Impulse
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: 4
+value: 2
 
 affinity: null
 hotness: null
 
 categories:
-  - Dice Rolling
   - Economic
-  - Racing
   - Western
+  - Historical
 
 evokes:
   - Lucky
@@ -33,20 +39,20 @@ evokes:
   - Discovery
   - Progress
 
-possible_counts: [2, 3, 4]
-true_counts: [2, 3, 4]
+possible_counts: []
+true_counts: []
 
 designer:
   - Bert J. Bratt
 publisher:
   - Polygon Corporation
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
-min_age: 12
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Pony Express is a 1947 American board game published by Polygon Corporation in which 2–4 players take on the roles of rival Pony Express owners trying to run each other out of business. The goal is to be the last player with money remaining. Players use the iconic Pony Express mail delivery route as its competitive backdrop, with riding and financial attrition mechanics deciding the winner. The metal playing pieces and Wild West theme make it a charming artifact of midcentury American gaming history.
+  Run a competing mail business along the Pony Express route from Missouri to California. Unlike the later Funforge racing game, this 1947 Polygon game casts players as rival owners trying to put one another out of business. The Strong museum identifies a surviving copy, and the collectors’ catalog credits Bert J. Bratt. The original instructions remain uninspected, so player limits, age guidance, duration and the precise ending are currently unknown.
 
 upgrades: []

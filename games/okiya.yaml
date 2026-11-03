@@ -1,19 +1,24 @@
+# Creator’s dated November19, 2012 entry names Jactalea/Cathala/Cyril Bouquet and
+# 2/8+/10. Independent original-game review corroborates 2012 but recommends7+;
+# selected creator8+. Later Blue Orange PnP rules confirm shared core, not original
+# packaging; US Niya title/metal box are distinguished. Removed unverified duration
+# bounds; experience ratings provisional. Original box itself uninspected.
 id: okiya
 name: "Okiya"
 alternate_names:
   - "Niya"
-year: 2013
+year: 2012
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Jactalea Okiya (November 2012)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 0  # Snack
-rules_complexity: 0  # Preschool
+rules_complexity: 1
 strategic_depth: 2  # Moderate
 feel: 3  # Competitive
 value: 0  # Impulse
@@ -41,14 +46,15 @@ true_counts: [2]
 designer:
   - Bruno Cathala
 publisher:
-  - Blue Orange Games
-artist: []
+  - Jactalea
+artist:
+  - Cyril Bouquet
 playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Okiya (also known as Niya) is a minimalist two-player abstract strategy game by Bruno Cathala set in a Japanese garden where players place geisha tokens on a 4x4 grid of tiles. Each tile shows one of four types of vegetation and one of four poetic symbols, and the first player removes a border tile and claims its space, then their opponent must choose a tile sharing the same vegetation or symbol. The goal is to form a row, column, diagonal, or 2x2 square of your geisha tokens — or to force your opponent into a position where they cannot move. In fewer than ten minutes, Okiya achieves remarkable depth through a single elegant constraint, making it a widely praised exercise in minimalist design.
+  Replace garden tiles with your clan’s tokens on a four-by-four grid. The tile you remove determines your opponent’s next options: their choice must share its plant or poetic symbol. Win by making a line of four, a two-by-two square or a position that leaves the other player unable to move. The first move must start at the border. Short turns and a single placement restriction create a compact contest of threats and forced replies. This record represents the original 2012 Jactalea game; Niya is its later American title, with different packaging.
 
 upgrades: []

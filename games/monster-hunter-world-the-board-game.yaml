@@ -1,11 +1,11 @@
 id: monster-hunter-world-the-board-game
 name: "Monster Hunter World: The Board Game"
 alternate_names: []
-year: 2022
+year: 2023
 
 # Relationships
 game_family: null
-edition: null
+edition: Original World game (2023); not the later Iceborne standalone
 base_game: null
 expansions: []
 compatible_with: []
@@ -50,6 +50,15 @@ max_playtime: 120
 min_age: 14
 
 description: |
-  Monster Hunter World: The Board Game is a cooperative arena combat game developed by Steamforged Games under license from Capcom and published in 2022. Players take on the roles of hunters tracking and battling iconic monsters from the video game, with each monster possessing a unique behavior deck that dictates its movements and attacks, creating an adaptive and unpredictable hunt. The game launched as two separate core sets (Ancient Forest and Wildspire Waste) each featuring different monsters, with hunters upgrading their equipment between hunts. It successfully crowdfunded on Kickstarter, raising over $1 million in 90 minutes.
+  Work together to hunt large monsters, then turn the spoils into equipment for
+  tougher encounters. Each monster behaves differently, giving the group new
+  attacks to anticipate and positions to consider. Ancient Forest and Wildspire
+  Waste are separate core boxes in this original World line; Iceborne is a later
+  standalone game.
+
+  Expect a sequence of demanding boss fights with equipment progression between
+  hunts; that experience assessment remains provisional. Steamforged's April 2023
+  announcement confirms that backers were playing World and retail release was
+  planned for that year, distinguishing it from the 2021 crowdfunding campaign.
 
 upgrades: []

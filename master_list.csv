@@ -62,7 +62,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 39953,A Game of Thrones: The Card Game,2008,boardgame,,,
 5476,A Gleam of Bayonets: The Battle of Antietam,,boardgame,,,a-gleam-of-bayonets
 701,A House Divided,,boardgame,,,
-217,A la carte,1989,boardgame,,,
+217,A la carte,1989,boardgame,,"Original Schmiel/Moskito 1989 game, not the revised 2009/10 edition or 1990 award date. Corrected false Zoch design/publisher and later-edition counts/age.",a-la-carte
 2061,A Line in the Sand,,boardgame,,,
 2666,A Mighty Fortress,1977,boardgame,,,
 141517,A Study in Emerald,,boardgame,,,
@@ -70,13 +70,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 99277,A Trip To Mars,,boardgame,,,
 19622,A Victory Lost: Crisis in Ukraine 1942-1943,,boardgame,,,a-victory-lost
 7614,A World at War,2003,boardgame,,,
-337324,A.D.E.L.E.,2021,boardgame,,,adele
+337324,A.D.E.L.E.,2022,boardgame,,2026-11-02: Publisher explicitly distinguishes 2021 crowdfunding from general public availability in January 2022. Corrected supported counts to 1–5 and main human-versus-crew mode from official rules; solo uses separate supplement.,adele
 ,Abacus checkers,,boardgame,,,
 526,Abalone,1990,boardgame,,,
 21324,Abande,,boardgame,,,
 ,Abandon All Artichokes,2020,boardgame,,,
-179687,ABBA Monopoly,2014,boardgame,,,
-906,Abilene,1983,boardgame,,,
+179687,ABBA Monopoly,2014,boardgame,,"Winning Moves UK bilingual English/Swedish The Phenomenon B33651020. Contemporary December 2014 sales/news corroborate release year, correcting unsupported detailed 2004; exact release day varies by notice.",abba-monopoly
+906,Abilene,1983,boardgame,,"Original Hexagames 1983, distinct from revised Schmidt 1993. Jury specifies 2–3/7+/45 minutes; Luding lists three/7+/90. Original rules unread; differences remain explicit.",abilene
 65516,Ablaze!,,boardgame,,,
 32337,About Time,,boardgame,,,
 ,Above and Below,,boardgame,,,
@@ -87,7 +87,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,acey-deucey,,boardgame,,,
 ,Achi,,boardgame,,,
 172454,ACHTUNG!,,boardgame,,,
-5,Acquire,1962,boardgame,,,
+5,Acquire,1964,boardgame,,Represented 3M 1964 mass-market edition; 1962 packaging copyright is not publication. Distinct 1963 World Map test edition documented by independent archival investigations.,acquire
 ,Acre: Richard Lionheart's Siege,,boardgame,,,acre-richard-lionhearts-siege
 12646,Acronymble,,boardgame,,,
 9577,Across Suez,,boardgame,,,
@@ -95,7 +95,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 38343,Ad Astra,2009,boardgame,,,
 ,Ada's Dream,2025,boardgame,,,adas-dream
 51195,Adaptoid,,boardgame,,,
-,Adel Verpflichtet,1990,boardgame,,,
+120,Adel Verpflichtet,1990,boardgame,,Identity review 2026-11-02: original F.X. Schmid 1990 edition; copied existing cross-reference 120 from the duplicate original-game alias row.,adel-verpflichtet
 39647,Adji-boto,,boardgame,,,
 2942,Admirals,,boardgame,,,
 ,Adugo,,boardgame,,,
@@ -103,7 +103,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 177,Advanced Civilization,,boardgame,,,
 15126,Advanced Squad Leader: Starter Kit #2,,boardgame,,,
 20542,Advanced Squad Leader: Starter Kit #3 (2007),,boardgame,,,advanced-squad-leader-starter-kit-3
-283,Advanced Third Reich,,boardgame,,,
+283,Advanced Third Reich,,boardgame,,Retained distinct AvalonHill AVH8881992. Removed competing family-overview record that wrongly treated it as alias of another publisher’s line. Physical-product inventory supports2–6/12+/180–1200; original manual not personally inspected.,advanced-third-reich
 183231,Adventure Land,2015,boardgame,,,
 ,Adventure Tactics: Domianne's Tower,2021,boardgame,,,adventure-tactics-domiannes-tower
 1405,Adventurer,,boardgame,,,
@@ -130,7 +130,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 26,Age of Renaissance,1996,boardgame,,,
 4098,Age of Steam,,boardgame,,,
 ,Agemonia,,boardgame,,,
-2272,Aggravation,,boardgame,,,
+2272,Aggravation,,boardgame,,"Canonical commercial title selects retained CO-5 four-player1962 set; Wahoo remains traditional variants, no longer an alternate title claiming identical commercial edition. AGPI and actual-set inventory establish edition; catalog source row itself is undated.",aggravation
 3615,Agincourt,,boardgame,,,
 5168,Agon,,boardgame,,,
 31260,Agricola,2007,boardgame,,,
@@ -153,7 +153,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6740,Alaric the Goth: Fall of the Western Roman Empire,,boardgame,,,alaric-the-goth
 1387,Alaska,1979,boardgame,,,
 45319,Alcazar,2009,boardgame,,,
-161970,Alchemists,2015,boardgame,,,
+161970,Alchemists,2014,boardgame,,"Source review 2026-11-02: Publisher gives Q4 2014, Matúš Kotry, 2–4, 12+, 120 minutes; app/web or game-master alternative. Corrected false designer, age and code-wheel claim; unsupported time bounds removed.",alchemists
 187517,Alemungula,,boardgame,,,
 1726,Alexander the Great,,boardgame,,,
 6249,Alhambra,2003,boardgame,,,
@@ -166,7 +166,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 69851,Aliens: This Time It's War,,boardgame,,,aliens
 ,Alkkagi,,boardgame,,,
 3157,All Star Baseball,,boardgame,,,
-1289,All The King's Men,1970,boardgame,,,all-the-kings-men
+1289,All The King's Men,1979,boardgame,,"2026-11-02: Strong Museum object 116.3747 explicitly dates medieval All the King’s Men to 1979, credits Reuben B. Klamer/Perry Grant, and distinguishes predecessor Smess (1970). Historian Bruce Whitehill independently dates the retheme 1979. Corrected CSV 1970 to represented 1979 edition; removed Smess as an interchangeable alternate title while retaining shared family.",all-the-kings-men
 10893,Allegiance: War of Factions,,boardgame,,,
 4832,Allenby's Blitzkrieg,,boardgame,,,allenbys-blitzkrieg
 167948,Almirante,,boardgame,,,
@@ -248,7 +248,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6541,Articulate!,,boardgame,,,
 4271,Artifact,1980,boardgame,,,
 92643,Artus,,boardgame,,,
-219650,Arydia: The Paths We Dare Tread,2024,boardgame,,,
+219650,Arydia: The Paths We Dare Tread,2024,boardgame,,"2026-11-02: Retained CSV 2024 and corrected detailed-record 2025 to the represented first printing: contemporary January 4 unboxing explicitly documents finished copy received December 30, 2024, corroborated by independent year-end reviewer. Regional delivery continued in 2025, which is not proof no finished game existed earlier. Original 2024-copyright rulebook separately identifies Miller overall design, Fay development/combat/puzzle co-design, illustrators/sculptor, composer Hamilton and photographer Anderson. Original age label unverified amid conflicting review labels; nominal sitting time remains provisional rather than fixed campaign duration.",arydia-the-paths-we-dare-tread
 72991,Asara,2010,boardgame,,,
 37919,Ascending Empires,,boardgame,,,
 69789,Ascension: Deckbuilding Game,,boardgame,,,
@@ -295,7 +295,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 34481,Awithlaknakwe,,boardgame,,,
 ,Awithlaknannai Mosona,,boardgame,,,
 820,Axiom,1988,boardgame,,,
-98,Axis & Allies,1981,boardgame,,,axis-and-allies-battle-of-the-bulge
+98,Axis & Allies,1981,boardgame,,"Identity review 2026-11-01: The mapped record represents the distinct 2006 Battle of the Bulge standalone, not original Axis & Allies.",
 35052,Axis & Allies Anniversary Edition,,boardgame,,,axis-and-allies-anniversary-edition
 22457,Axis & Allies: Battle of the Bulge,2006,boardgame,,,axis-and-allies-battle-of-the-bulge
 10081,Axis & Allies: D-Day,,boardgame,,,axis-and-allies-d-day
@@ -315,7 +315,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 123386,Baden-Württemberg Catan,,boardgame,,,baden-wurttemberg-catan
 123417,bagatelle,,boardgame,,,
 ,Bagh bandi,,boardgame,,,
-315,bagh-chal,,boardgame,,,
+315,bagh-chal,,boardgame,,Berkeley rules establish specific Nepali4-tiger/20-goat game. Archived broader Tiger game family overview unchanged rather than aliasing family to one member. Cleared unsupported1900/8+ and clarified tigers move/capture during goat placement.,bagh-chal
 55127,Bailout! The Game,,boardgame,,,
 4150,Bakari,,boardgame,,,
 ,Bakio,,boardgame,,,
@@ -346,7 +346,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3706,Batik,,boardgame,,,
 ,Battle Cattle,,boardgame,,,
 2458,Battle Cattle: The Card Game,,boardgame,,,
-551,Battle Cry,1999,boardgame,,,
+551,Battle Cry,1999,boardgame,,"2026-11-02: June 2000 first-hand review explicitly calls Borg/Avalon Hill publication 2000, but Hasbro trademark application 76-185,662 reports first commercial use August 13, 1999. Retained 1999 discovery row pending rather than forcing equivalence or treating a filing as a box-publication record. Detailed record explicitly scopes reviewed 2000 version, separates older Milton Bradley and later anniversary game, and corrects false age 8 to indexed original rules 12+. Full mirrored rulebook returned 403; exact earliest printing remains unresolved.",
 ,Battle Damage: Code Red,,boardgame,,,
 6112,Battle Dome,,boardgame,,,
 3177,Battle for Armageddon,,boardgame,,,
@@ -465,7 +465,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 4247,Boarding Party,,boardgame,,,
 32048,Bobbin' Bumblebee,,boardgame,,,
 ,Boekenspel,1957,boardgame,,,
-,Bohnanza,1997,boardgame,,,
+,Bohnanza,1997,boardgame,,Identity review 2026-11-02: AMIGO confirms Rosenberg’s Bohnanza first published in 1997; separate from traditional Das Bohnenspiel.,bohnanza
 413246,Bomb Busters,2024,boardgame,,,
 4646,Bommerz over da Sulphur River,,boardgame,,,
 15839,Bonaparte at Marengo,,boardgame,,,
@@ -545,7 +545,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 214,Café International,,boardgame,,,cafe-international
 1542,Calamity,,boardgame,,,
 283155,Calico,2020,boardgame,,,
-,Call My Bluff,1993,boardgame,,,
+,Call My Bluff,1993,boardgame,,"Award-list English title represents German F.X.Schmid Bluff1993; added separately scoped record. Existing English CallMyBluff is actually1997, while original MB Liar’sDice is1987. Creator-interview history, jury and independent bibliography distinguish these editions.",bluff-1993
 ,"Cambrai, 1917: The First Blitzkrieg",,boardgame,,,
 ,Camel Up,2014,boardgame,,,
 5251,Camelot,,boardgame,,,
@@ -571,7 +571,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 150,Carabande,,boardgame,,,
 963,Carat,,boardgame,,,
 ,Carcassonne,2000,boardgame,,,
-7717,Carcassonne: The Castle,,boardgame,,,
+7717,Carcassonne: The Castle,2003,boardgame,,2026-11-02: Consolidated duplicate The Castle/Die Burg YAML into carcassonne-the-castle. Original English rules identify Knizia using Wrede’s Carcassonne system; Wrede’s own chronology gives 2003. Separate from Mayfair’s 1981 The Castle and Faidutti/Laget’s 2000 Castle card game.,carcassonne-the-castle
 12902,Carcassonne: The City,,boardgame,,,
 45748,Carcassonne: Wheel of Fortune,,boardgame,,,
 22924,Card football,,boardgame,,,
@@ -590,11 +590,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 826,Cartagena,2000,boardgame,,,
 327076,Cartaventura: Lhasa,2021,boardgame,,,
 263918,Cartographers: A Roll Player Tale,2019,boardgame,,,cartographers
-295947,Cascadia,2022,boardgame,,,
+295947,Cascadia,2021,boardgame,,Identity review 2026-11-02: original publication is 2021 per Flatout Games; 2022 is the Spiel des Jahres year.,cascadia
 ,Cash 'n Guns,2014,boardgame,,,
 19237,Cash'n Guns,,boardgame,,,
 98189,Casse-toi pov' con,2011,boardgame,,,
-655,Castle,2000,boardgame,,,castle-2000
+655,Castle,2000,boardgame,,"2026-11-02: Designer Bruno Faidutti identifies this as his and Serge Laget’s 2000 Jeux Descartes card game Castel/Castle, art Emmanuel Roudier, 2–5. Replaced unsupported generic placeholder and unknown-designer claim; distinct from Carcassonne and Mayfair games.",castle-2000
 ,Castle Combo,2024,boardgame,,,
 191065,Castle Flutterstone,,boardgame,,,
 29411,Castle Knights,,boardgame,,,
@@ -614,13 +614,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 103091,Catan Histories: Merchants of Europe,,boardgame,,,
 244144,Catan Histories: Rise of the Inka,2018,boardgame,,,
 ,Catan Histories: Settlers of America – Trails to Rails,2010,boardgame,,,
-,Catan Junior,2007,boardgame,,,
-140743,Catan Junior Madagascar,2012,boardgame,,,
+,Catan Junior,2007,boardgame,,Original KOSMOS German card-based3–4 edition independently reviewed2007/08 with original rules; separate new record preserves original date. Existing catan-junior now explicitly represents the distinct Mayfair English2012 tile-based2–4 game.,catan-junior-2007
+140743,Catan Junior Madagascar,2012,boardgame,,"Original German KOSMOS2012 standalone, confirmed official dated ludography and original DreamWorks/KOSMOS rules. Corrected publisher,6+ and25–35; base_game cleared because no other Junior box required. Kept actual circus theme and scoped art credits.",catan-junior-madagascar
 259397,Catan Scenario: Crop Trust,2018,boardgame,,,
 131958,Catan Scenarios: Frenemies,,boardgame,,,
 161527,Catan: Ancient Egypt,,boardgame,,,
 20038,Catan: Event Cards,,boardgame,,,
-125921,Catan: Junior,2012,boardgame,,,
+125921,Catan: Junior,2012,boardgame,,"Contemporary original Mayfair2012 play reviews establish English MFG3025, 2–4/6+/about30; corrected blended detailed2007/CATAN Studio identity. Current official first-edition PDF is a2016 reprint, used with that limitation, not claimed original2012 physical manual.",catan-junior
 3972,Catan: Portable Edition,,boardgame,,,
 310789,Catapult Feud,2021,boardgame,,,
 ,Catch the Moon,2017,boardgame,,,
@@ -640,7 +640,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Chaco,,boardgame,,,
 1827,Chainsaw Warrior,,boardgame,,,
 7654,Challenge The Yankees,,boardgame,,,
-,Challengers,2023,boardgame,,,
+,Challengers,2022,boardgame,duplicate,Identity review 2026-11-02: same original game as existing Challengers! (2022) row; publisher confirms October 2022 release and 2023 awards.,
 ,Challengers!,2022,boardgame,,,
 3104,Chameleon,1990,boardgame,,,chameleon-1990
 ,Chamelequin,,boardgame,,,
@@ -659,7 +659,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 29773,Cheeky Monkey,,boardgame,,,
 40819,Cheese Chasers,,boardgame,,,
 7644,Cherry Ames' Nursing Game,,boardgame,,,
-171,chess,,boardgame,,,
+171,chess,,boardgame,,2026-11-02: Reviewed duplicate-record consolidation: standard Chess and two-player chess described the same two-opponent game under FIDE rules. Retired two-player-chess YAML unchanged to dated archive; retained canonical chess and its unknown publication/age facts. No owner ratings or play history existed in the retired record.,chess
 19685,Chess Mutation,,boardgame,,,
 ,"Chessboard and chess pieces used by Napoleon and his entourage at Longwood, Saint Helena",,boardgame,skip,"Museum artifact, not a board game",
 13036,Cheyenne,,boardgame,,,
@@ -683,7 +683,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 17209,Cineplexity,,boardgame,,,
 2224,Circus Imperium,,boardgame,,,
 244,Circus Maximus,1979,boardgame,,,
-4411,Citadel,,boardgame,,,
+4411,Citadel,,boardgame,,"Singular row now explicitly identifies FGU1976 Goodman/Krenkel tower quest, supported by contemporary received-booklet notice and publisher advert. Oldauto-match citadel file actually described Citadels and is archived unchanged; historicalalias points to retainedCitadels, not this separate game.",citadel-1976
 3248,Citadel of Blood,,boardgame,,,
 38657,Cities,2008,boardgame,,,cities-2008
 267370,Cities: Skylines – The Board Game,2019,boardgame,,,
@@ -809,7 +809,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 5136,Corsaro,1991,boardgame,,,
 212300,Cosmail,,boardgame,,,
 1771,Cosmic Coasters,,boardgame,,,
-15,Cosmic Encounter,1977,boardgame,,,
+15,Cosmic Encounter,1977,boardgame,,"Original Eon1977 now has separate fifteen-power/four-color base record, not false mapping to FFG2008. Collector original inventory and independent edition bibliography support 2–4; expanded1983 rule compilation not treated as original box.",cosmic-encounter-1977
 33494,Cosmic Journey,,boardgame,,,
 1302,Cosmic Wimpout,,boardgame,,,
 204027,Cottage Garden,,boardgame,,,
@@ -890,7 +890,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 205596,Darwin's Dice,,boardgame,,,
 322289,Darwin's Journey,,boardgame,,,darwins-journey
 1350,Das Amulett,,boardgame,,,
-39271,Das Bohnenspiel,,boardgame,,,
+39271,Das Bohnenspiel,,boardgame,,Identity review 2026-11-02: traditional two-player mancala documented by Ludii and independent teaching rules; previous detailed record incorrectly described Bohnanza.,das-bohnenspiel
 9079,Das kaufmännische Talent,,boardgame,,,das-kaufmannische-talent
 16369,Das Kleine Gespenst,,boardgame,,,
 1773,Dawn of the Dead,,boardgame,,,
@@ -970,7 +970,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3768,Dingbats,,boardgame,,,
 235927,Dino World,2017,boardgame,,,
 23541,Dinosaurus,2006,boardgame,,,
-483,Diplomacy,1959,boardgame,,,classical-diplomacy
+483,Diplomacy,1959,boardgame,,"2026-11-02: Original 1959 rules inspected as scans: Allan B. Calhamer copyright, Europe powers, three to seven with seven recommended. Added original game and remapped original CSV row; retained the distinct five-player ancient-world Classical Diplomacy record and its own discovery row. No later-edition two-player or age labels transferred.",diplomacy
 29491,Dipole,,boardgame,,,
 22065,Direct Conflict in Dimension Six,,boardgame,,,
 5687,Dirtside II,,boardgame,,,
@@ -995,13 +995,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 148083,Dogs,,boardgame,,,
 754,Domain,,boardgame,,,
 62219,Dominant Species,2010,boardgame,,,
-16620,Domination,,boardgame,,,
+16620,Domination,,boardgame,,"Canonical primary-title mapping selects retained MB English1982 edition, not German ParkerFocus1980. Independent edition history and teaching transcription corroborate identity/core rules; original age label unverified. Generic CSV row does not itself establish a printing year.",domination
 ,Dominations: Road to Civilization,2019,boardgame,,,
 7450,Domineering,,boardgame,,,
-,Dominion,2009,boardgame,,,
+,Dominion,2008,boardgame,,Identity review 2026-11-02: Publisher explicitly identifies original first edition as first published in 2008; 2009 is the award year.,dominion
 ,Dominion (Second Edition),2016,boardgame,,,
 210,Don Pepe,,boardgame,,,
-7116,Don't Be Annoyed,1999,boardgame,,,dont-be-annoyed
+7116,Don't Be Annoyed,1999,boardgame,,2026-11-02: Existing mapping pointed to a generic Schmidt-race description with an unsupported 1999-edition claim. Reviewed museum evidence now scopes dont-be-annoyed to the original commercial 1914 game. The separate 1999 English-title catalog row has no established printing/rules evidence; cleared mapping and retained its year pending edition research rather than treating translation alone as equivalence.,
 4888,Don't Break the Ice,,boardgame,,,dont-break-the-ice
 32687,Don't Drop the Soap,,boardgame,,,dont-drop-the-soap
 7791,Don't Give Up the Ship!,,boardgame,,,dont-give-up-the-ship
@@ -1012,7 +1012,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Donjons & Dominos,2022,boardgame,,,donjons-et-dominos
 150558,Donkey Racing,,boardgame,,,
 299939,Doodle Dungeon,2020,boardgame,,,
-10640,Doom: The Boardgame,2005,boardgame,,,
+10640,Doom: The Boardgame,2005,boardgame,,"Existing detailed record represents original English 2004, independently dated by retailer and original rules. Generic CSV 2005 may refer to German localization planned for autumn 2005; actual localized release/language remains unverified. Retained pending instead of forcing English-edition mapping; separate sourced English 2004 row added.",
 156714,Doomtown,,boardgame,,,
 3512,Doorways to Adventure,1986,boardgame,,,
 6212,Doorways to Horror,1986,boardgame,,,
@@ -1096,7 +1096,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 123665,Délir'phone,,boardgame,,,delirphone
 ,Dérive,,boardgame,,,derive
 56796,Dōbutsu shōgi,2008,boardgame,,,dobutsu-shogi
-11147,Ea$y Money,1988,boardgame,,,easy-money
+11147,Ea$y Money,1988,boardgame,,"2026-11-02: 1988 Ea$y Money is a separate money-collection/speculation game, not the 1935 real-estate game represented by easy-money. Cleared false mapping; retained separate original Easy Money row and record. References conflict over 1988 versus 1989 and original later-game rules were not read, so later title remains pending rather than assigned invented specifications.",
 7032,Eagle Day: The Battle of Britain,1973,boardgame,,,
 ,Eagles,,boardgame,,,
 25236,Ear Tug,2004,boardgame,,,
@@ -1126,7 +1126,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,El cascabelito mudo,,boardgame,,,
 93,El Grande,1995,boardgame,,,
 ,El nuevo coyote,,boardgame,,,
-19526,Elasund,2016,boardgame,,,elasund-the-first-city
+19526,Elasund,2005,boardgame,,"2026-11-02: Publisher chronology places original Elasund under 2005, corroborated by original rules. No regional/printing qualifier was supplied for the erroneous 2016 catalog row. Removed unsupported longest-road/largest-church scoring claims.",elasund-the-first-city
 100423,Elder Sign,,boardgame,,,
 146021,Eldritch Horror,2013,boardgame,,,
 ,Election,,boardgame,,,
@@ -1148,7 +1148,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 173442,Empires: Age of Discovery,,boardgame,,,
 938,Enchanted Forest,,boardgame,,,
 2879,Encore,,boardgame,,,
-33160,Endeavor,2009,boardgame,,,endeavor-deep-sea
+33160,Endeavor,2009,boardgame,,"Identity review 2026-11-01: The mapped record is Endeavor Deep Sea, a distinct later game.",
 367966,Endeavor: Deep Sea,2024,boardgame,,,
 ,Endless Winter: Paleoamericans,2022,boardgame,,,
 ,Endodoi,,boardgame,,,
@@ -1269,7 +1269,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 1768,Fireball Island,,boardgame,,,
 ,Firefight: Modern U.S. and Soviet Small Unit Tactics,,boardgame,,,firefight
 138161,Firefly: The Game,,boardgame,,,
-41302,First Orchard,,boardgame,,,
+41302,First Orchard,2009,boardgame,,"Scoped HABA 4655 standalone simplified toddler game to 2009, from actual rules and contemporary played review. Corrected mistaken 1986 date/solitary feel; 1–4/2+/about10, Neundorfer illustration, single-fruit basket/path-raven. Classic 1986 Orchard separate.",first-orchard
 4370,"Fish, fluff, meatballs",2002,boardgame,,,
 4471,Fist of Dragonstones,,boardgame,,,
 10565,Fits,,boardgame,,,
@@ -1294,7 +1294,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Flux,,boardgame,,,fluxx
 1101,Flying Carpet,1987,boardgame,,,
 ,Flying Fortress I & II,,boardgame,,,flying-fortress-i-and-ii
-789,Focus,,boardgame,,,
+789,Focus,,boardgame,,"Parker German1980 and MB EnglishDomination1982 remain distinct, legitimately sharing Focus title. Generic undated row does not identify edition; retained pending, with separate explicit Parker1980 row. Corrected false KOSMOS1981 blend; 1981 is award year.",
 175324,Fog of love,2017,boardgame,,,
 175914,Food Chain Magnate,,boardgame,,,
 431248,For a Crown,,boardgame,,,
@@ -1399,12 +1399,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 146312,Ghost Fightin' Treasure Hunters,,boardgame,,,
 37046,Ghost Stories,,boardgame,,,
 2290,Ghosts,,boardgame,,,
-2402,Ghoulash: The Last Game on Earth,2001,boardgame,,,ghoulash
+2402,Ghoulash: The Last Game on Earth,2001,boardgame,,"2026-11-02: Creator’s first-person history distinguishes marketed 1982 original from streamlined one-sheet scenarios distributed online in 2001. Retained original ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery row to revision and added separate original row without inventing a source ID. Current creator page identifies two-player competition, not shared cooperative victory.",ghoulash-pen-and-paper
 ,GHQ,,boardgame,,,
 23686,Gift Trap,,boardgame,,,
 170969,Gigamons,,boardgame,,,
 59,Giganten,1999,boardgame,,,
-8395,Giganten (board game),1981,boardgame,,,giganten
+8395,Giganten (board game),1981,boardgame,,"2026-11-02: The represented detailed record is the KOSMOS 1999 oil game confirmed by its award jury and independent Luding catalog. Clear the incompatible 1981 discovery-row mapping and return it to pending for independent early-game research; do not replace its historical year to force a match. Existing Giganten (1999) row still matches the corrected oil-game record. Corrected false Stefan Dorra/Goldsieber credits, two-player support and main-award winner claim in that record.",
 ,Gimel,,boardgame,,,
 38229,Giocagoal,,boardgame,,,
 ,Gioul,,boardgame,,,
@@ -1485,10 +1485,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 30381,Hamburgum,2007,boardgame,,,
 3685,Hammer of the Scots,,boardgame,,,
 ,Hammer's Slammers,,boardgame,,,hammers-slammers
-,Hanabi,2013,boardgame,,,
+,Hanabi,2013,boardgame,,"2026-11-02: Mapped existing 2013 Hanabi discovery row to separately researched R&R English card edition, documented in contemporary July 2013 first-hand review and 2013 publisher rules reproduced by accessibility supplier. Original 2010 French game retained separately, not silently redated. English version has four fuse-stack pieces but three permitted mistakes, eight clues, optional multicolor suit; it is not a later Deluxe tile set.",hanabi-rr-games-2013
 ,Hands Down,,boardgame,,,
-,Hannibal,,boardgame,,,
-234,Hannibal: Rome vs. Carthage,,boardgame,,,
+,Hannibal,,boardgame,,"Both same-1996 Avalon Hill YAML records duplicated product 906. Retained full-title record, archived short-title original unchanged and added explained retired-ID alias; contemporary publisher advertisement/review support same identity.",hannibal-rome-vs-carthage
+234,Hannibal: Rome vs. Carthage,,boardgame,,Original 1996 Avalon Hill product 906; duplicate short-title YAML archived unchanged. Card-driven system follows We the People; not a distinct later Valley Games or PHALANX edition.,hannibal-rome-vs-carthage
 158991,Hannin Wa Odoru,2013,boardgame,,,
 8989,Hansa,2004,boardgame,,,
 43015,Hansa Teutonica,2009,boardgame,,,
@@ -1551,17 +1551,17 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Highway 2000,,boardgame,,,
 3800,Himalaya,2004,boardgame,,,
 51197,Hippos & Crocodiles,2009,boardgame,,,hippos-and-crocodiles
-425693,Historical Mystery: Bets are Made,2024,boardgame,,,historical-mystery-bets-are-made
+425693,Historical Mystery: Bets are Made,2024,boardgame,,"2026-11-02: Original Russian SKU 915831, 2024 retailer publication corroborated by original rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to 18+ and 60–90; added rules credits and cooperative mode. English display title is a translation, not certification of English retail availability.",historical-mystery-bets-are-made
 382694,Historical Mystery: Death at the Ball,2023,boardgame,,,historical-mystery-death-at-the-ball
-401242,Historical Mystery: Disappearance in the Sky,2024,boardgame,,,historical-mystery-disappearance-in-the-sky
-431079,Historical Mystery: The Witch,2024,boardgame,,,historical-mystery-the-witch
-453355,Historical Mystery: Treasures of the Galleon,2025,boardgame,,,historical-mystery-treasures-of-the-galleon
+401242,Historical Mystery: Disappearance in the Sky,2023,boardgame,,"2026-11-02: Publisher-associated store explicitly release year 2023, Russian Hobby World product 100705. Retained detailed-record year and corrected CSV 2024; international 2024 catalog availability did not establish original release. Language and edition remain explicit.",historical-mystery-disappearance-in-the-sky
+431079,Historical Mystery: The Witch,2024,boardgame,,"2026-11-02: Publisher-associated store explicitly release year 2024, Russian Hobby World product 148141, corroborating original rules copyright. This supplies release evidence missing from earlier review and corrects unsupported record 2023 without inferring publication solely from copyright.",historical-mystery-the-witch
+453355,Historical Mystery: Treasures of the Galleon,2025,boardgame,,"2026-11-02: Original Russian SKU 952138, 2025 retailer publication corroborated by original rules copyright. Corrected unsupported 2023, age 12 and 30–60-minute range to 18+ and 60–90; added case-specific author/art credits. English title is a translation, not evidence of English retail availability.",historical-mystery-treasures-of-the-galleon
 224,History of the World,,boardgame,,,
 11132,Hitler's Last Gamble,,boardgame,,,hitlers-last-gamble
 2168,Hitler's War,,boardgame,,,hitlers-war
 90732,Hitstory,,boardgame,,,
 ,Hive,2001,boardgame,,,
-120,Hoity Toity,1990,boardgame,,,
+120,Hoity Toity,1990,boardgame,duplicate,"Identity review 2026-11-02: alias of original Adel Verpflichtet (1990), already represented by that catalog row. The edition first named Hoity Toity is separately cataloged as 2004 Uberplay.",
 3160,Holy War,,boardgame,,,
 26566,Homesteaders,,boardgame,,,
 ,Hong Kong Monopoly,,boardgame,,,hong-kong-monopoly
@@ -1580,7 +1580,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Hundred Kingdoms,,boardgame,,,
 5895,Hungry Hungry Hippos,,boardgame,,,hungry-hungry-hippos
 ,Hurtgen Forest,,boardgame,,,
-6573,Husch Husch kleine Hexe,1994,boardgame,,,husch-husch-kleine-hexe
+6573,Husch Husch kleine Hexe,1994,boardgame,,"2026-11-02: Archived Dutch rules translation explicitly F.X. Schmid 1994, Heinz Meister, 2–6. Independent bibliography distinguishes original 1994 from later Zoch 2010, so original date is not inferred solely from its award. Corrected publisher/edition and false cooperative feel; original rules specify a single winner, memory choices and optional simpler rule. Translation’s 3½+ recommendation is explained, not rounded into an invented original box label.",husch-husch-kleine-hexe
 31970,Hydro Battle!,,boardgame,,,hydro-battle
 13726,Hyena chase,,boardgame,,,
 3244,Hype,1985,boardgame,,,
@@ -1613,7 +1613,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 255674,Imhotep: The Duel,2018,boardgame,,,
 24181,Imperial,,boardgame,,,
 54138,Imperial 2030,2009,boardgame,,,
-3661,Imperium,1977,boardgame,,,imperium-horizons
+3661,Imperium,1977,boardgame,,"Identity review 2026-11-01: The mapped record is the modern Imperium Horizons deck-building game, not the 1977 game.",
 ,Imperium: Horizons,2024,boardgame,,,
 376683,In the Footsteps of Darwin,,boardgame,,,in-the-footsteps-of-darwin
 9022,In the Kingdom of the Polar Bear,1991,boardgame,,,in-the-kingdom-of-the-polar-bear
@@ -1657,7 +1657,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 68182,Isla Dorada,,boardgame,,,
 33812,Island Trader,,boardgame,failed,No identifiable board game by this name,
 ,Island War: Four Pacific Battles,,boardgame,,,island-war-four-pacific-battles
-,Isle of Skye,2016,boardgame,,,isle-of-skye-from-chieftain-to-king
+,Isle of Skye,2015,boardgame,duplicate,Identity review 2026-11-02: Publisher gives 2015 release and 2016 award; the full-title 2015 row with existing cross-reference 176494 already represents this same original game.,
 176494,Isle of Skye: From Chieftain to King,2015,boardgame,,,
 185589,Islebound,2016,boardgame,,,
 1875,Isolation,1972,boardgame,,,
@@ -1693,19 +1693,19 @@ bgg_id,name,year,type,status,notes,yaml_id
 2484,Journey through Europe,,boardgame,,,
 1098,Judge Dredd,,boardgame,,,
 ,jul-gonu,,boardgame,,,
-35548,Jumbulaya,2007,boardgame,,,
+35548,Jumbulaya,2007,boardgame,,"Contemporary trade launchDecember2007, not2008 award year. Inspected scanned rules distinguish ending triggers from point victory and TILE counts from letter counts; review age/time recommendations scoped.",jumbulaya
 4031,Jungle,,boardgame,,,
 191687,Jungle Party,,boardgame,,,
 242,Junta,,boardgame,,,
 84159,Junta: Viva el Presidente!,,boardgame,,,junta-viva-el-presidente
-259857,Jurassic Parts,2020,boardgame,,,
+259857,Jurassic Parts,2020,boardgame,,"Physical25CGG10 inventory and independent retail-copy review identify2020;2021 was later review year. Original English rules confirm2–5/sharedslab and actual illustration versus graphics roles. Age10 is review recommendation, original box label uninspected.",jurassic-parts
 241164,Jurassic Snack,,boardgame,,,
 352567,Jurassic World: The Legacy of Isla Nublar,,boardgame,,,jurassic-world-the-legacy-of-isla-nublar
-17534,Just 4 Fun,2005,boardgame,,,
+17534,Just 4 Fun,2006,boardgame,,"Represented KOSMOS691523 specifically Nürnberg2006 in contemporary fair press and independent bibliography/reviews. Corrected catalog2005→2006; later references2005 conflict, while contemporary review distinguishes2005 magazineMach4 predecessor. Majority ownership/secure fields,10+ and actual illustration credits clarified.",just-4-fun
 ,Just One,2018,boardgame,,,
-66590,Just4Fun Colours,2010,boardgame,,,
+66590,Just4Fun Colours,2010,boardgame,,Actual June2010 review and licensed rules identify standalone691028 two-to-four-player8+ game; corrected2007/9+/false expansion. Separate699291 pockettwo-player rules not transferred; topstone ownership differs from numbered predecessor.,just4fun-colours
 22221,K'dor,,boardgame,failed,No sources found,
-73761,K2,2010,boardgame,,,
+73761,K2,2010,boardgame,,"OriginalREBEL2010 rules transcription and independent bibliography establish2010,Kałuża/Nocoń,1–5/8+/about60. Corrected false2011/artcredits and captain-weather selection. LaterBigBox/expansion facts remain separate.",k2
 ,Ka-Bala,,boardgame,,,
 394,Kahuna,1998,boardgame,,,
 ,Kakelorum,,boardgame,,,
@@ -1714,7 +1714,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 4813,Kamakura,1982,boardgame,,,
 ,Kami,,boardgame,,,
 38545,Kamisado,,boardgame,,,
-28738,Kamon,2007,boardgame,,,
+28738,Kamon,2007,boardgame,,"Creator’s February2007 release and mirroredJactalea rules establish original symbol/quantity game, soleCathala,2/8+/about30. ExistingCosmoludo2020 colors version retained separately, false Remy co-credit removed, explicit2020row added.",kamon-2007
 21918,Kampen om Rai,,boardgame,,,kampen-om-rai
 ,"KampfPanzer: Armored Combat, 1937–40",,boardgame,,,kampfpanzer
 200147,Kanagawa,,boardgame,,,
@@ -1723,14 +1723,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Kaplansky's game,,boardgame,,,kaplansky-s-game
 940,Karawane,,boardgame,,,
 ,Karma,,boardgame,,,
-183251,Karuba,2016,boardgame,,,
+183251,Karuba,2015,boardgame,,"OriginalHABA300932 English rules©2015 and contemporary teaching catalog explicitly publication2015, distinct2016nomination; corrected catalog2016→2015. Earlier temple arrival earns more valuable treasure, not fewer points.",karuba
 8736,Kasserine Pass,,boardgame,,,
 233502,katarenga,,boardgame,,,
 39481,Katro,,boardgame,,,
 14698,Keep Cool,2004,boardgame,,,
 ,Kelp: Shark vs Octopus,2023,boardgame,,,
 209872,Keltis,,boardgame,,,
-127023,Kemet,2012,boardgame,,,kemet-blood-and-sand
+127023,Kemet,2012,boardgame,,Identity review 2026-11-01: Blood and Sand is a distinct later edition; original Kemet needs its own record or explicit edition evidence.,
 297562,Kemet: Blood and Sand,2021,boardgame,,,
 2197,Kensington,1979,boardgame,,,
 191055,Kerala: The Way of the Elephant,,boardgame,,,kerala-the-way-of-the-elephant
@@ -1762,7 +1762,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 107529,Kingdom Builder,2011,boardgame,,,
 ,Kingdom Death: Monster,2015,boardgame,,,
 ,Kingdomino,2017,boardgame,,,
-119,Kingdoms,1994,boardgame,,,
+119,Kingdoms,1994,boardgame,,"Original1994 HansimGlück AufHellerundPfennig now separate record; not false date match to English fantasyKingdoms2002. Bibliography/physicalinventory establish1994; inspected German rules copy is©1995 reprint, explicitly scoped. Added distinct2002KN03 catalog row.",auf-heller-und-pfennig-1994
 987,Kingmaker,1974,boardgame,,,
 25693,Kings & Castles,1980,boardgame,,,kings-and-castles
 58,Kings & Things,,boardgame,,,kings-and-things
@@ -1781,7 +1781,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 8122,Konane,,boardgame,,,
 135,Kontor,,boardgame,,,
 6005,Korea: The Mobile War,,boardgame,,,korea-the-mobile-war
-,Korsar,1992,boardgame,,,
+,Korsar,1992,boardgame,,"Award-title alias at1992 selects originalAMIGO Pirat, now separate66card2–5record. ExistingKorsar explicitly revised to Heidelberger2002/Vohwinkel with documented4/6/8teamvariant; added separate2002row, no mixed-version player/deck claims.",pirat-1992
 13182,Korsun Pocket: Little Stalingrad on the Dnepr,,boardgame,,,korsun-pocket
 140535,Koryŏ,,boardgame,,,koryo
 ,Kotra,,boardgame,,,
@@ -1799,7 +1799,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 26873,Kruzno,,boardgame,,,
 7694,Krypto,,boardgame,,,
 164354,Kryptos,,boardgame,,,
-1703,Kula Kula,1991,boardgame,,,
+1703,Kula Kula,1991,boardgame,,"SeparatePerlhuhn1991 bibliography exists, but consulted detailed rules/review identify laterBlatz1993. Retained original row pending original-edition curation rather than copying later specifications. Added explicitBlatz1993row for corrected canoe/shell/oracle record.",
 108831,Kulami,,boardgame,,,
 3036,Kung Fu 2100,1980,boardgame,,,kung-fu-2100
 ,Kunglig ludo,,boardgame,,,
@@ -1809,10 +1809,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,København,,boardgame,,,kobenhavn
 40367,L'Anniversaire des triplés,,boardgame,,,l-anniversaire-des-triples
 9246,L'Attaque,1909,boardgame,,,l-attaque
-24498,L'Enclos,1982,boardgame,,,l-enclos
+24498,L'Enclos,1986,boardgame,,"2026-11-02: Independent collector rules compendium explicitly Boutin 1986, Educ Nouvelle and two-player sheep/barrier blocking rules. French publication reference specifies Vers l’Éducation Nouvelle 402, April 1986. Selected represented journal game and corrected unsupported CSV 1982; original journal issue not directly inspected, so bibliography is identified as secondary evidence and no exact original age/time label is certified.",l-enclos
 13520,La Bataille d'Albuera: Espagnol,,boardgame,,,la-bataille-d-albuera
 12898,La Bataille d'Auerstædt,1977,boardgame,,,la-bataille-d-auerstedt
-,La Bataille de Valmy,1981,boardgame,,,la-bataille-de-valmy
+,La Bataille de Valmy,1981,boardgame,,"2026-11-02: Independent No Turkeys historical retrospective explicitly Petit, Jeux Descartes 1981, two players, nominal 180 minutes and a variation on Napoleon’s Last Battles. Corrected unsupported 1986 and removed false automatic La Bataille family assignment. Original period reviews are cited by separate reference but were not themselves read; no unverified original age or precise timing bounds imported.",la-bataille-de-valmy
 30020,La Belle Alliance: The Battle of Waterloo,1976,boardgame,,,la-belle-alliance
 136280,La Boca,,boardgame,,,
 554,La Città,2000,boardgame,,,la-citta
@@ -1826,7 +1826,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,La'b Madjnuni,,boardgame,,,lab-madjnuni
 821,La-Trel,1994,boardgame,,,
 31360,Laborigines,,boardgame,,,
-62227,Labyrinth,2010,boardgame,,,
+62227,Labyrinth,2010,boardgame,,"Added originalGMT2010VolkoRuhnke simulation,1–2/USsolo,primaryplaybookandcontemporaryreview. Unrelated1986Kobbertmaze retained; livingrulebook explicitly2011revision, not falsely original. Publisherageunknown.",labyrinth-the-war-on-terror-2010
 68224,Labyrinthine,,boardgame,,,
 191681,Lagoonis,,boardgame,,,
 39488,Lamlameta,,boardgame,,,
@@ -1846,12 +1846,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 39489,Layli Goobalay,,boardgame,,,layli-goobalay
 ,Le Château Lafortune,,boardgame,,,le-chateau-lafortune
 37698,Le Cochon qui rit,,boardgame,,,le-cochon-qui-rit
-,Le Défi du Sphinx,1997,boardgame,,,le-defi-du-sphinx
+,Le Défi du Sphinx,1997,boardgame,,"2026-11-02: Independent French original-game listing explicitly release 1997, Richard Bourrelly, Ludotech, 2–4, 10+, nominal thirty minutes, educational history questions for twenty knowledge points. Corrected generic 2000 Egyptian-puzzle placeholder; original release is distinct from 1998 junior award. Age/duration are listing metadata, not an inspected box label.",le-defi-du-sphinx
 ,Le Grand Empire,,boardgame,,,
 35677,Le Havre,,boardgame,,,
 ,Le Havre: The Inland Port,2012,boardgame,,,
 246564,Le jeu aux mille titres,,boardgame,,,le-jeu-aux-mille-titres
-,Le jeu des chaises musicales,1992,boardgame,,,le-jeu-des-chaises-musicales
+,Le jeu des chaises musicales,1992,boardgame,,"2026-11-02: Identified French Habourdin game from official 1994 award history and independent catalog, with Anthony J. Vadasz/Vadaz spelling difference. References disagree 1991 versus 1992; replaced unsupported 2000 with unknown year and kept explicit CSV date conflict. Catalog supports 2–4 rather than guessed 3–8; original rules and age label not inspected.",le-jeu-des-chaises-musicales
 41126,Le Magistral,,boardgame,,,
 10855,Le Paresseux,,boardgame,,,
 225460,Leader Foot,,boardgame,,,
@@ -1859,7 +1859,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Leaf,2023,boardgame,,,
 31624,League of Six,2007,boardgame,,,
 35722,Leap Frog,,boardgame,,,
-5680,Lee vs. Grant: The Wilderness Campaign of 1864,1988,boardgame,,,lee-vs-grant
+5680,Lee vs. Grant: The Wilderness Campaign of 1864,1988,boardgame,,"2026-11-02: Contemporary Avalon Hill advertisement in The General 25/5 explicitly includes Lee vs Grant among games new in 1988. Direct retailer inventory confirms Victory Games, designer Joseph Balkoski, two players and 120–360-minute listing. Corrected unsupported record 1991; no age label or additional art credits inferred from BGG-citing secondary references.",lee-vs-grant
 ,Lee vs. Meade,,boardgame,,,
 ,Legacy of Yu,2022,boardgame,,,
 3836,Legend of the Burning Sands,,boardgame,,,legend-of-the-burning-sands
@@ -1869,62 +1869,62 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,"Legion: Tactical Warfare in the Roman Age, 100BC-700AD",,boardgame,,,legion-tactical-warfare-roman-age
 ,Legions of the Petal Throne,,boardgame,,,legions-of-the-petal-throne
 94732,Lego Heroica,,boardgame,,,lego-heroica
-10508,Leinen los!,1997,boardgame,,,leinen-los
+10508,Leinen los!,1996,boardgame,,"2026-11-02: Independent Luding catalog specifies HABA/Alex Randolph publication 1996, separately the 1997 children’s award, and links 2017 Zoch successor. Jury directly confirms finger-steered boats, cord timer, 2–4, 6+, about ten minutes. Corrected unsupported 2022 Ravensburger roll-and-write identity and unverified translated alias in existing slug; personal fields preserved.",leinen-los
 ,Leipzig: The Battle of Nations,,boardgame,,,leipzig-the-battle-of-nations
-153004,Lemming,2014,boardgame,,,
+153004,Lemming,2014,boardgame,,"Contemporary2014playedreview/BDKJtest identifyAMIGOBleasdale/Billiau terrain-cardrace,2–5/8+/30. Replaced unsupported1994Ravensburgerdexterityidentity rather than fabricate separate1994record.",lemming
 ,"Leningrad: The Advance of Army Group North, Summer 1941",,boardgame,,,leningrad-advance-army-group-north
 18144,Lensman,1969,boardgame,,,
-,Lentokilpailu-peli,1909,boardgame,,,lentokilpailu-peli
+,Lentokilpailu-peli,1909,boardgame,,"2026-11-02: National Library original metadata explicitly Helsinki, Osakeyhtiö Launis, 1909; 2018 is digitization. Original board inspected. Library explicitly says rules missing, so removed unsupported movement mechanism, player-count and age claims; timing/experience remain provisional.",lentokilpailu-peli
 21920,Leonardo da Vinci,,boardgame,,,
 ,Leopard hunt game,,boardgame,,,leopard-hunt-game
-7502,Leros: The Island Prize,1996,boardgame,,,leros-the-island-prize
+7502,Leros: The Island Prize,1995,boardgame,,"2026-11-02: Original publisher rules identify The Gamers, David A. Friedrichs, and separate series/development/graphics credit Dean N. Essig, with copyright 1995. Independent play review and Vieille Garde bibliography explicitly date original game 1995, rather than deriving publication solely from copyright. Corrected false 2009/Compass identity and selected 1995 original scope for CSV; references listing 1996 remain a chronological uncertainty. Scenario and campaign lengths differ greatly; removed misleading single-evening duration range.",leros-the-island-prize
 ,Les Aigles,,boardgame,,,
 ,Let's Go! To Japan,2024,boardgame,,,lets-go-to-japan
 6873,Letra-Mix,,boardgame,,,
 59959,Letters from Whitechapel,,boardgame,,,
 140620,Lewis & Clark: The Expedition,,boardgame,,,lewis-and-clark-the-expedition
-45,Liar's Dice,,boardgame,,,liars-dice
+45,Liar's Dice,,boardgame,,"Retained explicit canonical mapping, now scoped to original MB1987 Borg boxed game rather than false1993/traditionalDudo blend. Actual-set retailer inventory2–6/10-to-adult; generic catalog row carries no edition year.",liars-dice
 ,Liberian Queah,,boardgame,,,liberian-queah
 356033,Libertalia: Winds of Galecrest,2022,boardgame,,,libertalia-winds-of-galecrest
 3988,Life as a BlackMan,,boardgame,,,life-as-a-blackman
-6383,Life Style,1989,boardgame,,,
+6383,Life Style,1989,boardgame,,"OriginalRavensburger015726Germanrules©1989/jury/physicalinventory identifyphoto-preferenceguessing,Raffeiner/Walch,3–6/16+/45–60. Correctedfalse1973MB/Whitmanlifesimulation; advancedfavorites/jokeroptional.",life-style
 249,Lifeboats,,boardgame,,,
-2853,Liftoff!,1989,boardgame,,,
-8382,Light Division,1989,boardgame,,,
+2853,Liftoff!,1989,boardgame,,"TaskForceGames1989Bronnerspacesimulation establishedbyphysicalclubinventory andowned-copyhistory. ReplacedfalseQueen2018/KirpsMayeridentity. ActualHansimGlück2018LiftOff alreadyhasseparatelift-offrecord, untouched. Originalroles/age/timeunverified.",liftoff
+8382,Light Division,1989,boardgame,,"3W1989Balkoski/Bay modernhypotheticalHormuzgame confirmedphysicalinventory/playedreviews. Removedfalse1977SPI/Napoleonicidentity; solosuitabilitynotdedicatedbot,scenariotimesvary,maperrataexplicit.",light-division
 ,Light Speed Arena,2025,boardgame,,,
-30023,Ligny: Incomplete Victory,1976,boardgame,,,ligny-incomplete-victory
+30023,Ligny: Incomplete Victory,1976,boardgame,,"2026-11-02: SPI historical product bibliography explicitly lists Ligny folio 1446, 1976, Kevin Zucker, alongside Napoleon’s Last Battles quad. Corrected unsupported 1987/GMT claim to original SPI scope. Bibliography’s WWII era typo not adopted. Retailer confirms quad identity/year/designer; its four-player campaign, age and duration specifications were not transferred to standalone folio. Standalone counts/time remain provisional pending original rules.",ligny-incomplete-victory
 ,Limes,2014,boardgame,,,
 ,Lincoln,2018,boardgame,,,
-5174,Lingua,1969,boardgame,,,
+5174,Lingua,1969,boardgame,,"Independentoriginalhistory/physicalinventory establish1969RavensburgerBraude coloredwordplacement,2–4. Removedunsupported2006WinningMovesfastpartyidentity. Specificprinting/originalboxageunknown;ESGlistsseparate1972Casinoissue.",lingua
 11945,Linq,,boardgame,,,
 ,Lionheart,,boardgame,,,
 ,Lisboa,2017,boardgame,,,
 241266,Little Town,,boardgame,,,
-31845,Livequiz,2007,boardgame,,,
+31845,Livequiz,2007,boardgame,,"DutchIdentityGames2007 physicalcollectorentry pluscontemporaryfairreport,3–6/12+/onlinechanginganswers. Removedgeneric2005/2–8/fastest-responserules; currentanswerserviceandoriginaltimeunverified.",livequiz
 328479,Living Forest,,boardgame,,,
 27368,Living Landscapes,,boardgame,,,
 18460,Lock 'n Load: Band of Heroes,,boardgame,,,lock-n-load-band-of-heroes
 41052,Loco Motive,,boardgame,,,loco-motive
 ,Logo Board Game,,boardgame,,,
-236191,London,2017,boardgame,,,
+236191,London,2017,boardgame,,"Added separateOsprey2017secondedition,finalpublisherrulesandcontemporaryretail-copyreview.2010Treefrogoriginalretainedwithitsowncatalogrow;boroughcardsnotoriginalmap. CorrectedfalseDeckBuilding/eachturnrunclaim.",london-second-edition-2017
 1581,London Cabbie,,boardgame,,,
 2150,London's Burning,,boardgame,,,londons-burning
 40237,Long Shot,,boardgame,,,
 136991,Loony Quest,,boardgame,,,
-410991,Looot,2024,boardgame,,,
+410991,Looot,2024,boardgame,,"OriginalGigamic2024Chevallier/Escoffier/Naïade Vikingworker/tileplacement,2–4/10+/35. Replacedfalse2013RavensburgerKloßtreasuregrid; manual©2023notreleaseyear,2024physicalcopyreviewconfirmsavailability.",looot
 327,Looping Louie,1992,boardgame,,,loopin-louie
 1536,Lord of the Fries,,boardgame,,,
-823,Lord of the Rings,2000,boardgame,,,lord-of-the-rings-the-confrontation
+823,Lord of the Rings,2000,boardgame,,"Added original cooperative Knizia/JohnHowe Hasbro/Wizards2000 game,2–5/12+/60–90 from specific first-print inventory. Creator publication list/design essay and contemporary played review establish identity. Confrontation/2003children game/laterFFG revision remain separate; no base solo inferred.",lord-of-the-rings-2000
 ,Lord of the Rings - The Confrontation,2002,boardgame,,,
 102275,Lord of the Rings: The Adventure Deck Game,,boardgame,,,lord-of-the-rings-the-adventure-deck-game
 18833,Lord of the Rings: The Confrontation,,boardgame,,,
 ,Lords & Wizards,,boardgame,,,lords-and-wizards
 6687,Lords of the Middle Sea,,boardgame,,,
-110327,Lords of Waterdeep,2013,boardgame,,,
+110327,Lords of Waterdeep,2012,boardgame,,"2026-11-02: Contemporary March 2012 release/play review and original publisher rules corroborate represented original Wizards base game. Corrected generic CSV 2013 to 2012 and linked existing record; retained two-to-five counts and age 12, added cover/board credit roles, replaced unsupported 90-minute nominal with contemporary approximate 60. No sixth-player expansion specifications transferred.",lords-of-waterdeep
 21854,Los Mampfos,,boardgame,,,
 2277,Lose Your Shirt,,boardgame,,,
-185221,Lost & Found,2015,boardgame,,,lost-and-found
-8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,,lost-battles-operational-combat-russia
+185221,Lost & Found,2015,boardgame,,"2026-11-02: Publisher’s own 2019 catalog and Russian product identify Andersen’s competitive visual-memory card game, 2–6, not the unsupported solo/cooperative Brand/Zoch labyrinth placeholder. Independent H@LL9000 bibliography explicitly dates original design to 2015 and corroborates 5+, 10–15, designer and artists. Corrected year, identity, counts, credits and mode; preferred counts remain provisional.",lost-and-found
+8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,"2026-11-02: Dunnigan’s own bibliography dates his regimental Russia 1943–44 game to 1971; SPI product list and retailer corroborate original SPI identity. Corrected false 2011/MMP attribution, added designer, removed unsupported division/corps and 1941 scope. Retailer two-hour estimate is distinct from verified box timing.",lost-battles-operational-combat-russia
 ,Lost Cities,1999,boardgame,,,
 2268,Lost Patrol,,boardgame,,,
 312484,Lost Ruins of Arnak,2020,boardgame,,,
@@ -1941,7 +1941,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,ludus coriovalli,,boardgame,,,
 33690,ludus duodecim scriptorum,,boardgame,,,
 21488,Ludus latrunculorum,,boardgame,,,ludus-latrunculorum
-3646,Luftwaffe,1970,boardgame,,,
+3646,Luftwaffe,1971,boardgame,,TheStrongphysicalartifactandindependentbibliography establishLouZocchi/AvalonHill1971;correctedcatalog1970→1971andfalseDunnigancredit. BroadstrategicGermany1943–45scope;originalmanualage/scenariotimingunknown.,luftwaffe
 ,Lukho,,boardgame,,,
 228,Lunch Money,,boardgame,,,
 203401,Luther: Das Spiel,,boardgame,,,luther-das-spiel
@@ -1957,8 +1957,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,MAATAC,,boardgame,,,
 55670,Macao,,boardgame,,,
 143884,Machi Koro,2012,boardgame,,,
-286,Machiavelli,1977,boardgame,,,citadel
-193164,Macroscope,2016,boardgame,,,
+286,Machiavelli,1977,boardgame,,"Added original Battleline1977 Taylor/Wood negotiation game, separate from Citadels localized title and later AvalonHill revisions. Independent history and edition directory; original manual, age and timing unverified.",machiavelli-1977
+193164,Macroscope,2016,boardgame,,Original Lifestyle2016 game now separate from Mayday2017 English issue. Official Japanese release and independent German played bibliography establish2016 availability; exact first language/printing unverified. Corrected reversed remaining-window score; added explicit Mayday2017 row.,macroscope-2016
 764,Mad Gab,,boardgame,,,
 569,Maestro,1989,boardgame,,,
 176558,Mafia de Cuba,,boardgame,,,
@@ -1978,7 +1978,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 85245,Magician's Kitchen,,boardgame,failed,No English sources found,
 20935,Magikon,1984,boardgame,failed,No English sources found,
 16778,Magneton,,boardgame,failed,No English sources found,
-23142,Mag·Blast: Third Edition,2006,boardgame,,,mag-blast-third-edition
+23142,Mag·Blast: Third Edition,2006,boardgame,,"2026-11-02: Contemporary September 18, 2006 availability news establishes released third edition, not only an announced date. Corrected record 2007 and added co-designer Christian T. Petersen from original publisher rulebook; Robert Vaughn credited separately as third-edition developer. Removed simultaneous-action category because rules explicitly pass five-phase turns clockwise; interrupts do not make all turns simultaneous.",mag-blast-third-edition
 1713,Maharaja,,boardgame,,,maharaja-the-game-of-palace-building-in-india
 9440,Maharaja: The Game of Palace Building in India,2004,boardgame,,,maharaja-the-game-of-palace-building-in-india
 2093,mahjong,,boardgame,,,
@@ -2003,10 +2003,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 17396,Manoeuvre,,boardgame,,,
 83330,Mansions of Madness: First Edition,2011,boardgame,,,mansions-of-madness-first-edition
 205059,Mansions of Madness: Second Edition,2016,boardgame,,,
-361958,Maple Valley,2024,boardgame,,,
+361958,Maple Valley,2024,boardgame,,"Final English rules and actual December2023 Kickstarter-copy review establish represented original2023, but generic2024 row gives no language/printing and later localized editions exist. Kept pending instead of forcing original-English mapping; added explicit2023 row. Corrected cooperative feel, route/card rules and Tenney art.",
 ,Maracaibo,2019,boardgame,,,
 3063,March Madness,1991,boardgame,,,
-2280,Marco Polo,1983,boardgame,,,voyages-of-marco-polo
+2280,Marco Polo,1983,boardgame,,Added TomKremer/Schmidt1983 trading-and-travel game from visually inspected originalGerman rules and physical inventory/bibliography. Separate from2015Voyages; SpanishCEFA artist not transferred to German set.,marco-polo-1983
 99479,Mare Balticum,,boardgame,,,
 3931,Mare Nostrum,,boardgame,,,
 13881,"Marengo: Napoleon in Italy, 14 June 1800",1975,boardgame,,,marengo-napoleon-in-italy
@@ -2021,7 +2021,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Marvel Dice Throne,2022,boardgame,,,
 ,Marvel Dice Throne Missions,2025,boardgame,,,
 182276,Marvel HeroClix: Infinity Challenge,,boardgame,,,marvel-heroclix-infinity-challenge
-14808,Marvel Heroes,2006,boardgame,,,
+14808,Marvel Heroes,2006,boardgame,,"Added Nexus/FFG2006 hero-team/competing-mastermind strategy game, separate from the older MiltonBradley record. Primary rule transcript distinguishes design/additional design, board art and sculpture; contemporary shipping article confirms2006. Older record remains for separate source review.",marvel-heroes-2006
 ,Marvel Super Dice,,boardgame,,,
 ,Marvel United,2020,boardgame,,,
 ,Marvel United: Multiverse,2024,boardgame,,,
@@ -2031,8 +2031,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Massive Darkness 2: Hellscape,2022,boardgame,,,
 172358,Master Fox,,boardgame,,,
 437,Master Labyrinth,,boardgame,,,
-193322,Master of Orion: The Board Game,2016,boardgame,,,master-of-orion-the-board-game
-2392,Mastermind,1970,boardgame,,,
+193322,Master of Orion: The Board Game,2016,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-2016
+2392,Mastermind,1971,boardgame,,"Original distributor history identifies commercial launch1971;1970 is invention chronology. Corrected catalog1970→1971, scoped Invicta original without laterHasbro blend. Museum corroborates1971rights acquisition; original age/duration bounds unverified.",mastermind
 1501,Masterpiece,,boardgame,,,
 6979,Match of the Penguins,,boardgame,,,
 14074,Matchwitz,,boardgame,failed,No English sources found,
@@ -2046,7 +2046,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 5383,MechWar '77,1975,boardgame,,,mechwar-77
 ,MechWarrior: Dark Age,,boardgame,,,mechwarrior-dark-age
 46,Medici,,boardgame,,,
-24762,Medici vs Strozzi,2006,boardgame,,,medici-vs-strozzi
+24762,Medici vs Strozzi,2006,boardgame,,2026-11-02: Designer’s own list explicitly identifies German Abacus and English Rio Grande editions in 2006. Corrected false 2004/Amigo identity; separate two-player game rather than the 1995 multiplayer Medici.,medici-vs-strozzi
 1261,Medina,,boardgame,,,
 1541,Mega-Mania,,boardgame,,,
 4148,Mehen,,boardgame,,,
@@ -2054,7 +2054,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 10630,Memoir '44,,boardgame,,,
 244608,Menara,2018,boardgame,,,
 19846,Menhir,,boardgame,failed,No specific board game found,
-2136,Mensch ärgere dich nicht,1907,boardgame,,,dont-be-annoyed
+2136,Mensch ärgere dich nicht,1914,boardgame,,"2026-11-02: Museum exhibition history explicitly distinguishes early private workshop copies from commercial production beginning in 1914. Scoped record to original commercial Schmidt game and corrected unsupported 1999 edition claim. CSV 1907 is an early development date, not the represented commercial publication. Original age and timing bounds remain unknown.",dont-be-annoyed
 230,Merchant of Venus,,boardgame,,,
 32114,Merchants,,boardgame,ambiguous,"Too generic, no specific game identified",
 25292,Merchants & Marauders,2010,boardgame,,,merchants-and-marauders
@@ -2092,7 +2092,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Minuteman: The Second American Revolution,,boardgame,,,minuteman
 116463,Missing Words,,boardgame,,,
 18258,Mission: Red Planet,,boardgame,,,mission-red-planet
-1816,Mississippi,1987,boardgame,,,
+1816,Mississippi,1987,boardgame,,"Inspected originalMattel1987 folded rules confirm Siegers/3–6/10+ and fuel/numbered-boat chain movement. Replaced unsupported1992speedboat identity. Die sets starting orientation only; jury12+ differs from original10+, selected original. Independent30–60duration estimate scoped.",mississippi
 256,Mississippi Queen,1997,boardgame,,,
 21541,Missä lahjat herra Hakkarainen?,,boardgame,,,missa-lahjat-herra-hakkarainen
 24004,Missúm!,,boardgame,,,missum
@@ -2114,8 +2114,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 172386,Mombasa,2015,boardgame,,,
 73091,Momentum,2010,boardgame,,,
 91523,Mondo,2011,boardgame,,,
-1406,Monopoly,1937,boardgame,,,monopoly
-,Monopoly - Paris,1948,boardgame,,,monopoly-paris
+1406,Monopoly,1935,boardgame,,"Source review 2026-11-02: Publisher anniversary history explicitly identifies 1935 debut; generic CSV row has no regional edition qualifier. Represents Parker Brothers original, not a claim that every later edition has the same date.",monopoly
+,Monopoly - Paris,1948,boardgame,,"2026-11-02: Collector’s own inspected Miro set has first-quarter 1948 legal-deposit rules; separate owned-set listing corroborates historical Miro French identity. Selected represented rules edition, not a claim of exact box manufacture or first French Monopoly release. Removed unsupported 2012 Hasbro/Winning Moves city-souvenir blend and expansion relationship; original age/count labels unverified.",monopoly-paris
 230408,Monopoly Gamer,,boardgame,,,
 5339,Monopoly Junior,1990,boardgame,,,
 ,Monopoly: Animal Crossing,,boardgame,,,monopoly-animal-crossing
@@ -2150,7 +2150,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 21763,Mr. Jack,2006,boardgame,,,
 55427,Mr. Jack in New York,,boardgame,,,mr-jack-in-new-york
 72287,Mr. Jack Pocket,,boardgame,,,mr-jack-pocket
-476,Mr. President,,boardgame,,,
+476,Mr. President,,boardgame,,Undated row does not independently distinguish3M1967standard election game fromGMT2023solo governing simulation. Original3M also has1965/66versions; preserve source ID without guessing target. Added explicitly dated1967/2023 rows.,
 ,Mr. Trucker,,boardgame,,,
 289363,Ms. Monopoly,2019,boardgame,,,
 137152,Mucca Pazza,,boardgame,,,
@@ -2165,7 +2165,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 191004,My First Stone Age,,boardgame,,,
 7973,My Haunted Castle,1989,boardgame,failed,No sources found,
 401002,My Puzzle Adventure: Dragon,2023,boardgame,failed,No sources found,
-378476,Mycelia,2024,boardgame,,,
+378476,Mycelia,2024,boardgame,,Original SplitStone2024 finished release follows2023demo/crowdfunding; actual inventory/review and©2024rules corroborate. Clarified two DIFFERENT actions chosen from six. Direct interference/automata solo clarified; no over69species claim from69cards. Ravensburger same-title deckbuilder separate.,mycelia
 21441,Mykerinos,,boardgame,,,
 126792,Myrmes,,boardgame,,,
 1950,Mysteries of Old Peking,,boardgame,failed,No sources found,
@@ -2184,7 +2184,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 152,Mü & More,,boardgame,,,mu-and-lots-more
 32928,Mü and Lots More,,boardgame,,,mu-and-lots-more
 6874,Müller und Sohn,,boardgame,failed,No sources found,
-13657,Mū Tōrere,,boardgame,failed,"Traditional Maori game, no manufactured board game",
+13657,Mū Tōrere,,boardgame,,"Historical failed-research note: Traditional Maori game, no manufactured board game. Superseded 2026-11-02: traditional games are within product scope; independent rules/heritage sources now support a distinct record. Ratings/duration remain provisional.",mu-torere
 54433,Nanuk,,boardgame,,,
 1662,Napoleon,,boardgame,,,napoleon-the-waterloo-campaign
 ,Napoleon at Bay,,boardgame,,,
@@ -2219,7 +2219,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 34615,New World: A Carcassonne Game,2008,boardgame,,,new-world-a-carcassonne-game
 856,"New York, New York",,boardgame,ambiguous,Multiple games with this name,
 244711,Newton,,boardgame,,,
-353545,Next Station: London,2023,boardgame,,,
+353545,Next Station: London,2023,boardgame,,"Original Blue Orange English2022 established by actual May2022 review and rules. Fractal explicitly dates first Spanish edition2023, but generic CSV2023 gives no language/edition. Retained pending rather than guessing Spanish or treating award/localization date as original English publication; separate original-English2022 row added.",
 15363,Nexus Ops,,boardgame,,,
 4255,Ney vs. Wellington: The Battle of Quatre Bras,1979,boardgame,failed,"Very obscure wargame, no sources",
 12601,NFL Showdown,,boardgame,failed,"Sports card game, no sources",
@@ -2229,12 +2229,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 88408,Nightfall,,boardgame,,,
 5641,Nightmare,,boardgame,,,nightmare-atmosfear
 95840,Nimbi,,boardgame,failed,No sources found,
-3886,nine men's morris,,boardgame,failed,"Traditional game, insufficient standalone sources",
+3886,nine men's morris,,boardgame,,"Historical failed-research note: Traditional game, insufficient standalone sources. Superseded 2026-11-02: traditional games are within product scope; independent rules/heritage sources now support a distinct record. Ratings/duration remain provisional.",nine-mens-morris
 72957,Nino Delfino,2010,boardgame,failed,No sources found,
 ,Ninuki-renju,,boardgame,failed,Abstract traditional game,
 1107,Njet,,boardgame,,,
 11036,No Middle Ground,,boardgame,failed,No sources found,
-68264,No Retreat! The Russian Front,2011,boardgame,,,no-retreat-the-russian-front
+68264,No Retreat! The Russian Front,2011,boardgame,,"2026-11-02: Record now explicitly represents the 2011 GMT deluxe edition, not the smaller 2008 Victory Point original. Publisher-hosted 2011 rules and independent original play review corroborate scope; corrected art credits and false claim of a separate 55-card deck for each side.",no-retreat-the-russian-front
 12942,No Thanks!,,boardgame,,,no-thanks
 28962,No Time For Sergeants,,boardgame,failed,No sources found,
 9597,Noah's Park,,boardgame,failed,No sources found,
@@ -2268,14 +2268,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 39610,Obridjie,,boardgame,,,
 12568,Obsession,2018,boardgame,,,
 42795,Obélix contre Hattack,,boardgame,,,obelix-contre-hattack
-26507,Occhio!,1997,boardgame,,,
+26507,Occhio!,1997,boardgame,,Official Lucca archive and independent history identify original Lamberti/Jokerman 1997 two-player abstract. Corrected detailed 1998 and unsupported extra seats/movement details. Original manual/age unverified; fifteen-minute estimate provisional.,occhio
 14196,Ocean Trader,,boardgame,,,
 14017,Oceania,,boardgame,,,
 232414,Oceans,2020,boardgame,,,
 450,Octi,,boardgame,,,
 94625,Octoverso,,boardgame,,,
 4396,Odin's Ravens,,boardgame,,,odins-ravens
-,Odysea Organization,2024,boardgame,,,
+,Odysea Organization,2024,boardgame,,"Replaced unsupported 2010 space mission with Petr Kmošek’s Czech 2024 workplace card workshop, ISBN 978-80-11-05325-3. Creator/retailer identity corroborates; public preview omits full rules and some cards. Participant counts/age unknown; no independent business-outcome validation.",odysea-organization
 1378,Odysseus,,boardgame,,,
 5206,Ogre,,boardgame,,,
 3435,Oh ! les nains,,boardgame,,,
@@ -2284,11 +2284,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 29146,Okey,,boardgame,,,
 ,Okey 101,,boardgame,,,
 ,Okinawa: The Last Battle,,boardgame,,,
-125311,Okiya,2012,boardgame,,,
+125311,Okiya,2012,boardgame,,"Creator’s November 2012 Jactalea announcement and independent played review resolve original date/art. Corrected detailed 2013/Blue Orange blend to Jactalea 2012/Cyril Bouquet, 2/8+/about10. Later Niya packaging and PnP rules distinguished.",okiya
 36910,Oktaeder,,boardgame,,,
 ,Old King's Crown,2025,boardgame,duplicate,Same as The Old King's Crown,old-kings-crown
 13551,Oltre Mare,,boardgame,,,
-1598,Olympica,1978,boardgame,,,
+1598,Olympica,1978,boardgame,,"Contemporary publisher ad and physical-edition index identify Willis/Metagaming 1978 MicroGame 07, not Jackson/1980. Corrected design/art and false snack-length rating. Full original manual/age/time labels uninspected; Jackson is a playtester.",olympica
 92319,Olympos,,boardgame,,,
 3086,Omega Virus,,boardgame,,,
 94104,Omen: A Reign of War,,boardgame,,,
@@ -2309,14 +2309,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 70149,Ora et Labora,2011,boardgame,,,
 ,Oranienburger Kanal,2023,boardgame,,,
 30011,"Orbit, a Brain Game",,boardgame,,,
-5770,Orchard,1986,boardgame,,,
+5770,Orchard,1986,boardgame,,"Added separate HABA classic 1986 cooperative children’s harvest/raven-puzzle game, from original-publisher retrospective, legacy3103rules and2006anniversary account. Not Tuck solitaire or First Orchard 2009. Consulted legacy2–8 differs from later1–8 issues; manufacturing date unknown.",orchard-1986
 31497,Oregon,,boardgame,,,
 721,Oregon Trail,,boardgame,,,
 ,Organized Crime,,boardgame,,,
 ,Orgy,,boardgame,,,
 2363,Orient Express,,boardgame,,,
 287084,Oriflamme,2019,boardgame,,,
-313261,Oriflamme: Ablaze,2020,boardgame,,,oriflamme-ablaze
+313261,Oriflamme: Ablaze,2020,boardgame,,"2026-11-02: Retailer English-product first-publication metadata gives 2020, corroborated by French retail release 6 November 2020 in indexed text. Publisher/distributor confirms independent play and optional combination; record now scopes original standalone set rather than requiring a base game. Corrected record 2021; note current French/UK timing and character-count wording differences rather than silently mixing them.",oriflamme-ablaze
 352981,Oriflamme: Alliance,2022,boardgame,,,oriflamme-alliance
 127095,Origin,,boardgame,,,
 ,Origin Story,2025,boardgame,,,
@@ -2385,7 +2385,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 64829,Patzam,,boardgame,,,
 ,Pax Pamir: Second Edition,2019,boardgame,,,
 17393,Pax Romana,,boardgame,,,
-1797,Pay Day,1974,boardgame,,,
+1797,Pay Day,1974,boardgame,,"Early rules carry copyright 1974 while AGPI identifies U.S.1975 catalog marked new; possible earlier Canadian edition not independently resolved. Kept generic 1974 row pending, added represented U.S.1975 row. Corrected cooperative feel and unsupported universal30-minute duration.",
 1498,Paydirt,,boardgame,,,
 319754,Peek-a-Mouse,,boardgame,,,
 13713,peg solitaire,,boardgame,,,
@@ -2415,10 +2415,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 4290,Pickett's Charge,,boardgame,,,picketts-charge
 15818,Pickomino,,boardgame,,,
 2281,Pictionary,1985,boardgame,,,
-22889,Pictureka!,2006,boardgame,,,
+22889,Pictureka!,2006,boardgame,,"Mapped original 2006 to Lauwers Games Project X, established by contemporary played review/Essen notice and later renaming. Added explicit 2007 Parker row for retained record. Original Project X threshold/box labels uninspected; later Hasbro rule PDFs not called original 2006 manual.",project-x-2006
 284108,Pictures,,boardgame,,,
 37371,Piece o' Cake,,boardgame,,,
-10510,Piepmatz,1995,boardgame,,,
+10510,Piepmatz,1995,boardgame,,"Independent references establish both Girsch/F.X. Schmid search game and KRAG/HABA tree race in 1995, each separate from Lookout 2018 cards. Generic row/sourceID not independently disambiguated; remains pending. Added explicit 2018 card-game row and restored Langman art; English8+ versus current web10+ guidance explicit.",
 11022,Pig,,boardgame,,,
 15064,Pimp: The Backhanding,,boardgame,,,pimp-the-backhanding
 355947,Pin Pon!,,boardgame,,,
@@ -2431,11 +2431,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 2987,Pirate's Cove,2002,boardgame,,,pirates-cove
 23308,Pirates of the Caribbean Trading Card Game,,boardgame,failed,No sources found,
 127652,Pirates!,,boardgame,failed,No sources found,
-,Piratissimo,2006,boardgame,,,
+,Piratissimo,2006,boardgame,,"Original Selecta 3585 rules and independent physical bibliography establish 2005, Ludwig/Kinzebach. Generic 2006 may reflect nomination/distribution, printing not established; remains pending with explicit 2005 row. Later Pegasus 2016 reissue kept separate. Corrected old 2003/Rio Grande blend.",
 ,PitchCar,1995,boardgame,,,
 1259,Pivot,,boardgame,failed,"Too generic, no sources found",
 28050,Pixel,,boardgame,,,
-200890,Pixie Queen,2017,boardgame,,,
+200890,Pixie Queen,2017,boardgame,,"Finished 2017 copy review and Game Brewer GAB001 inventory distinguish release from2016campaign. Production rules restore Jochem Van Gool art and highest final total, not fewest positive points. English original box labels uninspected; about100 retail guidance, 2–5/12+.",pixie-queen
 17851,Pizza Box Football,,boardgame,,,
 99808,Pizza Theory,,boardgame,,,
 ,Pizza Wars Imperium,,boardgame,,,pizza-wars-imperium
@@ -2456,7 +2456,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7993,Pole Position,,boardgame,,,
 69779,Polis: Fight for the Hegemony,,boardgame,,,polis-fight-for-the-hegemony
 27172,Ponte del Diavolo,,boardgame,,,
-42490,Pony express,2009,boardgame,,,
+42490,Pony express,2009,boardgame,,"Creator history and original-rule credits identify separate Faidutti/Bauza/Funforge 2009 race, with Beaulieu illustration and 3–5/8+/45–60 guidance. Polygon 1947 record retained separately; no false edition/compatibility link.",pony-express-2009
 122970,Popkult,,boardgame,,,
 27356,Portobello Market,,boardgame,,,
 23427,Posse: Thirteen Against One,,boardgame,,,posse-thirteen-against-one
@@ -2473,10 +2473,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 38531,Powerboats,,boardgame,,,
 367295,Powerline,2022,boardgame,,,
 103460,Pox: Save the People,,boardgame,,,
-,Presidential Campaign,,boardgame,,,
+,Presidential Campaign,,boardgame,ambiguous,"Generic phrase is not an independently verified commercial alias. Existing historical filename described3M Mr.President, whose actual title/1967revision are now explicit; filename alone cannot establish this CSV identity. Excluded ambiguous pending identity evidence.",
 ,PRESTAGS,,boardgame,,,
 6549,Pretty Pretty Princess,,boardgame,,,
-159375,Prime Climb,2014,boardgame,,,
+159375,Prime Climb,2014,boardgame,,"Purchased and played finished copy in December 2014 establishes availability. Official rules confirm red-prime restrictions, exact 101, 2–4 main game and printed solo variants. Corrected unsupported 2012 date; original printing/art remain unverified.",prime-climb
 124,Primordial Soup,,boardgame,,,
 9354,Privacy,,boardgame,,,
 2060,Probe,,boardgame,,,
@@ -2486,12 +2486,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 8095,Prophecy,,boardgame,,,
 2211,Proteus,,boardgame,,,
 12570,Provopoli,,boardgame,,,
-428787,Présages,2025,boardgame,,,presages
+428787,Présages,2025,boardgame,,"2026-11-02: Corrected record 2024 to original March 2025 publication from independent original play review, which explicitly distinguishes a 2024 festival encounter. Publisher confirms competing teams, 4–6, 10+, thirty minutes. Removed false universally cooperative premise, two/three-player support, drafting tag and unverified award assertions. Preferred even-team sizes are provisional.",presages
 3228,Pueblo,2002,boardgame,,,
 ,Puerto Rico,2002,boardgame,,,
 126005,Punaisten ja valkoisten taistelu Suomessa 1918,1918,boardgame,,,
 23418,Pursuit of Glory,,boardgame,,,
-23033,Push,2001,boardgame,,,
+23033,Push,2001,boardgame,,"Creator chronology and independent played review identify Mühlhäuser wooden flicking game listed in 2001, separate from Ravensburger cards. First printing and original publisher unverified: company founded 2003. Specifications follow later reviewed issue, not inspected 2001 box.",push-2001
 172542,Push a Monster,,boardgame,,,
 ,Push puppets,,boardgame,,,
 7065,Pusher,,boardgame,,,
@@ -2507,12 +2507,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,quantum chess,,boardgame,,,
 91536,Quarriors!,2011,boardgame,,,
 681,Quarto,1991,boardgame,,,
-19242,Quazar,1977,boardgame,,,
+19242,Quazar,1977,boardgame,,"Publisher’s contemporary sale advertisement and independent bibliography identify Excalibre 1977 science-fiction wargame, replacing unsupported 1980 short abstract. Original manual, precise duration, age and creator credits unverified. Advertisement has open-ended 2+ wording, not a tested large-group maximum.",quazar
 13714,Qubic,,boardgame,,,
 85,Quebec 1759,,boardgame,,,
 ,Quebec Libre,,boardgame,,,
 6068,Queen's Necklace,,boardgame,,,queens-necklace
-316287,Quest,2021,boardgame,,,
+316287,Quest,2021,boardgame,,"Contemporary played review and specific IBCQUE1 inventory establish Eskridge/Indie 2021 social deduction game, not unsupported generic 1997 fantasy set collection. 4–10/14+/about 30; German publisher rules distinguish roles/endings without certifying original English printing.",quest
 2518,Quicksand,1989,boardgame,,,
 339,Quiddler,,boardgame,,,
 24770,Quietville,,boardgame,,,
@@ -2520,10 +2520,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 2478,Quirks,1980,boardgame,,,
 7995,Quits,,boardgame,,,
 3190,Quixo,,boardgame,,,
-33628,Quizimaze,1986,boardgame,,,
+33628,Quizimaze,1986,boardgame,,"Inspected actual Wilfred Canadian English box copyright 1986 and all six scanned manual pages (copyright 1986/1988): 2–8/10+/1–3 hours, illustrated trivia and pivoting gates. Bibliographic box date, not exact first-sale certification; official filing/use declarations distinguished. Designer/art unknown.",quizimaze
 31113,Quod,,boardgame,,,
 624,Quoridor,,boardgame,,,
-,Qwirkle,2011,boardgame,,,
+,Qwirkle,2006,boardgame,,"Source review 2026-11-02: Contemporaneous June 2011 reporting explicitly distinguishes US publication 2006, German publication 2010 and 2011 award. CSV now selects represented MindWare original; removed unsupported sales-count claim.",qwirkle
 39813,Qwirkle Cubes,,boardgame,,,
 12,Ra,1999,boardgame,,,
 5986,Ra: Strategy Among Hexagons,1981,boardgame,failed,No sources found,
@@ -2543,14 +2543,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 3561,Ram Speed,,boardgame,,,
 2629,Ramses II,,boardgame,,,
 6929,Ranger: Simulation of Modern Patrolling Operations,,boardgame,,,ranger
-7770,Rapier & Dagger,1978,boardgame,,,rapier-and-dagger
+7770,Rapier & Dagger,1978,boardgame,,"2026-11-02: Archived original FGU catalog mirror and retailer’s own booklet inventory independently specify 1978, Wilf K. Backhaus, FGU and paper/miniature fencing systems. Corrected false 1975 and abstract-grid placeholder; stock 1108 identifies original rules publication, not a required Chivalry & Sorcery expansion.",rapier-and-dagger
 18143,Rare Species,,boardgame,,,
 16497,Rat Hot,,boardgame,,,
 4479,Ratrace,,boardgame,,,
 387780,Rats of Wistar,2023,boardgame,,,
-27940,RattleSnake,2007,boardgame,,,
+27940,RattleSnake,2007,boardgame,,"English Nexus copyright-2007 production rules plus independent contemporary played reference establish Di Meglio magnetic-egg game, not false 1994 plastic toy. Mattioli art distinguished from Maiorana graphics, 2–4/8+, no timer, competitive empty-supply victory. Exact original English printing uninspected.",rattlesnake
 42452,Rattus,,boardgame,,,
-34848,Raumschach,,boardgame,,,
+34848,Raumschach,,boardgame,,"Specific five-board Normal Form distinguished from generic 3D-chess family overview, now archived unchanged without alias. 1907 is early invention, not verified first publication of this exact ruleset; detailed year unknown. Normal Form has ten pawns/two unicorns per side, unlike Maack’s 1913 five-pawn arrangement.",raumschach
 12645,Rave,,boardgame,,,
 12589,Razzia!,,boardgame,,,
 59776,Razzo Raketo,,boardgame,,,
@@ -2574,17 +2574,17 @@ bgg_id,name,year,type,status,notes,yaml_id
 262712,Res Arcana,,boardgame,,,
 93006,Resan genom Sagoland,,boardgame,,,
 3249,Rescue from the Hive,1981,boardgame,,,rescue-from-the-hive
-233896,Resident Evil 2: The Board Game,2019,boardgame,,,resident-evil-2-the-board-game
+233896,Resident Evil 2: The Board Game,2019,boardgame,,"2026-11-02: Contemporaneous December 2018 trade report sets retail base-game launch for January 25, 2019. Record now explicitly represents that retail product; this does not rule out earlier backer deliveries. Publisher separately confirms 1–4, 90–120 minutes, age 14+.",resident-evil-2-the-board-game
 256680,Return to Dark Tower,,boardgame,,,
 14982,Revenge of the Dinosaurs,,boardgame,,,
 332772,Revive,2022,boardgame,,,
 2213,Revolt On Antares,,boardgame,,,
-76150,Revolver,2011,boardgame,,,
+76150,Revolver,2011,boardgame,,"White Goblin original English2011 established by copyright rules and contemporary actual Essen play; designer Chaplin/illustrator Nieto restored. Stronghold2012 and Revolver2 not merged. Fixed decks, alternating turns and both gang victory routes restored.",revolver
 104363,Rex: Final Days of an Empire,,boardgame,,,rex-final-days-of-an-empire
 111,Rheinländer,1999,boardgame,,,rheinlander
 91514,Rhino Hero,,boardgame,,,
 218333,Rhino Hero Super Battle,2017,boardgame,,,rhino-hero-super-battle
-9441,Ribbit,2004,boardgame,,,
+9441,Ribbit,2004,boardgame,,"Generic2004 reference represents original Knizia Winning Moves German Schildkrötenrennen, not SimplyFun frog2007. Creator bibliography and actual2004 play establish selected2004 issue; rule footer copyright2003 does not certify first sale. Separate2007 frog row added.",schildkrotenrennen-2004
 3554,Rich Uncle,1946,boardgame,,,
 25277,Richard III: The Wars of the Roses,,boardgame,,,richard-iii-the-wars-of-the-roses
 1711,Richthofen's War,,boardgame,,,richthofens-war
@@ -2601,16 +2601,16 @@ bgg_id,name,year,type,status,notes,yaml_id
 137297,Rise of Augustus,,boardgame,,,
 111866,Rise!,,boardgame,,,
 ,RisiKo!,,boardgame,,,
-181,Risk,1957,boardgame,,,
+181,Risk,1957,boardgame,,"Original1957 reference now explicitly maps to Miro French La Conquête du Monde, separate from Parker1959 Risk. Museum/history and original French scan support identity; exact scanned printing/age unknown. Explicit1959 row retains Parker record.",la-conquete-du-monde-1957
 1829,Risk 2210 A.D.,,boardgame,,,risk-2210-ad
 10383,Risk Godstorm,,boardgame,,,
 105134,Risk Legacy,2011,boardgame,,,
 17118,Rithmomachia,,boardgame,,,
 373055,Ritual,2022,boardgame,,,
-634,River Dragons,2000,boardgame,,,
+634,River Dragons,2000,boardgame,,"Original2000 reference now maps to Descartes/Eurogames Dragon Delta, from creator history and actual original-game review. Later Matagot reissue has separate2013 U.S.-available row; creator2012/2013 chronology conflict remains explicit.",dragon-delta-2000
 ,River of Gold,2024,boardgame,,,
 2573,"Rivers, Roads & Rails",,boardgame,,,rivers-roads-and-rails
-,Riviera Quest,1989,boardgame,,,
+,Riviera Quest,1989,boardgame,,March1989 contemporary magazine establishes French RivieraQuest journey-game presentation/availability;2001 placeholder unsupported. Creator roles conflict between contemporary Gaudo/Rohmer and official award Chinchilla. Rules/counts/age/duration/experience unknown and cleared; mapped identity does not certify practical play details or first sale.,riviera-quest
 875,Roads & Boats,,boardgame,,,roads-and-boats
 ,Robert at Bannockburn,,boardgame,,,
 ,Robinson Crusoe,,boardgame,,,
@@ -2620,7 +2620,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 296514,Robots,,boardgame,,,
 2160,Robots!,,boardgame,,,robots-card-game
 ,Rock Hard: 1977,2024,boardgame,,,
-1184,Rock Island,1987,boardgame,,,
+1184,Rock Island,1987,boardgame,,Independent bibliography and identified original-box inventory support Hans im Glück1987/Blumöhr/2–4/8+ train race. Replaced ungrounded1999 abstract placeholder. Mattel Zug nach Westen credit/age and unverified original art not merged; no original manual read.,rock-island
 21239,Rocketville,,boardgame,,,
 144344,Rococo,2013,boardgame,,,
 1558,Rogue Trooper,,boardgame,,,
@@ -2628,7 +2628,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 37380,Roll Through the Ages: The Bronze Age,2008,boardgame,,,roll-through-the-ages-the-bronze-age
 4587,Roller Coaster Hippo,1988,boardgame,,,roller-coaster-hippo
 3567,RollerCoaster Tycoon,,boardgame,,,
-331820,Rolling Heights,2023,boardgame,,,
+331820,Rolling Heights,2023,boardgame,,"2026-11-02: Contemporary February 2023 own-stock notice and publisher shipment/solo correction distinguish actual original release from 2022 crowdfunding and still older linked rules copyright. Corrected detailed 2022 to 2023, retained CSV year and linked original English AEG SKU 7085. Publisher FAQ/erratum explicitly support solo notwithstanding page/rules multiplayer header; original solo requires ordinary d6 accidentally omitted from manufactured box. Added primary-rule Moriya art, standing/sideways/exhausted worker effects and workforce cap; removed false bag-building tag and Party estimate.",rolling-heights
 99630,Rolling Stock,,boardgame,,,
 2637,Rome at War series,,boardgame,,,rome-at-war-series
 ,"Rome: Imperium, Circus Maximus, Hannibal vs Rome",,boardgame,,,rome-imperium-circus-maximus-hannibal-vs-rome
@@ -2637,12 +2637,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 237182,Root,2018,boardgame,,,
 1602,Royal Game of Ur,,boardgame,,,royal-game-of-ur
 3080,RSVP,,boardgame,,,
-3081,Rubik's Flip,1981,boardgame,,,rubiks-flip
+3081,Rubik's Flip,1981,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",
 614,Rubik's Puzzle Match,,boardgame,,,rubiks-puzzle-match
 19948,Rum & Pirates,,boardgame,,,rum-and-pirates
 6411,Rumis,,boardgame,,,
 811,Rummikub,,boardgame,,,
-9794,Rummoli,1941,boardgame,,,
+9794,Rummoli,1941,boardgame,,Museum cataloged1940 artifact and copyright1940 rules establish selected early CoppClark scope; no independently established1941 printing or first-sale date. Retained generic1941 row pending and added explicit1940 row. Corrected false trick-taking tag and fixed duration; original age unknown.,
 181530,Runebound,,boardgame,,,
 59294,Runewars,2010,boardgame,,,
 ,Russian Civil War 1918–1922,,boardgame,,,russian-civil-war-1918-1922
@@ -2668,7 +2668,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3,Samurai,,boardgame,,,
 5235,Samurai Blades,,boardgame,,,samurai-blades
 158900,Samurai Spirit,,boardgame,,,samurai-spirit
-166669,San Juan,,boardgame,,,
+166669,San Juan,,boardgame,,Plain undated title matches both original 2004 and second 2014 editions. Existing discovery identifier retained but not treated alone as verified edition evidence; no arbitrary original-edition link. Explicit original-2004 row added; existing second-edition 2014 row retained. Rules distinguish 110 base cards from second edition’s 33 additional cards and cathedral.,
 1041,San Marco,2001,boardgame,,,
 1571,Sanctuary,,boardgame,,,
 80933,Sandwich,,boardgame,,,
@@ -2680,7 +2680,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 368352,Satori,2023,boardgame,,,
 4518,Sauerbaum,1986,boardgame,,,
 1330,Savannah Café,2001,boardgame,,,savannah-cafe
-1157,Save Doctor Lucky,2000,boardgame,,,save-doctor-lucky
+1157,Save Doctor Lucky,2000,boardgame,,"2026-11-02: Designer’s own archive explicitly release 2000, James Ernest/Damon Brown, 3–7 and forty minutes. Corrected record 2004, unsupported 2/8-player support and false rescue-in-secret rule: a winning rescue needs a witness. Shared-loss deadline does not make victory cooperative.",save-doctor-lucky
 ,Save the President,,boardgame,,,
 369142,Savernake Forest,2023,boardgame,,,
 33604,Say Anything,,boardgame,,,
@@ -2747,8 +2747,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 3438,Shendao,,boardgame,failed,No sources found,
 ,Shengguan Tu,,boardgame,,,
 157969,Sheriff of Nottingham,,boardgame,,,
-2511,Sherlock Holmes Consulting Detective,1981,boardgame,,,
-,Sherlock Holmes: Consulting Detective,1985,boardgame,,,
+2511,Sherlock Holmes Consulting Detective,1981,boardgame,,"Original English Sleuth Publications binder chronology: independent scholarly history and original-copy seller support 1981; some references date boxed release 1982. Corrected false detailed 1985 award-as-release and modern Space Cowboys publisher blend. Original rules allow solo, competing pair and group modes without a stated maximum; later specs not transferred.",sherlock-holmes-consulting-detective
+,Sherlock Holmes: Consulting Detective,1985,boardgame,,2026-11-02: Earlier automatic match depended on the detailed record’s incorrect award-year 1985 and blended modern specifications. Detailed record now explicitly represents original English Sleuth 1981 (1982 boxed chronology also reported). Unqualified 1985 row could reflect award/localization/reprint context; retained pending rather than forcing an original-English mapping or inventing its edition. German Criminal-Cabinet award evidence does not itself establish this row’s English printing.,
 41019,Sherwood Forest,2009,boardgame,,,
 199611,Shiftago,,boardgame,,,
 11949,Shifting Sands: The Campaign for North Africa 1940-1943,,boardgame,,,shifting-sands
@@ -2835,7 +2835,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 84419,Space Empires 4X,,boardgame,,,
 ,Space Future,,boardgame,,,
 5685,Space Hop,,boardgame,,,
-2163,Space Hulk,1989,boardgame,,,deathwing
+2163,Space Hulk,1989,boardgame,,"Identity review 2026-11-01: Deathwing is an expansion, not the 1989 base game.",
 71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,space-hulk-death-angel
 ,Space Lines,,boardgame,,,
 25750,Space Marine Assault,,boardgame,,,
@@ -3104,7 +3104,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Test of Arms,,boardgame,,,
 26993,Teufelsrad,,boardgame,,,
 85287,Thai checkers,,boardgame,,,
-17240,That's Life!,2005,boardgame,,,thats-life
+17240,That's Life!,2005,boardgame,,"2026-11-02: Independent original play review explicitly dates Ravensburger original to 2005; jury confirms 2–6, eight-plus, thirty minutes and distinguishes 2020 AMIGO relaunch. Corrected record 2004, omitted sixth player and unsupported duration bounds.",thats-life
 38359,The 3 Commandments,,boardgame,,,
 180263,The 7th Continent,,boardgame,,,
 43868,The Adventurers: The Temple of Chac,,boardgame,,,
@@ -3129,7 +3129,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 144553,The Builders: Middle Ages,,boardgame,,,
 6826,The Campaigns of Robert E. Lee,,boardgame,,,
 40005,The Caravan,,boardgame,,,karawane
-7389,The Castle (board game),,boardgame,,,the-castle-carcassonne
+7389,The Castle (board game),,boardgame,,2026-11-02: Original discovery article The Castle (board game) identifies a 1981 Mayfair game; independent museum finding aid preserves The Castle development papers from 1981. Cleared false link to the 2003 Knizia Carcassonne spinoff. Separate Mayfair record remains pending suitable rules/specification research; no player-count or designer facts guessed.,
 25951,The Castle of the Devil,,boardgame,,,
 84876,The Castles of Burgundy,2011,boardgame,,,
 186095,The Cat's Pajamas,,boardgame,,,the-cats-pajamas
@@ -3140,7 +3140,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Conquerors,,boardgame,,,
 5446,The Conquest of Oil,1973,boardgame,,,
 68475,The Cottage of Content or the Blessings of Cheerfulness & Good Temper,,boardgame,,,the-cottage-of-content
-,The Crew,2020,boardgame,,,the-crew-quest-for-planet-nine
+,The Crew,2020,boardgame,duplicate,"2026-11-02: Short title originates from the Kennerspiel des Jahres Winners source, dated to its 2020 award. Publisher explicitly gives first publication 25 September 2019. Duplicate of the existing full-title 2019 row; no separate regional edition was specified. Award-year value retained as historical context; explicit mapping cleared so exclusion is honored.",
 284083,The Crew: The Quest for Planet Nine,2019,boardgame,,,the-crew-quest-for-planet-nine
 31725,The Crocodile-Game,1987,boardgame,,,
 54201,The d6 Shooters,,boardgame,,,
@@ -3174,7 +3174,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 25988,The game of fortress and siege,,boardgame,,,
 746,"The Game of France, 1940",,boardgame,,,
 ,The Game of Jaws,,boardgame,,,
-2921,The Game of Life,1960,boardgame,,,jinsei-game
+2921,The Game of Life,1960,boardgame,,"Identity review 2026-11-01: Jinsei Game represents the 1968 Japanese adaptation, not the original 1960 US game.",
 15731,The Game of Life Card Game,,boardgame,,,
 14245,The Game of the District Messenger Boy,,boardgame,,,
 ,The Gang,2024,boardgame,,,
@@ -3302,11 +3302,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 2215,They've Invaded Pleasantville,,boardgame,,,theyve-invaded-pleasantville
 13208,Thin Ice,1989,boardgame,,,thin-ice-1989
 379932,Third Crusade,2024,boardgame,,,third-crusade-2024
-2904,Third Reich/Great Pacific War series,,boardgame,,,
+2904,Third Reich/Great Pacific War series,,boardgame,skip,"Family-level discovery entry, not one playable game/edition. Publisher rules distinguish AvalanchePress ThirdReich,GreatPacificWar and combinedSecondWorldWar; prior YAML wrongly described AvalonHill/GMT lineage. Archived unchanged as non-game overview; skip preserves source ID and avoids mapping to arbitrary member.",
 ,Thiruthamizh,,boardgame,,,
 188920,This War of Mine: The Board Game,,boardgame,,,
 ,Thomas the Tank Engine Game,,boardgame,,,
-,three-dimensional chess,,boardgame,,,
+,three-dimensional chess,,boardgame,skip,Generic family overview spans multiple playable variants and falsely gave one Maack date/designer as universal. Original YAML archived byte-for-byte with empty owner fields; no alias to a particular game. Raumschach remains separately represented in documented Normal Form.,
 20806,Three-Dragon Ante,,boardgame,,,
 7108,three-player chess,,boardgame,,,
 ,Through the Ages,2006,boardgame,,,through-the-ages-2006
@@ -3345,9 +3345,9 @@ bgg_id,name,year,type,status,notes,yaml_id
 18549,Tickle Bee,,boardgame,,,
 22825,Tide of Iron,,boardgame,,,
 232444,Tief im Riff,2017,boardgame,,,
-39210,Tier auf Tier: Das Duell,,boardgame,,,
+39210,Tier auf Tier: Das Duell,,boardgame,,"Original HABA multilingual 4340, 2008: primary rules name Peise/Miltenberger, Bayer, two/5+/about ten minutes and simultaneous race to three coins. Contemporary January 2009 play review explicitly labels Jahrgang 2008. Removed false alias from unrelated Kuhhandel/You’re Bluffing!.",tier-auf-tier-das-duell
 22206,Tieto & Taito & Temppu,2002,boardgame,,,
-,Tiger game,,boardgame,,,
+,Tiger game,,boardgame,skip,Family-level Tiger game overview was archived unchanged in prior checkpoint. This remaining generic CSV row describes no single playable ruleset; markskip rather than leave unmatched or map arbitrarily to NepaliBaghChal. Specific traditional games remain in scope; source ID/row preserved.,
 42,Tigris and Euphrates,1997,boardgame,,,
 54,Tikal,,boardgame,,,
 34373,Tiki Topple,2008,boardgame,,,
@@ -3457,12 +3457,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 24,Twilight Imperium,1997,boardgame,,,twilight-imperium-1997
 12333,Twilight Struggle,,boardgame,,,
 5894,Twister,,boardgame,,,
-,two-player chess,,boardgame,,,
+,two-player chess,,boardgame,duplicate,2026-11-02: Duplicate of standard Chess (chess); old two-player-chess YAML archived unchanged. Reviewed duplicate-record consolidation: standard Chess and two-player chess described the same two-opponent game under FIDE rules. Retired two-player-chess YAML unchanged to dated archive; retained canonical chess and its unknown publication/age facts. No owner ratings or play history existed in the retired record.,
 2161,Tyranid Attack,,boardgame,,,
 719,Tyranno Ex,1990,boardgame,,,
 3230,Tyros,,boardgame,,,
 31999,Tzaar,2007,boardgame,,,
-126163,Tzolk'in: The Mayan Calendar,2013,boardgame,,,tzolkin-the-mayan-calendar
+126163,Tzolk'in: The Mayan Calendar,2012,boardgame,,Identity review 2026-11-02: Publisher base-game factsheet explicitly gives Q4 2012; the 2013 Tribes & Prophecies expansion is separate.,tzolkin-the-mayan-calendar
 8727,"U.S.N.: The Game of War in the Pacific, 1941–43",1971,boardgame,,,usn-game-of-war-pacific
 16986,Ubongo,2003,boardgame,,,
 46396,Ubongo 3D,,boardgame,,,
@@ -3575,7 +3575,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6253,Wacht am Rhein,1977,boardgame,,,
 1422,Wadjet,,boardgame,,,
 239,"Wagram: The Peace of Vienna, 5-6 July 1809",1975,boardgame,,,wagram-the-peace-of-vienna
-33701,Wahoo,,boardgame,,,
+33701,Wahoo,,boardgame,,Traditional marble-racing variants retained separately from CO-5 Aggravation1962. Maker rules/physical boards and implementation establish identity; no universal publication year or age inferred. Removed false1962/ParkerBrothers/drilling claims.,wahoo
 198432,"Wait Up, Grandpa!",,boardgame,,,
 118025,Waka Waka,,boardgame,,,
 15410,Walk the Dogs,,boardgame,,,
@@ -3628,7 +3628,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 13804,Wellington in the Peninsula,1975,boardgame,,,wellington-in-the-peninsula
 925,Werewolf,,boardgame,,,werewolf
 219215,Werewords,,boardgame,,,werewords
-313924,Western Legends,2020,boardgame,,,western-legends
+313924,Western Legends,2018,boardgame,,"2026-11-02: Independent retrospective explicitly states initial game crowdfunded AND shipped in 2018, corroborated by independent rules reference publication 2018. Generic CSV row has no later-edition qualifier; selects original base game. Removed unsupported universal quality claim; base-game timing 60–90 minutes is distinct from expansion content.",western-legends
 9416,Westminster: The Election Game,,boardgame,,,westminster-the-election-game
 ,Westwall: Four Battles to Germany,,boardgame,,,westwall
 2667,What Were You Thinking?,1998,boardgame,,,what-were-you-thinking
@@ -3748,7 +3748,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Boggle,1972,boardgame,,,
 ,Yahtzee,1956,boardgame,,,yahtzee
 ,Jenga,1983,boardgame,,,
-,Othello,1977,boardgame,,,
+,Othello,1977,boardgame,,"Brand/licensor histories establish original Japanese 1973 and first world championship 1977; generic 1977 row supplies no territorial printing. Kept pending instead of forcing original edition. Added explicit 1973 row, removed unsupported1971patent claim and universal historicalReversi alias.",
 ,Mancala,,boardgame,,,kalah
 ,Connect 4,1974,boardgame,,,connect-four
 ,Munchkin,2001,boardgame,,,
@@ -3770,7 +3770,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Poetry for Neanderthals,2020,boardgame,,,
 ,Hardback,2018,boardgame,,,
 ,Trekking the National Parks,2014,boardgame,,,
-,Night Cage,2022,boardgame,,,
+,Night Cage,2022,boardgame,,"OriginalSND1008 rules and actual2021copy reviews establish represented first2021 game. Generic2022row gives no edition and may refer wider retail; remains pending. Added explicit2021 row, corrected illustration and same-gate/discard rules.",
 ,Monkey Palace,2024,boardgame,,,
 ,Qawale,2022,boardgame,,,
 ,Faraway,2023,boardgame,,,
@@ -3779,22 +3779,22 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Catan: New Energies,2024,boardgame,,,
 ,Happy Little Dinosaurs,2021,boardgame,,,
 ,Finest Fish,2024,boardgame,,,
-,Garden Guests,2024,boardgame,,,
+,Garden Guests,2023,boardgame,,"2026-11-02: Contemporary 2023 publisher-president interview, December 2023 actual-copy play review and retailer original inventory corroborate original English Van Ryder 2023, rather than generic CSV 2024. Retained supported two-through-six: original rules explicitly allow five as two pairs plus one lone player with special setup, despite different experiences. Corrected Party estimate and movement-pattern description to flower-card colony/path construction, direct blocking and limited team communication; removed unverified award-as-publication implication.",garden-guests
 ,Gnome Hollow,2024,boardgame,,,
 ,Floristry,2024,boardgame,,,
 ,Heroes of Barcadia,2022,boardgame,,,
 ,Brick Like This,2024,boardgame,,,
-,Comic Hunters,2024,boardgame,,,
+,Comic Hunters,2024,boardgame,,"Contemporary announcement plus actual Gen Con2024 finished-copy report establish Arcane Wonders/Spin Master English6070364, not unsupported detailed2022. English SKU inventory1–4/14+/60; retailer generic2020 year not transferred. Original translated rules and fan cooperative variant are distinct evidence.",comic-hunters
 ,Monopoly Deal,2008,boardgame,,,
-,Red Flags,2015,boardgame,,,
+,Red Flags,2015,boardgame,,"Creator’s 2015 campaign plus trade interview confirming late-2015 Skybound distribution resolve year. Represented 400-card English base game uses identified SKY966 inventory guidance; original physical printing uninspected, later age/count variants not merged. Session length chosen by rounds or point target.",red-flags
 ,Heroscape Age of Annihilation,2024,boardgame,,,
 ,Kurt Vonnegut's GHQ,2024,boardgame,,,ghq
 ,Masters of Crime: Vendetta,2024,boardgame,,,masters-of-crime-vendetta
-,Masters of Crime: Shadows,2023,boardgame,,,masters-of-crime-shadows
+,Masters of Crime: Shadows,2023,boardgame,,2026-11-02: Unqualified 2023 discovery date is not verified by the consulted English publisher evidence. Clear old mapping to the specifically represented 2024 Thames & Kosmos English product instead of rewriting this historical date. Separate sourced 2024 English catalog row added; original-language release still needs suitable evidence.,
 ,Agatha Christie: Death on the Cards,2018,boardgame,,,
 ,Choose Your Own Adventure: House of Danger,2018,boardgame,,,
 ,Disney Hocus Pocus,2020,boardgame,,,
-,Muffin Time,2019,boardgame,,,
+,Muffin Time,2020,boardgame,,"2019 was Kickstarter campaign; represented English physical retail UPC5060579760915 released2020,2–6/12+/20–40. Corrected catalog2019→2020; current publisher2021expanded2–8/13+ kept separate. Original rules require ten-card announcement before surviving to next-turn win.",muffin-time
 ,SPY - Pack O Game,2015,boardgame,,,
 ,A Place For All My Books,2025,boardgame,,,
 ,Not So Neighborly,2024,boardgame,failed,No sources found,
@@ -3802,7 +3802,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Survivor: The Tribe Has Spoken,2024,boardgame,,,
 ,Horrible Therapist,2024,boardgame,,,horrible-therapist
 ,Disturbed Friends,2016,boardgame,,,
-,New Phone Who Dis?,2019,boardgame,,,
+,New Phone Who Dis?,2019,boardgame,,"Corrected detailed2018application-year confusion to original adult2019 release. Independent actual-copy review plus historical first-use report; original540-card rules reprint2020,3+/17+. Family and second editions separate; no fixed upper bound certified.",new-phone-who-dis
 ,Shit Happens,2016,boardgame,,,
 ,P for Pizza,2019,boardgame,,,
 ,Roll for the Galaxy,2014,boardgame,,,
@@ -3814,7 +3814,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Century: Golem Edition,2017,boardgame,,,
 ,QE,2019,boardgame,,,
 ,MicroMacro: Crime City,2020,boardgame,,,micromacro-crime-city
-,Mind MGMT: The Psychic Espionage Game,2021,boardgame,,,mind-mgmt
+,Mind MGMT: The Psychic Espionage Game,2021,boardgame,,"2026-11-02: Contemporaneous December 2021 finished-copy review establishes availability before the erroneous record 2022; independent later original review explicitly gives release 2021. Publisher confirms both designers, Matt Kindt art, 1–5, 13+, nominal sixty minutes and app-based solo/cooperative support. Preferred group sizes remain a provisional view, not reviewer consensus.",mind-mgmt
 ,Imperium: Classics,2021,boardgame,,,imperium-classics
 ,Stardew Valley: The Board Game,2021,boardgame,,,
 ,Praga Caput Regni,2020,boardgame,,,
@@ -3823,7 +3823,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Mille Fiori,2021,boardgame,,,mille-fiori
 ,First Rat,2022,boardgame,,,
 ,The Red Cathedral,2020,boardgame,,,the-red-cathedral-2020
-,Horseless Carriage,2023,boardgame,,,horseless-carriage
+,Horseless Carriage,2023,boardgame,,Source review 2026-11-02: Independent original play review explicitly gives Splotter publication 2023. Corrected detailed-record 2022 to 2023 and labeled original edition. Current publisher storefront is explicitly a second edition and does not establish original release date.,horseless-carriage
 ,Evacuation,2023,boardgame,,,evacuation-2023
 ,Knarr,2023,boardgame,,,
 ,Windmill Valley,2024,boardgame,,,windmill-valley
@@ -3831,46 +3831,46 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Jump Drive,2017,boardgame,,,
 ,Spots,2022,boardgame,,,
 ,Scholars of the South Tigris,2023,boardgame,,,
-,Fit to Print,2022,boardgame,,,
+,Fit to Print,2023,boardgame,,"2026-11-02: Publisher history and actual October 2023 finished-copy review distinguish September 2023 release from December 2022 crowdfunding. Retained detailed 2023, corrected CSV 2022 and linked original English base game. Added missing co-publisher Flatout; inspected actual rulebook p2 confirms one-to-six and 10+, correcting four-player cap and false age 8. Standard counts distinguished from larger team Newsroom variant, with turn-based mode explicitly available.",fit-to-print
 ,Zoo Vadis,2022,boardgame,,,zoo-vadis
 ,War of the Worlds: The New Wave,2019,boardgame,,,war-of-the-worlds-the-new-wave
-,Long Shot: The Dice Game,2022,boardgame,,,long-shot-the-dice-game
+,Long Shot: The Dice Game,2022,boardgame,,"Source review 2026-11-02: May 2022 original finished-product review distinguishes April 2021 crowdfunding/prototype from shipment and availability in 2022. Corrected detailed-record year to 2022; publisher independently confirms 1–8, 25 minutes, 14+. Unsupported time bounds removed.",long-shot-the-dice-game
 ,Fiction,2024,boardgame,,,
 ,Minos: Dawn of the Bronze Age,2024,boardgame,,,minos-dawn-of-the-bronze-age
 ,Foundations of Metropolis,2024,boardgame,,,
 ,Salton Sea,2024,boardgame,,,
-,Jekyll & Hyde vs Scotland Yard,2022,boardgame,,,jekyll-and-hyde-vs-scotland-yard
+,Jekyll & Hyde vs Scotland Yard,2023,boardgame,,"2026-11-02: Publisher-hosted rules explicitly identify original German edition 2023 and Mandoo copyright 2023. Corrected CSV 2022 and detailed-record 2024 to original-game 2023; English publisher independently corroborates all three designers, artist and specifications. This does not date every English printing.",jekyll-and-hyde-vs-scotland-yard
 ,Hickory Dickory,2023,boardgame,,,
 ,Orichalcum,2022,boardgame,,,
-,Rebel Princess,2024,boardgame,,,
+,Rebel Princess,2024,boardgame,ambiguous,Both standard BEZRPSE and Deluxe BEZRPDX were announced by Bézier’s distributor for 2024. Generic row has no SKU/edition evidence. Marked ambiguous to prevent the title/filename fallback from silently selecting Deluxe; explicit Deluxe row covers the reviewed record. Original 2015 cooperative description was unsupported.,
 ,Daitoshi,2024,boardgame,,,
 ,Caldera Park,2022,boardgame,,,
-,River Valley Glassworks,2023,boardgame,,,
+,River Valley Glassworks,2023,boardgame,,"Reviewed retailGME-RVG has actual Gen Con2024 purchase/play and distributor2024 release. Generic2023 identity lacks independently verified edition/availability; remains pending, not guessed to mean crowdfunding. Explicit2024 retail row added.",
 ,Mythwind,2023,boardgame,,,
-,Monster Hunter World: The Board Game,2023,boardgame,,,monster-hunter-world-the-board-game
+,Monster Hunter World: The Board Game,2023,boardgame,,"2026-11-02: Publisher April 2023 announcement confirms original World in backers’ hands and retail planned for 2023, separate from 2021 funding and the new Iceborne campaign. Corrected unsupported detailed-record 2022.",monster-hunter-world-the-board-game
 ,Dreadful Meadows,2024,boardgame,,,
-,Resist!,2023,boardgame,,,
+,Resist!,2023,boardgame,,"Specific 25th Century TFC34000 U.S. English edition announced March 2023 and independently reviewed August 2023, separate from earlier Salt & Pepper 2022 original. Primary publisher restores 10+ and concealed/revealed deck decisions; sole-player mode is not multiplayer cooperation.",resist
 ,Courtisans,2024,boardgame,,,
 ,Black Forest,2024,boardgame,,,
 ,Botanicus,2024,boardgame,,,
 ,EOS: Island of Angels,2024,boardgame,,,
-,Lure,2024,boardgame,,,
+,Lure,2024,boardgame,,"AllplayNakamuradicebiddingbasegame,2–5/7+/15,primaryrulesexactillustrationcredits. Retail2024editionandindependentplayedreviewdate;later2025distributionnotfirstrelease. Replacedunsupported2014Mayfaircardgame,DeepWatersexcluded.",lure
 ,Ahoy,2022,boardgame,,,
-,Bomb Busters,2024,boardgame,,,
-,Dune: The Board Game,2019,boardgame,,,dune-1979
+,Bomb Busters,2024,boardgame,duplicate,Identity review 2026-11-02: duplicate of the Bomb Busters 2024 catalog row with bgg_id 413246; the publisher confirms a 2024 release.,
+,Dune: The Board Game,2019,boardgame,,"Identity review 2026-11-01: The CSV year selects the 2019 Gale Force Nine record, not the 1979 Avalon Hill edition.",dune
 ,Bus,1999,boardgame,,,
 ,Circus Flohcati,1998,boardgame,,,
 ,Unconscious Mind,2024,boardgame,,,
-,Moon Colony Bloodbath,2023,boardgame,,,
+,Moon Colony Bloodbath,2025,boardgame,,"Identity review 2026-11-02: original review identifies a 2025 release; publisher confirms Rio Grande game identity, 1–5 players and 45–90 minutes. Earlier CSV 2023 was not a documented publication.",moon-colony-bloodbath
 ,That Time You Killed Me,2022,boardgame,,,
-,Planet,2018,boardgame,,,
+,Planet,2018,boardgame,,"Publisher credits, copyright-2018 rules and actual six-play November 2018 review establish original European game. Corrected Šulinskas/Miramon credits and distinct animal requirements; 2019 review/localization dates not original release.",planet
 ,The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game,2024,boardgame,,,
 ,Blank Slate,2020,boardgame,,,
 ,Catch Phrase,1994,boardgame,,,
 ,The Chameleon,2017,boardgame,,,the-chameleon-2017
 ,Hedbanz,1991,boardgame,,,
 ,Herd Mentality,2019,boardgame,,,
-,Rock Em Sock Em Robots,1964,boardgame,,,rock-em-sock-em-robots
+,Rock Em Sock Em Robots,1964,boardgame,,"2026-11-02: The Strong Museum object 119.287 explicitly dates original Marx game to 1964, corroborated by current Mattel product history. Corrected unsupported detailed-record 1966. Original Marx age label not established; later Knock or Block (2022) six-plus/die rules are not merged into original.",rock-em-sock-em-robots
 ,Simon,1978,boardgame,,,
 ,Skip-Bo,1967,boardgame,,,
 ,Tapple,2012,boardgame,,,
@@ -3959,7 +3959,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Chicago Express,2007,boardgame,,,chicago-express
 ,Chimera Station,2017,boardgame,,,chimera-station
 ,Chocolate Factory,2019,boardgame,,,chocolate-factory
-,Citadels,2000,boardgame,,,citadels
+,Citadels,2000,boardgame,,"Scoped retained record to originalFrench Multisim2000,3–7. Original rules distinguish later2/3player appendix; original art restored, modern2–8/10+ not transferred. Duplicate citadel YAML archived unchanged with explained alias.",citadels
 ,City of the Big Shoulders,2019,boardgame,,,city-of-the-big-shoulders
 ,Claim,2017,boardgame,,,claim
 ,Cloud City,2020,boardgame,,,cloud-city
@@ -4221,23 +4221,62 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Lords of Vegas,2010,boardgame,,,
 ,Dogs of War,2014,boardgame,,,
 ,Great Plains,,boardgame,,,
-,Tajuto,2011,boardgame,,,
+,Tajuto,2019,boardgame,,"Source review 2026-11-02: Retailer product specifications explicitly identify Super Meeple, 2019, 2–4 and 45–60 minutes. Publisher rules search-indexed credits also carry 2019; direct publisher PDF fetch timed out.",tajuto
 ,Jaipur,2009,boardgame,,,
 ,Royal Visit,2020,boardgame,,,
 ,Winner's Circle,2001,boardgame,,,winners-circle
 ,Whale Riders,,boardgame,,,
-,Lacuna,2020,boardgame,,,
+,Lacuna,2023,boardgame,,Source review 2026-11-02: Original play review explicitly states availability July 2023. CMYK product page independently matches two-player flower-collection identity; removed unsupported homemade-design date.,lacuna
 ,Galactic Renaissance,2023,boardgame,,,
-,DroPolter,2022,boardgame,,,
+,DroPolter,2023,boardgame,,Identity review 2026-11-02: Publisher release field gives 2023 and Japanese/English availability; original CSV 2022 is unsupported.,dropolter
 ,Caesar!: Seize Rome in 20 Minutes!,2021,boardgame,,,caesar-seize-rome
-,Chinatown,1997,boardgame,,,
+,Chinatown,1999,boardgame,,"2026-11-02: Independent play review explicitly original Alea 1999 and distinguishes later revision; original-edition translated rules and official award jury corroborate identity. Corrected unsupported CSV 1997. Record now expressly original Alea/Ravensburger with Franz Vohwinkel, New York 1930s and economic-condition cards; removed blended later publisher and false San Francisco 1960s–1980s setting. Published 60/75/90-minute estimates remain distinguishable rather than certified bounds.",chinatown
 ,Skyrise,2024,boardgame,,,
 ,Undaunted: Stalingrad,2022,boardgame,,,
-,Wilmot's Warehouse,2021,boardgame,,,wilmots-warehouse
-,Orongo,2016,boardgame,,,
+,Wilmot's Warehouse,2024,boardgame,,Source review 2026-11-02: Publisher’s own game chronology explicitly lists Wilmot’s Warehouse in 2024 with the three current designers. Corrected CSV 2021; the videogame and announcement dates are separate.,wilmots-warehouse
+,Orongo,2014,boardgame,,2026-11-02: Contemporary August 2014 Essen announcement and author-dated October 2014 teaching summary resolve original Ravensburger release rather than unsupported 2016 catalog year. Original reviewer text explains varying personal-statue counts and shared final statue; corrected false universal seventh statue and Party social-mode estimate. HALL9000 generic metadata was not used because its footer discloses some BGG-derived data; independent authored articles/summary supply evidence.,orongo
 ,Three Sisters,2021,boardgame,,,
 ,Ecosystem,2021,boardgame,,,
-,Coffee Roaster,2017,boardgame,,,
+,Coffee Roaster,2017,boardgame,,"Creator’s contemporary Game Market entry explicitly release spring2017; retailer dates this second-edition issue May14 2017. Original2015 retained separately. Later creator retrospectives say second edition2016; disagreement recorded, not silently overwritten. Larger cup board/easier reverse and improved storage distinguish issue.",coffee-roaster-2017
 ,Whistle Stop,2017,boardgame,,,
 ,Lanterns: The Harvest Festival,2015,boardgame,,,
 ,New Bedford,2016,boardgame,,,
+,878 Vikings: Invasions of England,2017,boardgame,,Added from independent publisher/rules research on 2026-11-01.,878-vikings-invasions-of-england
+,Clank! Legacy: Acquisitions Incorporated,2019,boardgame,,Added from independent publisher/rules research on 2026-11-01.,clank-legacy-acquisitions-incorporated
+,Hoity Toity,2004,boardgame,,"Identity review 2026-11-02: distinct Uberplay English edition, first to use this title; preserve original 1990 game separately.",hoity-toity
+,Masters of Crime: Shadows,2024,boardgame,,"2026-11-02: English Thames & Kosmos edition, SKU 683826; publisher 2024 catalog marks NEW, 1–5, age 16+, 2–4 hours. Generic 2023 discovery row retained separately pending research. Publisher marketing also says 1–6; chosen counts follow the edition-specific catalog specification.",masters-of-crime-shadows
+,Ghoulash: The Last Game on Earth,1982,boardgame,,"2026-11-02: Creator’s first-person history distinguishes marketed 1982 original from streamlined one-sheet scenarios distributed online in 2001. Retained original ghoulash and added ghoulash-pen-and-paper for revised game; mapped 2001 discovery row to revision and added separate original row without inventing a source ID. Current creator page identifies two-player competition, not shared cooperative victory.",ghoulash
+,Master of Orion: The Board Game,2017,boardgame,,"2026-11-02: Publisher-associated Russian store explicitly release 2016, product 56309; original rules credit Igor Sklyuev/Ekaterina Gorn and Hobby World. Contemporary independent Cryptozoic play review explicitly release September 6, 2017, English CZE02505. Kept existing 2017 English record and added original Russian master-of-orion-2016, with separate catalog rows. Corrected false Valeriy Korchagin credit, inflated duration and planet-destruction implication.",master-of-orion-the-board-game
+,Rubik's Flip (University Games),,boardgame,,"2026-11-02: Existing 1993/Ideal claim unsupported. Record now explicitly represents independently documented University Games full-board version, with release year unknown. Original 1981 row returned to pending; a separate undated University Games row links the actual represented edition. Teaching guide requires a locked line, not plain three-in-a-row; no unverified original designer/date transferred from aggregators.",rubiks-flip
+,Hanabi,2010,boardgame,,"2026-11-02: Retained historical hanabi slug and 2010 date for the original French cooperative game in the Hanabi & Ikebana box. Creator history, original ReSpell/Les XII Singes rules and independent edition catalog identify that scope. Removed blended later publishers, used original printed Sengissen credit, and corrected third-error/final-round rules. Added separate original-year catalog row without inventing an external ID; not a record of the distinct competitive Ikebana rules.",hanabi
+,Doom: The Boardgame,2004,boardgame,,Original English Fantasy Flight edition: 2004 retailer release plus original rules. Separate from unresolved generic 2005 catalog row and redesigned 2016 game.,doom-the-boardgame
+,San Juan,2004,boardgame,,"Explicit original 110-card edition, independently reviewed April 2004 and documented by publisher rules. Distinct from 2014 second edition and unresolved undated generic discovery row; no external ID invented.",san-juan
+,Cosmic Encounter,2008,boardgame,,"Added explicit FFG2008 English CE01 row while original1977 maps separate Eon base. Creator history/primary rules support50powers,3–5 and1–2hours; credits separate original designers from Wilson development/new aliens.",cosmic-encounter
+,Coffee Roaster,2015,boardgame,,Added explicit original Japanese/English2015 row. Creator history dates November22 and product distinguishes10-minute practice from30-minute full menu; separate2017 second issue retained.,coffee-roaster
+,Next Station: London,2022,boardgame,,"Added explicit original Blue Orange English2022 row, with publisher/rules and actual May2022 review. Generic2023 reference stays pending; no source identifier invented.",next-station-london
+,Call My Bluff,1997,boardgame,,"Added explicit F.X.Schmid U.S.A. English1997 row, independently dated in creator-interview/played-copy review and bibliography. Separate GermanBluff1993 retained; no discovery ID invented.",call-my-bluff
+,Focus,1980,boardgame,,Added explicit Parker German1980 row based on independent edition history and official prior-year nomination/1981 award account. Undated Focus row remains pending because MB1982 Domination is also legitimately Focus.,focus
+,Kingdoms,2002,boardgame,,Added explicit originalFFGKN03 English2002 fantasy retheme. Original1994German market game has own record; later2012Kingdoms not silently combined.,kingdoms
+,Korsar,2002,boardgame,,Added explicit Heidelberger2002edition with independent playedreview/bibliography. OriginalAMIGO1992Pirat and later editions remain distinct.,korsar
+,Kamon,2020,boardgame,,Added explicitCosmoludo November2020 revision from creator’s datedrelease; color/symbol constraints andDelahayeart separate from originalJactalea2007.,kamon
+,Kula Kula,1993,boardgame,,"Added explicitBlatz1993massmarket edition, jury/independentplayedreview. EarlierPerlhuhn1991reference remains pending; no arbitrary edition merge.",kula-kula
+,London,2010,boardgame,,"Added explicit2010TreefrogoriginalLondon row. Originalcredits/dated2010reference,boroughmapand12+/about90 scopedseparatelyfromOsprey2017cardboroughrevision;preferredcountsandexperienceprovisional.",london
+,Macroscope,2017,boardgame,,Added explicit Mayday2017 English edition from contemporary Origins debut; original Lifestyle2016 has separate record.2–6/6+/about30 supported; original illustration credits unverified.,macroscope
+,Maple Valley,2023,boardgame,,Added explicit original KTBG English2023 base-game row from final rules and actualDecember2023review. Generic2024 reference remains pending; upgrades/localized printing details not automatically transferred.,maple-valley
+,Night Cage,2021,boardgame,,"Explicit original2021SND1008 base-game row; rule cover and actual2021reviews establish availability,1–5/14+/50. Generic2022 row remains pending.",night-cage
+,Mr. President,1967,boardgame,,"Explicit3M1967standard revision, actual museum object and collector rulesC-B200I-67. Earlier1965/66versions exist; this is not first publication. Historical YAML ID retained.",presidential-campaign
+,Mr. President,2023,boardgame,,"Explicit GMT original2023solo governing game from contemporary delivered/played copy reports, separate from3M election game and2026secondedition. Original age/time bounds unknown.",mr-president
+,Orchard: 9 Card Solitaire Game,2020,boardgame,,"Explicit manufactured Side Room 2020 edition, actual March 2020 received-copy account, following2018PnP/2019campaign. Distributor scheduled January 2020; exact first delivery date unverified. Single-copy solo; multiple-copy comparison separate.",orchard
+,Othello,1973,boardgame,,"Explicit original Japanese commercial 1973 Othello, Tsukuda Original, from official brand/licensor history. WOF establishes shared modern rules, not original1973package labels. Generic 1977 reference remains pending.",othello
+,Pay Day,1975,boardgame,,Explicit represented U.S.1975 Parker game advertised new in contemporary catalog; 1974copyright/possible Canadian issue unresolved. Early four-token rules distinguish revised1994six-player game; chosen months determine duration.,pay-day
+,Pictureka!,2007,boardgame,,Explicit Parker U.S.2007 board game from physical inventory and contemporary played review; 2+/6+/six-card win. Separate Project X 2006 original and later second edition; no fixed upper player limit certified.,pictureka
+,Piepmatz,2018,boardgame,,Explicit Lookout 2018 Riddle/Pinchback/Langman card game. Publisher current10+ differs from consulted English©2018 rules8+; original manufacturing label uninspected. Both 1995 namesakes remain separate and generic 1995 row stays pending.,piepmatz
+,Piratissimo,2005,boardgame,,"Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost on overload. Generic 2006 remains pending; later illustrated reissue separate.",piratissimo
+,Pony Express,1947,boardgame,,"Explicit older Polygon/Bratt U.S. game from museum artifact and AGPI catalog; unrelated to Funforge 2009 race. Original rules inaccessible, so unsupported counts, age, duration and precise ending remain unknown.",pony-express
+,Push,2018,boardgame,,"Explicit Ravensburger North America/Prospero Hall card game, English USe01 copyright-2018 rules and independent release chronology. Separate from Mühlhäuser wooden game; banking, busts and roll-card risks restored.",push
+,Rebel Princess: Deluxe Edition,2024,boardgame,,"Explicit Bézier English Deluxe BEZRPDX (2024), distinct from concurrent standard and original Spanish editions; publisher-linked preview, contemporary product/development evidence and actual-play review consulted. Generic 2024 reference stays pending without SKU. Physical English age/time labels uninspected; conflicting guidance retained.",rebel-princess
+,Ribbit,2007,boardgame,,"Explicit SimplyFun English frog issue2007, creator bibliography and contemporary child play. CPSC08-056 applies specified original2007 frog pieces; recall not extended to replacements or turtles. Art/finish-stack rule/original printing labels unknown.",ribbit
+,Risk,1959,boardgame,,Explicit Parker Brothers original U.S.1959 scope from copyright1959 3–6 rules and museum chronology. Later reproduction two-player variant not universalized. Three standalone relatives no longer labeled required expansions.,risk
+,River Dragons,2013,boardgame,,"Explicit Matagot English reissue with actual U.S. availability2013, separate from originalDragonDelta2000 and new2025SKU. Creator2012body/2013heading conflict and French8+ versus web7+ remain explicit; original English box uninspected.",river-dragons
+,River Valley Glassworks,2024,boardgame,,"Explicit Allplay English retailGME-RVG/UPC618149323593 with finished-copy purchase/play2024. Publisher core/solo rules distinguish illustration credits and automated rivals; manual8+/25 versus current site7+/20 guidance explicit, original printing uninspected.",river-valley-glassworks
+,Rummoli,1940,boardgame,,"Explicit early Copp Clark Canadian game represented by museum artifact cataloged1940 and copyright1940 rules. Exact first sale unverified; separate1941 reference not forced to match. Two-to-eight and poker/stops phases source supported, duration selectable.",rummoli

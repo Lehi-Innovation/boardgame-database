@@ -3,18 +3,18 @@ name: "Hanabi"
 year: 2010
 
 # Relationships
-game_family: null
-edition: null
+game_family: hanabi
+edition: "Original French cooperative game from Hanabi & Ikebana (Les XII Singes, 2010)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
-length: 0  # Snack (20-30 min)
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 1  # Roughly half an hour.
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
 feel: 1  # Light (fully cooperative)
-value: 1  # Budget (~$13)
+value: 1  # Small card-and-token game.
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -41,40 +41,23 @@ evokes:
 
 # Player counts
 possible_counts: [2, 3, 4, 5]
-true_counts: [2, 3, 4]
+true_counts: [2, 3, 4]  # Provisional preferences, distinct from supported counts.
 
 # Metadata
 designer:
   - Antoine Bauza
 publisher:
-  - Cocktail Games
-  - R&R Games
-artist: []
-playtime_minutes: 25
-min_playtime: 20
-max_playtime: 30
-min_age: 8
+  - Les XII Singes
+artist:
+  - Françoise Sengissen  # Name printed in the original French rules.
+playtime_minutes: 30  # Independent original-edition catalog estimate.
+min_playtime: null
+max_playtime: null
+min_age: 8  # Independent original-edition catalog; original box age label not inspected.
 
 # Description
 description: |
-  Hanabi is a cooperative card game in which players collectively attempt to build a
-  perfect fireworks display. The game takes its name from the Japanese word for fireworks.
-  The central twist: each player can see everyone else's cards but not their own, so players
-  must rely on limited clues given by teammates to figure out what to play.
-
-  On each turn, a player may either give a clue to another player (indicating all cards of
-  a specific color or number in their hand), play a card to build one of five color-coded
-  firework sequences (1 through 5), or discard a card to recover a used clue token.
-  The game starts with 8 clue tokens and 3 fuse tokens; running out of fuses or
-  misplaying ends the game. The team scores points based on how many fireworks were
-  successfully launched, with a perfect score of 25 being extremely rare.
-
-  Hanabi won the Spiel des Jahres in 2013, making it the first cooperative game to win
-  the award. Its elegance lies in the strict communication limits and the fascinating
-  psychology of conveying and interpreting imperfect information. Players must develop
-  shared conventions about what clues mean — for instance, whether a clue about a
-  "1" means "play this" or simply "here's useful information." The game scales well
-  from 2 to 5 players and plays in under 30 minutes.
+  Build five fireworks together while holding your cards so everyone can see them except you. Spend limited clue tokens to identify all cards of one color or number in a teammate's hand, discard to recover a clue, or risk playing a card into a rising sequence. A misplay costs one error token; the third error ends the game. Completing all five sequences scores 25, and exhausting the deck gives everyone one last turn before scoring. This record follows the original French cooperative Hanabi from the 2010 Hanabi & Ikebana box. Ikebana is a separate competitive game using the same components. Later standalone editions have different packaging and variants. Experience and preferred-count estimates remain provisional.
 
 # Upgrades
 upgrades: []

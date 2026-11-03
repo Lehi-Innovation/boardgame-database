@@ -32,7 +32,7 @@ evokes:
   - Dread
   - Discovery
   - Agency
-  - Survival
+  - "Progress"
 
 possible_counts: [1, 2, 3, 4]
 true_counts: [3, 4]

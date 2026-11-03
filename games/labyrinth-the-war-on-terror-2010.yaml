@@ -1,0 +1,62 @@
+# Original2010 playbook consulted directly; linked rules are explicitly second edition2011.
+# Only common base-game scope drawn from revision; detailed original examples/credits
+# from2010 playbook. Contemporary review’s14+ is expressly its own recommendation,
+# so no publisher minimum age inferred. Three-hour-plus timing is review estimate.
+# Experience ratings and suggested counts are provisional.
+id: labyrinth-the-war-on-terror-2010
+name: 'Labyrinth: The War on Terror, 2001 – ?'
+alternate_names:
+  - Labyrinth
+year: 2010
+game_family: null
+edition: Original GMT base game (2010)
+base_game: null
+expansions: []
+compatible_with: []
+length: 3
+rules_complexity: 3
+strategic_depth: 3
+feel: 4
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Wargame
+  - Hand Management
+  - Area Control
+  - Dice Rolling
+  - Asymmetric
+  - Simulation
+  - Political
+  - Historical
+  - War
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Lucky
+possible_counts:
+  - 1
+  - 2
+true_counts:
+  - 1
+  - 2
+designer:
+  - Volko Ruhnke
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Donal Hegarty
+  - Leland Myrick
+playtime_minutes: 180
+min_playtime: 180
+max_playtime: null
+min_age: null
+description: |
+  A strategic card-driven contest between the United States and a jihadist network after 2001. Cards can fund operations or trigger events, sometimes helping an opponent; the two sides pursue different goals through governance, influence, troops, cells and plots. Country conditions and die rolls make plans uncertain, and a substantial rules framework asks players to think beyond a single battle. Solitaire play puts the human on the US side against a rules-driven opponent. Allow three hours or more according to a contemporary played review. This record represents the original 2010 base game, with later expansions and printing revisions excluded.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

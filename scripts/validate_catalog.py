@@ -71,15 +71,21 @@ def validate_game(game, path, schema):
         if isinstance(value, str) and value not in allowed_categories:
             add("categories", "category", f"Unknown schema category: {value!r}")
     evokes = arrays["evokes"]
-    if len(evokes) != 5 or len({str(value) for value in evokes}) != 5:
-        add("evokes", "evokes_count", "Expected five distinct evokes values")
+    if evokes and (len(evokes) != 5 or len({str(value) for value in evokes}) != 5):
+        add("evokes", "evokes_count", "Expected five distinct evokes values or an empty list when unknown")
     for value in evokes:
         if isinstance(value, str) and value not in schema["evokes"]["values"]:
             add("evokes", "evoke", f"Unknown schema evokes value: {value!r}")
-    allowed_counts = schema["player_counts"]["possible_values"]
+    count_schema = schema["player_counts"]
+    allowed_counts = count_schema["possible_values"]
     for field in ("possible_counts", "true_counts"):
         for value in arrays[field]:
-            if type(value) not in (int, str) or value not in allowed_counts:
+            if "minimum" in count_schema:
+                valid = ((type(value) is int and value >= count_schema["minimum"])
+                         or (type(value) is str and value in count_schema["open_ended_values"]))
+            else:
+                valid = type(value) in (int, str) and value in allowed_counts
+            if not valid:
                 add(field, "player_count", f"Unsupported player count: {value!r}")
     for value in arrays["true_counts"]:
         if value not in arrays["possible_counts"]:
@@ -142,8 +148,19 @@ def audit(root=ROOT, games=None, only=None):
         try:
             entries = read_log(path.read_text(encoding="utf-8"))
             checked["log_entries"] = len(entries)
+            aliases_path = root / "sources" / "game-aliases.yaml"
+            alias_document = load_yaml(aliases_path.read_text()) if aliases_path.exists() else {"aliases": {}}
+            if not isinstance(alias_document, dict) or not isinstance(alias_document.get("aliases"), dict):
+                raise ValueError("game-aliases.yaml must contain an aliases mapping")
+            aliases = alias_document["aliases"]
+            for old, link in aliases.items():
+                if (not isinstance(old, str) or not isinstance(link, dict)
+                        or not isinstance(link.get("game_id"), str) or link["game_id"] not in slugs
+                        or not isinstance(link.get("reason"), str) or not link["reason"].strip()
+                        or old in slugs):
+                    issues.append(issue(aliases_path, str(old), "invalid_alias", "Alias needs a current target, explanation, and historical source ID"))
             # Retain historical slugs. Missing references need review, not guesses.
-            for slug in sorted({entry["game_id"] for entry in entries} - slugs):
+            for slug in sorted({entry["game_id"] for entry in entries} - slugs - set(aliases)):
                 issues.append(issue(path, "game_id", "historical_log_id", f"No current game file for historical slug {slug!r}", "warning"))
         except (OSError, ValueError, yaml.YAMLError) as exc:
             issues.append(issue(path, "", "research_log", str(exc)))

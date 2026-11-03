@@ -1,17 +1,17 @@
 id: medici-vs-strozzi
 name: "Medici vs Strozzi"
 alternate_names: []
-year: 2004
+year: 2006
 
 # Relationships
 game_family: "medici"
-edition: null
+edition: Original two-player game (2006), ABACUSSPIELE / Rio Grande Games
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
+length: 1  # Appetizer (nominal thirty minutes)
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
 feel: 3  # Competitive
@@ -41,15 +41,23 @@ true_counts: [2]
 designer:
   - Reiner Knizia
 publisher:
-  - Amigo
+  - ABACUSSPIELE
   - Rio Grande Games
 artist: []
-playtime_minutes: 25
-min_playtime: 20
-max_playtime: 30
+playtime_minutes: 30
+min_playtime: null
+max_playtime: null
 min_age: 10
 
 description: |
-  Medici vs Strozzi is a two-player adaptation of Reiner Knizia's classic auction game Medici, first published by Amigo in 2004. Players re-enact the fierce rivalry of the two great Florentine merchant dynasties by bidding on lots of commodity cards to load their ships. Unlike the multiplayer original's open auction, one player sets the price for a lot and the opponent must either buy at that price or let the setter purchase it instead — a clever inversion that forces both players into uncomfortable decisions. The game plays in under 30 minutes and condenses Medici's commercial tension into a sharp, direct head-to-head duel.
+  Two rival merchant families buy goods to fill ships and compete for business
+  at three ports. One player draws a small lot of goods tiles and sets its price.
+  The opponent may buy it; if they decline, the price-setter must pay instead.
+  The value of the same lot can differ sharply between the two businesses.
+
+  This separate two-player game was published in 2006 by ABACUSSPIELE and Rio
+  Grande Games, according to Reiner Knizia's own game list. Expect repeated
+  judgments about what your opponent needs and what you can afford; that
+  experience assessment remains provisional.
 
 upgrades: []

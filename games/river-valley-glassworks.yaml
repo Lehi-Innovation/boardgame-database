@@ -1,11 +1,23 @@
+# Publisher-linked four-page English core rules directly read: 1–5/8+/25 minutes,
+# Hill/Pinchback/Riddle design and Andrew Bosley illustration. Paquette/Gavril
+# graphics and Filip Gavril 3D roles are not silently merged into illustration.
+# Current publisher site says 7+/20 and body20–30; selected manual guidance,
+# original physical printing uninspected. Inventory17 triggers equal turns plus
+# a final turn; contiguous rows/tallest2 columns/overflow-3, not arbitrary free
+# pattern placement. Two-page solo rules confirm automated rivals; this is not
+# multiplayer cooperation. Retail GME-RVG/UPC618149323593 has actual Gen Con2024
+# purchase-and-play evidence, corroborated by distributor2024 listing. Generic
+# 2023 CSV row stays pending; no unsupported claim that it means a campaign.
+# Retail acrylic pieces, Deluxe, real-glass upgrade and expansion powers distinct.
+# All experience/preferred-count estimates provisional; fixed bounds removed.
 id: river-valley-glassworks
 name: "River Valley Glassworks"
 alternate_names: []
 year: 2024
 
 # Relationships
-game_family: null
-edition: null
+game_family: river-valley-glassworks
+edition: Allplay English retail base game GME-RVG (2024); original physical printing uninspected
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +26,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 3
 value: 2  # Standard
 
 affinity: null
@@ -28,6 +40,8 @@ categories:
   - Modular Board
   - Family
   - Gateway
+  - Solo
+  - Animals
 
 evokes:
   - Clever
@@ -45,13 +59,14 @@ designer:
   - Matt Riddle
 publisher:
   - Allplay
-artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+artist:
+  - Andrew Bosley
+playtime_minutes: 25
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  River Valley Glassworks is a cozy 2024 tile-drafting and pattern-building game in which 1-5 players compete to collect pieces of colored glass and arrange them strategically in their glassworks shop. Players draft glass tiles from a shared river, placing them in their personal grid to create matching sets and patterns that score end-game bonuses. The game's modular board and open drafting create interesting competition for valuable glass pieces, while its quick 30-minute playtime and gentle theme make it an accessible family gateway. Designed by Adam Hill, Ben Pinchback, and Matt Riddle, River Valley Glassworks delivers a satisfying puzzle with just enough rivalry.
+  Gather colorful glass from a shared river to fill your workshop. Spend a piece from your satchel on a matching river shape, then take all the glass from an adjacent segment; drawing from the lake instead refills your satchel for later turns. New colors start columns from left to right, while repeated colors build upward. You score complete stretches of rows and your two tallest columns, so a large haul can help one plan while spoiling another. Extra glass that will not fit costs points. The base game includes automated rivals for solo play. This record covers the 2024 English retail game, with acrylic pieces; Deluxe components, real-glass upgrades and expansion powers are separate.
 
 upgrades: []

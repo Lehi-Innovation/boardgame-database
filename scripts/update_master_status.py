@@ -15,23 +15,19 @@ Backfill yaml_id by matching YAML names against master list:
 
 import argparse
 import csv
+import io
+import tempfile
 import json
 import os
-import re
 import sys
 
-import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
 MASTER_CSV = os.path.join(ROOT, "master_list.csv")
 GAMES_DIR = os.path.join(ROOT, "games")
 FIELDNAMES = ["bgg_id", "name", "year", "type", "status", "notes", "yaml_id"]
-
-
-def slugify(name):
-    s = name.lower()
-    s = re.sub(r"[^a-z0-9]+", "-", s)
-    return s.strip("-")
 
 
 def read_csv():
@@ -50,136 +46,66 @@ def read_csv():
 
 def write_csv(rows):
     """Write rows back to master_list.csv."""
-    with open(MASTER_CSV, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
-        writer.writeheader()
-        writer.writerows(rows)
+    buffer = io.StringIO(newline="")
+    writer = csv.DictWriter(buffer, fieldnames=FIELDNAMES)
+    writer.writeheader()
+    writer.writerows(rows)
+    fd, temporary = tempfile.mkstemp(prefix=".master-list-", suffix=".csv", dir=os.path.dirname(MASTER_CSV))
+    try:
+        with os.fdopen(fd, "w", newline="", encoding="utf-8") as handle:
+            handle.write(buffer.getvalue())
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temporary, MASTER_CSV)
+    finally:
+        if os.path.exists(temporary):
+            os.unlink(temporary)
 
 
-def update_row(rows, name, status=None, notes=None, yaml_id=None):
-    """Find row by name (case-insensitive) and update fields. Returns True if found."""
-    target = name.lower().strip()
-    for row in rows:
-        if row["name"].lower().strip() == target:
-            if status is not None:
-                row["status"] = status
-            if notes is not None:
-                row["notes"] = notes
-            if yaml_id is not None:
-                row["yaml_id"] = yaml_id
-            return True
-    return False
-
-
-def build_yaml_name_map():
-    """Build {lowercase_name: slug, alt_name: slug} from all YAML files."""
-    name_to_slug = {}
-    if not os.path.isdir(GAMES_DIR):
-        return name_to_slug
-    for fname in os.listdir(GAMES_DIR):
-        if not fname.endswith(".yaml"):
-            continue
-        slug = fname[:-5]
-        try:
-            with open(os.path.join(GAMES_DIR, fname)) as f:
-                data = yaml.safe_load(f)
-            if not data:
-                continue
-            if "name" in data:
-                name_to_slug[data["name"].lower()] = slug
-            for alt in data.get("alternate_names") or []:
-                if alt:
-                    name_to_slug[alt.lower()] = slug
-        except Exception:
-            pass
-    return name_to_slug
-
-
-def _is_subtitle_match(short, long):
-    """Check if short is the base name and long adds a subtitle.
-
-    Matches patterns like:
-      "heat" → "heat: pedal to the metal"
-      "1776" → "1776: the game of the american revolutionary war"
-      "the crew" → "the crew: the quest for planet nine"
-    Does NOT match:
-      "ants" → "ants in the pants" (no subtitle delimiter)
-      "steam" → "age of steam" (not a prefix)
-    """
-    if not long.startswith(short):
+def update_row(rows, name, status=None, notes=None, yaml_id=None, year=None, bgg_id=None):
+    """Update exactly one edition; never silently choose the first same-name row."""
+    target = name.casefold().strip()
+    matches = [row for row in rows if row["name"].casefold().strip() == target
+               and (year is None or row.get("year", "") == str(year))
+               and (bgg_id is None or row.get("bgg_id", "") == str(bgg_id))]
+    if not matches:
         return False
-    rest = long[len(short):]
-    if not rest:
-        return False
-    # Must be followed by a subtitle delimiter
-    return rest[0] in (":", ",") or rest.startswith(" -") or rest.startswith(" (")
+    if len(matches) > 1:
+        raise ValueError(f"Multiple catalog rows named {name!r}; supply year/bgg_id to select one edition")
+    if status is not None and status not in {"", "skip", "failed", "ambiguous", "duplicate"}:
+        raise ValueError(f"Unsupported status: {status}")
+    row = matches[0]
+    for field, value in (("status", status), ("notes", notes), ("yaml_id", yaml_id)):
+        if value is not None:
+            row[field] = value
+    return True
 
 
 def backfill(dry_run=False):
-    """Auto-populate yaml_id for master list entries that match YAML files by name."""
+    """Persist unique edition-aware matches; never infer from subtitle prefixes."""
+    from scripts.catalog import IdentityIndex, load_games
     rows = read_csv()
-    name_to_slug = build_yaml_name_map()
-    existing_slugs = {f[:-5] for f in os.listdir(GAMES_DIR) if f.endswith(".yaml")}
-
+    index = IdentityIndex(load_games())
     updated = 0
     for row in rows:
-        # Skip if already has yaml_id or has an excluded status
         if row.get("yaml_id", "").strip():
             continue
-        if row.get("status", "").strip() in ("skip", "failed", "ambiguous", "duplicate"):
-            continue
-
-        name = row["name"].strip()
-        name_lower = name.lower()
-        slug = slugify(name)
-
-        # Already matches by slug — no yaml_id needed
-        if slug in existing_slugs:
-            continue
-
-        # Already matches by exact name — no yaml_id needed
-        if name_lower in name_to_slug and name_to_slug[name_lower] == slug:
-            continue
-
-        # Strip parenthetical suffixes like "(game)", "(board game)" for matching
-        stripped = re.sub(r"\s*\((?:game|board game|card game|dup)\)\s*$", "", name_lower, flags=re.IGNORECASE)
-        stripped_slug = slugify(stripped) if stripped != name_lower else None
-
-        # Already matches by stripped slug — just needs yaml_id
-        if stripped_slug and stripped_slug in existing_slugs and stripped_slug != slug:
-            matched_slug = stripped_slug
-        else:
-            # Check if YAML name/alt exactly matches this master name
-            matched_slug = name_to_slug.get(name_lower)
-            if not matched_slug and stripped != name_lower:
-                matched_slug = name_to_slug.get(stripped)
-
-        if not matched_slug:
-            # Try subtitle matching: "Heat" matches "Heat: Pedal to the Metal"
-            # Only match if name appears before a subtitle delimiter (: or -)
-            candidates = []
-            for yaml_name, yaml_slug in name_to_slug.items():
-                if _is_subtitle_match(name_lower, yaml_name):
-                    candidates.append((yaml_name, yaml_slug))
-            if len(candidates) == 1:
-                matched_slug = candidates[0][1]
-
-        if matched_slug and os.path.isfile(os.path.join(GAMES_DIR, f"{matched_slug}.yaml")):
-            if dry_run:
-                print(f"  Would set: {name} → {matched_slug}")
-            else:
-                row["yaml_id"] = matched_slug
+        matched, reason = index.resolve(row)
+        if matched:
+            print(f"  {'Would set' if dry_run else 'Set'}: {row['name']} ({row['year']}) → {matched}")
+            if not dry_run:
+                row["yaml_id"] = matched
             updated += 1
-
     if not dry_run and updated:
         write_csv(rows)
-
     return updated
 
 
 def main():
     parser = argparse.ArgumentParser(description="Update master_list.csv status fields")
     parser.add_argument("name", nargs="?", help="Game name to update")
+    parser.add_argument("--year", help="Select the represented publication year")
+    parser.add_argument("--bgg-id", help="Select the discovery-source identifier")
     parser.add_argument("--status", help="Set status (skip, failed, ambiguous, duplicate)")
     parser.add_argument("--notes", help="Set notes")
     parser.add_argument("--yaml-id", help="Set yaml_id (slug of the YAML file)")
@@ -208,7 +134,7 @@ def main():
                 status = ""
             notes = entry.get("notes")
             yaml_id = entry.get("yaml_id")
-            if update_row(rows, name, status=status, notes=notes, yaml_id=yaml_id):
+            if update_row(rows, name, status=status, notes=notes, yaml_id=yaml_id, year=entry.get("year"), bgg_id=entry.get("bgg_id")):
                 updated += 1
             else:
                 not_found.append(name)
@@ -224,7 +150,7 @@ def main():
         sys.exit(1)
 
     rows = read_csv()
-    if update_row(rows, args.name, status=args.status, notes=args.notes, yaml_id=args.yaml_id):
+    if update_row(rows, args.name, status=args.status, notes=args.notes, yaml_id=args.yaml_id, year=args.year, bgg_id=args.bgg_id):
         if not args.dry_run:
             write_csv(rows)
             print(f"Updated '{args.name}'")
@@ -236,4 +162,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except ValueError as error:
+        print(str(error), file=sys.stderr)
+        sys.exit(1)

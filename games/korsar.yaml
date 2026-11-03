@@ -2,20 +2,20 @@ id: korsar
 name: "Korsar"
 alternate_names:
   - Pirat
-year: 1991
+year: 2002
 
 # Relationships
-game_family: null
-edition: null
+game_family: pirat
+edition: "Heidelberger Spieleverlag German (Nürnberg 2002)"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
+length: 1  # Appetizer; provisional estimate
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct attacks on shipping
 value: 1  # Budget
 
 affinity: null
@@ -37,20 +37,36 @@ evokes:
   - Lucky
   - Humor
 
-possible_counts: [2, 3, 4, 5, 6]
+possible_counts: [2, 3, 4, 5, 6, 8]
 true_counts: [3, 4, 5]
 
 designer:
   - Reiner Knizia
 publisher:
-  - Amigo Spiel
-artist: []
-playtime_minutes: 30
+  - Heidelberger Spieleverlag
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 20
 min_playtime: 20
-max_playtime: 45
+max_playtime: 20
 min_age: 10
 
 description: |
-  Korsar (originally titled "Pirat") is a 1991 pirate card game by Reiner Knizia for 2-6 or 8 players, in which players send trading ships on voyages while launching pirate attacks against opponents. Players defend their merchant vessels using pirate and captain cards, while trying to plunder enemy shipping with their own fleet. The single shared deck contains 25 merchant ships, 48 pirate ships, and 5 personality cards. The game won the 1992 Fairplay À la carte Winner award and the 2005 Mensa Select award, demonstrating its enduring appeal as a quick, thematic card game.
+  Korsar is Heidelberger's 2002 edition of Reiner Knizia's pirate card game,
+  previously published as Pirat by AMIGO in 1992. Send merchant ships to sea,
+  attack exposed ships with pirates or draw cards to improve your options.
+  A ship has to survive until its owner's next turn, or an attacker must retain
+  the strongest claim until their next turn, before the gold can be secured.
+
+  Tied attacks remain unresolved, and merchant ships left in your hand can
+  subtract from your haul at the end. Captains and the admiral can change a
+  contest quickly. Ordinary play supports two to five; the represented edition
+  also offers partnership play at four, six or eight. Those extra seats do not
+  apply to every earlier Pirat printing. Expect direct rivalry and changing
+  targets rather than a quiet exercise in optimizing a private hand.
+
+# Independent2002 played review and edition bibliography establish publisher,
+# Vohwinkel art,2–5/10+/about20 and4/6/8 team variant. OriginalAMIGO66-card set
+# is represented separately; no mixed-version deck inventory claimed here.
 
 upgrades: []

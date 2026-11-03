@@ -1,20 +1,20 @@
 id: lee-vs-grant
 name: "Lee vs. Grant: The Wilderness Campaign of 1864"
 alternate_names: []
-year: 1991
+year: 1988  # Publisher's contemporary awards advertisement: new in 1988.
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original Victory Games edition (1988)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 3  # Long
 rules_complexity: 3  # Complex
 strategic_depth: 3  # Deep
-feel: 3  # Competitive
+feel: 4  # Direct opposing-army combat.
 value: 2  # Standard
 
 affinity: null
@@ -36,16 +36,17 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - Joseph Balkoski
 publisher:
   - Victory Games
 artist: []
-playtime_minutes: 300
-min_playtime: 240
-max_playtime: 480
-min_age: 14
+playtime_minutes: 300  # Existing provisional session estimate; scenario choice matters.
+min_playtime: 120  # Retailer-listed range, not an inspected original box claim.
+max_playtime: 360
+min_age: null  # Original box age label not established.
 
 description: |
-  Lee vs. Grant: The Wilderness Campaign of 1864 is an operational wargame covering Ulysses S. Grant's relentless Overland Campaign against Robert E. Lee from the Wilderness through Cold Harbor. Unlike earlier Union commanders who retreated after tactical defeats, Grant continuously pressed south and southeast, and the game captures this dynamic with Grant unable to disengage and Lee forced into costly defensive battles. Players command the Army of the Potomac and the Army of Northern Virginia through some of the Civil War's bloodiest fighting, with attrition and supply lines playing key roles alongside maneuver. A detailed simulation of the grinding attritional style that defined Grant's 1864 strategy.
+  Lead the Union or Confederate army through the 1864 Wilderness Campaign in Virginia. Units maneuver across a historical map, with leaders affecting how forces operate. This is Joseph Balkoski's original 1988 Victory Games design; a contemporary publisher advertisement confirms that release year. Choose a scenario before setting aside playing time: the retailer lists two to six hours, while the nominal five-hour session and experience ratings here remain provisional.
 
 upgrades: []

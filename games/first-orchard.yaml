@@ -1,13 +1,19 @@
+# Downloaded/text-read original HABA 4655 rules©2009: 1–4/2+/about10, Farkaschovsky
+# idea/Neundorfer illustration, single shared basket, five path cards and one-fruit
+# basket result. Contemporary review includes November 2009 played assessment and
+# corroborates 2009. Earlier 1986 date belongs to different classic Orchard. Solo is
+# supported alongside cooperative group play; corrected solitary-only feel.
+# Experience and preferred-count ratings provisional; no invented owner plays.
 id: first-orchard
 name: "First Orchard"
 alternate_names:
-  - "My Very First Games: First Orchard"
-  - "Mein erstes Obstgarten-Spiel"
-year: 1986
+  - 'My Very First Games: First Orchard'
+  - Erster Obstgarten
+year: 2009
 
 # Relationships
-game_family: null
-edition: null
+game_family: haba-orchard
+edition: Original HABA First Orchard / Erster Obstgarten, product 4655 (2009)
 base_game: null
 expansions: []
 compatible_with: []
@@ -16,7 +22,7 @@ compatible_with: []
 length: 0  # Snack
 rules_complexity: 0  # Preschool
 strategic_depth: 0  # Reflex
-feel: 0  # Solitary
+feel: 1
 value: 1  # Budget
 
 affinity: null
@@ -37,16 +43,18 @@ evokes:
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]
 
-designer: []
+designer:
+  - Anneliese Farkaschovsky
 publisher:
   - HABA
-artist: []
+artist:
+  - Jutta Neundorfer
 playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
+min_playtime: null
+max_playtime: null
 min_age: 2
 
 description: |
-  First Orchard is HABA's iconic cooperative toddler game from their "My Very First Games" series, designed for children aged 2 and up. Players work together as a team to harvest all the fruit from the trees before the raven reaches the orchard: on each turn, a player rolls the color die and picks up the matching wooden fruit, unless the raven symbol is rolled — in which case the raven moves one step closer. If all fruit is picked before the raven arrives, everyone wins. Made in Germany with oversized wooden pieces sized for small hands, First Orchard has been introducing millions of children to cooperative play for decades.
+  Roll a color-and-symbol die and work together to gather the fruit before the raven reaches the orchard. A color collects one matching fruit, a basket lets you choose one fruit, and a raven moves the bird along its short path. Everyone shares the result, with a solo option using the same goal. Large wooden fruit and brief turns suit very young players; an adult can help with colors and turn-taking. This simplified 2009 game is separate from HABA’s older Orchard, which uses more fruit, a raven puzzle and a two-fruit basket action. No other game is required.
 
 upgrades: []

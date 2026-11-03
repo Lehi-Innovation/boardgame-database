@@ -5,7 +5,7 @@ year: 2015
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original HABA 300932 (2015); consulted English rule translation"
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,7 +14,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
-feel: 2  # Moderate
+feel: 3  # Polite; provisional estimate from separate boards and shared race rewards
 
 value: 2  # Standard
 
@@ -51,6 +51,22 @@ max_playtime: 45
 min_age: 8
 
 description: |
-  Karuba is a simultaneous tile-laying puzzle race game in which all players race to connect their four explorers to their matching temples across a private jungle grid. One player draws numbered tiles and all players place the same tile on their own board, deciding whether to lay the tile (extending pathways) or discard it (moving an explorer along an existing path). Each player thus builds a unique jungle from the same tile sequence, with faster routes yielding more treasure but fewer points per temple. Nominated for the 2016 Spiel des Jahres, Karuba is a smart, accessible family game that feels like a puzzle race where everyone is competing on their own board simultaneously.
+  Karuba is a simultaneous route-building race on separate jungle boards. Each
+  round, an expedition leader reveals a numbered tile and everyone uses the
+  same tile. Place it to extend paths, or discard it to move an adventurer along
+  an existing route. The number of path exits on the discarded tile determines
+  the movement available, creating a choice between building and progressing.
+
+  Guide four adventurers to matching temples while collecting crystals and
+  gold along the way. Earlier temple arrivals take the most valuable remaining
+  treasure, so speed earns more temple points, not fewer. A fast route can still
+  miss valuable pickups or obstruct another adventurer. Play ends when the tile
+  supply runs out or someone brings all four adventurers to their temples;
+  total treasure decides the winner. The 2016 award nomination followed the
+  original 2015 publication.
+
+# Primary2015 rules and contemporary2016 teaching catalog distinguish publication
+# from nomination. Rules confirm2–4/8+; printed quick-reference five-player wording
+# was not imported as original-box support. Duration/preferences/ratings provisional.
 
 upgrades: []

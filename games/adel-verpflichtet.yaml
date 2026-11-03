@@ -7,8 +7,8 @@ alternate_names:
 year: 1990
 
 # Relationships
-game_family: null
-edition: null
+game_family: adel-verpflichtet
+edition: "1990 F.X. Schmid original"
 base_game: null
 expansions: []
 compatible_with: []
@@ -44,8 +44,8 @@ evokes:
   - Rivalry
 
 # Player counts
-possible_counts: [2, 3, 4, 5, 6]
-true_counts: [3, 4]
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
 
 # Metadata
 designer:
@@ -54,10 +54,10 @@ publisher:
   - F.X. Schmid
 artist:
   - Cornelia von Seidlein
-playtime_minutes: 45
-min_playtime: 45
-max_playtime: 45
-min_age: 10
+playtime_minutes: 60  # Jury estimate for the original edition.
+min_playtime: null
+max_playtime: null
+min_age: 12
 
 # Description
 description: |

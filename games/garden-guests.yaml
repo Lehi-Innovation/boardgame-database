@@ -5,16 +5,16 @@ year: 2023
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original English Van Ryder Games edition (2023), VRG012"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4  # Direct path blocking and rival colony takeovers, individually or in teams.
 value: 2  # Standard
 
 affinity: null
@@ -46,11 +46,11 @@ publisher:
 artist:
   - Kristena Derrick
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Garden Guests is a 2023 strategy game from Van Ryder Games in which players or teams construct an unbroken path of stones and beetle colonies across a vibrant hexagonal game board. Players compete to fully traverse the board with their path before opponents can do the same, using movement patterns and careful planning. The game can be played with individuals or teams, but communication between teammates is restricted, making coordination a puzzle in itself. With its beautiful paper-cut art and accessible rules, it earned a Barnes and Noble Game of the Month nomination in 2024.
+  Collect flower cards to build beetle colonies and connect them with paths across the garden. An unconnected colony can be taken over by a rival, while completed connections protect colonies and can obstruct opposing routes. With teammates, passing cards is a way to coordinate without discussing strategy. Two or three players compete individually; four or six play in equal teams, and five uses two pairs plus one individual with a special setup. The first team to connect its two sides wins. This record follows the original English 2023 Van Ryder edition with Kristena Derrick's hand-cut artwork. Duration and preferred-count judgments are provisional; supported counts do not imply that every format offers the same experience.
 
 upgrades: []

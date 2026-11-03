@@ -1,3 +1,14 @@
+# Canadian Museum of History artifact2004.18.931.2 is cataloged1940; related
+# artifact996.4.5.1 has explicit copyright1940 inscription but broad circa dating.
+# AGPI physical-box catalog also records copyright1940, not certified first sale.
+# Selected scope is documented early Copp Clark Canadian game, not an invented
+# 1941 printing. Generic1941 discovery row stays pending; explicit1940 row added.
+# Primary rules consulted as House of Games transcription, not original pixels:
+# 2–8; poker showdown OR optional betting; subsequent suit sequences are stops
+# play, not trick-taking. Widow hand can be exchanged/auctioned; unused cards
+# block runs, and remaining-card payments occur at hand end/deadlock. No fixed
+# session length: about60 minutes, preferred counts and experience tags provisional.
+# Original age/individual creator/art unverified. No universal first-marketing claim.
 id: rummoli
 name: "Rummoli"
 alternate_names: []
@@ -5,7 +16,7 @@ year: 1940
 
 # Relationships
 game_family: null
-edition: null
+edition: Copp Clark Canadian game represented by a museum artifact cataloged 1940 and copyright-1940 rules; exact first sale unverified
 base_game: null
 expansions: []
 compatible_with: []
@@ -21,11 +32,12 @@ affinity: null
 hotness: null
 
 categories:
-  - Trick-taking
-  - Set Collection
+  - Hand Management
+  - Auctions/Bidding
+  - Bluffing
   - Party
   - Family
-  - Gateway
+  - Traditional
 
 evokes:
   - Lucky
@@ -42,11 +54,11 @@ publisher:
   - Copp Clark Publishing Company
 artist: []
 playtime_minutes: 60
-min_playtime: 45
-max_playtime: 90
-min_age: 8
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Rummoli is a beloved Canadian card game first marketed in 1940 by the Copp Clark Publishing Company of Toronto, blending elements of Poker and Rummy into a unique hybrid experience. The game is played in two phases on a distinctive octagonal Rummoli board: first a Poker Play phase using standard poker hands, then a Rummy Play phase in which players race to empty their hands by sequentially playing cards. Players collect chips from the board for achieving specific card combinations and must pay chips when they cannot play. As a member of the Stops family of matching card games related to the French game Poch and the American game Tripoley, Rummoli has become a quintessential Canadian family game night classic.
+  Play a poker contest, then race to empty your hand through runs of cards in the same suit. Before a hand, everyone adds chips to the board’s marked pots; the dealer may exchange for an unseen spare hand or auction it. Agree whether poker uses a simple showdown or betting. During the following card run, particular cards and combinations collect their marked pots. The first player to empty their hand collects the Rummoli pot, and the others pay according to their remaining cards. Unclaimed pots can carry over, creating anticipation between hands. Choose the number of hands together; this record follows Copp Clark’s copyright-1940 Canadian rules, with two to eight players and chips as counters.
 
 upgrades: []

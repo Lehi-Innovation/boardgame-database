@@ -1,30 +1,38 @@
+# Contemporary Metagaming advertisement in Dragon16 credits Lynn Willis and
+# Jaquays, not Steve Jackson. Read indexed ad text only; direct PDF failed certificate
+# validation, which was not bypassed. Independent physical-edition index identifies
+# 1978/product 3107 and lists Jackson among playtesters. Modern artist name Jennell
+# Jaquays corresponds to the historical Paul Jaquays credit. Original full manual
+# uninspected; age and duration bounds unknown. About45 minutes and ratings
+# provisional; introductory and advanced scenarios differ. Not a ten-minute snack.
 id: olympica
 name: "Olympica"
 alternate_names: []
-year: 1980
+year: 1978
 
 # Relationships
 game_family: null
-edition: null
+edition: Metagaming MicroGame 07, product 3107 (1978)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 1  # Simple
+length: 2
+rules_complexity: 2
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
-value: 1  # Budget
+feel: 4
+value: 0
 
 affinity: null
 hotness: null
 
 categories:
   - Hex Map
+  - Dice Rolling
+  - Asymmetric
   - Wargame
   - Sci-Fi
-  - Abstract
 
 evokes:
   - Tension
@@ -37,16 +45,17 @@ possible_counts: [2]
 true_counts: [2]
 
 designer:
-  - Steve Jackson
+  - Lynn Willis
 publisher:
   - Metagaming Concepts
-artist: []
+artist:
+  - Jennell Jaquays
 playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 12
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Olympica is a sci-fi microgame by Steve Jackson published by Metagaming Concepts, pitting U.N. forces against Martian defenders on the surface of Mars. One player commands the attacking United Nations troops attempting to storm the Martian facility at Olympica, while the other controls the Martian defenders. Like other Metagaming microgames of this era, Olympica was designed to be fast-playing and affordable, fitting the full game experience into a small package with a hex map and cardboard counters. It is regarded as an accessible and enjoyable example of the microgame format pioneered by Metagaming in the 1970s-80s.
+  Raid a Martian stronghold to seize the Web Mind Generator before its defenders can stop you. One player commands United Nations infantry, laser tanks and airborne troops; the other uses defensive positions, tunnels and the generator’s influence. Hidden defenses and different capabilities give the two sides different problems to solve. This is Lynn Willis’s 1978 Metagaming microgame, with a small hex map and counters. It offers introductory and advanced scenarios, with more rules to manage than its compact package suggests. Original age and duration labels remain unverified; the session estimate is provisional.
 
 upgrades: []

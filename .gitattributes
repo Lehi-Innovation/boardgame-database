@@ -1,0 +1,2 @@
+# The canonical CSV retains its existing CRLF record separators.
+*.csv whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

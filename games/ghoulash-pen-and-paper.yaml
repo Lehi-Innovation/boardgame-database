@@ -1,0 +1,54 @@
+id: ghoulash-pen-and-paper
+name: "Ghoulash: The Game of Pen & Paper Peril"
+alternate_names:
+  - "Ghoulash: The Last Game on Earth (2001 scenarios)"
+year: 2001
+
+game_family: ghoulash
+edition: "Revised one-sheet scenario game, first distributed online in 2001"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Provisional experience estimates, not owner ratings or community consensus.
+length: 1
+rules_complexity: 1
+strategic_depth: 2
+feel: 3
+value: 0
+affinity: null
+hotness: null
+
+categories:
+  - Horror
+  - Deduction
+  - Hidden Movement
+  - Role Playing
+evokes:
+  - Dread
+  - Mystery
+  - Tension
+  - Discovery
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+designer:
+  - Mike Suchcicki
+# Creator's account credits Joe Suchcicki with helping refine this revision,
+# without assigning him a separate formal designer credit for the 2001 release.
+publisher:
+  - Mike Suchcicki
+artist: []
+playtime_minutes: 30  # Provisional estimate; depends on the chosen scenario.
+min_playtime: null
+max_playtime: null
+min_age: null
+
+description: |
+  Two players explore a ghoul-infested adventure using separate paper charts, each acting as the other's game master. The revised design fits the charts and instructions onto a sheet and offers scenarios with different situations and objectives. The creator's current description gives a race to destroy eight ghouls as the goal, rather than a shared cooperative victory. Bring the chosen charts and writing tools; familiarity with a scenario can change the surprise of discovering it. This record follows the revision distributed online in 2001, separate from the original 1982 game. Timing and experience assessments remain provisional.
+
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

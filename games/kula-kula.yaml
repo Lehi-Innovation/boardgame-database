@@ -4,14 +4,14 @@ alternate_names: []
 year: 1993
 
 # Relationships
-game_family: null
-edition: null
+game_family: kula-kula
+edition: "Blatz Spiele mass-market edition (1993)"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
+length: 1  # Appetizer; provisional estimate
 rules_complexity: 1  # Simple
 strategic_depth: 1  # Light
 feel: 2  # Moderate
@@ -21,11 +21,13 @@ affinity: null
 hotness: null
 
 categories:
-  - Abstract
+  - Racing
+  - Set Collection
+  - Press Your Luck
   - Family
 
 evokes:
-  - Clever
+  - Complete
   - Tension
   - Rivalry
   - Lucky
@@ -38,14 +40,28 @@ designer:
   - Reinhold Wittig
 publisher:
   - Blatz
-artist:
-  - Hartmut Gärling
+artist: []
 playtime_minutes: 30
 min_playtime: 20
 max_playtime: 40
 min_age: 8
 
 description: |
-  Kula Kula is a 1993 abstract board game designed by Reinhold Wittig and published by Blatz, for 3-5 players aged 8 and up with a playtime of about 30 minutes. Little detailed information is available about the game's specific mechanics beyond its abstract gameplay and age-appropriate scope, suggesting it is a straightforward abstract game in the tradition of Reinhold Wittig's other simple but engaging designs.
+  Kula Kula is a canoe race around Pacific islands, collecting shells and
+  exchanging them for more valuable cowries. Move cautiously one point at a
+  time, or consult the oracle by revealing cards to travel farther. Revealing
+  an idol stops the journey instead, so extra movement comes with the risk of
+  making no progress. A spinning dolphin indicates where a new shell appears.
+
+  Reach islands while they still have cowries to exchange, and collect enough
+  to win. The Blatz edition's wooden canoes, dolphin and real shells earned the
+  1993 special award for a beautiful game. This record represents that version,
+  distinct from the earlier Edition Perlhuhn issue; its specifications are not
+  a claim that both packages had identical materials or instructions.
+
+# Jury and independent Blatz review establish actual race/collection/oracle rules,
+# 3–5/8+/about30. Bibliography separately lists1991 EditionPerlhuhn, whose original
+# manual was not inspected; its catalog row stays pending. Unsupported Gärling
+# art credit cleared. Duration/preferences/experience estimates remain provisional.
 
 upgrades: []

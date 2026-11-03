@@ -5,13 +5,13 @@ year: 2022
 
 # Relationships
 game_family: null
-edition: null
+edition: AEG standard English box (14+)
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Appetizer (30 min)
+length: 2  # Main Course; estimate for the sourced 45–60 minute range
 rules_complexity: 1  # Elementary
 strategic_depth: 1  # Basic
 feel: 2  # Party
@@ -54,10 +54,10 @@ publisher:
 artist:
   - Athena Cagle
   - Kirk W. Buckendorf
-playtime_minutes: 50
+playtime_minutes: 50  # Nominal estimate within the box range
 min_playtime: 45
 max_playtime: 60
-min_age: 10
+min_age: 14  # English box/storefront; AEG general game page currently says 10+
 
 # Description
 description: |

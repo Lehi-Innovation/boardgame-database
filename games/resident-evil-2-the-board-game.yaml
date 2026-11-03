@@ -1,11 +1,11 @@
 id: resident-evil-2-the-board-game
 name: "Resident Evil 2: The Board Game"
 alternate_names: []
-year: 2018
+year: 2019
 
 # Relationships
 game_family: null
-edition: null
+edition: Original retail base game; release announced for 25 January 2019
 base_game: null
 expansions: []
 compatible_with: []
@@ -50,8 +50,8 @@ publisher:
 artist: []
 playtime_minutes: 120
 min_playtime: 90
-max_playtime: 180
-min_age: 18
+max_playtime: 120
+min_age: 14
 
 description: |
   Resident Evil 2: The Board Game is a cooperative survival horror game for 1-4 players that faithfully adapts the classic video game to the tabletop. Players take on the roles of Leon Kennedy, Claire Redfield, and other iconic characters as they navigate the zombie-infested Raccoon City Police Department, managing limited resources and fighting off relentless undead threats. Each round players take four actions — moving, attacking, opening doors, or using items — before a Tension deck card drives enemy reactions and escalates the dread. The game is praised for its ability to capture the claustrophobic tension and resource scarcity of the original video game in tabletop form.

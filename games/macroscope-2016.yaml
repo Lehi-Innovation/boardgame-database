@@ -1,0 +1,57 @@
+# Primary Hobby Japan release entry dates a localized version September 2016 and
+# identifies Lifestyle as original publisher. Independent played bibliography also
+# dates the earlier game 2016; English rules were read as indexed excerpts, direct
+# download406. Exact first language, printing and original artists remain unknown;
+# a later publisher catalog’s four illustrators are not certified for first printing.
+# Preferred counts unknown; ratings provisional.
+id: macroscope-2016
+name: Macroscope
+alternate_names:
+  - Макроскоп
+year: 2016
+game_family: macroscope
+edition: Original Lifestyle game (2016); original language/printing unverified
+base_game: null
+expansions: []
+compatible_with: []
+length: 1
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Deduction
+  - Dice Rolling
+  - Party
+  - Family
+  - Puzzle Solving
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Lucky
+  - Humor
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts: []
+designer:
+  - Martin Nedergaard Andersen
+publisher:
+  - Lifestyle Boardgames
+artist: []
+playtime_minutes: 30
+min_playtime: null
+max_playtime: null
+min_age: 6
+description: |
+  Recognize a hidden drawing by looking through the few openings in a cardboard viewing device. Roll dice to choose which covers can come off, then decide whether to guess or let the next player see more. An early correct answer earns more crystals, but a wrong answer carries a larger penalty; rivals can also challenge a guess. Compare scores after ten pictures. Simple visual clues make it approachable across ages, though people may find some drawings much harder than others. This record represents the original 2016 Lifestyle game; Mayday’s later English edition is recorded separately.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -54,7 +54,7 @@
       position: absolute;
       top: 0; left: 0;
       width: 100%; height: 100%;
-      object-fit: cover;
+      object-fit: contain;
     }
 
     .image-area.drag-over {
@@ -241,7 +241,7 @@
 
     .modal-two-column { display: grid; grid-template-columns: 200px 1fr; gap: 20px; align-items: start; }
     .modal-image { width: 200px; aspect-ratio: 1; background: var(--elevated); border-radius: var(--radius-lg); overflow: hidden; }
-    .modal-image img { width: 100%; height: 100%; object-fit: cover; }
+    .modal-image img { width: 100%; height: 100%; object-fit: contain; }
     .modal-image-placeholder {
       width: 100%; height: 100%;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
@@ -290,6 +290,7 @@
       </div>
       <nav class="site-nav">
         <a href="/">Games</a>
+        <a href="/contribute">Suggest a game</a>
         <a href="/images" class="active">Images</a>
         <a href="/master-list">Master List</a>
       </nav>
@@ -345,6 +346,7 @@
   <!-- Toast Container -->
   <div id="toast-container" class="toast-container"></div>
 
+  <script src="/api/schema.js"></script>
   <script>
     // State
     let allGames = [];
@@ -367,38 +369,18 @@
     const toastContainer = document.getElementById('toast-container');
 
     // Rating Labels
-    const RATING_LABELS = {
-      length: { 0: 'Snack (10 min)', 1: 'Appetizer (30 min)', 2: 'Main Course (1 hr)', 3: 'Feast (3 hrs)', 4: 'Marathon (6+ hrs)' },
-      rules_complexity: { 0: 'Preschool', 1: 'Elementary', 2: 'Junior High/HS', 3: 'College', 4: 'PhD' },
-      strategic_depth: { 0: 'Reflex', 1: 'Basic', 2: 'Tactics', 3: 'Strategy', 4: 'Master Plan' },
-      feel: { 0: 'Solitary', 1: 'Cooperative', 2: 'Party', 3: 'Polite', 4: 'Fierce' },
-      value: { 0: 'Impulse', 1: 'Bargain', 2: 'Fair Deal', 3: 'Splurge', 4: 'Heirloom' },
-      affinity: { 0: 'Loathe it', 1: 'Yawn', 2: 'Enjoyable', 3: 'Delight', 4: 'Mind-blowing' },
-      hotness: { 0: 'Will not play', 1: 'Only if forced', 2: 'Sure', 3: 'Would love to', 4: 'Deep yearning' }
-    };
+    const RATING_LABELS = Object.fromEntries(Object.entries(CatalogSchema.ratings).map(([field, def]) => [field, def.values]));
 
     const RATING_NAMES = {
       length: 'Length', rules_complexity: 'Rules Complexity', strategic_depth: 'Strategic Depth',
       feel: 'Feel', value: 'Value', affinity: 'Affinity', hotness: 'Hotness'
     };
 
-    const MECHANICS = [
-      'Worker Placement', 'Deck Building', 'Engine Building', 'Area Control',
-      'Tile Placement', 'Dice Rolling', 'Set Collection', 'Trick-taking',
-      'Auctions/Bidding', 'Cooperative', '1 vs Many', 'Teams', 'Real-time',
-      'Traitor', 'Social Deduction', 'Drafting', 'Press Your Luck', 'Roll & Write',
-      'Hex Map', 'Campaign Mode', 'Legacy', 'Bag Building', 'Hand Management',
-      'Modular Board', 'Variable Setup', 'Take That', 'Narrative Heavy',
-      'Puzzle Solving', 'No Math', 'Word Play', 'Deduction', 'Racing',
-      'Economic', 'Action Points', 'Route Building', 'Network Building',
-      'Pattern Building', 'Resource Management', 'Trading', 'Negotiation',
-      'Bluffing', 'Hidden Movement', 'Programmed Movement', 'Simultaneous Action',
-      'Card Drafting', 'Tableau Building', 'Tech Tree', 'Rondel', 'Mancala', 'Dexterity'
-    ];
-    const STYLES = ['Euro','Ameritrash','Abstract','Party','Family','Wargame','Filler','Gateway','Cult Classic','Dungeon Crawler','4X','Dudes on a Map'];
-    const THEMES = ['Fantasy','Sci-Fi','Horror','Historical','Western','Pirates','Zombies','Vampires','Cthulhu','Aliens','Post-Apocalyptic','Superheroes','Marvel','Disney','Lord of the Rings','Animals','Food Theme','Time Travel','Space','Medieval','Ancient','Mythology','Nature','City Building','Civilization','War','Survival','Mystery','Espionage','Steampunk','Cyberpunk','Aviation','Maritime','Trains','Agriculture'];
-    const DESIGNERS_LIST = ['Reiner Knizia','Uwe Rosenberg','Vlaada Chvatil','Stefan Feld','Martin Wallace','Eric Lang','Jamey Stegmaier','Cole Wehrle','Corey Konieczka','Bruno Cathala','Antoine Bauza','Wolfgang Kramer','Michael Kiesling','Alexander Pfister','Vital Lacerda','Matt Leacock','Rob Daviau','Richard Garfield','Klaus Teuber','Alan R. Moon','Donald X. Vaccarino','Isaac Childres','Simone Luciani','Daniele Tascini','Phil Walker-Harding','Friedemann Friese','Mac Gerdts','Carl Chudyk'];
-    const PUBLISHERS_LIST = ['Stonemaier Games','Fantasy Flight Games','Leder Games','CMON','Days of Wonder','Chip Theory Games','Restoration Games','Z-Man Games','Rio Grande Games','Ravensburger','Asmodee','Cephalofair Games','Roxley Games','Renegade Game Studios','Capstone Games','Eagle-Gryphon Games','Czech Games Edition','Portal Games','Plaid Hat Games','Red Raven Games','Osprey Games','Greater Than Games'];
+    const MECHANICS = CatalogSchema.categories.mechanics;
+    const STYLES = CatalogSchema.categories.styles;
+    const THEMES = CatalogSchema.categories.themes;
+    const DESIGNERS_LIST = CatalogSchema.categories.designers;
+    const PUBLISHERS_LIST = CatalogSchema.categories.publishers;
 
     function getCategoryType(category) {
       if (MECHANICS.includes(category)) return 'mechanic';
@@ -619,11 +601,11 @@
 
     async function init() {
       try {
+        setupEventListeners();
         loadingState.style.display = 'block';
         await loadGames();
-        setupEventListeners();
         updateStats();
-        renderGames();
+        handleSearch({ target: searchInput });
         loadingState.style.display = 'none';
       } catch (error) {
         console.error('Failed to initialize:', error);

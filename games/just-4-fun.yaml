@@ -6,16 +6,16 @@ year: 2006
 
 # Relationships
 game_family: null
-edition: null
+edition: "KOSMOS German 691523 (Nürnberg 2006)"
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
+length: 1  # Appetizer; provisional estimate
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct blocking and contested majorities
 
 value: 1  # Budget
 
@@ -43,13 +43,31 @@ designer:
   - Jürgen P. Grunau
 publisher:
   - KOSMOS
-artist: []
+artist:
+  - Claus Stephan
+  - Mirko Suzuki
 playtime_minutes: 25
 min_playtime: 20
 max_playtime: 30
-min_age: 9
+min_age: 10
 
 description: |
-  Just 4 Fun is an abstract card game published by KOSMOS in which players hold cards numbered 1 through 19 and play one to four cards per turn to place stones on a 36-square numbered grid. The goal is to form a line of four stones horizontally, vertically, or diagonally. Strategic card play and blocking opponents while building your own lines creates genuine tension in a compact format. Winner of the 2006 Japan Boardgame Prize Best Foreign Game for Beginners and nominated for multiple family game awards, Just 4 Fun successfully bridges the gap between abstract strategy and accessible family gaming.
+  Just 4 Fun combines arithmetic with a contest for four controlled spaces in a
+  line. Play one to four cards from your hand and add their values to choose a
+  numbered square on the board. Place one stone there, then refill your hand.
+  Several players can occupy a square; you control it only by having more
+  stones there than anyone else, rather than merely being the latest arrival.
+
+  Build a horizontal, vertical or diagonal line while interrupting opponents'
+  plans. With the secured-field rule, a two-stone lead can lock a square. If nobody wins
+  within twenty turns each, the values of controlled squares decide the winner.
+  Card luck limits your choices, but combining values gives several ways to
+  reinforce a position or block an immediate threat. This record represents the
+  KOSMOS numbered-board edition, distinct from the color-based standalone game.
+
+# Contemporary2006 fair press/reviews and edition bibliography identify691523.
+# Some later references say2005; contemporary review distinguishes2005 Mach4
+# magazine predecessor. Selected2006 is explicit, not inferred from award year.
+# Jury/licensed platform confirm10+ and2–4; duration/preferences/ratings provisional.
 
 upgrades: []

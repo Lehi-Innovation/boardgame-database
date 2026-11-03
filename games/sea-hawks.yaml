@@ -31,7 +31,7 @@ evokes:
   - Rivalry
   - Lucky
   - Tension
-  - Adventure
+  - "Wonder"
 
 possible_counts: [2, 3, 4]
 true_counts: [3, 4]

@@ -1,12 +1,12 @@
 id: jumbulaya
 name: "Jumbulaya"
 alternate_names:
-  - Jumbulaya: The Rearranging, Ever-Changing Word Jumble Game
-year: 2008
+  - "Jumbulaya: The Rearranging, Ever-Changing Word Jumble Game"
+year: 2007
 
 # Relationships
 game_family: null
-edition: null
+edition: "Platypus Games English original (December 2007)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -15,7 +15,7 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 2  # Moderate
+feel: 4  # Fierce; provisional estimate from taking ownership of opponents' words
 
 value: 1  # Budget
 
@@ -24,7 +24,6 @@ hotness: null
 
 categories:
   - Word Play
-  - Party
   - Hand Management
 
 evokes:
@@ -41,12 +40,28 @@ designer: []
 publisher:
   - Platypus Games LLC
 artist: []
-playtime_minutes: 30
-min_playtime: 20
+playtime_minutes: 45
+min_playtime: 30
 max_playtime: 45
 min_age: 13
 
 description: |
-  Jumbulaya is an ever-changing word jumble game for 2-4 players where players build and rearrange words on a nine-row board. Unlike traditional word games, players may trade tiles with those already on the board and rearrange any complete row to form new words, making the puzzle dynamic and constantly shifting. A player wins by building a 10-letter word, claiming all 9 rows, or calling a JUMBULAYA — a word using one letter from seven or more words already on the board. The ability to restructure existing words rather than just adding to them gives Jumbulaya a distinctly strategic character among word games.
+  Jumbulaya is a word-building contest on nine shared rows. Rearrange an existing
+  word, add tiles or trade tiles from your rack to make a different word, then
+  take ownership of that row. Each turn can add or exchange at most two tiles
+  from your rack, so another player's word can become your opportunity.
+
+  Once all rows contain claimed words and at least one is seven tiles long,
+  anyone can call a Jumbulaya: a seven-, eight- or nine-tile word taking at most
+  one tile from each row in top-to-bottom order. The letters need not share a
+  column. This ends play but does not automatically win it: score controlled
+  rows, the Jumbulaya and letter-combination bonuses. A ten-tile horizontal word
+  or claiming all nine rows also ends play. Most points wins. Expect vocabulary
+  challenges and deliberate thinking, rather than a timed shouting game.
+
+# Contemporary trade report supplies December2007 launch, distinct from2008 awards.
+# Original scanned rules were visually read. 13+ and30–45 come from a played-copy
+# review, not an inspected original box; competing retailer/trade ages differ.
+# Suggested counts, nominal duration and experience ratings remain provisional.
 
 upgrades: []

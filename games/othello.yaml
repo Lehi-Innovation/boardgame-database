@@ -1,19 +1,26 @@
+# Official brand history dates commercial debut April29, 1973; licensor confirms
+# Tsukuda Original 1973 and US Gabriel licensing 1975.1977 is first world championship,
+# not first publication. Generic 1977 discovery row remains pending without printing
+# evidence; explicit 1973 row added. WOF current official rules establish shared
+# modern core, not an inspected 1973 package. Earlier Reversi variants not a universal
+# edition alias; unsupported 1971 patent claim removed. Original age and time bounds
+# unknown; about30 minutes and ratings provisional.
 id: othello
 name: "Othello"
 alternate_names:
-  - Reversi
-year: 1971
+  - オセロ
+year: 1973
 
 # Relationships
 game_family: null
-edition: null
+edition: Modern Othello, first commercial Japanese release by Tsukuda Original (1973); original package uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
+rules_complexity: 1
 strategic_depth: 3  # Deep
 feel: 3  # Competitive
 value: 1  # Budget
@@ -39,14 +46,14 @@ true_counts: [2]
 designer:
   - Goro Hasegawa
 publisher:
-  - Mattel
+  - Tsukuda Original
 artist: []
 playtime_minutes: 30
-min_playtime: 15
-max_playtime: 45
-min_age: 7
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Othello (also known as Reversi) is a classic two-player abstract strategy game played on an 8×8 board with 64 reversible discs that are light on one side and dark on the other. Players take turns placing discs so that they bracket and flip one or more of the opponent's pieces, turning them to their own color. The game's famous tagline — "a minute to learn, a lifetime to master" — captures its accessibility combined with profound strategic depth. Originally dating to Victorian England as Reversi, the modern Othello trademark was patented in Japan in 1971 by Goro Hasegawa and has since sold tens of millions of copies worldwide, remaining one of the best-known abstract strategy games ever made.
+  Place a disc so that it traps a straight line of your opponent’s discs between your new disc and one already showing your color, then flip every trapped line. Black starts from the fixed four-disc center position. You must move when able and pass when you cannot; the game ends when neither player can move, even if empty squares remain. The player with more discs wins. Simple turns conceal a demanding contest over mobility, edges and timing. This record represents modern Othello, commercially launched in Japan in 1973. Earlier Reversi games have their own histories and rule variants.
 
 upgrades: []

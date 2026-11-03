@@ -1,3 +1,5 @@
+# Original year retained; consulted rules mirror explicitly ©2017, not original art evidence.
+# Ratings/shortcut tags and preferred player counts are provisional.
 id: labyrinth
 name: "Labyrinth"
 alternate_names:
@@ -7,16 +9,16 @@ year: 1986
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Ravensburger maze game (1986); later rules consulted
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 0  # Snack
-rules_complexity: 0  # Preschool
+length: 1
+rules_complexity: 1
 strategic_depth: 1  # Light
-feel: 2  # Moderate
+feel: 3
 value: 1  # Budget
 
 affinity: null
@@ -50,6 +52,6 @@ max_playtime: 30
 min_age: 7
 
 description: |
-  Labyrinth is a 1986 Ravensburger classic designed by German psychologist Max Kobbert in which 2-4 players navigate a shifting maze to collect treasure tokens. The game board consists of both fixed and sliding tile sections; on each turn, a player inserts a spare tile from the edge to push the row or column, reshaping the maze before moving their token. Players race to reach all their treasures in the order dictated by their cards, using the ever-changing pathways to their advantage while blocking opponents. Published as "Das verrückte Labyrinth" in Germany, it has spawned over 60 versions in nearly 40 years and remains Ravensburger's signature family game title.
+  Shift a row of paths with the spare tile, then move through the newly connected maze toward the treasure shown on your secret card. Other players move the same maze, so a route can disappear before your next turn. Reach all your assigned treasures and return to your starting corner to win. This is Max Kobbert’s family maze game, separate from GMT’s 2010 geopolitical simulation.
 
 upgrades: []

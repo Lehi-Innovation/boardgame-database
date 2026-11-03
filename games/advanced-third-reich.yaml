@@ -4,7 +4,7 @@ year: 1992
 
 # Relationships
 game_family: third-reich
-edition: null
+edition: "Avalon Hill English AVH888 (1992)"
 base_game: null
 expansions: []
 compatible_with: []
@@ -13,7 +13,7 @@ compatible_with: []
 length: 4  # Marathon (8+ hours)
 rules_complexity: 4  # PhD
 strategic_depth: 4  # Master Plan
-feel: 3  # Competitive
+feel: 4  # Fierce; provisional estimate from direct warfare
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -36,7 +36,7 @@ evokes:
   - Powerful
 
 # Player counts
-possible_counts: [2, 3, 4, 5]
+possible_counts: [2, 3, 4, 5, 6]
 true_counts: [2]
 
 # Metadata
@@ -46,9 +46,9 @@ publisher:
   - Avalon Hill
 artist: []
 playtime_minutes: 720
-min_playtime: 480
+min_playtime: 180
 max_playtime: 1200
-min_age: 16
+min_age: 12
 
 # Description
 description: |
@@ -61,9 +61,15 @@ description: |
   Axis side, and Britain, France, the Soviet Union, and the United States on the
   Allied side. The game uses a detailed economic system for production, a
   sophisticated combat model, and rules for diplomacy and political events.
-  A3R is one of the most comprehensive and highly-regarded WWII strategic
-  simulations ever produced, though its immense scope demands a serious time
-  commitment and experienced players.
+  Scenarios and the full campaign require very different time commitments;
+  coordinating production, fronts and allied powers makes this a demanding
+  choice for players willing to learn a substantial rules system. It is distinct
+  from Avalanche Press's Third Reich/Great Pacific War game line and combined
+  Second World War rules. That line's specifications do not describe A3R.
+
+# Retailer physical-product inventory identifies AVH888, 1992, 2–6, 12+ and
+# 180–1200 minutes; original manual/box was not personally inspected. Nominal
+# duration, preferred count and experience ratings remain provisional estimates.
 
 # Upgrades
 upgrades: []

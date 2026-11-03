@@ -8,6 +8,8 @@ A requested game can be added whether or not it appears in a source list. `maste
 
 Check existing IDs, primary names, alternate names, and editions before creating a record. Confirm whether the request means a base game, expansion, reimplementation, or particular edition. Reuse the existing record when it is the same game; do not collapse distinct editions merely because a title matches.
 
+Traditional games do not need manufactured packaging or a single publisher to qualify. Museum, cultural, education and research sources can establish identity and rules. Keep uncertain origin dates and universal minimum ages unknown, and explain meaningful rule variants. Historical `failed` notes are earlier research outcomes, not permanent scope decisions; reopen them when suitable evidence is found.
+
 Use a lowercase hyphenated slug matching `games/{slug}.yaml`. Use the publication year of the represented edition. Shared families describe related games; `compatible_with` describes actual combinability, not merely a shared theme.
 
 ## Gather evidence
@@ -31,7 +33,7 @@ Replace those illustrative URLs with actual sources. The pipeline truncates each
 Use `schema.yaml`'s game template, including alternate names, minimum age, description, and play-tracking fields. Read a current record for formatting rather than copying a frozen template from an agent prompt.
 
 - Use 2-space indentation, explicit `null`, lists for multiple values, and a block scalar for the description.
-- Use exact category/evokes vocabulary. The current convention is five distinct evokes values; the proposed genre redesign has not been implemented.
+- Use exact category/evokes vocabulary. Use five distinct evokes values when the play experience can be researched or reasonably estimated. Use `evokes: []` when it remains unknown, explaining the missing evidence in comments; do not keep invented tags just to meet a count. Partially filled lists are invalid. The proposed genre redesign has not been implemented.
 - Keep ratings within 0–4 and use the schema's meanings. In particular, `feel` currently encodes social mode as well as intensity; it is not a generic competition score.
 - Leave `affinity` and `hotness` null on new records. Preserve existing owner ratings and play history when correcting records.
 - Separate supported player counts from estimated/recommended counts.
@@ -44,11 +46,11 @@ For newly created records, initialize `plays_tracked` using the schema. Some old
 
 Preserve the CSV columns `bgg_id`, `name`, `year`, `type`, `status`, `notes`, and `yaml_id`. Add genuinely new catalog games with at least a name and known edition information; do not invent BGG IDs. Use `yaml_id` to link an existing catalog row to a differently named game file.
 
-Use `scripts/update_master_status.py` for status/mapping updates. Supported exclusions are `skip`, `failed`, `ambiguous`, and `duplicate`; document the reason in `notes`. Inspect `--backfill --dry-run` before accepting inferred mappings. A completed game has a record/mapping, not a permanent `done` status value.
+Use `scripts/update_master_status.py` for status/mapping updates. When titles repeat, select the intended edition with `--year` and/or `--bgg-id`; ambiguous updates fail instead of choosing the first row. Supported exclusions are `skip`, `failed`, `ambiguous`, and `duplicate`; document the reason in `notes`. Inspect `--backfill --dry-run` before accepting inferred mappings. A completed game has a record/mapping, not a permanent `done` status value.
 
 For authorized batches, the researcher can process up to 50 assigned games sequentially. Report each input as created, existing, failed, ambiguous, duplicate, or not attempted, including actual YAML slugs and reasons. A coordinator can merge results through `--from-results results.json`; the script translates `status: done` to an empty status. Do not let multiple workers overwrite the CSV or shared provenance log. Stop a batch early if evidence quality or context capacity becomes insufficient.
 
-After catalog changes, rebuild with `python scripts/build_db.py` and inspect its output. Restart the web server to load the new query database.
+After catalog changes, rebuild with `python scripts/build_db.py` and inspect its output. The server detects the rebuilt query database automatically.
 
 ## Record provenance
 
@@ -69,7 +71,7 @@ The shared writer uses safe YAML serialization, whole-document validation, a sta
 
 Read back the saved record and parse it. Verify filename/ID, valid categories and evokes, rating ranges, player-count consistency, and that the description agrees with the evidence. Use [the development checks](development.md#checks) as a starting point.
 
-Run `python scripts/validate_catalog.py --games games/SLUG.yaml` for structural and vocabulary checks on a changed record. This does not establish factual accuracy or permission to reuse a source. Run the full audit when reviewing catalog-wide consistency; it currently reports known data issues listed in [status.md](status.md).
+Run `python scripts/validate_catalog.py --games games/SLUG.yaml` for structural and vocabulary checks on a changed record. This does not establish factual accuracy or permission to reuse a source. Run the full audit when reviewing catalog-wide consistency; its structural checks now pass, with remaining identity/factual-quality work listed in [status.md](status.md).
 
 Report the created or updated game, actual source coverage, and material uncertainty or incomplete work. Do not call a game fully verified solely because the file exists.
 

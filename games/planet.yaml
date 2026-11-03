@@ -1,11 +1,18 @@
+# Publisher credits and downloaded UK rules correct false Arthur Meunier/
+# Conception Studio credits to Urtis Šulinskas/Sabrina Miramon. Copyright 2018 plus
+# November 2018 played review with six plays establish finished European availability;
+# 2019 review/localization dates do not establish original release or a separate
+# printing. Rules: 2–4/8+/about 30; animal awards start in round three and use three
+# different habitat conditions. Duration bounds unverified. Preferred counts and
+# experience ratings provisional; competitive spatial puzzle, not necessarily party.
 id: planet
 name: "Planet"
 alternate_names: []
-year: 2019
+year: 2018
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Blue Orange European game (2018); UK English rules consulted
 base_game: null
 expansions: []
 compatible_with: []
@@ -13,8 +20,8 @@ compatible_with: []
 # Ratings (0-4 scale)
 length: 1  # Short
 rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+strategic_depth: 2
+feel: 3
 value: 2  # Standard
 
 affinity: null
@@ -38,17 +45,17 @@ possible_counts: [2, 3, 4]
 true_counts: [3, 4]
 
 designer:
-  - Arthur Meunier
+  - Urtis Šulinskas
 publisher:
   - Blue Orange Games
 artist:
-  - Conception Studio
+  - Sabrina Miramon
 playtime_minutes: 30
-min_playtime: 25
-max_playtime: 40
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Planet is a visually stunning drafting and tile-placement game in which 2–4 players build three-dimensional planets using magnetic landscape tiles representing oceans, deserts, mountains, and frozen tundra. Over 12 rounds, players take turns selecting and placing continent tiles onto their 12-sided planet cores, attempting to create the most attractive habitats for different animal species. At the end of each round, players win animal cards by having the largest single biome that matches each animal's habitat preference. A secret Natural Habitat objective for each player adds a layer of hidden scoring. Winner of multiple awards and beloved for its extraordinary tactile components and accessible design.
+  Draft magnetic landscape tiles and fit them around a twelve-sided planet. Connect habitats while watching the animals available in upcoming rounds. From the third round onward, animal cards reward different patterns: many separate regions, or a large region that touches or avoids another habitat. Your private habitat objective adds another reason to favor particular terrain. Rotating the planet and comparing its surfaces makes this a tactile spatial puzzle, with competition for tiles and animal cards. This record represents the original 2018 European game, using its English rules.
 
 upgrades: []

@@ -41,13 +41,15 @@ designer:
   - Paul Schulz
 publisher:
   - Oink Games
-artist: []
-playtime_minutes: 10
-min_playtime: 5
-max_playtime: 15
+artist:
+  - Jun Sasaki
+  - Rie Komatsuzaki
+playtime_minutes: 15
+min_playtime: null
+max_playtime: null
 min_age: 6
 
 description: |
-  DroPolter is a fast-paced 2023 dexterity and memory game by Paul Schulz, published by Oink Games, in which players race to drop the correct item from their palm using only one hand. Each round, a theme card is flipped and players must quickly shed only the matching items from their hand of five objects — which include various shapes and materials like brass, wood, and glass — without dropping incorrect pieces. Wrong drops earn penalty points, and the challenge of distinguishing similar-feeling items by weight and texture creates genuine moments of hilarious confusion. Compact and portable in Oink's signature small-box format, DroPolter is a lively party filler for all ages.
+  DroPolter is a fast-paced 2023 dexterity game by Paul Schulz, published by Oink Games, in which players race to drop the correct item from their palm using only one hand. Each round, a theme card is flipped and players must quickly shed only the matching items from their hand of five objects — which include various shapes and materials like brass, wood, and glass — without dropping incorrect pieces. Dropping a wrong item fails that attempt, and the challenge of distinguishing similar-feeling items by weight and texture creates genuine moments of hilarious confusion. Compact and portable in Oink's signature small-box format, DroPolter is a lively party filler for all ages.
 
 upgrades: []

@@ -2,7 +2,7 @@
 
 An approachable board game catalog for discovering games that fit your people, time, and desired experience, including hidden gems. The intended product is a visual, mobile-first guide supported by curated community contributions.
 
-The repository currently contains a CSV discovery catalog, detailed YAML records, a derived SQLite query store, research tools, and a local web interface. Public contribution workflows and personalized discovery are future work.
+The repository currently contains a CSV discovery catalog, detailed YAML records, a derived SQLite query store, research tools, and a local web interface. A local suggestion/correction inbox with review history is available; public accounts and personalized discovery remain future work.
 
 ## Start here
 
@@ -13,6 +13,8 @@ The repository currently contains a CSV discovery catalog, detailed YAML records
 | How do I run and check the project? | [Development guide](docs/development.md) |
 | How do I research or correct a game? | [Research workflow](docs/research.md) |
 | What works, what needs attention, and what comes next? | [Project status](docs/status.md) |
+| How are identity conflicts and structural repairs handled? | [Catalog maintenance](docs/catalog-maintenance.md) |
+| How do suggestions and reviews work? | [Contributions](docs/contributions.md) |
 | What fields and values are valid? | [Schema](schema.yaml) |
 | What should a coding assistant read? | [Agent guidance](AGENTS.md) |
 
@@ -31,11 +33,11 @@ npm ci
 npm start
 ```
 
-Open [the game browser](http://localhost:3000/) or [the catalog backlog](http://localhost:3000/master-list). See the [development guide](docs/development.md) for prerequisites and the development launcher.
+Open [the game browser](http://localhost:3000/), [the catalog backlog](http://localhost:3000/master-list), or [the suggestion form](http://localhost:3000/contribute). See the [development guide](docs/development.md) for prerequisites and the development launcher.
 
-The web app is currently a local administration tool with unauthenticated image uploads. Public hosting needs a separate implementation and access-control review.
+The web app binds to loopback and is a local administration tool. Public hosting needs authenticated roles and an access-control implementation.
 
-Run focused checks with `python -m unittest discover -s tests -v` and `python scripts/validate_catalog.py --only log`. The full read-only audit, `python scripts/validate_catalog.py --json`, reports existing catalog issues described in [project status](docs/status.md).
+Run focused checks with `python -m unittest discover -s tests -v` and `python scripts/validate_catalog.py --only log`. The full read-only audit, `python scripts/validate_catalog.py --json`, now passes structural checks. Unresolved identity and factual-quality work is tracked in [project status](docs/status.md).
 
 ## Working data
 

@@ -1,0 +1,59 @@
+# Historical edition bibliography and independent game history establish Battleline
+# 1977/Taylor/Wood. Diplomacy hobby directory distinguishes later AvalonHill and
+# Judge variants. No original rulebook inspected; optional disaster/assassination
+# mechanics of later versions are not certified for this printing. Independent
+# history supplies 4–8; original age, duration and artists unknown. Preferred
+# counts unknown; length and other experience ratings are provisional.
+id: machiavelli-1977
+name: Machiavelli
+alternate_names: []
+year: 1977
+game_family: null
+edition: Original Battleline game (1977); original manual not inspected
+base_game: null
+expansions: []
+compatible_with: []
+length: 4
+rules_complexity: 3
+strategic_depth: 3
+feel: 4
+value: 2
+affinity: null
+hotness: null
+categories:
+  - Negotiation
+  - Simultaneous Action
+  - Area Control
+  - Resource Management
+  - Wargame
+  - Historical
+  - Political
+evokes:
+  - Persuasion
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+possible_counts:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+true_counts: []
+designer:
+  - S. Craig Taylor
+  - James B. Wood
+publisher:
+  - Battleline Publications
+artist: []
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: null
+description: |
+  Negotiate alliances and compete for territory in Renaissance Italy, using armies, fleets, money and garrisons. It develops Diplomacy’s system of simultaneous orders with financial decisions and opportunities to undermine another ruler. Agreements depend on the people at the table, so bargaining and broken promises can matter as much as military position. Allow a substantial session and a group comfortable with direct conflict. This record represents the original 1977 Battleline game, separate from later Avalon Hill revisions and from Citadels, which also uses Machiavelli as a localized title. Detailed first-edition rules and timing remain unverified.
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

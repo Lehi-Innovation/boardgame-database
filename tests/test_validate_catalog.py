@@ -28,6 +28,13 @@ class CatalogValidationTests(unittest.TestCase):
     def test_schema_template_with_valid_values_passes(self):
         self.assertEqual(self.codes(self.game()), set())
 
+    def test_unknown_experience_can_be_empty_but_partial_tag_lists_fail(self):
+        self.assertEqual(self.codes(self.game() | {"evokes": []}), set())
+        for count in (1, 2, 3, 4, 6):
+            with self.subTest(count=count):
+                self.assertIn("evokes_count", self.codes(self.game() | {
+                    "evokes": self.schema["evokes"]["values"][:count]}))
+
     def test_numeric_ids_including_leading_zero_are_reported(self):
         result = validate_game(self.game() | {"id": 7}, Path("007.yaml"), self.schema)
         self.assertEqual(result[0]["code"], "record_id")
@@ -51,6 +58,12 @@ class CatalogValidationTests(unittest.TestCase):
     def test_player_count_types_and_supported_recommendations(self):
         game = self.game() | {"possible_counts": [True, "2"], "true_counts": [4]}
         self.assertEqual(self.codes(game), {"player_count", "recommended_count"})
+
+    def test_exact_large_group_counts_survive_without_an_upper_cap(self):
+        game = self.game() | {"possible_counts": [2, 16, 30, "12+"], "true_counts": [16, 30]}
+        self.assertEqual(self.codes(game), set())
+        game["possible_counts"] = [0, -1, True, "16"]
+        self.assertIn("player_count", self.codes(game))
 
     def test_invalid_lists_numbers_and_playtime_range(self):
         game = self.game() | {"designer": "A designer", "categories": [{}], "min_age": False,

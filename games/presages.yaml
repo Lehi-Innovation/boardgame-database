@@ -1,11 +1,11 @@
 id: presages
 name: "Présages"
 alternate_names: []
-year: 2024
+year: 2025
 
 # Relationships
 game_family: null
-edition: null
+edition: Original Spiral Éditions game (March 2025)
 base_game: null
 expansions: []
 compatible_with: []
@@ -14,16 +14,15 @@ compatible_with: []
 length: 1  # Short
 rules_complexity: 1  # Simple
 strategic_depth: 2  # Moderate
-feel: 1  # Light
+feel: 4  # Provisional: competing teams can disrupt each other's plans
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
-  - Cooperative
+  - Teams
   - Hand Management
-  - Card Drafting
   - Family
 
 evokes:
@@ -33,8 +32,8 @@ evokes:
   - Complete
   - Agency
 
-possible_counts: [2, 3, 4, 5]
-true_counts: [3, 4]
+possible_counts: [4, 5, 6]
+true_counts: [4, 6]  # Provisional preference for even teams, not a publisher recommendation
 
 designer:
   - Maxime Rambourg
@@ -43,11 +42,19 @@ publisher:
 artist:
   - Ben Renaut
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+min_playtime: null
+max_playtime: null
 min_age: 10
 
 description: |
-  Présages is a cooperative card game designed by Maxime Rambourg and illustrated by Ben Renaut, published by Spiral Editions. Players work together to reduce their hands to a single card each, using carefully planned card plays and communication to whittle down their collective holdings without breaking the rules. Winner of awards at the Prix des Boutiques Ludiques for both its designer and illustrator, the game is praised for combining elegant simplicity with satisfying cooperative tension.
+  Competing teams try to shed their cards. Everyone plays a card each turn; the
+  strongest card is discarded, but card powers can change what else disappears.
+  Cards left in play return to their owners, and a team wins the round when one
+  of its members has only one card remaining.
+
+  Use effects to help a partner or obstruct an opponent. Expect a short contest
+  of timing and shifting card combinations; that experience assessment remains
+  provisional. The publisher supports four to six players, age ten and up. This
+  is team competition rather than a game in which everyone wins together.
 
 upgrades: []

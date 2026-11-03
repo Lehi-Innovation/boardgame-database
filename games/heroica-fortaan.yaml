@@ -34,7 +34,7 @@ evokes:
   - Wonder
   - Lucky
   - Connection
-  - Adventure
+  - "Progress"
 
 possible_counts: [2, 3, 4]
 true_counts: [2, 3, 4]

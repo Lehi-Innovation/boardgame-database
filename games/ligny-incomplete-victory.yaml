@@ -1,16 +1,16 @@
 id: ligny-incomplete-victory
 name: "Ligny: Incomplete Victory"
 alternate_names: []
-year: 1987
+year: 1976
 
 # Relationships
 game_family: null
-edition: null
+edition: "Original SPI folio (1976)"
 base_game: null
 expansions: []
 compatible_with: []
 
-# Ratings (0-4 scale)
+# Provisional experience estimates, not owner ratings or community consensus.
 length: 3  # Long
 rules_complexity: 3  # Complex
 strategic_depth: 3  # Deep
@@ -36,16 +36,17 @@ evokes:
 possible_counts: [2]
 true_counts: [2]
 
-designer: []
+designer:
+  - Kevin Zucker
 publisher:
-  - GMT Games
+  - Simulations Publications, Inc. (SPI)
 artist: []
-playtime_minutes: 240
-min_playtime: 180
-max_playtime: 360
-min_age: 14
+playtime_minutes: 240  # Existing provisional standalone estimate; not quad-set timing.
+min_playtime: null
+max_playtime: null
+min_age: null  # Original standalone age label not established.
 
 description: |
-  Ligny: Incomplete Victory is a hex-and-counter wargame covering the Battle of Ligny on June 16, 1815, the day before Waterloo, where Napoleon defeated the Prussian Army under Blücher. Players command the French Imperial Army attempting to decisively destroy the Prussians before they can link with Wellington's Anglo-Allied forces, or the Prussians trying to hold long enough to conduct an orderly retreat. The game explores the what-ifs of the campaign's opening — could Napoleon have won decisively enough to alter the outcome at Waterloo? The title refers to the incomplete nature of the French tactical victory that still left the Prussians able to march to Wellington's aid two days later.
+  Command opposing French and Prussian forces at Ligny in this historical hex-and-counter battle game. It belongs to Kevin Zucker's original 1976 SPI Napoleon's Last Battles group, whose four battle maps can also form a larger campaign. This record represents the individual Ligny folio, rather than a later edition or the combined campaign. Expect military positioning on a historical map; duration, experience ratings and the existing two-player setup remain provisional pending an original standalone rules review.
 
 upgrades: []

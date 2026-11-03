@@ -33,7 +33,7 @@ evokes:
   - Complete
   - Agency
   - Tension
-  - Puzzle Solving
+  - "Masterful"
 
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]

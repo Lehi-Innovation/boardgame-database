@@ -1,0 +1,58 @@
+# Strong museum history and independently authored LudoSophia historical catalog
+# establish Miro France 1957, separate from Parker 1959 Risk. Public Ludism scan
+# of French rules consulted for title, 3–6, components and conquest objective;
+# first two pages pixel-read. Exact physical printing and original age unknown.
+# Historical catalog also mentions Vernes refinements; this does not independently
+# prove an original co-design credit, so only confirmed Lamorisse retained. About
+# 120 minutes and experience ratings provisional; no fixed duration bounds or
+# preferred counts. Later Risk variants not imported. No compatibility asserted.
+id: la-conquete-du-monde-1957
+name: La Conquête du Monde
+alternate_names: []
+year: 1957
+game_family: risk
+edition: Miro original French game (1957); exact printing of consulted rule scan unverified
+length: 3
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
+value: 2
+categories:
+  - Dice Rolling
+  - Area Control
+  - Negotiation
+  - Take That
+  - Wargame
+  - War
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Lucky
+  - Persuasion
+possible_counts:
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts: []
+designer:
+  - Albert Lamorisse
+publisher:
+  - Miro
+artist: []
+playtime_minutes: 120
+min_playtime: null
+max_playtime: null
+min_age: null
+description: |
+  Command armies on a world map, reinforce the territories you hold and attack neighboring rivals with dice. Controlling a whole continent gives extra troops, but expanding can leave a border exposed. Short agreements may help you survive an enemy’s attack, while the conquest objective ultimately puts every other player in your way. A defeated player leaves the game before the final winner is decided. This record represents Miro’s original French game from 1957, the predecessor to Parker Brothers’ 1959 Risk. The consulted scan supports three to six players; its exact printing and original age guidance remain unknown.
+base_game: null
+expansions: []
+compatible_with: []
+affinity: null
+hotness: null
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

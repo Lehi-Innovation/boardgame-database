@@ -30,7 +30,7 @@ evokes:
   - Humor
   - Connection
   - Wonder
-  - Lucky
+  - "Complete"
 
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3, 4]

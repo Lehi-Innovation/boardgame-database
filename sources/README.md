@@ -24,7 +24,7 @@ entries:
 
 Use the actual game slug, consulted URL, and an honest description of what it supports. Record factual uncertainty and estimates where useful. The timestamp in this example is illustrative; do not invent exact retrieval times. New pipeline entries use the actual UTC logging time and explain that returned text may be cached. That time is not proof of a fresh page retrieval. Older midnight timestamps, including the converted Calico date-only entries, remain day-level placeholders.
 
-The historical Calico and Campaign Manager sections have been normalized into the canonical list. Original URLs, notes, dates, and source order were preserved. Historical game slugs without a current filename are retained for identity review; see [the status page](../docs/status.md).
+The historical Calico and Campaign Manager sections have been normalized into the canonical list. Original URLs, notes, dates, and source order were preserved. Historical game slugs are retained unchanged. The initial nineteen reviewed historical links and three retired duplicate-record IDs are recorded separately in [game-aliases.yaml](game-aliases.yaml), with edition-specific explanations; see [the status page](../docs/status.md).
 
 Use the shared writer for both pipeline logging and separately consulted evidence. Collect canonical entries in a JSON list, then run from the repository root:
 
