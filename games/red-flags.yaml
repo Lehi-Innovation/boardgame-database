@@ -1,18 +1,27 @@
+# Creator’s March–April 2015 crowdfunding and ICv2 interview reporting actual
+# late-2015 Skybound distribution establish release year, not old unsupported 2014.
+# Skybound 400-card English SKU SKY966 inventory supplies 3–10/17+/about 30; retailer
+# 2018 local listing date is not original publication. Actual 2015 box/rule printing
+# and original art credit uninspected; later 16+/3–20 guidance not merged universally.
+# Directly read fan-hosted rule transcription, not an original manual: two perks,
+# red trait applied to player on left, chosen round/point target. Removed false
+# Single-card trophy claim and Social Deduction tag. Preferred counts and all
+# experience ratings provisional; no fixed 20–45 session bounds certified.
 id: red-flags
 name: "Red Flags"
 alternate_names: ["Red Flags: The Game of Terrible Dates"]
-year: 2014
+year: 2015
 
 # Relationships
 game_family: null
-edition: null
+edition: Skybound English 400-card base game, released 2015; original physical printing uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 0  # Preschool
+rules_complexity: 1
 strategic_depth: 0  # Reflex
 feel: 2  # Moderate
 value: 1  # Budget
@@ -23,7 +32,7 @@ hotness: null
 categories:
   - Party
   - Hand Management
-  - Social Deduction
+  - Creative
   - Humor
 
 evokes:
@@ -39,15 +48,14 @@ true_counts: [5, 6, 7]
 designer:
   - Jack Dire
 publisher:
-  - Jack Dire Studios
-  - Grim Rabbit Games
+  - Skybound Games
 artist: []
 playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+min_playtime: null
+max_playtime: null
 min_age: 17
 
 description: |
-  Red Flags: The Game of Terrible Dates is a party card game designed by Jack Dire (creator of Superfight) in which players compete to set the Single up with the most attractive fictional date using Perk cards, then sabotage everyone else's dates with Red Flag cards describing terrible traits. The Single judges which date is most appealing despite the red flags, and the winner keeps the Single card for the round. Played with 3-10 players, the game generates raucous debate and laughter as players argue why their deeply flawed date is still the best option.
+  Invent a fictional date that will appeal to the round’s judge by combining two positive-trait cards. Then add a terrible trait to the date offered by the player on your left. Everyone argues why their flawed candidate is still the best choice, and the judge picks a winner. The fun depends on reading the judge’s tastes and improvising explanations for awkward combinations. This is a party game about persuasion and made-up dates, with adult humor, rather than deducing hidden roles. Choose the session length together: the transcribed rules suggest two turns around the table, a seven-point target or simply stopping when the group is ready.
 
 upgrades: []

@@ -2587,3 +2587,105 @@ decisions:
     reference establish Di Meglio magnetic-egg game, not false 1994 plastic toy. Mattioli
     art distinguished from Maiorana graphics, 2–4/8+, no timer, competitive empty-supply victory.
     Exact original English printing uninspected.
+- name: Raumschach
+  year: null
+  yaml_id: raumschach
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.raumschach.org/rules
+  - https://www.raumschach.org/dickins
+  - https://www.raumschach.org/pritchard
+  - https://www.raumschach.org/maack-game-rules
+  reason: Specific five-board Normal Form distinguished from generic 3D-chess family overview,
+    now archived unchanged without alias. 1907 is early invention, not verified first publication
+    of this exact ruleset; detailed year unknown. Normal Form has ten pawns/two unicorns per
+    side, unlike Maack’s 1913 five-pawn arrangement.
+  previous_record_year: 1907
+- name: three-dimensional chess
+  year: null
+  yaml_id: null
+  status: skip
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.raumschach.org/rules
+  - https://www.raumschach.org/dickins
+  - https://www.raumschach.org/pritchard
+  - https://www.raumschach.org/maack-game-rules
+  reason: Generic family overview spans multiple playable variants and falsely gave one Maack
+    date/designer as universal. Original YAML archived byte-for-byte with empty owner fields;
+    no alias to a particular game. Raumschach remains separately represented in documented
+    Normal Form.
+- name: Rebel Princess
+  year: 2024
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://beziergames.com/products/rebel-princess-deluxe-edition
+  - https://cdn.shopify.com/s/files/1/0740/4855/files/RPDX_Online_Rules_Preview.pdf
+  - https://beziergames.com/blogs/news/rebel-princess-developing-a-modern-classic
+  - https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+  - https://www.meeplemountain.com/reviews/rebel-princess-deluxe-edition/
+  reason: Contemporary distributor lists both Bézier standard BEZRPSE and Deluxe BEZRPDX in
+    2024. Generic row has no edition/SKU evidence, so stays pending; explicit Deluxe row added.
+    Old 2015 cooperative concept unsupported. Deluxe rules and age/duration source conflict
+    are documented.
+  previous_record_year: 2015
+- name: Red Flags
+  year: 2015
+  yaml_id: red-flags
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.kickstarter.com/projects/jackdire/red-flags-the-new-party-game-from-the-creator-of-s
+  - https://icv2.com/articles/news/view/37345/skybound-release-the-grimm-forest
+  - https://dungeonmarvels.com/red-flags-32864.html
+  - https://www.ultraboardgames.com/red-flags/game-rules.php
+  reason: Creator’s 2015 campaign plus trade interview confirming late-2015 Skybound distribution
+    resolve year. Represented 400-card English base game uses identified SKY966 inventory
+    guidance; original physical printing uninspected, later age/count variants not merged.
+    Session length chosen by rounds or point target.
+  previous_record_year: 2014
+- name: Resist!
+  year: 2023
+  yaml_id: resist
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://25thcenturygames.com/products/resist
+  - https://www.phdgames.com/2023/03/27/psi-april-19-releases/
+  - https://www.boardgamequest.com/resist-review/
+  - https://opinionatedgamers.com/2022/09/30/resistance-is-not-futile-a-solo-game-review/
+  reason: Specific 25th Century TFC34000 U.S. English edition announced March 2023 and independently
+    reviewed August 2023, separate from earlier Salt & Pepper 2022 original. Primary publisher
+    restores 10+ and concealed/revealed deck decisions; sole-player mode is not multiplayer
+    cooperation.
+  previous_record_year: 2022
+- name: 'Rebel Princess: Deluxe Edition'
+  year: 2024
+  yaml_id: rebel-princess
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://beziergames.com/products/rebel-princess-deluxe-edition
+  - https://cdn.shopify.com/s/files/1/0740/4855/files/RPDX_Online_Rules_Preview.pdf
+  - https://beziergames.com/blogs/news/rebel-princess-developing-a-modern-classic
+  - https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+  - https://www.meeplemountain.com/reviews/rebel-princess-deluxe-edition/
+  reason: Explicit Bézier English Deluxe BEZRPDX (2024), distinct from concurrent standard
+    and original Spanish editions; publisher-linked preview, contemporary product/development
+    evidence and actual-play review consulted. Generic 2024 reference stays pending without
+    SKU. Physical English age/time labels uninspected; conflicting guidance retained.
+- name: Rebel Princess
+  year: 2024
+  yaml_id: null
+  status: ambiguous
+  reviewed_on: '2026-11-02'
+  previous_auto_match: rebel-princess
+  basis:
+  - https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+  reason: Both standard BEZRPSE and Deluxe BEZRPDX were announced by Bézier’s distributor
+    for 2024. Generic row has no SKU/edition evidence. Marked ambiguous to prevent the title/filename
+    fallback from silently selecting Deluxe; explicit Deluxe row covers the reviewed record.
+    Original 2015 cooperative description was unsupported.

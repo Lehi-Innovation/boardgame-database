@@ -114,14 +114,15 @@ Parker row covers the corrected record. **Aggravation** represents CO-5's 1962
 four-player set, while **Wahoo** represents traditional marble-racing variants.
 Maker names and board limits are not universal rules for every Wahoo set.
 
-Two category-level YAMLs, `tiger-game` and
-`third-reich-great-pacific-war-series`, are now [archived unchanged](../archive/2026-11-02/README.md)
+Three category-level YAMLs, `tiger-game`,
+`third-reich-great-pacific-war-series` and `three-dimensional-chess`, are now [archived unchanged](../archive/2026-11-02/README.md)
 as family overviews. Their dates, player counts and ratings did not identify
-one playable game. The latter also blended separate publishers' game lines;
-both family discovery rows are explained `skip` entries. Neither retired ID had historical
-evidence entries or owner history, and neither redirects to an arbitrary member.
-Specific Bagh-Chal and Advanced Third Reich remain active. This is an entity-scope
-correction, not evidence that every game within either family has been researched.
+one playable game. The wargame-series overview also blended separate publishers'
+game lines. All three family discovery rows are explained `skip` entries. None
+had historical evidence entries or owner history, and none redirects to an arbitrary
+member. Specific Bagh-Chal, Advanced Third Reich and Raumschach remain active.
+This is an entity-scope correction, not evidence that every family member has
+been researched.
 
 Other reviewed rethemes remain separate as well: original Jactalea **Kamon (2007)**
 uses symbol quantities while Cosmoludo's **2020** revision uses colors; original
@@ -317,3 +318,36 @@ description. Its turns have no timer, and victory is competitive rather than
 cooperative. English distribution by Fantasy Flight is distinguished from Nexus’s
 publisher role and later localized issues; exact original physical printing is
 uninspected. Age guidance is 8+, with duration estimates kept provisional.
+
+**Raumschach** now explicitly represents the documented five-board **Normal Form**,
+with twenty pieces per side, including ten pawns and two unicorns. Maack’s 1913
+five-space arrangement has five pawns per side, so those setups are not blended.
+The former 1907 year describes early development, not a verified publication date
+for the represented rules; year and universal minimum age stay unknown. Historical
+texts were read as reproductions, with omitted diagrams and uninspected originals
+made explicit. The generic three-dimensional-chess overview is archived unchanged.
+
+**Rebel Princess: Deluxe Edition (2024)** replaces the unsupported 2015 cooperative
+description. The publisher-linked raster rules preview, contemporary development
+account and actual-play evidence establish the competitive trick-taking design.
+Only relevant core/credit pages were inspected; the file is not certified as an
+original production rulebook. A dated, explicit Deluxe row covers **BEZRPDX**.
+The generic **Rebel Princess (2024)** row is `ambiguous`, since the distributor
+also lists standard **BEZRPSE** in that year. This status prevents the filename
+fallback from selecting Deluxe automatically. The distributor’s 8+/30–40 guidance
+conflicts with the specific Deluxe review’s 15+/45; the selected source guidance
+and uninspected physical English labels remain explicit.
+
+**Red Flags (2015)** now represents Skybound’s 400-card English base game, with
+actual 2015 distribution established separately from its crowdfunding. Later
+publishers’ and localizations’ metadata are not combined. Its session can be
+chosen by rounds or points, so the unsupported fixed bounds were cleared. The
+rules were consulted as a fan-hosted transcription, not an original manual;
+no separate Single-card trophy is supported.
+
+**Resist! (2023)** now explicitly represents **25th Century’s U.S. TFC34000**,
+from contemporary distributor and actual-play evidence. Original Salt & Pepper
+availability in 2022 remains distinct. The publisher’s 10+ guidance replaces 14+,
+and the core concealed-versus-revealed deck decisions are explained. Original-printing
+misprints are not assigned to this later edition. Its solo mode is not multiplayer
+cooperation; all experience estimates remain provisional.

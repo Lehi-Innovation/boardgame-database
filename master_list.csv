@@ -2550,7 +2550,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 387780,Rats of Wistar,2023,boardgame,,,
 27940,RattleSnake,2007,boardgame,,"English Nexus copyright-2007 production rules plus independent contemporary played reference establish Di Meglio magnetic-egg game, not false 1994 plastic toy. Mattioli art distinguished from Maiorana graphics, 2–4/8+, no timer, competitive empty-supply victory. Exact original English printing uninspected.",rattlesnake
 42452,Rattus,,boardgame,,,
-34848,Raumschach,,boardgame,,,
+34848,Raumschach,,boardgame,,"Specific five-board Normal Form distinguished from generic 3D-chess family overview, now archived unchanged without alias. 1907 is early invention, not verified first publication of this exact ruleset; detailed year unknown. Normal Form has ten pawns/two unicorns per side, unlike Maack’s 1913 five-pawn arrangement.",raumschach
 12645,Rave,,boardgame,,,
 12589,Razzia!,,boardgame,,,
 59776,Razzo Raketo,,boardgame,,,
@@ -3306,7 +3306,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Thiruthamizh,,boardgame,,,
 188920,This War of Mine: The Board Game,,boardgame,,,
 ,Thomas the Tank Engine Game,,boardgame,,,
-,three-dimensional chess,,boardgame,,,
+,three-dimensional chess,,boardgame,skip,Generic family overview spans multiple playable variants and falsely gave one Maack date/designer as universal. Original YAML archived byte-for-byte with empty owner fields; no alias to a particular game. Raumschach remains separately represented in documented Normal Form.,
 20806,Three-Dragon Ante,,boardgame,,,
 7108,three-player chess,,boardgame,,,
 ,Through the Ages,2006,boardgame,,,through-the-ages-2006
@@ -3786,7 +3786,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Brick Like This,2024,boardgame,,,
 ,Comic Hunters,2024,boardgame,,"Contemporary announcement plus actual Gen Con2024 finished-copy report establish Arcane Wonders/Spin Master English6070364, not unsupported detailed2022. English SKU inventory1–4/14+/60; retailer generic2020 year not transferred. Original translated rules and fan cooperative variant are distinct evidence.",comic-hunters
 ,Monopoly Deal,2008,boardgame,,,
-,Red Flags,2015,boardgame,,,
+,Red Flags,2015,boardgame,,"Creator’s 2015 campaign plus trade interview confirming late-2015 Skybound distribution resolve year. Represented 400-card English base game uses identified SKY966 inventory guidance; original physical printing uninspected, later age/count variants not merged. Session length chosen by rounds or point target.",red-flags
 ,Heroscape Age of Annihilation,2024,boardgame,,,
 ,Kurt Vonnegut's GHQ,2024,boardgame,,,ghq
 ,Masters of Crime: Vendetta,2024,boardgame,,,masters-of-crime-vendetta
@@ -3842,14 +3842,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Jekyll & Hyde vs Scotland Yard,2023,boardgame,,"2026-11-02: Publisher-hosted rules explicitly identify original German edition 2023 and Mandoo copyright 2023. Corrected CSV 2022 and detailed-record 2024 to original-game 2023; English publisher independently corroborates all three designers, artist and specifications. This does not date every English printing.",jekyll-and-hyde-vs-scotland-yard
 ,Hickory Dickory,2023,boardgame,,,
 ,Orichalcum,2022,boardgame,,,
-,Rebel Princess,2024,boardgame,,,
+,Rebel Princess,2024,boardgame,ambiguous,Both standard BEZRPSE and Deluxe BEZRPDX were announced by Bézier’s distributor for 2024. Generic row has no SKU/edition evidence. Marked ambiguous to prevent the title/filename fallback from silently selecting Deluxe; explicit Deluxe row covers the reviewed record. Original 2015 cooperative description was unsupported.,
 ,Daitoshi,2024,boardgame,,,
 ,Caldera Park,2022,boardgame,,,
 ,River Valley Glassworks,2023,boardgame,,,
 ,Mythwind,2023,boardgame,,,
 ,Monster Hunter World: The Board Game,2023,boardgame,,"2026-11-02: Publisher April 2023 announcement confirms original World in backers’ hands and retail planned for 2023, separate from 2021 funding and the new Iceborne campaign. Corrected unsupported detailed-record 2022.",monster-hunter-world-the-board-game
 ,Dreadful Meadows,2024,boardgame,,,
-,Resist!,2023,boardgame,,,
+,Resist!,2023,boardgame,,"Specific 25th Century TFC34000 U.S. English edition announced March 2023 and independently reviewed August 2023, separate from earlier Salt & Pepper 2022 original. Primary publisher restores 10+ and concealed/revealed deck decisions; sole-player mode is not multiplayer cooperation.",resist
 ,Courtisans,2024,boardgame,,,
 ,Black Forest,2024,boardgame,,,
 ,Botanicus,2024,boardgame,,,
@@ -4274,3 +4274,4 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Piratissimo,2005,boardgame,,"Explicit original Selecta 3585 multilingual 2005 game: copyright rules plus Essen bibliography/library inventory. Ludwig/Kinzebach, 2–4/6+/ten treasures, all cargo lost on overload. Generic 2006 remains pending; later illustrated reissue separate.",piratissimo
 ,Pony Express,1947,boardgame,,"Explicit older Polygon/Bratt U.S. game from museum artifact and AGPI catalog; unrelated to Funforge 2009 race. Original rules inaccessible, so unsupported counts, age, duration and precise ending remain unknown.",pony-express
 ,Push,2018,boardgame,,"Explicit Ravensburger North America/Prospero Hall card game, English USe01 copyright-2018 rules and independent release chronology. Separate from Mühlhäuser wooden game; banking, busts and roll-card risks restored.",push
+,Rebel Princess: Deluxe Edition,2024,boardgame,,"Explicit Bézier English Deluxe BEZRPDX (2024), distinct from concurrent standard and original Spanish editions; publisher-linked preview, contemporary product/development evidence and actual-play review consulted. Generic 2024 reference stays pending without SKU. Physical English age/time labels uninspected; conflicting guidance retained.",rebel-princess

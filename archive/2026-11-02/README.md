@@ -42,23 +42,28 @@ CSV mappings, evidence aliases and any newly accumulated owner data together.
 
 ## Family overviews excluded from playable records
 
-These two YAMLs describe categories or series rather than one playable game or
+These three YAMLs describe categories or series rather than one playable game or
 edition. Their original bytes and empty owner fields remain intact. They are
-not duplicate-game merges, and neither retired ID redirects to an arbitrary
-family member. Neither ID had historical research-log entries.
+not duplicate-game merges, and no retired ID redirects to an arbitrary
+family member. None had historical research-log entries.
 
 | Original path | Archived record | Reason | Original SHA-256 |
 | --- | --- | --- | --- |
 | `games/tiger-game.yaml` | [tiger-game.yaml](family-overviews/tiger-game.yaml) | Describes a broad family across South and Southeast Asia. Specific Nepali [Bagh-Chal](../../games/bagh-chal.yaml) remains active, with its own rules; other hunt games are not aliases of it. | `a0798742d03d0d9a5eabd13ca7cb1595109cb798e7af87bd084d72853de43ef4` |
 | `games/third-reich-great-pacific-war-series.yaml` | [third-reich-great-pacific-war-series.yaml](family-overviews/third-reich-great-pacific-war-series.yaml) | Blends Avalon Hill/GMT history with the separate Avalanche Press line. Its family-level CSV row is now `skip`; [Advanced Third Reich](../../games/advanced-third-reich.yaml) remains a distinct active game. | `0d15914574db590d4b9932250a1212d38a415b4552de0247f5c09b988fb9ae2f` |
+| `games/three-dimensional-chess.yaml` | [three-dimensional-chess.yaml](family-overviews/three-dimensional-chess.yaml) | Describes a broad category including different Maack setups and Star Trek variants, not one ruleset. The generic discovery row is `skip`; [Raumschach](../../games/raumschach.yaml) remains separately active in documented Normal Form. | `95e629c2db5005736e195bf1872d4cc604e7863872fd86ca8b17fb6cad188939` |
 
 [Berkeley's Bagh-Chal rules](https://gamescrafters.berkeley.edu/games.php?game=baghchal)
 identify the four-tiger/twenty-goat game, not the entire hunt-game family.
 [Avalanche Press's rules introduction](https://www.avalanchepress.com/pdf/SWW_Rules_3rd_Edition.pdf)
 distinguishes Third Reich, Great Pacific War and their combined Second World War
 rules. Those are not alternative names for Avalon Hill's Advanced Third Reich.
-Both generic family discovery rows are explained `skip` entries; the Tiger game
+Those two generic family discovery rows are explained `skip` entries; the Tiger game
 row was found and reconciled in the subsequent source-review batch.
+The three-dimensional-chess row is also `skip`: the family is not a universal
+alias of Raumschach, and its inherited 1907 date is not a universal publication date.
+The [rules bibliography](https://www.raumschach.org/rules) distinguishes Maack’s
+earlier arrangements from the later Normal Form represented by the retained game.
 The active records' consulted evidence explains the distinctions; the archived
 descriptions remain historical errors, not approved replacement text.
 

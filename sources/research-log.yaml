@@ -13720,3 +13720,135 @@ entries:
     description: Read independent game/shop entry and review explaining magnetic placement
       and collision pickup, 2–4/8+ and short session guidance. Its localized publisher/date
       are not silently assigned to the represented English Nexus issue.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: raumschach
+    url: https://www.raumschach.org/rules
+    description: Directly read chronological rules bibliography distinguishing Maack
+      1908 eight-board model, 1913 four-/five-space versions and later Normal Form documented
+      by Dawson/Dickins. Supports separating a specific ruleset from generic three-dimensional
+      chess; bibliographic references are not inspected original scans.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: raumschach
+    url: https://www.raumschach.org/dickins
+    description: 'Directly read reproduced 1969/71 Dickins pp.16–18 text citing Dawson
+      1926: five-by-five-by-five Normal Form, two unicorns and ten pawns per side, spatial
+      piece moves and no pawn double first step or en passant. Original diagrams explicitly
+      omitted. Reported 1907 invention is not certified first publication of this exact
+      setup; site reuse label not independently assessed.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: raumschach
+    url: https://www.raumschach.org/pritchard
+    description: 'Directly read reproduced 2007 Pritchard p.229 excerpt: normal five-board
+      arrangement, ten pawns per side and earlier eight-cube development; reproduction
+      explicitly corrects a pawn-square typo. No claim to inspect the original printed
+      page or adopt its book date as the game’s original release.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: raumschach
+    url: https://www.raumschach.org/maack-game-rules
+    description: 'Read translated 1913 Maack rule text, especially two-player statement
+      and Five-Space section: fifteen pieces per side including five pawns. This differs
+      from later twenty-piece Normal Form and was not merged into that record. General
+      family overview remains historical archive evidence, without a game alias.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: rebel-princess
+    url: https://beziergames.com/products/rebel-princess-deluxe-edition
+    description: 'Read primary Deluxe product page: 3–6, five changing rounds, princess
+      powers and added catch-all-points scoring; differentiates standard/original and
+      Deluxe components. Page links consulted rules preview. No original English physical
+      age label inspected.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: rebel-princess
+    url: https://cdn.shopify.com/s/files/1/0740/4855/files/RPDX_Online_Rules_Preview.pdf
+    description: Downloaded publisher-linked 28-page raster PDF. Pixel-read cover, setup/components
+      and credits; OCR-read core trick, power and scoring pages. Copyright 2024, four
+      designers and Cáceres illustration, separate development/graphics/layout. Twenty-six
+      round cards, twelve princesses and negative-ten all-princes-plus-frog scoring.
+      Filename says Preview; not a full reading of every appendix or certification of
+      production-box printing.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: rebel-princess
+    url: https://beziergames.com/blogs/news/rebel-princess-developing-a-modern-classic
+    description: 'Read indexed September 27, 2024 publisher development account: English
+      rights from Zombi Paella, changed round content/clarity and Deluxe treatment,
+      Gen Con player reception, planned October 2 retail. Planned day is not proof of
+      first retail fulfillment; chronology corroborated by actual 2024 play review.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: rebel-princess
+    url: https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+    description: Read contemporary distributor announcement naming both BEZRPSE standard
+      and BEZRPDX Deluxe, scheduled October 2, 2024, common 3–6/8+/30–40 guidance and
+      Deluxe changes. Both same-year editions exist, so generic 2024 row stays pending;
+      physical English age/time label uninspected.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: rebel-princess
+    url: https://www.meeplemountain.com/reviews/rebel-princess-deluxe-edition/
+    description: Read indexed September 10, 2024 Justin Bell actual-play review of publisher-supplied
+      Deluxe copy, with concrete play assessment and short-variant estimate. Details
+      list 15+/45, conflicting with contemporary distributor 8+/30–40; conflict retained,
+      no claim either is inspected box printing. Earlier Spanish release kept separate.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: red-flags
+    url: https://www.kickstarter.com/projects/jackdire/red-flags-the-new-party-game-from-the-creator-of-s
+    description: 'Read indexed creator campaign page: Jack Dire, March 12–April 26,
+      2015 funding period and fictional-date concept. Campaign timing is not finished-product
+      proof; trade interview independently confirms actual distribution in 2015.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: red-flags
+    url: https://icv2.com/articles/news/view/37345/skybound-release-the-grimm-forest
+    description: 'Directly read April 24, 2017 Milton Griepp trade report/interview
+      with Skybound business-development director: Red Flags and Superfight began game-distributor
+      sales late in 2015. Supports actual 2015 availability and Skybound publisher identity,
+      not unrelated 2014 Superfight reprint chronology.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: red-flags
+    url: https://dungeonmarvels.com/red-flags-32864.html
+    description: 'Read specific Skybound English 400-card SKU SKY966 inventory: 3–10/17+/about
+      30. Retailer local release listing February 2018 is not original-game publication.
+      No original 2015 physical labels inspected and no universal later-printing specs
+      inferred.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: red-flags
+    url: https://www.ultraboardgames.com/red-flags/game-rules.php
+    description: 'Directly read complete fan-hosted rules transcription: four perk/three
+      red cards in hand, two perks form date, red flaw applied to left neighbor, judge
+      chooses; short two-table-circuit or longer seven-point target. Not an original
+      publisher manual despite site’s Official Rules header; no Single-card trophy claim
+      supported.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: resist
+    url: https://25thcenturygames.com/products/resist
+    description: 'Read primary U.S. publisher entry: Benjamin/Tankersley/Thompson, Monteys,
+      solo/10+/about 30, twelve-fighter deck and concealed-versus-revealed depletion
+      choices. Direct HTML returned 429 but indexed page read; no full original English
+      manual or physical printing label inspected.'
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: resist
+    url: https://www.phdgames.com/2023/03/27/psi-april-19-releases/
+    description: Read indexed March 27, 2023 distributor announcement for 25th Century
+      TFC34000, scheduled April 19, 2023, one/10+/20–40. Direct TLS fetch failed; not
+      a claim to inspect first retail copy or prove the planned day was met. Actual
+      later 2023 played review corroborates availability.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: resist
+    url: https://www.boardgamequest.com/resist-review/
+    description: Read indexed August 1, 2023 Brandon Bryson actual-play review explicitly
+      naming 25th Century publisher, designers and Monteys; about thirty minutes, concealed/revealed
+      decisions and scenario options. Direct page returned 511; indexed text, not direct
+      successful retrieval or physical first printing.
+  - timestamp: '2026-11-02T23:55:42Z'
+    game_id: resist
+    url: https://opinionatedgamers.com/2022/09/30/resistance-is-not-futile-a-solo-game-review/
+    description: Directly read actual September 30, 2022 Mark Jackson play review, establishing
+      original-game availability before U.S. 2023 edition. Notes original Adolfo misprint
+      and limited recovery possibilities; neither original printing fault nor crowdfunding
+      date silently assigned to later 25th Century record. Earlier log entry preserved
+      unchanged.
+  - timestamp: '2026-11-02T23:59:18Z'
+    game_id: rebel-princess
+    url: https://www.phdgames.com/2024/09/10/psi-october-2-releases/
+    description: 'Follow-up identity decision using already consulted distributor evidence:
+      standard BEZRPSE and Deluxe BEZRPDX both date to 2024. Earlier note called generic
+      row pending, but title/filename fallback would still match it; formal ambiguous
+      exclusion now blocks that inference while explicit Deluxe row remains covered.
+      This is a review clarification, not a new page retrieval or proof of a physical
+      printing.'

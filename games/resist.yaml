@@ -1,18 +1,27 @@
+# Retained record now explicitly represents 25th Century TFC34000 U.S. 2023,
+# not a blended 2022 publisher identity. March 2023 distributor announcement plus
+# August 2023 actual-play review confirm that edition’s chronology; current publisher
+# confirms designers, Monteys art, solo, 10+ and about 30. Distributor gives 20–40.
+# Actual September 2022 Salt & Pepper play review establishes earlier original;
+# its Adolfo misprint is not certified for this later edition. No original U.S.
+# manufacturing label or complete rulebook inspected. Core concealed/revealed
+# deck decisions checked against publisher and played reviews; recovery exceptions
+# mean revealed fighters are not unconditionally lost forever. Ratings provisional.
 id: resist
 name: "Resist!"
 alternate_names: []
-year: 2022
+year: 2023
 
 # Relationships
 game_family: null
-edition: null
+edition: 25th Century Games U.S. English edition, TFC34000 (2023), following Salt & Pepper’s 2022 original
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 1  # Simple
+rules_complexity: 2
 strategic_depth: 2  # Moderate
 feel: 0  # Solitary (solitaire)
 value: 2  # Standard
@@ -21,20 +30,18 @@ affinity: null
 hotness: null
 
 categories:
-  - Cooperative
+  - Solo
   - Hand Management
-  - Card Drafting
   - Press Your Luck
   - Historical
   - War
-  - Filler
 
 evokes:
   - Tension
   - Agency
-  - Mystery
   - Dread
   - Clever
+  - Progress
 
 possible_counts: [1]
 true_counts: [1]
@@ -50,9 +57,9 @@ artist:
 playtime_minutes: 30
 min_playtime: 20
 max_playtime: 40
-min_age: 14
+min_age: 10
 
 description: |
-  Resist! is a fast-playing solitaire card game set in Franco-era Spain, casting the player as the Spanish Maquis fighting against the Francoist regime through a series of clandestine missions. Over multiple rounds, you undertake increasingly difficult missions using a limited hand of cards, earning points toward victory while deciding whether to press your luck and take on another dangerous assignment or end the resistance for the day. The game captures the desperate courage of underground resistance fighters through tight resource management and escalating risk-reward decisions. Its compact design and solo focus make it an ideal quick play experience for fans of historical card games.
+  Lead a small band of Spanish resistance fighters on missions against the Francoist regime. Play fighters concealed to keep them available for later, or reveal them for stronger actions that will usually remove them from your deck. Decide how much strength to spend overcoming enemies and completing a mission, knowing that casualties and failures can end the resistance. After a successful round, choose whether to stop with your score or risk another assignment with a weaker band. The tension comes from spending people and opportunities that you may not recover. This is a solo card game with standard scoring and scenario options; the record represents the 2023 U.S. English edition.
 
 upgrades: []

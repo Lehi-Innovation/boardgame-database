@@ -1,11 +1,21 @@
+# Consulted historical-text reproductions for the five-board Normal Form: two
+# unicorns and ten pawns per side, single pawn steps with no initial double step.
+# Maack’s 1913 five-space arrangement has only five pawns per side, so it is not
+# silently combined with Normal Form. The often-quoted 1907 date is early invention/
+# development, not a verified first publication of this exact ruleset; year unknown.
+# Reproductions omit original diagrams; original book scans were not inspected and
+# the site’s public-domain label is not a permission assessment. Generic 3D chess
+# is a family, not a universal alias; its overview is archived unchanged with no
+# arbitrary redirect. Two players confirmed; age unknown. About 60 minutes, preferred
+# count and all experience ratings are provisional, not printed duration bounds.
 id: raumschach
 name: "Raumschach"
 alternate_names: ["Space Chess"]
-year: 1907
+year: null
 
 # Relationships
 game_family: null
-edition: null
+edition: Five-board Normal Form as documented by Dawson/Dickins; first publication of this ruleset unverified
 base_game: null
 expansions: []
 compatible_with: []
@@ -40,11 +50,11 @@ designer:
 publisher: []
 artist: []
 playtime_minutes: 60
-min_playtime: 30
-max_playtime: 120
-min_age: 12
+min_playtime: null
+max_playtime: null
+min_age: null
 
 description: |
-  Raumschach (German for "Space Chess") is a three-dimensional chess variant invented by Ferdinand Maack in 1907, played on five stacked 5×5 boards. Maack designed the game to simulate aerial and underwater dimensions of warfare missing from conventional two-dimensional chess, with all standard chess pieces adapted to move through three spatial axes. Unicorns (a new piece) were also introduced to handle the extra movement possibilities. The game achieved limited popularity in early 20th-century England and Germany and is considered the classic form of 3D chess, still played by chess variant enthusiasts today.
+  Play a chess-like contest across five stacked boards, each five squares wide and deep. Attacks can pass between levels as well as across a board. Rooks travel through the faces of imaginary cubes, bishops along their edges, and unicorns diagonally through their corners. Keeping track of threats requires you to picture the whole space, not just the board holding your king. This record represents the documented Normal Form, with twenty pieces per side including ten pawns and two unicorns. Its pawns have no initial double move. Earlier Maack arrangements and other three-dimensional chess games use different setups; agree on the chosen rules before playing.
 
 upgrades: []
