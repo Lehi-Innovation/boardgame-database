@@ -28,6 +28,13 @@ class CatalogValidationTests(unittest.TestCase):
     def test_schema_template_with_valid_values_passes(self):
         self.assertEqual(self.codes(self.game()), set())
 
+    def test_unknown_experience_can_be_empty_but_partial_tag_lists_fail(self):
+        self.assertEqual(self.codes(self.game() | {"evokes": []}), set())
+        for count in (1, 2, 3, 4, 6):
+            with self.subTest(count=count):
+                self.assertIn("evokes_count", self.codes(self.game() | {
+                    "evokes": self.schema["evokes"]["values"][:count]}))
+
     def test_numeric_ids_including_leading_zero_are_reported(self):
         result = validate_game(self.game() | {"id": 7}, Path("007.yaml"), self.schema)
         self.assertEqual(result[0]["code"], "record_id")

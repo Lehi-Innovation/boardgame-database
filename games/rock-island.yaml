@@ -1,27 +1,42 @@
+# Luding independent bibliography and identified original-box retailer evidence
+# agree on Hans im Glück German1987, Michael Blumöhr,2–4/8+. Specific first-issue
+# retailer distinguishes monochrome box; original manual not downloaded/read.
+# Noble Knight lists about45 minutes; no fabricated fixed range or preferred count.
+# Retailer quotes publisher’s Chicago/Mississippi/Kansas City rail race and route
+# interference. Original artist unverified; BGG-only credit not imported.
+# Luding distinguishes Mattel Zug nach Westen with Brunnhofer/Blumöhr; its10+
+# guidance and co-design attribution not universalized for original Rock Island.
+# Old Spielphase link could not be retrieved, so no actual-play review claimed.
+# Experience ratings are provisional estimates from described route competition.
 id: rock-island
 name: "Rock Island"
 alternate_names: []
-year: 1999
+year: 1987
 
 # Relationships
-game_family: null
-edition: null
+game_family: rock-island
+edition: Hans im Glück original German Rock Island (1987); original manual uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
-length: 1  # Short
-rules_complexity: 1  # Simple
-strategic_depth: 1  # Light
-feel: 2  # Moderate
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 4
 value: 1  # Budget
 
 affinity: null
 hotness: null
 
 categories:
-  - Abstract
+  - Tile Placement
+  - Route Building
+  - Racing
+  - Trains
+  - Dice Rolling
+  - Take That
   - Family
 
 evokes:
@@ -32,17 +47,19 @@ evokes:
   - Lucky
 
 possible_counts: [2, 3, 4]
-true_counts: [2, 3]
+true_counts: []
 
-designer: []
-publisher: []
+designer:
+  - Michael Blumöhr
+publisher:
+  - Hans im Glück
 artist: []
-playtime_minutes: 30
-min_playtime: 20
-max_playtime: 45
+playtime_minutes: 45
+min_playtime: null
+max_playtime: null
 min_age: 8
 
 description: |
-  Rock Island is a board game with limited publisher and designer information available in English-language sources. The game details including exact publication year, designer, and publisher could not be confirmed during research. This entry represents an obscure title from the master list where documentation was unavailable.
+  Build rail routes west from Chicago, cross the Mississippi and try to get your train to Kansas City first. Construction crews develop tracks, and altering a route can obstruct another player as well as open your own path. The shared network makes progress depend on what rivals build and change. This record represents Michael Blumöhr’s 1987 Hans im Glück German game. Its full original rules have not been inspected, so precise movement and special-die effects are not asserted here. Mattel’s Zug nach Westen is a related later version with separately credited development.
 
 upgrades: []

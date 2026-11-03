@@ -2779,3 +2779,83 @@ decisions:
   reason: Explicit Matagot English reissue with actual U.S. availability2013, separate from
     originalDragonDelta2000 and new2025SKU. Creator2012body/2013heading conflict and French8+
     versus web7+ remain explicit; original English box uninspected.
+- name: River Valley Glassworks
+  year: 2023
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://allplay.com/board-games/river-valley-glassworks
+  - https://assets.allplay.com/board-games-river-valley-glassworks-rulebook-link.pdf
+  - https://assets.allplay.com/board-games-river-valley-glassworks-solo-rulebook-link.pdf
+  - https://nerdologists.com/2024/08/river-valley-glassworks-the-best-pieces-game/
+  - https://www.asmodeena.com/AUSA-Active-05012026.pdf
+  reason: Reviewed retailGME-RVG has actual Gen Con2024 purchase/play and distributor2024
+    release. Generic2023 identity lacks independently verified edition/availability; remains
+    pending, not guessed to mean crowdfunding. Explicit2024 retail row added.
+- name: Riviera Quest
+  year: 1989
+  yaml_id: riviera-quest
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://regle.escaleajeux.fr/js_56_rg.pdf
+  - https://www.festivaldesjeux-cannes.com/media/documents/2026/HISTORIQUE-AS-DOR-2025-1988.pdf
+  reason: March1989 contemporary magazine establishes French RivieraQuest journey-game presentation/availability;2001
+    placeholder unsupported. Creator roles conflict between contemporary Gaudo/Rohmer and
+    official award Chinchilla. Rules/counts/age/duration/experience unknown and cleared; mapped
+    identity does not certify practical play details or first sale.
+- name: Rock Island
+  year: 1987
+  yaml_id: rock-island
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://luding.org/cgi-bin/GameData.py/DEgameid/1180
+  - https://rotberger-shop.de/G-HG_RockG_1
+  - https://rotberger-shop.de/G-HG-RockG2
+  - https://www.nobleknight.com/P/2147993671/Rock-Island-German-Edition
+  reason: Independent bibliography and identified original-box inventory support Hans im Glück1987/Blumöhr/2–4/8+
+    train race. Replaced ungrounded1999 abstract placeholder. Mattel Zug nach Westen credit/age
+    and unverified original art not merged; no original manual read.
+- name: Rummoli
+  year: 1941
+  yaml_id: null
+  status: pending
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.historymuseum.ca/collections/artifact/1900385
+  - https://www.historymuseum.ca/collections/artifact/240558
+  - https://gamecatalog.org/game/?gameid=37512
+  - https://www.houseofgames.ca/Rules/Rummoli_CC_Rules.html
+  reason: Museum cataloged1940 artifact and copyright1940 rules establish selected early CoppClark
+    scope; no independently established1941 printing or first-sale date. Retained generic1941
+    row pending and added explicit1940 row. Corrected false trick-taking tag and fixed duration;
+    original age unknown.
+- name: River Valley Glassworks
+  year: 2024
+  yaml_id: river-valley-glassworks
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://allplay.com/board-games/river-valley-glassworks
+  - https://assets.allplay.com/board-games-river-valley-glassworks-rulebook-link.pdf
+  - https://assets.allplay.com/board-games-river-valley-glassworks-solo-rulebook-link.pdf
+  - https://nerdologists.com/2024/08/river-valley-glassworks-the-best-pieces-game/
+  - https://www.asmodeena.com/AUSA-Active-05012026.pdf
+  reason: Explicit Allplay English retailGME-RVG/UPC618149323593 with finished-copy purchase/play2024.
+    Publisher core/solo rules distinguish illustration credits and automated rivals; manual8+/25
+    versus current site7+/20 guidance explicit, original printing uninspected.
+- name: Rummoli
+  year: 1940
+  yaml_id: rummoli
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.historymuseum.ca/collections/artifact/1900385
+  - https://www.historymuseum.ca/collections/artifact/240558
+  - https://gamecatalog.org/game/?gameid=37512
+  - https://www.houseofgames.ca/Rules/Rummoli_CC_Rules.html
+  reason: Explicit early Copp Clark Canadian game represented by museum artifact cataloged1940
+    and copyright1940 rules. Exact first sale unverified; separate1941 reference not forced
+    to match. Two-to-eight and poker/stops phases source supported, duration selectable.

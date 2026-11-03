@@ -1,5 +1,5 @@
 # Board Game Database Schema
-# Version: 1.1
+# Version: 1.2
 
 # =============================================================================
 # RATING SCALES (0-4)
@@ -253,11 +253,11 @@ categories:
     - Greater Than Games
 
 # =============================================================================
-# EVOKES (feelings a game is designed to evoke — pick top 5)
+# EVOKES (pick five distinct feelings when researched; empty if unknown)
 # =============================================================================
 
 evokes:
-  description: "Top 5 feelings this game is designed to evoke"
+  description: "Five distinct feelings, or an empty list when the play experience is unknown"
   values:
     - Agency        # High player control, meaningful choices
     - Clever        # Combos, optimization, "aha" moments
@@ -337,7 +337,7 @@ template:
   # Tags
   categories: []              # From mechanics, styles, themes, designers, publishers
 
-  # Evokes (top 5 feelings this game is designed to evoke)
+  # Evokes (five distinct feelings when researched; [] when unknown)
   evokes: []
 
   # Player counts

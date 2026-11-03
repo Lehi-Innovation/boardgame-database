@@ -71,8 +71,8 @@ def validate_game(game, path, schema):
         if isinstance(value, str) and value not in allowed_categories:
             add("categories", "category", f"Unknown schema category: {value!r}")
     evokes = arrays["evokes"]
-    if len(evokes) != 5 or len({str(value) for value in evokes}) != 5:
-        add("evokes", "evokes_count", "Expected five distinct evokes values")
+    if evokes and (len(evokes) != 5 or len({str(value) for value in evokes}) != 5):
+        add("evokes", "evokes_count", "Expected five distinct evokes values or an empty list when unknown")
     for value in evokes:
         if isinstance(value, str) and value not in schema["evokes"]["values"]:
             add("evokes", "evoke", f"Unknown schema evokes value: {value!r}")

@@ -407,3 +407,55 @@ a first European release date. Creator-hosted French Matagot rules give Piérô,
 The later 2020 product-listing date and distinct 2025 SKU are not first-release
 evidence. All experience estimates remain provisional. This batch appends 29
 evidence entries, preserving all earlier bytes.
+
+### Historical notices and unknown play experience (2026-11-02)
+
+**River Valley Glassworks (2024)** now explicitly represents Allplay's English
+retail **GME-RVG / UPC 618149323593**, with actual Gen Con purchase/play evidence.
+The publisher's four-page core and two-page solo rules establish Bosley's
+illustration credit, shape-based river selection, color columns, contiguous row
+scoring, the two tallest columns, overflow penalties and automated solo rivals.
+The manual gives 8+/25 minutes; the current publisher page says 7+/20, with
+20–30 in its body. The selected guidance and uninspected original physical
+printing remain explicit. Deluxe components, real-glass upgrades and expansion
+powers are separate. The generic 2023 reference remains pending; it is not
+assumed to mean a campaign. A dated 2024 retail row covers the reviewed record.
+
+**Riviera Quest (1989)** replaces the unsupported 2001 placeholder. The cover
+and relevant text of *Jeux & Stratégie* 56, March 1989, establish the Côte d'Azur
+journey game, its same-name publisher and Villepinte presentation. This is
+documented availability/presentation, not proof of the exact first sale or
+printing. The magazine attributes it to Michel Gaudo and Guillaume Rohmer;
+official Cannes award history instead lists Pascal Chinchilla. Roles remain
+unresolved, so these names are not merged into a joint-design claim. No complete
+rules or physical box were inspected. Unsupported counts, age, time and ratings
+were cleared; the adventure category records the award's classification.
+
+Schema 1.2 permits **`evokes: []` for unknown play experience**, with a research
+comment explaining the missing evidence. Researched/estimated records still use
+five distinct values; partially filled lists remain invalid. This allows the
+sourced historical identity to stay discoverable without assigning ungrounded
+emotional qualities. Regression checks cover validation, full HTTP/SQLite payloads
+and exclusion from feeling filters. A real browser also checked this actual record
+and its filtered results at 390/768/1280 pixels, without page errors or overflow.
+This adds an explicit unknown state to the existing vocabulary; it does not
+implement the proposed genre or `feel` redesign.
+
+**Rock Island (1987)** now identifies Blumöhr's original Hans im Glück German
+train race, replacing an unsupported 1999 abstract placeholder. An independent
+bibliography and identified physical-copy listings agree on 2–4/8+; a retailer
+quotes the publisher's construction crews, Mississippi crossing, Kansas City
+finish and route interference. Forty-five minutes is retail guidance. Original
+rules/art remain unverified; the linked old Spielphase review was inaccessible.
+Mattel's related *Zug nach Westen* has a separate Brunnhofer/Blumöhr attribution
+and 10+ guidance, which are not transferred to this original scope.
+
+**Rummoli (1940)** now explicitly follows the early Copp Clark Canadian game
+represented by a museum artifact cataloged 1940 and copyright-1940 rules.
+Copyright and museum dating do not certify the exact first sale. The generic
+1941 reference remains pending; a dated 1940 row covers the selected record.
+The complete primary rules were read as a third-party transcription: two to eight,
+optional poker betting or showdown, an unseen spare-hand exchange/auction and
+subsequent suit sequences. This is stops play, not trick-taking. Session length
+is chosen by hands; original age and individual creator/art remain unknown.
+This review appends 15 evidence entries without rewriting earlier provenance.

@@ -2610,7 +2610,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 634,River Dragons,2000,boardgame,,"Original2000 reference now maps to Descartes/Eurogames Dragon Delta, from creator history and actual original-game review. Later Matagot reissue has separate2013 U.S.-available row; creator2012/2013 chronology conflict remains explicit.",dragon-delta-2000
 ,River of Gold,2024,boardgame,,,
 2573,"Rivers, Roads & Rails",,boardgame,,,rivers-roads-and-rails
-,Riviera Quest,1989,boardgame,,,
+,Riviera Quest,1989,boardgame,,March1989 contemporary magazine establishes French RivieraQuest journey-game presentation/availability;2001 placeholder unsupported. Creator roles conflict between contemporary Gaudo/Rohmer and official award Chinchilla. Rules/counts/age/duration/experience unknown and cleared; mapped identity does not certify practical play details or first sale.,riviera-quest
 875,Roads & Boats,,boardgame,,,roads-and-boats
 ,Robert at Bannockburn,,boardgame,,,
 ,Robinson Crusoe,,boardgame,,,
@@ -2620,7 +2620,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 296514,Robots,,boardgame,,,
 2160,Robots!,,boardgame,,,robots-card-game
 ,Rock Hard: 1977,2024,boardgame,,,
-1184,Rock Island,1987,boardgame,,,
+1184,Rock Island,1987,boardgame,,Independent bibliography and identified original-box inventory support Hans im Glück1987/Blumöhr/2–4/8+ train race. Replaced ungrounded1999 abstract placeholder. Mattel Zug nach Westen credit/age and unverified original art not merged; no original manual read.,rock-island
 21239,Rocketville,,boardgame,,,
 144344,Rococo,2013,boardgame,,,
 1558,Rogue Trooper,,boardgame,,,
@@ -2642,7 +2642,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 19948,Rum & Pirates,,boardgame,,,rum-and-pirates
 6411,Rumis,,boardgame,,,
 811,Rummikub,,boardgame,,,
-9794,Rummoli,1941,boardgame,,,
+9794,Rummoli,1941,boardgame,,Museum cataloged1940 artifact and copyright1940 rules establish selected early CoppClark scope; no independently established1941 printing or first-sale date. Retained generic1941 row pending and added explicit1940 row. Corrected false trick-taking tag and fixed duration; original age unknown.,
 181530,Runebound,,boardgame,,,
 59294,Runewars,2010,boardgame,,,
 ,Russian Civil War 1918–1922,,boardgame,,,russian-civil-war-1918-1922
@@ -3845,7 +3845,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Rebel Princess,2024,boardgame,ambiguous,Both standard BEZRPSE and Deluxe BEZRPDX were announced by Bézier’s distributor for 2024. Generic row has no SKU/edition evidence. Marked ambiguous to prevent the title/filename fallback from silently selecting Deluxe; explicit Deluxe row covers the reviewed record. Original 2015 cooperative description was unsupported.,
 ,Daitoshi,2024,boardgame,,,
 ,Caldera Park,2022,boardgame,,,
-,River Valley Glassworks,2023,boardgame,,,
+,River Valley Glassworks,2023,boardgame,,"Reviewed retailGME-RVG has actual Gen Con2024 purchase/play and distributor2024 release. Generic2023 identity lacks independently verified edition/availability; remains pending, not guessed to mean crowdfunding. Explicit2024 retail row added.",
 ,Mythwind,2023,boardgame,,,
 ,Monster Hunter World: The Board Game,2023,boardgame,,"2026-11-02: Publisher April 2023 announcement confirms original World in backers’ hands and retail planned for 2023, separate from 2021 funding and the new Iceborne campaign. Corrected unsupported detailed-record 2022.",monster-hunter-world-the-board-game
 ,Dreadful Meadows,2024,boardgame,,,
@@ -4278,3 +4278,5 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Ribbit,2007,boardgame,,"Explicit SimplyFun English frog issue2007, creator bibliography and contemporary child play. CPSC08-056 applies specified original2007 frog pieces; recall not extended to replacements or turtles. Art/finish-stack rule/original printing labels unknown.",ribbit
 ,Risk,1959,boardgame,,Explicit Parker Brothers original U.S.1959 scope from copyright1959 3–6 rules and museum chronology. Later reproduction two-player variant not universalized. Three standalone relatives no longer labeled required expansions.,risk
 ,River Dragons,2013,boardgame,,"Explicit Matagot English reissue with actual U.S. availability2013, separate from originalDragonDelta2000 and new2025SKU. Creator2012body/2013heading conflict and French8+ versus web7+ remain explicit; original English box uninspected.",river-dragons
+,River Valley Glassworks,2024,boardgame,,"Explicit Allplay English retailGME-RVG/UPC618149323593 with finished-copy purchase/play2024. Publisher core/solo rules distinguish illustration credits and automated rivals; manual8+/25 versus current site7+/20 guidance explicit, original printing uninspected.",river-valley-glassworks
+,Rummoli,1940,boardgame,,"Explicit early Copp Clark Canadian game represented by museum artifact cataloged1940 and copyright1940 rules. Exact first sale unverified; separate1941 reference not forced to match. Two-to-eight and poker/stops phases source supported, duration selectable.",rummoli

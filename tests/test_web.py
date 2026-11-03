@@ -165,7 +165,7 @@ class WebIntegrationTests(unittest.TestCase):
         database = self.root / 'games.db'
         before = database.read_bytes()
         broken = self.root / 'games/broken.yaml'
-        broken.write_text('id: broken\nname: Broken\nevokes: []\n')
+        broken.write_text('id: broken\nname: Broken\npossible_counts: [-1]\nevokes: []\n')
         try:
             with self.assertRaises(ValueError):
                 build_database(self.root)
@@ -183,4 +183,26 @@ class WebIntegrationTests(unittest.TestCase):
             self.assertEqual(query['games'], [detail])
         finally:
             path.write_text(original)
+            build_database(self.root)
+
+    def test_unknown_experience_is_searchable_without_matching_feeling_filters(self):
+        import yaml
+        path = self.root / 'games/unknown-experience.yaml'
+        data = yaml.safe_load((self.root / 'games/azul.yaml').read_text())
+        data.update(id='unknown-experience', name='Unknown Experience', evokes=[],
+                    possible_counts=[], true_counts=[], min_age=None, playtime_minutes=None)
+        for field in ('length', 'rules_complexity', 'strategic_depth', 'feel', 'value'):
+            data[field] = None
+        try:
+            path.write_text(yaml.safe_dump(data))
+            build_database(self.root)
+            detail = self.get('/api/games/unknown-experience')
+            self.assertEqual(detail['evokes'], [])
+            self.assertIsNone(detail['feel'])
+            self.assertEqual(self.get('/api/games/query?q=Unknown%20Experience')['games'], [detail])
+            filtered = self.get('/api/games/query?q=Unknown%20Experience&evokes=Humor')
+            self.assertEqual(filtered['games'], [])
+            self.assertEqual(filtered['total'], 0)
+        finally:
+            path.unlink(missing_ok=True)
             build_database(self.root)

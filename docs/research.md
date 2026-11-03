@@ -33,7 +33,7 @@ Replace those illustrative URLs with actual sources. The pipeline truncates each
 Use `schema.yaml`'s game template, including alternate names, minimum age, description, and play-tracking fields. Read a current record for formatting rather than copying a frozen template from an agent prompt.
 
 - Use 2-space indentation, explicit `null`, lists for multiple values, and a block scalar for the description.
-- Use exact category/evokes vocabulary. The current convention is five distinct evokes values; the proposed genre redesign has not been implemented.
+- Use exact category/evokes vocabulary. Use five distinct evokes values when the play experience can be researched or reasonably estimated. Use `evokes: []` when it remains unknown, explaining the missing evidence in comments; do not keep invented tags just to meet a count. Partially filled lists are invalid. The proposed genre redesign has not been implemented.
 - Keep ratings within 0–4 and use the schema's meanings. In particular, `feel` currently encodes social mode as well as intensity; it is not a generic competition score.
 - Leave `affinity` and `hotness` null on new records. Preserve existing owner ratings and play history when correcting records.
 - Separate supported player counts from estimated/recommended counts.
