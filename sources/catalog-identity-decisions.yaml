@@ -2689,3 +2689,93 @@ decisions:
     for 2024. Generic row has no SKU/edition evidence. Marked ambiguous to prevent the title/filename
     fallback from silently selecting Deluxe; explicit Deluxe row covers the reviewed record.
     Original 2015 cooperative description was unsupported.
+- name: Revolver
+  year: 2011
+  yaml_id: revolver
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://printgames.ru/wp-content/uploads/2019/07/011_REVOLVER_Rulebook_ENG_web.pdf
+  - https://www.hall9000.de/html/messe/2011/2/6941
+  - https://www.boardgamereviewsbyjosh.com/2012/04/revolver-review.html
+  - https://www.ultraboardgames.com/revolver/game-rules.php
+  reason: White Goblin original English2011 established by copyright rules and contemporary
+    actual Essen play; designer Chaplin/illustrator Nieto restored. Stronghold2012 and Revolver2
+    not merged. Fixed decks, alternating turns and both gang victory routes restored.
+  previous_record_year: 2009
+- name: Ribbit
+  year: 2004
+  yaml_id: schildkrotenrennen-2004
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://knizia.de/wp-content/uploads/reiner/pdfs/List-Games.pdf
+  - https://winningmoves.de/media/76/fc/9a/1625744753/Schildkro-tenrennen_Regel-D.pdf
+  - https://www.spiel-des-jahres.de/spiele/schildkroetenrennen/
+  - https://www.hall9000.de/html/spiel/schildkroetenrennen
+  - https://opacportal.bistum-muenster.de/ochtrup/?detail=24&page=3&searchhash=OCLC_4e6cf021398f1123b78cadb439d603132540519e&top=y
+  reason: Generic2004 reference represents original Knizia Winning Moves German Schildkrötenrennen,
+    not SimplyFun frog2007. Creator bibliography and actual2004 play establish selected2004
+    issue; rule footer copyright2003 does not certify first sale. Separate2007 frog row added.
+- name: Risk
+  year: 1957
+  yaml_id: la-conquete-du-monde-1957
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://www.museumofplay.org/toys/risk/
+  - https://www.giochidelloca.it/storia/worldgames.pdf
+  - https://www.ludism.fr/ludism_download.php?id=10300
+  reason: Original1957 reference now explicitly maps to Miro French La Conquête du Monde,
+    separate from Parker1959 Risk. Museum/history and original French scan support identity;
+    exact scanned printing/age unknown. Explicit1959 row retains Parker record.
+- name: River Dragons
+  year: 2000
+  yaml_id: dragon-delta-2000
+  status: created
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://fragames.com/en/game/river-dragons/
+  - https://www.rpg.net/reviews/archive/12/12401.phtml
+  reason: Original2000 reference now maps to Descartes/Eurogames Dragon Delta, from creator
+    history and actual original-game review. Later Matagot reissue has separate2013 U.S.-available
+    row; creator2012/2013 chronology conflict remains explicit.
+- name: Ribbit
+  year: 2007
+  yaml_id: ribbit
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://knizia.de/wp-content/uploads/reiner/pdfs/List-Games.pdf
+  - https://www.majorfun.com/ribbit/
+  - https://taogaming.wordpress.com/2007/05/06/more-simplyfun/
+  - https://www.cpsc.gov/Recalls/2007/simplyfun-recalls-ribbit-board-games-due-to-risk-of-lead-exposure
+  reason: Explicit SimplyFun English frog issue2007, creator bibliography and contemporary
+    child play. CPSC08-056 applies specified original2007 frog pieces; recall not extended
+    to replacements or turtles. Art/finish-stack rule/original printing labels unknown.
+- name: Risk
+  year: 1959
+  yaml_id: risk
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://manualzz.com/doc/23823326/parker-brothers-risk-board-game-user-manual
+  - https://www.museumofplay.org/toys/risk/
+  - https://m.media-amazon.com/images/I/C1UJfcmjylL.pdf
+  reason: Explicit Parker Brothers original U.S.1959 scope from copyright1959 3–6 rules and
+    museum chronology. Later reproduction two-player variant not universalized. Three standalone
+    relatives no longer labeled required expansions.
+- name: River Dragons
+  year: 2013
+  yaml_id: river-dragons
+  status: existing
+  reviewed_on: '2026-11-02'
+  basis:
+  - https://fragames.com/en/game/river-dragons/
+  - https://fragames.com/wp-content/uploads/2020/05/DRAGONS-REGLES-FR.pdf
+  - https://icv2.com/articles/news/view/24798/new-serenissima-river-dragons
+  - https://drakesflames.blogspot.com/2013/02/board-game-review-river-dragons.html
+  - https://www.matagot.com/en/family-games/223-552-river-dragons.html
+  reason: Explicit Matagot English reissue with actual U.S. availability2013, separate from
+    originalDragonDelta2000 and new2025SKU. Creator2012body/2013heading conflict and French8+
+    versus web7+ remain explicit; original English box uninspected.

@@ -1,0 +1,57 @@
+# Knizia bibliography lists German Winning Moves issue in 2004; actual July 2004
+# played review and Nürnberg 2004 reference corroborate this scope. Downloaded
+# publisher two-page German rules carry ©2003 / 01/0304, so exact first-sale date
+# is not certified. One library catalog lists 2003. Manual says 6+/about 20; jury
+# page shows 5+ label with recommendation from 6, and review 5+/10–15. Selected
+# manual guidance, not universal age. Bottom turtle wins a finishing stack; open
+# colors optional. Original art credit unknown; aggregated cross-edition credits
+# not copied. Preferred counts unknown; all experience ratings provisional.
+id: schildkrotenrennen-2004
+name: Schildkrötenrennen
+alternate_names: []
+year: 2004
+game_family: schildkrotenrennen
+edition: Winning Moves original German turtle game, listed 2004; exact first printing unverified
+length: 0
+rules_complexity: 1
+strategic_depth: 1
+feel: 2
+value: 2
+categories:
+  - Racing
+  - Animals
+  - Family
+  - Bluffing
+  - Hand Management
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Mystery
+  - Rivalry
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+true_counts: []
+designer:
+  - Reiner Knizia
+publisher:
+  - Winning Moves
+artist: []
+playtime_minutes: 20
+min_playtime: null
+max_playtime: null
+min_age: 6
+description: |
+  Help your secretly assigned turtle reach the lettuce patch first. Each turn, play a card to move a turtle, then replace the card. Landing on another turtle makes a stack; moving a turtle carries the riders above it while leaving those below behind. You may have to move a rival, or hide your interest by helping a different color. When turtles reach the finish together, the bottom turtle wins under the consulted German rules. Younger players can use the open-color variant. This record covers the original German turtle game, separately from SimplyFun’s later frog-themed Ribbit.
+base_game: null
+expansions: []
+compatible_with: []
+affinity: null
+hotness: null
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

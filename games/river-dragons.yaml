@@ -1,21 +1,29 @@
+# Creator page heading places this reissue in 2013 but body says 2012; January
+# 2013 U.S. trade announcement and February 2013 actual-play review support selected
+# U.S.-available 2013 scope, not a certified first European release date. Former
+# 2016 year unsupported. Creator-hosted French folded Matagot rules, undated, give
+# 8+/15–45 and Piérô credit; creator web text says 7+/<30. English physical labels
+# uninspected. About 30 minutes is provisional. Original SKU 3760146640122 has a
+# later 2020 product-listing date, not proof of first release. New 2025 SKU
+# 3760372235543 is distinct. Original Dragon Delta is separate. All experience and
+# preferred-count estimates provisional. No universal edition alias or compatibility.
 id: river-dragons
 name: "River Dragons"
-alternate_names:
-  - Dragon Delta
-year: 2016
+alternate_names: []
+year: 2013
 
 # Relationships
-game_family: null
-edition: null
+game_family: dragon-delta
+edition: Matagot English reissue available in the U.S. in 2013 via Asmodee; exact physical printing uninspected
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 1  # Simple
+rules_complexity: 2
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 2
 value: 2  # Standard
 
 affinity: null
@@ -43,13 +51,14 @@ designer:
   - Roberto Fraga
 publisher:
   - Matagot
-artist: []
+artist:
+  - Piérô
 playtime_minutes: 30
-min_playtime: 20
+min_playtime: 15
 max_playtime: 45
-min_age: 7
+min_age: 8
 
 description: |
-  River Dragons is a delightful simultaneous action programming game in which players race to cross the Mekong Delta by building bridges of planks and foundations. Each turn, all players secretly and simultaneously select five actions in order — placing stones, placing planks, moving their pawn, canceling another player's action, or removing planks — then reveal and execute them in sequence. The catch is that all planned moves must be committed before knowing what opponents chose, leading to gleefully disrupted plans as players' carefully laid bridges get removed by rivals. This reprint of the 2000 game Dragon Delta from Roberto Fraga maintains its charm as a light programming game full of chaotic surprises.
+  Race across a river by balancing wooden planks on stones to make a route. Everyone secretly programs five actions, then resolves them in player order: build, remove, move or cancel another color’s action. A safe-looking crossing may disappear before your pawn reaches it, so plans need room for interference and surprises. Everyone programs together, but actions are carried out in order rather than in real time. This record covers the Matagot reissue available in the U.S. in 2013, with a double-sided board. The earlier Dragon Delta has its own record; the changed 2025 product uses different edition details.
 
 upgrades: []

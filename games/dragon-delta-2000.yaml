@@ -1,0 +1,60 @@
+# Creator retrospective identifies Descartes original in 2000; an actual 2006
+# Shannon Appelcline review describes the original Eurogames game, 2–6 and
+# 30–75-minute guidance with single island board. Review was a supplied copy;
+# public search-index text consulted, direct RPGnet robots block not bypassed.
+# No original physical box/manual inspection or 2000 dated receipt. Art/age and
+# fixed bounds unknown; about 45 minutes is a provisional estimate. New Matagot
+# Piérô art, double-sided board and later timing guidance not transferred.
+# Preferred counts unknown; all experience ratings provisional.
+id: dragon-delta-2000
+name: Dragon Delta
+alternate_names:
+  - Les Dragons du Mékong
+year: 2000
+game_family: dragon-delta
+edition: Original Descartes/Eurogames game (2000); original physical printing/manual uninspected
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 2
+value: 2
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Route Building
+  - Racing
+  - Family
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+possible_counts:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+true_counts: []
+designer:
+  - Roberto Fraga
+publisher:
+  - Descartes
+  - Eurogames
+artist: []
+playtime_minutes: 45
+min_playtime: null
+max_playtime: null
+min_age: null
+description: |
+  Cross the river by building a path of stones and wooden planks while other players try to complete crossings of their own. Program actions in advance, then see how building, movement and interference change the routes before every planned action resolves. A useful bridge may help a rival, and a removed plank can undo a careful plan. This record represents Roberto Fraga’s original Descartes/Eurogames game, published in 2000. Its island-based board is distinct from the later double-sided River Dragons reissue. Original printing labels and art credits remain unverified; allow time for unpredictable movement and disrupted plans.
+base_game: null
+expansions: []
+compatible_with: []
+affinity: null
+hotness: null
+upgrades: []
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -351,3 +351,59 @@ availability in 2022 remains distinct. The publisher’s 10+ guidance replaces 1
 and the core concealed-versus-revealed deck decisions are explained. Original-printing
 misprints are not assigned to this later edition. Its solo mode is not multiplayer
 cooperation; all experience estimates remain provisional.
+
+### Original and reissued races and conquest games (2026-11-02)
+
+**Revolver (2011)** now represents White Goblin's original English game. Its
+copyright-2011 rules and contemporary Essen played comments resolve the former
+2009/Mike Doris identity: Mark Chaplin designed it and Chechu Nieto illustrated
+it. Carrascosa's graphics role is separate. Core rules were read through a public
+mirror, including alternating turns at the current battlefield and both gang
+victories, by train survival or Mexican Border tokens. The historical fan-rule
+URL currently describes Revolver 2 and was not adopted. Stronghold's 2012 review
+copy and expansion deck building are outside this selected base-game scope.
+
+**Ribbit (2007)** is SimplyFun's frog version of Knizia's **Schildkrötenrennen
+(2004)**, now separately recorded. The old 2004 CSV reference maps to the German
+turtle game, and a dated 2007 row covers the frogs. The creator bibliography and
+actual 2004/2007 played reviews support the distinction. Downloaded German rules
+say 6+/about twenty minutes and carry ©2003 / 01/0304; other sources list 5+.
+The selected manual guidance and unverified first-sale chronology remain explicit.
+Those rules make the bottom turtle win a finishing stack; that tiebreak is not
+silently assigned to the uninspected original SimplyFun English manual. Original
+edition art credits remain unknown rather than copied from an aggregate list.
+
+The official [CPSC recall 08-056](https://www.cpsc.gov/Recalls/2007/simplyfun-recalls-ribbit-board-games-due-to-risk-of-lead-exposure),
+dated October 31, 2007, identifies specified SimplyFun frog pieces sold from March
+through October 2007 with excess lead in their paint. The official indexed notice
+was read; direct retrieval returned 403. The affected edition's description points
+readers to that notice. Its scope is not extended to replacement pieces or turtle
+editions, and no present remedy availability is promised.
+
+**La Conquête du Monde (1957)** now represents Miro's French original, and the
+retained **Risk (1959)** explicitly represents Parker Brothers' original U.S.
+edition. The old 1957 CSV reference maps to the French record; a dated 1959 row
+covers Parker. Museum history, an independent historical catalog and a public
+French rules scan support the original identity; the exact scanned printing and
+original age remain unknown. The original Parker manual was read as a third-party
+transcription, including its 1959 copyright/proof marking and three-to-six-player
+rules. A modern reproduction includes later two-player neutral-army rules; those
+are not substituted for the original. Original defense is limited to two dice,
+despite six dice being supplied. The unsupported universal historical-first claim
+was removed. **Risk 2210 A.D., Godstorm and Legacy** supply complete games, so
+their false base-game/expansion links were cleared while retaining their family.
+Their other specifications were not re-reviewed in this relationship-only change.
+
+**Dragon Delta (2000)** now represents the original Descartes/Eurogames game, and
+**River Dragons (2013)** represents the Matagot reissue demonstrably available in
+the U.S. that year. The old 2000 reference maps to Dragon Delta; an explicit 2013
+row covers the retained reissue. Creator history and an actual original-game
+review support Dragon Delta; original labels/art remain unverified. The review's
+public indexed text was read without bypassing its direct robots denial. The
+creator's reissue page has a 2013 heading but says 2012 in its body; U.S. trade
+and February 2013 played evidence establish the selected scope without claiming
+a first European release date. Creator-hosted French Matagot rules give Piérô,
+8+/15–45, versus creator web 7+/<30. English physical labels remain uninspected.
+The later 2020 product-listing date and distinct 2025 SKU are not first-release
+evidence. All experience estimates remain provisional. This batch appends 29
+evidence entries, preserving all earlier bytes.

@@ -2579,12 +2579,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 14982,Revenge of the Dinosaurs,,boardgame,,,
 332772,Revive,2022,boardgame,,,
 2213,Revolt On Antares,,boardgame,,,
-76150,Revolver,2011,boardgame,,,
+76150,Revolver,2011,boardgame,,"White Goblin original English2011 established by copyright rules and contemporary actual Essen play; designer Chaplin/illustrator Nieto restored. Stronghold2012 and Revolver2 not merged. Fixed decks, alternating turns and both gang victory routes restored.",revolver
 104363,Rex: Final Days of an Empire,,boardgame,,,rex-final-days-of-an-empire
 111,Rheinländer,1999,boardgame,,,rheinlander
 91514,Rhino Hero,,boardgame,,,
 218333,Rhino Hero Super Battle,2017,boardgame,,,rhino-hero-super-battle
-9441,Ribbit,2004,boardgame,,,
+9441,Ribbit,2004,boardgame,,"Generic2004 reference represents original Knizia Winning Moves German Schildkrötenrennen, not SimplyFun frog2007. Creator bibliography and actual2004 play establish selected2004 issue; rule footer copyright2003 does not certify first sale. Separate2007 frog row added.",schildkrotenrennen-2004
 3554,Rich Uncle,1946,boardgame,,,
 25277,Richard III: The Wars of the Roses,,boardgame,,,richard-iii-the-wars-of-the-roses
 1711,Richthofen's War,,boardgame,,,richthofens-war
@@ -2601,13 +2601,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 137297,Rise of Augustus,,boardgame,,,
 111866,Rise!,,boardgame,,,
 ,RisiKo!,,boardgame,,,
-181,Risk,1957,boardgame,,,
+181,Risk,1957,boardgame,,"Original1957 reference now explicitly maps to Miro French La Conquête du Monde, separate from Parker1959 Risk. Museum/history and original French scan support identity; exact scanned printing/age unknown. Explicit1959 row retains Parker record.",la-conquete-du-monde-1957
 1829,Risk 2210 A.D.,,boardgame,,,risk-2210-ad
 10383,Risk Godstorm,,boardgame,,,
 105134,Risk Legacy,2011,boardgame,,,
 17118,Rithmomachia,,boardgame,,,
 373055,Ritual,2022,boardgame,,,
-634,River Dragons,2000,boardgame,,,
+634,River Dragons,2000,boardgame,,"Original2000 reference now maps to Descartes/Eurogames Dragon Delta, from creator history and actual original-game review. Later Matagot reissue has separate2013 U.S.-available row; creator2012/2013 chronology conflict remains explicit.",dragon-delta-2000
 ,River of Gold,2024,boardgame,,,
 2573,"Rivers, Roads & Rails",,boardgame,,,rivers-roads-and-rails
 ,Riviera Quest,1989,boardgame,,,
@@ -4275,3 +4275,6 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Pony Express,1947,boardgame,,"Explicit older Polygon/Bratt U.S. game from museum artifact and AGPI catalog; unrelated to Funforge 2009 race. Original rules inaccessible, so unsupported counts, age, duration and precise ending remain unknown.",pony-express
 ,Push,2018,boardgame,,"Explicit Ravensburger North America/Prospero Hall card game, English USe01 copyright-2018 rules and independent release chronology. Separate from Mühlhäuser wooden game; banking, busts and roll-card risks restored.",push
 ,Rebel Princess: Deluxe Edition,2024,boardgame,,"Explicit Bézier English Deluxe BEZRPDX (2024), distinct from concurrent standard and original Spanish editions; publisher-linked preview, contemporary product/development evidence and actual-play review consulted. Generic 2024 reference stays pending without SKU. Physical English age/time labels uninspected; conflicting guidance retained.",rebel-princess
+,Ribbit,2007,boardgame,,"Explicit SimplyFun English frog issue2007, creator bibliography and contemporary child play. CPSC08-056 applies specified original2007 frog pieces; recall not extended to replacements or turtles. Art/finish-stack rule/original printing labels unknown.",ribbit
+,Risk,1959,boardgame,,Explicit Parker Brothers original U.S.1959 scope from copyright1959 3–6 rules and museum chronology. Later reproduction two-player variant not universalized. Three standalone relatives no longer labeled required expansions.,risk
+,River Dragons,2013,boardgame,,"Explicit Matagot English reissue with actual U.S. availability2013, separate from originalDragonDelta2000 and new2025SKU. Creator2012body/2013heading conflict and French8+ versus web7+ remain explicit; original English box uninspected.",river-dragons

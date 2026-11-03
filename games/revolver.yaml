@@ -1,20 +1,29 @@
+# Primary copyright-2011 English rules read via public mirror: core setup, turns,
+# objectives and credits; not all biographies/card appendices. Mark Chaplin design,
+# Chechu Nieto illustration; Xavier Carrascosa is graphics, not an inferred illustrator.
+# Contemporary Essen 2011 played comments corroborate White Goblin availability;
+# Stronghold review copy is from 2012. Replaces false Mike Doris/2009 identity.
+# 12+ is manual guidance; about 45 minutes and experience/preferred count estimates
+# are provisional. Unsupported duration bounds removed. Fixed base decks do not
+# imply drafting/deck building; two opposing players are not one versus many.
+# Old fan-rule URL now describes Revolver 2, so its rules are not imported.
 id: revolver
 name: "Revolver"
 alternate_names: []
-year: 2009
+year: 2011
 
 # Relationships
-game_family: null
-edition: null
+game_family: revolver
+edition: White Goblin Games original English base game (2011), copyright-2011 rules consulted via mirror
 base_game: null
 expansions: []
 compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Short
-rules_complexity: 1  # Simple
+rules_complexity: 2
 strategic_depth: 2  # Moderate
-feel: 3  # Competitive
+feel: 4
 value: 2  # Standard
 
 affinity: null
@@ -23,10 +32,8 @@ hotness: null
 categories:
   - Hand Management
   - Asymmetric
-  - Variable Player Powers
   - Western
-  - 1 vs Many
-  - Card Drafting
+  - Take That
 
 evokes:
   - Rivalry
@@ -39,16 +46,17 @@ possible_counts: [2]
 true_counts: [2]
 
 designer:
-  - Mike Doris
+  - Mark Chaplin
 publisher:
-  - Stronghold Games
-artist: []
+  - White Goblin Games
+artist:
+  - Chechu Nieto
 playtime_minutes: 45
-min_playtime: 30
-max_playtime: 60
-min_age: 13
+min_playtime: null
+max_playtime: null
+min_age: 12
 
 description: |
-  Revolver is an asymmetric two-player card game set in the Wild West, pitting the infamous Colty gang against Colonel McReady and his posse across multiple battlefields. One player controls Jack "The Crow" Colty and his 15 gang members trying to reach the 3:15 train to escape, while the other controls the law enforcement trying to bring the outlaws to justice before they flee. Each player manages a distinct deck with unique cards featuring power and cost values, fighting simultaneously through different battlefield zones. The game delivers a tense cat-and-mouse experience with a satisfying thematic integration of Wild West tropes.
+  Play out a western chase as the Colty gang or Colonel McReady’s lawmen. Each side has its own fixed deck, and playing a valuable card can mean discarding other useful cards to pay for it. Take alternating turns at the current battlefield as the chase moves toward the train. The lawmen win by killing all sixteen bandits; the gang can win by surviving the final train turn or by removing all twelve Mexican Border tokens. The sides have different pressures, so learning the card effects and anticipating the opponent matter. This record covers the original White Goblin English base game; expansion deck-building rules and the separate Revolver 2 are outside its scope.
 
 upgrades: []

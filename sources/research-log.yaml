@@ -13852,3 +13852,191 @@ entries:
       exclusion now blocks that inference while explicit Deluxe row remains covered.
       This is a review clarification, not a new page retrieval or proof of a physical
       printing.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: revolver
+    url: https://printgames.ru/wp-content/uploads/2019/07/011_REVOLVER_Rulebook_ENG_web.pdf
+    description: 'Downloaded 12-page primary English manual via public mirror; read
+      core setup/objectives/turns and credits, not all biographies/card appendices.
+      Copyright 2011 White Goblin: Mark Chaplin design, Chechu Nieto illustration, Carrascosa
+      graphics; 2/12+, alternating current-battlefield turns, fixed 62-card decks, 16
+      bandits and both train/border gang victories.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: revolver
+    url: https://www.hall9000.de/html/messe/2011/2/6941
+    description: Read indexed October 2011 Essen played comments for White Goblin Revolver,
+      corroborating actual 2011 availability. Current aggregate metadata/other-edition
+      graphics credits not treated as original illustrator evidence.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: revolver
+    url: https://www.boardgamereviewsbyjosh.com/2012/04/revolver-review.html
+    description: Directly read April 2012 actual-play review of Stronghold-supplied
+      copy; corroborates asymmetrical hand management and chase but does not date Stronghold
+      issue to 2011.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: revolver
+    url: https://www.ultraboardgames.com/revolver/game-rules.php
+    description: 'Checked historical log URL: indexed content actually describes Revolver
+      2 with Mapache/Padre Esteban, not Colty/McReady original. Its rules are not adopted
+      for this record; earlier evidence retained unchanged.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: ribbit
+    url: https://knizia.de/wp-content/uploads/reiner/pdfs/List-Games.pdf
+    description: 'Downloaded creator bibliography and read relevant rows only: SimplyFun
+      Ribbit English 2007 versus Winning Moves Schildkrötenrennen German 2004. Corrects
+      unsupported Gamewright publisher and missing Knizia credit; does not establish
+      original frog art.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: ribbit
+    url: https://www.majorfun.com/ribbit/
+    description: 'Directly read Bernie DeKoven June 27 2007 family-play account, despite
+      later site-update date: SimplyFun frog race, 5+ guidance, secret colors, card
+      hand, stack riding and child interaction. Exact finish-stack tiebreak not stated;
+      no turtle rule assumed to transfer.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: ribbit
+    url: https://taogaming.wordpress.com/2007/05/06/more-simplyfun/
+    description: Read actual May 6 2007 family-play account of SimplyFun Ribbit, described
+      as Knizia turtle-game reissue; confirms availability rather than merely a planned
+      release.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: ribbit
+    url: https://www.cpsc.gov/Recalls/2007/simplyfun-recalls-ribbit-board-games-due-to-risk-of-lead-exposure
+    description: Read official indexed full CPSC notice 08-056, October 31 2007; direct
+      page 403. Identifies about 1500 SimplyFun copies sold March–October 2007, excess
+      lead in five wooden frog pieces and instruction to stop using affected pieces.
+      Scope not extended to replacements/turtle editions; present remedy availability
+      unverified.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: schildkrotenrennen-2004
+    url: https://knizia.de/wp-content/uploads/reiner/pdfs/List-Games.pdf
+    description: 'Relevant creator bibliography row directly read: Winning Moves German
+      Schildkrötenrennen 2004, distinct from SimplyFun English Ribbit 2007.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: schildkrotenrennen-2004
+    url: https://winningmoves.de/media/76/fc/9a/1625744753/Schildkro-tenrennen_Regel-D.pdf
+    description: 'Downloaded and read both pages of publisher German rules: 2–5/6+/about20,
+      secret randomly drawn color, five-card hand, riders move with supporting turtle,
+      bottom turtle wins finishing stack, optional open colors. Footer copyright2003
+      / 01/0304 does not certify exact first sale; art credit absent.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: schildkrotenrennen-2004
+    url: https://www.spiel-des-jahres.de/spiele/schildkroetenrennen/
+    description: 'Read official jury reference: 2–5,5+ listed and jury recommends6,about20;
+      confirms bottom turtle finish and family-play demands. 2005 nomination date not
+      mistaken for publication.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: schildkrotenrennen-2004
+    url: https://www.hall9000.de/html/spiel/schildkroetenrennen
+    description: Read actual Frank Gartner July31 2004 play review, Winning Moves Germany/Knizia,2–5/5+/10–15;
+      contemporary 2004 availability. Cross-edition aggregated art list not assigned
+      to original.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: schildkrotenrennen-2004
+    url: https://opacportal.bistum-muenster.de/ochtrup/?detail=24&page=3&searchhash=OCLC_4e6cf021398f1123b78cadb439d603132540519e&top=y
+    description: Read indexed physical-library catalog listing2003; conflicts with creator2004
+      bibliographic issue and actual2004 review. Kept date limitation explicit rather
+      than claiming exact original first-sale chronology.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: risk
+    url: https://manualzz.com/doc/23823326/parker-brothers-risk-board-game-user-manual
+    description: 'Read primary1959 manual as third-party transcription, not original
+      PDF pixels: copyright1959/Feb26 proof,3–6, total conquest, maximum3 attack and2
+      defense dice despite six supplied. Later neutral-army two-player and secret-mission
+      variants not imported.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: risk
+    url: https://www.museumofplay.org/toys/risk/
+    description: Read Strong museum historical account distinguishing Lamorisse French1957
+      original from Parker1959 Risk. Universal first-multiplayer-strategy assertion
+      not repeated.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: risk
+    url: https://m.media-amazon.com/images/I/C1UJfcmjylL.pdf
+    description: Downloaded Winning Moves modern1959 reproduction rules and read relevant
+      history/count/variant sections. Reprint includes two-player neutral rules, so
+      it is not substituted for original1959 3–6 specifications; history corroborates1957/1959
+      distinction.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: la-conquete-du-monde-1957
+    url: https://www.museumofplay.org/toys/risk/
+    description: Museum history establishes Lamorisse French1957 predecessor to Parker1959.
+      Original French physical printing/art/age not verified by this article.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: la-conquete-du-monde-1957
+    url: https://www.giochidelloca.it/storia/worldgames.pdf
+    description: 'Downloaded LudoSophia historical catalog and read authored La Conquête
+      du Monde entry: MiroParis1957,Lamorisse,3–6,42territories/sixcontinents, reinforcement
+      and total-conquest system. Vernes refinement mention not elevated to certain original
+      co-design. Included BGG references not used to import metadata.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: la-conquete-du-monde-1957
+    url: https://www.ludism.fr/ludism_download.php?id=10300
+    description: 'Downloaded public scan of French La Conquête du Monde rules; text
+      consulted for core system and first two pages pixel-read: Miro cover,3–6,component
+      list and total-conquest objective. Exact printing date not certified; six dice
+      alone not evidence of three-die defense.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: risk-2210-ad
+    url: https://hobbygames.ru/download/rules/risk.pdf
+    description: 'Read core cover/components from copyright2001 RISK2210A.D. manual
+      via public mirror: Earth/Moon boards, armies,dice,cards and own rules supplied;
+      standalone. Only false base_game relationship corrected, other existing metadata
+      unreviewed.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: risk-godstorm
+    url: https://cdn.1j1ju.com/medias/57/2b/4a-risk-godstorm-rulebook.pdf
+    description: Downloaded17-page raster original manual via mirror; pixel-read cover/map/components
+      pages0–2 only. Own Earth/Underworld boards, armies,dice,cards/rules establish
+      complete standalone box. Only false base_game relationship corrected; other existing
+      metadata unreviewed.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: risk-legacy
+    url: https://www.hasbro.com/common/documents/dad2886d1c4311ddbd0b0800200c9a66/00D721465056900B10A16E11F8F54E7F.pdf
+    description: Read cached primary Hasbro core cover/component instructions; direct
+      PDF403. Included board,armies,dice,cards and rules establish standalone game.
+      No sealed legacy spoilers consulted. Only false base_game corrected; remaining
+      metadata unreviewed.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: river-dragons
+    url: https://fragames.com/en/game/river-dragons/
+    description: 'Directly read creator retrospective: heading2013/bodyreissue2012 conflict,
+      DescARTES original2000,Matagot reissue/Piérô,2–6/7+/<30. Selected documented2013
+      U.S. issue; European first-release chronology not certified.'
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: river-dragons
+    url: https://fragames.com/wp-content/uploads/2020/05/DRAGONS-REGLES-FR.pdf
+    description: Downloaded/read both pages creator-hosted undated French Matagot reissue
+      rules, not original Dragon Delta:2–6/8+/15–45,Fraga/Piérô,double-sided board,five
+      programmed actions resolved in order. URL2020 upload not publication date; exact
+      English physical label uninspected.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: river-dragons
+    url: https://icv2.com/articles/news/view/24798/new-serenissima-river-dragons
+    description: Read January16 2013 U.S. trade announcement for Asmodee/Matagot reissue;
+      confirms planned2013 U.S. release and double board. Separate Serenissima shorter-duration
+      statement not assigned to River Dragons.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: river-dragons
+    url: https://drakesflames.blogspot.com/2013/02/board-game-review-river-dragons.html
+    description: Read indexed actual February11 2013 played review, establishing finished-copy
+      availability, programmed plans and disrupted routes. One reviewer’s component
+      complaint not universal consensus or original manufacturing proof; offensive phrasing
+      not reproduced.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: river-dragons
+    url: https://www.matagot.com/en/family-games/223-552-river-dragons.html
+    description: Read publisher product technical sheet for SKU3760146640122/MATDRA001012:Piérô,2–6/8+/30
+      with later2020-04-23 listing date. Does not establish first reissue date. Separate2025
+      changed SKU not merged.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: dragon-delta-2000
+    url: https://fragames.com/en/game/river-dragons/
+    description: Creator retrospectively identifies original Descartes game in2000 and
+      later Matagot reissue. New reissue’s artist/age/time not inferred for original.
+  - timestamp: '2026-11-03T00:31:52Z'
+    game_id: dragon-delta-2000
+    url: https://www.rpg.net/reviews/archive/12/12401.phtml
+    description: Read publicly indexed August16 2006 Shannon Appelcline supplied-copy
+      review of original Eurogames/Descartes Dragon Delta, year2000,2–6,30–75 guidance,stones/planks/programming
+      and island board. Direct robots denial not bypassed. Original printing/manual/age/art
+      remain unverified.
